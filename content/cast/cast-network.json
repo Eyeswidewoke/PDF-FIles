@@ -1507,7 +1507,8 @@
         }
       ],
       "tier": 4,
-      "epstein_tier": "Enabler"
+      "epstein_tier": "Enabler",
+      "dossier": "acosta.html"
     },
     {
       "slug": "brad-s-karp",
