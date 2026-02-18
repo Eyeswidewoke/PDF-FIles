@@ -1,46 +1,84 @@
 # The PDF Files
 
-Public, source-linked research archive built from a large document release and packaged as a static site.
+Static, source-linked research archive built from publicly released materials.
 
-## Quick links
+License: **Unlicense** (public-domain dedication). Fork, mirror, and reuse freely.
 
+## Start here
+
+- Mission: make a large, noisy document release searchable, traceable, and reviewable.
 - Live site: `https://eyeswidewoke.github.io/PDF-FIles/`
-- Main index: `index.html`
-- Search: `search.html`
-- Release guide: `release-guide.html`
+- Repository: `https://github.com/Eyeswidewoke/PDF-FIles`
+- ZIP snapshot (main): `https://github.com/Eyeswidewoke/PDF-FIles/archive/refs/heads/main.zip`
 
-## Project goals
+## Table of contents
 
-- Make a very large document release searchable and navigable
-- Keep source traceability intact (`claim -> document`)
-- Separate high-signal material from blank/wrapper noise
-- Keep the stack static and easy to mirror
+- [What this project is](#what-this-project-is)
+- [What this project is not](#what-this-project-is-not)
+- [Repository layout](#repository-layout)
+- [Methods and reproducibility](#methods-and-reproducibility)
+- [Mirroring and sharing](#mirroring-and-sharing)
+- [Contributing](#contributing)
+- [Security](#security)
+- [Legal and ethics](#legal-and-ethics)
+- [Local preview](#local-preview)
+- [GitHub Pages deployment](#github-pages-deployment)
+- [Maintenance and releases](#maintenance-and-releases)
 
-## What is in this repo
+## What this project is
 
-- Static site pages (`*.html`, `*.js`, `styles.css`)
-- Structured content under `content/`
-- Data/index inputs under `data/`
-- Sanitized Pages deploy workflow at `.github/workflows/pages.yml`
+- A static site (`*.html`, `*.js`, `styles.css`) with searchable and linked research pages.
+- A structured content tree under `content/` and `data/`.
+- A fork-friendly publishing setup with sanitized GitHub Pages deployment.
 
 Approximate working set: **~103,000 files / ~811 MB** after exclusion rules.
 
-## Known limitations
+## What this project is not
 
-- Many heavy scan-image binaries are intentionally excluded from git for size control.
-- Some viewer links may show "not included in this public bundle" if a source artifact is not shipped.
-- OCR quality depends on original scan quality.
-- Name presence in source documents is not, by itself, a legal conclusion.
+- Not a prosecutorial finding or legal adjudication.
+- Not a complete binary mirror of every source artifact.
+- Not a claim that any mention in source text implies guilt or wrongdoing.
 
-## Processing summary
+## Repository layout
 
-1. Ingest release packages and map dataset structure.
-2. Normalize inconsistent source formats into stable records.
-3. Extract embedded text and run OCR where needed.
-4. Identify blanks, wrappers, and duplicates.
-5. Build topic/entity pages and cross-links.
-6. Export static indexes used by the site UI.
-7. Apply privacy hardening before publication.
+- `index.html` main entry point
+- `search.html` cross-site search UI
+- `release-guide.html` release/package orientation
+- `content/` source-linked markdown artifacts and structured pages
+- `data/public-data.json` dataset and mirror link definitions
+- `.github/workflows/pages.yml` sanitized Pages deploy workflow
+
+## Methods and reproducibility
+
+Method definitions and reproducibility notes are here:
+
+- `METHODS.md` counting rules, OCR, dedupe, and assumptions
+- `DATA_SOURCES.md` source package map and integrity workflow
+- `CITATION.md` how to cite findings and doc IDs
+
+## Mirroring and sharing
+
+- Quick mirror instructions: `MIRROR.md`
+- Use GitHub Releases/tags for immutable snapshots
+- Keep references pinned to tag URLs when publishing externally
+
+## Contributing
+
+- Contribution workflow: `CONTRIBUTING.md`
+- Issue templates included:
+- broken links/missing artifacts
+- doc-ID mapping corrections
+- OCR/text extraction errors
+
+## Security
+
+- Vulnerability reporting process: `SECURITY.md`
+- Do not post exploit details in public issues
+
+## Legal and ethics
+
+- Legal scope and interpretation boundaries: `LEGAL.md`
+- Privacy and handling standards: `ETHICS.md`
 
 ## Local preview
 
@@ -52,20 +90,20 @@ python -m http.server 8000
 
 Then open `http://localhost:8000`.
 
-## Deploy on GitHub Pages
+## GitHub Pages deployment
 
 This repository deploys via GitHub Actions:
 
-1. Push to `main`
-2. In GitHub, set `Settings -> Pages -> Source` to `GitHub Actions`
-3. Let `.github/workflows/pages.yml` build and deploy
+1. Push to `main`.
+2. In GitHub, set `Settings -> Pages -> Source` to `GitHub Actions`.
+3. Let `.github/workflows/pages.yml` build and deploy.
 
-The workflow publishes a sanitized artifact and excludes internal repo metadata files from the public Pages output.
+The workflow publishes a sanitized artifact and excludes internal repo metadata files from public Pages output.
 
-## Updating source links
+## Maintenance and releases
 
-- Dataset/mirror link definitions are in `data/public-data.json`.
-- Update that file and redeploy to refresh links across pages.
+- Changelog: `CHANGELOG.md`
+- Release notes should include scope changes, count deltas, known gaps, and integrity/checksum notes.
 
 ## License
 
