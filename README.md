@@ -1,9 +1,9 @@
 # THE PDF FILES
 
-### 900,000+ pages of official DOJ Epstein case files — searchable, cross-referenced, and fully indexed. Every name. Every flight. Every dollar. Every deposition.
+### 900,000+ official DOJ documents containing over 3 million pages of Epstein case files — searchable, cross-referenced, and fully indexed. Every name. Every flight. Every dollar. Every deposition.
 
 [![Live Site](https://img.shields.io/badge/🔴_LIVE-eyeswidewoke.github.io%2FPDF--FIles-c62828?style=for-the-badge)](https://eyeswidewoke.github.io/PDF-FIles/)
-[![Pages](https://img.shields.io/badge/pages-900%2C000%2B-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
+[![Documents](https://img.shields.io/badge/documents-900%2C000%2B-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
 [![Words Indexed](https://img.shields.io/badge/words-343_million-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
 [![Key Figures](https://img.shields.io/badge/key_figures-99-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue?style=flat-square)](./LICENSE)
@@ -15,7 +15,7 @@
 
 ## The Epstein Files. All of Them. Exposed.
 
-On January 9, 2025, the U.S. Department of Justice unsealed over **900,000 pages** of official case files from the Jeffrey Epstein investigation. Flight logs, financial records, depositions, FBI reports, victim statements, and communications involving some of the most powerful people on Earth.
+On January 9, 2025, the U.S. Department of Justice unsealed over **900,000 official documents** — containing more than **3 million pages** — from the Jeffrey Epstein investigation. Flight logs, financial records, depositions, FBI reports, victim statements, and communications involving some of the most powerful people on Earth.
 
 Most people will never read them. They were released as raw, unsearchable PDFs — thousands of files buried across 12 separate datasets. That's by design.
 
@@ -31,7 +31,8 @@ Most people will never read them. They were released as raw, unsearchable PDFs �
 
 | Metric | Count |
 |--------|-------|
-| 📄 Official DOJ pages | **900,000+** |
+| 📄 Official DOJ documents | **900,000+** |
+| 📄 Total pages across all documents | **3,000,000+** |
 | 📝 Words indexed | **343 million** |
 | 📁 Searchable artifacts | **58,999** |
 | 📦 DOJ datasets processed | **12** |
