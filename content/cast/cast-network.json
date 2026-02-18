@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-02-12T11:12:15",
-  "total_cast": 97,
+  "total_cast": 148,
   "categories": {
     "01_Family": {
       "label": "Trump Family",
@@ -138,6 +138,21 @@
         "precedent"
       ],
       "count": 2
+    },
+    "08_Epstein_Network": {
+      "label": "Epstein Network (DOJ Section 3)",
+      "icon": "⚖️",
+      "color": "#c62828",
+      "description": "Individuals from the DOJ Section 3 Report cross-referenced against 2M+ extracted pages, classified by the Complicity Gradient",
+      "relationships": [
+        "co-conspirator",
+        "collaborator",
+        "enabler",
+        "associate",
+        "acquaintance",
+        "ambient"
+      ],
+      "count": 51
     }
   },
   "members": [
@@ -1487,7 +1502,9 @@
           "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
           "label": "extract-prosecution-raw"
         }
-      ]
+      ],
+      "tier": 4,
+      "epstein_tier": "Enabler"
     },
     {
       "slug": "brad-s-karp",
@@ -2380,7 +2397,9 @@
         ]
       },
       "connection_count": 1,
-      "topic_mentions": []
+      "topic_mentions": [],
+      "tier": 6,
+      "epstein_tier": "Active Collaborator"
     },
     {
       "slug": "leslie-wexner",
@@ -2423,7 +2442,9 @@
           "file": "topics\\06-locations\\extract-ohio-raw.md",
           "label": "extract-ohio-raw"
         }
-      ]
+      ],
+      "tier": 6,
+      "epstein_tier": "Active Collaborator"
     },
     {
       "slug": "masha-drokova",
@@ -2865,6 +2886,577 @@
       },
       "connection_count": 0,
       "topic_mentions": []
+    },
+    {
+      "slug": "alan-dershowitz",
+      "name": "Alan Dershowitz",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-alan-dershowitz.md",
+      "summary": "Harvard Law professor; Epstein defense attorney. Victim testimony: oral sex allegation. FBI positive case hit. Epstein coached his defense. Cellmate interview. Tier 6 — Active Collaborator.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 6,
+      "dossier": "dershowitz.html"
+    },
+    {
+      "slug": "lesley-groff",
+      "name": "Lesley Groff",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-lesley-groff.md",
+      "summary": "Epstein's executive assistant. 28,757 emails — second only to Epstein. Operational backbone: coordinated all visits, travel, scheduling. 30,930 recovered documents. Tier 6 — Active Collaborator.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 6,
+      "dossier": "groff.html"
+    },
+    {
+      "slug": "prince-andrew",
+      "name": "Prince Andrew",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-prince-andrew.md",
+      "summary": "Duke of York. FBI positive case hit. Victim testimony: directed to have sex with Andrew. 992 emails. Maxwell admitted Andrew met victim at her house. Settled civil suit. Tier 6 — Active Collaborator.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 6,
+      "dossier": "andrew.html"
+    },
+    {
+      "slug": "glenn-dubin",
+      "name": "Glenn Dubin",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-glenn-eva-dubin.md",
+      "summary": "Hedge fund billionaire. FBI positive case hit. Victim testimony: named directly as sex partner. 1,103 emails. Cellmate interview list. Tier 6 — Active Collaborator.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 6,
+      "dossier": "dubin.html"
+    },
+    {
+      "slug": "jean-luc-brunel",
+      "name": "Jean-Luc Brunel",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-jean-luc-brunel.md",
+      "summary": "French modeling agent. Indicted (2020, France). Died in custody Feb 2022. FBI documented MC2 as sex trafficking front. Principal supplier of underage girls. Tier 7 — Co-Conspirator.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 7,
+      "dossier": "brunel.html"
+    },
+    {
+      "slug": "sarah-kellen",
+      "name": "Sarah Kellen",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-sarah-kellen.md",
+      "summary": "Named co-conspirator in federal investigations. Epstein's primary scheduler — 937 emails. Granted immunity in 2008 NPA. Tier 7 — Co-Conspirator.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 7,
+      "dossier": "kellen.html"
+    },
+    {
+      "slug": "bill-clinton",
+      "name": "Bill Clinton",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-bill-hillary-clinton.md",
+      "summary": "42nd President. Sworn testimony: helicopter to Little St. James. Cellmate interview reference. FBI informant: Clinton on Epstein's plane with underage girls (hearsay). 488 emails. Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5,
+      "dossier": "clinton.html"
+    },
+    {
+      "slug": "hillary-clinton",
+      "name": "Hillary Clinton",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-bill-hillary-clinton.md",
+      "summary": "Former Secretary of State. Named on DOJ Section 3 list. Referenced in defense strategy. No direct personal communications with Epstein found. Tier 3 — Aware.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "chelsea-clinton",
+      "name": "Chelsea Clinton",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-chelsea-clinton.md",
+      "summary": "Named on DOJ Section 3 list. Father's extensive Epstein connection documented. Maxwell described as close to the Clinton family. Tier 3 — Aware.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "donald-trump",
+      "name": "Donald Trump",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-donald-trump.md",
+      "summary": "45th/47th President. FBI: one identified victim claimed abuse by Trump. FBI complaint intake: rape allegation at age 13. Message pads: called Epstein's Palm Beach mansion. Victim recruited at Mar-a-Lago. 676 docs. Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5,
+      "dossier": "trump.html"
+    },
+    {
+      "slug": "ehud-barak",
+      "name": "Ehud Barak",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-ehud-barak.md",
+      "summary": "Former Israeli PM. Victim testimony: directed to have sex with Barak at Epstein's Palm Beach house. Named in sworn testimony (EFTA00206173). Off-the-record dinner with Clinton/Bannon. Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5,
+      "dossier": "israel.html"
+    },
+    {
+      "slug": "bill-richardson",
+      "name": "Bill Richardson",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-bill-richardson.md",
+      "summary": "Governor of New Mexico (deceased). Named directly in victim sworn testimony as person she was directed to have sex with. Zorro Ranch in his state. 300 recovered documents. Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5
+    },
+    {
+      "slug": "george-mitchell",
+      "name": "George Mitchell",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-george-mitchell.md",
+      "summary": "Former Senate Majority Leader. Named directly in victim sworn testimony as senator she was directed to have sex with (EFTA00206173). Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5
+    },
+    {
+      "slug": "kathy-ruemmler",
+      "name": "Kathy Ruemmler",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-kathy-ruemmler.md",
+      "summary": "Obama White House Counsel, later Goldman Sachs GC. 985 emails to Epstein. Sent bullet points to discredit Virginia Giuffre. Proposed for off-the-record Clinton-Bannon dinner. Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5
+    },
+    {
+      "slug": "david-copperfield",
+      "name": "David Copperfield",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-david-copperfield.md",
+      "summary": "Illusionist. FBI positive case hit. Named in message pads from Epstein's home alongside Trump, Weinstein. Attorney considered deposing Copperfield. Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5
+    },
+    {
+      "slug": "jes-staley",
+      "name": "Jes Staley",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-jes-staley.md",
+      "summary": "Former JPMorgan/Barclays CEO. 583 emails to Epstein. FBI positive case hit. Gates DAF $100M proposal. JPMorgan paid $365M in Epstein settlements. Left Barclays 2021. Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5
+    },
+    {
+      "slug": "harvey-weinstein",
+      "name": "Harvey Weinstein",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-harvey-weinstein.md",
+      "summary": "Former film producer. Convicted sex trafficker (2020). FBI positive case hit. Named in message pads from Epstein's home. Referenced in crisis PR emails. Tier 5.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 5
+    },
+    {
+      "slug": "bill-gates",
+      "name": "Bill Gates",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-bill-gates.md",
+      "summary": "Microsoft co-founder. FBI no hit but extensive post-conviction engagement. Gates DAF — Epstein designed $100M philanthropy vehicle. 798 recovered documents. Tier 4 — Enabler.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4,
+      "dossier": "gates.html"
+    },
+    {
+      "slug": "boris-nikolic",
+      "name": "Boris Nikolic",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-boris-nikolic.md",
+      "summary": "Gates' chief science advisor. 1,624 emails to Epstein. Named successor executor in Epstein's will. Covert coordination with Gates via blind carbon copies. 2,379 co-occurrence docs. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "tom-pritzker",
+      "name": "Tom Pritzker",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-tom-pritzker.md",
+      "summary": "Hyatt Hotels billionaire. Epstein arranged meetings: Gates to Black at Apollo. Forwarded Barak/Clinton intel articles to Epstein. Israeli defense discussions. Post-conviction engagement. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "joi-ito",
+      "name": "Joi Ito",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-joi-ito.md",
+      "summary": "MIT Media Lab Director. 902 emails in Epstein network. Accepted post-conviction funding for MIT. Internal MIT review found violations. Resigned 2019. 2,045 mentions. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "deepak-chopra",
+      "name": "Deepak Chopra",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-deepak-chopra.md",
+      "summary": "Author/wellness guru. 625 emails to Epstein. Regular visits to 71st Street through August 2018, less than 1 year before arrest. Visits coordinated through Groff. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "peggy-siegal",
+      "name": "Peggy Siegal",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-peggy-siegal.md",
+      "summary": "NYC PR/party planner. Social rehabilitation of Epstein post-conviction. Connected Epstein to Hollywood fundraisers. Emailed Barr about charity events. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "mike-sitrick",
+      "name": "Mike Sitrick",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-mike-sitrick.md",
+      "summary": "Crisis PR specialist. Coordinated media response with Epstein's legal team. Drafted statement denying pedophilia allegations. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "david-boies",
+      "name": "David Boies",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-david-boies.md",
+      "summary": "Attorney. Represented victims but also had complex relationship with Epstein network. Named on DOJ Section 3 list. Connected to multiple investigations. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "ken-starr",
+      "name": "Ken Starr",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-ken-starr.md",
+      "summary": "Special prosecutor (Clinton investigation), later Epstein defense attorney. Represented Epstein in plea negotiations. Epstein name-dropped alongside Clinton. Died 2022. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "darren-indyke",
+      "name": "Darren Indyke",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-darren-indyke.md",
+      "summary": "Epstein's personal attorney. $250,000 wire transfer in single QuickBooks entry. Co-executor of Epstein's estate. Estate refuses to share records with FBI. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "richard-kahn",
+      "name": "Richard Kahn",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-richard-kahn.md",
+      "summary": "Financial manager. 6,328 emails — 3rd most in entire Epstein network. Managed finances, coordinated with Groff on all financial operations. Tier 4.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 4
+    },
+    {
+      "slug": "noam-chomsky",
+      "name": "Noam Chomsky",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-noam-chomsky.md",
+      "summary": "MIT linguist/activist. Met with Epstein multiple times post-conviction. Confirmed meetings about political and academic matters. Scheduling emails. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "woody-allen",
+      "name": "Woody Allen",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-woody-allen.md",
+      "summary": "Film director. 63 novel hits in deep sweep. Known social relationship with Epstein. Dinner meetings documented. No victim testimony naming Allen. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "tony-blair",
+      "name": "Tony Blair",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-tony-blair.md",
+      "summary": "Former UK Prime Minister. Cellmate interview reference (exculpatory re: one allegation but confirms Blair in Epstein context). Clinton-Blair connection. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "michael-wolff",
+      "name": "Michael Wolff",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-michael-wolff.md",
+      "summary": "Author of Fire and Fury. Received forward from Epstein re: NY Magazine fact-checking. Close enough for Epstein to share sensitive media inquiries. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "eva-dubin",
+      "name": "Eva Dubin",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-glenn-eva-dubin.md",
+      "summary": "Glenn Dubin's wife. 956 emails in Epstein network. Epstein reportedly paid for her medical school. 30-year relationship with Epstein. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "sarah-ferguson",
+      "name": "Sarah Ferguson",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-sarah-ferguson.md",
+      "summary": "Duchess of York. Named on DOJ Section 3 list. Prince Andrew's ex-wife. Social connection to Epstein through Andrew. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "naomi-campbell",
+      "name": "Naomi Campbell",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-naomi-campbell.md",
+      "summary": "Supermodel. FBI positive case hit list — named alongside Trump, Andrew, Black, Wexner. Modeling industry connection. 38 novel hits. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "chris-tucker",
+      "name": "Chris Tucker",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-chris-tucker.md",
+      "summary": "Actor/comedian. FBI positive case hit list. USVI shell corporation references Tucker alongside Prince Andrew and Little St. James. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "larry-summers",
+      "name": "Larry Summers",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-larry-summers.md",
+      "summary": "Former Treasury Secretary and Harvard President. FBI positive case hit list (no case match). Harvard Epstein donations controversy. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "rahm-emmanuel",
+      "name": "Rahm Emmanuel",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-rahm-emmanuel.md",
+      "summary": "Obama Chief of Staff, later Ambassador to Japan. Named on DOJ Section 3 list. No specific Epstein communications found. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "barry-diller",
+      "name": "Barry Diller",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-barry-diller.md",
+      "summary": "Media mogul (IAC, Expedia). Named on DOJ Section 3 list. Social network overlap with Epstein circles. No abuse evidence. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "reid-hoffman",
+      "name": "Reid Hoffman",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-reid-hoffman.md",
+      "summary": "LinkedIn founder. FBI no hit list. Apologized publicly for Epstein association. Tier 3.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 3
+    },
+    {
+      "slug": "jeff-bezos",
+      "name": "Jeff Bezos",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-jeff-bezos.md",
+      "summary": "Amazon/Blue Origin founder. Named on DOJ Section 3 list. No specific Epstein communications found. Tier 2 — Acquaintance.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 2
+    },
+    {
+      "slug": "george-clooney",
+      "name": "George Clooney",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-george-clooney.md",
+      "summary": "Actor/director. Named on DOJ Section 3 list. No Epstein communications found. Referenced in media clippings. Tier 2.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 2
+    },
+    {
+      "slug": "alec-baldwin",
+      "name": "Alec Baldwin",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-alec-baldwin.md",
+      "summary": "Actor. Named on DOJ Section 3 list. No specific Epstein communications found. Tier 2.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 2
+    },
+    {
+      "slug": "robert-de-niro",
+      "name": "Robert De Niro",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-robert-de-niro.md",
+      "summary": "Actor. Named on DOJ Section 3 list. No specific Epstein communications or testimony found. Tier 2.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 2
+    },
+    {
+      "slug": "jay-z",
+      "name": "Jay Z",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-jay-z.md",
+      "summary": "Rapper/mogul. Named on DOJ Section 3 list. No Epstein communications found. Referenced in media articles. Tier 2.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 2
+    },
+    {
+      "slug": "richard-branson",
+      "name": "Richard Branson",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-richard-branson.md",
+      "summary": "Virgin Group founder. Named on DOJ Section 3 list. Necker Island proximity to USVI. No abuse evidence. Tier 2.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 2
+    },
+    {
+      "slug": "george-w-bush",
+      "name": "George W. Bush",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-george-w-bush.md",
+      "summary": "43rd President. Named on DOJ Section 3 list. NPA approved during Bush DOJ. No personal Epstein communications. Tier 1 — Ambient.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 1
+    },
+    {
+      "slug": "james-comey",
+      "name": "James Comey",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-james-comey.md",
+      "summary": "FBI Director 2013-2017. Named on DOJ Section 3 list. Referenced in investigative context. No Epstein-specific evidence. Tier 1.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 1
+    },
+    {
+      "slug": "merrick-garland",
+      "name": "Merrick Garland",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-merrick-garland.md",
+      "summary": "AG during Maxwell trial period. Named on DOJ Section 3 list. Referenced in DOJ context. Tier 1.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 1
+    },
+    {
+      "slug": "nikki-haley",
+      "name": "Nikki Haley",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-nikki-haley.md",
+      "summary": "Former UN Ambassador. Named on DOJ Section 3 list. No Epstein-specific evidence. Tier 1.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 1
+    },
+    {
+      "slug": "lindsey-graham",
+      "name": "Lindsey Graham",
+      "category": "08_Epstein_Network",
+      "file": "08-epstein-network-lindsey-graham.md",
+      "summary": "Senator. Named on DOJ Section 3 list. No Epstein-specific evidence. Tier 1.",
+      "connections": {},
+      "connection_count": 0,
+      "topic_mentions": [],
+      "tier": 1
     }
   ],
   "by_category": {
@@ -2986,6 +3578,59 @@
     "11_Historical_References": [
       "joseph-goebbels",
       "richard-nixon"
+    ],
+    "08_Epstein_Network": [
+      "alan-dershowitz",
+      "lesley-groff",
+      "prince-andrew",
+      "glenn-dubin",
+      "jean-luc-brunel",
+      "sarah-kellen",
+      "bill-clinton",
+      "hillary-clinton",
+      "chelsea-clinton",
+      "donald-trump",
+      "ehud-barak",
+      "bill-richardson",
+      "george-mitchell",
+      "kathy-ruemmler",
+      "david-copperfield",
+      "jes-staley",
+      "harvey-weinstein",
+      "bill-gates",
+      "boris-nikolic",
+      "tom-pritzker",
+      "joi-ito",
+      "deepak-chopra",
+      "peggy-siegal",
+      "mike-sitrick",
+      "david-boies",
+      "ken-starr",
+      "darren-indyke",
+      "richard-kahn",
+      "noam-chomsky",
+      "woody-allen",
+      "tony-blair",
+      "michael-wolff",
+      "eva-dubin",
+      "sarah-ferguson",
+      "naomi-campbell",
+      "chris-tucker",
+      "larry-summers",
+      "rahm-emmanuel",
+      "barry-diller",
+      "reid-hoffman",
+      "jeff-bezos",
+      "george-clooney",
+      "alec-baldwin",
+      "robert-de-niro",
+      "jay-z",
+      "richard-branson",
+      "george-w-bush",
+      "james-comey",
+      "merrick-garland",
+      "nikki-haley",
+      "lindsey-graham"
     ]
   }
 }
