@@ -8,7 +8,7 @@ Type: Real
 
 ### Business
 
-- [Ghislaine Maxwell](../../cast/pages/08-epstein-network-ghislaine-maxwell.md) — 1 mention(s)
+- [Ghislaine Maxwell](../../pages/08-epstein-network-ghislaine-maxwell.md) — 1 mention(s)
 
 ### Associate
 
@@ -64,4 +64,4 @@ Type: Real
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

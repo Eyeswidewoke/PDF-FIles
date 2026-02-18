@@ -8,15 +8,15 @@
 
 ### Family
 
-- [Ivana Trump](../../cast/pages/08-epstein-network-ivana-trump.md) — 1 mention(s)
+- [Ivana Trump](../../pages/01-family-ivana-trump.md) — 1 mention(s)
 - **Marla Maples** — 5 mention(s)
 
 ### Mentioned
 
-- [Tiffany Trump](../../cast/pages/08-epstein-network-tiffany-trump.md) — 3 mention(s)
+- [Tiffany Trump](../../pages/01-family-tiffany-trump.md) — 3 mention(s)
 
 **Total connection count:** 2
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

@@ -8,7 +8,7 @@ Type: Real
 
 ### Mentioned
 
-- [Mark Milley](../../cast/pages/08-epstein-network-mark-milley.md) — 2 mention(s)
+- [Mark Milley](../../pages/03-cabinet-admin-mark-milley.md) — 2 mention(s)
 - **Joe Biden** — 1 mention(s)
 
 **Total connection count:** 1
@@ -20,4 +20,4 @@ Type: Real
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

@@ -12,7 +12,7 @@ Type: Real
 
 ### Political
 
-- [Russell Vought](../../cast/pages/08-epstein-network-russell-vought.md) — 1 mention(s)
+- [Russell Vought](../../pages/03-cabinet-admin-russell-vought.md) — 1 mention(s)
 
 **Total connection count:** 1
 
@@ -22,4 +22,4 @@ Type: Real
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

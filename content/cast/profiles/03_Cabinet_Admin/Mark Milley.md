@@ -12,10 +12,10 @@ Type: Real
 
 ### Family
 
-- [Joe Biden](../../cast/pages/08-epstein-network-joe-biden.md) — 1 mention(s)
+- [Joe Biden](../../pages/04-campaign-political-joe-biden.md) — 1 mention(s)
 
 **Total connection count:** 1
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

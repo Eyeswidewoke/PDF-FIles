@@ -8,8 +8,8 @@
 
 ### Mentioned
 
-- [Kamala Harris](../../cast/pages/08-epstein-network-kamala-harris.md) — 1 mention(s)
-- [Elon Musk](../../cast/pages/08-epstein-network-elon-musk.md) — 1 mention(s)
+- [Kamala Harris](../../pages/04-campaign-political-kamala-harris.md) — 1 mention(s)
+- [Elon Musk](../../pages/08-epstein-network-elon-musk.md) — 1 mention(s)
 
 ### Political
 
@@ -19,4 +19,4 @@
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

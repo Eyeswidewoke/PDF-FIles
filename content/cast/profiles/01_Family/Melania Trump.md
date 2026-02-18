@@ -6,7 +6,7 @@
 
 ### Family
 
-- [Barron Trump](../../cast/pages/08-epstein-network-barron-trump.md) — 1 mention(s)
+- [Barron Trump](../../pages/01-family-barron-trump.md) — 1 mention(s)
 
 ### Associate
 
@@ -20,4 +20,4 @@
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

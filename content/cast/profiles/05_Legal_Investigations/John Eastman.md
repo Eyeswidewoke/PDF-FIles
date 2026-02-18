@@ -8,11 +8,11 @@ John Charles Eastman (born 1960) is a conservative American lawyer who became th
 
 ### Associate
 
-- [Mike Pence](../../cast/pages/08-epstein-network-mike-pence.md) — 2 mention(s)
+- [Mike Pence](../../pages/03-cabinet-admin-mike-pence.md) — 2 mention(s)
 
 ### Legal
 
-- [Jack Smith](../../cast/pages/08-epstein-network-jack-smith.md) — 1 mention(s)
+- [Jack Smith](../../pages/05-legal-investigations-jack-smith.md) — 1 mention(s)
 
 ### Political
 
@@ -20,10 +20,10 @@ John Charles Eastman (born 1960) is a conservative American lawyer who became th
 
 ### Family
 
-- [Kenneth Chesebro](../../cast/pages/08-epstein-network-kenneth-chesebro.md) — 1 mention(s)
+- [Kenneth Chesebro](../../pages/05-legal-investigations-kenneth-chesebro.md) — 1 mention(s)
 
 **Total connection count:** 3
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

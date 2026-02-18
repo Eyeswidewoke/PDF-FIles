@@ -6,7 +6,7 @@
 
 ### Mentioned
 
-- [Ivanka Trump](../../cast/pages/08-epstein-network-ivanka-trump.md) — 3 mention(s)
+- [Ivanka Trump](../../pages/01-family-ivanka-trump.md) — 3 mention(s)
 
 ### Legal
 
@@ -25,4 +25,4 @@
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

@@ -9,11 +9,11 @@
 ### Mentioned
 
 - **Fred Trump Jr** — 3 mention(s)
-- [Fred Trump](../../cast/pages/08-epstein-network-fred-trump.md) — 7 mention(s)
-- [Maryanne Trump Barry](../../cast/pages/08-epstein-network-maryanne-trump-barry.md) — 1 mention(s)
+- [Fred Trump](../../pages/01-family-fred-trump.md) — 7 mention(s)
+- [Maryanne Trump Barry](../../pages/01-family-maryanne-trump-barry.md) — 1 mention(s)
 
 **Total connection count:** 2
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

@@ -18,8 +18,8 @@ Type: Real
 
 ## Deep Dive
 
-- [Full investigation page](../pages/08-epstein-network-elon-musk.md)
+- [Full investigation page](../../pages/08-epstein-network-elon-musk.md)
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

@@ -8,15 +8,15 @@ Dossier: ICE Chief Greg Bevino – Profile and Analysis
 
 ### Mentioned
 
-- [Kristi Noem](../../cast/pages/08-epstein-network-kristi-noem.md) — 3 mention(s)
-- [Tom Homan](../../cast/pages/08-epstein-network-tom-homan.md) — 1 mention(s)
+- [Kristi Noem](../../pages/03-cabinet-admin-kristi-noem.md) — 3 mention(s)
+- [Tom Homan](../../pages/03-cabinet-admin-tom-homan.md) — 1 mention(s)
 
 ### Legal
 
-- [Stephen Miller](../../cast/pages/08-epstein-network-stephen-miller.md) — 1 mention(s)
+- [Stephen Miller](../../pages/03-cabinet-admin-stephen-miller.md) — 1 mention(s)
 
 **Total connection count:** 3
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

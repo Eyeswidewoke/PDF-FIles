@@ -8,21 +8,21 @@
 
 ### Mentioned
 
-- [Steve Bannon](../../cast/pages/08-epstein-network-steve-bannon.md) — 5 mention(s)
+- [Steve Bannon](../../pages/02-inner-circle-steve-bannon.md) — 5 mention(s)
 - **Kash Patel** — 4 mention(s)
-- [Russell Vought](../../cast/pages/08-epstein-network-russell-vought.md) — 1 mention(s)
-- [Tom Homan](../../cast/pages/08-epstein-network-tom-homan.md) — 1 mention(s)
+- [Russell Vought](../../pages/03-cabinet-admin-russell-vought.md) — 1 mention(s)
+- [Tom Homan](../../pages/03-cabinet-admin-tom-homan.md) — 1 mention(s)
 
 ### Associate
 
-- [Michael Flynn](../../cast/pages/08-epstein-network-michael-flynn.md) — 1 mention(s)
+- [Michael Flynn](../../pages/03-cabinet-admin-michael-flynn.md) — 1 mention(s)
 
 ### Political
 
-- [Joe Biden](../../cast/pages/08-epstein-network-joe-biden.md) — 1 mention(s)
+- [Joe Biden](../../pages/04-campaign-political-joe-biden.md) — 1 mention(s)
 
 **Total connection count:** 5
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

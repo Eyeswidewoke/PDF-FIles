@@ -8,7 +8,7 @@ Type: Real
 
 ### Mentioned
 
-- [Michael Cohen](../../cast/pages/08-epstein-network-michael-cohen.md) — 1 mention(s)
+- [Michael Cohen](../../pages/02-inner-circle-michael-cohen.md) — 1 mention(s)
 - **Stormy Daniels** — 1 mention(s)
 
 **Total connection count:** 1
@@ -19,4 +19,4 @@ Type: Real
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

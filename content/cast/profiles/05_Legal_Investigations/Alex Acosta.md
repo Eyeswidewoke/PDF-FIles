@@ -9,11 +9,11 @@ R. Alexander "Alex" Acosta is an American attorney who served as U.S. Secretary 
 ### Business
 
 - **Alex Acosta** — 3 mention(s)
-- [Ghislaine Maxwell](../../cast/pages/08-epstein-network-ghislaine-maxwell.md) — 1 mention(s)
+- [Ghislaine Maxwell](../../pages/08-epstein-network-ghislaine-maxwell.md) — 1 mention(s)
 
 ### Mentioned
 
-- [Jeffrey Epstein](../../cast/pages/08-epstein-network-jeffrey-epstein.md) — 3 mention(s)
+- [Jeffrey Epstein](../../pages/07-business-finance-jeffrey-epstein.md) — 3 mention(s)
 
 **Total connection count:** 2
 
@@ -29,4 +29,4 @@ R. Alexander "Alex" Acosta is an American attorney who served as U.S. Secretary 
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

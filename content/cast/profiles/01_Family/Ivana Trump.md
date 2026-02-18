@@ -8,11 +8,11 @@
 
 ### Mentioned
 
-- [Donald Trump Jr](../../cast/pages/08-epstein-network-donald-trump-jr.md) — 1 mention(s)
-- [Eric Trump](../../cast/pages/08-epstein-network-eric-trump.md) — 1 mention(s)
-- [Ivanka Trump](../../cast/pages/08-epstein-network-ivanka-trump.md) — 1 mention(s)
-- [Marla Maples](../../cast/pages/08-epstein-network-marla-maples.md) — 3 mention(s)
-- [Michael Cohen](../../cast/pages/08-epstein-network-michael-cohen.md) — 2 mention(s)
+- [Donald Trump Jr](../../pages/01-family-donald-trump-jr.md) — 1 mention(s)
+- [Eric Trump](../../pages/01-family-eric-trump.md) — 1 mention(s)
+- [Ivanka Trump](../../pages/01-family-ivanka-trump.md) — 1 mention(s)
+- [Marla Maples](../../pages/01-family-marla-maples.md) — 3 mention(s)
+- [Michael Cohen](../../pages/02-inner-circle-michael-cohen.md) — 2 mention(s)
 
 ### Family
 
@@ -26,4 +26,4 @@
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

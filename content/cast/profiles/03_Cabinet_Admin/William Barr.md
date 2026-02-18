@@ -9,7 +9,7 @@ Type: Real
 ### Legal
 
 - **William Barr** — 1 mention(s)
-- [Robert Mueller](../../cast/pages/08-epstein-network-robert-mueller.md) — 1 mention(s)
+- [Robert Mueller](../../pages/05-legal-investigations-robert-mueller.md) — 1 mention(s)
 
 **Total connection count:** 1
 
@@ -22,8 +22,8 @@ Type: Real
 
 ## Deep Dive
 
-- [Full investigation page](../pages/08-epstein-network-william-barr.md)
+- [Full investigation page](../../pages/08-epstein-network-william-barr.md)
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

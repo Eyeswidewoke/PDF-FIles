@@ -8,7 +8,7 @@
 
 ### Family
 
-- [Fred Trump](../../cast/pages/08-epstein-network-fred-trump.md) — 4 mention(s)
+- [Fred Trump](../../pages/01-family-fred-trump.md) — 4 mention(s)
 
 ### Associate
 
@@ -18,4 +18,4 @@
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

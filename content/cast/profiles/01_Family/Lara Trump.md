@@ -8,11 +8,11 @@
 
 ### Family
 
-- [Eric Trump](../../cast/pages/08-epstein-network-eric-trump.md) — 4 mention(s)
+- [Eric Trump](../../pages/01-family-eric-trump.md) — 4 mention(s)
 - **Lara Trump** — 7 mention(s)
 
 **Total connection count:** 1
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

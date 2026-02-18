@@ -9,11 +9,11 @@ Type: Real
 ### Legal
 
 - **Michael Cohen** — 1 mention(s)
-- [Roy Cohn](../../cast/pages/08-epstein-network-roy-cohn.md) — 3 mention(s)
+- [Roy Cohn](../../pages/02-inner-circle-roy-cohn.md) — 3 mention(s)
 
 ### Family
 
-- [Stormy Daniels](../../cast/pages/08-epstein-network-stormy-daniels.md) — 2 mention(s)
+- [Stormy Daniels](../../pages/10-victims-accusers-stormy-daniels.md) — 2 mention(s)
 
 **Total connection count:** 2
 
@@ -30,4 +30,4 @@ Type: Real
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*

@@ -8,11 +8,11 @@ Type: Real
 
 ### Legal
 
-- [Howard Lutnick](../../cast/pages/08-epstein-network-howard-lutnick.md) — 1 mention(s)
+- [Howard Lutnick](../../pages/03-cabinet-admin-howard-lutnick.md) — 1 mention(s)
 - **Pam Bondi** — 1 mention(s)
 
 **Total connection count:** 1
 
 ---
 
-*Profile auto-generated from the Epstein Files cast network dataset.*
+*Profile generated from the Epstein Files cast network dataset.*
