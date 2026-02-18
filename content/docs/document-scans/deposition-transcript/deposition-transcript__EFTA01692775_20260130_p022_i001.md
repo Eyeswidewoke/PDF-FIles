@@ -1,0 +1,482 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p022_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 756
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.024782
+---
+
+. . 
+T*cinguular 
+AT&T Wireless 
+Account Number 
+Account Marne 
+Date of Invoice 
+January 12. 2005 
+Page lent 22 
+DETAIL OF CURRENT ACTIVITY CONTINUED 
+a
+CombLoll 
+VOICI. times roR 
+Nara 
+Item Oats Time 
+1044 0' EA =yik 
+104$ 0100}X31 
+10410104 32114? 
+1041 0104 340)P 
+10411 0104 3402? 
+100 01/04 04 
+m?sma..1 
+7:m sr. g01ht; 
+1064 01/04 040) 
+1354 t1404 OS 
+1036 OLO4 0524 
+1051 01.04003 
+3°,1 
+, 
+um M Vett r)a, 
+ON 0041 TO 
+1001 0V74 OS 1 
+PYl 
+483 ollm 0; 
+10 
+0104 05 
+;Om grii 
+oi
+2q4 
+044 0104 012 
+'0100133101: 
+1 0Ig 
+Only 
+Cbsmo 
+Ca To 
+Wed Nate 0•401pdan 
+WPMAIKA04 µ 
+101 
+00015 CALL 
+14 
+045104/4001 
+MN 
+DICAUDED MN 
+MN 
+NCLIN110 PAN 
+Md 
+11/0.1101) MN
+S 
+MN 
+LIIILM NOY:101a 
+MN 
+Mr lir:Rim/gall 
+MN 
+1140.1.10110 INNUTES 
+MN 
+MCI...10
+1inulLs 
+N 
+4440400(0 myuyEs 
+MN 
+1147LUDID 11114VTES 
+MIN 
+UM... WM TO WM( 
+1M1 
+IICLUO(OMMIT(S 
+22 TIAN 0;: 
+VIA 61007.64 
+01/34 
+101$ 0104 mum 
+017 010400(
+194 0; 
+41 719404 
+62 0104030 
+013 31.04 09:1 
+064 (UM 0e1 
+005  
+005 0 
+0104 
+10111C:11
+4711
+M 
+0104 
+56 SO 1 
+011 010,q4
+11
+1itl 
+On 0104 11:17 
+093 310411:1' 
+1094 310411.1 
+fon 314.4 11 
+10.). 71..M 12 
+1
+ 
+101) 3140 1 
+10)e 0106 1(.4" 
+1099 0105 01) 
+Ile) 3105 Oil 
+1101 3107 01' 
+1102 3105 01. 
+1103 31/35 0111 
+NEW TOMMY 
+WPNAMEA04 FL 
+NCONIMG 
+INIMLISEACH EL 
+'wow* 
+iwzitinSACH FL 
+NE.01414 
+5151.414NG 
+14001.4010 
+INCOM143 
+ri90teTNTONB01 
+FL 
+s.° 
+TZ18:421 
+011.40) 
+N.MosACII FL 
+NO[051190. 
+MCCOWN° 
+NetteIN 
+O 
+G 
+NICMI NG 
+NKOMO 
+L 
+FL 
+FL 
+FL 
+WON 
+NKOMO 
+INCOMIM 
+114010150 
+00YNT00/1104 FL 
+WO
+WPAW
+AWa 
+YAWN 
+Coy'NLNTIJniI 
+FL 
+Mt4 
+MN 
+(Yr 
+IEr/ 
+IAN 
+MN 
+EVT 
+LIM 
+IMM 
+101 
+IIN 
+1114 
+YN 
+1•14 
+YN 
+LIN 
+WIN 
+MN 
+YN 
+wit 
+MN 
+/MI 
+AN
+VAN 
+IMN 
+IMN 
+INC41/04.0 Anna 
+INC11.10(1) //MIES 
+1.011)001)MIOTES 
+CM( WA 1:NO 
+INCINOCC. MNUTLY 
+it4./14110147 70 Wyk114. 
+14C.1111)1011/105 
+141.10 104 (010001. 
+11•0 UUNIL TO VOOL 
+1501.110(011/1
+5 
+nct.rum M5L/T 
+reCtLOCO any! 
+unaware Y014041 
+UNLIA1/062.(01.1001. 
+VC RETRIEvAL 
+(mu OO. TO MOM 
+InCLJOE)141/411TE5 
+UNLA454005 TO 140131. 
+uNIM1.404._1/9 MOM 
+mE75.vm ocurervAr 
+Z10811418 
+uNtS10AoeNTO
+INI 11.114041. TO 
+VOW TV) WHIM( 
+UNLIMIL2 WNAND MIN 
+O
+WNFND WI 
+9 4
+14(F.Ilitti
+?
+crtin/rt 
+NMEN0 MN 
+imum7 
+iNtonoi 0 MN 
+ittgr
+ol oporY(IP MN 
+*/ItUmTtO MWILND MN 
+MOAT ED IOWAN TAN 
+(1141M7r0 IINAIND MN 
+LNLINIT 
+UNINUMA
+041004110 WWXN0 IA 
+▪ NIIMIrr11NWN DIAN 
+1.:MUMTED NAWND MN 
+momnrn Way/ C.. MN 
+csa 55.41-54. 
+IMUMTLI) NMILND IAN 
+WRIMILI) .4:1711/4O MN 
+1.4.41.11.411.0 NMMAOMN
+mucus° Vales) U 
+O91111411.0
+ MN
+Vok.M1ro NAW.47.mor 
+01104 0461 
+OW 0(14 
+ 
+ DETAIL OF CURRENT ACTIVITY - CONTINUED 
+p%/CCU MAGI'. 
+II 
+Numb% 
+Chops 
+Nem OM( Time 
+t 
+b
+M01:454 
+107 
+a 
+12 
+10 0 
+121a
+:1W 
+1111 
+13 
+11-54 
+114 010101 
+116 01/0101:34 
+1M 01030722 
+117 010/0151
+1
+1 
+4110241i kali 
+eu0505.3I 
+1
+04050644 
+123 OM 057; 
+124 OM 1:4 
+SIgi OLM 
+Ei r1 
+maim oar 
+133 °LOS 0041 
+134 0101 094 
+ME 011M 1014 
+'410906 
+0700015 
+14401 0 
+na 
+I 
+01.1% 04.1 
+14011010, 
+/49070401 
+150 0101 05 
+610'.4 01 
+152 01.01 41) 
+i5S fluty n). 
+164 WAS 0.
+;110; 12 
+157 01107 01: 
+Ice 010107140 
+159 01/07 
+40
+1 
+0110,
+01101 
+1:0111010E4 
+Only 
+awry 
+CNIS To 
+Used Raw Onadslon 
+Charm 
+INN 
+114N 
+7N 
+41404 
+ION 
+Soir o
+N 
+M 
+MN 
+Evr 
+INN 
+NII 
+MN 
+IM
+IMNNII 
+MX 
+woo 
+NN 
+MM 
+MN 
+0411 
+7 111 
+MN 
+MN 
+Ntl 
+ism 
+TV(
+VIM 
+WIN 
+wid 
+EVT 
+EWM
+VT 
+YIN 
+14M 
+MN 
+yo
+1941,11.'-'41.L.t.?4,,,Pc 
+.9..ecAci, 
+',Also°, Ft 
+INCCIA NG 
+MGVA NY 
+45.00/ANG 
+MVAIWEAE.117-7 
+WILAI
+I
+ FL
+M"."
+Lwi
+LlEtraCti 
+WPAINI
+ALTEACN
+ACMCF1 
+L
+YMAN I/CME 
+V0/
+11CAL14
+91 
+;grin 
+MUCH 
+FL 
+VIPAtrOONAENFI. 
+wPALINI4 ACH Fa 
+10014/10 
+in.,a411u 
+W9ALIPSZAEN FL 
+1 T
+• 
+O bol
+SIX>1 PC 
+1140 
+WPAIMMACK 
+NOTICONEC14 it 
+111001113 
+CCP 14"/711301FL 
+1477:441.3 
+INI
+ZIP21163
+Y(l-ICJ4 FL 
+WOO 
+ventmezacm FL 
+00110?
+SIII'103
+• 
+,404 
+130714•ONOCI FL 
+INCOON-
+ver/MY 
+4v0/45 
+114N 
+VIVT 
+Irmo 
+IMN 
+MN 
+Mn 
+MN 
+W.MATEDINf iNN8 MA 
+'ALM TOO wenvichtil 5 
+Irr
+-
+CL"  
+M
+LIV:WEI
+1.101•4 
+TO MOM 
+IN:.1.11. TO moot 
+mug . 
+TO OM 
+1140.1.0f 0 ulNUTES 
+IVELLIND MIMES 
+INCLWED MINE ES 
+Evlax"110, 
+11(5.1.401(f4 «Al 
+PILIMAS
+IN 
+MUTES 
+014.4/ WOOL 70 140e. 
+I 
+HAli 
+tium4lioillot
+ 
+Acc tooi iionvoio.
+IrELE 
+mato 
+Cowl
+HELLO r
+O 
+AM) 
+MELLO 
+MIN 
+YTES 
+UN.NATZD IOWAN) SW 
+UnLitaTeD NAVXN3 laN 
+UNJuiTEQ IIMIXT11 
+UNST/D/I.WKN MIN 
+IMJIITtOINY/11/1 Mk 
+Wormy 
+14MAN3 MN 
+NIANT 
+14/MckMh 
+i 
+I 
+LOM! 
+1411/14Nomn 
+U 
+:NONA 
+WAWA MN 
+014.147 
+HAIM MN 
+MEW,  0 NMYNO Mk 
+MISSAGE MINIFY
+ 
+/1 
+Jetsam Ammo 114 
+11.4.11.115011/NY4p MN 
+ftaq=.8 
+Pi 
+NAVIN 1K0 
+Matt 
+N.Wthg 
+MN 
+UK 
+U 
+C iArAtl 
+kW4M)1M4 
+11E51441 RETNIEVA. 
+1/41.:14 WOOL TO OM 
+IVES 
+RFIN 
+n
+, 
+N 
+N OE 
+SAMTT4blEVNIA..‘"
+NW4 
+m
+INN 
+111 
+1.4 
+EFTA01692796

@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-02-17T19:11:52.360Z",
+  "source_index": "PDF-Files/content/images/galleries/gallery-picks-2026-02-16/index.json",
+  "pages": [
+    {
+      "category": "indoor-scene",
+      "slug": "indoor-scene",
+      "file": "gallery-category-indoor-scene.html",
+      "count": 184
+    },
+    {
+      "category": "adult-man",
+      "slug": "adult-man",
+      "file": "gallery-category-adult-man.html",
+      "count": 91
+    },
+    {
+      "category": "office",
+      "slug": "office",
+      "file": "gallery-category-office.html",
+      "count": 87
+    },
+    {
+      "category": "portrait-photo",
+      "slug": "portrait-photo",
+      "file": "gallery-category-portrait-photo.html",
+      "count": 84
+    },
+    {
+      "category": "building",
+      "slug": "building",
+      "file": "gallery-category-building.html",
+      "count": 57
+    },
+    {
+      "category": "group-photo",
+      "slug": "group-photo",
+      "file": "gallery-category-group-photo.html",
+      "count": 47
+    },
+    {
+      "category": "boat",
+      "slug": "boat",
+      "file": "gallery-category-boat.html",
+      "count": 27
+    },
+    {
+      "category": "outdoor-scene",
+      "slug": "outdoor-scene",
+      "file": "gallery-category-outdoor-scene.html",
+      "count": 23
+    },
+    {
+      "category": "airplane",
+      "slug": "airplane",
+      "file": "gallery-category-airplane.html",
+      "count": 20
+    },
+    {
+      "category": "child",
+      "slug": "child",
+      "file": "gallery-category-child.html",
+      "count": 13
+    },
+    {
+      "category": "map",
+      "slug": "map",
+      "file": "gallery-category-map.html",
+      "count": 13
+    },
+    {
+      "category": "unsorted",
+      "slug": "unsorted",
+      "file": "gallery-category-unsorted.html",
+      "count": 12
+    },
+    {
+      "category": "uncategorized",
+      "slug": "uncategorized",
+      "file": "gallery-category-uncategorized.html",
+      "count": 7
+    },
+    {
+      "category": "vehicle",
+      "slug": "vehicle",
+      "file": "gallery-category-vehicle.html",
+      "count": 6
+    },
+    {
+      "category": "stamp",
+      "slug": "stamp",
+      "file": "gallery-category-stamp.html",
+      "count": 4
+    },
+    {
+      "category": "Epstein Photos",
+      "slug": "epstein-photos",
+      "file": "gallery-category-epstein-photos.html",
+      "count": 3
+    },
+    {
+      "category": "person",
+      "slug": "person",
+      "file": "gallery-category-person.html",
+      "count": 2
+    },
+    {
+      "category": "face-close-up",
+      "slug": "face-close-up",
+      "file": "gallery-category-face-close-up.html",
+      "count": 1
+    },
+    {
+      "category": "seal",
+      "slug": "seal",
+      "file": "gallery-category-seal.html",
+      "count": 1
+    }
+  ]
+}

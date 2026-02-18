@@ -1,0 +1,512 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p056_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 841
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.976526
+---
+
+r<cingu*_ 
+Mean arbor 
+Aceounlano 
+Date of Invoice 
+May 13.2005 
+Page 12 of la 
+DETAIL OF CURRENT ACTIVITY -CONTINUED 
+?DETAIL OF CURRENT ACTIVITY -CONTINUED 
+VOICE USAF£ Ha- 
+Continued 
+1:VO4CE USAGE la 
+i1tValued 
+CRISTO 
+Uµ4 Ms 080eidien 
+ameme fl Pm 0M. 11.• Callotl 
+Gads To 
+Used Rata Desedpalen 
+I 
+Oa 04711 1010 
+OM WED MIND MN 
+WRISMSEA.0.1 FL 
+MN 
+MSS, XPO 
+INCOMING
+IAN 
+*HIED NN 
+NX 
+INCOMING 
+MA 
+UNI ISITO NMIND MI 
+VP ae M9004 R 
+MN 
+Wit WWI IIMICP WIN 
+INCOMING 
+MN 
+1)11. MILD WOM MI 
+VITMARIAMIFL 
+MA 
+ITII.MTET)Wein4 MN 
+INGCNI 
+MN 
+UM011031114/101 Mil. 
+GOVIITONECII FL 
+MN 
+UNLTAMW MMOV
+IVIN 
+INCCWIG 
+MN 
+UMMTED IAN/104DIN 
+LAKE WORTH R. 
+PAN 
+UNLMTW IMMO MN 
+NCCM)10 
+MN 
+UNtlATOCI 14M10.0 MN 
+WPAsIMF.AGN FL 
+MN 
+IM MTW 113410.0 Mk 
+INCIROW 
+MN 
+UNLMIED IMMO MN 
+MGM 
+MN 
+164.A. 
+WNW IMI 
+INC 
+W
+. 
+2 
+tlkn 
+=En 
+MN 
+UNLMT 
+14N6040 MN 
+> 
+FL 
+MN 
+Um.M.TO) loWNIM Pm 
+UMML 
+IIMNO MN 
+UN 
+10\400 MN 
+L 
+KAMP MN 
+U 
+IMM4 
+MN 
+U 
+MIMI 
+419IY 
+awl* 
+il 
+Mader 
+MY 
+CZW644
+kent 0µW ma. Cad 
+617 OM 02 IM 
+SIB 0100023M 
+519 MO 023411 
+620 
+10 
+ale 
+5V 
+044ilisM
+ cat
+0400 1101/I 
+Ca 1101A 
+U 913 Mit 
+527 41110 12 0E 
+5211 041101219 
+04/20 12.1IP 
+V
+1110400 1ZZIP 
+Ot1
+°44°1
+11 
+040011 
+SYS 0441601 
+IN MO°81.1% 
+litllit 
+., 
+6y
+SO
+M
+M
+414M02070 
+a 
+0010023W 
+NCOVING 
+ALAEKH 
+ii 4 Ott tint 
+11014al so 
+9 TOteCH FL 
+tiz 
+w arsons. 
+OTAIMACH Fl. 
+OA 
+64 ONO CO IIP 
+WPAUMF-ACH FL 
+tn 090 g5Itt 
+p
+01410 0719P 
+0403033TP 
+ilorc=04 
+Ft. 
+1 
+610 Wm 
+Cok 
+i 
+MI ONO 010M 
+I Iii°12 gi 
+.„.,,, lili 
+at 
+101,1111,3. 
+`0744#4ai it 
+tii Haw' 
+74000.4,40 
+i hag it 
+564 OM 040614 
+WPAJMEACII FL 
+III 0510 61 See 
+I 
+614 OSAI 03 319 
+k MOLT 
+ 
+tgOn di Blit 
+, 
+a 
+g 00004.71P 
+WPALMSFA FL 
+‘941,61144 
+R 
+19 07
+0 3;5 
+rsCrldVIII 
+Irk 
+YVPALIMOCH FL 
+i 107 0.031 
+.1 
+5hp' 
+,ta , 
+Ms 
+06 
+I.TP:=MII FIC 
+MOROI: 
+1/44 
+s" 
+M
+ a2 
+NO
+ LI OM 011iti 
+567 ONO Oa 2944 
+tagr.„,Ifflt 
+in Wu nr 
+gr....WI/ACM FL 
+.NCOmish 
+il 
+)? = 
+Rig 
+IR 04/207 %ILL; 
+WPA maswil FL 
+1 
+40 05101 MCG9 
+i 10 Ca OS SIP 
+I 
+ift gl Oiii; 
+=72= it 
+74921.4614 
+7GIMIAG 
+: 
+g 
+igll ig 
+TN g.14 *HP 
+Os oul099436 
+578 04/36 1004P 
+144I0Ma 
+NCOMO 
+. 
+01401 
+7,imolf/p,
+tit t .'"2 um 
+2%TEEI it 
+t"2 
+2512 
+=I II 
+R
+SOTNtO
+YNtO 
+FL 
+WYNTONKN FL 
+NCOMPKI
+WPA:MMAOl IL 
+TO 
+ft 
+%COMO 
+gr
+6DY
+ASSACH FL 
+IMN 
+Mr4 
+1145 
+MN 
+1144 
+MN 
+M▪ fl 
+MN 
+-4 
+MN 
+FIN 
+1.4 
+2.1•4 
+2MIN 
+2104 
+104 
+MN 
+MN 
+MN 
+1111 
+MN 
+MV 
+IEVT 
+24.64 
+DAN 
+144N 
+IMN 
+1.411 
+ittr i
+14-0 
+MN
+at E8 
+11AV1WO MN 
+WW1° IAN 
+UMNITO limICIMM: 
+UMMTED ItAMPI MN 
+WOLINIMONM/01 MIN 
+Wal47M NeR4 MN 
+UM 
+U1A254 
+UNIMTE0 aq 
+UNUATE3 MR 
+MN 
+UNLMTED MINO/M 
+UNLIVITED 
+MOM 
+UuNuw
+IAMIET.0 WM MN 
+IlMna mai 
+.... 
+0:10113 IAN
+War 
+1111101TEQ NAMONIN 
+UNIWEU WM MN 
+CALL MAT, 0 
+Waal° 
+1140014N 
+we, 
+ANI, MN 
+IMAM 
+MTN MN 
+uNLMT 
+Nen. Mel 
+WILIYITcn NOOLOIMI 
+UWATE3 atiO MN 
+11141541r NON ‘11.611 
+UNMT 0 AV0403.04 
+ll MT 0 
+MN AIN 
+MI Smi 
+WE AL 
+MIMI° IM40,0MN 
+UNLmT0 /1/0010 MN 
+UNIPATE00•010 MN 
+MAME, NA410110 MN 
+11115MILD lagl 
+MN 
+11110440 IMAM 
+MN 
+011PATE01Was P.M 
+;441114118 NSW 
+MN 
+NAVIN MN 
+. niniiriervigi 
+nrag3 nint 
+VIMPRITEa IIMM 
+KM%) IIMM 
+;it= 
+g MIA 
+M
+A 
+Kemp NM1V010104 
+jiltrati8:2r411 
+MESSAGE FaTIMAL 
+140111110 IIMMVO MN 
+haTi41141510010 MN 
+1.01 4001M1140 MN 
+1:1./411811101481.1r1 
+MAI 
+NMI( 
+I:MA:RIM 
+CALL 1000 
+Ma/ 
+I WINN 
+&MX I 
+:= 
+la
+MATED 1491104 MN 
+111111111111111111111111111111111111111111111111111 
+1111111111111 
+I. ita CAM I0'lb
+22P 
+r  tg 03 1 1 
+E 
+owe Ili
+i!
+Sal 04410 1134P 
+-; 
+SIinD 0U10 11 37P 
+t . 
+s 
+ono line 
+jll 
+SW um 1144P 
+H
+Mo ONO 113.19 
+i! 
+claigi
+NnO 
+= 
+p $1! 0500101AM 
+)4g):5521 81.0 
+I.; 
+ E
+401 OM 900.4 
+SE 
+I.
+034044 
+020 054010341.44 
+7 
+407 01/177 CIAIM 
+MAI 
+ 
+MA:MACH FL 
+FL 
+g•SCALI 
+gat 
+.‘ 
+t
+N 
+Tar n.
+VC.N.M0001 FL 
+FL 
+FL 
+MN 
+SFN 
+MN 
+11µN 
+1MN 
+1101 
+14VT 
+amN 
+IMP 
+1101 
+WON 
+UVY5.flAtN Ft 
+ft 
+OM 
+IMP 
+I1µ1 
+WzR3173191 
+4= 
+WflatiCACH 
+MA41.411ACN 
+1404 
+IEVI 
+w4ALMEACH ZS 
+11114 
+FL 
+4104 
+NOCM.1 
+74,5C/I41 
+NCO"
+N 
+MN 
+MICE V1ORT 11 FL 
+1104 
+W.I. Mali
+ Pil 
+IW 
+Egli% 
+FL 
+Ft 
+F 
+WP 
+Ft 
+Ft 
+IM▪ I 
+MfbA 
+L 
+II WI 
+MAJAWACII FFL 
+ZION 
+MN 
+Mt.% MA 
+UHL 
+191VIL 
+WI 
+unindre0 149.9046 SIN 
+LIN
+uN.LMIT
+j
+EnXI Ltit w
+WLIIG niMIIN
+MLSAce PE LIMA 
+UNLACED IsWaSO IA P 
+UNIMITID NORM' M a 
+V141114110 0110000041 
+runlitillUrict0°E1 ww
+le I
+: "
+M10010 rthviui ION 
+1.34160763WW104 MN 
+MILIMITER WWWI6 MN 
+UMWITLuNMIOW MN 
+Women) Warflt 
+Q. MN 
+bb't EINS MI 
+CF 
+4 0Upierri
+xic" 
+V la)I 
+UNLVIT 
+WW 
+lall 
+L :01
+TSMIT
+1/117LON 
+441N/IN MN
+AWI MI 
+r.MMITO MMHG MP 
+1115544E RETREVAL 
+:MIMED HAMM) MN 
+LANLIWITD P4MM MN 
+u/li‘in60V804911P
+VT110
+" 1 MM 
+UNWIRED 0140110 MN 
+Ulla fii renol MN 
+Mar 
+ait1/ 101 
+UNUYIT 
+05114/1 MN 
+UNINITED Walt MN 
+LNIUMar WOrci -NM 
+i 
+uNtnoiT 
+MIOI` MP 
+mum". wale,' MN 
+111100 
+100011, MN 
+IMUINTED WW1(110 IAN 
+MN 
+Clump 
+EFTA01692830

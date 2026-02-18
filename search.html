@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ADVANCED SEARCH | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260213-datasetlinks" />
+  <style>
+    .search-filter-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 0.5rem;
+      margin-bottom: 0.65rem;
+      align-items: center;
+    }
+
+    .search-filter-grid #searchInput {
+      min-width: 220px;
+    }
+
+    .search-result-list {
+      display: grid;
+      gap: 0.62rem;
+    }
+
+    .search-result {
+      border: 1px solid var(--border);
+      border-radius: 0.72rem;
+      background: #fffcf8;
+      padding: 0.68rem;
+      box-shadow: 0 6px 18px rgba(53, 36, 27, 0.08);
+      display: grid;
+      gap: 0.45rem;
+    }
+
+    .search-result-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.7rem;
+      align-items: start;
+      flex-wrap: wrap;
+    }
+
+    .search-result-title {
+      margin: 0;
+      font-size: 0.93rem;
+      letter-spacing: 0.01em;
+      word-break: break-word;
+    }
+
+    .search-result-chips {
+      display: flex;
+      gap: 0.34rem;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .search-chip {
+      border: 1px solid #dfb7a8;
+      color: #8f2f15;
+      border-radius: 999px;
+      padding: 0.08rem 0.42rem;
+      font: 600 0.68rem var(--mono);
+      white-space: nowrap;
+      background: #fff6ef;
+    }
+
+    .search-result-meta {
+      display: flex;
+      gap: 0.66rem;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font: 500 0.72rem var(--mono);
+    }
+
+    .search-result-note {
+      margin: 0;
+      color: #5f4e46;
+      font-size: 0.83rem;
+    }
+
+    .search-result-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      align-items: center;
+    }
+
+    .search-footer {
+      margin-top: 0.7rem;
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .status-line {
+      margin-top: 0.5rem;
+      min-height: 1rem;
+    }
+
+    @media (max-width: 760px) {
+      .search-result-head {
+        flex-direction: column;
+      }
+
+      .search-result-chips {
+        justify-content: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header class="hero">
+    <h1>ADVANCED SEARCH</h1>
+    <p class="subhead" style="margin:0.6rem auto 0;max-width:72ch;text-align:center">
+      Search and filter the indexed files directly by collection, source, category, file type, size, and date.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+    <nav class="hero-nav" aria-label="Search page links">
+      <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#5e4732,#3f2d1f);box-shadow:0 4px 14px rgba(94,71,50,0.32)">HOME &rarr;</a>
+      <a class="hero-nav-btn" href="./map.html" style="background:linear-gradient(125deg,#52307f,#311d57);box-shadow:0 4px 14px rgba(82,48,127,0.3)">CONNECTION MAP &rarr;</a>
+      <a class="hero-nav-btn" href="./cast.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916);box-shadow:0 4px 14px rgba(211,93,44,0.3)">CAST HUB &rarr;</a>
+      <a class="hero-nav-btn" href="./timeline.html" style="background:linear-gradient(125deg,#546e7a,#37474f);box-shadow:0 4px 14px rgba(84,110,122,0.3)">CASE TIMELINE &rarr;</a>
+    </nav>
+  </header>
+
+  <main class="grid">
+    <section class="panel explorer-panel">
+      <div class="explorer-head">
+        <h2>Search Workspace</h2>
+        <button id="clearFiltersBtn" class="ghost-btn" type="button">Clear Filters</button>
+      </div>
+
+      <div class="search-filter-grid" aria-label="Search filters">
+        <input id="searchInput" type="search" placeholder="Search label, path, notes..." autocomplete="off" spellcheck="false" />
+        <select id="collectionFilter" aria-label="Filter by collection"></select>
+        <select id="sourceFilter" aria-label="Filter by source"></select>
+        <select id="categoryFilter" aria-label="Filter by category"></select>
+        <select id="fileTypeFilter" aria-label="Filter by file type"></select>
+        <select id="sortField" aria-label="Sort field">
+          <option value="modified">Sort: Date</option>
+          <option value="label">Sort: Name</option>
+          <option value="collection">Sort: Collection</option>
+          <option value="category">Sort: Category</option>
+          <option value="size">Sort: Size</option>
+          <option value="path">Sort: Path</option>
+        </select>
+        <select id="sortDir" aria-label="Sort direction">
+          <option value="desc">Desc</option>
+          <option value="asc">Asc</option>
+        </select>
+        <select id="pageSizeFilter" aria-label="Results per page">
+          <option value="100">Show 100</option>
+          <option value="200" selected>Show 200</option>
+          <option value="500">Show 500</option>
+          <option value="1000">Show 1000</option>
+        </select>
+      </div>
+
+      <p id="resultMeta" class="result-meta">Loading index...</p>
+      <div id="resultList" class="search-result-list" aria-live="polite"></div>
+      <div class="search-footer">
+        <button id="loadMoreBtn" class="ghost-btn" type="button" hidden>Load More</button>
+      </div>
+      <p id="statusLine" class="result-meta status-line" aria-live="polite"></p>
+    </section>
+
+    <section id="viewerPanel" class="panel viewer-panel" hidden>
+      <div class="viewer-head">
+        <h2 id="viewerTitle">File Viewer</h2>
+        <button id="closeViewerBtn" class="ghost-btn" type="button">Close Viewer</button>
+      </div>
+      <p id="viewerMeta" class="result-meta">-</p>
+      <article id="viewerMarkdown" class="viewer-markdown" hidden></article>
+      <pre id="viewerText" class="viewer-text" hidden></pre>
+      <img id="viewerImage" class="viewer-image" alt="Viewer image content" hidden />
+      <iframe id="viewerFrame" class="viewer-frame" title="Embedded file viewer" hidden></iframe>
+    </section>
+  </main>
+
+  <script src="./search-app.js?v=20260216-viewerfix" defer></script>
+</body>
+</html>

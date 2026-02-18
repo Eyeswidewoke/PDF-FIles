@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>INVESTIGATIONS | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260215-investigations" />
+  <style>
+    .investigations-wrap {
+      position: relative;
+      z-index: 1;
+      max-width: 1260px;
+      margin: 0 auto;
+      padding: 1rem clamp(1rem, 3vw, 2.5rem) 2rem;
+      display: grid;
+      gap: 0.9rem;
+    }
+
+    .investigations-head {
+      display: grid;
+      gap: 0.65rem;
+    }
+
+    .investigations-controls {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 220px;
+      gap: 0.55rem;
+      align-items: center;
+    }
+
+    .investigations-controls input,
+    .investigations-controls select {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 0.6rem;
+      background: #fffefb;
+      color: var(--ink);
+      font: 500 0.8rem var(--mono);
+      padding: 0.58rem 0.68rem;
+    }
+
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.42rem;
+      margin-top: 0.2rem;
+    }
+
+    .tag-btn {
+      border: 1px solid #dfb7a8;
+      color: #8f2f15;
+      border-radius: 100px;
+      padding: 0.16rem 0.52rem;
+      font: 600 0.68rem var(--mono);
+      background: #fff8f3;
+      cursor: pointer;
+    }
+
+    .tag-btn.active {
+      border-color: #9d3418;
+      background: linear-gradient(125deg, #ca4c22 0%, #a12e11 100%);
+      color: #fff;
+    }
+
+    .investigations-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 0.74rem;
+    }
+
+    .investigation-card {
+      border: 1px solid var(--border);
+      border-radius: 0.8rem;
+      background: linear-gradient(160deg, #fffefb 0%, #fff8ef 100%);
+      padding: 0.72rem;
+      box-shadow: var(--shadow);
+      display: grid;
+      gap: 0.5rem;
+      min-height: 215px;
+    }
+
+    .investigation-card h3 {
+      margin: 0;
+      font-size: 0.95rem;
+      line-height: 1.35;
+    }
+
+    .investigation-card h3 a {
+      color: var(--ink);
+      text-decoration: none;
+    }
+
+    .investigation-card h3 a:hover {
+      color: var(--accent);
+      text-decoration: underline;
+    }
+
+    .investigation-meta {
+      font: 500 0.72rem var(--mono);
+      color: var(--muted);
+      display: grid;
+      gap: 0.16rem;
+    }
+
+    .investigation-path {
+      font: 0.7rem var(--mono);
+      color: #776b63;
+      word-break: break-word;
+    }
+
+    .investigation-note {
+      font-size: 0.8rem;
+      color: #5f4e46;
+      line-height: 1.45;
+    }
+
+    .card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.34rem;
+    }
+
+    .card-tag {
+      border: 1px solid #dfb7a8;
+      color: #8f2f15;
+      border-radius: 100px;
+      padding: 0.05rem 0.42rem;
+      font: 600 0.67rem var(--mono);
+      background: #fff8f2;
+      white-space: nowrap;
+    }
+
+    .card-tag.primary {
+      border-color: rgba(161, 46, 17, 0.45);
+      background: linear-gradient(125deg, #ca4c22 0%, #a12e11 100%);
+      color: #fff;
+    }
+
+    .card-actions {
+      margin-top: auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }
+
+    .card-actions a {
+      text-decoration: none;
+      border-radius: 0.55rem;
+      padding: 0.4rem 0.58rem;
+      font: 600 0.68rem var(--mono);
+      border: 1px solid var(--border);
+    }
+
+    .card-open {
+      color: #fff;
+      border-color: rgba(161, 46, 17, 0.45) !important;
+      background: linear-gradient(125deg, #ca4c22 0%, #a12e11 100%);
+    }
+
+    .card-map {
+      color: #4b3a2f;
+      background: #f8efe6;
+    }
+
+    .empty-state {
+      border: 1px dashed #ccb9ac;
+      border-radius: 0.8rem;
+      padding: 1rem;
+      background: #fffaf4;
+      color: #6c5c51;
+      font: 500 0.8rem var(--mono);
+    }
+
+    @media (max-width: 760px) {
+      .investigations-controls {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header class="hero">
+    <h1>INVESTIGATIONS</h1>
+    <p class="subhead" style="margin:0.5rem auto 0;color:#6f665f;max-width:72ch;text-align:center">
+      Structured findings from the investigation pipeline, split into report-level and per-finding pages with searchable tags.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+    <nav class="hero-nav" aria-label="Investigations navigation">
+      <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#5e4732,#3f2d1f);box-shadow:0 4px 14px rgba(94,71,50,0.32)">HOME &rarr;</a>
+      <a class="hero-nav-btn" href="./map.html?section=explorer&collection=investigation-findings" style="background:linear-gradient(125deg,#52307f,#311d57);box-shadow:0 4px 14px rgba(82,48,127,0.3)">MAP EXPLORER &rarr;</a>
+      <a class="hero-nav-btn" href="./content/docs/investigations/_INDEX.md" style="background:linear-gradient(125deg,#6b3e2e,#45261c);box-shadow:0 4px 14px rgba(107,62,46,0.3)">RAW INDEX &rarr;</a>
+      <a class="hero-nav-btn" href="./search.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900);box-shadow:0 4px 14px rgba(125,77,0,0.32)">ADVANCED SEARCH &rarr;</a>
+    </nav>
+  </header>
+
+  <main class="investigations-wrap">
+    <section class="panel">
+      <div class="investigations-head">
+        <h2>Investigation Cards</h2>
+        <p class="hint">
+          Data source: <code>data/public-data.json</code> collection <code>investigation-findings</code>. If unavailable, page falls back to <code>content/docs/investigations/investigation-index.json</code>.
+        </p>
+        <div id="statsCards" class="stat-cards"></div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="investigations-controls">
+        <input id="searchInput" type="search" placeholder="Search title, path, note, tags..." />
+        <select id="categorySelect">
+          <option value="all">All Categories</option>
+        </select>
+      </div>
+      <div id="tagRow" class="tag-row" aria-label="Tag filters"></div>
+      <p id="resultMeta" class="result-meta">-</p>
+      <div id="cardsGrid" class="investigations-grid"></div>
+      <div id="emptyState" class="empty-state" hidden>No investigation cards match the current filters.</div>
+    </section>
+  </main>
+
+  <script src="./investigations.js?v=20260215" defer></script>
+</body>
+</html>

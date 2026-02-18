@@ -1,0 +1,190 @@
+---
+source_image: "scanned-document+book-page+typed-page__EFTA02695679_20260210_p006_i001.png"
+source_pdf: "EFTA02695679.pdf"
+method: pdf_text
+words: 1139
+confidence: 1.00
+extracted: 2026-02-13T17:18:24.480051
+---
+
+were told that they would receive no 
+medicine at all. The researchers at-
+tempted to assess the combined impact 
+of many different kinds of trials using 
+meta-analysis, a statistical technique for 
+extracting information from studies that 
+are not statistically significant by them-
+selves. Their article, "Is the Placebo Pow-
+erless? An Analysis of Clinical Trials 
+Comparing Placebo with No Treat - 
+ment," published in The New England 
+Journal ofMeditine, was a long-overdue 
+response to Beecher's 1955 paper. 
+In almost every case, the researchers re-
+ported, there was essentially no difference 
+between the placebo group and the openly 
+untreated group. There were particular ex-
+ceptions in studies of pain, where there 
+was a slight but measurable placebo effect. 
+Since we are physiologically capable of 
+manufacturing our own painkillers—en-
+dorphins—the result may not have been 
+surprising. Expectations and suggestion 
+dearly influence behavior, and when we 
+expect to receive medicine our bodies 
+often begin to prepare for it. (As the eve 
+lutionary biologist Robert Trivers recently 
+pointed out, in 'The Folly of Fools," his 
+book about the historical necessity of de-
+ceit, what the brain expects to happen in 
+the near future affects its physiological 
+state. Trivers's theory would explain a fact 
+that has often baffled scientists: the pla-
+cebo effect doesn't appear to work with 
+Alzheimer's patients. Trivers suggests that 
+this is because most people who have Al-
+zheimer's disease are unable to anticipate 
+the future and are therefore unable to prc-
+pare for it.) 
+The Danish researchers repeated the 
+study in 2004, and again last year, incor-
+porating new data each time. The re-
+sults and their conclusions remained 
+the same. "We found little evidence in 
+general that placebos had powerful clin-
+ical effects," linthjartsson wrote. "Out-
+side the setting of clinical trials, there is 
+no justification for the use of placebos." 
+Kaptchuk has great respect for Hro-
+bjartsson, yet he is wary of relying on 
+meta-analyses, and he believes that an 
+honest interaction between a doctor and 
+a patient can significantly alter the out-
+come of treatment. That was the point of 
+his study of irritable-bowel syndrome, in 
+which some subjects were told that they 
+would not be treated. I.B.S., a chronic 
+gastrointestinal disorder, is one of the 
+most common reasons that people seek 
+medical care. Effective long-term thera-
+pies have proved elusive. In Kaptchuk's 
+study, eighty patients were randomly di-
+vided into two groups. Patients in the first 
+group received a placebo pill twice a day, 
+those in the second received nothing. Be-
+fore the study began, both groups were 
+told that placebos were "inert or inactive 
+pills, like sugar pills, without any malica-
+tion in them." They were also informed 
+that placebos have been shown in "rigor-
+ous clinical testing to produce significant 
+mind-body self-healing processes." Pa-
+tients who received the openly distributed 
+placebo scored flu better on standard as-
+sessments of their condition than those 
+who received nothing. There were also 
+statistically significant differences in the 
+severity of symptoms. 
+Although a group of eighty patients is 
+too small to draw definitive conclusions, 
+honesty seemed to work. "Asbjom's stuff 
+is a constant intellectual challenge," Kapt-
+thuk wrote in an e-mail. "His meta-anal-
+yses are tops. Great methods, very carefuL 
+Clear." Yet Kaptchuk also pointed out 
+that placebos are not the only interven-
+tions that can cause complicated reac-
+tions. Drugs do, too. °plods, for exam-
+ple, increase pain in about ten per cent of 
+those who take them. Antibiotics don't al-
+ways work, and neither does cortisone, a 
+powerful steroid used each year by mil-
+lions of people. Meta-analyses are useful 
+to help understand large amounts of data 
+from different trials. But statistical results 
+that combine information from a 
+variety of medical centers, with 
+different kinds of patients, often 
+in different countries, adminis-
+tered under different conditions, 
+cannot be uniform and therefore 
+cannot be conclusive. 
+Hrobjartsson and Kaptchuk 
+are united on at least one front. 
+Like Wayne Jonas, they agree 
+that the medical system needs to 
+change. "You have to put this into 
+the context of the society in which 
+you live," Hn5bjartsson told me. "Because 
+I think this may be as much a matter of 
+philosophy as of science. There is an anti-
+technological, anti-science feeling in the 
+West. We constantly see frustration with 
+the limits of medicine. The placebo can be 
+seen in some sense as a logical avenue for 
+those frustrations. Everyone wants a sim-
+ple, pain-free solution. But I wonder if that 
+approach isn't just the mirror image of the 
+pharmacological way of handling illness—
+that there is a pill for every disease. 
+"The entire idea of a placebo is very 
+'soapy:" Hrobjartsson continued. "It slips 
+away whenever you try to find a border." 
+That has always been true. After all, for 
+many people a placebo is just a sugar pill. 
+For others, the definition includes the en-
+tire ritual of treatment, the complete inter-
+action between doctor and patient. In-
+creased attention has mostly raised new 
+questions: What are the physical and per
+chological mechanisms that produce pla-
+cebo theses? What are the conditions they 
+most easily affect? And can we actually 
+identify people who respond to placebos? 
+Scientists now haw bits of answers to some 
+of those questions, but to reach their goal, 
+and introduce placebos into clinical prac-
+tice, they will need to answer all of them. 
+T
+ed Kaptchuk gets a great deal of 
+pleasure from focussing on what 
+other people reject. Indifference seems to 
+motivate him. "I was raised in a crazy 
+home, and it prepared me to accept any 
+proposition," he said. That, he once told 
+me. is why he was so active in the sixties: 
+"It was a time when the underpinnings of 
+the universe were questioned." Both of 
+ICaptchules parents, who were Poles, sot 
+vived the Holocaust. "That redly defines 
+a lot of what I do. My father was a Red, 
+so I have a tendency to get pleasure from 
+subversiveness." 
+A particularly radical son of the six-
+ties, Kaptchuk was one of the 
+founders of the Columbia Uni-
+versity chapter of Students for 
+a Democratic Society, in 1%5, 
+but the organization was soon 
+dominated by a faction that be-
+came the Weather Under - 
+ground. That was too radical 
+even for Kaptchuk. He fled to 
+the West Coast. "I was hanging 
+out with the San Francisco Red 
+Guards and reading Mao, trying 
+to get away from U.S. imperial-
+ism," he said. "I was militant and crazy. 
+But at some point I said, Ted, this is not 
+being human." 
+Kaptchuk decided to pursue studies in 
+Chinese philosophy and medicine at the 
+source. Beijing had yet to open its bop 
+ders to Americans, but Kaptchuk hoped 
+that his revolutionary bona fides would 
+prompt the leadership to make an excep-
+tion. "My request to study there was de-
+THE NEV IORKER. DECEMBER e. 201 
+as 
+EFTA_R1_02046881 
+EFTA02695684

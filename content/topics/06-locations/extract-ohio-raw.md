@@ -1,0 +1,189 @@
+# 📍 Ohio-Raw
+> **Category:** Locations
+> **Source:** `06-LOCATIONS/extract-ohio-raw.txt`
+> **Lines:** 158
+> **Generated:** 2026-02-12T11:12:02
+
+## 🏷️ Tags
+`geography` · `ohio-raw` · `trump` · `epstein` · `maxwell` · `wexner` · `kushner`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Trump](Trump) | 11 |
+| [Maxwell](Maxwell) | 9 |
+| [Wexner](Wexner) | 7 |
+| [Epstein](Epstein) | 5 |
+| [Jared Kushner](Jared Kushner) | 1 |
+
+## 🔑 Keywords
+
+`New York` · `witness`
+
+## Full Extract
+
+```
+flight to Ohio, where flew to Ohio to pick up 
+After having a serious car accident, a young man in Ohio began experiencing 
+Trump Ohio fundraiser 
+CLEVELAND, Ohio = Republican President Donald Trump is 
+Ohio based Foundations Health Solutions Inc. (FHS), Olympia Therapy Inc 
+Trump Ohio fundraiser 
+CLEVELAND, Ohio = Republican President Donald Trump is 
+Ohio based Foundations Health Solutions Inc. (FHS), Olympia Therapy Inc. 
+Ohio based Foundations Health Solutions Inc. (FHS), Olympia Therapy Inc. 
+Platinum Funds/Nordlicht. With links to Kushner(s) and Trump lawyer Giuliani. Other NY entities, a Columbus 
+e Cole James Bridges, 20, from Stow, Ohio went into an online forum and chatted with a person he thought 
+Knights of Columbus USA Inc. 
+Northern District of Ohio 
+Cleveland, Ohio 
+Cleveland, Ohio 
+THORAIR LLC SANDUSKY State OHIO 
+North Olmstead, Ohio 44070 
+ThorAir « ae. sic Ohio 44870 ThorAir 
+Cleveland, Ohio 44143 qlightOptions 
+Cleveland, Ohio 44143 
+Richmond Heights, Ohio 44143 
+Corporation Richmond Heights, Ohio 
+Corporation Richmond Heights, Ohio 
+Corporation Richmond Heights, Ohio 
+Corporation Cleveland, Ohio 
+Corporation Richmond Heights, Ohio 
+Corporation Richmond Heights, Ohio 
+Cleveland, Ohio 
+Corporation Cleveland, Ohio 
+Corporation Richmond Heights, Ohio 
+Corporation Richmond Heights, Ohio 
+cilyRichmond Heights StateOhio 
+Cleveland, Ohio 
+Cleveland, Ohio 
+Cleveland, Ohio 
+Cleveland, Ohio 
+North Olmsted, Ohio 44070 
+1. Registered Owner: Flight Options LLC. Address: SE Richmond Heights, Ohio 44143 
+The base of operation is Cuyahoga County Airport, 355 Richmond, Cleveland, Ohio. Flights will be 
+Cleveland, Ohio 44143 q flightOptions 
+Cleveland, Ohio 44143 
+STATE OF OHIO 
+Cleveland, Ohio 44143 
+Cleveland, Ohio 44143 
+North Olmsted, Ohio 44070 
+1. Registered Owner: Flight Options LLC . Address: ia Richmond Heights, Ohio 44143 
+The base of operation is Cuyahoga County Airport, 355 Richmond, Cleveland, Ohio. Flights will be 
+Richmond Heights, Ohio 44143 
+RICHMOND HEIGHTS State OHIO 
+! D HTS., OHIO 44143 
+Sandusky Ohio 
+THIS AMENDMENT IS BEING DELIVERED IN THE STATE OF OHIO. THIS AMENDMENT, INCLUDING 
+OHIO, WITHOUT REGARD TO CONFLICT OF LAW PRINCIPLES. 
+and between FIFTH THIRD BANK, having an office at 38 Fountain Square Plaza, Cincinnati, Ohio 45263 ("Secured 
+OHIO. THIS AGREEMENT, INCLUDING ALL MATTERS OF CONSTRUCTION, VALIDITY AND PERFORMANCE, WILL 
+OF OHIO, WITHOUT REGARD TO CONFLICT OF LAW PRINCIPLES. Grantor hereby irrevocably consents and agrees 
+Loan Documents may be instituted or brought in the courts of the State of Ohio or in the United States Courts located in 
+the State of Ohio, and the appellate courts from any thereof as Secured Party may elect or in any other state or Federal 
+amount of the liability. Secured Party and Grantor agree that such state and Federal courts of and within the State of Ohio 
+MD10904A, Cincinnati, Ohio 45263, and if to Grantor at the address set forth in the introductory paragraph of this 
+business in Cincinnati, Ohio. 
+he OHIO 
+Cincinnati, Ohio 45263 
+being by,me duly sworn, did depose and say; that he resides at County, State of Ohio: that is a 
+Cleveland, Ohio 44143 
+Cleveland, Ohio 44143 
+departing, Cuyahoga County Airport, Richmond Heights, yahoga County Airport, Richmond Heights, Ohio (CS 
+departing, Richmond Heights, nmond Heights, Ohio, Cuyahoga County Airport ———™ Cuyahoga County Airport 
+Cleveland, Ohio 44143, in favor of FO FINANCING, LLC, a Delaware 
+Cleveland, Ohio 44143, in favor of FO FINANCING, LLC, a Delaware 
+departing, Richmond Heights, Ohio, Cuyahoga County Airport 
+business at Cleveland, Ohio 44143, in favor of FO 
+Cleveland, Ohio 44143, in favor of FO FINANCING, LLC, a Delaware 
+New Albany, Ohio; and St. Thomas, where he reincorporated his company seven years 
+Leslie Wexner, founder and chairman of the Columbus, Ohio—based Limited chain of 
+the center of the Limited magnate's high-end housing development in New Albany, Ohio. 
+New Albany was a lush spraw] of farmland on the outskirts of Columbus that Wexner, 
+New Albany development were a total mess," says Bob Fitrakis, a Columbus-based 
+song-and-dance show put on in Columbus." Wexner declines to talk about his 
+The defendants ran horses at tracks in New York, New Jersey, Florida, Ohio, Kentucky and the United Arab Emirates, 
+Prosecutors alleged the international scheme spanned racetracks in New York, New Jersey, Florida, Ohio, Kentucky and 
+The defendants ran horses at tracks in New York, New Jersey, Florida, Ohio, Kentucky and the United Arab Emirates, 
+Prosecutors alleged the international scheme spanned racetracks in New York, New Jersey, Florida, Ohio, Kentucky and 
+Models were an Epstein theme, according to William Mook, head of Mok Industries in Columbus. He said he met Epstein after pitching 
+registered in the State of Ohio and the District of Columbia. 
+Pennsylvania, Michigan, Virginia, Indiana, Ohio, Texas, and Illinois. These shipments were all arriving from China and were 
+transferred Epstein's Manhattan mansion, private 727 Boeing jet, and Ohio estate to him from his and L Brands’ previous 
+death.” Eddings v. Oklahoma, 455 U.S. 104, 110 (1982) (quoting Lockett v. Ohio, 438 U.S. 586, 
+535 F. Supp. 338, 354 (N.D. Ohio 1979), aff'd, 671 F.2d 212 (6th Cir. 1982) (“It is not a ground 
+Department of Psychology, Kent State University, Kent, Ohio. Conference on Eyewitness 
+Miami-Luken Inc., an Ohio drug wholesale distributor, and four people including two former executives have 
+indictment charged the Springboro, Ohio-based company; Anthony Rattini, the company’s former president; 
+Miami-Luken Inc., an Ohio drug wholesale distributor, and four people including two former executives have 
+indictment charged the Springboro, Ohio-based company; Anthony Rattini, the company’s former president; 
+Mehlman-Orozco, Kimberly B. (May, 2017). Expert Witness Report. State of Ohio v. Michael Moore. CR 
+2017-2018 State of Ohio v. Michael Moore, Lucas County Court 
+How the “felony murder” rule works in Ohio. Police shoot and kill a robbery suspect and 
+Subject: FW: Last—Ohio state donation and report showing a foundation called Enhanced EducAtion 
+Subject: Last—Ohio state donation and report showing a foundation called Enhanced EducAtion 
+Ohio state news out today—My my, see who is largest donation is to in the 2009 report for her another of his 
+https://radio.wosu.org/post/ohio-state-received-millions-donations-jeffrey-epstein#stream/0 
+On May 01, 2009, Air Ghislaine Inc., sold their 6.25% to Flight Options LLC in Richmond Heights, Ohio. 
+To identify the persons behind Air Ghislaine Inc., contact Flight Options LLC in Ohio. 
+On May 01, 2009, Air Ghislaine Inc., Richmond Heights, Ohio purchased 6.25% in a Beech 400A jet, serial number RK-244, 
+On June 02, 2011, Freedom Air International Inc sold their 6.25% share in N439LX to Flight Options LLC in Cleveland, Ohio. 
+To identify the persons behind Shmitka Air Inc and Freedom Air International Inc., contact Flight Options LLC in Ohio. 
+On May 01, 2009, Air Ghislaine Inc., sold their 6.25% to Flight Options LLC in Richmond Heights, Ohio. 
+To identify the persons behind Air Ghislaine Inc., contact Flight Options LLC in Ohio. 
+On May 01, 2009, Air Ghislaine Inc., Richmond Heights, Ohio purchased 6.25% in a Beech 400A jet, serial number RK-244, 
+On June 02, 2011, Freedom Air International Inc sold their 6.25% share in N439LX to Flight Options LLC in Cleveland, Ohio. 
+To identify the persons behind Shmitka Air Inc and Freedom Air International Inc., contact Flight Options LLC in Ohio. 
+On May 01, 2009, Air Ghislaine Inc., sold their 6.25% to Flight Options LLC in Richmond Heights, Ohio. 
+To identify the persons behind Air Ghislaine Inc., contact Flight Options LLC in Ohio. 
+On May 01, 2009, Air Ghislaine Inc., Richmond Heights, Ohio purchased 6.25% in a Beech 400A jet, serial number RK-244, 
+On June 02, 2011, Freedom Air International Inc sold their 6.25% share in N439LX to Flight Options LLC in Cleveland, Ohio. 
+To identify the persons behind Shmitka Air Inc and Freedom Air International Inc., contact Flight Options LLC in Ohio. 
+Investor Claims Ohio Utility Played Role In $60M Bribery Plot 
+investor who says the utility's stock lost value after an Ohio newspaper ran 
+Ohio House of Representatives 
+Southern District of Ohio 
+Indiana, Minnesota and Ohio joined the growing number of 
+Ohio Supreme Court 
+“They are both very prominent in Columbus [Ohio]” the person told CNBC on Wednesday. “It’s 
+affiliated with the now-defunct bank Bear Stearns. Outside of contributions to The Columbus 
+residence. The trooper is a witness to what occurred during his stay in Ohio. 
+already seen the letter [J sent after she left Ohio suggesting the idea of 
+immediately leave Ohio. You will also find country club bills detailing her 
+Trump Ohio fundraiser 
+CLEVELAND, Ohio = Republican President Donald Trump is 
+Ohio based Foundations Health Solutions Inc. (FHS), Olympia Therapy Inc 
+class. /d. at 1228. Similarly, in United States v. El-Sadig, 133 F. Supp. 2d 600 (N.D. Ohio 
+Columbus, Ohio 43215 
+Columbus, Ghio 
+7 visited JE’s home in Columbus, OH 
+Ohio State University 
+Ohio Supreme Court 
+Carpenter Legal Search, Inc. - Columbus, Ohio 
+Trump trashes Adam Schiff during Ohio rally 
+Ohio, insisting he doesn’t need to get permission from Congress to protect 
+of Ohio 
+over allegations that news the company paid Ohio lawmakers $60 million to 
+Ohio House of Representatives 
+Southern District of Ohio 
+sentence for an Ohio man who sweet-talked victims into parting with their 
+A Manhattan federal judge sentenced a 61-year-old Ohio businessman who 
+Office for the Southern District of Ohio announced Thursday. 
+Southern District of Ohio 
+man in Ohio, a lead is being sent to CV; the remaining 3 are currently out of pocket. The team (8 SAs/TFOs, 2 
+I do not know about Ohio contacting Wexner. 
+Leslie Wexner, IJ (Ohio) 
+resides in Ohio and | can assist in coordinating a time for her statement. 
+Ohio horse event 
+Ohio horse event 
+Ohio horse event 
+Ohio horse event 
+Ohio horse @vent 
+Ohio horse event 
+Ohio horse event 
+```
+
+---
+
+*Full extract: `06-LOCATIONS/extract-ohio-raw.txt`*

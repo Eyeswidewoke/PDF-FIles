@@ -1,0 +1,70 @@
+---
+source_image: "deposition-transcript+affidavit+legal-filing+court-document__EFTA01456465_20260130_p001_i001.png"
+source_pdf: "EFTA01456465.pdf"
+method: pdf_text
+words: 664
+confidence: 1.00
+extracted: 2026-02-13T16:19:49.183090
+---
+
+(b) 
+Subparagraph 6(b) shall be deleted in its entirety and replaced by the following: 
+lb) 
+Unless otherwise agreed. all money payable by one party to the other in respect of 
+any Transaction shall be paid free and clear of. and without withholding or deduction 
+for, any taxes or duties of whatsoever nature imposed, levied, collected, withheld or 
+assessed by any authority having power to tax unless the withholding or deduction of 
+such taxes or duties is required by law. In that event. unless otherwise agreed. the 
+paying party shall pay such additional amounts as will result in the net amounts 
+receivable by the other party (after taking account of such withholding or deduction) 
+being equal to such amounts as would have been received by it had no such taxes or 
+duties been required to be withheld or deducted. For the avoidance of doubt, the 
+reference to "law" in this paragraph includes FATCA. However, no additional 
+amounts shall be payable by the paying party to the other party under this 
+subparagraph (bXi) to the extent that such lax is imposed or collected under FATCA. 
+(ii) 
+If the paying party is required to make a withholding or deduction under FATCA but 
+does not so withhold or deduct, and a liability resulting from such tax is assessed 
+directly against the paying party, then, except to the extent the other party has 
+satisfied or then satisfies the liability resulting from such tax, the other party will 
+promptly pay to the paying party the amount of such liability (including any related 
+liability for interest, but including any related liability for penalties only to the extent 
+provided in subparagraph b(iii)). No payment under this subparagraph (bXii) is 
+required to be made to the extent that the relevant liability arises from any gross 
+negligence or wilful misconduct of the paying party. 
+(iii) 
+The amount of related liability for penalties shall only be payable to the paying party 
+under subparagraph (b)(ii) where such penalties become due because the other party 
+has failed to provide appropriate US tax forms." 
+(c) 
+A new subparagraph 6(k) shall be added as follows: 
+"(k) If at any time a p.•rty (the "first party") is required to remit an amount of tax to the IRS 
+with respect to a payment under a Transaction in connection with FATCA, then without 
+duplication of any amount the first party has deducted on account of such tax from any 
+amount previously paid to the other party (the "second party") pursuant to the Transaction, the 
+second party shall be required to pay to the first parry• an amount equal to that amount of tax 
+on the payment date on which a payment giving rise to remittance required under FATCA 
+occurs. Upon the reasonable request of the second party with respect to any payment date, the 
+first party will supply to the second party computations setting forth in reasonable detail the 
+amount payable on such payment date pursuant to the preceding sentence." 
+(d) 
+A new subparagraph 6(l) shall be added as follows: 
+"(I) For the avoidance of doubt. the imposition of any withholding or deduction pursuant to or 
+on account of FATCA on any amounts paid or received under a Transaction shall not be 
+treated as an Event of Default under paragraph 10 or as a material adverse effect that could 
+cause a Tax Event under paragraph II. even if such imposition results in either party receiving 
+amounts that differ materially from the amount that the party would have otherwise received if 
+no such withholding or deduction were imposed." 
+(e) 
+A new subparagraph I0(eXiii) shall be added as follows: 
+"(iii) The Default Market Value determined pursuant to subpamgraphs (i) or (ii) above shall 
+not take into account any deduction or withholding imposed or collected (or that would be 
+imposed or collected) in connection with FATCA that would not be imposed but for the non-
+Defaulting Party's non-compliance with FATCA.•' 
+29 
+Confidential 
+CONFIDENTIAL — PURSUANT TO FED. R CRIM. P. 6(e) 
+DB-SDNY-0115663 
+CONFIDENTIAL 
+SDNY_GM_00261847 
+EFTA01456465

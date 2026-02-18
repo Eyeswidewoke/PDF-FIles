@@ -1,0 +1,299 @@
+---
+source_image: "affidavit+court-document+deposition-transcript+legal-filing__EFTA01328448_20260130_p111_i001.png"
+source_pdf: "EFTA01328448.pdf"
+method: pdf_text
+words: 764
+confidence: 1.00
+extracted: 2026-02-13T16:09:21.496955
+---
+
+FAA FORM 8130-6, APPLICATION FOR U.S. AIRWORTHINESS CERTIFICATE 
+Rim Appeared 0.M.9. No. 2120-0018 
+Fipiratiem Dale 02/282013 
+11 
+APPLICATION FOR 
+u5 Moo 
+U.S. AIRWORTHINESS
+es Tremolo% 
+Fetal Ariake 
+CERTIFICATE 
+AdmInhosalea 
+INSTRUCTIONS - RIO Or NW Oa no. vow In %DM wen: Rana M4 FAA 
+SAM 
+IA 
+Salweved FM Reponlehe. N 
+uee enly. 
+OHM dray 
+an 
+GOSH 
+M 
+Meclort For sway lloy 
+complale Solana 
+Wm,  
+NON& use 
+NAN% 
+R. W. and w as NOON. 
+L AIRCRAFT 
+0ISCIIP TON 
+I REGISTRATION MARK 
+N405PJ 
+2 AIRCRAFT BUILDERS IWO Now 
+eel 
+a AIRCRAFT MODEL MIGRATION 
+407 
+4. YR. MFR. 
+1999 
+FAA C006.43 
+S. AIRCRAFT SEPAL IC 
+53375 
+6 ENGINE OUILGERS NAVE Waal 
+Roils Royce 
+7 ENCASE Opel DESIGNATION 
+C-478 
+I HOER CF OOKIES 
+One 
+E. PROPELLER WEBERS POE mw 
+WA 
+10. WOOLEN MOON OESIGNATION 
+11. AVICRAFI Raw 1 wasp) 
+WA 
+,11 
+I 
+PPM 
+IL Cu MUM.. REQUESTED 
+APW1CATION IS NE RE Or MADE FOR tom marimad 
+I 
+A I 
+i 
+STMCARDAwACOMIESSCERTFICATEnemmema 
+Ii lime` I Ital.' I Pam
+ II 
+Il ....t.
+ .1 
+Ia.. " 
+n 
+"' an  
+I 
+fr es.
+0 
+SPECIAL AOMORI reNESS CERTIFICATE /Ow answ4444.4 
+7 
+PRIMARY 
+0 
+UGHTSPORT 
+I 
+I 
+I 
+II PorParach.te I 
+PAINNEMICOM I ION 
+I j 
+ra AS 
+1 
+A...or 
+So 
+OTTO 
+OW 
+5 
+PROvISICAMI. 
+1 
+CIASS 1 
+ASO 
+2 
+COSI 
+I 
+AGIFOCLETURE NO PEST CONTROL 
+2 0 
+AERIAL SURREY 
+3 
+AERIAL AOVERISC 
+a 
+RESTRICTED Hem varew44 
+4 
+FOREST ow 
+S 
+PATROXIN3 
+6 
+14 
+%FATHER CONTROL 
+Hie essa.0 
+0 
+eawor 
+OTHER MN*, 
+1 
+RESEARCH MOCIEVELOPHENT 
+2 
+AMATEUR MT IS 
+3 
+EXOTICA' 
+a 
+NA RACING 
+5 
+CREW TWANG 
+MARKET SURVEY 
+0 
+TO SHOW COMPUNCE WITH THE CSR 
+7 
+OPERATING prawn Casey KR WILT AIRCRAFT 
+EAPt %RENTAL 
+OA 
+Iwo son woo on ainvalwas MOM 4 dera me II 1031 
+a
+"ewe %mono) 
+a. a.a—C 
+II
+CREAMING 
+BB 
+COO Liclu-Scol wane
+se
+LICHTNTORT 
+IC 
+ONO IONSPAI MOW WO/ ONO WOW.,  401420171odOss 
+MEM Wider 621.1W 
+A 
+VIIIANNED 
+OA 
+RESEARCH ANO 0EvElOPMENT I IC rICREwTRAIINN 
+AIRCRAFT 
+TM 
+MARKET ONO 
+I 
+FERRY FLIGHT FOR RENON, ALTERATICHS.MOINANCE. OR STORAGE 
+SPOON. Mart PERO Ram 
+2 
+EVACUATE FROM AREA OF IIIPENTODANGER 
+a 
+••••11001110INOSINL•11011.1.11, 
+1•0•• Me I* MP dillaiii• 
+MIR 
+3 
+OPERATION IN EXCESS OF 14041111111 OIRTIFCATED TAKEOFF WEIGHT 
+4 
+OEUWRIKE OR EXPORTING 
+.LS A 
+PROCIUCTON RICO TWO 
+0 
+015TCHERDEOSTRATICN 
+_I 
+FLIGHTS 
+CI 0 
+WATIPtE ovicarenoss CERT1FC.ATE Owe ode . maramawimrem Mote 
+mast Nosy 
+i 
+5 a i 
+i 
+III 
+A REGISTERED OWNER (44 04% on wafts 0.40•Ampleta/N 
+IF DEALER. DECK NOTE 
+i 
+I 
+Nme 
+HOMO. LIC 
+MCNEES 
+903 La-rgley Way Red Blutt CA 96080 
+0 AIRCRAFT CERUFICATON BASIS wwwireem Dew me Num* Nur re reveal 
+SAM 
+HRCRAFT SPEOFICATION OR TIRE CERTIFICATE 
+SHEET pm ru w,
+A m • m mu 
+I 
+MCMORT111115$ PRECTNES Want de esieni.A0. a crInee a as/0••••••••• 
+no 64.% stoRncref 444646 a ....444.% a 
+44 ow des 04•44caro 
+2016-04 
+LO
+AIRCRAFT 
+OK tow•ron. Nertu 
+I 
+SLOREVENTAL TYPE CERTIFICATE (LinotOre Woe SIC ii••••64.0 
+See snitched 
+C FOOT OPERATIONNO MANTERANCE RECORDS 
+CHECK IF RECCROBIN 
+Id COMANCE NTH 
+14 ca m NOW191 417 
+TOTAL 0.4101MIN TOAS 
+2013.1 
+3 
+EXPERIMENTAL ONLY Or ram arnamararmeamme 
+ram. 
+D. CERTIFICATION .1 NNW NO Mal 1 
+00:0.4•4040411. Ts 49 0 Me Ursa Ors 
+wohno MOM NOON 
+an Me ONO ma (or Na Ho WM *on 44400.0 Com CM ER OM 
+Cede 441101Elo CM opium@ FOCIIII M4111011 ftnit03011.Irid POI M 
+is 0.104.1461 .IN IR FORS A•41.101 
+' 
+W. 
+MM'S hOS bon bapecepti 
+MAMBO 
+WIN 
+COATE OF APPUCATION 
+400016 
+NAME NC TIRE %Scots/ 
+David McCarnmon Director of maintenance °parallax 
+SIGNATURE 
+. 
+_ 
+I
+i 
+lig
+5 
+g. 
+A THE MOWN CISCO° ABOVE WS BEEN INSPECTEDAND FOUND AIRWORTHY By: (caftwas..4 ram ar, II CM st/I21.141Mentea) 
+2
+us CFR zi121 CIATITICATE Otero. 
+I 1 
+I CERTIFIC
+4A 
+ATED 
+Ci ;red 
+Oft talor. an is I Iz„,,,c„,,,t,....srmo„.......... 
+avedAvT IWWW0TURFA Me Y••••riel
+OATE ythi2016
+TITLE P ada 
+of Maintenance Operatarts 
+SIONATURE 
+David McCarnmon if*/ 
+V. FAA 
+REPRESENTATIVE 
+GERMINATOR 
+Nom ALL 00.4.1400 WA...0) 
+THE CERTIFICATE REQUESTED 
+Pli 
+AIMSINK am amen eremterm $4d0n
+ MI 01448 RION•0 61 6 RI 
+4 
+MEMNON CR IROOFCATION OF CURRENT MOVORTHINESSCERTinCATE 
+El amPHoldr a sPaolaSEN moot 
+FM OFECTOR 
+FM DESIGNEE 
+SNOW VII 
+von ocoducled IN 
+CERTIFICATE OZER UNDER 
+H 
+OVA pales 
+I ju 
+CM pen 12101136 1 I14 CFR part 1% 
+OATS 
+MOO/FE00 
+OFFICE 
+FM INSPECTORS SIGNATURE a DESIGNEE, 
+...MATuRE„Ip ins,
+e
+, I 
+,
+ i 
+FM WSPECIONS CEITIOATO FILE RELE72.ii r 
+MOMIVRE 
+45.11PR2P( 64 C• PS°  ° 
+ai 40 7t &Kasai's 
+ONdr 1 • 0 41140 • 
+. 
+age/dta• 
+ALAIEI 
+FM Form 1304 (04.201 ) N PreVaa Edelen. Superseded 
+Elea** Foal .PCM 
+Page IR 2 
+SONY_OM_02768520 
+SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17 
+EFTA_00243442 
+EFTA01328558

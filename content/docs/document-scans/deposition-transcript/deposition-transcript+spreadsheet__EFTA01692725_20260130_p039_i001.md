@@ -1,0 +1,571 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692725_20260130_p039_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 980
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.817244
+---
+
+F Mccunt Name 
+Account Number 
+Date of Irweice 
+Noveaber 14, 2004 
+AT&T Wireless 
+Page 10 a 20 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR-- 
+Continued 
+rember 
+0FAY 
+Omer 
+kW OW TM* GEM40 
+FWD To 
+Used Ram Description 
+VT 
+rA.L wATING 
+174 10/1$ 009W 
+WPAIAMAGN IL 
+VIN 
+LS lArrrn Pt.M(NO 44 x 
+IA Igit Mg 
+PreklAr
+Cs IL 
+WI 
+tit litqg 
+gript litg 
+40 1 
+} g 
+09 iES 
+M 
+1 
+• 
+V00.00004 FL 
+= 
+MIUMTED AIMEND uiN 
+WALT/MACS FL 
+WODIANC 
+We 
+INOWITED WAN MN 
+LIMAVED INUAND MN 
+142 10116 wile 
+WINAMMACH FL 
+MI1 
+UNUMED /09100140 
+143 1016 OW 
+WPAINIMA04 FL 
+SIM 
+UNIANTE0.0004/4D lax 
+143 unt I' 
+14141404 FL 
+MIN 
+WO IMED WAANDIAN 
+Na 1016 11 
+MN 
+MIMEO WAND IAN 
+141 MI:11 
+.4.111A04 FL 
+MN 
+111/2u4.0 TED WNW MX 
+T ./ 
+llgrMINVIAr's 
+Id 100601.44A 
+MOOMNO 
+MN 
+UALIWEED AWIEND WIN 
+149 1041601 46/4 
+WILEACHFL 
+MN 
+ULAIWITED WANNO NO 
+1 
+10/16 01 SON 
+I 1 1011601 $24 
+1 
+111,1611D 324 
+1 
+M in 
+4/02 
+INCCIA14. 
+Erg FE 
+;1 
+MN
+"N  
+tni
+"
+ir liT19 1.5""ArIvIDP M
+il 
+Y 
+WOOL 
+MN 
+UAW !LC N/400440. 
+01004FL 
+MN 
+MN 
+LAUmTE0 WW1END Nu. 
+MS d16401IA 
+WPALT/MAGHFL 
+MN 
+UNUMTIO NAM040 MN 
+LW 
+IsESNAGE RETRIEVAL 
+gl 
+ru 
+140 
+in .„ MA 
+1' MP 
+WPA.I.RZli FL 
+NN 
+tnitleic 
+PAWN PM 
+MN 
+11/11:4AD rintang MN 
+16031M 
+al
+cztv
+.,,,, , ,  
+,,,.. 
+EMLIATLE WWICA CE. MN 
+(00YNTONSCH FL 
+1.40. 
+1.010400) /WM 
+MN 
+MA 03 MP 
+000104904 FL 
+MA 
+MOWED KNOW> NN 
+1 01409 OP 
+WPALUBEAC11 FL 
+MN 
+LAULITEDWYMNO MA 
+I 
+in 
+1001P 
+144 1011410 : ie 
+WC, 
+O00.4 
+W
+C.4.4 
+MA 
+WIWI 
+HAVY0 MN 
+M 
+AWAIL 44/9001 MA 
+0:14 OOP 
+MS 
+(AIM it 
+WW11/1 MA 
+16S 10/1410 sip 
+ISPD401144 
+MN 
+LAIW(00/Wilui km 
+44.6 1006 10 210 
+INOCIAM9. _ 
+IAN 
+A ALNATED0W1u4 MA 
+149 10/14 10 MP 
+WPA.10.040IFL 
+MN 
+1.01411011104/0140 MA 
+••• :Oh. 1040P 
+BOYATO/11304FL 
+MA 
+ANIWTED IMMO )04 
+/8 Egg Mg; 
+vierkidtM a 
+No. 
+WIUMTE0 AWN MA 
+31 10/14. 10 41P 
+WANEWEACti FL 
+:t 
+trUPW
+" ig= 
+tit 
+72 1016 1044P 
+INOWNCE 
+Ms 
+I.StilirttO hithri(04 M. 
+73 WA 1044P 
+WPANAMEACH FL 
+MN 
+LMMTE0 WOW MN 
+74 1016 
+1122
+4P
+11e 
+01024454 
+MN 
+UNUINTED /WNW VW 
+75 WM 11: 
+76  
+77 10/14 11.
+11.43P
+3W 
+WPALI4
+MN 
+LI
+WPALM 
+FE 
+IAN 
+UNUMTED WHICAD1101 
+M
+NUM00 ANN
+IONICA
+END MN 
+N 
+10141 
+MN 
+UMLWITE0 
+MN 
+79 NY% I AMP 
+WPAIDI 
+FL 
+MN 
+UNUINTED W/014D MN 
+79 1014 1131P 
+WPALIMEA04 FL 
+MN 
+UNUMTED /WEND MN 
+5010% 11.9M 
+INCOMING 
+MN 
+LINUMTE0.10/04/014111 
+101) 1213A 
+DCW14704004 EL 
+IAN 
+MINTED EVM110110 
+1017 01/09A 
+10 U
+till 
+WI al 
+WPALA.95 
+IL 
+WI 
+WWII 
+WW1 MN 
+CAPON' 
+BOYNYONI FL 
+INN 
+UM/WM WA/9/01/0 
+; Ii.. 
+m 
+Main 
+W4401 MN 
+LOMAT 
+NNOJI mid 
+1017 
+1017 0 
+WPALIIM.9.01 r4., 1.1 
+UNUMTED NIWIDID MN 
+07/14104004 
+INC03100 
+1.101141TEC /4WIEND MN 
+1 
+7 
+.IM 
+IF 
+M 
+DDYNTEDN0194 Ft 
+U WENN MN 
+1 
+7 
+NSA 
+WFAmiaLw FL 
+161111 
+UN 
+0 
+IDA 
+tzi.DNY/704 
+MN 
+Al 
+MN 
+I 
+in i 
+7 
+i 
+N in= 
+MEW" IS 
+I , 10/17 0211A 
+,N to cot 
+FL 
+1 
+i IN IN tit 
+ii« 
+Ohara 
+VOICE USAGE FOR 
+nay 
+CaNnued 
+ChrY 
+Chris 
+kern DS Trs• 
+CAS To 
+Wad Ram Descrip6on 
+190 10117 11 1 
+WP 
+FL 
+IMN 
+U LIMED WOW MN 
+1M 10017 11 
+MN 
+UNUMTEDNEWIOND MN 
+202 1017 O. 
+PC 
+WI 
+:V: 
+RE C:::g tit/ 
+(VT 
+WESSW. PETRWAL 
+ET IV311.
+203 1017 12.12 
+FL 
+MN 
+WAIATED 1440040 MN 
+MN 
+LIA-MTED WWW0 MN 
+201 1011 0102 
+NP 
+FL 
+MN 
+UNWED NAMO40 MN 
+236 VW 0111 
+NP 
+1017 021 
+I WO 04 
+11104119004R 
+LIM 
+UMMT D WWKNO MN 
+G 
+FL 
+MN 
+Wamni) WNW MN 
+WI 
+U/A41/447 0 WNW° MN 
+it
+ 
+DS 
+/ASSAD RUDD/AL 
+iii 1E33.,gf',..---. 
+211 1013 0702 
+war 
+r c 
+MN 
+JicaAT D WA, 
+FAN 
+wPAINEW 
+WAINOF 
+NFL 
+MN 
+Untie T 0 WPM MN 
+We 
+11FL 
+PAN 
+UMITITED IENUNSO MN 
+MN 
+uNENAT D. MUM MN 
+ENT 
+MESSAGE RETRIEVµ 
+212 10/13 Olitt 
+WPM/MEAD:IFL 
+MN 
+11NiM 1 3 VMS MN 
+ili ion 
+MCCAIrG 
+MIN 
+0141MT 2 MVO: MN 
+9! Inn se. i ..; 
+80 
+WP 
+It 
+604 
+UNIMT 
+WWK 
+We 
+i
+iin0M
+cru
+nG
+i a 
+,.... 
+iliN
+adl uilAnTE3,...
+..wio:2:4 
+O 
+witziri 
+IEN44 
+004 
+uNtE 
+' NANA 
+WAILAMOR4iFAL 
+Mil 
+OMNI I' rAVOi 
+MN 
+WPAIMMACH el 
+MM 
+MIMI 
+feWeli an 
+UMW T 
+MVO. MA 
+072 
+20 WI Ct1 
+WPWAMAGN FL 
+MN 
+UNMATED NW111M1 MS 
+223 'DI Mil 
+WAAL/ANEW FL 
+NM 
+`ROOTED NENVANDIAN 
+Z 
+CROP CALL CrIpos 
+224 101 0111 
+WPM:MACH a 
+MN 
+10/I 
+tE ev0,0, 1 Eg li k. 0 
+1al ilemlialtiR p1ryiya 
+MN 
+WAAL 
+Ft 
+ISI 
+umesarrig Nomra MN 
+WPALV 
+ft 
+MI 
+UNUMTED /WM) MN 
+210101 06 
+BAINNTON1301 Ft 
+ION 
+UNISCED ACNDID MN 
+230 WI Olt 
+90INTONBCH Ft 
+MN 
+LINUICED Wan 
+MN 
+21  E 
+WPAINDIEACN FS 
+MA 
+taloa-  
+/4WD. MN 
+OM 
+'admt 
+PAWN MIO 
+W
+MCOME
+GUTAcii It 
+1/14 
+SNOW 
+WAOLII slog 
+.0 100 C4 
+INCOMING 
+Mw 
+LNUM 
+NEW1040 MN 
+ZS} WI 00 
+WPALMEDADDI il. 
+IAN 
+UNINATED NWIWO IAN 
+236 WI 
+WPAUMEA04 Ft 
+le0 
+04UMITECENVaND IAA 
+238
+37 1741, 
+MN 
+UNLIMITED hIWILND MA 
+WP
+"C ALM
+"
+111401 FL 
+liN 
+IMMINTEDNWYNO MS 
+EVT 
+WA K£ RETRIEVAL 
+2.4224°23:21 
+WI 
+WP 
+xo
+wEini 
+INCCWNG 
+AIMBEACN FL 
+MN 
+MO AWL ANYTIM MN 
+Yr 
+NO 
+IMYTIs WV 
+11111 
+BOYMIONBOI FL 
+MN 
+INIUNITED WAND MN 
+INCCWEIG 
+221 417 iv,
+„„am
+ 
+WPALMBEACH FL 
+500740/4904 FL 
+Mwt  " 
+WFW
+AWru
+m sses
+ 
+AWYTY 
+ril 
+SY<
+w$0046004rt 
+ANTI 
+LM 
+NI ?o'nfil 
+Na Kni 11: 
+g? = 
+11 4 
+tay
+irianerrt0Aesii rt
+:3= 
+. .„ 1 
+W4 
+ini4 
+404 
+340 
+Ama mi tonl
+i"I
+ANTI 
+INN 
+ANY 
+YT 
+MN 
+A04 FL 
+DO 
+1000001 NINNY UN 
+qi
+N2 r4
+10116 i l: 
+Iss toni tin 
+11.1=8 
+MCCAW° 
+IS 
+ICO 31 
+ANYT14 NM 
+WI 
+200 
+1 Plana WI 
+MO 
+103 
+1. ANYWE 1101 
+WPPOMEACLE Ft 
+WI 
+302.001 M004 IAN 
+LV1 
+CALL 01417146 
+MI IOW 1737 
+201 20116 12. 
+5011
+m a 
+/1. 
+VW 
+tilc=B4AldiCa
+m
+FL 
+WI 
+WI 
+303 AWL Porrtut MEN 
+2% WM 021 
+Charge 
+EFTA01692763

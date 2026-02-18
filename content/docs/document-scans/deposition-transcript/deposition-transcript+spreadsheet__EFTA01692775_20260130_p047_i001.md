@@ -1,0 +1,531 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p047_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 854
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.954787
+---
+
+cingular 
+Account Number 
+ACCOttliame 
+Date of IntroIcel 
+April 12, 2005 
+Page 11 of 16 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+%/OKI USAGI. la:onttra 
+I.X1 
+Number 
+Only 
+ammo 
+1w04 Oats TWA Celled 
+Calls To 
+usod RAY ChMeriptIon 
+442 0320 11-11A 
+TO$11499914 R 
+11AN 
+301A001.444911M Lell 
+443 032104.1tP 
+V4PALI
+. FL 
+MAN 
+=Pat 
+RIME MN 
+AM 012904:39P 
+4.4 03200320P 
+WPAILICRAEN $ 
+176IN 
+390 ACM. ANTIMMO 
+WANE 
+INPAI. 
+Ft 
+INN 
+UN 
+444 0321)01-10P 
+BONN 
+Ft 
+4Pa 
+Wit
+Vit mi au 
+450 
+01.179 
+it ir., ,,,, 
+MN 
+Lim 
+44? 0342.01,1W 
+2.11 
+b'ri
+WK 
+ION 
+4w 0329 Ca SaP 
+430W4T0110044 Ft 
+2M44 
+UNMt RE 
+Ith
+ATED IMMO 1474 
+453 0329 42064 
+wp
+wrialustAa4
+T040304 aft  
+; rodeo 
+kr
+lipiir
+titalk om
+p4:::. N 
+1 
+442 0309 10 4719
+474
+41
+ii,4937A NVA 
+4 M 
+I Srp4 
+160 
+457 
+.10 
+459 03 
+ONOW 
+M Cii
+ALILE
+4 AC*I FL 
+q 
+19M4 
+F 
+= 
+INN 
+XOACOIL ANYTNEMN 
+VNLIrt tO PAVAN; 4494 
+4111 
+ON } 
+IAN 
+AN 
+MN 
+AN 
+MN 
+IEVT 
+1ESSAGE RETRIEVAL 
+WPALMENACI4 Ft 
+3101 
+KO ADM ANY f AK MN 
+evrAti== 
+R Ifil 
+LlifeNt T° "a
+W
+yvi 
+FL 
+FL 
+6100 
+UN 
+Ea 
+UMPAT 1 rtillgirT WV 
+FL 
+11494 
+i2 
+R "RI 
+AL 
+slW 
+9Ni 
+11101 
+e RCP 
+*MN 
+UNMATED/49MM NW 
+ilea 
+UNMATE NAM, 11114 
+3104 
+UNUIATED ?WAN MN 
+MIN 
+9:4341301. ANYTNE PAN 
+!gr . 
+ea 
+7,4V :VI,
+i 
+WU 
+UNLISMACAN V 
+14.04 
+LAM MOM T 
+INN 
+LAMA 140. TO MOII, 
+INN 
+41404 
+C 
+.11.-4734E MIT 
+MO 
+0 
+WATS 
+4144 
+305 
+AhrT0 1.4 
+INN 
+uorarrroxre, I) MN 
+1EVT 
+ANSSAGF RFTINEVAL 
+NAN 
+LMOMEDWMIND IAN 
+21404 
+tNUMTION.INIIII0 IAN 
+it',1 
+RILIZIEBLym'x'18:1 
+1199 
+willum0444 TO 
+NMI 
+04411144.40/44 1 
+IW 
+NE 
+=
+SSAGE R 
+YW 
+ADM PA 
+2404 
+3C0 AC01. 
+MIN 
+930.4C01. 
+241
+RS1 
+1MN 
+1. go 
+411;4 
+Y.OAC01. 
+MAN 
+11m4 
+?cal., 581. 
+INN 
+UNila 
+TO 
+WAN 
+LINI.R 
+ININ 
+303 AOWL NOTE MN 
+499 0329 04099
+i4::p3
+90 1:1
+03a2S ei
+C4.3i 
+444 0929 40;3IP 
+ing 
+447 1111 I /INA 
+454 
+12.13A 
+NA OM 07 OM 
+on 03410 121W
+III 0300 II:
+„u  17.F 
+73 
+Or IP 
+74 
+O. 51P 
+1440 103/30
+p
+W.ifs)P 
+. 
+4 
+04.41P 
+4 r4) COM 01999 
+441 Ono 094N. 
+402 0300 0/470 
+83 0330 09490 
+IN 03101'399 
+493 0931 ii.340A 
+60301 10.30.4 
+49103' 110'33* 
+Mal 03 11035* 
+491 
+I 
+490 
+1101* 
+490 
+1 TA 
+4 
+I 
+w 
+2
+ IF 41; 
+496 MN 
+MP 
+::, illgti 
+4$ 
+101 
+499 03.31 04 SOP 
+=OR 
+mama 
+N= 
+INC
+M OINKI 
+WPALMBEAPIAL 
+LpFy
+AST 
+FL
+TITE
+MIT 
+NFL 
+WPAtiatrwl4 FL 
+VoMiNIENA04 Ft 
+Sat
+HI 
+WPAINALA.001 
+cpAVENt Ft
+Ft 
+WP
+A
+A 
+/I 
+WP 
+MIPAUMEAOIFL 
+MPAU/Ww.4 Ft 
+imIgp
+t
+nRR
+if
+Ft
+Ft 
+FL 
+Champ 
+VOICE tl:.: , .GILOaconinuca 
+Orty 
+Chirp, 
+IN. DM now GDM 
+Gas To 
+LIAM Rose Onatles 
+901 COO n
+. IPs 
+902 0.10 091W 
+403 COO CA 
+Mil 
+IMP 
+3/0 
+(4419 
+SI1 0141 0914P 
+11 
+cgs. 
+17, 
+11 
+114.4 
+St
+i ll 01.01 I 9 
+ill 04401 11:47 
+619 040 11:3S 
+" St& R" 
+Ott R 
+lliEr
+°4°
+127 DUO 04 
+329 COO 04 
+Mt 040 04 
+ra? owe 04:44 
+04. 
+tE
+p ip 
+040 0450P 
+040 0151P 
+634 04.0 09:1 
+313 040 09 3:09P
+t2 
+040 CNN, 
+9311= 
+wrip 
+942 0400 094IP 
+. 
+Sa Wow 
+SOWN 09419 
+549018 
+540 04.0 1014P 
+549 00
+40 
+4027P 
+Er?
+lekrP 
+1033P 
+Ul 
+RH;
+04.0 MOW 
+M
+W) NA 111 
+A1P 
+699 040 1:309 
+WPALIIWCII FL 
+rz 
+m 
+an 
+IAN 
+u 
+UMW 
+TO 
+R 
+IN 
+AM 
+101 
+LIN L 
+MN 
+MIN 
+Ift=tr
+a
+r iptU
+illlecti Ft 
+0 ;21-11 
+124 
+811TRIg'428,2 
+IN 
+UNLIN1TONM3340 MN 
+V.14.41.MIEA94 FL 
+2 
+F. 
+PAN 
+igir WORTH FL 
+WPAL4m4909I FL 
+LAN WORTH IL 
+11191 
+LINLIATtp MINKS Mt4 
+SOINT01404 FS 
+IPS' 
+eu ;I" 
+Sid". DAWAOLLatt 
+OuNt3.417990.7.1;
+i:c40 MN 
+M 
+MIL14990 NNNII® MN 
+INP:W 
+FL 
+WO 
+FL 
+NMI 
+300 ADM A/PINEPAN 
+NC 
+ill: 
+man/ U00. TO PAO,. 
+int 
+it:48tIgt Ina% 
+iblvcoAVNtict.C,i FL 
+1: 
+WNW 14094. TOM% 
+IWAIMMACH FL 
+NM 
+EV,' 
+INSIS 
+9 I9AL 
+MH 
+;M :OB. Ti0: 08L
+AL 
+100 /10a(114E AM 
+vvPALFABLACN FL 
+i 
+WAWA:MACK r t 
+Na 
+100 Appi. Ape in. imli 
+:90081040 
+1449. 
+300 ADM BRIE 104 
+99COMN3 
+W 
+CALL 90.IT NG 
+AXIOM ANYTIM 1414 
+WPALIME.N.N FL 
+MN 
+ZOO A001. FOOTNE NM 
+vicPbuivISACH FL 
+WP 
+MO ADM 41193441 L 
+i
+LM 
+UM 
+MN 
+ION 
+WpAtIMEAg NFL 
+MN 
+Ukuvi 
+ii 
+91, 
+NtioN M 
+POVILV 
+SI
+P 
+WPALWINAc IL 
+MN 
+U$4.
+N 
+INN 
+MU 
+PETit VAL 
+VpYALTikN 
+FL 
+Leh 
+WAIT El WM4740 IAN 
+MS 
+valor. 0 WMON) MN 
+WP91.4494EAQN FL 
+NA 
+UNAPT 
+WPAW AN 
+intavat st 
+murt IgRg Itill 
+vie
+Wp0A0,
+41.44$,v4
+P.EACHFL 
+m
+in: 
+w
+umad
+e 
+wzg: miu.L. 
+Wirktfilf.` It =U IgrA8 UR 
+0.004.1140 
+MN 
+UMWAR 
+0 44/MLNO IAN 
+CALL WN, 
+VIP
+K.0AL:
+ sEiC0ACH 
+/4 Ft 
+FL 
+MN
+VT 
+UNLMILOWNIVI MN 
+LANE wOR I 
+MN 
+MOAN 0101011/4 LAN 
+MN 
+MAMA RAMAN NIN 
+MI 
+LectiN1 
+NMOW MN 
+.Wsttic0
+CPALIt
+0:11 1700FACK FL 
+MN 
+4.491MT OW 
+IA 
+•Iiihco
+C9LI NOc 
+M UNI 
+Walt 
+0 
+M
+MN 
+Malal 
+1./ 
+7
+ale 
+44004161,0 
+Mk 
+LIALM 9 
+N 
+10rwm mN 
+AM 
+WNW? 
+449•49.11 IAN 
+MIMI 
+90104E1M4 
+vewalds4ALN It 
+Mk 
+UALAKT 
+WAND PIN 
+MN 
+MUM', 0 NitaND MN 
+filin 
+UNLINOW MAXIMO MN 
+NM 
+LINMAIL0 NrAnuM PAN 
+=MIME 
+WPALIMEACIOL 
+EFTA01692821

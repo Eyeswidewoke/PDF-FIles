@@ -1,0 +1,413 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p037_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 641
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.033847
+---
+
+cingular 
+Account Nurtor 
+Account SI eene 
+Date of Involte1 
+March 12. 2005 
+Page 7 of 12 
+DETAIL OF CURRENT ACT1VITY 
+DETAIL OF CURREN1 ACTIVITY • CONTINUED 
+VOICF. tISACC I t* 
+Neareee 
+ben PN. Tem. Calltl 
+1 
+•
+/ Ì! 
+03//11: ói.15 
+0//120/11 
+Oj1120110
+OJ1205'N3 
+1201:15 
+»12 DA 
+091201.39 
+07130/39 
+acni 0/ 
+11
+rafil 
+031302: 
+/65 M 
+/V I
+310111 O1.1 
+02,1 
+1903.77 07.1 
+400211 OW 
+0A 
+01-
+05 
+»17 
+0.1 
+enty 
+Ceatot 
+Csolli 70 
+UNKI Rate Donalpliew 
+;,..A.-z.
+..
+.Act
+9 FL
+0 
+I am
+.
+ 
+VUN'atia
+" t
+""Peartill 
+liert 
+LINMATED NNYM MM 
+LI:in 
+MX 
+VII/
+MCCW
+at3F1. 
+1 
+et 
+em 
+utdianet emato a 
+VMMTE0 NAVANO 1AN 
+1 EVT 
+NESSAGE RETREvAL 
+I 
+ 
+• 
+uNtwitrn rtnwts 3.111 
+11/4.9470 N.WW. MN 
+FL 
+IW 
+UN-MITLO NNVO/ MN 
+UNLAITEI1NAVM AIN 
+UN.AMTO N.YwNo MN 
+101 
+WALITED 1~110 14/4 
+404 
+UMFAVEONtYwhowo. 
+1104 
+VIANATEDWA,R0 NIN 
+MN 
+tj./%11
+.91=8:04 
+MN 
+...MMtt5 .4~0 laN 
+MN 
+untuncoNNOteatak 
+MN 
+0/110110N/MMOMM 
+IM 
+3111L1A1CONN/100111K 
+N 
+UMVATEDWNIVID 13113 
+iar, 
+UNmAT 
+ftrAwm Mn
+i 
+ttmiflrl ~1 
+MN
+9114 
+WN 
+Ottallint19411AN 
+1) 
+DNIMINO lam 
+latt, 
+uat 
+=9
+4,8 M 
+310). 
+imuwer Npm(// 1AN 
+maN 
+IMUMT 
+NOVIMNIMPI 
+11011 
+1.1111.011 14.001 104 
+1111. 
+umowno tovon leti 
+(VT 
+11
+1 
+LESNÇ .0FLEVAL 
+ig 
+amettf 
+NWM1330 MN 
+UM orleavtett
+IMMIT 1 NAVium uf4 
+cAu...vm 94 
+ilz 
+I. NOWTt 0 tmvote 1,4N 
+IMPATION.YWNUIA/4 
+3« 
+tNLINTIONNMND nn 
+NOI 
+LNLINTUI NAWN 0 MN 
+MN
+»3 col. MYTNE 14 01 
+144 
+tINININCVL 19 MOOL 
+1:i 
+§8 ',11È Z111Ura 
+MN 
+400 Ax twantr Mi. 
+1•11 
+re A. 
+1/4111.• LIIM 
+MCMAG‘147.1CVAL 
+MN 
+APACOL ANYTNI 1/04 
+VW AL01. »3113/. 103. 
+MN 
+Milem NuM 10 VCOL 
+MN 
+300~ 
+ANYMI. 14.1 
+MN 
+303 ACEP. ANYM/E ION 
+MN 
+100000: ANY 1 sst Wi 
+labl
+J 
+MN 
+303,./.013.31.1 
+LIN 
+i)Z3 A wc/4,1To
+MN 
+Ww9ATWO ~4, 
+MN 
+MN 
+IIMPATED itWO, .4.1 
+MN 
+UM.M1t0 WWICN IAN 
+W 
+Int5AWt Rt7PiCvN. 
+3/341301.034M10(0301 
+1.1114 
+.u.su..
+»...
+..s,ww
+.•
+MN 
+IAN 
+u—iiii.WR 41~ 
+a 
+urnumon to~ 
+P 
+MCOMIO 
+B011WONECH FL 
+110TM 
+WP 
+Ft 
+Fl. 
+WOA 
+n. 
+BOYNT 
+Fl. 
+WOO MNO 
+WpAUMEACI4 FL 
+,148 
+W 
+• CACil Fl. 
+INCOMNO 
+WPA4M3FA:II Fl. 
+WPW.14B1/04 
+11vALLIMALM 
+VIPALLIMM-33 L 
+MC
+C
+OMAG 
+D.OM•G 
+wPAttlwACN Ft 
+ÇQrAL 
+AJIB
+p.C.O.w•G 
+INCON-AG 
+WFAUMEACH Fl. 
+90YNTON00 Fl. 
+wietwiPt 
+4
+INCOM11. 
+WWMNOLAJIFL
+F
+L
+YNWI/ra t
+WINLNIKACNIT. 
+Ng
+CY
+0 NMTldlqlM1I 
+Wrciteee n 
+112=2 
+1=8 
+MOOW40 
+Wia"Mketai 
+WPAtIOSIA0111. 
+WPALWIEACRFL 
+Chatt 
+VOICE USAGE fbla
+mrs 
+INMDEIN1rN. Cad 
+I a!ILI
+m8133 
+67 022150711P 
+02A
+03 
+ 09We 
+69 02/13 
+70 02/1519221,
+71 C9/1 S 102AP 
+72 Od15 lUnn 
+73 0211$ 1029 
+74 02116 1923A 
+75 OV14124W 
+19 02ns 174m 
+UMtUt4.
+)
+79 03,16 CO 04P 
+60 02/16 u30•0 
+91/1t01550 
+OKOP 
+0:716 0/ 17P 
+. 
+11H7n.
+:ni. 
+IS 0,31P 
+; 
+rE333
+.14"
+93 01/I7 unet 
+FO gi ,TFP 
+n7 01373 
+93 0211301421+
+00 
+07AW 
+W131?1: 
+193 OV/11 OCIW 
+103 Sl
+02111if 
+M0*1748.1.01" 
+01118 1042A 
+• KO 02/10 1211P 
+• II? smslr 
+4.1 
+113 02/14 07 LIO 
+111 ti 
+07 »V 
+• 10 
+40» 
+EIWV 
+aWrg• 
+Calls TO 
+tMed latet Dreo~ 
+OWC49110 
+INC25 
+SW1 
+NeCOM9 
+WPAIJA 
+FL 
+.4.,1L-12₹2g 11. 
+1. 11! 
+au: 
+WPALIAMMAI 33 
+11. 02/1. 1 IMP 
+FL 
+/ 
+I1g
+MI 
+1:1 
+15911 
+11011 
+AkY111/c
+1113!411
+11
+IK 
+ANTVOnatiLihr 
+UNIIV 
+TO upat. 
+L455/9E Re7F6EvAt 
+100 /0PTL6AVVILN MN
+IMVMD ri 
+UNL114,010.13/0.)M34 
+raLTRKVAL 
+utpWirin sertvKC MN 
+UNWHT t 
+wWW:C6IN 
+UNIMPW nWATIU ben 
+MIIIMTFGX.w<V0MN
+Ç.Att WAIWG 
+ICO ADD't MYTME MN 
+WO.nr 554 Z,?irrt  it•IN 
+ArTivt MN 
+Me 
+mir'r
+rtaC
+oor 
+JIM 
+ANTYruh 
+0/0 MV 
+/1: 
+T"Plk
+nn  
+ui
+rdim
+MAL 
+2.14•Nr.4:131.1 
+UN-P.EFFI) IVWC4DttN 
+LINLMTED ILWAVOLIN 
+VNLIMIED WINVOMN
+UN
+3a5LA4
+" 1/Cl el
+b‘Lin
+ME 
+farfinIVAL
+UWWW
+“
+ 3
+UN'
+]NA
+.
+ ,W 2 110‘13" 
+3COACOt MYTWC14131 
+UNLIAVCW. 7
+1,Acet 
+MESSAGC IWTREVAL 
+3.30 4001A1011" 
+MY7lit MX 
+• 
+A 
+»4»./.11111 
+.30 k 
+AV3714. MM 
+umparrn ive00.0i.tw 
+umaillTg 
+,I 
+unny451.43. 
+UMM
+UMMT 
+kNMtilnN 
+11M1VIDIAN 
+370 4001. Avriv. MN 
+UMN31.M. int•OW 
+NESSAOF RETREVAL 
+• 
+4701. AW(Tiee imi 
+LIWIA 
+Utt1.1 
+14091 
+»0490 
+VE 
+1.12114.1tGatNCBL 
+VAL 
+3W-A00t. Attrvr. 
+UMNITC0 NYMNOMN 
+UMNIT 
+IN/1134IMAN 
+LIMM 
+NYMNPNIN 
+U
+CALL
+MNAWTOD 
+MN 
+Charge 
+EFTA01692811

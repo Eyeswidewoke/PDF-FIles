@@ -1,0 +1,349 @@
+---
+source_image: "bank-statement+deposition-transcript__EFTA01266601_20260130_p070_i001.png"
+source_pdf: "EFTA01266601.pdf"
+method: pdf_text
+words: 836
+confidence: 1.00
+extracted: 2026-02-13T16:08:07.183300
+---
+
+Payment Conditions. Payments must be made in U.S. dollars and drawn on funds on deposit at financial institutions insured by the F.D.I.C. Do not mall 
+cash. Payments received by us by 5 pm central time will be credited as of the same day it the payment is in U.S. dollars and made: 
+. 
+By check or money order drawn on a financial institution located in the U.S. Of the post office, accompanied only with this payment coupon or your 
+account number. and either mailed to our payment address on the front or delivered In person to us (do not mall cash): 
+Electronically on usaa.com or through a thicl•party bill paying service: or 
+. 
+Telephonically by calling 1.800.531.9762. 
+Payments that we accept that do not meet the above requirements will be credited within 5 days. We reserve the right to withhold credit availability until 
+we confirm receipt of good funds. 
+Account Settlements. You cannot settle your account balance without our written agreement. It you want to settle your account for less than the New 
+Balance (for example if you dispute the amount you owe or you cannot afford to pay what you owe). you must write to us at USAA Credit Card Resolution 
+Services. P.O. Box 34894. San Antonio. TX 78265 and we must agree in writing. Otherwise. we may process your payment and It will not release you from 
+paying the remaining unpad balance or result in an accord and satisfaction. 
+Transactions 
+Payments and Credits 
+Trans Date Post Date 
+Reference Number 
+Description 
+Amount 
+03101 
+03101 
+7427082EE00XV70NW 
+USAA CREDIT CARD PAYMENT SAN ANTONIO TX 
+$2.963.89-
+Total Payments And Credits For This Period 
+$2,963.89-
+Transactions 
+SCOTT G BORGERSON --
+Trans Date Post Date 
+Reference Number 
+Description 
+Amount 
+02/25 
+02 26 
+7408532E9EP823MYS 
+COSTA COFFEE 43037290 LONDON GB 
+$5.40 
+0057 
+4.15 826 1.301204819 
+02/29 
+02/29 
+2482824EE0GRZFEE3 
+KINGS BOWL LYNNFIELD MA 
+$56.83 
+02/29 
+02/29 
+2482824EE0GRZFELH 
+KINGS BOWL LYNNFIELD MA 
+$100.68 
+02/29 
+02/29 
+24275.39EIVAAI7MGM 
+JP LICKS LYNNFIELD MA 
+$14.57 
+02/29 
+02/29 
+2427539EDS66J7WG5 
+JP LICKS LYNNFIELD MA 
+$9.28 
+02/29 
+02/29 
+2444500ED00M26Y1G 
+GAMESTOP 52447 BEVERLY MA 
+$66.92 
+02/29 
+02/29 
+2449398EOPI3JJWHZR 
+xr&rans PAYMENT WWW.ATT.COM TX 
+$196.40 
+03/01 
+03/01 
+2469216ED2XS9J8TP 
+SO 'ESSEN Manchester MA 
+$10.70 
+03/01 
+03/01 
+2469216ED2XTE1)0N6 
+SO 'ESSEN Manchester MA 
+$24.45 
+03/01 
+03/01 
+2469216EE2X9OOJ44 
+COMMON MAN NO. IRVING HOOKSETT NH 
+$11.67 
+03/04 
+0304 
+2443106EH8AZZSX6B 
+BWFH FAULKNER PARKING JAMAICA PLAIN MA 
+$4.00 
+03/05 
+03/05 
+2416407EH20NV4D7E 
+FEDEX OFFIC51200051235 BOSTON MA 
+$3.57 
+03/06 
+03/06 
+2400341EJS66KLH8L 
+LIFE ALIVE CAFE (BOYLSTON BOSTON MA 
+$7.76 
+03/06 
+03/06 
+2444500EJ8PROXY1B 
+PAS'NEWTON PARKING 
+617-796-1000 MA 
+$0.90 
+03/06 
+03/06 
+2444500EK00P6NZVB 
+WALGREENS 92577 SAUGUS MA 
+$41.18 
+03/06 
+03/06 
+2476501Emi DKO441 
+75 CHESTNUT BOSTON MA 
+$49.76 
+03/06 
+03/06 
+2480197EK606VNB1X 
+BY CHLOE BACK BAY BOSTON MA 
+$12.79 
+03/08 
+03/08 
+2416407ELM7VNFRFF 
+PETCO 3722 63537229 GLOUCESTER MA 
+$77.96 
+03/08 
+03/08 
+2469216EM2XZ2DLYP 
+COMMON MAN SO. IRVING HOOKSETT NH 
+$3.18 
+03/08 
+03/08 
+2469216EM2XZ2DSIY 
+COMMON MAN SO. IRVING HOOKSETT NH 
+$33.07 
+03/09 
+03/09 
+2434285EM0FW289R8 
+Shon & Main Gloucester MA 
+$139.84 
+03/09 
+03/09 
+24nra.03EN609SOP8F 
+THE PARAMOUNT BOSTON MA 
+$2126 
+03/09 
+03/09 
+2480197EN606V0Z8F 
+BY CHLOE BACK BAY BOSTON MA 
+$23.50 
+03/10 
+03/10 
+2419304EP000EYG6R 
+NOREAST CLEANERS GLOUCESTER MA 
+$103.85 
+03/10 
+OM 0 
+2426979EP00WD30N8 
+SUGAR MAGNOLIAS - GLOU GLOUCESTER MA 
+$22.26 
+03/11 
+03/11 
+2400341EPS66L7JD7 
+LIFE ALIVE CAFE (BOYLSTON BOSTON MA 
+$10.65 
+03/11 
+03/11 
+2444500ER00NH3NAD 
+CKESLACK ARROW 
+26 C BEVERLY MA 
+$56.55 
+03112 
+03712 
+2469216ET2XFOGGME 
+NH LIQUOR STORE #66 HOOKSETT NH 
+$5.98 
+03/12 
+03/12 
+2469216ET2XFOGGM6 
+NH LIQUOR STORE #66 HOOKSETT NH 
+$49.97 
+03/12 
+03/12 
+2469216ET2XKPAGM5 
+COMMON MAN NO. IRVING HOOKSETT NH 
+$3.78 
+03/14 
+03/14 
+2469216ES2XJMDEN9 
+SO 'ESSEN MANCHESTER MA 
+$20.70 
+03/14 
+03tl 4 
+2469216EV2)0049SNK 
+COMMON MAN SO. IRVING HOOKSETT NH 
+$5.96 
+03/14 
+03tl 4 
+2469216EV2XXM9VYAL 
+COMMON MAN SO. IRVING HOOKSETT NH 
+$34.11 
+03/15 
+03/15 
+2400341EVS66H118K 
+ARMY BARRACKS- SALEM, MA SALEM MA 
+$8.99 
+03/15 
+03/15 
+2416407EV2LR7AA0H 
+TARGET 
+00011874 DANVERS MA 
+$312.26 
+03/15 
+03/15 
+2426979EWEJ2PWZKO 
+SKY ZONE • DANVERS DANVERS MA 
+$36.00 
+03/15 
+03/15 
+2444500EWEHXOSS5H 
+SGUYS 1487 QSR PEABODY MA 
+$28.73 
+03/16 
+03/16 
+2490604EX16PRXTDZ 
+FOUR SEASONS BRISTL BOSTON MA 
+$218.16 
+03/18 
+03/18 
+2405522EZ5V65FHP7 
+CAPTAIN DUSTY'S MANCHESTER MA 
+$24.29 
+03/18 
+03/18 
+2413746EY012G9TRO 
+TATTE BAKERY - BACK 617.366.1555 MA 
+$15.52 
+03/20 
+03/20 
+2407105F1VAM7YYZ8 
+COMPASSION VETERINARY BRADFORD NH 
+$148.98 
+03/20 
+0120 
+2413746F000Z071YH 
+TATTE BAKERY- BACK BOSTON MA 
+$3.21 
+03/20 
+0320 
+2413746F000Z0720V 
+TATTE BAKERY - BACK BOSTON MA 
+$18.20 
+03/20 
+03/20 
+2469216F02X7DOZ64 
+SO 'THE MARKET AT THE COM Hooksett NH 
+$15.77 
+03/20 
+03/20 
+2469216F02X964H6X 
+IN 'ALARMEX INC. 
+978.8872999 MA 
+$120.00 
+03/22 
+03/22 
+2469216F32XJXRD9F 
+COMMON MAN SO. IRVING HOOKSETT NH 
+$29.55 
+03/22 
+03/22 
+2469216F32XJXRO0R 
+COMMON MAN SO. IRVING HOOKSETT NH 
+$3.19 
+03/25 
+03/25 
+2413746F500134YMX 
+TATTE BAKERY - BACK BOSTON MA 
+$8.03 
+03/25 
+03/25 
+2413746F500T34YRG 
+TATTE BAKERY- BACK BOSTON MA 
+$13.10 
+Total Transactions For SCOTT G BORGERSON 
+$2,233.46 
+Transactions 
+GHISLAINE BORGERSON-
+Trans Date 
+02/28 
+02/28 
+02/28 
+03/09 
+03/10 
+03/16 
+Post Date 
+02/28 
+02/28 
+02/28 
+03/09 
+03/10 
+03/16 
+Reference Number 
+2469216EB2XWV0HAT 
+2469216EB2XYLHRJX 
+2469216EB2X9BKBHK 
+2469216EM2X5MHSLR 
+2469216EN2XWGXVHS 
+2469216EW2XVNYMZJ 
+Description 
+AMZN Mktp US'XW3LT45N3 Amin.corrvbill WA 
+AMZN Mktp US'9N8HT1U93 Amzn.com/bill WA 
+AMZN Mktp US'JNIZIABOS3 Amzn.comiblll WA 
+Amazon Prime'9K5NP7MK3 Amzn.00nvbill WA 
+AMZN Digital'FO4Z62DR3 888.802-3080 WA 
+AudiblelLIV34BD3 Amzn.conVbill NJ 
+Total Transactions For GHISLAINE BORGERSON 
+Amount 
+$93.46 
+$84.99 
+$180.60 
+$12.99 
+$12.99 
+$14.95 
+$399.98 
+$550 
+NSA 
+1 
+7 
+10 
+200327 0 
+PAGE 2 or 4 
+10 
+7309 
+)000 
+al 44 
+01 
+SONY_GM_00010337 
+EFTA_00120991 
+EFTA01266670

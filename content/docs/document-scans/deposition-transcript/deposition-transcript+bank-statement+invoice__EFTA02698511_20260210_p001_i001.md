@@ -1,0 +1,379 @@
+---
+source_image: "deposition-transcript+bank-statement+invoice__EFTA02698511_20260210_p001_i001.png"
+source_pdf: "EFTA02698511.pdf"
+method: pdf_text
+words: 902
+confidence: 1.00
+extracted: 2026-02-13T16:20:17.842394
+---
+
+MUNICIPAL BOND OFFERINGS 
+As of 
+0244.7.17 
+All bonds segyAn ore sable° to availob.tity 
+Al WIGS ate tukto to change 
+Neat weak to your APIA LLC Tales Rept/m.0w for firm Nvels 
+This 0 not an exhaustive list of NI municipal bond invemory. 
+Cualp 
+Apnea< CM) Issuer 
+Slab 
+Nest 011 
+Capon Matuelly 
+Daft 
+PM* 
+Yield to 
+NOM 
+Irsuree 
+Needy's 
+MUng 
+SIP Rating 
+PrenduMed 
+Type 
+Canialealo 
+New Notes 
+76218RCH9 
+SO 
+RHODE NANO ST (LEAN WM FN 
+RI 
+4.000% 10310013 
+105020 
+0.40% 
+AM 
+AAA 
+REVENUE BONDS 
+69269RW136 
+85 
+MET NY TRAMPRTN AUTH 
+NY 
+5000% 11115/2013 
+106263 
+0.85% 
+AMBAC 
+Al 
+A 
+REVENUE BONDS 
+74114LMY0 
+575 
+PUERTO RICO CMVATH 
+PR 
+5250% 07/01/2015 
+109071 
+200% 
+Baal 
+BIM 
+GENERAL OBLIGATION WILED 
+821686030 
+25 
+SHELBY OITY TN 
+TN 
+5.000% 04010016 
+115.677 
+0.90% 
+Aal 
+AA• 
+GENERAL OBLIGATION UNLTD 
+797355XU3 
+40 
+SAN DIGO CA UNIF 504 DOT 
+CA 
+4.000% 07/01/2017 07/010015 
+1%066 
+1.25% 
+AGM 
+GENERAL OBLIGATION UNLTD 
+2.24YTM 
+5234941109 
+100 
+LIE CNTYEL 501 SRO 
+IL 
+5000% 
+08/01/2017 02/01/2014 
+107.937 
+0.40% 
+AGM 
+As) 
+4A 
+Y 
+aRTVICATt PARTICIPATION 
+REF 14 
+54435051J0 
+50 
+LOS ANGELES CA 
+CA 
+5.000% 0901/2017 OW01/2012 
+101.502 
+0.25% 
+NAIL RE 
+AM 
+AA 
+Y 
+GENERAL OBLIGATION WILED 
+PREIS 
+I 2062TAT9 
+465 
+BURBANK CA WM B PAR (EEC RIVE 
+CA 
+5.000% 
+0601/20111 
+122.169 
+1.20% 
+Al 
+REVENUE BONDS 
+6.19660341 
+75 
+NEW YORK NY 
+NY 
+5000% 0601/201$ 01101/2014 
+109393 
+015% 
+As? 
+Al. 
+GENERAL OBLIGATION UNLTD 
+YTM 331 
+64711R8F2 
+40 
+NEV/ MEXKO ST FIN AUM ST IRAN 
+14.1 
+5.250% 
+06/15/7019 06(150014 
+109.936 
+0.50% 
+NAILRE 
+Aa1 
+AA. 
+REVENUE BONDS 
+PREIS 
+649660457 
+25 
+NEW YORK NY 
+NY 
+5.000% 
+08/010020 06/01/7017 
+114454 
+110% 
+AA> 
+AA 
+GENERAL OBLIGATION WILED 
+YTM 2.75 
+6775200W2 
+50 
+000 TT 
+ON 
+5000% 
+OM)1/2021 0101/7015 
+111400 
+1.00% 
+111 
+M. 
+GENERAL OBLIGATION UNLTD 
+YTI4 3.51) 
+49151006 
+25 
+KENTUCKY ST PROPERTY & BLOCS C 
+KY 
+5.00014 114310021 11/01/2017 
+114666 
+2.15% 
+NATURE FGIC 
+REVENUE BONDS 
+VIM 3.19 
+130664VG 
+45 
+CALIFORNIA ST DEPT OF WTR RESO 
+CA 
+5000% women 12/01/7014 
+110.743 
+075% 
+NATURE 
+Is le 
+REVENUE BONDS 
+5843231469 
+20 
+MEDFORD TVA NJ MD Of EDU 
+1.1 
+4.000% 
+03/01/2022 03/01/2016 
+107.311 
+2.00%ATURE 50180 FIE$ 1 
+Nit 
+GENERAL OBLIGATION WILED 
+VIM 3,12 
+4161675/3616 
+905 
+KENDALL 6 KM( CNTYSILOANTY 
+IL 
+5250% 01/01/2023 01010016 
+113442 
+1.35% 
+USA 
+Aa3 
+NR 
+GENERAL OBLIGATION UNITE/ 
+TEM 306 
+6316917R) 
+1000 
+NASSAU CITY NY 
+NY 
+3.000% °NOUNS) owomon 
+99.9911 
+3.00% 
+Al 
+A. 
+GENERAL OBLIGATION LID 
+130685286 
+275 
+CALIFORNIA ST PUBLIC WKS MD L 
+CA 
+5.000% 04010023 04/010022 
+115.626 
+3.15% 
+A2 
+641. 
+REVENUE BONDS 
+321WTM 
+BSOMILM 
+50 
+TENNESSEE ST 
+TN 
+5000% 
+05/01/2023 05/010017 
+119397 
+1.00% 
+AM 
+AA. 
+1( 
+GENERAL OBLIGATION UNLTD 
+REF 2017 
+927793PDS 
+200 
+VIRGINIA ST CMWON TRANSMTN B 
+VA 
+5.000% 05152024 05/1512016 
+114.453 
+1.30% 
+ST APPROP 
+41 
+AA. 
+REVENUE BONDS 
+VIM 3.51 
+134:684WF6 
+100 
+CALIFORNIA ST PUBLIC WKS BRD L 
+CA 
+5.000% OSIOIROM 0501/7015 
+109066 
+1.60% NAN-MARC MY 
+Al? 
+868 
+REVENUE BONDS 
+4.06TTM 
+696543HYS 
+250 
+PALM BEACH CNTY FL PUBLIC RAPT 
+FL 
+5000% 11010026 11/01/7017 
+112463 
+255% 
+MCA 
+A41 
+AA• 
+REVENUE BONDS 
+(424546O2 
+250 
+ONEIDA CNN NY 
+NY 
+3.250% 05/01/2027 05/01/2019 
+99.999 
+3.25% 
+AGM 
+113
+AA 
+GENERAL OBLIGATION LTD 
+7072117NO 
+IS 
+SACHEM NY CENTRE SCH DIST GBH 
+NY 
+0250% 
+10115/7021 10/IS/2016 
+106011 
+2.80% RE FGIC ST AID WIT 
+WR 
+AA. 
+GENERAL OBLIGATION UNLTD 
+77M 3.75 
+2131836141 
+1250 
+COOK CITY 
+5.000% 
+11/157029 11/15/7014 
+107.964 
+1.75% 
+NATURE 
+AA) 
+AA 
+GENERAL OBLIGATION UNLTD 
+YTM 4.34 
+130634RV7 
+95 
+CALIFORNIA ST PUNK VAS SRO 
+CA 
+5.250% 
+0901/2030 06.01/7015 
+106.513 
+3.00% 
+AS 
+SO. 
+REVENUE BONDS 
+4.70YRIA 
+541079T34 
+2100 
+LOUISIANA ST LOCAL GOV1 ENVRNM 
+LA 
+5.000% 
+11.310032 11/01/2017 
+1014512 
+3.10% MBA( NUNGOVGI 
+REVENUE BONDS 
+VIM 419 
+I3063APN1 
+100 
+CALIFORNIA ST 
+CA 
+6.500% 04010033 0401/7019 
+122.962 
+200% 
+Al 
+GENERAL OBLIGATION UNLTD 
+79YMI 
+54462065 
+145 
+LOS ANGELES CA LIME SCH DIST 
+CA 
+5.300% 01/01/2034 07/010019 
+111.464 
+3.15% 
+Ao2 
+A4 
+N 
+GENERAL OBLIGATION UNLTD 
+J. P Morgan 
+Bes MOM IM undo worm tie }Frown cm. ma. NA re Is ma 
+soc.nea oomesto Howes ay IRMO !tie WIWI SKS D.C.wefts wilt FIRE MI sPC. The Paw • nal mum a en as te ten 
+woe onset eau cm*/ Awes rang& J P. volantletwes LLC Nis trona. ass ea ma • 
+NFMa4w•w °ma nwl nth. haul none. *nay ewe egos. rasa if so ..ipaniam ~pox a et awes won iinasave 
+Ems me soon ow.A,•• rug,. Ms Int* 0.4014. b w "ems TN Weed • 4546.54 wet re twartunip st(tos •corttarte. *own Bel out woo Craft NM meow 
+Rae CaWilang soon••••• Oda nano ~Ir. 
+to spa:103a rawNaS PUeg.in Nowt. lint local" anl 0.0Sn 54••••col ..••• 
+*awn) avq•ins •40•0490 SA nibs mulegvatan• tMO OM ft/Mr 04 Oslo aAfld lie ••••14 MM1at WI5 bIlowd 10 IN Sete OM SUS Lit de" ntA 
+4 Fie 01.61•4•1•14 
+aconer ARS LLC C
+ yarn, VS </Mr. oars Imultmt It imolai, ~Ow* •M saprola tut tont .salad her, VP. Na• two:4140nd 
+VT* efIns In.lao.. repot to trowerttru flat ;opal. tad neway0 i•••• pipet/wad Av. It Nary On re izurtn we wet 11 sot ...eat rune to pellewint • mewl pet% as We. tettotwo 
+peW b eye ttuart awn* Mennen 1,1 000 rry04 yd loan dn•,14 ha mew yds F irihrgt4 
+wady. an MO nip:vat.. orlon on. Y re c.atsurtwe air calve 1Wee M luithoo4 al dela& Olobsian Sat ANA/4n isepot. woo itoyous wow. •teno Pe ebigat• WW./ Snow& franca cuenitmen • *yarn,' *we 0411}bn r.•.4 MOM tett Mega feral moony allea•• 00yell 0a100/11,reil 
+WeViStSSpew elm's, COW•rni 
+dawn rrovart Mnnlarr.4 tr0,11.• OW9. 1,,Mr4st r 10 norranunta 00.455 aye. Oinks% Dry POW* VON.* NUM WY...Wft 
+btnta.rt 'mown. Nei UPC ...11,4 • PM Helm poblanil. • Vint M. .M.. 
+%plait 
+EFTA_R1_02059056 
+EFTA02698511

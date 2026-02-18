@@ -1,0 +1,302 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01729006_20260130_p039_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 513
+confidence: 1.00
+extracted: 2026-02-13T16:53:14.551257
+---
+
+00'0 
+00'0 
+I 
+M 12 WIY4 
+Wd£Z°OT SI/E0 I9[ 
+00'0 
+00'0 
+I 
+M 72 WINd 
+NO90:0I 91/E0 09I 
+00'0 
+00'0 
+Z 
+M 13 INODAI 
+N200:0T sa/c0 65I 
+00'0 
+00'0 
+E 
+ID INODMI 
+NdIO:Ot 0t/t0 tiss 
+00'0 
+00'0 
+E 
+M 14 HA/40U 
+NdLS:60 Bt/c0 LSI 
+00'0 
+00'0 
+I 
+M 14 NIX2 
+Nd95,60 Bt/E0 95I 
+00'0 
+00'0 
+L 
+M 13 IWOONI 
+NVOZ,I0 SI/E0 55r 
+00'0 
+00'0 
+M ID INODNI 
+KV9i:TO 91/t0 Vet 
+00.0 
+00'0 
+ID IWODAI 
+NOTI:TO 82/E0 ES! 
+00.0 
+00'0 
+M 13 INOONI 
+NVCO:TO 01/E0 tsz 
+00'0 
+00'0 
+E 
+M ID INOONI 
+HYST:ZI 0T/to tsz 
+00'0 
+00'0 
+S 
+M 14 NIVd 
+NVOI:ZT BT/E0 051 
+00'0 
+00'0 
+T 
+M I4 NINd M 
+KVOI:ZI e:/r0 GOT 
+00'0 
+00'0 
+I 
+M 14 HINNI M 
+N425:11 LI/t0 Bit 
+00'0 
+00'0 
+T 
+M 12 ITIV4 
+LI/E0 LOI 
+00'0 
+00'0 
+Z 
+M 13 INOOMI 
+NOCE:II LI/E0 9IPT 
+00'0 
+00'0 
+T 
+M 13 IMODNI 
+NdLZ:OT LI/E0 50! 
+00'0. 
+00'0 
+T 
+M '12'NlY4 M 
+K452:01 LI/E0 Itt 
+00'0 
+00'0 
+Z 
+M 12 wava M 
+N490:0/ CL/CO III 
+00'0 
+00'0 
+t 
+M 1D INOONI 
+NOTS:60 CE/E0 
+00'0 
+00'0 
+N 70 INCONI 
+Md5E,40 ci/E0 irt 
+00'0 ' 
+00'0 
+I 
+1D INODMI 
+McIZZ:60 LI/E0 Ott 
+00'0 
+00'0 
+T 
+M ID IMOJMI 
+Nd9I:60 LI/C0 6EI 
+00'0 
+00'0 
+M ID ODIOA 
+N241,60 LT/t0 BET 
+00'0 
+00'0 
+t 
+14 N1Y4 
+N205:80 LI/t0 Ott 
+00'0 
+00'0 
+9 
+14 HINd M 
+wdet:e0 LT/t0 9ET 
+00'0 
+00'0 
+Z 
+73 INODKI 
+INTOT:90 LI/t0 SET 
+00'0 
+00'0 
+Z 
+a/ wava M 
+N255,L0 L[/t0 Ott 
+00'0 
+00'0 
+I 
+ID INODMI 
+Nd6T,L0 Cl/I0 Itt 
+00'0 
+00'0 
+T 
+ID MODOR' 
+H4OZ,S0 tri£0 ZEI 
+00'0 
+00'0 
+Z 
+M ID IMODMI 
+NdET:IT 9I/E0 Itt 
+00'0 
+00'0 
+T 
+M Id WIY2 
+9r/C0 OET 
+00'0 
+00'0 
+E 
+M ID ZDIOA 
+H295,0r 9I/E0 OZT 
+00'0 
+00'0 
+T 
+M ID IMODMI 
+walsicit 9t/E0 irt 
+00'0 
+00'0 
+I 
+IA HIY4 
+Wa6uso 9T/E0 LZI 
+00'0 
+00'0 
+t 
+ID INODUI 
+Wa05:t0 9t/r0 9ZI 
+00'0 
+00'0 
+ID INOONI 
+Nd60:£0 9T/E0 ser 
+00'0 
+00'0 
+I 
+ID IMODN/ 
+was0:xt 5T/E0 YZI 
+00'0 
+00'0 
+T 
+A 14 wnva M 
+Nd90,Ir SI/E0 EZT 
+00'0 
+00'0 
+M 12 NOIAOU 
+SI/E0 III 
+00'0 
+00'0 
+T 
+23 INOOHI 
+Md9I:90 St/E0 'EZT 
+00'0 
+00'0 
+5 
+IA MIY4 M 
+Nd6Z,t0 St/E0 Ott 
+00'0 
+00'0 
+Z 
+M ID INOONI 
+N405:40 II/E0 l/r 
+00'0 
+00'0 
+I 
+M ID IMODNI 
+N495:LO DI/E0 81I 
+00.0 
+00'0 
+I 
+1D INOONI 
+WOLZ,L0 41/E0 itt 
+00'0 
+00'0 
+I 
+M 13 ZDIOA 
+W4TO:90 VI/E0 9IT 
+00'0 
+00'0 
+I 
+14 NIOd 
+W4LI:ZT II/E0 SIT 
+00'0 
+00'0 
+T 
+IA NIY4 
+NYOZ:Ot VI/E0 itt 
+00'0 
+00'0 
+'t 
+H 12 NIV4 
+NY6E:TO II/t0 ETI 
+00'0 
+00'0 
+T 
+Id wava 
+NY9E,I0 II/E0 ZII 
+00.0 
+00'0 
+I 
+M 12 SEM 
+KYLE,TO II/E0 III 
+00'0 
+00'0' I 
+12 NOI7419 
+WYSTIZT VT/E0 OTT 
+'00'0 
+00'0 
+I 
+M 72 NOIA09 
+NY50,ZI YX/£0 60I 
+00'0, 
+00'0 
+H 12 HOZAM 
+NVIO,ZI 01/E0 BOT 
+00'0 
+00'0 
+I 
+Id NIY4 
+mve0:iT fT/T0 LOT 
+00'0 
+00'0 
+I 
+M 12 HUMA 
+EL/[0 90r 
+ten01 
+*nsTa 
+emu ith d d 
+OaTT97 
+00Truz '0H ID 
+emu gº0 mn 
+Ura/ 
+iTy 
+;m 
+A1TD 
+mOmmq 
+ 
+S3 011111I3 
+530~3 
+EIDMILSIO ONOI QUY ZNIZMIY 
+:sorTcom 1010X 
+OTTgON 
+:zhquoTH emost 
+:0100 ONTITTO 
+11noopy 
+t 
+EFTA01729044

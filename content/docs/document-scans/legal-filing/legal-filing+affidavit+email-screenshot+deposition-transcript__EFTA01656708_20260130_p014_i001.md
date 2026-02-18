@@ -1,0 +1,52 @@
+---
+source_image: "legal-filing+affidavit+email-screenshot+deposition-transcript__EFTA01656708_20260130_p014_i001.png"
+source_pdf: "EFTA01656708.pdf"
+method: pdf_text
+words: 558
+confidence: 1.00
+extracted: 2026-02-13T17:06:53.885645
+---
+
+requested to provide information.' The BOP employees and contractors we interviewed included 
+employees involved in various aspects of the emergency response, who worked at MCC New York in the 
+days leading up to the response and following the response, as well as other individuals with information 
+pertinent to our investigation. Additionally, the OIG participated in interviews of 15 inmates who had been 
+housed at MCC New York during time periods relevant to our investigation, including three who were 
+housed in the L Tier of the SHU on the day Epstein died.' Those three L-Tier inmates were housed in cells 
+opposite Epstein's cell and therefore had a direct line of sight to Epstein's cell on the night of August 9-10. 
+The OIG also reached out to one of Epstein's attorneys to discuss the possibility of providing information, 
+but ultimately the attorney declined to be interviewed, citing attorney-client privilege (the attorney-client 
+privilege survives a client's death) and issues related to ongoing litigation involving Epstein's estate. 
+The OIG also collected over 127,000 documents, as well as MCC New York video and photographs. Among 
+these were BOP documents, including staff rosters; daily logs and reports; investigative and incident reports; 
+documentation regarding inmate counts and 30-minute rounds; inmate housing assignment 
+documentation; inmate transfer documents; Psychology Department reports and medical records relating 
+to Epstein; Epstein's institutional phone call records; MCC New York records of Epstein's visits with his 
+attorneys; electronic communications, including text messages and emails of BOP employees and 
+contractors; MCC New York security camera surveillance video; records from contractors regarding the MCC 
+New York security camera system; service records for MCC New York's security camera system; MCC 
+New York photographs, including photographs taken of efforts to revive Epstein on the morning of 
+August 10, 2019; BOP policies and program statements; MCC New York Post Orders; and financial records. 
+The OIG also conducted forensic analysis of the computers located in the SHU and BOP cellular telephones. 
+In addition, the OIG reviewed FBI investigative records, including interview reports (FD-302), notes from 
+witness interviews and other meetings, and electronic communications. The OIG also reviewed Epstein's 
+autopsy report and interviewed the Medical Examiner who performed the autopsy on Epstein. 
+Ill. 
+Applicable Law, Regulations, and BOP Policies 
+A. 
+Standards of Conduct 
+The Standards of Ethical Conduct for Employees of the Executive Branch sets out general principles that are 
+designed to "ensure that every citizen can have complete confidence in the integrity of the Federal 
+Government."8 Among other things, these standards require that every federal employee "use official time 
+' On a separate occasion, the relative contacted the OIG to say that the relative had "photographic proof' that the door 
+to Epstein's cell was left open the night Epstein died. When the OIG followed up with the relative to request copies of 
+the photographs and any information regarding this allegation, the relative stated that upon further review, the 
+photographs did not show what the relative previously communicated to the OIG. 
+/ The U.S. Attorney's Office for the Southern District of New York sought interviews from inmates housed in the L Tier of 
+the SHU on the night that Epstein died, each of whom was represented by counsel. Three inmates agreed to be 
+interviewed. The OIG does not have the authority to compel or subpoena testimony from individuals who are not 
+DOJ employees. 
+8 
+C.F.R. § 2635.101(a). 
+7 
+EFTA01656721

@@ -1,0 +1,291 @@
+---
+source_image: "deposition-transcript+scanned-document__EFTA01714588_20260130_p044_i001.png"
+source_pdf: "EFTA01714588.pdf"
+method: pdf_text
+words: 520
+confidence: 1.00
+extracted: 2026-02-13T16:56:13.980728
+---
+
+Page: 
+40 of 44 
+Billing Cycle Date: 
+02 24 OS - 03 2)/05 
+Account Humber: 
+Wireless Data Detail (Continued) 
+User Name: 
+Rate Coda: HA444FT9 VAT? 880ROMMUNW 
+Rate Period (Pd.): P.Peek, 0.0ff Peak, N.Nights 
+Feature: B.Direct Asst Call Complete; C.Call Waiting; Dellata Call; F.Call Forwarding; McGrew Mobile to Mobile Calls; 
+I-Incoming Call; [.Pax Call:14.Mobile To Mobile Discount; P.Priority Access Service; ReRoam with Hone; 
+S.Shared Minutes; T.Three Way Calling; N-Nights and Weekends 
+Item Day Date 
+Time 
+To/From 
+Type 
+Rate Rate Pea- 
+Msg/RE 
+Code Pd turn 
+Incoming/ 
+Outgoing 
+Total 
+Charge 
+127 
+03/08 11:14AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+128 
+03/08 11:14AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+129 
+01/08 11:14AM 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+130 
+03/08 11:14AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+131 
+03/08 11:14AM 
+OTHER MOBILE 
+1 Msg 10.44 
+In 
+0.10 
+132 
+03/08 11:14AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+133 
+01/08 11:14AM 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+134 
+03/08 11:14AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+135 
+03/08 11:15AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+136 
+03/08 11:15AM 
+OTHER MOBILE 
+1 Mug NA44 
+In 
+0.20 
+137 
+03/08 11:15AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+128 
+03/08 11:15AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.70 
+139 
+03/08 11:16AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.30 
+140 
+03/08 11:16AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+141 
+03/08 11:16AM 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+142 
+03/08 11:16AM 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+143 
+03/08 11:17AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+144 
+03/08 11:22AM 
+OTHER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+145 
+03/08 11:22AM 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+146 
+03/08 11:2SAM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+147 
+03/08 11:25AM 
+OTHER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+148 
+03/08 11:27AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+149 
+03/08 11:30AM 
+OTHER MOBILE 
+1 Mag 10.44 
+Out 
+0.10 
+150 
+03/08 11:32AM 
+OTHER MOBILE 
+1 Meg 10.44 
+In 
+0.10 
+151 
+03/08 12:33AM 
+OTHER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+152 
+03/08 11:35AM 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+153 
+03/00 12:15PM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+154 
+03/08 12:172111 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+155 
+03/00 12:17PM 
+OTHER MOBILE 
+1 meg 10.44 
+In 
+0.10 
+156 
+03/08 01:54PM 
+OTHER MOBILE 
+1 Meg 10.44 
+Out 
+0.10 
+157 
+03/08 01:59PM 
+OTHER MOBILE 
+1 Meg 10.44 
+In 
+0.10 
+150 
+03/08 02:04PM 
+OTHER MOBILE 
+1 Meg 10.44 
+Out 
+0.10 
+159 
+03/08 02:09PM 
+OTHER MOBILE 
+1 Nag 10.44 
+Out 
+0.10 
+160 
+03/08 02:12PM 
+OTHER MOBILE 
+1 wog NA44 
+In 
+0.20 
+161 
+03/08 02:14PM 
+OTHER MOBILE 
+1 Meg 10.44 
+Out 
+0.30 
+162 
+03/08 02:17PM 
+• 411 MOBILE 
+1 Meg NA44 
+In 
+0.10 
+163 
+03/08 02:109M 
+OTHER MOBILE 
+.1 Meg NA44 
+Out 
+0.10 
+164 
+03/08 05:29PM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+165 
+03/08 10:36PM 
+OTHER MOBILE 
+1 Msg 10.44 
+In 
+0.10 
+166 
+03/08 10:47PM 
+OTHER MOBILE 
+1 Mag NA44 
+In 
+0.20 
+167 
+03/08 11:41PM 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+168 
+03/08 11:43PM 
+OTHER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+169 
+03/08 11:46PM 
+OTHER MOBILE 
+. 1 Meg NA44 
+In 
+0.10 
+EFTA01714631

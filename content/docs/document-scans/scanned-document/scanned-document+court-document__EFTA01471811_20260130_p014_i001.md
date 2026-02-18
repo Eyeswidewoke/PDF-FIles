@@ -1,0 +1,62 @@
+---
+source_image: "scanned-document+court-document__EFTA01471811_20260130_p014_i001.png"
+source_pdf: "EFTA01471811.pdf"
+method: pdf_text
+words: 571
+confidence: 1.00
+extracted: 2026-02-13T17:18:58.479649
+---
+
+subparagraph (c) below). 
+(i) 
+The Default Market Values of the Equivalent Securities and any 
+Equivalent Margin Securities to be transferred, the amount of any Cash 
+Margin (including the amount of interest accrued) to be transferred and the 
+Repurchase Prices to be paid by each party shall be established by the non-
+Defaulting Party for all Transactions as at the Repurchase Date; and 
+on the basis of the sums so established, an account shall be taken (as at 
+the Repurchase Date) of what is due from each party to the other under this 
+Agreement (on the basis that each party's claim against the other in respect 
+of the transfer to it of Equivalent Securities or Equivalent Margin 
+Securities under this Agreement equals the Default Market Value therefor) 
+and the sums due from one party shall be set off against the sums due from 
+the other and only the balance of the account shall be payable (by the party 
+having the claim valued at the lower amount pursuant to the foregoing) and 
+such balance shall be due and payable on the next following Business Day. 
+For the purposes of this calculation, all sums not denominated in the Base 
+Currency shall be converted into the Base Currency on the relevant date at 
+the Spot Rate prevailing at the relevant time. 
+For the purposes of this Agreement, the "Default Market Value" of any 
+Equivalent Securities or Equivalent Margin Securities shall be determined in 
+accordance with subparagraph (e) below, and for this purpose -
+the "Appropriate Market" means, in relation to Securities of any 
+description, the market which is the most appropriate market for Securities 
+of that description, as determined by the non-Defaulting Party; 
+the "Default Valuation Time" means, in relation to an Event of Default, the 
+close of business in the Appropriate Market on the fifth dealing day after 
+the day on which that Event of Default occurs or, where that Event of 
+Default is the occurrence of an Act of Insolvency in respect of which under 
+paragraph 10(a) no notice is required from the non-Defaulting Party in order 
+for such event to constitute an Event of Default, the close of business on 
+the fifth dealing day after the day on which the non-Defaulting Party first 
+became aware of the occurrence of such Event of Default; 
+"Deliverable Securities" means Equivalent Securities or Equivalent Margin 
+Securities to be delivered by the Defaulting Party; 
+"Net Value" means at any time, in relation to any Deliverable Securities or 
+Receivable Securities, the amount which, in the reasonable opinion of the 
+non-Defaulting Party, represents their fair market value, having regard to 
+such pricing sources and methods (which may include, without limitation, 
+available prices for Securities with similar maturities, terms and credit 
+characteristics as the relevant Equivalent Securities or Equivalent Margin 
+Securities) as the non-Defaulting Party considers appropriate, less, in the 
+case of Receivable Securities, or plus, on the case of Deliverable 
+Securities, all Transaction Costs which would be incurred in connection with 
+the purchase or sale of such Securities; 
+"Receivable Securities" means Equivalent Securities or Equivalent Margin 
+Securities to be delivered to the Defaulting Party; and 
+"Transaction Costs" in relation to any transaction contemplated in paragraph 
+10(d) or (e) means the reasonable costs, commission, fees and expenses 
+(including any mark-up or mark-down) that would be incurred in connection 
+with the purchase of Deliverable Securities or sale of Receivable 
+Securities, calculated on the assumption that the aggregate thereof is the 
+EFTA01471824

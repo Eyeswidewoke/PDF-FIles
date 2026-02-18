@@ -1,0 +1,628 @@
+---
+source_image: "spreadsheet+bank-statement+contact-list__EFTA02711356_20260210_p009_i001.png"
+source_pdf: "EFTA02711356.pdf"
+method: pdf_text
+words: 975
+confidence: 1.00
+extracted: 2026-02-13T17:15:06.519533
+---
+
+TRUSTS 2014 LOB LLC 
+UNREALIZED LO TO HI 
+JULY 2010 SOTHEBY'S 
+Artist 
+gem Description 
+Total Paid (in 
+USD) 
+Sothebys 
+Appraised 
+Value (July 
+2014) 
+Fair Value (% 
+Ownership) or 
+Cost (if not on 
+Appraisal) 
+UNREALIZED 
+GAIN (LOSS) 
+CUMULATIVE 
+GROSS 
+UNREALIZED 
+GAIN (LOSS) 
+INCREMENTAL 
+(PLEDGED) 
+GIFT, NAME OF 
+OWNERS 
+DONEE 
+HIP % 
+INSTITUTION 
+NARROWS 
+MILTON 
+ Early Spring 
+125.000 
+600.000 
+600.000 
+475.000 
+20951.516 
+100%.
+NARROWS 
+.AVERY, 
+SEURAT. GEORGES 
+La nournce 
+1,012.138 
+1,500.000 
+1,500,000 
+. 
+487.863 
+21,439.379 
+100%.
+NARROWS 
+VAN DYCK. SIR ANTHOf Landscape with a Farm Building: (50% interest) 
+135,313  
+1,250.000  
+625.000 
+. 
+489.687 
+21.929.066 
+11217.924  
+50% Mel 
+NARROWS 
+ARP. HANS 
+Constellation de quatre formes blanches el dune IX 
+487.125  
+1.000.000  
+1.000000 
+512.875 
+. 
+22441941 
+100% 
+NARROWS 
+JOHNS. JASPER 
+Untitled 
+734.906 
+1,250.000 
+1250,000  
+515.094  
+22,957.034 
+100%.
+NARROWS 
+DAUMIER. HONORE 
+['audience 
+1210.000 
+1,750.000 
+1,750,000 
+540.000 
+23.497.034 
+103%.
+NARROWS 
+.Apres 
+MOORE, HENRY 
+Seated Woman on Bench 
+155,000 
+700.000 
+700,000 
+545.000 
+24.042.034 
+100% 
+NARROWS 
+GERCAULT, THEODOR Episode de la Guerra Colonial.. Noir sur un obey& , 
+. 
+1,438.990  
+2.000.000 
+. 
+ 
+2.000000 
+561.010 
+. 
+24503,044 
+100% 
+NARROWS 
+KELLY. ELLSWORTH 
+Blue White 
+2,438.438 
+3,000.000 
+3.000,000 
+561.563 
+25,164,607 
+103%, 
+NARROWS 
+MATISSE, HENRI 
+file A la mantle (Etude pour L'espagnole an 
+416.763 
+1.000.000 
+1,000000  
+583.238 
+25.747.844 
+100%. 
+NARROWS 
+.Jeune 
+DE GOYA, FRANCISCO A Boy with a Blind Woman 
+660.000 
+1,250.000 
+1,250,000 
+590.000 
+26.337,644 
+100% 
+NARROWS 
+DE GOYA. FRANCISCO A Prisoner 
+. 
+660.000  
+1.250.000 
+. 
+ 
+1.250,000 
+590.000 
+28.927.844 
+100% 
+NARROWS 
+GIACOMETTI DIEGO 
+-top Table and Eight Side Chairs 
+900.000 
+1,500.000 
+1,500,000  
+600.000 
+27.527,844 • 
+100%.
+NARROWS 
+.Glass
+SCHIELE. EGON 
+liegender Wmblicher AM 
+99.000 
+700.000 
+700.000 
+601.000  
+28.128.844 
+100%, 
+NARROWS 
+LEONARDO DA VINCI 
+Studies for Hercules Holdall) a Club Seen in Frontal 
+333.179 
+2000.000 
+1,000.000 
+666.821 
+28.795.865 
+50% Met 
+NARROWS 
+DEGAS. EDGAR 
+Autoportrad 
+300,000'.
+1,000.000 
+1.000,000 
+700.000 
+. 
+29.495,665 
+100% 
+NARROWS 
+PABLO 
+Portrait of Elie Faure 
+800.000 
+1.500.000  
+1.500,000  
+700.000 
+. 
+30.195,665 
+103%. 
+NARROWS 
+.PICASSO. 
+TIEPOLO, GIOVANNI DOThe Finng Squad 
+700.000 
+700000 
+. 
+ 
+700.000  
+30.895,665 
+100%.
+NARROWS 
+PICASSO, PABLO 
+Anequin 8 la guiLare 
+774.450 
+1.500,000  
+1,500,000 
+725.550 
+31.621,215 
+100% 
+NARROWS 
+CHARDIN. JEAN-SIMEO1Panier de peones. raisin loan et non avec 'afraid* 
+2,267.783 
+3.000.000  
+3.000.000 
+732.217 
+32.353.432 
+100% 
+NARROWS 
+MIRO, JOAN 
+1.100,000 
+1.850.000 
+1.850,000 
+750.000 
+33,103.432 . 
+100%.
+NARROWS 
+.0iseau 
+SCHIELE. EGON 
+Selbstbildnss (Sell Portrait) 
+150.000 
+900.000 
+, 
+900000 
+. 
+ 
+750.000 
+33.853.432 
+100%, 
+NARROWS 
+SIGNORELLI. LUCA 
+Study for a Seated Prophet 
+962.747 
+1.750.000 
+1.750,000 
+. 
+787.253 
+34.640685 
+100% 
+NARROWS 
+CE2ANNE, PAUL 
+Bagneuses 
+. 
+935.000  
+1.750.000 , 
+1.750.000 
+815.000 
+35.455.685 
+100% 
+NARROWS 
+DAUMIER. HONORE 
+Parade de Saltknbanques 
+1,650,000 
+2,500.000 
+2.500.000 
+850.000 
+36.305.685 . 
+100%, 
+NARROWS 
+PICASSO. PABLO 
+Femme nue 
+'LEGER, 
+'Contrast. 
+650,000 
+1.500.000 
+. 
+1.500.000  
+850.000 
+37,155.685 
+100%.
+NARROWS 
+FERNAND 
+de formes 
+1.620,833  
+2,500.000 
+2.500.000 
+879.167'
+38,034.852 
+100% 
+NARROWS 
+RAFFAELLO SANZIO. Car Head of a Muse 
+47.020.045 
+48.000.000 
+. 
+48.000.000 
+979.955 
+39,014,806 I , 
+100% 
+NARROWS 
+KANDINSKY. VASSILY 
+ Entwurf zu -Komposeicn VIP 
+1,515,000' 
+2.500.000 • 
+2.500,000  
+085000 
+39.999.806 
+100%.
+NARROWS 
+GORKY, ARSHILE 
+Study for Agony 
+3,000.000 
+4,000.000 
+4,000.000  
+1000.000 
+40.999.806 
+100%. 
+NARROWS 
+PICASSO. PABLO 
+Paysage 
+2.500,000 
+3.500.000 
+3.500.000 
+1.000.000 
+41.999.806 
+100% 
+NARROWS 
+MATISSE. HENRI 
+Venus A la coquille II 
+700000 : 
+1.750 000 
+. 
+1.750.000 
+1,050.000 
+43,049.806 
+100% 
+NARROWS 
+OE GOYA, FRANCISCO .Maja y Celeslina 
+660.000 
+1,750.000 
+. 
+1.750,000  
+1,090.000 
+44,139.606 
+100%, 
+..
+NARROWS 
+RODIN, AUGUSTE 
+Les Bourgeois de Calais 
+680.000 
+1.750.000 
+1.750,000  
+1.090.000 
+45,229.806 
+22.787,866 
+100% 
+NARROWS 
+PICASSO. PABLO 
+Fernando Olivier 
+624,938 
+1.750.000 
+1,750.000 
+1,125,063 . 
+46.354.869 
+100%.
+NARROWS 
+LEONARDO DA VINCI 
+Madonna del Gallo 
+. 
+3,338.547 
+4.500.000 
+, 
+4.500.000 
+1,161.453 
+. 
+47.516.322 
+100% 
+NARROWS 
+REDON, ODILON 
+L'araignee en pleurs 
+560,000 . 
+1,750.000 • 
+1,750,000  
+1,190,000  
+48.706.322 . 
+100%.
+NARROWS 
+VAN GOGH. VINCENT 
+Les tolls, Arles 
+1250.000 
+2.500.000 
+2,500.000  
+1250.000 
+49.956.322 
+100%, 
+NARROWS 
+KANDINSICY. VASSILY 
+Skizze fix Sintflut II (Sketch for Deluge II) 
+31.725.250 
+33.000.000 
+33.000,000 
+, 
+1274.750 
+51231,072 
+100% 
+NARROWS 
+DAUMIER, HONORE 
+La chanson a boire 
+693,341 : 
+2.000.000 , 
+2000000 
+1.306.659 
+52.537.731 : 
+100% 
+NARROWS 
+DEGAS. EDGAR 
+Aux courses 
+1,082.500 
+2.500.000 
+2500,000  
+1,417.500 . 
+53.955.231 
+100%. 
+NARROWS 
+HONORE 
+parade 
+1.312.531 
+2.750.000 
+2,750.000  
+1,437.469  
+55.392.699 
+100% 
+NARROWS 
+.DAUMIER. 
+.La 
+GUARDI, FRANCESCO Recto: Regata in the Bacino di San Alamo with the f 
+1,025.000  
+2,500.000  
+2500000 
+1,475000 
+56.867.699 
+100%.
+NARROWS 
+DE GOYA. FRANCISCO Girniendo y sorando (Weeping and Wailing) 
+1.014.844 
+2.500.000 
+2500.000 
+1.485.156 
+58.352.856 
+100% 
+NARROWS 
+TURNER. RA, JOSEPH Entry to the Grand Canal with Santa Maria della Sal 
+907.375 . 
+2.400.000 . 
+2,400.000 
+1,492525 
+59,845.481 . 
+100%.
+NARROWS 
+:PICASSO. PABLO 
+for 'Nude Wifil Drapery 
+744,219 
+2.250 000 
+. 
+2,250,000 
+1,505.781 . 
+61.351.262 
+100%.
+NARROWS 
+.Study 
+MAILLOL, ARISTIDE 
+L'Air (premier etat) 
+893,063 
+2.500.000 
+, 
+2502000 
+. 
+1.606.938 
+62.958.199 
+100% 
+NARROWS 
+LEONARDO DA VINCI 
+Caricature of a Woman Wearing a Tall Hat and Cad 
+784.813 
+2.500.000 , 
+2502000 
+1.715,188 
+64.673,387 . 
+100% 
+NARROWS 
+CALDER ALEXANDER .Spunk of the Monk 
+18,221.250 
+20,000.000 
+20,000,000  
+1278750  
+66,452.137 . 
+100%.
+NARROWS 
+GAUGUIN. PAUL 
+Cylinder with Two Figures 
+8.128.125 
+10.000.000 
+10,000.000 
+1.871.875 
+68.324,012 
+103%.
+NARROWS 
+CEZANNE. PAUL 
+Le Mann or Le Jardinier Vanier vu de face 
+53.103,750 
+55.000.003 
+. 
+ 
+55.000.000 
+. 
+1,896.250 
+70220.262 
+100% 
+NARROWS 
+RAFFAELLO SANZIO. Ci Head of a Young Apostle 
+. 
+48.085,198 
+50.000 000 
+50,000,000 
+1,914,802 
+. 
+72.135.064 
+100% 
+NARROWS 
+MIRO. JOAN 
+Femme poignardee par le soled recitant des poems: 
+1.550.681 ' 
+3.500.000 ' 
+3,500,000 
+1,949,319 
+74,084.383 ' 
+103%.
+NARROWS 
+DEGAS. EDGAR 
+:Etude de nu pour 'La danseuse habille' 
+1,000.000 
+3.000.000 
+3,000.000 
+. 
+2000.000 
+76.084,383 
+100%.
+NARROWS 
+PICASSO. PABLO 
+Study for 'Head of Nude with Drapery 
+. 
+476.300 
+2.500,000 
+, 
+2,500.000 
+, 
+2,023,700 
+78.108.083 
+100% 
+NARROWS 
+DE GOYA, FRANCISCO Three People Around a Dying Man (Le malade) 
+. 
+475000  
+2,500.000 
+. 
+ 
+2.500.000 
+2.025,000 
+. 
+80.133.083 
+100% 
+NARROWS 
+DE GOYA, FRANCISCO La bourns. (Beggars Eating Mash) 
+401,914 
+2,500.000 
+2,500.000  
+2,098.086  
+82231.169 
+100%.
+NARROWS 
+OE GOYA. FRANCISCO Young Woman Surrounded by Witches (Jeune femr 
+380.000 
+2,500,000 
+2.500.000 
+2.120.000 
+84.351.169 
+100%.
+NARROWS 
+CALDER ALEXANDER Mobile 
+3.758,125  
+6,000,000  
+6,000.000 
+. 
+2241.875 
+88.593,044 
+100% 
+NARROWS 
+LEGER. FERNAND 
+Dessin pour Tunneller 
+1,190.750 
+3.500,000 
+3,500000 
+2.309,250 
+88.902,294 
+100% 
+NARROWS 
+MANET, EDOUARD 
+Portrait de Constantin Guys 
+1,652,500 . 
+4,000,000 . 
+4,000,000 
+2,347.500 
+91249.794 
+100% 
+Page 9 of 10 
+EFTA_R1_02125033 
+EFTA02711364

@@ -1,0 +1,311 @@
+---
+source_image: "scanned-document+deposition-transcript+bank-statement__EFTA01729006_20260130_p056_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 547
+confidence: 1.00
+extracted: 2026-02-13T17:19:04.920083
+---
+
+Page 
+7 
+AIRTIME AND LONG DISTANCE CHARGES 
+Itm Date 
+Time 
+CL No. Called 
+- - - ----- ------- - - 
+105 02/12 09:39PM 
+106 02/12 09:40PM 
+107 02/12 09:429M 
+108 02/12 09:45PM 
+109 02/12 09:5304.1 
+110 02/12 11:00PM 
+111 02/12 11:02PM .
+112 02/13 07:02AM 
+113 02/13 07:22AM 
+114 02/13 03:15PM 
+115 02/13 03:17PM 
+116 02/13 03:21FM 
+117 02/13 03:44PM 
+110, 02/13 04:32PM 
+119 02/13 05:55PM 
+120 02/13 06:25PM 
+121 02/13 06:30PM 
+122 02/13 06:32PM 
+123 02/13 06:44PM 
+124 02/23 07:03PM 
+125 02/13 00:59PN 
+126 02/13 09:21PM 
+127 02/13 09:32PM 
+128 02/13 09:42PN 
+129 02/13 10102PN 
+130 02/13 10:03PM 
+231 02/11 10:04PM 
+132 02/13 10:38PM 
+133 02/13 10:47PM 
+234 02/13 11:42PM 
+135 02/14 12:28AM 
+136 02/14 12:30AM 
+137 02/14 12:31A14 
+138 02/14 01:05AM 
+139 02/24 01:07AX 
+140 02/14 01:37AX 
+141 02/14 01:4SAM 
+142 02/14 01:46AM 
+143 02/14 11:01AM. 
+144 02/14 11:24AM 
+145 02/14 11:30AM 
+146 02/14 12:57PM 
+147 02/14 12:58PM 
+148 02/14 01106P11 
+149 02/14 01:31024 
+150 02/14 03:22PM 
+151 D2/14 03:24PM 
+152 02/14 03:25PM 
+153 02/14 03:33PM 
+154 02/14 01:37PM 
+155 02/14 03:37PM 
+156 02/14 03:18PM 
+157 02/14 03:39PM 
+158 02/14 03:40PM 
+159 02/14 0314217M 
+160 02/14 03:42PM 
+City 
+Called 
+P P 
+W PALM FL W 
+W PALM PL W 
+PALM FL W 
+PALM FL N 
+INCOMI CL N 
+NCOMI CL W 
+NCOMI CL W 
+NCONI CL 
+PALM FL 
+PALM FL 
+DICE CL 
+NCOMI CL 
+PALM FL 
+NCOMI CL 
+PALM FL 
+PALM FL 
+PALM FL 
+PALM FL 
+NCOMI CL 
+PALM FL 
+PALM FL 
+NCOMI CL W 
+PALM FL W 
+PALM PL N 
+MI CL W 
+PALM FL W 
+PALM PL W 
+PALM FL W 
+PALM FL W 
+Nam CL W 
+PAM FL W 
+PALM FL W 
+COMI CL N 
+COMI CL 
+PALM FL W 
+I CL W 
+PALM PL W 
+'PALM FL 44 
+PALM FL W 
+COMI CL W 
+PALM FL W 
+'COMI CL W 
+CON/ CL .N N 
+COMI CL N N. 
+PALM FL W N 
+COMI CL W N 
+PALM PL W N 
+106 CL W N 
+PALM FL W N 
+PALM FL W N 
+PALM FL W N 
+PALM FL N N 
+PALM FL N N 
+PALM FLWN 
+PALM FLWN 
+PALM FL W N 
+Account Number: 
+Billing tato: 
+Mobile Number: 
+Mobile User: 
+Total Mobiles: 
+CHARGES 
+Length 
+of 
+Call 
+Air 
+Long 
+Time 
+Diet. Total 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+1 
+0.00 
+-0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.0V 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+D.00 
+0.00 
+37 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 ' 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+8 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+EFTA01729061

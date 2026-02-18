@@ -1,0 +1,2991 @@
+{
+  "generated_at": "2026-02-12T11:12:15",
+  "total_cast": 97,
+  "categories": {
+    "01_Family": {
+      "label": "Trump Family",
+      "icon": "👨‍👩‍👧‍👦",
+      "color": "#c41e3a",
+      "description": "Immediate and extended Trump family members",
+      "relationships": [
+        "parent",
+        "child",
+        "sibling",
+        "spouse",
+        "in-law"
+      ],
+      "count": 16
+    },
+    "02_Inner_Circle": {
+      "label": "Inner Circle",
+      "icon": "🎯",
+      "color": "#8b4513",
+      "description": "Long-time advisors, fixers, and confidants",
+      "relationships": [
+        "mentor",
+        "advisor",
+        "fixer",
+        "associate"
+      ],
+      "count": 5
+    },
+    "03_Cabinet_Admin": {
+      "label": "Cabinet & Administration",
+      "icon": "🏛️",
+      "color": "#1e3a8a",
+      "description": "Cabinet members, agency heads, and senior administration officials",
+      "relationships": [
+        "appointed",
+        "subordinate",
+        "colleague"
+      ],
+      "count": 17
+    },
+    "04_Campaign_Political": {
+      "label": "Campaign & Political",
+      "icon": "📢",
+      "color": "#dc2626",
+      "description": "Campaign staff, political operatives, and GOP figures",
+      "relationships": [
+        "campaign-staff",
+        "political-ally",
+        "fundraiser"
+      ],
+      "count": 7
+    },
+    "05_Legal_Investigations": {
+      "label": "Legal & Investigations",
+      "icon": "⚖️",
+      "color": "#059669",
+      "description": "Prosecutors, defense attorneys, judges, and investigators",
+      "relationships": [
+        "prosecutor",
+        "defense-attorney",
+        "judge",
+        "investigator"
+      ],
+      "count": 10
+    },
+    "06_Media_Propaganda": {
+      "label": "Media & Propaganda",
+      "icon": "📺",
+      "color": "#7c3aed",
+      "description": "Media personalities, propagandists, and influencers",
+      "relationships": [
+        "media-ally",
+        "propagandist",
+        "platform-owner"
+      ],
+      "count": 5
+    },
+    "07_Business_Finance": {
+      "label": "Business & Finance",
+      "icon": "💼",
+      "color": "#ca8a04",
+      "description": "Business partners, financiers, and associates (including Epstein network)",
+      "relationships": [
+        "business-partner",
+        "financier",
+        "associate",
+        "co-conspirator"
+      ],
+      "count": 17
+    },
+    "08_Foreign": {
+      "label": "Foreign Connections",
+      "icon": "🌍",
+      "color": "#0891b2",
+      "description": "International figures, foreign leaders, and oligarchs",
+      "relationships": [
+        "foreign-leader",
+        "oligarch",
+        "diplomat"
+      ],
+      "count": 9
+    },
+    "09_Opponents_Whistleblowers": {
+      "label": "Opponents & Whistleblowers",
+      "icon": "🗣️",
+      "color": "#64748b",
+      "description": "Political opponents, critics, and whistleblowers",
+      "relationships": [
+        "opponent",
+        "critic",
+        "whistleblower",
+        "witness"
+      ],
+      "count": 3
+    },
+    "10_Victims_Accusers": {
+      "label": "Victims & Accusers",
+      "icon": "🛡️",
+      "color": "#e11d48",
+      "description": "Accusers, victims, and survivors",
+      "relationships": [
+        "accuser",
+        "victim",
+        "survivor"
+      ],
+      "count": 6
+    },
+    "11_Historical_References": {
+      "label": "Historical References",
+      "icon": "📜",
+      "color": "#475569",
+      "description": "Historical figures and contextual references",
+      "relationships": [
+        "historical-parallel",
+        "precedent"
+      ],
+      "count": 2
+    }
+  },
+  "members": [
+    {
+      "slug": "barron-trump",
+      "name": "Barron Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Barron Trump.md",
+      "summary": "﻿# BARRON TRUMP",
+      "connections": {
+        "family": [
+          {
+            "slug": "barron-trump",
+            "name": "Barron Trump",
+            "mentions": 4
+          },
+          {
+            "slug": "melania-trump",
+            "name": "Melania Trump",
+            "mentions": 6
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "donald-trump-jr",
+      "name": "Donald Trump Jr",
+      "category": "01_Family",
+      "file": "01_Family\\Donald Trump Jr.md",
+      "summary": "﻿# DONALD TRUMP JR.",
+      "connections": {
+        "family": [
+          {
+            "slug": "donald-trump-jr",
+            "name": "Donald Trump Jr",
+            "mentions": 4
+          },
+          {
+            "slug": "eric-trump",
+            "name": "Eric Trump",
+            "mentions": 1
+          },
+          {
+            "slug": "ivana-trump",
+            "name": "Ivana Trump",
+            "mentions": 2
+          },
+          {
+            "slug": "ivanka-trump",
+            "name": "Ivanka Trump",
+            "mentions": 1
+          }
+        ],
+        "legal": [
+          {
+            "slug": "jared-kushner",
+            "name": "Jared Kushner",
+            "mentions": 1
+          },
+          {
+            "slug": "paul-manafort",
+            "name": "Paul Manafort",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 5,
+      "topic_mentions": []
+    },
+    {
+      "slug": "eric-trump",
+      "name": "Eric Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Eric Trump.md",
+      "summary": "﻿# ERIC TRUMP",
+      "connections": {
+        "family": [
+          {
+            "slug": "eric-trump",
+            "name": "Eric Trump",
+            "mentions": 13
+          },
+          {
+            "slug": "ivana-trump",
+            "name": "Ivana Trump",
+            "mentions": 2
+          },
+          {
+            "slug": "ivanka-trump",
+            "name": "Ivanka Trump",
+            "mentions": 1
+          },
+          {
+            "slug": "lara-trump",
+            "name": "Lara Trump",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 3,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        }
+      ]
+    },
+    {
+      "slug": "fred-trump-jr",
+      "name": "Fred Trump Jr",
+      "category": "01_Family",
+      "file": "01_Family\\Fred Trump Jr.md",
+      "summary": "> *\"I watched him and learned from his mistakes.\"*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "fred-trump-jr",
+            "name": "Fred Trump Jr",
+            "mentions": 3
+          },
+          {
+            "slug": "fred-trump",
+            "name": "Fred Trump",
+            "mentions": 7
+          },
+          {
+            "slug": "maryanne-trump-barry",
+            "name": "Maryanne Trump Barry",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": []
+    },
+    {
+      "slug": "fred-trump",
+      "name": "Fred Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Fred Trump.md",
+      "summary": "﻿# FRED TRUMP SR.",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "fred-trump",
+            "name": "Fred Trump",
+            "mentions": 6
+          }
+        ],
+        "family": [
+          {
+            "slug": "friedrich-trump",
+            "name": "Friedrich Trump",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "friedrich-trump",
+      "name": "Friedrich Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Friedrich Trump.md",
+      "summary": "> *\"The undersigned is not aware of ever having to any degree to German interests.\"*",
+      "connections": {
+        "family": [
+          {
+            "slug": "fred-trump",
+            "name": "Fred Trump",
+            "mentions": 3
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "friedrich-trump",
+            "name": "Friedrich Trump",
+            "mentions": 9
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "ivana-trump",
+      "name": "Ivana Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Ivana Trump.md",
+      "summary": "> *\"Don't get mad, get everything.\"*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "donald-trump-jr",
+            "name": "Donald Trump Jr",
+            "mentions": 1
+          },
+          {
+            "slug": "eric-trump",
+            "name": "Eric Trump",
+            "mentions": 1
+          },
+          {
+            "slug": "ivanka-trump",
+            "name": "Ivanka Trump",
+            "mentions": 1
+          },
+          {
+            "slug": "marla-maples",
+            "name": "Marla Maples",
+            "mentions": 3
+          },
+          {
+            "slug": "michael-cohen",
+            "name": "Michael Cohen",
+            "mentions": 2
+          }
+        ],
+        "family": [
+          {
+            "slug": "ivana-trump",
+            "name": "Ivana Trump",
+            "mentions": 5
+          }
+        ]
+      },
+      "connection_count": 5,
+      "topic_mentions": [
+        {
+          "file": "topics\\01-names\\extract-trump-ds12.md",
+          "label": "extract-trump-ds12"
+        }
+      ]
+    },
+    {
+      "slug": "ivanka-trump",
+      "name": "Ivanka Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Ivanka Trump.md",
+      "summary": "﻿# IVANKA TRUMP",
+      "connections": {
+        "family": [
+          {
+            "slug": "eric-trump",
+            "name": "Eric Trump",
+            "mentions": 1
+          },
+          {
+            "slug": "ivana-trump",
+            "name": "Ivana Trump",
+            "mentions": 2
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "ivanka-trump",
+            "name": "Ivanka Trump",
+            "mentions": 6
+          },
+          {
+            "slug": "jared-kushner",
+            "name": "Jared Kushner",
+            "mentions": 3
+          }
+        ]
+      },
+      "connection_count": 3,
+      "topic_mentions": [
+        {
+          "file": "topics\\03-fbi-records\\extract-investigation-raw.md",
+          "label": "extract-investigation-raw"
+        },
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        }
+      ]
+    },
+    {
+      "slug": "jared-kushner",
+      "name": "Jared Kushner",
+      "category": "01_Family",
+      "file": "01_Family\\Jared Kushner.md",
+      "summary": "﻿# JARED KUSHNER",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "ivanka-trump",
+            "name": "Ivanka Trump",
+            "mentions": 3
+          }
+        ],
+        "legal": [
+          {
+            "slug": "jared-kushner",
+            "name": "Jared Kushner",
+            "mentions": 5
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": [
+        {
+          "file": "topics\\01-names\\extract-leon-black-raw.md",
+          "label": "extract-leon-black-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-schwarzman-raw.md",
+          "label": "extract-schwarzman-raw"
+        },
+        {
+          "file": "topics\\03-fbi-records\\extract-investigation-raw.md",
+          "label": "extract-investigation-raw"
+        },
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-ohio-raw.md",
+          "label": "extract-ohio-raw"
+        },
+        {
+          "file": "topics\\10-redacted-names\\extract-surveillance-raw.md",
+          "label": "extract-surveillance-raw"
+        }
+      ]
+    },
+    {
+      "slug": "lara-trump",
+      "name": "Lara Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Lara Trump.md",
+      "summary": "> *\"We're going to be out there, we're going to be fighting, and we're going to win.\"*",
+      "connections": {
+        "family": [
+          {
+            "slug": "eric-trump",
+            "name": "Eric Trump",
+            "mentions": 4
+          },
+          {
+            "slug": "lara-trump",
+            "name": "Lara Trump",
+            "mentions": 7
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "marla-maples",
+      "name": "Marla Maples",
+      "category": "01_Family",
+      "file": "01_Family\\Marla Maples.md",
+      "summary": "> *\"It was the best sex I've ever had.\"*",
+      "connections": {
+        "family": [
+          {
+            "slug": "ivana-trump",
+            "name": "Ivana Trump",
+            "mentions": 1
+          },
+          {
+            "slug": "marla-maples",
+            "name": "Marla Maples",
+            "mentions": 5
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "tiffany-trump",
+            "name": "Tiffany Trump",
+            "mentions": 3
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": []
+    },
+    {
+      "slug": "mary-anne-macleod-trump",
+      "name": "Mary Anne MacLeod Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Mary Anne MacLeod Trump.md",
+      "summary": "> *\"What kind of son have I created?\"*",
+      "connections": {
+        "family": [
+          {
+            "slug": "fred-trump",
+            "name": "Fred Trump",
+            "mentions": 4
+          }
+        ],
+        "associate": [
+          {
+            "slug": "mary-anne-macleod-trump",
+            "name": "Mary Anne MacLeod Trump",
+            "mentions": 5
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "mary-l-trump",
+      "name": "Mary L Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Mary L Trump.md",
+      "summary": "> *\"Donald is not simply a product of his family, he is also one of its primary drivers.\"*",
+      "connections": {
+        "family": [
+          {
+            "slug": "fred-trump-jr",
+            "name": "Fred Trump Jr",
+            "mentions": 3
+          },
+          {
+            "slug": "fred-trump",
+            "name": "Fred Trump",
+            "mentions": 5
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "maryanne-trump-barry",
+            "name": "Maryanne Trump Barry",
+            "mentions": 3
+          }
+        ]
+      },
+      "connection_count": 3,
+      "topic_mentions": []
+    },
+    {
+      "slug": "maryanne-trump-barry",
+      "name": "Maryanne Trump Barry",
+      "category": "01_Family",
+      "file": "01_Family\\Maryanne Trump Barry.md",
+      "summary": "> *\"He has no principles. None. None.\"*",
+      "connections": {
+        "family": [
+          {
+            "slug": "fred-trump-jr",
+            "name": "Fred Trump Jr",
+            "mentions": 1
+          },
+          {
+            "slug": "fred-trump",
+            "name": "Fred Trump",
+            "mentions": 2
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "maryanne-trump-barry",
+            "name": "Maryanne Trump Barry",
+            "mentions": 6
+          },
+          {
+            "slug": "roy-cohn",
+            "name": "Roy Cohn",
+            "mentions": 2
+          }
+        ]
+      },
+      "connection_count": 3,
+      "topic_mentions": []
+    },
+    {
+      "slug": "melania-trump",
+      "name": "Melania Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Melania Trump.md",
+      "summary": "﻿# MELANIA TRUMP",
+      "connections": {
+        "family": [
+          {
+            "slug": "barron-trump",
+            "name": "Barron Trump",
+            "mentions": 1
+          }
+        ],
+        "associate": [
+          {
+            "slug": "melania-trump",
+            "name": "Melania Trump",
+            "mentions": 6
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        }
+      ]
+    },
+    {
+      "slug": "tiffany-trump",
+      "name": "Tiffany Trump",
+      "category": "01_Family",
+      "file": "01_Family\\Tiffany Trump.md",
+      "summary": "﻿# TIFFANY TRUMP",
+      "connections": {
+        "family": [
+          {
+            "slug": "marla-maples",
+            "name": "Marla Maples",
+            "mentions": 3
+          },
+          {
+            "slug": "tiffany-trump",
+            "name": "Tiffany Trump",
+            "mentions": 4
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "michael-cohen",
+      "name": "Michael Cohen",
+      "category": "02_Inner_Circle",
+      "file": "02_Inner_Circle\\Michael Cohen.md",
+      "summary": "Type: Real",
+      "connections": {
+        "legal": [
+          {
+            "slug": "michael-cohen",
+            "name": "Michael Cohen",
+            "mentions": 1
+          },
+          {
+            "slug": "roy-cohn",
+            "name": "Roy Cohn",
+            "mentions": 3
+          }
+        ],
+        "family": [
+          {
+            "slug": "stormy-daniels",
+            "name": "Stormy Daniels",
+            "mentions": 2
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": [
+        {
+          "file": "topics\\02-flight-logs\\extract-flights-raw.md",
+          "label": "extract-flights-raw"
+        },
+        {
+          "file": "topics\\04-depositions\\extract-testimony-raw.md",
+          "label": "extract-testimony-raw"
+        },
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-new-york-raw.md",
+          "label": "extract-new-york-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-plea-raw.md",
+          "label": "extract-plea-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-sealed-raw.md",
+          "label": "extract-sealed-raw"
+        },
+        {
+          "file": "topics\\10-redacted-names\\extract-surveillance-raw.md",
+          "label": "extract-surveillance-raw"
+        }
+      ]
+    },
+    {
+      "slug": "paul-manafort",
+      "name": "Paul Manafort",
+      "category": "02_Inner_Circle",
+      "file": "02_Inner_Circle\\Paul Manafort.md",
+      "summary": "Type: Real",
+      "connections": {
+        "political": [
+          {
+            "slug": "paul-manafort",
+            "name": "Paul Manafort",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-plea-raw.md",
+          "label": "extract-plea-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        }
+      ]
+    },
+    {
+      "slug": "roger-stone",
+      "name": "Roger Stone",
+      "category": "02_Inner_Circle",
+      "file": "02_Inner_Circle\\Roger Stone.md",
+      "summary": "Type: Real",
+      "connections": {
+        "political": [
+          {
+            "slug": "roger-stone",
+            "name": "Roger Stone",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\07-financial\\extract-payment-raw.md",
+          "label": "extract-payment-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-non-prosecution-raw.md",
+          "label": "extract-non-prosecution-raw"
+        }
+      ]
+    },
+    {
+      "slug": "roy-cohn",
+      "name": "Roy Cohn",
+      "category": "02_Inner_Circle",
+      "file": "02_Inner_Circle\\Roy Cohn.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "michael-cohen",
+            "name": "Michael Cohen",
+            "mentions": 1
+          },
+          {
+            "slug": "roy-cohn",
+            "name": "Roy Cohn",
+            "mentions": 2
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "steve-bannon",
+      "name": "Steve Bannon",
+      "category": "02_Inner_Circle",
+      "file": "02_Inner_Circle\\Steve Bannon.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "steve-bannon",
+            "name": "Steve Bannon",
+            "mentions": 1
+          }
+        ],
+        "political": [
+          {
+            "slug": "russell-vought",
+            "name": "Russell Vought",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        }
+      ]
+    },
+    {
+      "slug": "bevino-ice",
+      "name": "Bevino Ice",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Bevino Ice.md",
+      "summary": "Dossier: ICE Chief Greg Bevino – Profile and Analysis",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "kristi-noem",
+            "name": "Kristi Noem",
+            "mentions": 3
+          },
+          {
+            "slug": "tom-homan",
+            "name": "Tom Homan",
+            "mentions": 1
+          }
+        ],
+        "legal": [
+          {
+            "slug": "stephen-miller",
+            "name": "Stephen Miller",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 3,
+      "topic_mentions": []
+    },
+    {
+      "slug": "howard-lutnick",
+      "name": "Howard Lutnick",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Howard Lutnick.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "howard-lutnick",
+            "name": "Howard Lutnick",
+            "mentions": 1
+          },
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "kash-patel",
+      "name": "Kash Patel",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Kash Patel.md",
+      "summary": "> *\"We will go out and find the conspirators not just in government, but in the media.\"*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "steve-bannon",
+            "name": "Steve Bannon",
+            "mentions": 5
+          },
+          {
+            "slug": "kash-patel",
+            "name": "Kash Patel",
+            "mentions": 4
+          },
+          {
+            "slug": "russell-vought",
+            "name": "Russell Vought",
+            "mentions": 1
+          },
+          {
+            "slug": "tom-homan",
+            "name": "Tom Homan",
+            "mentions": 1
+          }
+        ],
+        "associate": [
+          {
+            "slug": "michael-flynn",
+            "name": "Michael Flynn",
+            "mentions": 1
+          }
+        ],
+        "political": [
+          {
+            "slug": "joe-biden",
+            "name": "Joe Biden",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 5,
+      "topic_mentions": []
+    },
+    {
+      "slug": "kristi-noem",
+      "name": "Kristi Noem",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Kristi Noem.md",
+      "summary": "﻿# Kristi Noem",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "kristi-noem",
+            "name": "Kristi Noem",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "mark-milley",
+      "name": "Mark Milley",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Mark Milley.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "mark-milley",
+            "name": "Mark Milley",
+            "mentions": 1
+          }
+        ],
+        "family": [
+          {
+            "slug": "joe-biden",
+            "name": "Joe Biden",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "matt-gaetz",
+      "name": "Matt Gaetz",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Matt Gaetz.md",
+      "summary": "﻿# Matt Gaetz",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "matt-gaetz",
+            "name": "Matt Gaetz",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-new-york-raw.md",
+          "label": "extract-new-york-raw"
+        }
+      ]
+    },
+    {
+      "slug": "michael-flynn",
+      "name": "Michael Flynn",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Michael Flynn.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "michael-flynn",
+            "name": "Michael Flynn",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-plea-raw.md",
+          "label": "extract-plea-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        }
+      ]
+    },
+    {
+      "slug": "mike-pence",
+      "name": "Mike Pence",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Mike Pence.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "mike-pence",
+            "name": "Mike Pence",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "pam-bondi",
+      "name": "Pam Bondi",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Pam Bondi.md",
+      "summary": "Type: Real",
+      "connections": {
+        "legal": [
+          {
+            "slug": "howard-lutnick",
+            "name": "Howard Lutnick",
+            "mentions": 1
+          },
+          {
+            "slug": "pam-bondi",
+            "name": "Pam Bondi",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "pete-hegseth",
+      "name": "Pete Hegseth",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Pete Hegseth.md",
+      "summary": "﻿# Pete Hegseth",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "pete-hegseth",
+            "name": "Pete Hegseth",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "robert-f-kennedy-jr",
+      "name": "Robert F. Kennedy Jr",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Robert F. Kennedy Jr.md",
+      "summary": "﻿# Robert F. Kennedy Jr",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "robert-f-kennedy-jr",
+            "name": "Robert F. Kennedy Jr",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "robert-karem",
+      "name": "Robert Karem",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Robert Karem.md",
+      "summary": "﻿# Robert Karem",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "robert-karem",
+            "name": "Robert Karem",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "russell-vought",
+      "name": "Russell Vought",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Russell Vought.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "russell-vought",
+            "name": "Russell Vought",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "stephen-miller",
+      "name": "Stephen Miller",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Stephen Miller.md",
+      "summary": "Type: Real",
+      "connections": {
+        "legal": [
+          {
+            "slug": "stephen-miller",
+            "name": "Stephen Miller",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "tom-homan",
+      "name": "Tom Homan",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Tom Homan.md",
+      "summary": "> *\"I'm going to run the biggest deportation operation this country's ever seen.\"*",
+      "connections": {
+        "associate": [
+          {
+            "slug": "kash-patel",
+            "name": "Kash Patel",
+            "mentions": 1
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "stephen-miller",
+            "name": "Stephen Miller",
+            "mentions": 1
+          },
+          {
+            "slug": "tom-homan",
+            "name": "Tom Homan",
+            "mentions": 4
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": []
+    },
+    {
+      "slug": "tulsi-gabbard",
+      "name": "Tulsi Gabbard",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\Tulsi Gabbard.md",
+      "summary": "﻿# Tulsi Gabbard",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "tulsi-gabbard",
+            "name": "Tulsi Gabbard",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "william-barr",
+      "name": "William Barr",
+      "category": "03_Cabinet_Admin",
+      "file": "03_Cabinet_Admin\\William Barr.md",
+      "summary": "Type: Real",
+      "connections": {
+        "legal": [
+          {
+            "slug": "william-barr",
+            "name": "William Barr",
+            "mentions": 1
+          },
+          {
+            "slug": "robert-mueller",
+            "name": "Robert Mueller",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": [
+        {
+          "file": "topics\\03-fbi-records\\extract-investigation-raw.md",
+          "label": "extract-investigation-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-plea-raw.md",
+          "label": "extract-plea-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        },
+        {
+          "file": "topics\\10-redacted-names\\extract-surveillance-raw.md",
+          "label": "extract-surveillance-raw"
+        }
+      ]
+    },
+    {
+      "slug": "greg-abbott",
+      "name": "Greg Abbott",
+      "category": "04_Campaign_Political",
+      "file": "04_Campaign_Political\\Greg Abbott.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "greg-abbott",
+            "name": "Greg Abbott",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\09-legal-process\\extract-immunity-raw.md",
+          "label": "extract-immunity-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        }
+      ]
+    },
+    {
+      "slug": "joe-biden",
+      "name": "Joe Biden",
+      "category": "04_Campaign_Political",
+      "file": "04_Campaign_Political\\Joe Biden.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "mark-milley",
+            "name": "Mark Milley",
+            "mentions": 2
+          },
+          {
+            "slug": "joe-biden",
+            "name": "Joe Biden",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        }
+      ]
+    },
+    {
+      "slug": "john-thune",
+      "name": "John Thune",
+      "category": "04_Campaign_Political",
+      "file": "04_Campaign_Political\\John Thune.md",
+      "summary": "﻿# John Thune",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "john-thune",
+            "name": "John Thune",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "kamala-harris",
+      "name": "Kamala Harris",
+      "category": "04_Campaign_Political",
+      "file": "04_Campaign_Political\\Kamala Harris.md",
+      "summary": "Type: Real",
+      "connections": {
+        "political": [
+          {
+            "slug": "kamala-harris",
+            "name": "Kamala Harris",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "mitch-mcconnell",
+      "name": "Mitch McConnell",
+      "category": "04_Campaign_Political",
+      "file": "04_Campaign_Political\\Mitch McConnell.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "mitch-mcconnell",
+            "name": "Mitch McConnell",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "paul-ryan",
+      "name": "Paul Ryan",
+      "category": "04_Campaign_Political",
+      "file": "04_Campaign_Political\\Paul Ryan.md",
+      "summary": "﻿# Paul Ryan",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "paul-ryan",
+            "name": "Paul Ryan",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "rick-scott",
+      "name": "Rick Scott",
+      "category": "04_Campaign_Political",
+      "file": "04_Campaign_Political\\Rick Scott.md",
+      "summary": "﻿# Rick Scott",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "rick-scott",
+            "name": "Rick Scott",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "aileen-cannon",
+      "name": "Aileen Cannon",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Aileen Cannon.md",
+      "summary": "﻿# Aileen Cannon",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "aileen-cannon",
+            "name": "Aileen Cannon",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "alex-acosta",
+      "name": "Alex Acosta",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Alex Acosta.md",
+      "summary": "R. Alexander \"Alex\" Acosta is an American attorney who served as U.S. Secretary of Labor (2017–2019) under President Trump. Prior to his Cabinet role, Acosta was the U.S. Attorney for the Southern Dis",
+      "connections": {
+        "business": [
+          {
+            "slug": "alex-acosta",
+            "name": "Alex Acosta",
+            "mentions": 3
+          },
+          {
+            "slug": "ghislaine-maxwell",
+            "name": "Ghislaine Maxwell",
+            "mentions": 1
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 3
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": [
+        {
+          "file": "topics\\01-names\\extract-acosta-ds8.md",
+          "label": "extract-acosta-ds8"
+        },
+        {
+          "file": "topics\\01-names\\extract-acosta-raw.md",
+          "label": "extract-acosta-raw"
+        },
+        {
+          "file": "topics\\03-fbi-records\\extract-investigation-raw.md",
+          "label": "extract-investigation-raw"
+        },
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-immunity-raw.md",
+          "label": "extract-immunity-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-non-prosecution-raw.md",
+          "label": "extract-non-prosecution-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        }
+      ]
+    },
+    {
+      "slug": "brad-s-karp",
+      "name": "Brad S. Karp",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Brad S. Karp.md",
+      "summary": "﻿# Brad S. Karp",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "brad-s-karp",
+            "name": "Brad S. Karp",
+            "mentions": 1
+          },
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "gonzalo-curiel",
+      "name": "Gonzalo Curiel",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Gonzalo Curiel.md",
+      "summary": "﻿# Gonzalo Curiel",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "gonzalo-curiel",
+            "name": "Gonzalo Curiel",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "jack-smith",
+      "name": "Jack Smith",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Jack Smith.md",
+      "summary": "Type: Real",
+      "connections": {
+        "legal": [
+          {
+            "slug": "jack-smith",
+            "name": "Jack Smith",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "john-eastman",
+      "name": "John Eastman",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\John Eastman.md",
+      "summary": "John Charles Eastman (born 1960) is a conservative American lawyer who became the central legal architect of efforts to overturn the 2020 presidential election. A graduate of University of Chicago Law",
+      "connections": {
+        "associate": [
+          {
+            "slug": "mike-pence",
+            "name": "Mike Pence",
+            "mentions": 2
+          }
+        ],
+        "legal": [
+          {
+            "slug": "jack-smith",
+            "name": "Jack Smith",
+            "mentions": 1
+          }
+        ],
+        "political": [
+          {
+            "slug": "john-eastman",
+            "name": "John Eastman",
+            "mentions": 2
+          }
+        ],
+        "family": [
+          {
+            "slug": "kenneth-chesebro",
+            "name": "Kenneth Chesebro",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 3,
+      "topic_mentions": []
+    },
+    {
+      "slug": "kenneth-chesebro",
+      "name": "Kenneth Chesebro",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Kenneth Chesebro.md",
+      "summary": "> *\"I think it's worth the roll of the dice.\"*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "john-eastman",
+            "name": "John Eastman",
+            "mentions": 1
+          },
+          {
+            "slug": "kenneth-chesebro",
+            "name": "Kenneth Chesebro",
+            "mentions": 4
+          }
+        ],
+        "legal": [
+          {
+            "slug": "sidney-powell",
+            "name": "Sidney Powell",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": []
+    },
+    {
+      "slug": "maurene-comey",
+      "name": "Maurene Comey",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Maurene Comey.md",
+      "summary": "﻿# Maurene Comey",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "maurene-comey",
+            "name": "Maurene Comey",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "robert-mueller",
+      "name": "Robert Mueller",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Robert Mueller.md",
+      "summary": "Type: Real",
+      "connections": {
+        "legal": [
+          {
+            "slug": "robert-mueller",
+            "name": "Robert Mueller",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\03-fbi-records\\extract-fbi-raw.md",
+          "label": "extract-fbi-raw"
+        },
+        {
+          "file": "topics\\03-fbi-records\\extract-investigation-raw.md",
+          "label": "extract-investigation-raw"
+        },
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        }
+      ]
+    },
+    {
+      "slug": "sidney-powell",
+      "name": "Sidney Powell",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Sidney Powell.md",
+      "summary": "﻿# Sidney Powell",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "sidney-powell",
+            "name": "Sidney Powell",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "laura-ingraham",
+      "name": "Laura Ingraham",
+      "category": "06_Media_Propaganda",
+      "file": "06_Media_Propaganda\\Laura Ingraham.md",
+      "summary": "﻿# Laura Ingraham",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "laura-ingraham",
+            "name": "Laura Ingraham",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "laura-loomer",
+      "name": "Laura Loomer",
+      "category": "06_Media_Propaganda",
+      "file": "06_Media_Propaganda\\Laura Loomer.md",
+      "summary": "> *\"I'm a proud Islamophobe.\"*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "kamala-harris",
+            "name": "Kamala Harris",
+            "mentions": 1
+          },
+          {
+            "slug": "elon-musk",
+            "name": "Elon Musk",
+            "mentions": 1
+          }
+        ],
+        "political": [
+          {
+            "slug": "laura-loomer",
+            "name": "Laura Loomer",
+            "mentions": 4
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": []
+    },
+    {
+      "slug": "rupert-murdoch",
+      "name": "Rupert Murdoch",
+      "category": "06_Media_Propaganda",
+      "file": "06_Media_Propaganda\\Rupert Murdoch.md",
+      "summary": "﻿# Rupert Murdoch",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "rupert-murdoch",
+            "name": "Rupert Murdoch",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "sean-hannity",
+      "name": "Sean Hannity",
+      "category": "06_Media_Propaganda",
+      "file": "06_Media_Propaganda\\Sean Hannity.md",
+      "summary": "﻿# Sean Hannity",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "sean-hannity",
+            "name": "Sean Hannity",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        }
+      ]
+    },
+    {
+      "slug": "tucker-carlson",
+      "name": "Tucker Carlson",
+      "category": "06_Media_Propaganda",
+      "file": "06_Media_Propaganda\\Tucker Carlson.md",
+      "summary": "﻿# Tucker Carlson",
+      "connections": {
+        "family": [
+          {
+            "slug": "tucker-carlson",
+            "name": "Tucker Carlson",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "andrew-farkas",
+      "name": "Andrew Farkas",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Andrew Farkas.md",
+      "summary": "﻿# Andrew Farkas",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "andrew-farkas",
+            "name": "Andrew Farkas",
+            "mentions": 1
+          },
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "benjamin-black",
+      "name": "Benjamin Black",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Benjamin Black.md",
+      "summary": "﻿# Benjamin Black",
+      "connections": {
+        "family": [
+          {
+            "slug": "benjamin-black",
+            "name": "Benjamin Black",
+            "mentions": 1
+          },
+          {
+            "slug": "leon-david-black",
+            "name": "Leon David Black",
+            "mentions": 2
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": []
+    },
+    {
+      "slug": "bruce-moskowitz",
+      "name": "Bruce Moskowitz",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Bruce Moskowitz.md",
+      "summary": "﻿# Bruce Moskowitz",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "bruce-moskowitz",
+            "name": "Bruce Moskowitz",
+            "mentions": 1
+          },
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "carol-lang",
+      "name": "Carol Lang",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Carol Lang.md",
+      "summary": "﻿# Carol Lang",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "carol-lang",
+            "name": "Carol Lang",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "daniel-siad",
+      "name": "Daniel Siad",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Daniel Siad.md",
+      "summary": "﻿# Daniel Siad",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "daniel-siad",
+            "name": "Daniel Siad",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\01-names\\extract-brunel-raw.md",
+          "label": "extract-brunel-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-sealed-raw.md",
+          "label": "extract-sealed-raw"
+        }
+      ]
+    },
+    {
+      "slug": "elon-musk",
+      "name": "Elon Musk",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Elon Musk.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "elon-musk",
+            "name": "Elon Musk",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": [
+        {
+          "file": "topics\\01-names\\extract-musk-ds12.md",
+          "label": "extract-musk-ds12"
+        }
+      ]
+    },
+    {
+      "slug": "epstein-redacted-names",
+      "name": "EPSTEIN-REDACTED-NAMES",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\EPSTEIN-REDACTED-NAMES.md",
+      "summary": "> *These individuals' names were redacted from the publicly released Epstein files. Members of Congress who reviewed the unredacted versions confirmed these names appeared in the documents. Their incl",
+      "connections": {
+        "business": [
+          {
+            "slug": "leslie-wexner",
+            "name": "Leslie Wexner",
+            "mentions": 3
+          },
+          {
+            "slug": "sultan-ahmed-bin-sulayem",
+            "name": "Sultan Ahmed Bin Sulayem",
+            "mentions": 3
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "salvatore-nuara",
+            "name": "Salvatore Nuara",
+            "mentions": 3
+          },
+          {
+            "slug": "leonic-leonov",
+            "name": "Leonic Leonov",
+            "mentions": 3
+          },
+          {
+            "slug": "nicola-caputo",
+            "name": "Nicola Caputo",
+            "mentions": 3
+          },
+          {
+            "slug": "zurab-mikeladze",
+            "name": "Zurab Mikeladze",
+            "mentions": 3
+          }
+        ]
+      },
+      "connection_count": 6,
+      "topic_mentions": []
+    },
+    {
+      "slug": "errol-musk",
+      "name": "Errol Musk",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Errol Musk.md",
+      "summary": "﻿# Errol Musk",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "errol-musk",
+            "name": "Errol Musk",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "ghislaine-maxwell",
+      "name": "Ghislaine Maxwell",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Ghislaine Maxwell.md",
+      "summary": "Type: Real",
+      "connections": {
+        "associate": [
+          {
+            "slug": "ghislaine-maxwell",
+            "name": "Ghislaine Maxwell",
+            "mentions": 1
+          }
+        ],
+        "business": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 2
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": [
+        {
+          "file": "topics\\01-names\\extract-brunel-raw.md",
+          "label": "extract-brunel-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-giuffre-raw.md",
+          "label": "extract-giuffre-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-maxwell-ds8.md",
+          "label": "extract-maxwell-ds8"
+        },
+        {
+          "file": "topics\\01-names\\extract-prince-andrew-raw.md",
+          "label": "extract-prince-andrew-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-wexner-raw.md",
+          "label": "extract-wexner-raw"
+        },
+        {
+          "file": "topics\\03-fbi-records\\extract-fbi-raw.md",
+          "label": "extract-fbi-raw"
+        },
+        {
+          "file": "topics\\03-fbi-records\\extract-investigation-raw.md",
+          "label": "extract-investigation-raw"
+        },
+        {
+          "file": "topics\\04-depositions\\extract-affidavit-raw.md",
+          "label": "extract-affidavit-raw"
+        },
+        {
+          "file": "topics\\04-depositions\\extract-deposition-raw.md",
+          "label": "extract-deposition-raw"
+        },
+        {
+          "file": "topics\\04-depositions\\extract-testimony-raw.md",
+          "label": "extract-testimony-raw"
+        },
+        {
+          "file": "topics\\05-trump-mentions\\extract-maralago-raw.md",
+          "label": "extract-maralago-raw"
+        },
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-london-raw.md",
+          "label": "extract-london-raw"
+        },
+        {
+          "file": "topics\\07-financial\\extract-bank-raw.md",
+          "label": "extract-bank-raw"
+        },
+        {
+          "file": "topics\\07-financial\\extract-foundation-raw.md",
+          "label": "extract-foundation-raw"
+        },
+        {
+          "file": "topics\\08-victim-statements\\ds9-ds11-victim-minor-review.md",
+          "label": "ds9-ds11-victim-minor-review"
+        },
+        {
+          "file": "topics\\08-victim-statements\\extract-minor-raw.md",
+          "label": "extract-minor-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-grand-jury-raw.md",
+          "label": "extract-grand-jury-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-plea-raw.md",
+          "label": "extract-plea-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-sealed-raw.md",
+          "label": "extract-sealed-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-subpoena-raw.md",
+          "label": "extract-subpoena-raw"
+        },
+        {
+          "file": "topics\\10-redacted-names\\extract-telephone-raw.md",
+          "label": "extract-telephone-raw"
+        }
+      ]
+    },
+    {
+      "slug": "jeffrey-epstein",
+      "name": "Jeffrey Epstein",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Jeffrey Epstein.md",
+      "summary": "Type: Real",
+      "connections": {
+        "business": [
+          {
+            "slug": "ghislaine-maxwell",
+            "name": "Ghislaine Maxwell",
+            "mentions": 1
+          }
+        ],
+        "associate": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 2
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": [
+        {
+          "file": "topics\\01-names\\extract-acosta-ds8.md",
+          "label": "extract-acosta-ds8"
+        },
+        {
+          "file": "topics\\01-names\\extract-acosta-raw.md",
+          "label": "extract-acosta-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-brunel-raw.md",
+          "label": "extract-brunel-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-clinton-raw.md",
+          "label": "extract-clinton-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-dershowitz-raw.md",
+          "label": "extract-dershowitz-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-lex-wexner-ds12.md",
+          "label": "extract-lex-wexner-ds12"
+        },
+        {
+          "file": "topics\\01-names\\extract-musk-raw.md",
+          "label": "extract-musk-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-nadia-raw.md",
+          "label": "extract-nadia-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-prince-andrew-raw.md",
+          "label": "extract-prince-andrew-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-richardson-raw.md",
+          "label": "extract-richardson-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-visoski-raw.md",
+          "label": "extract-visoski-raw"
+        },
+        {
+          "file": "topics\\01-names\\extract-wexner-raw.md",
+          "label": "extract-wexner-raw"
+        },
+        {
+          "file": "topics\\03-fbi-records\\extract-fbi-raw.md",
+          "label": "extract-fbi-raw"
+        },
+        {
+          "file": "topics\\03-fbi-records\\extract-investigation-raw.md",
+          "label": "extract-investigation-raw"
+        },
+        {
+          "file": "topics\\04-depositions\\extract-affidavit-raw.md",
+          "label": "extract-affidavit-raw"
+        },
+        {
+          "file": "topics\\04-depositions\\extract-deposition-raw.md",
+          "label": "extract-deposition-raw"
+        },
+        {
+          "file": "topics\\04-depositions\\extract-testimony-raw.md",
+          "label": "extract-testimony-raw"
+        },
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-71st-street-raw.md",
+          "label": "extract-71st-street-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-london-raw.md",
+          "label": "extract-london-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-new-york-raw.md",
+          "label": "extract-new-york-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-palm-beach-raw.md",
+          "label": "extract-palm-beach-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-zorro-ranch-raw.md",
+          "label": "extract-zorro-ranch-raw"
+        },
+        {
+          "file": "topics\\07-financial\\extract-foundation-raw.md",
+          "label": "extract-foundation-raw"
+        },
+        {
+          "file": "topics\\07-financial\\extract-jpmorgan-raw.md",
+          "label": "extract-jpmorgan-raw"
+        },
+        {
+          "file": "topics\\07-financial\\extract-southern-trust-raw.md",
+          "label": "extract-southern-trust-raw"
+        },
+        {
+          "file": "topics\\07-financial\\extract-wire-transfer-raw.md",
+          "label": "extract-wire-transfer-raw"
+        },
+        {
+          "file": "topics\\08-victim-statements\\ds9-ds11-victim-minor-review.md",
+          "label": "ds9-ds11-victim-minor-review"
+        },
+        {
+          "file": "topics\\08-victim-statements\\extract-jane-doe-raw.md",
+          "label": "extract-jane-doe-raw"
+        },
+        {
+          "file": "topics\\08-victim-statements\\extract-minor-raw.md",
+          "label": "extract-minor-raw"
+        },
+        {
+          "file": "topics\\08-victim-statements\\extract-recruit-raw.md",
+          "label": "extract-recruit-raw"
+        },
+        {
+          "file": "topics\\08-victim-statements\\extract-victim-raw.md",
+          "label": "extract-victim-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-grand-jury-raw.md",
+          "label": "extract-grand-jury-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-immunity-raw.md",
+          "label": "extract-immunity-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-non-prosecution-raw.md",
+          "label": "extract-non-prosecution-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-plea-raw.md",
+          "label": "extract-plea-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-prosecution-raw.md",
+          "label": "extract-prosecution-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-sealed-raw.md",
+          "label": "extract-sealed-raw"
+        },
+        {
+          "file": "topics\\09-legal-process\\extract-subpoena-raw.md",
+          "label": "extract-subpoena-raw"
+        },
+        {
+          "file": "topics\\10-redacted-names\\extract-black-book-raw.md",
+          "label": "extract-black-book-raw"
+        },
+        {
+          "file": "topics\\10-redacted-names\\extract-photograph-raw.md",
+          "label": "extract-photograph-raw"
+        },
+        {
+          "file": "topics\\10-redacted-names\\extract-redacted-raw.md",
+          "label": "extract-redacted-raw"
+        },
+        {
+          "file": "topics\\10-redacted-names\\extract-telephone-raw.md",
+          "label": "extract-telephone-raw"
+        }
+      ]
+    },
+    {
+      "slug": "joshua-haldeman",
+      "name": "Joshua Haldeman",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Joshua Haldeman.md",
+      "summary": "﻿# Joshua Haldeman",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "joshua-haldeman",
+            "name": "Joshua Haldeman",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "kevin-landry",
+      "name": "Kevin Landry",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Kevin Landry.md",
+      "summary": "﻿# Kevin Landry",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          },
+          {
+            "slug": "kevin-landry",
+            "name": "Kevin Landry",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "leon-david-black",
+      "name": "Leon David Black",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Leon David Black.md",
+      "summary": "﻿# Leon David Black",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          },
+          {
+            "slug": "leon-david-black",
+            "name": "Leon David Black",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "leslie-wexner",
+      "name": "Leslie Wexner",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Leslie Wexner.md",
+      "summary": "> *\"I was just completely taken advantage of.\"*",
+      "connections": {
+        "associate": [
+          {
+            "slug": "ghislaine-maxwell",
+            "name": "Ghislaine Maxwell",
+            "mentions": 1
+          }
+        ],
+        "mentioned": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 4
+          },
+          {
+            "slug": "leslie-wexner",
+            "name": "Leslie Wexner",
+            "mentions": 5
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": [
+        {
+          "file": "topics\\01-names\\extract-lex-wexner-ds12.md",
+          "label": "extract-lex-wexner-ds12"
+        },
+        {
+          "file": "topics\\01-names\\extract-wexner-raw.md",
+          "label": "extract-wexner-raw"
+        },
+        {
+          "file": "topics\\06-locations\\extract-ohio-raw.md",
+          "label": "extract-ohio-raw"
+        }
+      ]
+    },
+    {
+      "slug": "masha-drokova",
+      "name": "Masha Drokova",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Masha Drokova.md",
+      "summary": "﻿# Masha Drokova",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          }
+        ],
+        "business": [
+          {
+            "slug": "masha-drokova",
+            "name": "Masha Drokova",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "salvatore-nuara",
+      "name": "Salvatore Nuara",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Salvatore Nuara.md",
+      "summary": "> *⚠️ Name was redacted from publicly released Epstein files. Confirmed by congressional review of unredacted documents.*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "salvatore-nuara",
+            "name": "Salvatore Nuara",
+            "mentions": 4
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "tony-cuomo",
+      "name": "Tony Cuomo",
+      "category": "07_Business_Finance",
+      "file": "07_Business_Finance\\Tony Cuomo.md",
+      "summary": "﻿# Tony Cuomo",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "tony-cuomo",
+            "name": "Tony Cuomo",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "borge-brende",
+      "name": "Borge Brende",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Borge Brende.md",
+      "summary": "﻿# Borge Brende",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "borge-brende",
+            "name": "Borge Brende",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "leonic-leonov",
+      "name": "Leonic Leonov",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Leonic Leonov.md",
+      "summary": "> *⚠️ Name was redacted from publicly released Epstein files. Confirmed by congressional review of unredacted documents.*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "leonic-leonov",
+            "name": "Leonic Leonov",
+            "mentions": 3
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "nicola-caputo",
+      "name": "Nicola Caputo",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Nicola Caputo.md",
+      "summary": "> *⚠️ Name was redacted from publicly released Epstein files. Confirmed by congressional review of unredacted documents.*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "nicola-caputo",
+            "name": "Nicola Caputo",
+            "mentions": 7
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "sultan-ahmed-bin-sulayem",
+      "name": "Sultan Ahmed Bin Sulayem",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Sultan Ahmed Bin Sulayem.md",
+      "summary": "> *⚠️ Name was redacted from publicly released Epstein files. Confirmed by congressional review of unredacted documents.*",
+      "connections": {
+        "business": [
+          {
+            "slug": "sultan-ahmed-bin-sulayem",
+            "name": "Sultan Ahmed Bin Sulayem",
+            "mentions": 4
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "terje-aasland",
+      "name": "Terje Aasland",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Terje Aasland.md",
+      "summary": "﻿# Terje Aasland",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "terje-aasland",
+            "name": "Terje Aasland",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "viktor-orban",
+      "name": "Viktor Orban",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Viktor Orban.md",
+      "summary": "﻿# Viktor Orban",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "viktor-orban",
+            "name": "Viktor Orban",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "vitaly-churkin",
+      "name": "Vitaly Churkin",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Vitaly Churkin.md",
+      "summary": "﻿# Vitaly Churkin",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "jeffrey-epstein",
+            "name": "Jeffrey Epstein",
+            "mentions": 1
+          },
+          {
+            "slug": "vitaly-churkin",
+            "name": "Vitaly Churkin",
+            "mentions": 1
+          },
+          {
+            "slug": "vladimir-putin",
+            "name": "Vladimir Putin",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": []
+    },
+    {
+      "slug": "vladimir-putin",
+      "name": "Vladimir Putin",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Vladimir Putin.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "vladimir-putin",
+            "name": "Vladimir Putin",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "zurab-mikeladze",
+      "name": "Zurab Mikeladze",
+      "category": "08_Foreign",
+      "file": "08_Foreign\\Zurab Mikeladze.md",
+      "summary": "> *⚠️ Name was redacted from publicly released Epstein files. Confirmed by congressional review of unredacted documents.*",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "zurab-mikeladze",
+            "name": "Zurab Mikeladze",
+            "mentions": 3
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "alexander-vindman",
+      "name": "Alexander Vindman",
+      "category": "09_Opponents_Whistleblowers",
+      "file": "09_Opponents_Whistleblowers\\Alexander Vindman.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "alexander-vindman",
+            "name": "Alexander Vindman",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "chris-krebs",
+      "name": "Chris Krebs",
+      "category": "09_Opponents_Whistleblowers",
+      "file": "09_Opponents_Whistleblowers\\Chris Krebs.md",
+      "summary": "Type: Real",
+      "connections": {
+        "political": [
+          {
+            "slug": "chris-krebs",
+            "name": "Chris Krebs",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "miles-taylor",
+      "name": "Miles Taylor",
+      "category": "09_Opponents_Whistleblowers",
+      "file": "09_Opponents_Whistleblowers\\Miles Taylor.md",
+      "summary": "﻿# Miles Taylor",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "miles-taylor",
+            "name": "Miles Taylor",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "alex-jeffrey-pretti",
+      "name": "Alex Jeffrey Pretti",
+      "category": "10_Victims_Accusers",
+      "file": "10_Victims_Accusers\\Alex Jeffrey Pretti.md",
+      "summary": "﻿# Alex Jeffrey Pretti",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "alex-jeffrey-pretti",
+            "name": "Alex Jeffrey Pretti",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "e-jean-carroll",
+      "name": "E. Jean Carroll",
+      "category": "10_Victims_Accusers",
+      "file": "10_Victims_Accusers\\E. Jean Carroll.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "e-jean-carroll",
+            "name": "E. Jean Carroll",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "heather-heyer",
+      "name": "Heather Heyer",
+      "category": "10_Victims_Accusers",
+      "file": "10_Victims_Accusers\\Heather Heyer.md",
+      "summary": "﻿# Heather Heyer",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "heather-heyer",
+            "name": "Heather Heyer",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "rene-goode",
+      "name": "Rene Goode",
+      "category": "10_Victims_Accusers",
+      "file": "10_Victims_Accusers\\Rene Goode.md",
+      "summary": "Thread Title",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "kristi-noem",
+            "name": "Kristi Noem",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": []
+    },
+    {
+      "slug": "stormy-daniels",
+      "name": "Stormy Daniels",
+      "category": "10_Victims_Accusers",
+      "file": "10_Victims_Accusers\\Stormy Daniels.md",
+      "summary": "Type: Real",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "michael-cohen",
+            "name": "Michael Cohen",
+            "mentions": 1
+          },
+          {
+            "slug": "stormy-daniels",
+            "name": "Stormy Daniels",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 1,
+      "topic_mentions": [
+        {
+          "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
+          "label": "extract-trump-raw"
+        }
+      ]
+    },
+    {
+      "slug": "susan-bro",
+      "name": "Susan Bro",
+      "category": "10_Victims_Accusers",
+      "file": "10_Victims_Accusers\\Susan Bro.md",
+      "summary": "﻿# Susan Bro",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "susan-bro",
+            "name": "Susan Bro",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "joseph-goebbels",
+      "name": "Joseph Goebbels",
+      "category": "11_Historical_References",
+      "file": "11_Historical_References\\Joseph Goebbels.md",
+      "summary": "﻿# Joseph Goebbels",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "joseph-goebbels",
+            "name": "Joseph Goebbels",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    },
+    {
+      "slug": "richard-nixon",
+      "name": "Richard Nixon",
+      "category": "11_Historical_References",
+      "file": "11_Historical_References\\Richard Nixon.md",
+      "summary": "﻿# Richard Nixon",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "richard-nixon",
+            "name": "Richard Nixon",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 0,
+      "topic_mentions": []
+    }
+  ],
+  "by_category": {
+    "01_Family": [
+      "barron-trump",
+      "donald-trump-jr",
+      "eric-trump",
+      "fred-trump",
+      "fred-trump-jr",
+      "friedrich-trump",
+      "ivana-trump",
+      "ivanka-trump",
+      "jared-kushner",
+      "lara-trump",
+      "marla-maples",
+      "mary-anne-macleod-trump",
+      "mary-l-trump",
+      "maryanne-trump-barry",
+      "melania-trump",
+      "tiffany-trump"
+    ],
+    "02_Inner_Circle": [
+      "michael-cohen",
+      "paul-manafort",
+      "roger-stone",
+      "roy-cohn",
+      "steve-bannon"
+    ],
+    "03_Cabinet_Admin": [
+      "bevino-ice",
+      "howard-lutnick",
+      "kash-patel",
+      "kristi-noem",
+      "mark-milley",
+      "matt-gaetz",
+      "michael-flynn",
+      "mike-pence",
+      "pam-bondi",
+      "pete-hegseth",
+      "robert-f-kennedy-jr",
+      "robert-karem",
+      "russell-vought",
+      "stephen-miller",
+      "tom-homan",
+      "tulsi-gabbard",
+      "william-barr"
+    ],
+    "04_Campaign_Political": [
+      "greg-abbott",
+      "joe-biden",
+      "john-thune",
+      "kamala-harris",
+      "mitch-mcconnell",
+      "paul-ryan",
+      "rick-scott"
+    ],
+    "05_Legal_Investigations": [
+      "aileen-cannon",
+      "alex-acosta",
+      "brad-s-karp",
+      "gonzalo-curiel",
+      "jack-smith",
+      "john-eastman",
+      "kenneth-chesebro",
+      "maurene-comey",
+      "robert-mueller",
+      "sidney-powell"
+    ],
+    "06_Media_Propaganda": [
+      "laura-ingraham",
+      "laura-loomer",
+      "rupert-murdoch",
+      "sean-hannity",
+      "tucker-carlson"
+    ],
+    "07_Business_Finance": [
+      "andrew-farkas",
+      "benjamin-black",
+      "bruce-moskowitz",
+      "carol-lang",
+      "daniel-siad",
+      "elon-musk",
+      "epstein-redacted-names",
+      "errol-musk",
+      "ghislaine-maxwell",
+      "jeffrey-epstein",
+      "joshua-haldeman",
+      "kevin-landry",
+      "leon-david-black",
+      "leslie-wexner",
+      "masha-drokova",
+      "salvatore-nuara",
+      "tony-cuomo"
+    ],
+    "08_Foreign": [
+      "borge-brende",
+      "leonic-leonov",
+      "nicola-caputo",
+      "sultan-ahmed-bin-sulayem",
+      "terje-aasland",
+      "viktor-orban",
+      "vitaly-churkin",
+      "vladimir-putin",
+      "zurab-mikeladze"
+    ],
+    "09_Opponents_Whistleblowers": [
+      "alexander-vindman",
+      "chris-krebs",
+      "miles-taylor"
+    ],
+    "10_Victims_Accusers": [
+      "alex-jeffrey-pretti",
+      "e-jean-carroll",
+      "heather-heyer",
+      "rene-goode",
+      "stormy-daniels",
+      "susan-bro"
+    ],
+    "11_Historical_References": [
+      "joseph-goebbels",
+      "richard-nixon"
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+---
+source_image: "invoice+bank-statement__EFTA01657373_20260130_p003_i001.png"
+source_pdf: "EFTA01657373.pdf"
+method: pdf_text
+words: 532
+confidence: 1.00
+extracted: 2026-02-13T17:12:48.266879
+---
+
+cingular
+raging thebx 
+Account Number 
+Account Name 
+JEFFREY E EPSTEIN 
+Date of Invoice 
+February 03. 2006 
+Page 3 of 12 
+ACCOUNT DETAILS 
+Detail of Payments - Thank You! 
+Item Description 
+1 PAYMENT 
+Total of Payments 
+Current Subscriber Monthly Charges and Credits 
+Cnhearlhar lilnewkar 
+tithe...1MA. !lams 
+Date Applied/Reversed 
+01:29,06 
+Total Current Monthly Charges 
+SUMMARY OF CURRENT ACTIVITY 
+Payment Amount 
+-694.66 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+Charge 
+694.66
+-694.66 
+Charge 
+245.79 
+82.18 
+39.73 
+367.70 
+367.70 
+Other Subscriber Credits 
+Item Description 
+1 $5 MONTHLY CREDIT 
+Total Other Subscriber Credits 
+Subscriber Government Fees and Taxes 
+Item Description 
+Charge 
+1 SALES TAX 
+2.42 
+2 FEDERAL EXCISE TAX 
+0 87 
+Total Subscriber Government Fees and Taxes 
+3.29 
+TOTAL CURRENT CHARGES FOF 
+82.18 
+Charge 
+.500 
+-5.00 
+DETAIL OF CURRENT ACTIVITY 
+FOF 
+Monthly Service Charges 
+Item Description 
+1 CALL WAITING 
+01/03/06.02/02/06 
+0.00 
+2 TEXT MESSAGING PLAN • 0 MSGS 
+01/03/06.02/02/06 
+0.00 
+3 CALLER ID 
+01/03/06.02/02/06 
+0.00 
+4 VOICEMAIL 
+01/03/06.02/02/06 
+0.00 
+5 DETAIL BILLING 
+01/03/06.02/02/06 
+0.00 
+6 REGULATORY PROGRAM CHARGE 
+01/03/06.02/02/06 
+1.75 
+7 CALL FORWARDING 
+01/03/06.02/02/06 
+0.00 
+8 WORLDCONNECT 
+01/03/06.02/02/06 
+0.00 
+9 THREE WAY CALLING 
+01/03/06.02/02/06 
+GOO 
+10 BLACKBERRY $49.99 
+01/03/06.02/02/06 
+49.99 
+11 NATIONAL PLAN $29.99 
+01/03/06 - 02/02/06 
+2999 
+Total Monthly Service Charges 
+81.73 
+Service Dates 
+Charge 
+Monthly Usage Charges 
+Item Description 
+1 100 ADM_ ANYTME MIN 
+2 MESSAGE RETRIEVAL 
+Total Monthly Usage Charges 
+Other Subscriber Charges 
+Item Description 
+1 MCTD SURCHARGE 
+2 NY CITY UTILITY G.R. SUR 
+3 STATE TELECOM EXCISE SURCHARGE 
+4 FEDERAL UNIVERSAL SERVICE FUND SURCHARGE 
+Total Other Subscriber Charges 
+Onty Used 
+77 MIN 
+2 EVT 
+Charge 
+0.00 
+0 00 
+0.00 
+Charge 
+0.16 
+0.52 
+0.71 
+ea 
+2.16 
+VOICE USAGE FOR 
+Number 
+Item Date Time 
+101/12 10:32A 
+2 01/12 05:16P 
+3 01/12 05:59P 
+4 01/13 10:58A 
+5 01/13 04.00P 
+6 01/20 02.06P 
+7 01/20 03 19P 
+8 01/20 05 26P 
+9 01/20 06 04P 
+10 01124 08:56A 
+11 01/24 11:52A 
+12 01/24 11:56A 
+13 01/26 09:51A 
+14 01/26 09:57A 
+IS 01/26 05:10P 
+16 01/27 11:18A 
+17 00'27 1120A 
+18 02'02 OISSP 
+TOTAL VOICE USA 
+Calls To 
+NEW ALBANY OH 
+INCOMING 
+INCOMING 
+COLUMBUS OH 
+INCOMING 
+COLUMBUS OH 
+INCOMING 
+INCOMING 
+COLUMBUS OH 
+COLUMBUS OH 
+COLUMBUS OH 
+NEW ALBANY OH 
+COLUMBUS OH 
+COLUMBUS OH 
+IN 
+NEW ALBANY OH 
+COLUMBUS OH 
+COLUMBUS OH 
+Only 
+Charge 
+Used 
+Rate Description 
+21.IIN 
+100 ADM ANYTME MIN 
+111.IIN 
+100 ADM ANYTME MIN 
+21.IIN 
+100 ADD'L ANYTME MIN 
+2MIN 
+ICO ADM. ANYTME MIN 
+1 EVT 
+MESSAGE RETRIEVAL 
+17MIN 
+100 ADD'L ANYTME MIN 
+2MIN 
+1CO ADDI ANYTME MIN 
+1MIN 
+ICO ADDI ANYTME MIN 
+4MIN 
+100 ADD'L ANYTME MIN 
+2MIN 
+100 ADD'L ANYTME MIN 
+lEVT 
+MESSAGE RETRIEVAL 
+MIN 
+100 ADD'L ANYTME MIN 
+WIN 
+100 ADD'L ANYTME MIN 
+1 MIN 
+'CO ADM. ANYTME MIN 
+1 MIN 
+100 ADM ANYTME MIN 
+4MIN 
+100 ADD1 ANYTME MIN 
+21 MIN 
+100 ADD1 ANYTME IAN 
+1 MIN 
+100 ADD1 ANYTME IAN 
+2MIN 
+100 ADDL ANYTME /MN 
+100 ADC& ANY1ME MIN 
+Charge 
+SUMMARY OF CURRENT ACTIVITY 
+FOFI 
+Monthly Service Charges 
+Item Description 
+Service Dates 
+0.00 
+Charge 
+1 CALL WAITING 
+01/0306.02/02/06 
+0.00 
+2 TEXT MESSAGING PLAN • 0 MSGS 
+01/0306.02/02/06 
+4.99 
+3 CALLER ID 
+01103106 - 02/02/06 
+0.00 
+4 EARLY EVENING 
+01103106 - 02/02106 
+0.00 
+5 ENH DISCOUNT INTL DIAL 
+01103106 - 02/02106 
+3.99 
+6 MULTIMEDIA MESSAGING $2.99 
+01103106 - 02/02106 
+2.99 
+2000132 CO2020951 
+EFTA01657375

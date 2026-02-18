@@ -1,0 +1,286 @@
+---
+source_image: "deposition-transcript+scanned-document__EFTA01714588_20260130_p049_i001.png"
+source_pdf: "EFTA01714588.pdf"
+method: pdf_text
+words: 522
+confidence: 1.00
+extracted: 2026-02-13T16:56:13.987130
+---
+
+Page: 
+43 of 44 
+Billing Cycle Date: 
+02 24 OS - 03 23/05 
+Account Number: 
+Wireless Data Detail (Continued) 
+User Name: 
+Rate Code: NAA4ePT9 RIM 8SORUMMUWW 
+Rate Period (Pd.): PePeak, OeOff Peak, NeNights 
+Pasture: B-Direct Asst Call Complete; C-Call Waiting; D=Data Call; recall Forwarding; Regroup Mobile to Mobile Calls; 
+I-Incoming Call; IC-Fax Call; M.Mobile To Mobile Discount; P-Priority Access Service; Relloael with ROMS; 
+S-Shared Minutes; T-Three Way Calling; H-Nights and Weekends 
+Rate Rate Pea- Incoming/ 
+Total 
+Item Day Date 
+Time 
+Da/Pram 
+Type 
+Meg/1® 
+Code Pd cure Outgoing 
+Charge 
+274 
+03/14 02:01PM 
+ER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+275 
+03/14 05:01971 
+INCULAR MOB 
+1 Msg NA44 
+Out 
+0.10 
+276 Tue 03/15 09:45PM 
+ER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+277 
+03/15 09:45PM 
+ER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+278 
+03/15 09:45PM 
+ER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+279 
+03/15 10:45PM 
+INCULAR MOB 
+2 Meg NA44 
+In 
+0.10 
+280 Wed 03/16 08:18AM 
+ER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+281 
+03/16 09:02AM 
+R MOBILE 
+2 Meg NA44 
+Out 
+0.10 
+282 
+03/16 10:31AM 
+R MOBILE 
+1 Meg 147444 
+In 
+0.10 
+283 
+03/16 10:32AM 
+R MOBILE 
+2 Meg NA44 
+Out 
+0.10 
+284 
+03/16 10:39AM 
+ER MOBILE 
+2 Meg NA44 
+In 
+0.10 
+285 
+01/16 10:391U4 
+R MOBILE 
+1 Reg NA44 
+Out 
+D.10 
+286 
+03/16 10:41AN 
+R MOBILE 
+1 Meg NA44 
+In 
+0.20 
+2A7 
+03/16 11:34AM 
+R MOBILE 
+2 Meg NA44 
+In 
+0.1D 
+288 
+03/16 11:34AM 
+R MOBILE 
+1 Meg NA44 
+Out 
+0.1D 
+289 
+03/16 11:37AM 
+OTHER MOBILE 
+2 Meg NA44 
+In 
+0.20 
+290 
+03/16 11:38AM 
+OTHER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+291 
+03/16 11:39AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+292 
+03/16 11:40AM 
+OTHER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+293 
+03/16 11:42AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+294 
+03/16 11:45AM 
+OTHER MOBILE 
+1 Msg NA44 
+Out 
+0.10 
+295 
+03/16 11:48AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+296 
+03/16 11:51AM 
+CIRCULAR MOB 
+1 Meg NA44 
+In 
+0.10 
+297 
+03/16 11:52AM 
+CIRCULAR MOB 
+1 Msg NA44 
+Out 
+0.10 
+298 
+03/16 11:57AM 
+CINGULAR MOB 
+1 Msg NA44 
+In 
+0.10 
+299 
+03/16 12:01PM 
+R MOBILE 
+1 Msg NA44 
+Out 
+0.10 
+300 
+03/16 12:13PM 
+CIRCULAR MOB 
+2 Meg NA44 
+In 
+0.10 
+301 
+03/16 22,14PM 
+CIRCULAR MOB 
+2 Meg NA44 
+Out 
+0.10 
+302 
+03/16 12:16PM 
+R MOBILE 
+1 Meg NA44 
+In 
+0.10 
+303 
+03/16 22:21PM 
+CINGULAR MOB 
+1 Nag NA44 
+In 
+0.10 
+304 
+03/16 12:22PH 
+OTHER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+305 
+03/16 12:23PM 
+CIRCULAR MOB 
+1 Mug NA44 
+Out 
+0.10 
+306 
+03/16 12:36PM 
+CIRCULAR MOB 
+1 Meg NA44 
+Out 
+0.10 
+307 
+03/16 12:56PM 
+CIRCULAR MOB 
+1 Meg NA44 
+Out 
+0.10 
+308 
+03/16 12:57PM 
+CIWIULAR MOB 
+1 Meg NA44 
+In 
+0.10 
+309 
+03/16 12:59PM 
+CINGULAR MOB 
+1 Meg NA44 
+Out 
+0.10 
+310 
+03/16 01:01PM 
+CINCULAR MOB 
+1 Mpg NA44 
+In 
+0.10 
+111 
+03/16 01:16PM 
+OTHER MOBILE 
+1 Msg NA44 
+In 
+0.10 
+312 
+03/16 02:139M 
+CINGULAR MOB 
+1 Msg NA44 
+Out 
+0.10 
+313 Thu 03/17 01:44AM 
+CIRCULAR MOB 
+1 Hag NA44 
+Out 
+0.10 
+314 
+03/17 09:12AM 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+315 
+01/17 09:29AM 
+CINGULAR MOB 
+1 Nag NA44 
+in 
+0.10 
+316 
+03/17 11:27AM 
+OTHER MOBILE 
+2 Meg NA44 
+In 
+0.10 
+EFTA01714636

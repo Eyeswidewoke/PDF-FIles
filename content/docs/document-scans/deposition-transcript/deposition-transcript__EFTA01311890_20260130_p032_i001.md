@@ -1,0 +1,434 @@
+---
+source_image: "deposition-transcript__EFTA01311890_20260130_p032_i001.png"
+source_pdf: "EFTA01311890.pdf"
+method: pdf_text
+words: 561
+confidence: 1.00
+extracted: 2026-02-13T17:00:15.363553
+---
+
+IIIIIIII 
+;:cingular
+wl
+Billing Cycle Dale: 
+ACCOWS Ni MUS% 
+32 of 34 
+NNW 
+Data Detail (Continued) 
+661-324-7986 
+Cur Nagle: MICHAEL DAVIS 
+Rae Cale. R5131-.7494P 600 MINI 3KNW 
+Rae Period 
+9-909.0-01Tece.H-22ighls 
+To Mobile 
+Awl Call Ccapher.C-Call 
+Calt K.FatCa.14.11oHlo 
+well Home; 
+T. F •rn 
+Wailintc D-D515 
+To Malik Dismal 
+5-5aand Hisairg T-11tte 
+TYPO 
+Meg/KB 
+CINOOLAII)10812.1 
+Ca: F-Can Fernonlins; 
+0 -Auto lhoppea Cell Owl& 
+Woy Coning. v-Voue Actinied DmIng: 
+Rao Rate 
+Foa- IN 
+Code Pd 
+tiro Out 
+Nag MDI 
+In 
+Total 
+Chants 
+0.00 
+(Pt) 
+Cai To. " 
+- laftenalional Can 7/minded 
+ito1we, a-Auk:Pawed Call *Neat B-Diren 
+H.Kirow Mobile lo Mobile illik I -Incoming 
+P-Pnonly Atter Smut-. Q-VATN.R-Roam 
+W-HiginsionlWet1m9 
+Rem 
+Day 
+Dalo 
+limo 
+is 
+08/18 
+12.51111 
+19 
+08/11 
+12:51914 
+CINOOLAR NO11111 
+Nag 
+PSD1 
+In 
+0.00 
+20 
+01/111 
+01165114 
+CINOOLAR 14011MR 
+Nag 
+RAD1 
+In 
+0.00 
+21 
+01/11 
+01:66911 
+C2900111 NORMS 
+Meg 
+R&D) 
+Out 
+0.00 
+22 
+08/12 
+01,47914 
+C119351A* NOR1LS 
+Keg 
+RSD1 
+In 
+0.00 
+23 
+08/18 
+015014 
+OTMS1 1405111 TO 
+Nag 
+85101 
+Out 
+0.00 
+24 
+08/18 
+03:01114 
+CINOOLAR 1105111 
+Nag 
+1.51/1 
+Out 
+0.00 
+25 
+Oet 
+08/10 
+06:26114 
+OTNIR NOR1 La TO 
+Keg 1101 
+Out 
+0.00 
+26 
+Non 
+01/12 
+01:07N1 
+CIPOMARNODILS 
+Nog 
+RSD1 
+Out 
+0.00 
+27 
+To. 
+01/23 
+12:21914 
+CIP001AA NO11115 
+Keg 
+PSDI 
+In 
+0.00 
+21 
+This 
+01/25 
+06:25914 
+CINOOLAR NOSILR 
+Nag MDI 
+In 
+0.00 
+29 
+Set 
+01/21 
+02:61911 
+OTNIR MOBIL! TO 
+Nag 1401 
+In 
+0.00 
+30 
+shin 
+05/28 
+11:26214 
+OTICIR MOBIL! TO 
+Keg 
+RAD1 
+Out 
+0.00 
+31 
+08/28 
+06.30914 
+OTKRit NOS LE TO 
+Nag *J01 
+Out 
+0.00 
+12 
+01/28 
+OS 34916 
+OTNZR NON Le TO 
+Nag 
+RSDI 
+In 
+0.00 
+13 
+00/21 
+01,35911 
+021411 NOSILR TO 
+Meg 
+RSD1 
+Oat 
+0.00 
+34 
+05/25 
+0534914 
+OTIOM NORMS TO 
+Keg 
+LSD 
+In 
+0.00 
+35 
+08/28 
+08: 3614 
+OTIES* NOMA TO 
+Nog 
+*SDI 
+Out 
+0.00 
+36 
+01/28 
+OS 40141 
+OTICIR NO5 LI TO 
+Keg MDI 
+In 
+0.00 
+37 
+01/28 
+08 40PN 
+OTINI 
+MOBILE TO 
+Mp 
+*SDI 
+Out 
+0.00 
+le 
+01/211 
+00:56%1 
+0290015R NOSILS 
+Nag 
+PSD1 
+Out 
+0.00 
+39 
+Hon 
+01/22 
+11:60111 
+02/800151 NO11111 
+Meg 
+RSD1 
+In 
+0.00 
+40 
+08/29 
+12:6914 
+CINOOLAR MOBIL! 
+Meg 
+1.401 
+In 
+0.00 
+41 
+08/29 
+01:0114 
+C211001.21 NO1111.1 
+Nag 
+MIDI 
+In 
+0.00 
+42 
+06/29 
+01:3914 
+C211201.11 140514 
+Nag 
+leSt. 
+In 
+0.00 
+43 
+01/29 
+0155914 
+C21490412 
+011:121 
+Keg 
+RSO 
+Out 
+0.00 
+44 
+08/29 
+02,00914 
+Cil1401.511 NOSILl 
+MS 8101 
+In 
+0.00 
+45 
+08/29 
+01:01914 
+CISOOLIR 14011111 
+Keg 
+*501 
+In 
+0.00 
+46 
+01/29 
+02'129/1 
+CIPOOLAR 1405112 
+Mop 
+8601 
+In 
+0.00 
+47 
+08/29 
+03:01114 
+C21100LASNOblia 
+Nag MDI 
+In 
+0.00 
+48 
+08/29 
+03:08114 
+CINOOLAR MOBIL! 
+Nang 
+RSD1 
+in 
+0.00 
+19 
+01/29 
+03:29914 
+CZNOCILLR NO5111 
+Nag 
+RSD1 
+In 
+0.00 
+50 
+00/39 
+03:30911 
+C214001.alt NObILS 
+14n 
+1.1111 
+In 
+0.00 
+51 
+08/29 
+03:519/1 
+CINOOLAR 
+00111 
+Mop 
+RSDI 
+In 
+0.00 
+52 
+08/19 
+06:15911 
+CINOOLAR NOIMLI 
+Nag 
+RSD1 
+In 
+0.00 
+53 
+08/29 
+09:23914 
+CINOOLAR NO511.4 
+Keg 
+1.501 
+Out 
+0.00 
+54 
+01/29 
+09:25914 
+CINOOLAR 1.105111 
+Keg 
+RSD1 
+in 
+0.00 
+55 
+The 
+01/30 
+07:215/1 
+C2111101alt Mob34 
+Nag 
+MDi 
+Out 
+0.00 
+54 
+01/30 
+07;37511 
+CINOOLAR NOSILR 
+Meg 
+P DI 
+In 
+0,00 
+57 
+01/30 
+05 :59301 
+CINOOLAR NORMS 
+Meg 
+RSD1 
+Out 
+0.00 
+55 
+Nod 
+08/31 
+07:18_1 
+CINOOLAR MOBIL! 
+Nag 
+PSD1 
+Out 
+0.00 
+59 
+08/31 
+07:19301 
+0214.20151 NOB11S 
+Nag 
+PSD1 
+In 
+0.00 
+60 
+01/31 
+07:20_1 
+CINOOLAR 110)21.1 
+Keg 
+RSD1 
+Out 
+0.00 
+41 
+08/31 
+07-26AM 
+CINOOLAR NOBILS 
+Ma 
+RSD1 
+In 
+0.00 
+42 
+01/31 
+11,57514 
+CINOOLAR NOSILR 
+Keg R8D1 
+Out 
+0.00 
+63 
+Thu 
+09/01 
+08 15911 
+CIP40111 MOBIL! 
+Nag 
+RSDS 
+Out 
+0.00 
+44 
+09/01 
+OS 149/4 
+C21800ta* MOBIL: 
+Nag RID) 
+In 
+0.00 
+CONFIDENTIArm-m3" 
+EFTA_002 10423 
+EFTA01311921

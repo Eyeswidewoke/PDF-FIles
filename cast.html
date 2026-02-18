@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CAST HUB | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --bg:#0f1218;
+      --surface:#171c24;
+      --surface-2:#1f2631;
+      --border:#2d3643;
+      --text:#e8edf4;
+      --muted:#92a0b4;
+      --accent:#d35d2c;
+      --accent-2:#f08a5d;
+      --good:#2caa71;
+      --sans:'Space Grotesk',system-ui,sans-serif;
+      --mono:'IBM Plex Mono',monospace;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--sans);background:radial-gradient(circle at 10% 0%,#1a1f29 0%,#0f1218 55%);color:var(--text);line-height:1.55;min-height:100vh}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .back-link{
+      display:inline-block;
+      margin:1rem;
+      padding:.5rem 1rem;
+      border:1px solid var(--border);
+      border-radius:.5rem;
+      color:var(--muted);
+      font:600 .78rem var(--mono);
+      transition:all .2s;
+    }
+    .back-link:hover{color:var(--accent);border-color:var(--accent);text-decoration:none}
+    .hero{
+      padding:2rem 1rem 1.2rem;
+      text-align:center;
+      border-bottom:2px solid var(--accent);
+      background:linear-gradient(170deg,#131822 0%,#171d28 45%,#0f1218 100%);
+    }
+    .hero h1{
+      font-size:clamp(1.9rem,4.3vw,3rem);
+      letter-spacing:.04em;
+      font-weight:700;
+      background:linear-gradient(90deg,var(--accent),var(--accent-2));
+      -webkit-background-clip:text;
+      -webkit-text-fill-color:transparent;
+    }
+    .hero .subhead{
+      max-width:84ch;
+      margin:.5rem auto 0;
+      color:var(--muted);
+      font-size:.9rem;
+    }
+    .tab-bar{
+      display:flex;
+      border-bottom:2px solid var(--border);
+      background:var(--surface);
+      overflow-x:auto;
+    }
+    .tab-btn{
+      flex:1;
+      border:none;
+      background:none;
+      color:var(--muted);
+      padding:.7rem .5rem;
+      cursor:pointer;
+      font:600 .78rem var(--mono);
+      text-transform:uppercase;
+      letter-spacing:.04em;
+      border-bottom:2px solid transparent;
+      white-space:nowrap;
+      transition:all .2s;
+    }
+    .tab-btn:hover{color:var(--text);background:rgba(211,93,44,.08)}
+    .tab-btn.active{color:var(--accent);border-bottom-color:var(--accent);background:rgba(211,93,44,.12)}
+    .tab-content{display:none;padding:1.2rem}
+    .tab-content.active{display:block}
+    h2{
+      color:var(--accent);
+      margin-bottom:.6rem;
+      font-size:1.02rem;
+      letter-spacing:.02em;
+    }
+    .stat-grid{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(160px,1fr));
+      gap:.6rem;
+    }
+    .big-stat{
+      background:var(--surface);
+      border:1px solid var(--border);
+      border-radius:.6rem;
+      padding:.8rem;
+      text-align:center;
+    }
+    .big-stat .n{font:700 1.4rem var(--mono);color:var(--accent)}
+    .big-stat .l{font-size:.7rem;color:var(--muted);text-transform:uppercase;margin-top:.2rem}
+    .cat-bars{display:flex;flex-direction:column;gap:.5rem}
+    .cat-row{display:grid;grid-template-columns:190px 1fr 56px;align-items:center;gap:.6rem}
+    .cat-name{font:600 .76rem var(--mono);color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .cat-track{height:10px;background:var(--border);border-radius:999px;overflow:hidden}
+    .cat-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--accent-2))}
+    .cat-count{text-align:right;font:600 .75rem var(--mono);color:var(--muted)}
+    .top-grid{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+      gap:.6rem;
+    }
+    .mini-card{
+      background:var(--surface);
+      border:1px solid var(--border);
+      border-radius:.6rem;
+      padding:.75rem .8rem;
+      border-left:3px solid var(--accent);
+    }
+    .mini-title{font:700 .9rem var(--sans);color:var(--text)}
+    .mini-meta{font:.73rem var(--mono);color:var(--muted);margin-top:.2rem}
+    .mini-tags{display:flex;gap:.35rem;flex-wrap:wrap;margin-top:.45rem}
+    .chip{
+      display:inline-block;
+      padding:.1rem .4rem;
+      border-radius:.35rem;
+      background:rgba(211,93,44,.14);
+      color:var(--accent-2);
+      border:1px solid rgba(211,93,44,.24);
+      font:600 .65rem var(--mono);
+    }
+    .filters{
+      display:flex;
+      gap:.55rem;
+      flex-wrap:wrap;
+      margin-bottom:.7rem;
+    }
+    .filters input,.filters select{
+      background:var(--surface);
+      border:1px solid var(--border);
+      color:var(--text);
+      border-radius:.45rem;
+      padding:.45rem .6rem;
+      font:.78rem var(--mono);
+    }
+    .filters input{flex:1;min-width:220px}
+    .result-meta{
+      margin:.1rem 0 .7rem;
+      color:var(--muted);
+      font:.74rem var(--mono);
+    }
+    .member-list{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+      gap:.65rem;
+    }
+    .member-card{
+      background:var(--surface);
+      border:1px solid var(--border);
+      border-radius:.7rem;
+      padding:.85rem .9rem;
+      display:flex;
+      flex-direction:column;
+      gap:.4rem;
+      border-left:3px solid var(--accent);
+      min-height:180px;
+    }
+    .member-name{font:700 .96rem var(--sans);color:var(--text)}
+    .member-cat{font:.68rem var(--mono);color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em}
+    .member-summary{font-size:.78rem;color:var(--muted);line-height:1.45}
+    .member-actions{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.25rem}
+    .btn{
+      border:1px solid var(--border);
+      background:var(--surface-2);
+      color:var(--text);
+      border-radius:.45rem;
+      padding:.3rem .55rem;
+      font:600 .66rem var(--mono);
+      cursor:pointer;
+    }
+    .btn:hover{border-color:var(--accent);color:var(--accent)}
+    .btn.primary{
+      border-color:rgba(211,93,44,.45);
+      color:#fff;
+      background:linear-gradient(130deg,#c64f22,#a43713);
+    }
+    .btn.primary:hover{filter:brightness(1.08)}
+    .btn:disabled{opacity:.4;cursor:not-allowed}
+    .edge-table-wrap{
+      border:1px solid var(--border);
+      border-radius:.6rem;
+      overflow:auto;
+      background:var(--surface);
+      max-height:65vh;
+    }
+    table{
+      width:100%;
+      border-collapse:collapse;
+      min-width:620px;
+    }
+    th,td{
+      border-bottom:1px solid var(--border);
+      padding:.55rem .7rem;
+      text-align:left;
+      font-size:.78rem;
+      vertical-align:top;
+    }
+    th{
+      position:sticky;
+      top:0;
+      z-index:1;
+      background:#1d2330;
+      color:var(--accent-2);
+      font:600 .72rem var(--mono);
+      text-transform:uppercase;
+      letter-spacing:.04em;
+    }
+    td .pair{
+      font:600 .82rem var(--sans);
+      color:var(--text);
+    }
+    td .contexts{
+      margin-top:.2rem;
+      font:.67rem var(--mono);
+      color:var(--muted);
+    }
+    .viewer-overlay{
+      display:none;
+      position:fixed;
+      inset:0;
+      z-index:100;
+      background:rgba(4,7,12,.84);
+      padding:1.4rem;
+      overflow-y:auto;
+    }
+    .viewer-overlay.open{display:block}
+    .viewer-box{
+      max-width:920px;
+      margin:0 auto;
+      background:var(--surface);
+      border:1px solid var(--border);
+      border-radius:.8rem;
+      padding:1.3rem;
+      position:relative;
+    }
+    .viewer-close{
+      position:absolute;
+      top:.65rem;
+      right:.8rem;
+      border:1px solid var(--border);
+      background:none;
+      color:var(--muted);
+      border-radius:.4rem;
+      padding:.3rem .7rem;
+      cursor:pointer;
+      font:600 .75rem var(--mono);
+    }
+    .viewer-close:hover{color:var(--accent);border-color:var(--accent)}
+    .viewer-body{
+      margin-top:1rem;
+      font:.82rem/1.62 var(--sans);
+      color:var(--text);
+      white-space:normal;
+      word-break:break-word;
+      max-height:74vh;
+      overflow-y:auto;
+    }
+    .viewer-body p{margin:.45rem 0}
+    .viewer-body h1,.viewer-body h2,.viewer-body h3{
+      color:var(--accent-2);
+      margin:1rem 0 .4rem;
+      line-height:1.3;
+    }
+    .viewer-body strong{color:#fff}
+    .viewer-body code{
+      background:#0e131a;
+      border:1px solid #253041;
+      border-radius:.3rem;
+      padding:.06rem .3rem;
+      font:.74rem var(--mono);
+    }
+    .viewer-body pre{
+      background:#0d1218;
+      border:1px solid #2a3341;
+      border-radius:.45rem;
+      padding:.7rem;
+      overflow:auto;
+      margin:.45rem 0;
+      white-space:pre;
+    }
+    .viewer-body blockquote{
+      border-left:3px solid var(--accent);
+      padding:.2rem .8rem;
+      color:var(--muted);
+      margin:.45rem 0;
+      background:rgba(211,93,44,.08);
+      border-radius:.2rem;
+    }
+    .viewer-body ul,.viewer-body ol{margin:.4rem 0 .4rem 1.2rem}
+    .viewer-body li{margin:.15rem 0}
+    .viewer-body table{
+      width:100%;
+      border-collapse:collapse;
+      margin:.5rem 0;
+      min-width:0;
+    }
+    .viewer-body th,.viewer-body td{
+      border:1px solid var(--border);
+      padding:.3rem .45rem;
+      font-size:.74rem;
+    }
+    .viewer-body th{background:rgba(211,93,44,.12);color:var(--accent-2)}
+    @media (max-width:900px){
+      .cat-row{grid-template-columns:1fr 1fr 50px}
+      .member-list,.top-grid{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./index.html">&larr; Back to THE PDF FILES</a>
+
+  <header class="hero">
+    <h1>CAST HUB</h1>
+    <p class="subhead">
+      Full cast directory with category breakdowns, relationship signals, and direct links to cast pages, profiles, and people-email buckets.
+    </p>
+  </header>
+
+  <nav class="tab-bar">
+    <button class="tab-btn active" data-tab="overview">Overview</button>
+    <button class="tab-btn" data-tab="directory">Cast Directory</button>
+    <button class="tab-btn" data-tab="connections">Connections</button>
+  </nav>
+
+  <section id="tab-overview" class="tab-content active">
+    <h2>Cast Coverage</h2>
+    <div id="summaryStats" class="stat-grid"></div>
+
+    <h2 style="margin-top:1.1rem">Categories</h2>
+    <div id="categoryBars" class="cat-bars"></div>
+
+    <h2 style="margin-top:1.1rem">Most Connected Cast</h2>
+    <div id="topConnected" class="top-grid"></div>
+  </section>
+
+  <section id="tab-directory" class="tab-content">
+    <h2>All Cast Members</h2>
+    <div class="filters">
+      <input id="memberSearch" type="search" placeholder="Search cast name, category, summary..." />
+      <select id="memberCategory"></select>
+      <select id="memberSort">
+        <option value="name">Sort: Name (A-Z)</option>
+        <option value="connections">Sort: Connection Count</option>
+        <option value="mentions">Sort: Mention Strength</option>
+        <option value="category">Sort: Category</option>
+      </select>
+    </div>
+    <p id="memberMeta" class="result-meta">-</p>
+    <div id="memberList" class="member-list"></div>
+  </section>
+
+  <section id="tab-connections" class="tab-content">
+    <h2>Connection Pairs</h2>
+    <div class="filters">
+      <input id="edgeSearch" type="search" placeholder="Search by cast names..." />
+      <select id="edgeMin">
+        <option value="1">Min mentions: 1</option>
+        <option value="2">Min mentions: 2</option>
+        <option value="5">Min mentions: 5</option>
+        <option value="10">Min mentions: 10</option>
+        <option value="20">Min mentions: 20</option>
+      </select>
+    </div>
+    <p id="edgeMeta" class="result-meta">-</p>
+    <div class="edge-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Pair</th>
+            <th>Mentions</th>
+            <th>Categories</th>
+            <th>Open</th>
+          </tr>
+        </thead>
+        <tbody id="edgeRows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <div id="viewerOverlay" class="viewer-overlay">
+    <div class="viewer-box">
+      <button class="viewer-close" type="button" onclick="closeDoc()">Close</button>
+      <div id="viewerBody" class="viewer-body"></div>
+    </div>
+  </div>
+
+  <script src="./cast-app.js?v=20260216-linkguard" defer></script>
+</body>
+</html>

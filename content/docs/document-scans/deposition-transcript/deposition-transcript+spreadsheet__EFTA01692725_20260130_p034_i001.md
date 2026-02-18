@@ -1,0 +1,554 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692725_20260130_p034_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 929
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.809690
+---
+
+I Manx Name 
+/Wow* Maribor 
+Date of Invoice 
+October 12. 2004 
+,at 
+w ART Wireless 
+14 of ill 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+NutiNar 
+Eon OM Mrs CFOS 
+10.IIP 
+OM 1121P 
+002 1 1,MP 
+ROM 
+281 
+gEST 
+OW OR 
+00301 
+0003021M 
+OE:0921M 
+003 02:NA 
+00:00211A 
+Ma 01•20 
+Et =g
+ili 
+SI< 1003 02 A2 
+t: 1003 02-.4 
+Il l bw01,„ 
+N2 100349 
+ati =El 
+82 5 1091 03.15* 
+426 1003 CO • 
+523 1003 CM 
+us IOC) WA 
+AA 
+1000 
+01 1= 
+03i 37 
+0> 101:9  
+633 RE:0 04 
+04 
+634 1& 04 
+<35 1003 04 
+03
+AyYt6e IOW 049
+t 
+100 
+glA 
+3 MOO 01
+Nto RECO 05:16A 
+MS 10(0 0$17 
+: 41 itr3 06,2 
+LI ;matt 
+450 1003 OS 311 
+g 
+Bs, 1003 0513A 
+- 
+812 1003 0537A 
+j 
+853 100300th* 
+854 10030021*
+i 
+111$ 1003 00224, 
+1003 MOM 
+1003 II 14A 
+tit 
+• COnthlUIECI 
+Only 
+Charge 
+CNN To 
+Used Rae 0050(000n 
+Stet 
+cm FL 
+, VIS g
+EANc.22:14; 1
+ISCOW/G 
+NCOMEIG 
+WEALLMEACE1 FL 
+wPALIMEACEI FL 
+veSALAIREACEI FL 
+KRALMWACII FL 
+ag 
+FL 
+Ft
+80
+WEARMAW-11 FL 
+13WP0./74TM/ 
+ONSCH EL 
+Ag FL 
+VAAL 
+IN 
+ALMBEACH FL 
+VePALm-ACEI Ft 
+=b.= 
+ft.
+WAAL 
+FL 
+WPAEMSTACM FL 
+Wm...WENCH FL 
+VISIZEr GA 
+wookui 
+WPMPR 
+WPAIMBEACH FL 
+WPALMEAGN FL 
+AM 
+WPALACPCM41 FL 
+NM 
+\WAW.3EACNK 
+IM
+AIWit 
+ft
+WP
+PM: OH 
+Ft
+em(Natio. 
+WEAL kcaLACII ft, 
+INC 000 
+WIWAMECACH FL 
+VIN 
+BOYN6344113/4641 FL 
+NM 
+AVAINAMEN341 FL 
+MM 
+WPAIMBE 
+N FL 
+MM 
+WPINA13 
+WP AL 
+Ft 
+001N- 041 
+iL 
+IAA WORTH FL 
+AWALMEACAI 
+MN 
+WPAJMEACI4 FL 
+MN 
+WE 'NORM FL 
+MN 
+00111470/11.04 Ft 
+MN 
+14064'0MACIIFt 
+MN 
+WPIL
+4
+IME
+O.
+ACII FL 
+Mn
+10001 1:
+IVI
+Ngria
+MN
+ACIML 
+MN 
+UNLIAttininat
+14 
+MN 
+UNLalnit) NAVE, MN 
+MN 
+teretag MAYO. IAN 
+MN 
+UM.W1TE Weed) MN 
+MN 
+11M.S.111 •46Y•13
+ MN 
+74
+M 
+Waal. 0 waxv /AN 
+DAN 
+unksiiTtg vA•9c4 mN 
+MN 
+MAST 
+RATE. 
+MN 
+MN 
+UNISTED NANCY) MN 
+MM 
+UNLAITE0 VAR041) MN 
+IAN 
+tnalulTFO NoW010 MN 
+MN 
+UNLACED !EAVV4C MN 
+MN 
+uNLIWIED %twerp rar 
+MN 
+U141.MTEO, W01901.7AN 
+MN 
+v1/1047E0 'AWN) mN 
+MN 
+.04
+ENLE•110.0tu KAMM)
+,
+ 
+MN 
+al 
+WV 
+v141(.1110 N%VE
+7AN 
+MN 
+0 ram, 
+FAN 
+mESSEEEt RETAIL A: 
+tRAD,STFO INWICE0 MN 
+MM 
+UNURTE0 NMIXMO MN 
+MN 
+INItIVIT0EN
+NC411) MM 
+MIN 
+VNLIVTIO /MCC) MN 
+MN 
+umn IrP n NM'RYD 
+ 
+MN 
+MIN 
+uNLIIETC0 WM 
+MN 
+MN 
+UNUILTED NWNMJ MV 
+FM 
+1RillusTED NAvn(C) mr. 
+MI 
+.1,=
+, E :WI 
+MN 
+mi 
+ull i Z 
+IOWAN PAN 
+FO MVO. MN 
+MN 
+UNLIINTE0 MAIR141) MN 
+AMAMI MN 
+KM/1110 MN 
+MIN 
+UNLNaIEO NVIK/TO 
+PMNIC10 
+isW)040 
+NG 
+VY 
+14W0I2 VN 
+MOW= NV,9042 Nod 
+MOWED DOWN(' MN 
+lAWKICO 
+1M'040 PAN 
+EMI 
+MN 
+44/N/
+KMAK 
+4MI
+LIN
+ID NAVA 
+NARK 
+MN 
+al 
+MN 
+Wrag
+E,WootO 
+hAVENO IS 
+IEVEKNO MN 
+PUE2
+M• taT
+trAp FithnKa 
+01044•Eb Nvoicimin 
+1146•Mill %AMMO MN 
+UN.2A1ED MONO MN 
+U114141£0 AM1040 MN 
+UM.MIED 341163.110 MN 
+UN-N11E0 %AVOW MN 
+U
+NITED 14/Y0(110 MN 
+UNLOAlt MAW* mN 
+014/0.47F 9 NAVF.40 ms 
+EitESATjekm
+4e,r N
+VOICE USAGE FOR 
+Numb., 
+Omer 
+Rem Oste TIME 
+823 1191 
+"7'
+003  
+003 129
+1151
+093 C01 
+iN 
+21F 
+093 CO2 
+004 020> 
+094 01 13 
+004 11 
+004 111 
+WM 1127 
+ON WE 
+@A; 
+004 02 
+OM 
+OOLOS 
+1,001 
+004 109 
+004 101 
+ga: 028 
+064 10 
+0041093 
+031 KIN 1
+MO 109410
+11' 
+t 
+612 14104 
+69110031E 
+01/4 10134 IC 
+OS 1005 12 
+404 1064 01 
+lag 
+'1g 
+toy., 0,2 
+lit 8/04/037 
+031 1006 1,2
+91? IOM I!4 
+933 MCA 0/.
+104 100103 
+ny, 1064 
+536 10 tt OE 
+101 1004 000 
+tat 1003 1101 
+14703:14 
+• .77 3313, 
+IL EN 07:18 
+10.310344 
+1097 pry 
+113100/ 0407 
+Continued 
+Only 
+Clfl 
+Gib To 
+Used 
+Rots Oeserlp0on 
+W9EINE3EACN FL 
+WIN 
+LoRnifILD /EWt4 
+ES 
+ecoerte 
+WIN 
+tixtileRLD NW( 
+IIIII 
+WPALPASEA01 FL 
+INN 
+UsUNITED mvE 
+t 
+Wain
+., ACni FL 
+MN 
+UkulaTED NAVE 
+001, T104 
+FL 
+MN 
+U‘uNrirViEN 
+MI 
+Vii, AIM 1 
+5 
+LENuNET 
+?Wm Wm 
+WPALMEE 
+0,DYET 
+E 
+1 
+:mune 
+N.:0404 Wk 
+MN 
+EY( 
+MESSAGE eLYRLVAL 
+i1.(01.749 
+MN 
+UNUINTEDNY/00 MN 
+11K94.1119 
+MN 
+INCLUDED EINUTEs 
+w iR.1140EACK FL 
+MN 
+Unlim RCN. TO 1<
+ENT 
+RE (SAGE RETREVAL 
+WENAMEACH FL 
+r ik 
+ina.im Ma TO MOM 
+MESSAGE RETREVEL 
+AccutliG 
+MN 
+1.114.24 Met TO MGM 
+m97g4i1EVI11 k 
+ 
+MN 
+MN 
+ACLU 
+mewl 4.3 
+UN .a. 
+Tc ECM 
+EVT 
+MESSER 
+YMALYBEACI. ft  
+MN 
+INCLLOE II 
+WIREE4BEACH FL 
+WAN 
+MELLO( WAIT 
+Ems= 
+Fiit 
+MN 
+NocLtr 
+WEEMS 
+NC 
+MN 
+221,13,8 
+w
+itli f,4H 
+14?"rowacm ri. 
+MN 
+Leis rot Nemo MN 
+NETNTOMiCH FL 
+Mn 
+(RIALTO sAvRs0 MN 
+BOYNTOENCE, FL 
+MN 
+uNa&TEDMWX140 MN 
+9917.1014004 EL 
+MN 
+UN i
+ EtNx.49 FEN 
+%es,p,raz a 
+hut 
+LIN-Ift 
+NI014110 MN 
+MN 
+Ued:AL 
+547U00 MN 
+*A944.14SEACH FL 
+MN 
+Ulla 
+NAV3019 MN 
+GICCM140 
+SPIN 
+UN.M1111) NAM° MN 
+WPALAPMAC14 FL 
+MN 
+uNtilrE0 %Mc% FAN 
+14.1.cm•K• 
+UN 
+uNUNEE 0 %MA 
+MY 
+rav
+,-.  
+MN 
+uNLALTEp \Ay( 
+MN 
+IASI 
+UNMATED VAW 
+MY 
+FM:R IAU F1t. 
+WI 
+UNUMITE0 NWANCIA14 
+UNLIANTA0 NAVA 
+MY 
+N C,OwN9 
+3515 
+UNumi- E0 2eNve.o Uri 
+1 ENT 
+9/..i. WATNG 
+&0313441=n; 
+Ei rir i  
+tilt WTE0 ww4E &it .4 
+;WORD MEW% 
+R 
+IS 
+Man 
+MWTF 
+440 
+DIMuIf 
+NC{ 
+0 MINUTES 
+M 
+IMI 
+:ALM 140444LS 
+FL 
+INN 
+HELLOED 'T idal
+NOOFAMO 
+n  
+MIN 
+SK: 
+FL 
+=4
+MINI 
+LIMN 14001 
+19 
+VON, 
+NCE.V0EDIAMITES 
+(11.99EONDAITES 
+MN 
+MN 
+WNW 41910. IQ von 
+a 1.4,4 in..., /0 v964. 
+INCELCED/AkETES 
+an 
+mu, uol 0 WW1 r E. 
+IAN 
+14W060 IAN 
+IMEALIMEACR FL 
+MN 
+UN
+411411142110
+MATED IMMO 1.14 
+Ft 
+MN 
+I 
+LIOE01/00TES 
+WE 
+a 
+MN 
+1.1.0ERMIEJTEE 
+V/9/414(EACEIEL 
+WEAL 
+a 
+= 
+MEDIA/01E. 
+UDEOMPRI16 
+1011...148EACI401. 
+MN 
+I 
+UOLDMNETES 
+1101•74(0/111104 FL 
+1 MIN 
+6 IN 1001. TO Et 
+S8',V6V4 
+a  
+MN 
+I 
+LN014 MOM TO 
+1, PAM Ma TO 
+4 
+WPA.1111EACH FL 
+1404 
+0444110EDMOCJUS 
+ClweE 
+EFTA01692758

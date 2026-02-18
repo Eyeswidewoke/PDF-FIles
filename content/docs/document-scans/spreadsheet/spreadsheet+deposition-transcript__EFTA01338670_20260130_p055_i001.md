@@ -1,0 +1,483 @@
+---
+source_image: "spreadsheet+deposition-transcript__EFTA01338670_20260130_p055_i001.png"
+source_pdf: "EFTA01338670.pdf"
+method: pdf_text
+words: 551
+confidence: 1.00
+extracted: 2026-02-13T17:15:20.423110
+---
+
+INVOICE 
+743763 
+04/30/2010 
+TELEGENCE 
+54 
+532 
+691 
+0% 
+659 
+V§IIIIIIII 
+60 
+O14 
+O5 
+OM 
+an 
+GO 
+00
+42) 
+402 
+60 
+WI 
+CO 
+611 
+612 
+60 
+401 
+406 
+406 
+617 
+WI 
+60 
+O4 
+041 
+O4 
+00 
+611 
+he 
+at&t 
+002 
+MINA 
+41 co WI 11616.01 
+WA 
+W 
+NV 
+260 
+060 
+am 
+00/12 
+15220. 
+41 co WI 11616.01 
+WA 
+260 
+COO 
+am 
+0011 
+*WM 
+WI W4 
+WA 
+20 
+000 
+000 
+0011 
+*WM 
+KIN WI 446441 
+WA 
+MI 
+100 
+000 
+000 
+0011 
+*MA 
+410, WI 
+41441 
+WA 
+*A 
+260 
+COO 
+am 
+00/12 
+MO NA 
+LIMO= 
+WA 
+600 
+COO 
+am 
+00/12 
+04.11 
+MOW 
+WA 
+20 
+COO 
+am 
+00/12 
+1:w 
+taN11113 
+WA 
+COO 
+am 
+00/12 
+1:124. 
+Wi NM 
+WA 
+20 
+COO 
+am 
+0/12
+1400113 
+WA 
+am 
+COO 
+am 
+0011 
+14YM 
+WI W4
+a 
+WA 
+110 
+Pm 
+600 
+0011 
+1 MA 
+4.171 
+WA 
+20 PO 
+60 
+0011 
+1 664 
+410, WI MOM. 
+11 
+WA 
+260 
+COO 
+am 
+al2 
+1402 
+4421543 
+a 
+WA 
+COO 
+am 
+0/12 
+LOOM 
+1:40151a 
+WA 
+210 
+COO 
+am 
+0/12 
+01.4. 
+111:0410 
+WA 
+COO 
+GO 
+0/12 
+2MA 
+41 to WI Mow. 
+WA 
+060 
+01 
+0011 
+2: WM 
+1 
+14STO 
+WA 
+40 
+000 
+0 IN) 
+0011 
+2.120 
+vice WI r016•41 
+WA 
+MI 
+00 
+PO 
+00 
+0/12 
+250M 
+MOM 
+0. 
+WA 
+40 
+COO 
+am 
+0/12 
+2WM 
+IM MIN 
+WA 
+100 
+COO 
+am 
+0/12 
+50/02 
+Wo 101 11.01.01 
+WA 
+*A 
+260 
+060 
+am 
+0/12 
+5:216/4 
+IM MOM 
+WA 
+140 
+060 
+60 
+0/12 
+5:504. 
+W. 
+WI Mn. 
+WA 
+*A 
+100 
+000 
+*CO 
+001 
+RIYM 
+410, WI 6.0.44. 
+WA 
+*A 
+200 
+00) 
+*CO 
+0/12 
+&0WM 
+111:004 
+C. 
+WA 
+10 
+060 
+PO 
+0/12 
+02216. 
+Wet 101 Mn.
+ft 
+WA 
+COO 
+CO 
+0/12 
+02.4. 
+Maas 
+WA 
+COO 
+PO 
+003 
+1504. 
+104215113 
+WA 
+CO 
+CO 
+003 
+11:104. 
+WI NM 
+WA 
+000 
+CO 
+02/11 
+11;4011 
+MN W4 
+a 
+WA 
+20 
+PO) 
+CO 
+0011 
+11',1164 
+410, WI 40. oval 
+WA 
+VA 
+1.00 
+PO) 
+CO 
+003 
+11,14. 
+Wo 
+WI Mnti 
+WA 
+W 
+200 
+000 
+CO 
+003 
+121.4. 
+0406
+a 
+WA 
+000 
+CO 
+003 
+12121M 
+WOW 
+WA 
+000 
+CO 
+003 
+12 12IM 
+4421:013
+a 
+WA 
+500 
+CO 
+CO 
+003 
+1:2:02 
+MOM 
+C. 
+WA 
+10 
+CO 
+CO 
+003 
+1:21.2 
+Wet 101 1•01.61 
+0. 
+WA 
+W 
+1.00 
+000 
+*CO 
+0011 
+*WM 
+410, WI MA 04. 
+0. 
+WA 
+W 
+1.0 
+000 
+*CO 
+013 
+1601. 
+1:40151a 
+a 
+WA 
+201 
+COO 
+CO 
+0/13 
+4140. 
+1:4015113 
+a 
+WA 
+l.m 
+COO 
+CO 
+0/13 
+•:1 M 
+1:4015113 
+a 
+WA 
+SOD 
+COO 
+CO 
+0/13 
+4 WM 
+OMNI 
+a 
+WA 
+SOD 
+COO 
+CO 
+O'13 
+444. 
+WI NM 
+a 
+WA 
+600 
+COO 
+CO 
+WM 
+4:911 
+14.015113 
+a 
+WA 
+l.m 
+COO 
+CO 
+040 
+60441 
+144400 
+a 
+WA 
+1.0 
+00) 
+*CO 
+040 
+COM 
+EVER1ItS 
+a 
+WA 
+20 
+Pm 
+*CO 
+040 
+67$041 
+10104168 
+a 
+WA 
+20 
+Pm 
+*CO 
+WM 
+5:10M 
+WW1.= 
+a 
+WA 
+200 
+COO 
+CO 
+013 
+5:24. 
+04/116 
+a 
+WA 
+1.00 
+COO 
+CO 
+013 
+5:24. 
+4421543 
+a 
+WA 
+101 
+COO 
+CO 
+013 
+5414. 
+4421543 
+a 
+WA 
+200 
+COO 
+CO 
+013 
+5,269. 
+69 toll 154 
+O. 
+WA 
+200 
+COO 
+CO 
+013 
+546/2 
+WI NM 
+a 
+WA 
+1100 
+COO 
+CO 
+WO 
+6:1M1 
+WI NM 
+a 
+WA 
+1.0 
+00) 
+*CO 
+WO 
+6:4141 
+TEARMIS 
+a 
+WA 
+10 
+Pm 
+*CO 
+AW 041005 
+T. I rilent101 (010//M 140 1610 00 
+0114114 
+ants all 
+I
+22 
+TM 1$11 le 042.1 c660116646 
+SDNY_GM_02773032 
+SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17 
+EFTA 00259676 
+EFTA01338724

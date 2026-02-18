@@ -1,0 +1,500 @@
+---
+source_image: "contact-list+deposition-transcript+bank-statement+scanned-document__EFTA01420655_20260130_p001_i001.png"
+source_pdf: "EFTA01420655.pdf"
+method: pdf_text
+words: 640
+confidence: 1.00
+extracted: 2026-02-13T16:04:48.304782
+---
+
+FX 
+True/False 
+Database ID 
+Version Status Structure ID 
+Trade Type 
+ry Date Settlement Date FarSettlement Date 
+Counterparty 
+Currency Pair 
+ter CCY Amount Strike Call/Put 
+Premium Amount Premium Currency 
+Up 
+Mark Up CCY 
+Salesperson 
+Source System 
+Notes 
+Product Type 
+) 
+Revenues (EUR) Revenues (USD) 
+TRUE 
+1.607091749E9 
+3 
+Open 
+6.83213634E8 
+FxNonDeliverableForward 
+5/18 
+SOFL 
+USDARS -2738023.95 
+54870000 
+- 
+MAXMCHR RMS 
+DF Mid 48 Ex pts 48.46 
+and 
+TRUE 
+3/18 
+7-Mar-18 
+20.02 
+2833 
+0 
+0 
+1.607099785E9 
+15-Jun-18 
+20.99 
+2086 
+0 
+2086 
+TRUE 
+1.608439409E9 
+30-Apr-18 
+2500 
+EUR 
+T- RUE 
+1.618883809E9 
+30-Apr-18 
+3125 
+EUR 
+D- RUBIN 
+TRUE 
+1.632404274E9 
+SOFL 
+EURCHF 
+2- 563.32 EUR 
+MAXMCHR 
+TRUE 
+1.632474102E9 
+CHR 
+TRUE 
+n-18 
+426.29 
+TRUE 
+5/18 
+5871 
+TRUE 
+3/18 
+2- 642 
+TRUE 
+1.664455332E9 
+18-Jun-18 
+-19428.20 
+TRUE 
+1.664455333E9 
+18-Jun-18 
+32534.85 
+TRUE 
+1.664455334E9 
+18-Jun-18 
+-8934.44 
+TRUE 
+1.671991591E9 
+eb-18 
+SOFL 
+USDPLN 
+EUR 
+MAXMCHR RMS 
+TRUE 
+1.674125364E9 
+18-Jun-18 
+3500 
+EUR 
+T- RUE 
+1.674125365E9 
+18-Jun-18 
+T- RUE 
+1.674125366E9 
+18-Jun-18 
+TRUE 
+T- RUE 
+T- RUE 
+SOFL 
+USDCHF 
+RMS 
+1.656405934E9 
+4 
+SOFL 
+USDPLN 
+EUR 
+MAXMCHR RMS 
+1.658505846E9 
+2 
+19-Jun-18 
+23.28 
+5871 
+USD 
+U- SD 
+2833 
+3 
+U- SD 
+Trade Date 
+Expi 
+Notional Amount Coun 
+Trader Rate 
+Mark 
+401209 Revenue (USD 
+01/24/18 
+03/0 
+20.04 
+- 
+FxNonDeliverableForw 
+Open 
+6.83216245E8 
+FxNonDeliverableForward 01/24/18 
+06/1 
+SOFL 
+USDARS -1422930.54 
+29910000 
+21.02 
+- 
+MAXMCHR RMS 
+df mid 143 Ex pts 146 FxNonDeliverableForward 0 
+4 
+Open 
+SOFL 
+EURUSD 
+AGLIJOE RMS 
+3 
+Open 
+SOFL 
+EURUSD 
+RMS 
+1 
+Open 
+10000000 
+RMS 
+1 
+Open 
+6264.48 -5950 
+FxSpot 0 
+1.660577771E9 
+15-Jun-18 
+24.15 
+2642 
+1.638771734E9 
+401209 EURUSD 
+MAXMCHR RMS 
+1.641932758E9 
+401209 EURUSD 
+MAXMCHR RMS 
+1.662455019E9 
+401209 EURUSD 
+MAXMCHR RMS 
+T- RUE 
+1.67910758E9 
+un-18 
+- 
+401209 
+110.0431 
+873252 0 
+TRUE 
+1.679109614E9 
+401209 USDHKD 
+MAXMCHR RMS 
+T- RUE 
+1.682191553E9 
+401209 USDHKD 
+MAXMCHR RMS 
+-1 384.1059309030009 
+EURUSD 1.16 
+SOFL 
+MAXMCHR 
+3 
+SOFL 
+MAXMCHR 
+3 
+SOFL 
+MAXMCHR 
+3 
+2 
+U- SD 
+6.83661816E8 
+FxEuroOpt 
+-8500000 
+10455000 
+mid 97,260 
+FxEuroOpt 
+6.87168986E8 
+FxEuroOpt 
+8500000 -10455000 
+1.23 
+FxEuroOpt 
+6.91750475E8 
+-11697050 
+FxSpot 0 
+6.91773044E8 
+0.9498 - 
+0 
+01/25/18 
+1.23 
+P 
+O 
+2500 
+02/12/18 
+O 
+-128000 
+0 
+3125 
+FxSpot 03/08/18 
+1.169705 
+2563.32 
+FxSpot 03/08/18 
+0.9498 - 
+Open 
+6.99909007E8 
+FxForward 
+04/30/18 
+-1367521.37 
+4800000 3.51 
+- 
+- 
+-
+DF Mid -10.36 Ex pts 4 FxForward 
+0 
+426.29 
+Open 
+7.00611175E8 
+FxNonDeliverableForward 05/03/18 
+SOFL 
+USDARS -2502421.77 
+58381500 
+23.33 
+-
+AGLIJOE RMS 
+mid pts = 
+FxNonDeliverableForward 0 
+Open 
+SOFL 
+MAXMCHR 
+04/26/18 
+100000 USD 
+04/26/18 
+USD 
+12 
+-Mar -18 
+12-Mar-18 
+MAXM 
+1-Ju 
+-3 .508679 
+06/1 
+0 
+7.01304249E8 
+FxNonDeliverableForward 05/08/18 
+06/1
+USDARS -1235950.41 
+29910000 
+24.20 
+- 
+- 
+RMS 
+Ex pts 95 
+FxNonDeliverableForward 0 
+0 
+2 
+Open 
+7.02598133E8 
+SOFL 
+EURUSD -10000000 
+EUR 
+MAXMCHR RMS 
+-
+2 
+Open 
+7.02598133E8 
+SOFL 
+EURUSD 20000000 
+EUR 
+MAXMCHR RMS 
+-
+2 
+Open 
+7.02598133E8 
+SOFL 
+EURUSD -10000000 
+EUR 
+MAXMCHR RMS 
+-
+4 
+Open 
+7.05132082E8 
+-1292186.18 
+- 
+- 
+DF mid -23.50 Ex pts -15.65 
+6 
+Open 
+7.05849143E8 
+EURUSD 10000000 
+RMS 
+Open 
+EURUSD 
+RMS 
+- 
+FxEuroOpt 
+0 
+Open 
+7.05849143E8 
+FxEuroOpt 
+05/31/18 
+EURUSD 10000000 
+-11500000 
+1.15 
+P 
+RMS 
+- 
+FxEuroOpt 
+0 
+0 
+Open 
+6.93848144E8 
+FxSpot 03/21/18 
+-398769.28 
+489788.37 
+1.22825 - 
+- 
+n4g023804/1.22855/EUR 
+FxSpot 119.63078399998683 
+2 
+Open 
+6.94925985E8 
+FxSpot 03/27/18 
+-391373.62 
+485420.70 
+N4G023804/1.2408/EUR 
+FxSpot 
+2 
+Open 
+7.01917771E8 
+909941.10 
+-1085168.46 
+1.19257 - 
+- 
+n4g023804/1.19207/EUR 
+FxSpot 454.97054999994987 
+0 
+2 
+Open 
+7.07500186E8 
+FxForward 
+06/11/18 
+USDJPY -205435.04 
+22606709 
+110.0431 
+- 
+- 
+MAXMCHR RMS 
+N4G023804/110.0439/JPY FxForward 
+FxEuroOpt 
+11800000 
+FxEuroOpt 
+FxEuroOpt 
+-23200000 
+FxEuroOpt 
+FxEuroOpt 
+11500000 
+FxEuroOpt 
+FxSwap 05/29/18 
+05/15/18 
+06/14/18 
+1.18 
+P 
+41250 
+USD 
+O 
+-19428.20 
+05/15/18 
+06/14/18 
+1.16 
+P 
+0 
+USD 
+O 
+32534.85 
+05/15/18 
+06/14/18 
+1.15 
+P 
+0 
+USD 
+O 
+-8934.44 
+- 
+07-F 
+3- .714434 
+60 
+60 
+05/31/18 
+1.18 
+P 
+3500 
+05/31/18 
+1.16 
+P 
+0 
+FxSwap 0 
+FxEuroOpt 
+-11800000 
+FxEuroOpt 
+0 
+7.05849143E8 
+FxEuroOpt 
+-20000000 
+23200000 
+1.2403 - 
+195.68680999997844 
+FxSpot 05/10/18 
+0 
+0 
+2 
+Open 
+7.07500886E8 
+-2317868.49 
+1.818727098E7 
+N4G023804/7.84855/HKD 
+FxSpot 
+2 
+Open 
+7.08504429E8 
+-125157.76 
+982444.65 
+n4g023804/7.8510/HKD 
+FxSpot 
+16346.819999999998 
+13432 
+FxSpot 06/11/18 
+7.84655 - 
+590.7993933641599 
+FxSpot 06/15/18 
+7.84965 - 
+21.52490569643880- 7 
+0 
+0 
+06/14/18 
+-68500 USD 
+06/14/18 
+0 
+USD 
+06/14/18 
+0 
+USD 
+23 
+-Mar -18 
+1.22825 - 
+29 
+-Mar -18 
+1.2403 - 
+14-May-18 
+1.19257 - 
+14-J 
+1- .4934878424 
+13-Jun-18 
+7.84655 - 
+20-Jun-18 
+7.84965 - 
+EFTA01420655

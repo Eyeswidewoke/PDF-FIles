@@ -1,0 +1,166 @@
+---
+source_image: "deposition-transcript+legal-filing+affidavit+scanned-document__EFTA01722156_20260130_p052_i001.png"
+source_pdf: "EFTA01722156.pdf"
+method: pdf_text
+words: 521
+confidence: 1.00
+extracted: 2026-02-13T16:48:50.579989
+---
+
+Page 28 of 40 
+Statement ay stece.int numbor 
+non Baling 
+PaymerA Dv. Dale 
+Pao Ok*Arrevre 
+Meleturn Perini 
+1592825 
+11/21.54 
+$11700 
+523500 
+Ara-Ant Snilosod $ 
+CARBM£LeER SERVICE 
+PA. BOX 13153 
+W£MLVOTON DE 19$846153 
+10%4 MD Z0176.0800 
+Mao yestemic pm* Is Thaw~ 
+huh wawa 4.40 PAH tette4 
+BANKIONE. 
+BANK= ONE. 
+Susanna Dab: 
+NICIMIT • iOTAIM hushoLgER AEA/vice 
+Pigment Q. Oa. 
+11/21.54 In US. T-40/43S-7117 
+MarialatPerreel Cvcs 
+$22500 Espaltol I.8844.443108 
+TCO 
+1.004 9540050 
+0446.U.S.cal NSW 
+I.9024144OW 
+VISA ACCOUNT SUMMARY 
+Account theitMA 
+Peuvihn Ballow 
+15.85744 
+Told Caitlin* 
+17.000 **caw moutons 
+PahntY. CHITS 
+PUThms.Casi, NAM 
+• 43.<0 
+• 135C0 
+AvalatTe CHTST 
+Cash Marti Lino 
+11471 Pm as etH 
+mmmeA 
+THATTAM 
+11.440 
+Rama Chimm 
+• 525.17 
+AT.Tebko Si Cash 
+$5471 PAYATOTT ADORES, 
+N•wIldenes 
+- Th
+=2I 
+TRANSACTIONS 
+he e. 
+u 
+ITIHHAHsh0. Hams. 
+TWOS ATT 
+TmaraherbotHrIoinin 
+Hari 
+Coro 
+Rolomace Nymph 
+TATtchtn1 Ramo of TrAnsactat 0•Sceseon 
+Semi 
+LATE F AC 
+Hoy 
+InHAN:E CHARSTE" 
+Amain 
+0.01 
+Debt 
+F VOTIVE SHAKY OVERL004(E0 YOUR PAYMENT. 
+PLEASE SEKOT NOW. 
+RAM ONE AN, CHASE NAVE Wing°. COMO 'OE MEAGER TRANSITION 
+YOU MAY RECEIVE COMARNICAT/CIAS PICAIUS LACER BOTH THE BATH 
+ONE AND CHASE EITUNDS.80TH BRANDS MEAN CHASE MUMATTAN BANK 
+USA, NA- WetCHOWISS YOUR ACCOLNT AND ISSUES TOM CARD. ISE 
+LOOS FORWARDTOSERV:AI YOU AND 114W( YOU FOR TPA EIUSINESTI 
+MCA 
+MT) 
+FINANCE CHARGES 
+PERT0010 RATEMIAMOAPRI0 MAT TART 
+Day 
+LTITEHT 
+PodsSa A.,. 
+Nays TA wth 
+Co reX TP11 
+• 
+AyeropsOahlialm.4 
+IITHINHOroh 
+cur.em Cycle 
+Hance thugs 
+Cue To 
+Transealcn 
+PAriodh RAN 
+Fon 
+FINANCE 
+OIATIOES 
+Puedisso 
+.03524% 
+11.40% 
+90 01 
+14.75 
+3091 
+• 
+I0.03 
+C.001 tdaCCIII 
+/05614% 
+MO% 
+Proms/Cud pachams 01442% 
+FITATATIhmil path's.% 01094% 
+1L0909%
+% 
+15,00,44 
+1075.(0 
+MX. 
+5260 
+• 
+SMOe 
+5240 
+Toga li .anal chaten
+SUAKIN* Annuli ThirceMoge Row TAPF0 5.0% 
+Cutts PTAITAI Ty's: A (Plan N. Amok of ectbrem Far In Cesar Parisi eqtne&I.n.) 
+lhe Contsp:o4r4APR 0 Ow use cl inIATtc yoQ payMtoh Hewn. OITHIce NT mathims °with adiamm. 
+The U•olho APR wham% you. bed Tama Knaves • IncUing tarctosbn Ion such as cal *drool and balm* pantie 
+I.Am-•mcrmsd..3 a NIINITH94
+11(04041 
+CUE TO IMPROYEM£ANTS REM MADE TO OCR SPAT SERVICE, WE WIC 
+NOT EE ABLE TO PROCESS EPATS MOM THURSCAT.00T 28 AT 6.0 PM 
+(EASTERN TIIIEI Atilt MONDATJACN I ATS00 /OA. WE THANK 
+YOU FOR TWA PATIENCE ANDAITC(0012E FOR ANY INCONVENIENCE 
+TICS MAY CAUSE. 
+TH04042 
+•••TAKESIO OFF ALS FAMILY FARMS FLORIDA CST CITRUSr 
+A 20% ISSCOUHT ON 20 LEIS NAVEL CRINGES. GRAPEFRUIT °RAINED. 
+FIRST TIME EWERS CHT.T.STLIM PLUS STK LMT 7. MCC OT /IS. 
+VISIT ITNAT.ENJOTOTRUS.001.1 OR CALL: I.011 21I.MI 4 DEPT. CU 
+CARDUELMER CIA TOMER SLIME: 1 4049554900. 
+1 IC04100 
+AS A VALUEDCARDMEIMER. YOU ARE ELAM E IOPECENEII04 
+OVARY MERCHANDISE NOT AVAILABLI TO THE CENTRAL PUBLIC FROM 
+TOPBRANDS SUCH AS LENOX, TONO. CISTSET AND 141211 JUST 00 
+TO WWW.VALUECEITTERCOM AND TAMER N IAN)) WHERE R ASKS FOR 
+YOUR CERTIFICATE NUMDER. ACT NOW. CUM-IMES ARCM:TEN 
+11(01101 
+THE TREATS APE SWEET AT tecoaoweas.cove WITH BEVATEHNO 
+ROWERS A PLANTS. DELECTABLE GOURMET BASKETS AND 
+TAUTALZ0JOGOODES THEYLL COOKE WI CANS ONE CARCHOLDERS 
+SAVE 15W Wee., USNO COCE DAMNS HAPPY HALLOWEEN; 
+'HA PETALS. PLEASE van VAYWJECOFLCAYERSCOMOGCLAMER 
+This Statement is a Facsimile - Not an Original 
+Cl': VS, 
+el: 
+1 10 
+0.11:7 
+O.•:* 1 .11 
+)344 500111.444 01.15444 
+https://instantimage.bankone.net/Star/action/Print.do?pagcName=CCStmt&null&nTotalIte... 2/27/2007 
+EFTA01722207

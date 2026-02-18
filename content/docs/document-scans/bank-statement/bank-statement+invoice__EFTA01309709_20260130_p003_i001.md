@@ -1,0 +1,239 @@
+---
+source_image: "bank-statement+invoice__EFTA01309709_20260130_p003_i001.png"
+source_pdf: "EFTA01309709.pdf"
+method: pdf_text
+words: 556
+confidence: 1.00
+extracted: 2026-02-13T16:08:36.707868
+---
+
+cingtillarthe bar
+ACCOUNT DETAILS 
+Detail of Payments - Thank You,
+Item Description 
+Dale Applied Reversed 
+1 PAYMENT 
+01/29/06 
+Total of Payments 
+Current Subscriber Monthly Charges and Cre.. 
+Total Current Subscriber Monthly Charges and Credits 
+Total Current Monthly Charges 
+Payment Amount 
+694.66 
+SUMMARY OF CURRENT ACTIVITY 
+FOi
+Monthly Service Charges 
+Item Description 
+1 CALL WAITING 
+01./0306 - 02/02/06 
+0.00 
+2 TEXT MESSAGING PLAN - 0 MSGS 
+01./0306 - 02/02/06 
+0.00 
+3 CALLER ID 
+01103106 - 02/02/06 
+0.00 
+4 VOICEMAIL 
+0103106 - 02/0206 
+0.00 
+5 DETAIL BILLING 
+0103106 - 02/02/06 
+0.00 
+6 REGULATORY PROGRAM CHARGE 
+0103106 - 02/02/06 
+1.75 
+7 CALL FORWARDING 
+0103106 - 02/02/06 
+0.00 
+8 WORLOCONNECT 
+01103/06 - 02/02/06 
+0.00 
+9 THREE WAY CALUNG 
+0103106 - 02/02/06 
+0.00 
+10 BLACKBERRY $49.99 
+0103106 - 02/02/06 
+49.99 
+11 NATIONAL PLAN $29.99 
+0103106- 02/02/06 
+29 99 
+Total Monthly Service Charges 
+81.73 
+Service Dates 
+Charge 
+f714 66 
+-694.66 
+Charge 
+245.79 
+82.18 
+39.73 
+367.70 
+367.70 
+Account Name 
+JEFFREY E EPSTEIN 
+February 03. 2006 
+Date of Invoice 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+Other Subscriber Credits 
+Item Description 
+1 $5 MONTHLY CREDIT 
+Total Other Subscriber Credits 
+Subscriber Government Fees and Taxes 
+Item Description 
+Charge 
+1 SALES TAX 
+2.42 
+2 FEDERAL EXCISE TAX 
+n 87 
+Total Subscriber Government Fees and Taxes 
+3.29 
+TOTAL CURRENT CHARGES FOR 
+82.18 
+DETAIL OF CURRENT ACTIVIT 
+Page 3 of 12 
+Charge 
+-500
+-5.00 
+Charge 
+Monthly Usage Charges 
+hem Description 
+1 100 ADD'L ANYTME MIN 
+2 MESSAGE RETRIEVAL 
+Total Monthly Usage Charges 
+Other Subscriber Charges 
+Item Description 
+Charge 
+1 MCTD SURCHARGE 
+0.16 
+2 NY CITY UTILITY G.R. SUR 
+0.52 
+3 STATE TELECOM EXCISE SURCHARGE 
+0.71 
+4 FEDERAL UNIVERSAL SERVICE FUND SURCHARGE 
+77 
+Total Other Subscriber Charges 
+2.18 
+Only Used 
+77 MIN 
+2 EVT 
+Charge 
+0.00 
+ELM 
+0.00 
+VOICE USAGE FOR 
+Number 
+hem Date Time 
+1 01/12 10:32A 
+2 01112 05:16P 
+3 01112 05:59P 
+4 01113 10:56A 
+5 01113 04.00P 
+6 01120 0206P 
+7 01/2003:19P 
+8 01/200526P 
+9 01/2006.04P 
+10 01/24 0856A 
+11 01241152A 
+12 012411:56A 
+13 01/26 09:51A 
+14 01/26 09:57A 
+15 01/26 05:10P 
+16 0127 11:18A 
+17 0127 11:20A 
+16 02/02 0156P 
+TOTAL VOICE USAG 
+Calls To 
+NEW ALBANY  
+NCOMNG 
+OH 
+INCOMING 
+COLUMBUS OH 
+NCOMING 
+cotaeus OH 
+INCOMING 
+NCOMING 
+COLUMBUS OH 
+COLUMBUS OH 
+COLUMBUS OH 
+NEW ALBANY OH 
+COLUMBUS OH 
+INCCOLUMBU
+MINGS OH 
+O
+NEW ALBANY OH 
+COLUMBUS OH 
+SOH 
+Only 
+Charge 
+Used Rate Description 
+2MIN 
+100 AMYL ANYTME IAN 
+11 MN 
+100 ADM ANYTME IN 
+100 ADM ANYTME MN 
+NAN 
+100 ADM ANYTME MN 
+I EVT 
+IAESSAGE RETRIEVAL 
+17TAN 
+100 ADM ANYTME MN 
+NAN 
+WO AMYL AMINE MN 
+I IAN 
+WO AMYL AMINE MN 
+4MN 
+100 ADMAMINE MN 
+2MN 
+100 AUDI ANYTME IAN 
+I EVT 
+MESSAGE RETRIEVAL 
+1 MIN 
+100 ADM. ANYTME MN 
+I MIN 
+100 ADM ANYTME MN 
+I MIN 
+100 ADM. ANYTME MN 
+I MIN 
+100 ADM. ANYTME ViN 
+4MIN 
+100 ADC'L ANYTME MIN 
+2I MIN 
+100 ADD'L ANYTME VIN 
+IKON 
+100 AMYL ANYTME MEN 
+2MIN 
+100 ADD'L ANYTME MiN 
+2MIN 
+100 ADM. ANYTME MIN 
+Charge 
+0.00 
+SUMMARY OF CURRENT ACTIVITY 
+FOFt 
+Monthly Service Charges 
+Item Description 
+Service Dates 
+Charge 
+1 CALL WAITING 
+01/03106 - 02/02/06 
+0.00 
+sr. 
+2 TEXT MESSAGING PLAN - 0 MSGS 
+01103106 - 02/02/06 
+4.99 
+3 CALLER ID 
+01(03106 - 02/02/06 
+0.00 
+4 EARLY EVENING 
+01/03/06 - 02/02/06 
+0.00 
+5 ENH DISCOUNT INTL DIAL 
+01/03106 - 02/02/06 
+3.99 
+6 MULTIMEDIA MESSAGING $2.99 
+01/03106 - 02/02/06 
+2.99 
+g 
+CONFIDENTIAL 
+SDNY_GM_00333288 
+EFTA_00205972 
+EFTA01309711

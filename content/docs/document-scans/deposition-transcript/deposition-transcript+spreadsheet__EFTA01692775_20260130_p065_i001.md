@@ -1,0 +1,488 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p065_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 751
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.989816
+---
+
+• 
+cingular 
+°count Number 
+Accotnt Same 
+Date of Invol°47 
+June 12. 2005 
+Page 9 o199 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE OR 
+I/maw 
+Ilan DS lbw CMS 
+Cam To 
+I  
+WP 
+M 
+227 owls 0452P 
+224 cans 0°MP 
+ill  
+aeons % 
+smOW
+n!
+i
+227 09130/04P 
+226 OV15 010W 
+229 01061 6
+113 0707.070317 
+230 FiE50721P 
+1 4P 
+3 0 011
+:23P 
+HI 
+Mt; 
+2040915 1157P 
+EU" 
+40 MI6 linA 
+241 06114 122,IA 
+F
+It
+lit 
+: 3 
+a 
+32447 02110 01.39A 
+IN 05116 10011 
+249 0$116 10.14A 
+M4214111 
+0101.1173M 
+237 03114 1150A 
+3,, zrA.Mr; 
+MN= 
+/41 Elf 010P 
+0
+ 
+7401164P 
+&MO CONSP 
+10 MAw 
+SB 
+03
+1164 10:1W
+/7 107 IP 
+06 
+7 Me16 1020P 
+0111t i 
+!Lit 
+11 
+1 i al 
+3. 
+211 miu 
+276 05.11 1041A 
+2110611401&" 
+22s 04.1 04.111A 
+CoLl'iy.FAI 
+CInty 
+Chap 
+Mood Mato MeocripIen 
+60.1 
+UN 
+ICI 
+th.
+WM 
+UN 
+MCI 
+UPI 
+ICI 
+AGM Ft 
+1401 
+IMUMTED 
+IAN 
+WW1 
+FL 
+MIN 
+UNLIMITED 
+11617 
+FL 
+UM 
+woman, 
+L 
+WI 
+tonano 
+p 
+&wiz 
+teti 
+ert&rr 
+INN 
+ENUIAT 0 NAVIlit WM 
+LAKE WORT14Ft 
+PA' 
+g iSO•EDRE
+NToiti
+am
+WORTH Ft 
+1MN 
+idel 
+UNUMITED WWKNO 1•11 
+00031211G 
+A 
+=
+FL 
+11111 
+WIMATEINWMIND IAN 
+IL 
+1 NM 
+WIWI% MAM010 IMP 
+al 
+WIUMML WM11110 AM 
+CALL W 
+_ y , 
+Fh
+FL 
+MN 
+t;ItaaerFai 
+e/1 
+MN 
+WitilaTIONNFIN MN 
+EVT 
+MESSAGE RETREvAL 
+Osnt
+izt
+III 
+MIN 
+taa 
+WHEN MN 
+VNUMTrIANE MIN 
+/447151 MN 
+v.:4=R 
+MIN 
+ettutarto remote Wei 
+211711 
+IMUMTED NFIAND MN 
+1EVT 
+MESSAGE RETRENAL 
+MN 
+711,1104 
+21441167501/Nk1ND MN 
+ir ran,..T a 
+kL 
+i NM 
+Mod 
+SOWITOIE
+F 
+11.11. 
+Am 
+ihcom00711 FL 
+imam 
+I kliihm004. - 0 74044 
+611M 
+)00 ADD! 12314111E UN 
+11COMNG 
+INA 
+lOOADDI NMI* MIN 
+WCOMINO 
+33014 
+303 AWL 121114111EW 
+rate% ACM rt  
+1 la  
+E2R 12,74111&" 
+WPA 
+fl 
+Ito% 
+IL 
+14111 
+1. ANYWIE Mn 
+W 
+AMYIIIE MI 
+R 
+. 
+ji lt ill
+/Ili 
+WIWI ROM TO 
+UMW MOM. To 
+toompa. TON 
+l 
+IL 
+€L
+WP 
+INN 
+ADD1. AllYTME MIN 
+ADDt ANY1ME INN 
+all II 
+VNIAMIT CD NAMI010 MIN 
+UNIOA n n MWENE MS 
+MN 
+VNUOATI HAMM MS 
+MN 
+UNUM74 NAM010 MN 
+UMW!, N/WEN 11111 
+MM 
+NOIR w,4:811:1 
+pp, 
+moor 
+NANA?, MO, 
+ai
+m 
+tillEUSIIT
+scoriNI, 
+i 
+I 
+PA 
+FL 
+NM 
+ft 
+MM 
+kUtaliSiv003: 
+AWL 
+Mt 
+AM 
+MN 
+110YNTOMMOI EL 
+Am 
+X0 ADO't ANYTM/1.4 
+*COMM 
+BOYNTONECH Ft 
+MM 
+kW 
+M 
+ARIE 21 
+GOVNTONSCH Ft 
+MW 
+vouumoot TOWN. 
+,r9
+FL 
+1=1: 
+Chomp 
+VOIC.0 USA& figt 
+mamba 
+Mal CW• Trio 
+7
+ lat 
+1100A 
+7 1::G 
+osn7 111M 
+71213A
+01P 
+it 
+06(17 01:21P 
+0511701/720P 
+222 112( 
+044111P 
+aN 8M3 1pri 
+Ir«; 
+M ova 1107 
+EF,1 
+513 06111105 
+304 csnsozss 
+too 
+Tit 
+3101 06
+0%4 0,
+07
+111
+s4.
+41 
+312 WM 00.2 
+31: Q'16 W35' 
+31> 
+4: 
+, 
+.
+1.. 
+B1 06175 11:4 
+Mat'
+20930'
+m0311:01' 
+'HNC: 
+• 
+EIS 06,16 2454 
+60$30 
+341 06019 Mt 
+Cortintr4 
+cmy 
+Chap* 
+Cells To 
+Cad Rao ElselpIkam 
+Al 
+.t.g.rre 
+Isom 
+to 
+affront, 
+awn. 
+psi 
+210 
+1MM 
+g
+i, 
+Ma 
+303 ADM 
+IllE MN 
+114,1 
+3COACOt MIT* MN 
+MN 
+WILM7b7414 TOMMIE 
+1W 
+400A0Ot ANY1166 MN 
+E
+ 
+4
+144 
+1 
+I 
+IMM 
+Wang LOX TO NO 
+UMW 
+T 
+lal 
+MAIM 
+MO 
+/4 
+UMW 
+7 
+IEVT 
+CALL WIAT110 
+HIEN 
+VIAM12011/WI110 MN 
+VAIN 
+UMMINA 
+MWTM 
+re 
+iti
+ NAVI
+ IS M 
+• 101 
+UNI1M7 
+*Wok MN 
+OMNI 
+NAWA MM 
+Ft 
+WIN 
+UNIMILD NIM(10 my 
+COI
+COMM 
+111/1 
+UMASTED kiNIEND MIN 
+7101 
+UHL/MILO NAND/0 Mil 
+ALAIMA04 FL 
+DM 
+0Bleti
+a
+)NM 
+.....,2- 
+Unit
+a 
+7 VI 
+FL 
+210I 
+im
+flak 
+WOW 
+SW 
+eatligi
+tigois 
+0771117.4 
+1 
+WWII 
+UmUli mon TO MOO. 
+1
+1 
+100AM ANTIVE IMI 
+WWI 17521. TOMOS. 
+VIPALAIREACH Fl 
+1MN 
+wi
+100yAegtmArTII,0uc
+Elt 
+WPALMBEACH Ft 
+1MN 
+MN 
+IICSS 
+MIR1171N. 
+wo
+W0ma
+ALM V.1 a 
+Mk 
+WW1 QMMICNO MN 
+FL 
+!Mk 
+MUM owsamp UPI 
+MN 
+0 WI/7016 MIN 
+W
+eocke 604 2:  
+Mk 
+MAMIE° WAND MN 
+1.018 
+Mk 
+UMPITEDWN75101411 
+Mk 
+LIMIla ED WAIKNO PIM 
+Mk 
+UMW TEO WHEN° NA 
+a2rN70841414 FL 
+NM 
+Mtn TEO NIMWO MN 
+WPM...Ma:4M 
+IOW 
+MAIM Wimp iNN 
+LAkE MONTH FL 
+Mk 
+IMEWITLIIMMINDFIN 
+ggerotMtlin 
+re 
+gandp,11,7112,1 
+MA 
+UM MIT FA WHEN MN 
+Zan 
+I 
+Mh 
+UNLIVITIO M/MIND MN 
+WPM 
+NFL 
+Mk 
+UNLINITED IUMIN0 MN 
+lafirdEll 
+a 
+la 
+OA 
+° 
+Mum 
+AFL 
+MP 
+I my 
+MILwIT 0 N/M01 MN 
+LANE WCATN FL 
+NM 
+UMW e0a;18 
+1. 
+LANE WOITH FL 
+MN 
+:COMM111. 70 
+L 
+PALAMEACN FL 
+NM 
+ AMY 15, or 
+7 
+6 FL 
+Mk 
+9€248
+11*1 
+wo
+• 
+R
+voix
+el a l; 
+iii;
+Ft 
+AC/I fl 
+Ft 
+It 
+Wgi
+T 
+BOHR 
+AIM 
+OALWING 
+MBFACH FL 
+7,°4132pcp FL 
+NCOMMO 
+TO M384 
+Charm 
+EFTA01692839

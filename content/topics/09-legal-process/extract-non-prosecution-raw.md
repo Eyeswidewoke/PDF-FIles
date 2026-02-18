@@ -1,0 +1,2110 @@
+# 📋 Non-Prosecution-Raw
+> **Category:** Legal Process
+> **Source:** `09-LEGAL-PROCESS/extract-non-prosecution-raw.txt`
+> **Lines:** 2,078
+> **Generated:** 2026-02-12T11:12:05
+
+## 🏷️ Tags
+`legal` · `non-prosecution-raw` · `epstein` · `maxwell` · `prince-andrew` · `dershowitz` · `acosta`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Epstein](Epstein) | 457 |
+| [Maxwell](Maxwell) | 50 |
+| [Acosta](Acosta) | 24 |
+| [Dershowitz](Dershowitz) | 2 |
+| [Prince Andrew](Prince Andrew) | 1 |
+| [Roger Stone](Roger Stone) | 1 |
+
+## 🔑 Keywords
+
+`FBI` · `New York` · `Palm Beach` · `SdO 36 edkL ge $d Jo “Suii` · `affidavit` · `immunity` · `intervene` · `investigation` · `plea` · `prosecution` · `subpoena` · `witness`
+
+## Full Extract
+
+```
+tha unpaid balance hased cn Ew number cf days excoading such period commencing on the date of delivery of tho unit to Dacter and tawninating on the date such balance is pe-tin fill Sustomer hoseby grants TS 
+& Phyllis Sandler; Dave Kennedy; Amory Rowe; the Dail family up in Maine for their unparal- 
+Sasanpamcdchaseecanscsceieebisadicausgvvesceouaeipab cia vabse sensi sepa biaceeebstaslsinicetesionia 208 
+www. astonpatterning.com 
+was underway? About -- main justice scrutiny of the NPA 
+of the NPA scheme. In fact, I invited Drew to come down -- 
+discussed the NPA. And so, I Say that because if I had 
+work, and mind you, this was before -- well before the NPA 
+after the signing of the NPA? 
+talk about the actual text of the NPA in a moment, but 
+Q It is addressed in the non-prosecution agreement if 
+NPA, was still continuing? 
+the moniker non-prosecution agreement? 
+turn back to the NPA, and if you look at 17d, just to make 
+finalizing of the NPA, the final version of which is in 
+negotiating the NPA. ji me Tl i =; is essentially telling you 
+A So, I think after the -- now I'm calling it an NPA. 
+Q -- the NPA, because you did make -- let me -- let 
+NPA? 
+This was about the NPA. 
+A Right, and so the NPA had my signature. Now, the 
+NPA's almost too generous. 
+Q The NPA? 
+Q All right. Let's turn to the NPA. What is it? 
+striking that's different from the original draft NPA, even 
+Q And if you look at the top of the final NPA, 22, 
+responsibility. In the final NPA, which is 22 in your right 
+noticed it in the NPA, or because somebody told you 
+Q In the final NPA on page five, there's a series of 
+the -- the -- whether the NPA after it has been signed could 
+anybody about the NPA, you just ask that -- that the 
+Q And that's because it's a non-prosecution as 
+from a non-prosecution to a deferred prosecution, these 
+are -~- you know, if the non-prosecution is not typically part 
+there anything else on those NPA clauses? 
+Q Mm-hmm. Understood. After the NPA was signed -- 
+an NPA addendum to address that issue. 
+MMS. xeceived a copy of the NPA in November when Ken 
+Q And at the time that 7 saw the NPA, 
+of the NPA, and you didn't see it, but I just wanted to name 
+out in the NPA was appropriate. It appears that she then 
+But as far as MEMMMMNMNMMM commentary on the NPA, 
+were -- that you and your people were fashioning the NPA, 
+Q All right. So, the NPA addendum was worked out, 
+and Lefkowitz about the NPA addendum, that's when you had the 
+at -- perfectly accurately that the NPA was signed, and that 
+any way to any effort to influence the terms of the NPA, 
+"intervene" the state attorney's office. The non-prosecution 
+ill-fated NPA addendum effort. 
+Instead, you elected to enter into the NPA. Since 
+criminal division's review encompassed the NPA itself? 
+did not encompass the -- the NPA. I would say that's 
+NPA. I believe it included the term sheet and other 
+to review or assess the NPA, or approve it? 
+the disposition, the plea agreement, or the NPA. 
+They didn't say they reviewed or approved the NPA. 
+it was the heart of the non-prosecution agreement, which is, 
+the non-prosecution agreement. 
+Q -- did in fact review the NPA, other than to be 
+-- unpack there. 
+That's a lot to unpack. We should probably take it 
+Q Okay, great. So, I know I gave you a lot to unpack 
+can unpack that, but those are my -- my general 
+A But we can unpack it. 
+a trial when there's already a signed NPA that resolves the 
+to avoid the NPA's terms led the FBI investigative team, the 
+would perform under the NPA, and hence, we did not know 
+whether providing information about the NPA would be 
+the NPA to suggest that victims had been encouraged by the 
+agreement, the NPA, as having been -- it was signed and was 
+did we not, that the NPA was not the subject of the criminal 
+directly in creating the NPA, but after that, it appears from 
+years after the NPA was signed that as she writes, "He felt 
+goal with the provision in the NPA that was -- that the NPA 
+that this NPA would go public, and certainly his public -- 
+misconduct by entering into the non-prosecution agreement, or 
+NPA, in 2007 with Jeffrey Epstein, who at the time was under 
+Q All right. All right. We'll now unpack -- 
+that they should not consult with the victims before the NPA 
+instances where after the NPA was signed, I said, you know, 
+But before the NPA was signed, I don't recall -- in 
+notification until after the NPA was Signed. I don't know if 
+there's e-mail traffic before the NPA was signed, but I don't 
+recall victim notification issues until after the NPA was 
+NPA was signed, I recall efforts, I believe, to notify as it 
+—-- post-NPA issues later on. 
+Q ~~ pre-NPA, before it's signed, when the 
+Q -- prior to signing the NPA, and there is a 
+and there's concern -- you know, you have this NPA. 
+Whether -- whether or not that NPA will ultimately remain is 
+discussions take place after the signing of the NPA. So, 
+Q -- just the pre-NPA -- 
+notification being issued before the NPA. I recall a lot of 
+victims were to find out that we are negotiating this NPA 
+that it will blow up the NPA, that it will cause us trouble 
+A Our -- my focus before the NPA was signed was, here 
+Signed the NPA to my recollection, but we certainly notified 
+what was being done, but the NPA and what we -- you know, the 
+NPA was the focus, not the victim notification -- 
+in the pre-NPA negotiations? 
+of discussion after the NPA. I don't recall pre-NPA 
+~- financial aspect of the NPA. Would there have 
+&@ non-prosecution agreement, and I kept saying call it an 
+Q A DPA instead of an NPA? 
+everyone keeps calling it an NPA, call it a deferred to 
+before the NPA was actually negotiated, at a time when Bin 
+Q -- the NPA on September 24, and the -- the language 
+whole NPA did require certain actions to eccur, however they 
+Ex. E A. Farmer Release (Redacted).pdf; Ex. F Epstein NPA.pdf 
+(d) Service. A marshal, a deputy marshal, or any nonparty who is at least 18 years old may serve a subpoena. The server must deliver a copy 
+| can handle, currently unpacking some stuff from trial but will look for the drive and try and load it later this afternoon. 
+(d) Service. A marshal, a deputy marshal, or any nonparty who is at least 18 years old may serve a subpoena. The server must deliver a copy 
+nonprosecution agreement with Epstein without 
+Prosecution Agreement (“NPA”). We submit that this decision provides support for Ms. 
+for violation of the NPA. 
+offenses for which she was granted immunity in the NPA. Indeed, the principle applies even more 
+strongly in Ms. Maxwell’s case because the NPA was a formal written agreement, as opposed to 
+to the CVRA is the setting aside of the Non-Prosecution Agreement that was entered into 
+invalidate the non-prosecution agreement”). But even assuming arguendo that Petitioners’ rights 
+reliance on promises in Non-Prosecution Agreement led to his guilty plea to state charges and his 
+contemplated in the Non-Prosecution Agreement, the United States would still be 
+constitutionally required to adhere to the negotiated terms of the Non-Prosecution Agreement. 
+Due process considerations further bar this Court from setting aside a non-prosecution 
+* To the extent that the Petitioners’ requested invalidation of the Non-Prosecution 
+the Non-Prosecution Agreement — such judicial action might raise additional questions about this 
+Non-Prosecution Agreement even if this Court should somehow set the agreement aside for 
+whether or not the Non-Prosecution Agreement is set aside — because the investigation and 
+> Significantly, it is Epstein’s contractual rights under the non-prosecution agreement that 
+In these proceedings, the Petitioners have sought to set aside the Non-Prosecution 
+(seeking an “[o]rder that the [non-prosecution] agreement that was negotiated is invalid” so that 
+Notwithstanding the Non-Prosecution Agreement, Petitioners are and have been free to 
+Epstein prior to the signing of the Non-Prosecution Agreement, see, e.g., July 11, 2008 Hr’g Tr. 
+Non-Prosecution Agreement. According to Petitioners, the Non-Prosecution Agreement has 
+Petitioners and others. See, e.g., DE 9 at 15 (characterizing Non-Prosecution Agreement as “a 
+‘free pass’ from the federal government’), 2 (contending that the Non-Prosecution Agreement 
+2 (describing Non-Prosecution Agreement as “an agreement that blocked federal prosecution of 
+against Epstein, the USAO-SDFL merely agreed in the Non-Prosecution Agreement that: 
+Non-Prosecution Agreement at 2 (emphasis added). 
+Thus, the Non-Prosecution Agreement simply obligated the government not to prosecute 
+Epstein in the Southern District of Florida for the offenses set forth in the Non-Prosecution 
+'" This Court has also previously described the Non-Prosecution Agreement as “an 
+federal offenses.” DE 99 at 2-3. That description of the Non-Prosecution Agreement, however, 
+was not based on the Court’s interpretation of the terms of the Non-Prosecution Agreement, but 
+Agreement. The Non-Prosecution Agreement does not bar the United States from bringing 
+federal criminal charges against Epstein for the offenses set forth in the Non-Prosecution 
+nonprosecution of charges in another district and the [defendant] is not found to have relied on 
+subsequent prosecutions.”). Neither does the Non-Prosecution Agreement bar prosecution in any 
+been curtailed by the Non-Prosecution Agreement — to discuss the possibility of pursuing federal 
+in the Southern District of Florida, see supra note 8, the Non-Prosecution Agreement would 
+Attachments: Epstein NPA, dated 2007-09-24.pdf 
+instrument.” (DE 407 at § 17.) On September 10, 2007, multiple drafts of a non-prosecution 
+agreement (“NPA”) had been exchanged between Epstein’s counsel and the Office. (DE 407 at 4 
+counsel provided a proposed NPA to the Government that extended immunity from federal 
+On September 18, 2007, the Office responded: “A non-prosecution agreement would 
+give up their 2255 rights.... In the context of a non-prosecution agreement, the office may be more 
+September 24, 2007, and the NPA was being executed, Lefkowitz sent an email to the line 
+prosecutor stating: “{J— Please do whatever you can to keep this [i.e., the NPA] from becoming 
+Epstein and the Office accordingly entered into a NPA reflecting such an agreement. (DE 407 at 4 
+38.) The NPA provided that “the United States, in consultation with and subject to the good faith 
+paid for by Epstein.” The NPA also provided that if any of the victims elected to bring suit under 
+18 U.S.C. § 2255, they must agree to waive any other claim for damages. As part of the NPA, 
+to contest liability and damages. (NPA, DE 361-62.) 
+Among other provisions, the NPA expanded immunity to any “potential coconspirator™ 
+ee. §=(DE 407 at { 40.) The NPA also provided that: “The parties 
+the NPA was concluded—the Office never conferred with the victims about a NPA or told the 
+€ 44.) The Office did not consult or confer with any of the victims about the NPA before it was 
+Epstein’s counsel was aware that the Office was deliberately keeping the NPA secret from 
+the victims and, indeed, had sought assurances to that effect. (DE 407 at § 48.) After the NPA was 
+about the NPA. (DE 407 at € 49.) It was a deviation from the Government’s standard practice to 
+master for selecting an attorney representative for the victims under the NPA’s compensation 
+addendum to the NPA clarifying the procedures for the third-party representative for the victims 
+under the NPA’s compensation provisions. (DE 407 at § 64.) On October 25, 2007, AUSA 
+NPA’s compensation procedure. (DE 407 at 4 65.) 
+that the NPA had already been signed. (Jane Doe | Decl. § 5, DE 361-26.) Jane Doe 1's 
+terms of the NPA” (QJ Decl. § 8, DE 403-18.) After the meeting, Special Agent 
+HE became concerned about what would happen if Epstein breached the NPA, and thought 
+that if the victims were aware of the NPA, the provision about monetary damages could be grounds 
+identified victims about the “general terms” of the NPA, including the provision providing a 
+about Epstein’s plea to state charges that was part of the NPA: 
+in the NPA, including that because Epstein’s plea of guilty to state charges was “part of the 
+are not limited to proceedings in a federal district court. Our Non-Prosecution 
+appropriately informed, and our Non-Prosecution Agreement does not require the 
+In January of 2008, any requirement that Epstein carry out his obligations under the NPA was 
+in the Southern District of Florida was the subject of the NPA entered into by Epstein and the Office, 
+a NPA with Epstein. (DE 407 at 4 97.) According to the declaration of Jane Doe 2, while she 
+trying to set aside the NPA and therefore the Government needed to be prepared for a 
+signed the NPA in September 2007. (DE 407 at § 98.) 
+existence of the NPA or any other possible resolution to the case. (DE 407 at 4 101.) 
+prosecutor did not inform [J about the NPA. (DE 407 at § 102.) On June 19, 2008, 
+several calls regarding the Non-Prosecution Agreement. I do not know whether the title of the 
+attorney a copy of the NPA to be filed under seal. (July 1, 2008 email, DE 362-38.) 
+to the NPA when the Government filed its responsive pleading to Jane Doe’s emergency petition. 
+victims would be informed about the civil compensation provision of the NPA the next day: 
+In accordance with the terms of the Non-Prosecution Agreement, on June 30, 
+also objected to the victim notification letters containing certain information about the NPA. (DE 
+some of the civil compensation provisions of the NPA. The notification did not provide the full 
+terms of the NPA. 
+NPA. (DE 407 at § 136.) On August 14, 2008, the line prosecutor emailed Epstein's counsel 
+disclosure of the terms of the NPA, but that Epstein would “cooperate with the government to 
+Jane Doe 2 was not informed of the contents of the NPA until August 28, 2008, when the 
+NPA after learning that another attorney, established through the NPA, would be making 
+email to State Attorney J Krischer, explaining that the NPA “contain[ed] a confidentiality 
+and signing the NPA; (2) when the Government sent letters telling Petitioners to be patient while 
+the NPA. Additionally, Petitioners contend the Government violated their rights to reasonable 
+and accurate notice when it concealed that the NPA and the federal investigation were implicated 
+is no right to notice or conferral about a NPA; it was reasonable for the Government to send 
+Government argues that Petitioners are equitably estopped from challenging the NPA because 
+they relied upon the NPA in their state court civil actions against Epstein. Lastly, the 
+NPA because they have asserted mutually inconsistent positions; namely, that the NPA is invalid 
+rescission or “reopening” of a prosecutorial agreement, including a non-prosecution agreement, 
+Here, it is undisputed that the Government entered into a NPA with Epstein without 
+entered into the NPA. At a bare minimum, the CVRA required the Government to inform 
+binding effect of the NPA was contingent upon Epstein pleading guilty to the state charges, that 
+permanently tied if Epstein fulfilled his obligations under the NPA. Thus, Petitioners and the 
+action before it bound itself under the NPA. Had the Petitioners been informed about the 
+[non-prosecution agreement].” Id. Indeed, it is this type of communication between prosecutors 
+NPA and mislead the victims to believe that federal prosecution was still a possibility... When 
+spent untold hours negotiating the terms and implications of the NPA with Epstein’s attorneys, 
+conceal the existence of the NPA from the victims.’ 
+having told Jane Doe | the “main terms” of the NPA (which is left undefined), the victims were 
+informed of a non-prosecution agreement. Prior to this amendment, this Court held that the right 
+into the statute a negative implication that victims need not be informed of non-prosecution 
+non-prosecution agreements. 
+* A NPA entered into without notice has a more damaging impact on the victims than a 
+Once a NPA is entered into without notice, the matter is closed and the victims have no 
+were seeking review of the NPA at higher levels within the Department of Justice. As indicated 
+previously, however, at this point, the Government had bound itself to the terms of the NPA 
+assurances that the NPA would not be “made public or filed with the Court.” (DE 407 at € 31.) 
+withhold information about the NPA from the victims. If that had been the case, the Government 
+intention to enter into the NPA, a violation of the CVRA occurred. 
+permitted it to enter into the NPA. The Government correctly notes that the CVRA provides that 
+into a non-prosecution agreement (NPA) with Jeffrey Epstein.! Petitioners seek 
+“reasonable right to confer” extends to conferring about non-prosecution 
+agreements; the CVRA authorizes the rescission of a non-prosecution 
+intended to enter into the NPA with Epstein. The government will not 
+were being resolved with a state court guilty plea in conjunction with the NPA. 
+the NPA. The past cannot be undone; the government committed itself to the 
+terms of the NPA, and the parties have not disputed that Epstein complied with 
+its provisions. A number of Epstein’s victims subsequently invoked the NPA to 
+efforts to confer with victims, more than a dozen victims invoked the NPA to 
+however, the NPA was never before this Court. Regardless, the Court in In re 
+Petitioners have repeatedly requested some form of rescission of the NPA, but 
+Petitioners’ effort to preserve almost the entirety of the NPA is 
+aware, the NPA guaranteed a felony conviction and more than a year of 
+dozen victims who invoked the NPA terms. 
+provisions of the NPA they like while excising portions they do not. Given the 
+a non-prosecution agreement is not a request to re-open a plea, Doc. 458 at 9, but 
+the Court found that rescission of a non-prosecution agreement was authorized 
+under Section 3771(d)(5) precisely because re-opening a non-prosecution 
+the government at the time of the NPA, attempted to locate other victims known 
+at the time of the NPA, and conferred with additional victims who were not 
+known at the time of the NPA. Indeed, the government has repeatedly invited 
+The passage of more than ten years since the NPA was entered only 
+unfortunately restricts the government's and Court's ability to rewrite the NPA a 
+Although the parties agree that the NPA should be governed by principles of 
+rescission of a prosecutorial agreement, including a non-prosecution agreement, 
+Here, excising the “immunity” or non-prosecution provisions plainly would 
+eliminate the essence of the “Non-Prosecution Agreement.” The three sentences 
+NPA is thus an indivisible agreement not subject to partial rescission. Wilderness 
+failed to accord victims their rights in communicating the terms of the NPA, 
+Petitioners have not identified any illegal provision in the NPA itself. Doc. 147 at 
+obligations under the NPA. By eliminating the immunity provisions of the 
+the NPA. Accordingly, Petitioners would place the government in a more 
+NPA. Such a result would not encourage strict adherence to the CVRA, and 
+entering into the NPA. See Doc. 458 at 23 (explaining that “[a] chance to discuss 
+Subject: RE: Epstein NPA Appendix 
+Subject: RE: Epstein NPA Appendix 
+Subject: RE: Epstein NPA Appendix 
+Subject: Epstein NPA Appendix 
+There is non-public appendix to the Epstein NPA that includes a list of victims entitled to receive compensation. Does 
+NON-PROSECUTION AGREEMENT AND 
+NON-PROSECUTION AGREEMENT 
+of the Non-Prosecution Agreement (hereinafter “paragraph 7”), that agreement is modified es 
+the Non-Prosecution Agreement (“NPA”) signed by Jeffrey Epstein on September 24, 
+government and Mr. Epstein’s attorneys concerning the negotiation of the NPA, 
+conduct of Jeffrey Epstein by negotiating and executing a federal non-prosecution agreement 
+(NPA). The NPA was intended to end a federal investigation into allegations that Epstein engaged 
+professional misconduct by failing to consult with victims of Epstein’s crimes before the NPA was 
+federal investigation, which culminated in the signing of the NPA on September 24, 2007. The 
+NPA required Epstein to plead guilty in state court to the then-pending state indictment against 
+in violation of Florida Statute § 796.03. The NPA required Epstein to make a binding 
+by 12 months of community control (home detention or “house arrest”). The NPA also included 
+the NPA prior to its signing. 
+The signing of the NPA did not immediately lead to Epstein’s guilty plea and incarceration, 
+seeking to invalidate the entire NPA by persuading senior Department officials that there was no 
+defense counsel fought the government’s interpretation of the NPA’s terms. They also sought and 
+his obligation under the NPA, and on June 30, 2008, he appeared in state court and pled guilty to 
+the pending state indictment charging felony solicitation of prostitution and, pursuant to the NPA, 
+Upon the joint request of the defendant and the state prosecutor, and consistent with the NPA, the 
+Beach County facility. A copy of the NPA was filed under seal with the state court. 
+the petition, the government, represented by the USAO, revealed the existence of the NPA, but did 
+order; the NPA itself remained under seal in the federal district court. After the initial filings and 
+Epstein’s attorneys. Although the NPA specified a term of incarceration of 18 months, Epstein 
+for release of the copy of the NPA that had been filed under seal in the state court file, a state judge 
+NPA, which permitted Epstein to avoid federal prosecution and a potentially lengthy prison 
+concealed from Epstein’s victims the terms of the NPA. Through its reporting, which included 
+victims about its intention to enter into the NPA.° The court also found that letters the government 
+sent to victims after the NPA was signed, describing the investigation as ongoing, “mislead [sic] 
+engaging in “lengthy negotiations” with Epstein’s counsel and assuring the defense that the NPA 
+by the petitioners, and opposed by the government, was rescission of the NPA and federal 
+NPA. On July 10, 2019, Acosta held a televised press conference to defend his and the USAO’s 
+victims— including victims of the conduct in Florida that was addressed through the NPA—spoke 
+fact the NPA had been signed.” On April 14, 2020, a divided panel of the Court of Appeals denied 
+investigation of Epstein through the NPA.° 
+victims a reasonable right to confer with the government about the NPA before the agreement was 
+them was involved in the decision to resolve the case through the NPA or in the negotiations 
+investigation of Epstein, the drafting and execution of the NPA, and decisions relating to victim 
+when Epstein entered his guilty plea under the NPA, did not affect the subjects’ actions prior to 
+relating to the USAO’s investigation of Epstein, the NPA, and Epstein’s guilty plea. As a result, 
+the negotiation, execution, and implementation of the NPA. The second relates to the USAO’s 
+A. The Negotiation, Execution, and Implementation of the NPA 
+considered whether any of the NPA’s provisions violated a clear or unambiguous statute, 
+considered whether the NPA violated standards relating to (1) charging decisions, (2) declination 
+of criminal charges, (3) deferred or non-prosecution agreements, (4) plea agreements, (5) grants 
+and that the USAO had deceived the victims of Epstein’s crimes about the existence of the NPA. Pursuant to its 
+into the NPA, or to include in the NPA terms favorable to Epstein, because of an improper motive, 
+discusses in this Report significant events that occurred after the NPA was negotiated and signed 
+and timing of the government’s interactions with victims both before and after the NPA was 
+government’s lack of consultation with the victims before the NPA was signed, as well as the 
+victims about the status of the federal investigation after the NPA was signed. 
+to the NPA. Although Acosta did not sign the NPA, he participated in its drafting and approved 
+the NPA and accepted responsibility for it. Therefore, OPR considers Acosta to be responsible for 
+the NPA and for the actions of the other subjects who implemented his decisions. Acosta’s overall 
+A. Findings and Conclusions Relating to the NPA 
+approval of the NPA. Under OPR’s framework, professional misconduct requires a finding that a 
+Furthermore, none of the individual terms of the NPA violated Department or other applicable 
+of Epstein’s defense counsel in October 2007 led to the NPA, which had been signed weeks earlier, 
+through the NPA constitutes poor judgment. Although this decision was within the scope of 
+Acosta’s broad discretion and OPR does not find that it resulted from improper factors, the NPA 
+completed; and he agreed to several unusual and problematic terms in the NPA without the 
+the NPA. Furthermore, because Acosta assumed a significant role in reviewing and drafting the 
+NPA and the other three subjects who were supervisors left the USAO, were transitioning to other 
+and communication during the negotiations and before approving the final NPA. The NPA was a 
+NPA because the USAO resolved the Epstein investigation without a federal criminal 
+charge. Significantly, at the time the NPA was signed, the Department did not interpret CVRA 
+certain victims after the NPA was signed that described the case as “under investigation” and that 
+failed to inform them of the NPA. The letters were sent by an FBI administrative employee who 
+the terms of the NPA. However, the letters risked misleading the victims and contributed to victim 
+After the NPA was signed, Acosta elected to defer to the State Attorney the decision 
+OPR concludes that the decision to postpone notifying victims about the terms of the NPA 
+after it was signed and the omission of information about the NPA during victim interviews and 
+misimpression that the government had colluded with Epstein’s counsel to keep the NPA secret 
+investigation; the September 2007 negotiation and signing of the NPA; Epstein’s subsequent 
+efforts to invalidate the NPA through appeals to senior Department officials; Epstein’s June 2008 
+the terms of the NPA during his incarceration and until his term of home detention ended in July 
+relating to the decisions made regarding the development and execution of the NPA. OPR 
+proceeding or similar action (including those for unpaid taxes) against Grantor is pending or 
+Collateral, up to an amount equal to the unpaid balance of the debt. Grantor's equity in the 
+TER Ee PUN LTGE inncencevéascnsncessneeseasanesuitn doshoxochsnenoussdhsnovensicene tgutqsasavatsenttesansntstea\istdyonvesueca\endesnpassemsssasbacniuacelices 28 
+ny man hh pape redo bed gem ep ate telertrngs, Grapes manpage exceeding 3 years or both. 
+unpaid. Such fee shall be payable on demand and shall constitute part of the Obligations. In addition, if Grantor fails to 
+s) nonpayment by Grantor of any Rate Management Obligation when due or breach by Grantor of 
+the Obligations, including the entire unpaid principal of all Notes, all of the unpaid interest accrued therein, and all of the 
+immediately due and payable, plus three percent (3%) of the unpaid principal of all Notes declared due by Lender (as 
+aggregate unpaid principal amount of the Loan, the accrued but unpaid interest thereon to the date of distribution, 
+payments or amounts to be applied to the amounts so due, owing or unpaid in such order of application as the 
+Grantor will, at all times during which any amount remains unpaid hereunder or under the Note, keep the Aircraft 
+any of the Obligations remain unpaid, Grantor will not impair such registration or cause it to be impaired, 
+exceeds the aggregate unpaid Obligations, then the aggregate Release Payment for 
+aggregate unpaid Obligations.” 
+after such application, to be disbursed to Borrower; and (y) if the unpaid principal balance of any of the 
+the amortization of the then unpaid principal balance of such Note over the remaining payment dates as 
+unpaid principal balance of any of the Notes is reduced by such Minimum Payment, the principal 
+immediately following the sale date to reflect the amortization of the then unpaid principal balance of such 
+excess of $500,000.00 (after giving effect to any insurance available therefore) shall remain unpaid, 
+Debtor's unpaid balance under the Promissory Note, shall be secured by the Collateral and shall be payable upon 
+the payment of any or all of the unpaid balance owed pursuant to the provisions contained in this Security 
+Debtor's unpaid balance under the Promissory Note, shall be secured by the Collateral and shall be payable upon 
+the payment of any or all of the unpaid balance owed pursuant to the provisions contained in this Security 
+Debtor's unpaid balance under the Promissory Note, shall be secured by the Collateral and shall be payable upon 
+the payment of any or all of the unpaid balance owed pursuant to the provisions contained in this Security 
+Debtor's unpaid balance under the Promissory Note, shall be secured by the Collateral and shall be payable upon 
+the payment of any or all of the unpaid balance owed pursuant to the provisions contained in this Security 
+the federal investigation through the non-prosecution agreement and when he 
+conduct of Jeffrey Epstein by negotiating and executing a federal non-prosecution agreement 
+(NPA). The NPA was intended to end a federal investigation into allegations that Epstein engaged 
+professional misconduct by failing to consult with victims of Epstein’s crimes before the NPA was 
+federal investigation, which culminated in the signing of the NPA on September 24, 2007. The 
+NPA required Epstein to plead guilty in state court to the then-pending state indictment against 
+in violation of Florida Statute § 796.03. The NPA required Epstein to make a binding 
+by 12 months of community control (home detention or “house arrest”). The NPA also included 
+the NPA prior to its signing. 
+The signing of the NPA did not immediately lead to Epstein’s guilty plea and incarceration, 
+seeking to invalidate the entire NPA by persuading senior Department officials that there was no 
+defense counsel fought the government’s interpretation of the NPA’s terms. They also sought and 
+his obligation under the NPA, and on June 30, 2008, he appeared in state court and pled guilty to 
+the pending state indictment charging felony solicitation of prostitution and, pursuant to the NPA, 
+Upon the joint request of the defendant and the state prosecutor, and consistent with the NPA, the 
+Beach County facility. A copy of the NPA was filed under seal with the state court. 
+the petition, the government, represented by the USAO, revealed the existence of the NPA, but did 
+order; the NPA itself remained under seal in the federal district court. After the initial filings and 
+Epstein’s attorneys. Although the NPA specified a term of incarceration of 18 months, Epstein 
+for release of the copy of the NPA that had been filed under seal in the state court file, a state judge 
+NPA, which permitted Epstein to avoid federal prosecution and a potentially lengthy prison 
+concealed from Epstein’s victims the terms of the NPA. Through its reporting, which included 
+victims about its intention to enter into the NPA.° The court also found that letters the government 
+sent to victims after the NPA was signed, describing the investigation as ongoing, “mislead [sic] 
+engaging in “lengthy negotiations” with Epstein’s counsel and assuring the defense that the NPA 
+by the petitioners, and opposed by the government, was rescission of the NPA and federal 
+NPA. On July 10, 2019, Acosta held a televised press conference to defend his and the USAO’s 
+victims— including victims of the conduct in Florida that was addressed through the NPA—spoke 
+fact the NPA had been signed.” On April 14, 2020, a divided panel of the Court of Appeals denied 
+investigation of Epstein through the NPA.° 
+victims a reasonable right to confer with the government about the NPA before the agreement was 
+them was involved in the decision to resolve the case through the NPA or in the negotiations 
+investigation of Epstein, the drafting and execution of the NPA, and decisions relating to victim 
+when Epstein entered his guilty plea under the NPA, did not affect the subjects’ actions prior to 
+relating to the USAO’s investigation of Epstein, the NPA, and Epstein’s guilty plea. As a result, 
+the negotiation, execution, and implementation of the NPA. The second relates to the USAO’s 
+A. The Negotiation, Execution, and Implementation of the NPA 
+considered whether any of the NPA’s provisions violated a clear or unambiguous statute, 
+considered whether the NPA violated standards relating to (1) charging decisions, (2) declination 
+of criminal charges, (3) deferred or non-prosecution agreements, (4) plea agreements, (5) grants 
+and that the USAO had deceived the victims of Epstein’s crimes about the existence of the NPA. Pursuant to its 
+into the NPA, or to include in the NPA terms favorable to Epstein, because of an improper motive, 
+discusses in this Report significant events that occurred after the NPA was negotiated and signed 
+and timing of the government’s interactions with victims both before and after the NPA was 
+government’s lack of consultation with the victims before the NPA was signed, as well as the 
+victims about the status of the federal investigation after the NPA was signed. 
+to the NPA. Although Acosta did not sign the NPA, he participated in its drafting and approved 
+the NPA and accepted responsibility for it. Therefore, OPR considers Acosta to be responsible for 
+the NPA and for the actions of the other subjects who implemented his decisions. Acosta’s overall 
+A. Findings and Conclusions Relating to the NPA 
+approval of the NPA. Under OPR’s framework, professional misconduct requires a finding that a 
+Furthermore, none of the individual terms of the NPA violated Department or other applicable 
+of Epstein’s defense counsel in October 2007 led to the NPA, which had been signed weeks earlier, 
+through the NPA constitutes poor judgment. Although this decision was within the scope of 
+Acosta’s broad discretion and OPR does not find that it resulted from improper factors, the NPA 
+completed; and he agreed to several unusual and problematic terms in the NPA without the 
+the NPA. Furthermore, because Acosta assumed a significant role in reviewing and drafting the 
+NPA and the other three subjects who were supervisors left the USAO, were transitioning to other 
+and communication during the negotiations and before approving the final NPA. The NPA was a 
+NPA because the USAO resolved the Epstein investigation without a federal criminal 
+charge. Significantly, at the time the NPA was signed, the Department did not interpret CVRA 
+certain victims after the NPA was signed that described the case as “under investigation” and that 
+failed to inform them of the NPA. The letters were sent by an FBI administrative employee who 
+the terms of the NPA. However, the letters risked misleading the victims and contributed to victim 
+After the NPA was signed, Acosta elected to defer to the State Attorney the decision 
+OPR concludes that the decision to postpone notifying victims about the terms of the NPA 
+after it was signed and the omission of information about the NPA during victim interviews and 
+misimpression that the government had colluded with Epstein’s counsel to keep the NPA secret 
+investigation; the September 2007 negotiation and signing of the NPA; Epstein’s subsequent 
+efforts to invalidate the NPA through appeals to senior Department officials; Epstein’s June 2008 
+the terms of the NPA during his incarceration and until his term of home detention ended in July 
+relating to the decisions made regarding the development and execution of the NPA. OPR 
+mind and a formal non-prosecution agreement containing the state plea terms. As soon as those are ready, I will e-mail 
+Attachments: OLY_Plea_Agreement.wpd; OLY_Non-Prosecution_Agreement.wpd 
+ADDENDUM TO THE NON-PROSECUTION AGREEMENT 
+IT APPEARING that the parties seek to clarify certain provisions of page 4, paragraph 7 of the Non-Prosecution 
+Epstein entered into a Non-Prosecution Agreement and an Addendum that contains, inter alia , 
+ADDENDUM TO THE NON-PROSECUTION AGREEMENT 
+Non-Prosecution Agreement (hereinafter “paragraph 7”’), that agreement is modified as follows: 
+to him. Epstein hereby states that he understands the clarifications to the Non-Prosecution Agreement 
+ADDENDUM TO THE NON-PROSECUTION AGREEMENT 
+Non-Prosecution Agreement (hereinafter “paragraph 7”), that agreement is modified as follows: 
+to him. Epstein hereby states that he understands the clarifications to the Non-Prosecution Agreement 
+Office is limited to insuring that the terms and conditions of the Non-Prosecution Agreement are not breached. 
+Epstein’s compliance with the terms of his federal non-prosecution agreement. 
+the federal non-prosecution agreement, please do not hesitate to contact me at the number below o in the 
+Epstein’s compliance with the terms of his federal non-prosecution agreement. 
+the federal non-prosecution agreement, please do not hesitate to contact me at the number below or | the 
+Affirmation of the Non-Prosecution Agreement and Addendum to same dated 
+1, Jeffrey E. Epstein do hereby re-affirm the Non-Prosecution Agreement and Addendum to 
+try to “lobby” him to select someone to your liking, despite the fact that the Non-Prosecution 
+not a matter of concern to the defense. Since the signing of the Non-Prosecution Agreement, the 
+victims were notified shortly after the signing of the Non-Prosecution Agreement of the general 
+Subject: Notification of Possible Compelled Disclosure of the Non-Prosecution Agreement 
+In accordance with paragraph 13 of the Non-Prosecution Agreement, | am providing notice of possible 
+not consulting them prior to entering into the Non-Prosecution Agreement. 
+of the Non-Prosecution Agreement. The deadline for the government to respond is August 15" and we intend to 
+PRODUCTION OF NON-PROSECUTION AGREEMENT AND OF REPORT OF 
+requested copies of two relevant documents from the Government: (1) the Non-Prosecution 
+In particular, the Government now apparently admits that the Non-Prosecution 
+effectively misled the victims that it had reached a Non-Prosecution Agreement with Epstein, 
+The Court should also order the Government to produce the Non-Prosecution Agreement 
+refused to provide to the victims the final Non-Prosecution Agreement or any of its earlier 
+Consistent with the express confidentiality provision in the Non-Prosecution Agreement, the 
+Epstein. Nor did the Agents disclose that the Non-Prosecution Agreement had been finalized. 
+Following the signing of the Non-Prosecution Agreement and the modifications thereto 
+Doe #2 that the Non-Prosecution Agreement had been concluded four months earlier, Jane Doe 
+Garvin was not advised about the Non-Prosecution Agreement. 
+file federal charges. Because of the confidentiality provision in the Non-Prosecution Agreement, 
+aware that a Non-Prosecution Agreement had been reached with Epstein. 
+Mr. Edwards — and thus his clients -- first learned of the Non-Prosecution Agreement on 
+emergency petition. That pleading was the first public mention of the non-prosecution agreement 
+notification contains a written explanation of some of the terms of the Non-Prosecution 
+hearing, the Government discussed in open court various provisions of the Non-Prosecution 
+facts. The response also requested a copy of the Non-Prosecution Agreement and the Report of 
+proposed plea agreement with Epstein, including in particular the details of the Non-Prosecution 
+the Non-Prosecution Agreement itself), it is apparent that the Government could not have 
+to treat the victims with fairness. The Government reached the Non-Prosecution Agreement with 
+well knew, however, a Non-Prosecution Agreement had already been reached with Epstein at that 
+THE NON-PROSECUTION AGREEMENT 
+Remarkably, the Government has yet to disclose to the victims the very Non-Prosecution 
+“full terms” of its Non-Prosecution Agreement with Epstein. To protect the victims’ right to be 
+Production of the Non-Prosecution Agreement is also warranted because it has provisions 
+Epstein knows what is in the Non-Prosecution Agreement that may be helpful to him. Jane Doe 
+Finally, Epstein is apparently taking advantage of provisions in the Non-Prosecution 
+to resolve the case by ordering production of the full Non-Prosecution Agreement and any 
+the Non-Prosecution Agreement and the report of interview with Jane Doe #1. After doing that, 
+victims are not asking to have any provision in the Non-Prosecution Agreement establishing 
+to review the full text of the Non-Prosecution Agreement and any accompanying addenda to 
+consummation of the Non-Prosecution Agreement. In the alternative, the Court should direct the 
+Government to provide to the victims the full Non-Prosecution Agreement (and accompanying 
+federal non-prosecution agreement to this counsel and that you did not mention that a plea 
+was still unaware that a non-prosecution agreement had been reached with 
+pleading was the first public mention of the non-prosecution agreement and the 
+ADDENDUM TO THE NON-PROSECUTION AGREEMENT 
+IT APPEARING that the parties seek to clarify certain provisions of page 4, paragraph 7 of the Non-Prosecution 
+Epstein entered into a Non-Prosecution Agreement and an Addendum that contains, inter alia , 
+on the basis that they cannot resolve that case until the federal case is resolved. As part of the non-prosecution 
+The Non-Prosecution Agreement calls for deferment of federal prosecution “in favor 
+conditions and the requirements of th{e] Agreement . . .”. (Non-Prosecution Agreement, p. 
+[Epstein] violates any term of [the Non-Prosecution Agreement].” (Non-Prosecution 
+Attachments: epstein_non-prosecution agreement.pdf; epstein_12.19.07.pdf; epstein_addendum.pdf 
+NON-PROSECUTION AGREEMENT 
+ADDENDUM TO THE NON-PROSECUTION AGREEMENT 
+of the Non-Prosecution Agreement (hereinafter “paragraph 7”), that agreement is modified as 
+Justice for All Act of 2004. First, 18 USC section 2255, the relevant statute under the Non-Prosecution 
+Attachments: 070911 _Epstein_Non-Prosecution_Agreement.pdf 
+NON-PROSECUTION AGREEMENT 
+explained to him. Epstein hereby states that he understands the conditions of this Non-Prosecution 
+proposal falls within the terms of the Non-Prosecution Agreement signed by your client and the 
+of 2004. First, 18 USC section 2255, the relevant statute under the Non-Prosecution Agreement for the settlement of civil 
+his federal non-prosecution agreement. 
+about the terms of the federal non-prosecution agreement, please do not hesitate to contact me 
+on the basis that they cannot resolve that case until the federal case is resolved. As part of the non-prosecution 
+2007 deadline to finalize a non-prosecution agreement or the defense would face an 
+Non-Prosecution Agreement with the United States Attorney's Office (USAO) for 
+Prosecution Agreement shall hereinafter be referred to as the “NPA’). 
+4. By its terms, the NPA took effect on June 30, 2008. Also, pursuant 
+to the terms of the NPA, any criminal prosecution against EPSTEIN is deferred 
+as long as the terms and conditions of the NPA are fulfilled by EPSTEIN. 
+NPA expires by its terms in late 2010, and as long as the USAO determines 
+6. Pursuant to the terms of the NPA, the USAO possesses the right to 
+the following actions by EPSTEIN to be a breach of the NPA. 
+8. The NPA expires in late 2010. 
+legal position taken by Mr. Epstein’s counsel conflicts with the Non-Prosecution Agreement 
+(“NPA”). 
+with you specifically about our ongoing obligations as you understand them under the NPA. As 
+government about its understanding of a few provisions in the NPA. It is likely by no fault of our 
+contained in the NPA. 
+negotiating the NPA, and believe that both the language of the NPA and our prior 
+Given your Office’s prior acknowledgements that the language of the NPA is far from 
+near future in order to clarify a few pivotal questions raised by the NPA. I assure you that 
+Mr. Epstein intends to abide fully by the terms of the NPA. And it is my sincere hope that our 
+a breach of the NPA. 
+having Mr. Epstein complete his NPA obligations without further tension with your Office. 
+As you know, the Non-Prosecution Agreement between Mr. Epstein and the Office called 
+Mr. Epstein and the State Attorney’s Office in accordance with the terms of the Non-Prosecution 
+Both parties have agreed that it is a material term of the Non-Prosecution Agreement that 
+Subject: Non-Prosecution Agreement in Epstein Case 
+PRODUCTION OF NON-PROSECUTION AGREEMENT AND OF REPORT OF 
+requested copies of two relevant documents from the Government: (1) the Non-Prosecution 
+In particular, the Government now apparently admits that the Non-Prosecution 
+effectively misled the victims that it had reached a Non-Prosecution Agreement with Epstein, 
+The Court should also order the Government to produce the Non-Prosecution Agreement 
+refused to provide to the victims the final Non-Prosecution Agreement or any of its earlier 
+Consistent with the express confidentiality provision in the Non-Prosecution Agreement, the 
+Epstein. Nor did the Agents disclose that the Non-Prosecution Agreement had been finalized. 
+Following the signing of the Non-Prosecution Agreement and the modifications thereto 
+Doe #2 that the Non-Prosecution Agreement had been concluded four months earlier, Jane Doe 
+Garvin was not advised about the Non-Prosecution Agreement. 
+file federal charges. Because of the confidentiality provision in the Non-Prosecution Agreement, 
+aware that a Non-Prosecution Agreement had been reached with Epstein. 
+Mr. Edwards — and thus his clients -- first learned of the Non-Prosecution Agreement on 
+emergency petition. That pleading was the first public mention of the non-prosecution agreement 
+notification contains a written explanation of some of the terms of the Non-Prosecution 
+hearing, the Government discussed in open court various provisions of the Non-Prosecution 
+facts. The response also requested a copy of the Non-Prosecution Agreement and the Report of 
+proposed plea agreement with Epstein, including in particular the details of the Non-Prosecution 
+the Non-Prosecution Agreement itself), it is apparent that the Government could not have 
+to treat the victims with fairness. The Government reached the Non-Prosecution Agreement with 
+well knew, however, a Non-Prosecution Agreement had already been reached with Epstein at that 
+THE NON-PROSECUTION AGREEMENT 
+Remarkably, the Government has yet to disclose to the victims the very Non-Prosecution 
+“full terms” of its Non-Prosecution Agreement with Epstein. To protect the victims’ right to be 
+Production of the Non-Prosecution Agreement is also warranted because it has provisions 
+Epstein knows what is in the Non-Prosecution Agreement that may be helpful to him. Jane Doe 
+Finally, Epstein is apparently taking advantage of provisions in the Non-Prosecution 
+to resolve the case by ordering production of the full Non-Prosecution Agreement and any 
+the Non-Prosecution Agreement and the report of interview with Jane Doe #1. After doing that, 
+victims are not asking to have any provision in the Non-Prosecution Agreement establishing 
+to review the full text of the Non-Prosecution Agreement and any accompanying addenda to 
+consummation of the Non-Prosecution Agreement. In the alternative, the Court should direct the 
+Government to provide to the victims the full Non-Prosecution Agreement (and accompanying 
+Attached please find a draft protective order regarding the disclosure of the non-prosecution agreement to you 
+production of the Non-Prosecution Agreement between the United States Attorney’s Office for the 
+Petitioners’ Motion is GRANTED. The USAO shall produce the Non-Prosecution Agreement, 
+(a) The USAO shall produce a copy of the Non-Prosecution Agreement, 
+your desire to implement all of the terms of the Non-Prosecution Agreement. As you are aware, 
+the terms of the Non-Prosecution Agreement. Please provide me with a copy of that 
+signing of the Non-Prosecution Agreement in September 2007, so long as the United States may 
+I’m working on a story about the federal non-prosecution agreement that is part and parcel of the state plea 
+I have attached a draft letter to the Florida Bar for your review along with the Non-Prosecution Agreement and 
+<<Epstein NonProsecution Agrmt w Addendum.pdf>> 
+Hi Roy -- It relates to the performance of the criminal Non-Prosecution Agreement. 
+Hi Roy -- It relates to the performance of the criminal Non-Prosecution Agreement. 
+Hi Roy -- It relates to the performance of the criminal Non-Prosecution Agreement. 
+FY] -- I was going to respond that it relates to the performance of the Non-Prosecution Agreement. What do you think? 
+Subject: FW: Non-Prosecution Agreement in Epstein Case 
+Subject: RE: Non-Prosecution Agreement in Epstein Case 
+promptly abides by the terms of the signed non-prosecution agreement entered into by the Office and Mr. 
+that is his prerogative, but we will consider it a breach of the federal non-prosecution agreement and will proceed 
+The federal non-prosecution agreement signed by Mr. Epstein and his counsel requires Mr. Epstein to plead 
+Subject: Re: Notification of Possible Compelled Disclosure of theNon-Prosecution Agreement 
+Subject: RE: Notification of Possible Compelled Disclosure of theNon-Prosecution Agreement 
+ject: Re: Notification of Possible Compelled Disclosure of theNon-Prosecution Agreement 
+ubject: Notification of Possible Compelled Disclosure of the Non-Prosecution Agreement 
+In accordance with paragraph 13 of the Non-Prosecution Agreement, | am providing notice of possible compulsory process commanding 
+the government violated their rights as victims by not consulting them prior to entering into the Non-Prosecution Agreement. 
+As part of their response to one of the government's filings, the victims asked the Court to order the production of the Non-Prosecution 
+abide by the Non-Prosecution Agreement.” The answer is yes. 
+in abeyance unless and until [Mr. Epstein] violates any term of [the Non-Prosecution 
+Non-Prosecution Agreement, and, accordingly, | would ask that the information contained herein 
+Dear Mr. Scarola: I have attached the Non-Prosecution Agreement. Please restrict its disclosure only to those who have reviewed and 
+<<Epstein NonProsecution Agrmt w Addendum.pdf>> 
+Mr. Epstein has not breached the Non-Prosecution Agreement 
+NON-PROSECUTION AGREEMENT 
+of the Non-Prosecution Agreement (hereinafter “paragraph 7”), that agreement is modified as 
+I am attaching the United States’ Response to the Petitioners’ Motion to Unseal the Non-Prosecution Agreement, 
+Mr. Epstein and that litigation regarding the Non-Prosecution Agreement is more appropriate in that forum 
+Please advise how you would like us to proceed. The agreement referred to is the Federal Non-Prosecution agreement 
+We represent The Palm Beach Daily News. The newspaper recently discovered that a non-prosecution agreement (and 
+Attached please find a draft protective order regarding the disclosure of the non-prosecution agreement to you 
+production of the Non-Prosecution Agreement between the United States Attorney’s 
+THE COURT ORDERS that the Non-Prosecution Agreement, including any 
+(a) |The USAO shall produce a copy of the Non-Prosecution Agreement, 
+acknowledgment in writing prior to the non-prosecution agreement being disclosed to an authorized recipient. 
+the non-prosecution agreement, conditioned on limited dissemination of the document upon receipt by petitioners. 
+right to be consulted before the Government could enter into a non-prosecution agreement which defers federal 
+agreement in case Alex changes his mind and a formal non-prosecution agreement containing the state plea 
+TERMS OF EPSTEIN NON-PROSECUTION AGREEMENT 
+sentence of incarceration followed by one year of community control as specified in the non-prosecution agreement. 
+we agreed that the Epstein state plea agreement was in compliance with the September 2007 non-prosecution agreement entered into 
+sentence of incarceration followed by one year of community control as specified in the non-prosecution agreement. 
+we agreed that the Epstein state plea agreement was in compliance with the September 2007 non-prosecution agreement entered into 
+sentence of incarceration followed by one year of community control as specified in the non-prosecution agreement. 
+we agreed that the Epstein state plea agreement was in compliance with the September 2007 non-prosecution agreement entered into 
+FYI -- I was going to respond that it relates to the performance of the Non-Prosecution Agreement. What do you think? 
+imprisonment in accordance with the Non-Prosecution Agreement. 
+The Non-Prosecution Agreement provides that Epstein “shall be sentenced to 
+provision does not comply with the terms of the Non-Prosecution Agreement. 
+The Non-Prosecution Agreement specifically provides: 
+with the terms of the Non-Prosecution Agreement. To comply with the Agreement, 
+As I specified in that letter, the Non-Prosecution Agreement calls for “confinement 
+my letter of June 26, 2008 and directly contradicts the language of the Non-Prosecution 
+Attorney’s Office hereby gives notice that Mr. Epstein has violated the Non-Prosecution 
+Non-Prosecution Agreement unless Mr. Epstein immediately ceases and desists from his 
+Hi Roy -- It relates to the performance of the criminal Non-Prosecution Agreement. 
+Please advise how you would like us to proceed. The agreement referred to is the Federal Non-Prosecution agreement 
+We represent The Palm Beach Daily News. The newspaper recently discovered that a non-prosecution agreement (and 
+sentence of incarceration followed by one year of community control as specified in the non-prosecution agreement. 
+we agreed that the Epstein state plea agreement was in compliance with the September 2007 non-prosecution agreement entered into 
+2008, there is currently in place a “non-prosecution” agreement between Jeffrey Epstein 
+(4) While this non-prosecution agreement was negotiated between the U.S. 
+during that year), the victims and their attorneys were not told about the non-prosecution 
+courtesy of seeing the full and complete non-prosecution agreement that was signed by 
+copy of that non-prosecution agreement, that agreement has not yet been produced to 
+accurate copy of the complete non-prosecution agreement that apparently bars federal 
+Subject: Re: CONFIDENTIAL: Epstein NonProsecution Agrmt w Addendum.pdf 
+Dear Mr. Danchuk: | have attached the Non-Prosecution Agreement. Please restrict its disclosure only to those who have reviewed and 
+<<Epstein NonProsecution Agrmt w Addendum.pdf>> 
+Non-Prosecution Agreement, you can forward that evidence to ‘a The Office will then conduct its 
+own review in accordance with the terms of the Non-Prosecution Agreement. 
+acknowledgment in writing prior to the non-prosecution agreement being disclosed to an authorized recipient. 
+the non-prosecution agreement, conditioned on limited dissemination of the document upon receipt by petitioners. 
+production of the Non-Prosecution Agreement between the United States Attorney’s 
+THE COURT ORDERS that the Non-Prosecution Agreement, including any 
+(a) |The USAO shall produce a copy of the Non-Prosecution Agreement, 
+This afternoon Brad Edwards filed the Non-Prosecution Agreement with the Court in the Jane Does v USA case. He filed it under seal and 
+Hi Barry — The Non-Prosecution Agreement contains a confidentiality provision that requires us to inform Mr. 
+civil suits breaches the Non-Prosecution Agreement.” 
+judge to unseal the Non-Prosecution Agreement. 
+5. Several litigants have asked Judge Marra to unseal the Non-Prosecution Agreement. No hearing has been 
+1. The Rothstein lawyers sought disclosure of the NPA to prove who the 
+victims were, and used the NPA to “corroborate” their false claims. 
+victim list you prepared, and that he had a copy of the NPA. 
+our part would constitute a breach of the NPA. So the Rothstein lawyers, once 
+2]) non-prosecution agreement that he's violated that agreement and 
+11] non-prosecution agreement has ever been filed in this Court; am 
+2]) non-prosecution agreement? 
+5} the civil action violates the NPA agreement, the 
+6]}/ non-prosecution agreement, between the U.S. and Mr. Epstein. 
+11} if, in fact, they believe he violates a provision of the NPA as 
+us We don't think that's what the NPA says, but that's 
+24) the NPA. 
+1} 33, certainly some aspects of the NPA are within Mr. Epstein's 
+9]} that in some way may be a violation of the NPA. 
+16} irreparable position of violating the NPA and then subsequently 
+19]/ intention of willfully violating the NPA, but it's of great 
+22} to discuss. Again, we think that's not what the NPA provides, 
+4} any action which may be deemed to be a violation of the NPA, 
+19} in any way a violation of the NPA? Again, we don't think so. 
+22) indicted under the NPA. Well, that's great. But, generally, 
+20]/ a violation of the NPA, because very clearly in their response 
+8} the NPA, which they can -- they, the U.S. -- can then turn 
+15]/ the NPA is solely up to Mr. Epstein. In this type of balance 
+24} unilaterally indict this man if we think he's breached the NPA. 
+7} provisions under the NPA. That's not what their paper says 
+15} nothing that exists that would be a violation of the NPA. 
+24])/ non-prosecution agreement. If he has done something else, it's 
+10} way a violation of the NPA? 
+19} as a violation of the non-prosecution agreement? Has anyone 
+20]) breached the non-prosecution agreement. 
+8]}/ NPA. And under those circumstances, some notification was 
+14]} stuck with 2255 and the language within the NPA. And, 
+6} to constitute a breach of the non-prosecution agreement? 
+22 |} opposite of the NPA. 
+19} the intent and the letter of the NPA. The purpose of the NPA 
+8]} non-prosecution agreement. That's my concern. 
+9]}/ and they're not part of the NPA. 
+1} the non-prosecution agreement as to the other claims. 
+12]}/ whether it is 50 or 150. That has nothing to do with the NPA. 
+15]}/ plaintiff. Those have nothing to do with the NPA. There is no 
+16]/ amount in NPA. Those will be resolved. 
+18]}/ the defense is permitted to contest liability under the NPA. 
+20 Under the NPA if someone brought a case under just 
+2) rulings. The NPA has no limitation on his contesting damages 
+7} what's in the NPA. 
+reference to the non-prosecution agreement, and I did say that 
+2]) potential breach of the non-prosecution agreement. 
+5} that the non-prosecution agreement limits the non-contesting of 
+19] it is that this non-prosecution agreement is being used by 
+25 Now he's trying to use the non-prosecution agreement 
+25]/ non-prosecution agreement. That provision, as we understand 
+11] non-prosecution agreement, sought to do one thing, which was to 
+6 So we did through the non-prosecution agreement tried 
+8} So, pursuant to the non-prosecution agreement -- on the other 
+2] believe that any of that violates the non-prosecution 
+12} because he entered into the non-prosecution agreement. So that 
+18]} victims whether they are fully within the non-prosecution or 
+19} not, non-prosecution agreement or not, and leave the Government 
+3]}/ the litigation is so that the non-prosecution agreement 
+6]}/ these arguments that clearly violate the non-prosecution 
+10]}/ violation of an express provision of the non-prosecution 
+12} violation of the NPA as well as Ms. Pe od with regard to 
+24]/ consider that to be a violation of the NPA under the 
+14] NPA or a redacted portion of the NPA which deals with the civil 
+19} access based on a prior court order to the non-prosecution 
+11] example, in the non-prosecution agreement there was a provision 
+3]} of the NPA, not only by Mr. Josefsberg on behalf of 101, but as 
+4} violation of the NPA. It again chills us from moving forward, 
+6} that may put my client at risk for violating the NPA and then 
+11} NPA, puts him at substantial risk. And that's what our worry 
+18} to the NPA they're not alleged victims. They are actual, real 
+1} NPA. I think that many of the questions you asked will be 
+2]) answered when you read the NPA, and I think it's very unfair of 
+3]} everyone who is sitting in front of you who have the NPA to be 
+1}}/ non-prosecution agreement, I was expecting that we were going 
+6} has breached the non-prosecution agreement and it names 
+16}/ non-prosecution agreement is what it is. There have been no 
+non-prosecution 5:2 
+NPA 8:5,11,15,24 
+Some of his alleged victims were required to perform unpaid labor at Ray’s behest — while others were forced to drain 
+Some of his alleged victims were required to perform unpaid labor at Ray’s behest — while others were forced to drain 
+In case you haven't seen, various lawmakers are now calling on DOJ to explain the Epstein NPA. If you have a few 
+In case you haven't seen, various lawmakers are now calling on DOJ to explain the Epstein NPA. If you have a few 
+In case you haven't seen, various lawmakers are now calling on DOJ to explain the Epstein NPA. If you have a few 
+strident criticism was over a nonprosecution deal he 
+nonprosecution agreement, thereby violating their 
+Subject: RE: Epstein NPA Appendix 
+Subject: RE: Epstein NPA Appendix 
+Subject: Epstein NPA Appendix 
+There is non-public appendix to the Epstein NPA that includes a list of victims entitled to receive compensation. Does 
+We obtained the list of victims in the side-letter to the NPA, and confirmed that our principal NY victim is not on it — it 
+We obtained the list of victims in the side-letter to the NPA, and confirmed that our principal NY victim is not on it — it 
+We obtained the list of victims in the side-letter to the NPA, and confirmed that our principal NY victim is not on it — it 
+having been involved in reviewing the Epstein NPA. She is quite upset about the press coverage and is considering making 
+prosecution agreement (NPA) and the prison sentence that Epstein 
+misconduct, and the circumstances under which he entered into a non-prosecution agreement 
+(“NPA”) with the U.S. Attorney’s Office for the Southern District of Florida in 2007. The same 
+a potential co-conspirator—and for whom Epstein obtained protection in—the NPA. This 
+NPA. This individual is also one of the employees identified in the Indictment, which alleges that 
+attached to the NPA, which | assume you have—or have access to. But [J also has the names of additional girls, 
+Additionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in 
+<Epstein NPA, dated 2007-09-24.pdf> 
+Hl. a more formal preservation/production request for NPA-related materials that have been the subject of our email 
+Subject: Re: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+that relate solely to Florida crimes and Florida victims ... because the NPA only covers Florida. 
+scope of the NPA. On Monday, we will be filing an opposition to Weinberg extending the briefing further. It appears 
+| wanted to make you aware of these developments. My clients were told back in 2013 that the NPA did not extend to 
+Subject: Re: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: Re: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+in the case that relate solely to Florida crimes and Florida victims ... because the NPA only covers Florida. 
+the scope of the NPA. On Monday, we will be filing an opposition to Weinberg extending the briefing further. It 
+| wanted to make you aware of these developments. My clients were told back in 2013 that the NPA did not extend to 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: Re: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: Re: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+in the case that relate solely to Florida crimes and Florida victims ... because the NPA only covers Florida. 
+the scope of the NPA. On Monday, we will be filing an opposition to Weinberg extending the briefing further. It 
+| wanted to make you aware of these developments. My clients were told back in 2013 that the NPA did not extend to 
+discovery, to include motions relating to the nonprosecution 
+including the NPA, that is the schedule that we would propose 
+the nonprosecution agreement, our contention that the 
+constitutionally barred by the NPA. There are double jeopardy 
+the immunity provisions in the NPA. We are going to be 
+NPA-related issues, on double-jeopardy-related issues, so that 
+seek to unseal. There is an NPA to litigate. This case is not 
+Additionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in 
+<Epstein NPA, dated 2007-09-24 .pdf> 
+on July 26, 2019 that sought the preservation and production of documents relating to the NPA 
+and issues arising from the NPA. We wanted to particularize certain requests that were 
+Additionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in 
+<Epstein NPA, dated 2007-09-24 .pdf> 
+WAM ei NOHNAOANrOWOAN AS ¢ SAMI NPANAMIOANOPUNPTONMEUMIPOOr TF Onom 
+AAANPARASAAMNSKHNOMNOANOHNOMOANOAIN 
+cic AAA AAMAN NPA PFNDWAANAAWAIMANAINNOMAN tei Neiete Nes (AI ANNAN 
+respond. The Plaintiffs have included a copy of the NPA, [J depo and have made numerous factual allegations 
+into a cooperation agreement, plea agreement, immunity or non-prosecution agreement. The 
+| | 1 IvemotomunkManagrcsnecanos SS appteietnpat 
+[as | + _losrornzornunestenorsincudngemst) __——_apcleinpan 
+[ss | 4 _[erteurdeatreeportanddethnotteaiontincbargenst) __—_—lpplalenpat 
+| | 1 _iceotchiermediattraninerdocamens = _epnieinpat 
+[a7 | 1 enamotcusody orm troma7/2a kpparentSuideAnempt___——=—__—h and appeatiinpat 
+[20 | 17 _|vemoandeporstomon/osucde(rormses) tant tPanpteateinpart 
+conviction and the non-prosecution agreement (“NPA”). Records obtained by the Government 
+co-conspirator in the NPA. The same records appear to show that just three days after that, on or 
+individual named as a possible co-conspirator in the NPA and also identified as one of the 
+A. The Non-Prosecution Agreement Does Not Preclude Prosecution 
+the scope of the NPA — that is, alleged conduct that occurred here in New York and involving New 
+challenge to the NPA, he would still have to stand trial on Count Two of the Indictment and 
+of New York—or anywhere else outside the SDFL—are manifold. The language of the NPA 
+In its terms section, the NPA further states that Epstein’s signature “is not to be construed 
+to any victim whose identity was not disclosed by SDFL to Epstein, as provided for in the NPA, 
+substantive paragraph of the NPA states that “Epstein hereby requests that the United States 
+7 All emphases relating to the NPA are added unless otherwise specified. 
+curiam)). Moreover, any references in an NPA to the “Government” or the “United States” do not 
+* This analysis similarly extends to a non-prosecution agreement. See United States v. Laskow, 
+an explicit statement to the contrary, it is presumed that a non-prosecution agreement binds offices 
+In fall 2007, the defendant entered into a non-prosecution agreement with the SDFL in 
+connection with the conduct at issue in that investigation, which the non-prosecution agreement 
+' The non-prosecution agreement, further discussed below, was entered into at the conclusion of 
+prosecution agreement (“NPA”) with a different federal district pose any impediment to his 
+Moreover, with respect to the NPA, that agreement, to which the Southern District of New 
+similarly extends to a non-prosecution agreement. See United States v. Laskow, 688 F. Supp. 851, 
+to the contrary, it is presumed that a non-prosecution agreement binds offices of the United States 
+771 F.2d at 672). Second, the Indictment charges conduct not covered by the NPA, namely 
+conduct that occurred in New York. The prior NPA included a list of several dozen victims 
+THIS CASE MUST BE DECIDED ON THE AGREED PREMISE THAT THE NPA ONLY COVERS THE U.S. ATTORNEY'S 
+Attachments: Epstein NPA, dated 2007-09-24.pdf 
+No problem and definitely — NPA attached. 
+me the Florida NPA? Thanks again. 
+compensation paid to alleged victims, and an NPA from the feds, 
+particular, the NPA. The United States took the position that 
+because the judge suggested, I think three times, that the NPA, 
+THE COURT: Does the nonprosecution agreement in 
+Florida -- the nonprosecution agreements in the Southern 
+THE COURT: Have you seen the Florida nonprosecution 
+States prosecutors before they entered into the NPA, the 
+the defendant knew that there would be challenges to the NPA. 
+And with respect to the nonprosecution agreement -- 
+nonprosecution agreement was limited to the Southern District 
+FDD's Center on Economic and Financial Power (CEFP). FDD is a Washington, DC-based, nonpartisan research institute 
+compensation paid to alleged victims, and an NPA from the feds, 
+particular, the NPA. The United States took the position that 
+because the judge suggested, I think three times, that the NPA, 
+THE COURT: Does the nonprosecution agreement in 
+Florida -- the nonprosecution agreements in the Southern 
+THE COURT: Have you seen the Florida nonprosecution 
+States prosecutors before they entered into the NPA, the 
+the defendant knew that there would be challenges to the NPA. 
+And with respect to the nonprosecution agreement -- 
+nonprosecution agreement was limited to the Southern District 
+11. In September 2007, Epstein entered into a Non-Prosecution Agreement (“NPA”) 
+12. In the NPA, the United States additionally agreed that it would not institute any 
+the Southern District of Florida through the NPA. 
+15. Rather than confer with the victims about the NPA, the U.S. Attorney’s Office 
+NPA. 
+filed by Jane Doe | in the Southern District of Florida challenging Epstein’s non-prosecution 
+Attachments: 2019-03-12, JE, status memo for ODAG, updated.docx; NPA.pdf 
+HE - Attached is a copy of the memo we sent down about five weeks ago along with the NPA from the Florida 
+document/discovery requests related to the SDFL investigation and the NPA, in particular. Those conversations were 
+When Epstein secured a non-prosecution agreement with federal prosecutors in southern Florida in 2008 over a previous 
+Department of Justice in 2008, alleging that the non-prosecution agreement reached with Epstein by federal prosecutors 
+possible remedies for the violation, which could potentially include tearing up the non-prosecutions agreement. 
+earlier this month. "This is basically the feds today, not happy with what happened in the decision that led to the NPA, 
+the NPA and the decision by the Southern District of New York to indict, and to 
+regarding Mr. Epstein, the NPA, the receipt of evidence, or the decision by the Southern District 
+to dismiss the Indictment as barred by the 2007 non-prosecution agreement between the 
+Department of Justice and Mr. Epstein (the “NPA”). Each is subject to disclosure pursuant to the 
+5. The NPA, including but not limited to communications within the Department of Justice, 
+intend to file a future Motion to Dismiss based on the September 24, 2007 NPA, contending that 
+another district even if the NPA is ultimately determined to be venue specific. We also will 
+attorneys was inconsistent with the immunity-commitments that were incorporated into the NPA. 
+25. Relating to the negotiation and execution of the: (1) non-prosecution 
+24, 2007 (and any addenda related thereto) (the “NPA”); (2) plea 
+other governmental entity into matters related to the NPA, Guilty Plea, or 
+a. Some or all of the conduct in the Indictment is subject to the NPA; 
+but simply entered into a non-prosecution agreement with him, “the CVRA was never triggered.” 
+unpaid fees and charges. 
+protest, dernand for payment and notice of nonpayment and further waive all other 
+Justice, or any other nonparty to this case, including but not limited to victims or their counsel 
+necessary due to an intended motion to dismiss based on a prior non-prosecution agreement 
+Fifth Request: The NPA, including but limited to communications within the Department of 
+any or all of the following, cumulatively: (i) declare all or any part of the remaining unpaid indebtedness of Customer to Bank to be 
+immediately due and payable, together with all unpaid interest and any other accrued and unpaid monetary obligations of Customer hereunder; 
+having been involved in reviewing the Epstein NPA. She is quite upset about the press coverage and is considering making 
+misconduct, and the circumstances under which he entered into a non-prosecution agreement 
+(“NPA”) with the U.S. Attorney’s Office for the Southern District of Florida in 2007. The same 
+a potential co-conspirator—and for whom Epstein obtained protection in—the NPA. This 
+NPA. This individual is also one of the employees identified in the Indictment, which alleges that 
+Jhy EYEQ JO Loge ZUOKgNe Sseudxa POUR peso|I=m JO PeysEgnS 'Peonpaxday aq Jou ABW WEWNSSD S1U) JO SyURRUOD ‘SeUr) Jy eyOK C8 (eHUEPYLOD PUP Amjoudoly pexmsey sybu my ‘seu JY BEeQ / LOZ 1yfutdep 
+into a cooperation agreement, plea agreement, immunity or non-prosecution agreement. The 
+(d) Service. A marshal, a deputy marshal, or any nonparty who is at least 18 years old may serve a subpoena. The server must deliver a copy 
+(d) Service. A marshal, a deputy marshal, or any nonparty who is at least 18 years old may serve a subpoena. The server must deliver a copy 
+Subject: FW: NPA 
+Attachments: 2021-02-26 GM Government Opposition (NPA) (MC).docx 
+Subject: RE: NPA 
+Subject: NPA 
+Attached is the most recent draft of the NPA brief. Apologies for the delay, | really struggled with this one. | think our 
+nonparental child sexual abuse in the context of emotional and physical maltreatment. Child 
+Goodman, G. S. Child sexual abuse allegations and custody disputes: Parental and nonparental 
+the Justice Department’s internal probe into the non-prosecution of Epstein as signed off by Acosta. 
+U.S. District Judge Kenneth Marra ruled in February that Epstein’s non-prosecution agreement violated the 
+to leave Epstein’s non-prosecution agreement in place. 
+of a conspiracy charge on grounds of double jeopardy tied to allegations that underpinned a non-prosecution 
+The non-prosecution deal was reached before he pleaded guilty in state court in Florida to prostitution-related 
+In the meantime, Epstein will be given a chance to argue that the non-prosecution agreement, executed in 2008, 
+charges of soliciting prostitution, after striking a non-prosecution agreement with the U.S. Federal prosecutors in 
+U.S. District Judge Kenneth Marra ruled in February that Epstein’s non-prosecution agreement violated the 
+reasoning to leave Epstein’s non-prosecution agreement in place. 
+of a conspiracy charge on grounds of double jeopardy tied to allegations that underpinned a non-prosecution 
+The non-prosecution deal was reached before he pleaded guilty in state court in Florida to prostitution-related 
+In the meantime, Epstein will be given a chance to argue that the non-prosecution agreement, executed in 2008, 
+charges of soliciting prostitution, after striking a non-prosecution agreement with the U.S. Federal prosecutors 
+September 24, 2007 non-prosecution agreement with the Department of Justice, which 
+including what effect (if any) the Florida NPA has on us (legally it turns out none). Meant to loop you in today — let’s 
+superseding indictment for breach of the non-prosecution agreement, for pre-indictment delay, 
+2. In light of the 5 trafficking offenses outlined on pages | & 2 of the NPA signed 10/29/07, why was Epstein 
+6. In the ADDENDUM to the NPA (7A-C), Epstein is given the right to select and approve independent third 
+7.According to the NPA signed by MV there are 5 federal trafficking offenses. Why were they dismissed or 
+9. Esptein's signature on NPA “is not to be construed as an admission of civil or criminal liability or a waiver 
+11. Why would the NPA not be part of a public record? And why would the US have to provide notice to Epstein 
+14. Why are the grand jury subpoenas going to be withdrawn at the completion of the terms of the NPA? given 
+document/discovery requests related to the SDFL investigation and the NPA, in particular. Those conversations were 
+Government Reply 08 Civ 80736.pdf; NPA.pdf 
+invalidate the NPA. And it's not one of the suits the victims filed against Epstein. It's a lawsuit that an attorney 
+into a cooperation agreement, plea agreement, immunity or non-prosecution agreement. The 
+Subject: R RE: Briefing in Florida cin whether the Florida NPA extends to New York - concession by 
+Epstein's attorney that NPA only applies in Florida 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York - concession by Epstein's attorney 
+that NPA only applies in Florida 
+behalf) that the NPA contained an obligation by the U.S. Attorney’s Office for the Southern District of Florida “not [to] 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: Re: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: Re: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+in the case that relate solely to Florida crimes and Florida victims ... because the NPA only covers Florida. 
+the scope of the NPA. On Monday, we will be filing an opposition to Weinberg extending the briefing further. It 
+| wanted to make you aware of these developments. My clients were told back in 2013 that the NPA did not extend to 
+HM. a more formal preservation/production request for NPA-related materials that have been the subject of our email 
+understands, the NPA and the role of the NPA was going to be 
+defense side who participated in the NPA, and we were satisfied 
+MR. WEINGARTEN: The deal of the NPA was global. That 
+NPA. We had a significant motion to dismiss. This was not a 
+District of Florida nonprosecution agreement dated probably in 
+MR. WEINGARTEN: For us, your Honor, the NPA is the 
+the NPA was the result of an extensive 3-year investigation by 
+federally, and that is translated in the NPA. Mr. Epstein did 
+the decision that led to the NPA, redoing the same conduct that 
+not included in the nonprosecution agreement in Florida and 
+NPA. 
+nonprosecution agreement does not bind the Southern District of 
+is not precluded by the nonprosecution agreement entered into 
+no connection to the NPA. And there is no evidence that we 
+we don't think the NPA applies to us. 
+continues. In fact, our briefing is today. The NPA provided 
+NPA on several occasions in 2008 and essentially confirmed that 
+be any discussion here about the legality of the NPA? 
+MR. WEINBERG: Not the legality of the NPA. I think 
+legality of the NPA, their discretion to enter into it, and 
+that the way that the victims vis-a-vis the Florida NPA were 
+that the nonprosecution agreement was limited to that district. 
+the Department of Justice. We expect that the nonprosecution 
+discovery, to include motions relating to the nonprosecution 
+including the NPA, that is the schedule that we would propose 
+the nonprosecution agreement, our contention that the 
+constitutionally barred by the NPA. There are double jeopardy 
+the immunity provisions in the NPA. We are going to be 
+NPA-related issues, on double-jeopardy-related issues, so that 
+seek to unseal. There is an NPA to litigate. This case is not 
+e Maxwell moves to dismiss all counts based on a non-prosecution agreement between 
+L. Jeffrey Epstein’s non-prosecution agreement does not bar this prosecution 
+Epstein entered into a non-prosecution agreement (“NPA”) with the Office of the United States 
+Attorney for the Southern District of Florida. Dkt. No. 142 at 1-2. Epstein agreed in the NPA to 
+observed, the NPA was unusual in many respects, including its breadth, leniency, and secrecy. 
+U.S. Attorney’s negotiation and approval of the NPA did not amount to professional misconduct, 
+Only the NPA’s effect, and not its wisdom, is presently before the Court. Maxwell 
+contends that the NPA bars this prosecution, because she is charged as a co-conspirator of 
+Jeffrey Epstein and the NPA’s co-conspirator provision lacks any geographical or temporal 
+Circuit precedent, the NPA does not bind the U.S. Attorney for the Southern District of New 
+A. The non-prosecution agreement does not bind the U.S. Attorney for the 
+of New York. The question is whether the terms of the NPA did so. Applying Second Circuit 
+Maxwell asks this Court to draw the opposite conclusion. The provision of the NPA 
+Two provisions of the NPA refer specifically to prosecution in the Southern District of 
+geographical limitation. If anything, that language reflects that the NPA’s scope was expressly 
+Without an affirmative statement in the NPA’s text, Maxwell turns to its negotiation 
+history. Under Second Circuit precedent she may offer evidence that negotiations of the NPA 
+Attorney’s Office for the Southern District of Florida sought and obtained approval for the NPA 
+about the NPA’s negotiation history in the form of the OPR report and yet identifies no evidence 
+that the Department of Justice made any promises not contained in the NPA. The OPR report 
+reflects that the Office of the Deputy Attorney General reviewed the NPA, but only after it was 
+assistance but not for help negotiating the NPA. Dkt. No. 204-2. Nor would direct approval of 
+the NPA by the Office of the Deputy Attorney General change the meaning of its terms. No 
+evidence suggests anyone promised Epstein that the NPA would bar the prosecution of his co- 
+NPA’s text or negotiation history to disturb this presumption. The Court thus concludes that the 
+NPA does not bind the U.S. Attorney for the Southern District of New York. 
+B. The non-prosecution agreement does not cover the charged offenses 
+The NPA would provide Maxwell no defense to the charges in the S1 superseding 
+indictment even against an office bound to follow it. The NPA bars prosecution, following 
+(1) “the offenses set out on pages | and 2” of the NPA; namely, “any offenses that 
+Dkt. No. 142-1 at 2. The NPA makes clear that the covered charges are those relating to 
+Maxwell contends that the NPA’s co-conspirator provision lacks any limitation on the 
+conspired with Epstein in the offenses covered by the NPA for their involvement in those 
+The Court has no trouble concluding that the perjury counts are not covered by the NPA. 
+depositions in 2016, more than eight years after Epstein signed the NPA. Maxwell now 
+The Mann Act counts, too, fall comfortably outside the NPA’s scope. The S1 
+NPA. The NPA does not purport to immunize Epstein from liability for crimes committed 
+Maxwell’s protection is no broader. The Court thus concludes that the NPA does not cover the 
+an evidentiary hearing as to the parties’ intent in the NPA. The Court finds no basis to do so. 
+writing. This is no such case. The NPA’s terms are clear. Beyond the NPA itself, an extensive 
+For the same reason, the Court will not order the discovery on the NPA. In any case, it 
+the NPA. The Government shall confirm in writing within one week whether it views any 
+evidence supporting Maxwell’s interpretation of the NPA as material it is required to disclose, 
+non-prosecution agreement (Dkt. No. 141), to dismiss the Mann Act counts as barred by the 
+any evidence related to negotiation of the non-prosecution agreement to constitute Brady or Rule 
+GB - Attached is a copy of the memo we sent down about five weeks ago along with the NPA from the Florida 
+istise held operating cornpany in which any one person Or entity has 25% or more of the ownership interest? 
+Prt (eine AccounPalderfiagner mame, Comogan Oren, oe) 
+TER SIKORSKY S76C AND DOWNPAYMENT O 
+Name of Funm Oconpation Posmor 
+thru Jeff Sloman regarding modifications to the proposed Non-Prosecution Deliberative Process 
+P-014134 regarding negotiations of a federal plea and a non-prosecution 
+P-014174 proposed revisions to non-prosecution agreement 
+thru Andrew Lourie regarding revisions to the non-prosecution agreement 
+P-014238 revision/addendum to Non-Prosecution Agreement 
+thru Marie Villafana regarding negotiation of Addendum to Non-Prosecution Deliberative Process 
+interpretation of the Nonprosecution Agreement 
+non-prosecution agreement 
+NPA; status of ongoing investigation; problems with Epstein’s counsel 6(e) 
+implementation of the NPA. (Redacted version produced to opposing 
+33. I now understand that Epstein reached a non-prosecution agreement with the federal 
+non-prosecution agreement was, what crimes Epstein could have been charged with, why he was 
+Jane Doe No. 2 were trying to invalidate the non-prosecution agreement to allow prosecution of 
+8. At this time, I was not told about any non-prosecution agreement 
+was cooperating in. If I had been told about a non-prosecution 
+14. I learned about the existence of a secret non-prosecution 
+19. I think that the secret non-prosecution agreement should be 
+Additionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in Florida, 
+<Epstein NPA, dated 2007-09-24 pdf> 
+4. Unpaid Vault Charges, if any. 
+9. Possible Unpaid N.Y.S. Franchise Taxes -VS- 
+10. Possible Unpaid N.Y.C. Corporate Taxes -VS- 
+11. Possible Unpaid N.Y.S. Franchise Taxes -VS- 
+12. Possible Unpaid N.Y.C. Corporate Taxes -VS- 
+on July 26, 2019 that sought the preservation and production of documents relating to the NPA 
+and issues arising from the NPA. We wanted to particularize certain requests that were 
+lenient non-prosecution agreement that Labor Secretary 
+Subject: RE: NPA 
+Thanks, all. I’m attaching the NPA, in case that’s useful. 
+Subject: RE: NPA 
+Subject: Re: NPA 
+Subject: RE: NPA 
+Subject: NPA 
+Attached is the most recent draft of the NPA brief. Apologies for the delay, | really struggled with this one. | think our 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+that relate solely to Florida crimes and Florida victims ... because the NPA only covers Florida. 
+scope of the NPA. On Monday, we will be filing an opposition to Weinberg extending the briefing further. It appears that 
+| wanted to make you aware of these developments. My clients were told back in 2013 that the NPA did not extend to 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: Re: Briefing in Florida regarding whether the Florida NPA extends to New York 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+that relate solely to Florida crimes and Florida victims ... because the NPA only covers Florida. 
+scope of the NPA. On Monday, we will be filing an opposition to Weinberg extending the briefing further. It appears 
+| wanted to make you aware of these developments. My clients were told back in 2013 that the NPA did not extend to 
+Additionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in 
+<Epstein NPA, dated 2007-09-24 .pdf> 
+Additionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in 
+<Epstein NPA, dated 2007-09-24.pdf> 
+Subject: RE: Briefing in Florida regarding whether the Florida NPA extends to New York 
+that relate solely to Florida crimes and Florida victims ... because the NPA only covers Florida. 
+scope of the NPA. On Monday, we will be filing an opposition to Weinberg extending the briefing further. It appears that 
+| wanted to make you aware of these developments. My clients were told back in 2013 that the NPA did not extend to 
+THIS CASE MUST BE DECIDED ON THE AGREED PREMISE THAT THE NPA ONLY 
+(CVRA) — including rescission of the non-prosecution agreement. 
+Intervenor Epstein. The Government? and Epstein reached a secret non-prosecution agreement 
+(NPA) and then concealed that agreement until it was firmly in place — and the victims lost any 
+proposed rescission of the NPA’s “immunity” provisions, which have prevented victims from 
+should cause the Court to reverse course. The NPA’s immunity provisions were founded in 
+THIS CASE MUST BE DECIDED ON THE AGREED PREMISE THAT THE NPA 
+For many years, this case has been litigated on the premise that the NPA negotiated by 
+Southern District of Florida. Indeed, the NPA’s plain terms directly limit the agreement to “this 
+District.” See NPA at 2 (noting that the agreement was signed “on the authority of R. Alexander 
+In light of this plain language, the NPA has no application to prosecutors in other judicial 
+464 at 13 n.4 (“The NPA negotiated by attorneys in the Southern District of Florida obviously only 
+NPA at issue in this case does not have any nationwide reach. As Epstein’s “background” section 
+represented to the Justice Department during discussions about the NPA that “[t]his is a case about 
+at the time that the NPA was under consideration, this was not a case “present[ing] 
+prosecutors in the Southern District of New York. The NPA in this case has no connection to or 
+violation occurred and that rescission or re-opening of the non-prosecution agreement was one of 
+Epstein “to intervene with regard to any remedy issue concerning the non-prosecution 
+any remedy that involves the non-prosecution agreement. Epstein’s only 
+succeed in their petition to rescind the non-prosecution agreement, Epstein can 
+fashion a remedy that does not involve the non-prosecution agreement, if the district 
+the Non-Prosecution Agreement are Well-Supported and Unchallenged. 
+the Non-Prosecution Agreement. 
+findings that the Government decided “to conceal the existence of the NPA and mislead the victims 
+keeping the NPA secret from the victims and, indeed, had sought assurances to that effect.” Jd. at 
+Epstein’s main point appears to be not that this Court was wrong in finding that the NPA 
+obviously demonstrates that Epstein and his lawyers signed the NPA, which itself provided that 
+disclosure.” NPA at © 13 (emphasis added). This Court noted this provision as part of its factual 
+findings. 359 F.Supp.3d at 1208. The NPA’s plain language thus makes clear both that Epstein 
+knew the NPA was being concealed and, by requiring that notice go to him before disclosure, that 
+NPA on non-disclosure to victims of the intended resolution.” Epstein Remedies Br. at 31. To be 
+the NPA would be made public. DE 361 at 15. And, as the NPA was being executed, defense 
+you can to keep [the NPA] from becoming public.” 359 F.Supp.3d at 1207. 
+Moreover, even before the NPA was signed, uncontested documentary evidence shows that 
+press.” 359 F.Supp.3d at 1206. These documents pertain to events before the NPA was executed 
+on September 24, 2007, proving that Epstein’s defense attorneys sought to have the NPA 
+concealed in advance of its signing. Given that concealment of the NPA necessarily meant that 
+violation even before the NPA was executed. 
+in concealing the NPA before it was signed. The NPA was not actually consummated until months 
+Epstein were concealing the NPA. Moreover, it is unsurprising to find that the Justice Department 
+was telling victims that they had CVRA rights well before the NPA was ever signed. As this Court 
+basis for the Government’s decision to withhold information about the NPA from 
+requiring that a non-prosecution agreement be concealed from victims, much less permitting 
+Government’s decision to conceal the existence of the NPA and mislead the victims to believe that 
+After the NPA was signed, Epstein concedes that he was involved in the notifications to 
+be sent by the State Attorney and presumably would not mention the federal non-prosecution 
+admits. The affidavit only attempts to provide an explanation for failing to disclose the NPA’s 
+most significant feature of the non-prosecution agreement was being concealed from the victims 
+—i.e., the fact that the agreement would lead to Epstein’s non-prosecution. As a result, through its 
+of the NPA unless Epstein failed to comply with the terms. It was a material omission for the 
+Epstein also argues that the NPA is “a legal agreement.” Epstein Remedies Br. at 25. By 
+had conferred with Epstein’s victims. Accordingly, the NPA’s immunity provisions were not part 
+entitled to take advantage of the non-prosecution provisions, at least with respect to crimes against 
+for the NPA’s “total rescission.” Indeed, the victims have previously discussed this issue in 
+Presumably the reason that Epstein is not asking for total rescission of his NPA with the 
+sequence of events, Epstein has clearly waived any right to seek total rescission of the NPA. And 
+of the NPA’s immunity provisions is the only remedial option before the Court that comes close 
+language somehow restricts the Court from rescinding provisions in the NPA as a remedy in this 
+a right to confer regarding a non-prosecution agreement. To the contrary, as this Court has held, 
+confirms that a non-prosecution agreement can likewise be reopened. Moreover, in attempting to 
+right to be heard before or during the proceeding at issue.” An NPA can be drafted and signed 
+but not for an NPA. 
+Moreover, distinguishing between a non-prosecution agreement (negotiated outside of the 
+an “NPA entered into without notice has a more damaging impact on victims than a plea agreement 
+at least have an opportunity to provide input to a judge at sentencing. Once an NPA is entered into 
+victims received timely notice of any NPA. 18 U.S.C. § 3771(a)(9). In codifying this right, it 
+Jane Doe | began to learn that a secret, non-prosecution agreement might be in the works, they 
+Epstein had entered into the NPA long ago: 
+[i.e., that the NPA had been signed eight or nine months earlier]. 
+evidentiary record of the events surrounding the NPA and whether the victims were entitled to 
+proceedings, because disclosure of Epstein’s then-secret NPA was involved. /d. at 30. As noted 
+above, the NPA directly provided that, if the USAO-SDFL was going to disclose the agreement, 
+it was required to “provide notice to Epstein before making that disclosure.” NPA at p. 5 § 13. 
+NPA would be turned over to the victims. During the hearing, the USAO-SDFL put on the record 
+including potential invalidation of the NPA — be decided more rapidly. The Court made further 
+decisions about how best to proceed, including ordering disclosure of the secret NPA to the 
+'4 During the hearing, victims’ counsel speculated that rescission of the NPA might not be 
+even seen the entire NPA — and after the document’s release, counsel moved forward seeking 
+correspondence between Epstein and the Government regarding the NPA’s negotiation — 
+(among other things) invalidation of the NPA — he did not move to intervene in the case until 
+the NPA have not been resolved more quickly. Of course, it was Epstein himself who set in motion 
+all the events designed to keep the NPA concealed from the victims. If he had not persuaded the 
+surrounding the NPA could have been presented before he pled guilty in state court. Of course, it 
+was precisely to keep that court — and the victims — from learning about the NPA that Epstein 
+arranged to have the NPA shrouded in secrecy. Any passage of time in litigating these issues is 
+added). Accordingly, this Court’s remedial task is not to ensure that the NPA conforms to ill- 
+Victims’ Rights Act, 18 U.S.C. § 3771 —to uphold the NPA’s immunity provisions, which prevent 
+Epstein Remedies Br. at 45, and thus must “conform” to the intention of the parties to the NPA. 
+But, of course, the NPA was affirmatively concealed from the victims. It is precisely because the 
+NPA was clandestine that this Court must now rescind its immunity provisions. It was never the 
+payments that he has previously made to his victims under the NPA. Epstein Remedies Br. at 34- 
+NPA. Instead, they negotiated other financial terms without relying on the NPA. So, Epstein 
+victims who relied on the financial provisions of the NPA, the “partial” rescission remedy that 
+Jane Doe | and 2 seek would not call into question Epstein’s payments. The NPA’s financial 
+the NPA who could ask for total rescission of the agreement — and he has declined to do.'* Thus, 
+79 F.3d 1065, 1068 (1 1th Cir. 1996). In this case, with respect to the NPA’s immunity provisions, 
+On the other hand, with regard to the NPA’s financial provisions, there was a “valid, 
+(e.g., the NPA) would still exist, because something of value would exist for both sides. See 
+'7 It may also be the case that Epstein retains some “consideration” for his NPA, because 
+the statute of limitations may have now expired on some of the crimes covered by his NPA. The 
+serious crimes covered by the NPA — specifically, the sex trafficking charges — are not time barred, 
+Epstein also argues that “the NPA is not a divisible agreement.” Epstein Remedies Br. at 
+46. But the NPA provision he cites does not say that. Instead, it simply provides that each of the 
+NPA’s provisions is “material” to the agreement and is supported “by independent consideration.” 
+NPA at p. 6. If Epstein had wanted an “indivisible” NPA (whatever that may mean), he was free 
+to bargain for one. But nothing in the NPA’s language provides that it is “indivisible.” 
+In any event, Jane Doe | and 2 are not arguing that the NPA is some sort of “divisible” 
+agreement. Rather, their position is that the NPA’s immunity provisions are unenforceable and 
+Doe | and 2 to enforce immunity provisions in the NPA depriving them of congressionally 
+Finally, Epstein never specifically asks this Court to rule that the NPA is “indivisible” and 
+not to ask for the NPA to be declared totally invalid is obvious — he apparently intends to try to 
+use the NPA’s immunity provisions in the Southern District of New York.'* But the key point 
+illegally conceal an NPA in violation of crime victims’ rights and then, second, simply payoff 
+claims that Jane Doe | and 2 sought to enforce the terms of the NPA against him and, accordingly, 
+USAO-SDFL who, in the first instance, “stymied” the CVRA by illegally concealing their NPA. 
+NPA from minor sex abuse victims — has unclean hands for multiple and obvious reasons — and 
+1 and 2 did not “rely” on the NPA’s terms to establish a CVRA violation — in fact, they were 
+Epstein’s NPA in their civil lawsuits. Jane Doe | and 2 filed their civil lawsuits in about September 
+SDFL to disclose the previously secret NPA. The victims’ civil lawsuits briefly alleged that 
+based on the NPA. 
+was estopped from contesting liability to them by the NPA, then conceivably some of the 
+the victims from challenging the NPA. Epstein Remedies Br. at 41-42. Once again, his argument 
+able to fully contest liability is that the NPA created such a limited remedy for Epstein’s victims 
+judgment based on the NPA and instead looked forward to fully trying their cases. 
+The relevant provision in the NPA is paragraph 9, which provided that if a victim elected 
+victims, this cap meant that the NPA was essentially meaningless for many of the victims — 
+and thus had to proceed entirely apart from the NPA to obtain appropriate damages. The victims 
+thus never had “success” relying on the NPA’s provisions — but could only have success by 
+seeking damages under the NPA. Judicial estoppel is not applicable to this course of events. 
+court to rule in their favor based on the binding validity of the NPA and then trying to convince 
+this Court that the NPA was an ‘illegal agreement.’” Epstein Remedies Br. at 52. Epstein never 
+one court to rule in their favor” based on the NPA — and, indeed, this Court in fact had an essentially 
+such example is that no such reliance on the NPA ever happened. For example, Jane Doe | and 2 
+compensatory and punitive damages far in excess of what the NPA provided. No reliance on the 
+NPA ever existed, much less the kind of improper behavior that would make a “mockery” of the 
+in relying on the NPA’s provisions, Epstein appeals vaguely to the notion that Jane Doe | and 2 
+“reaped for themselves the financial benefits of the NPA... .” Epstein’s Remedies Br. at 42. 
+from the NPA. The circumstances in which judicial estoppel would even potentially be in play 
+contends it would violate “principles of substantive due process” to rescind the NPA’s immunity 
+the NPA, a violation of the CVRA occurred.” 359 F.Supp.3d at 1221. In other words, the 
+misunderstanding,” the fact remains that the NPA continues to be “vitiated by illegality” and this Court 
+these cases should be limited to “facially” invalid agreement. Here this Court has held that the NPA 
+specific enforcement.” /d. at 959. Here, Epstein and the USAO-SDFL attempted to “fashion” an NPA 
+of the secret NPA would “violate the laws of this” country — i.e., the Crime Victims’ Rights Act. 
+punishment.” /d. at 515. Here, even if it could be argued that the NPA was “fair on its face,” the fact 
+would result from rescinding the NPA’s immunity provisions. Epstein chose to arrange for an 
+NPA. /d. But that fact has recently been called into doubt by the ruling denying Epstein bail in 
+These facts further undercut any claim by Epstein to being able to rely on the NPA. 
+position as Labor Secretary. But during his press conference on July 10 on the topic of the NPA, 
+a secret non-prosecution agreement — and then to have it put it in place without the victims having 
+including rescission of the NPA’s “immunity” provisions precluding prosecution of Epstein and 
+a) raise an issue, for the first time, about the binding nature of the NPA 
+somehow requires partial rescission of the NPA, despite that it is a criminal 
+entered into a secret non-prosecution agreement (NPA) regarding those crimes in violation of her 
+charges were never filed. DE 189. The Court explained that because the NPA barred 
+Epstein. The Government then concealed from Jane Doe #3 the existence of its NPA from Jane 
+Dershowitz would later play a significant role in negotiating the NPA on Epstein’s behalf. 
+conspirators of Epstein.” NPA at 5. Thus, Dershowitz helped negotiate an agreement with a 
+granted by the NPA for the crimes she committed in Florida. In addition to participating in the 
+The Government was well aware of Jane Doc #3 when it was negotiating the NPA, as it 
+listed her as a victim in the attachment to the NPA. Moreover, even a rudimentary investigation 
+Government secretly negotiated a non-prosecution agreement with Epstein precluding any 
+with Jane Doe #1, and Jane Doe #2, the Government concealed the non-prosecution agreement 
+raising powerful objections to the NPA that would have shed tremendous public light on Epstein 
+non-prosecution agreement barring prosecution of Epstein’s federal crimes against these victims. 
+request for rescission of the NPA “implicates a fact-sensitive equitable defense which must be 
+after the fact and presentation of the non-prosecution agreement to them as a fait accompli.” DE 
+arrangement and/or non-prosecution agreement, including efforts on his behalf by Prince 
+non-prosecution agreement, his performance was delayed while he used his significant social and 
+Tits Rnpart contains cniy he charactors of the da- 
+the Non-Prosecution Agreement in 2007. Please let me know if any of these names are unfamiliar to you or if you are 
+ATTEN a cassie cecenpacy esc ead ede ses sta eau dua Saves sine dein bas Nunn ada cous Weds kagunvesnnemabune 4 
+enter into a cooperation agreement, plea agreement, immunity or non-prosecution agreement. 
+e Maxwell moves to dismiss all counts based on a non-prosecution agreement between 
+L. Jeffrey Epstein’s non-prosecution agreement does not bar this prosecution 
+Epstein entered into a non-prosecution agreement (“NPA”) with the Office of the United States 
+Attorney for the Southern District of Florida. Dkt. No. 142 at 1-2. Epstein agreed in the NPA to 
+observed, the NPA was unusual in many respects, including its breadth, leniency, and secrecy. 
+U.S. Attorney’s negotiation and approval of the NPA did not amount to professional misconduct, 
+Only the NPA’s effect, and not its wisdom, is presently before the Court. Maxwell 
+contends that the NPA bars this prosecution, because she is charged as a co-conspirator of 
+Jeffrey Epstein and the NPA’s co-conspirator provision lacks any geographical or temporal 
+Circuit precedent, the NPA does not bind the U.S. Attorney for the Southern District of New 
+A. The non-prosecution agreement does not bind the U.S. Attorney for the 
+of New York. The question is whether the terms of the NPA did so. Applying Second Circuit 
+Maxwell asks this Court to draw the opposite conclusion. The provision of the NPA 
+Two provisions of the NPA refer specifically to prosecution in the Southern District of 
+geographical limitation. If anything, that language reflects that the NPA’s scope was expressly 
+Without an affirmative statement in the NPA’s text, Maxwell turns to its negotiation 
+history. Under Second Circuit precedent she may offer evidence that negotiations of the NPA 
+Attorney’s Office for the Southern District of Florida sought and obtained approval for the NPA 
+about the NPA’s negotiation history in the form of the OPR report and yet identifies no evidence 
+that the Department of Justice made any promises not contained in the NPA. The OPR report 
+reflects that the Office of the Deputy Attorney General reviewed the NPA, but only after it was 
+assistance but not for help negotiating the NPA. Dkt. No. 204-2. Nor would direct approval of 
+the NPA by the Office of the Deputy Attorney General change the meaning of its terms. No 
+evidence suggests anyone promised Epstein that the NPA would bar the prosecution of his co- 
+NPA’s text or negotiation history to disturb this presumption. The Court thus concludes that the 
+NPA does not bind the U.S. Attorney for the Southern District of New York. 
+B. The non-prosecution agreement does not cover the charged offenses 
+The NPA would provide Maxwell no defense to the charges in the S1 superseding 
+indictment even against an office bound to follow it. The NPA bars prosecution, following 
+(1) “the offenses set out on pages | and 2” of the NPA; namely, “any offenses that 
+Dkt. No. 142-1 at 2. The NPA makes clear that the covered charges are those relating to 
+Maxwell contends that the NPA’s co-conspirator provision lacks any limitation on the 
+conspired with Epstein in the offenses covered by the NPA for their involvement in those 
+The Court has no trouble concluding that the perjury counts are not covered by the NPA. 
+depositions in 2016, more than eight years after Epstein signed the NPA. Maxwell now 
+The Mann Act counts, too, fall comfortably outside the NPA’s scope. The S1 
+NPA. The NPA does not purport to immunize Epstein from liability for crimes committed 
+Maxwell’s protection is no broader. The Court thus concludes that the NPA does not cover the 
+an evidentiary hearing as to the parties’ intent in the NPA. The Court finds no basis to do so. 
+writing. This is no such case. The NPA’s terms are clear. Beyond the NPA itself, an extensive 
+For the same reason, the Court will not order the discovery on the NPA. In any case, it 
+the NPA. The Government shall confirm in writing within one week whether it views any 
+evidence supporting Maxwell’s interpretation of the NPA as material it is required to disclose, 
+non-prosecution agreement (Dkt. No. 141), to dismiss the Mann Act counts as barred by the 
+any evidence related to negotiation of the non-prosecution agreement to constitute Brady or Rule 
+the sum payable under the order remains unpaid in the territory of the requesting state or 
+THIS CASE MUST BE DECIDED ON THE AGREED PREMISE THAT THE NPA ONLY 
+(CVRA) — including rescission of the non-prosecution agreement. 
+Intervenor Epstein. The Government? and Epstein reached a secret non-prosecution agreement 
+(NPA) and then concealed that agreement until it was firmly in place — and the victims lost any 
+proposed rescission of the NPA’s “immunity” provisions, which have prevented victims from 
+should cause the Court to reverse course. The NPA’s immunity provisions were founded in 
+THIS CASE MUST BE DECIDED ON THE AGREED PREMISE THAT THE NPA 
+For many years, this case has been litigated on the premise that the NPA negotiated by 
+Southern District of Florida. Indeed, the NPA’s plain terms directly limit the agreement to “this 
+District.” See NPA at 2 (noting that the agreement was signed “on the authority of R. Alexander 
+In light of this plain language, the NPA has no application to prosecutors in other judicial 
+464 at 13 n.4 (“The NPA negotiated by attorneys in the Southern District of Florida obviously only 
+NPA at issue in this case does not have any nationwide reach. As Epstein’s “background” section 
+represented to the Justice Department during discussions about the NPA that “[t]his is a case about 
+at the time that the NPA was under consideration, this was not a case “present[ing] 
+prosecutors in the Southern District of New York. The NPA in this case has no connection to or 
+violation occurred and that rescission or re-opening of the non-prosecution agreement was one of 
+Epstein “to intervene with regard to any remedy issue concerning the non-prosecution 
+any remedy that involves the non-prosecution agreement. Epstein’s only 
+succeed in their petition to rescind the non-prosecution agreement, Epstein can 
+fashion a remedy that does not involve the non-prosecution agreement, if the district 
+the Non-Prosecution Agreement are Well-Supported and Unchallenged. 
+the Non-Prosecution Agreement. 
+findings that the Government decided “to conceal the existence of the NPA and mislead the victims 
+keeping the NPA secret from the victims and, indeed, had sought assurances to that effect.” Jd. at 
+Epstein’s main point appears to be not that this Court was wrong in finding that the NPA 
+obviously demonstrates that Epstein and his lawyers signed the NPA, which itself provided that 
+disclosure.” NPA at © 13 (emphasis added). This Court noted this provision as part of its factual 
+findings. 359 F.Supp.3d at 1208. The NPA’s plain language thus makes clear both that Epstein 
+knew the NPA was being concealed and, by requiring that notice go to him before disclosure, that 
+NPA on non-disclosure to victims of the intended resolution.” Epstein Remedies Br. at 31. To be 
+the NPA would be made public. DE 361 at 15. And, as the NPA was being executed, defense 
+you can to keep [the NPA] from becoming public.” 359 F.Supp.3d at 1207. 
+Moreover, even before the NPA was signed, uncontested documentary evidence shows that 
+press.” 359 F.Supp.3d at 1206. These documents pertain to events before the NPA was executed 
+on September 24, 2007, proving that Epstein’s defense attorneys sought to have the NPA 
+concealed in advance of its signing. Given that concealment of the NPA necessarily meant that 
+violation even before the NPA was executed. 
+in concealing the NPA before it was signed. The NPA was not actually consummated until months 
+Epstein were concealing the NPA. Moreover, it is unsurprising to find that the Justice Department 
+was telling victims that they had CVRA rights well before the NPA was ever signed. As this Court 
+basis for the Government’s decision to withhold information about the NPA from 
+requiring that a non-prosecution agreement be concealed from victims, much less permitting 
+Government’s decision to conceal the existence of the NPA and mislead the victims to believe that 
+After the NPA was signed, Epstein concedes that he was involved in the notifications to 
+be sent by the State Attorney and presumably would not mention the federal non-prosecution 
+admits. The affidavit only attempts to provide an explanation for failing to disclose the NPA’s 
+most significant feature of the non-prosecution agreement was being concealed from the victims 
+—i.e., the fact that the agreement would lead to Epstein’s non-prosecution. As a result, through its 
+of the NPA unless Epstein failed to comply with the terms. It was a material omission for the 
+Epstein also argues that the NPA is “a legal agreement.” Epstein Remedies Br. at 25. By 
+had conferred with Epstein’s victims. Accordingly, the NPA’s immunity provisions were not part 
+entitled to take advantage of the non-prosecution provisions, at least with respect to crimes against 
+for the NPA’s “total rescission.” Indeed, the victims have previously discussed this issue in 
+Presumably the reason that Epstein is not asking for total rescission of his NPA with the 
+sequence of events, Epstein has clearly waived any right to seek total rescission of the NPA. And 
+of the NPA’s immunity provisions is the only remedial option before the Court that comes close 
+language somehow restricts the Court from rescinding provisions in the NPA as a remedy in this 
+a right to confer regarding a non-prosecution agreement. To the contrary, as this Court has held, 
+confirms that a non-prosecution agreement can likewise be reopened. Moreover, in attempting to 
+right to be heard before or during the proceeding at issue.” An NPA can be drafted and signed 
+but not for an NPA. 
+Moreover, distinguishing between a non-prosecution agreement (negotiated outside of the 
+an “NPA entered into without notice has a more damaging impact on victims than a plea agreement 
+at least have an opportunity to provide input to a judge at sentencing. Once an NPA is entered into 
+victims received timely notice of any NPA. 18 U.S.C. § 3771(a)(9). In codifying this right, it 
+Jane Doe | began to learn that a secret, non-prosecution agreement might be in the works, they 
+Epstein had entered into the NPA long ago: 
+[i.e., that the NPA had been signed eight or nine months earlier]. 
+evidentiary record of the events surrounding the NPA and whether the victims were entitled to 
+proceedings, because disclosure of Epstein’s then-secret NPA was involved. /d. at 30. As noted 
+above, the NPA directly provided that, if the USAO-SDFL was going to disclose the agreement, 
+it was required to “provide notice to Epstein before making that disclosure.” NPA at p. 5 § 13. 
+NPA would be turned over to the victims. During the hearing, the USAO-SDFL put on the record 
+including potential invalidation of the NPA — be decided more rapidly. The Court made further 
+decisions about how best to proceed, including ordering disclosure of the secret NPA to the 
+'4 During the hearing, victims’ counsel speculated that rescission of the NPA might not be 
+even seen the entire NPA — and after the document’s release, counsel moved forward seeking 
+correspondence between Epstein and the Government regarding the NPA’s negotiation — 
+(among other things) invalidation of the NPA — he did not move to intervene in the case until 
+the NPA have not been resolved more quickly. Of course, it was Epstein himself who set in motion 
+all the events designed to keep the NPA concealed from the victims. If he had not persuaded the 
+surrounding the NPA could have been presented before he pled guilty in state court. Of course, it 
+was precisely to keep that court — and the victims — from learning about the NPA that Epstein 
+arranged to have the NPA shrouded in secrecy. Any passage of time in litigating these issues is 
+added). Accordingly, this Court’s remedial task is not to ensure that the NPA conforms to ill- 
+Victims’ Rights Act, 18 U.S.C. § 3771 —to uphold the NPA’s immunity provisions, which prevent 
+Epstein Remedies Br. at 45, and thus must “conform” to the intention of the parties to the NPA. 
+But, of course, the NPA was affirmatively concealed from the victims. It is precisely because the 
+NPA was clandestine that this Court must now rescind its immunity provisions. It was never the 
+payments that he has previously made to his victims under the NPA. Epstein Remedies Br. at 34- 
+NPA. Instead, they negotiated other financial terms without relying on the NPA. So, Epstein 
+victims who relied on the financial provisions of the NPA, the “partial” rescission remedy that 
+Jane Doe | and 2 seek would not call into question Epstein’s payments. The NPA’s financial 
+the NPA who could ask for total rescission of the agreement — and he has declined to do.'* Thus, 
+79 F.3d 1065, 1068 (1 1th Cir. 1996). In this case, with respect to the NPA’s immunity provisions, 
+On the other hand, with regard to the NPA’s financial provisions, there was a “valid, 
+(e.g., the NPA) would still exist, because something of value would exist for both sides. See 
+'7 It may also be the case that Epstein retains some “consideration” for his NPA, because 
+the statute of limitations may have now expired on some of the crimes covered by his NPA. The 
+serious crimes covered by the NPA — specifically, the sex trafficking charges — are not time barred, 
+Epstein also argues that “the NPA is not a divisible agreement.” Epstein Remedies Br. at 
+46. But the NPA provision he cites does not say that. Instead, it simply provides that each of the 
+NPA’s provisions is “material” to the agreement and is supported “by independent consideration.” 
+NPA at p. 6. If Epstein had wanted an “indivisible” NPA (whatever that may mean), he was free 
+to bargain for one. But nothing in the NPA’s language provides that it is “indivisible.” 
+In any event, Jane Doe | and 2 are not arguing that the NPA is some sort of “divisible” 
+agreement. Rather, their position is that the NPA’s immunity provisions are unenforceable and 
+Doe | and 2 to enforce immunity provisions in the NPA depriving them of congressionally 
+Finally, Epstein never specifically asks this Court to rule that the NPA is “indivisible” and 
+not to ask for the NPA to be declared totally invalid is obvious — he apparently intends to try to 
+use the NPA’s immunity provisions in the Southern District of New York.'* But the key point 
+illegally conceal an NPA in violation of crime victims’ rights and then, second, simply payoff 
+claims that Jane Doe | and 2 sought to enforce the terms of the NPA against him and, accordingly, 
+USAO-SDFL who, in the first instance, “stymied” the CVRA by illegally concealing their NPA. 
+NPA from minor sex abuse victims — has unclean hands for multiple and obvious reasons — and 
+1 and 2 did not “rely” on the NPA’s terms to establish a CVRA violation — in fact, they were 
+Epstein’s NPA in their civil lawsuits. Jane Doe | and 2 filed their civil lawsuits in about September 
+SDFL to disclose the previously secret NPA. The victims’ civil lawsuits briefly alleged that 
+based on the NPA. 
+was estopped from contesting liability to them by the NPA, then conceivably some of the 
+the victims from challenging the NPA. Epstein Remedies Br. at 41-42. Once again, his argument 
+able to fully contest liability is that the NPA created such a limited remedy for Epstein’s victims 
+judgment based on the NPA and instead looked forward to fully trying their cases. 
+The relevant provision in the NPA is paragraph 9, which provided that if a victim elected 
+victims, this cap meant that the NPA was essentially meaningless for many of the victims — 
+and thus had to proceed entirely apart from the NPA to obtain appropriate damages. The victims 
+thus never had “success” relying on the NPA’s provisions — but could only have success by 
+seeking damages under the NPA. Judicial estoppel is not applicable to this course of events. 
+court to rule in their favor based on the binding validity of the NPA and then trying to convince 
+this Court that the NPA was an ‘illegal agreement.’” Epstein Remedies Br. at 52. Epstein never 
+one court to rule in their favor” based on the NPA — and, indeed, this Court in fact had an essentially 
+such example is that no such reliance on the NPA ever happened. For example, Jane Doe | and 2 
+compensatory and punitive damages far in excess of what the NPA provided. No reliance on the 
+NPA ever existed, much less the kind of improper behavior that would make a “mockery” of the 
+in relying on the NPA’s provisions, Epstein appeals vaguely to the notion that Jane Doe | and 2 
+“reaped for themselves the financial benefits of the NPA... .” Epstein’s Remedies Br. at 42. 
+from the NPA. The circumstances in which judicial estoppel would even potentially be in play 
+contends it would violate “principles of substantive due process” to rescind the NPA’s immunity 
+the NPA, a violation of the CVRA occurred.” 359 F.Supp.3d at 1221. In other words, the 
+misunderstanding,” the fact remains that the NPA continues to be “vitiated by illegality” and this Court 
+these cases should be limited to “facially” invalid agreement. Here this Court has held that the NPA 
+specific enforcement.” /d. at 959. Here, Epstein and the USAO-SDFL attempted to “fashion” an NPA 
+of the secret NPA would “violate the laws of this” country — i.e., the Crime Victims’ Rights Act. 
+punishment.” /d. at 515. Here, even if it could be argued that the NPA was “fair on its face,” the fact 
+would result from rescinding the NPA’s immunity provisions. Epstein chose to arrange for an 
+NPA. /d. But that fact has recently been called into doubt by the ruling denying Epstein bail in 
+These facts further undercut any claim by Epstein to being able to rely on the NPA. 
+position as Labor Secretary. But during his press conference on July 10 on the topic of the NPA, 
+a secret non-prosecution agreement — and then to have it put it in place without the victims having 
+including rescission of the NPA’s “immunity” provisions precluding prosecution of Epstein and 
+defense of the nonpayment thereof, including reasonable attorney's fees and expenses, arising out of, 
+defense of the nonpayment thereof, including reasonable attorney's fees and expenses, arising out 
+defense of the nonpayment thereof, including reasonable attorney's fees and expenses, arising out of, 
+defense of the nonpayment thereof, including reasonable attorney's fees and expenses, arising out of, 
+defense of the nonpayment thereof, including reasonable attorney's fees and expenses, arising out of, 
+defense of the nonpayment thereof, including reasonable attorney's fees and expenses, arising out of, 
+If a party or nonparty provides information in connection with a lawsuit in reasonable reliance 
+Prosecution Agreement (“NPA”) signed by Jeffrey Epstein on September 24, 2007. 
+NPA, previously produced by the government on August 13, 2020. See, e.g., 
+conduct of Jeffrey Epstein by negotiating and executing a federal non-prosecution agreement 
+(NPA). The NPA was intended to end a federal investigation into allegations that Epstein engaged 
+professional misconduct by failing to consult with victims of Epstein’s crimes before the NPA was 
+federal investigation, which culminated in the signing of the NPA on September 24, 2007. The 
+NPA required Epstein to plead guilty in state court to the then-pending state indictment against 
+in violation of Florida Statute § 796.03. The NPA required Epstein to make a binding 
+by 12 months of community control (home detention or “house arrest”). The NPA also included 
+the NPA prior to its signing. 
+The signing of the NPA did not immediately lead to Epstein’s guilty plea and incarceration, 
+seeking to invalidate the entire NPA by persuading senior Department officials that there was no 
+defense counsel fought the government’s interpretation of the NPA’s terms. They also sought and 
+his obligation under the NPA, and on June 30, 2008, he appeared in state court and pled guilty to 
+the pending state indictment charging felony solicitation of prostitution and, pursuant to the NPA, 
+Upon the joint request of the defendant and the state prosecutor, and consistent with the NPA, the 
+Beach County facility. A copy of the NPA was filed under seal with the state court. 
+the petition, the government, represented by the USAO, revealed the existence of the NPA, but did 
+order; the NPA itself remained under seal in the federal district court. After the initial filings and 
+Epstein’s attorneys. Although the NPA specified a term of incarceration of 18 months, Epstein 
+for release of the copy of the NPA that had been filed under seal in the state court file, a state judge 
+NPA, which permitted Epstein to avoid federal prosecution and a potentially lengthy prison 
+concealed from Epstein’s victims the terms of the NPA. Through its reporting, which included 
+victims about its intention to enter into the NPA.° The court also found that letters the government 
+sent to victims after the NPA was signed, describing the investigation as ongoing, “mislead [sic] 
+engaging in “lengthy negotiations” with Epstein’s counsel and assuring the defense that the NPA 
+by the petitioners, and opposed by the government, was rescission of the NPA and federal 
+NPA. On July 10, 2019, Acosta held a televised press conference to defend his and the USAO’s 
+victims— including victims of the conduct in Florida that was addressed through the NPA—spoke 
+fact the NPA had been signed.” On April 14, 2020, a divided panel of the Court of Appeals denied 
+investigation of Epstein through the NPA.° 
+victims a reasonable right to confer with the government about the NPA before the agreement was 
+them was involved in the decision to resolve the case through the NPA or in the negotiations 
+investigation of Epstein, the drafting and execution of the NPA, and decisions relating to victim 
+when Epstein entered his guilty plea under the NPA, did not affect the subjects’ actions prior to 
+relating to the USAO’s investigation of Epstein, the NPA, and Epstein’s guilty plea. As a result, 
+the negotiation, execution, and implementation of the NPA. The second relates to the USAO’s 
+A. The Negotiation, Execution, and Implementation of the NPA 
+considered whether any of the NPA’s provisions violated a clear or unambiguous statute, 
+considered whether the NPA violated standards relating to (1) charging decisions, (2) declination 
+of criminal charges, (3) deferred or non-prosecution agreements, (4) plea agreements, (5) grants 
+and that the USAO had deceived the victims of Epstein’s crimes about the existence of the NPA. Pursuant to its 
+into the NPA, or to include in the NPA terms favorable to Epstein, because of an improper motive, 
+discusses in this Report significant events that occurred after the NPA was negotiated and signed 
+and timing of the government’s interactions with victims both before and after the NPA was 
+government’s lack of consultation with the victims before the NPA was signed, as well as the 
+victims about the status of the federal investigation after the NPA was signed. 
+to the NPA. Although Acosta did not sign the NPA, he participated in its drafting and approved 
+the NPA and accepted responsibility for it. Therefore, OPR considers Acosta to be responsible for 
+the NPA and for the actions of the other subjects who implemented his decisions. Acosta’s overall 
+A. Findings and Conclusions Relating to the NPA 
+approval of the NPA. Under OPR’s framework, professional misconduct requires a finding that a 
+Furthermore, none of the individual terms of the NPA violated Department or other applicable 
+of Epstein’s defense counsel in October 2007 led to the NPA, which had been signed weeks earlier, 
+through the NPA constitutes poor judgment. Although this decision was within the scope of 
+Acosta’s broad discretion and OPR does not find that it resulted from improper factors, the NPA 
+completed; and he agreed to several unusual and problematic terms in the NPA without the 
+the NPA. Furthermore, because Acosta assumed a significant role in reviewing and drafting the 
+NPA and the other three subjects who were supervisors left the USAO, were transitioning to other 
+and communication during the negotiations and before approving the final NPA. The NPA was a 
+NPA because the USAO resolved the Epstein investigation without a federal criminal 
+charge. Significantly, at the time the NPA was signed, the Department did not interpret CVRA 
+certain victims after the NPA was signed that described the case as “under investigation” and that 
+failed to inform them of the NPA. The letters were sent by an FBI administrative employee who 
+the terms of the NPA. However, the letters risked misleading the victims and contributed to victim 
+After the NPA was signed, Acosta elected to defer to the State Attorney the decision 
+OPR concludes that the decision to postpone notifying victims about the terms of the NPA 
+after it was signed and the omission of information about the NPA during victim interviews and 
+misimpression that the government had colluded with Epstein’s counsel to keep the NPA secret 
+investigation; the September 2007 negotiation and signing of the NPA; Epstein’s subsequent 
+efforts to invalidate the NPA through appeals to senior Department officials; Epstein’s June 2008 
+the terms of the NPA during his incarceration and until his term of home detention ended in July 
+relating to the decisions made regarding the development and execution of the NPA. OPR 
+and a non-prosecution agreement (a “NPA”) with the U.S. Attorney for the Southern District of 
+the Government to commit to the NPA without informing the victims. Epstein’s multiple 
+8. The NPA allowed Epstein to escape proportionate punishment for his actions and to 
+join a lawsuit challenging the validity of Epstein’s Non-Prosecution Agreement executed in 2007. 
+non-prosecution agreement is binding in this District, but that “[t]he trial court, just like the trial 
+the Op-Ed falsely suggested to potential jurors that this prosecution is barred by a non-prosecution 
+Epstein’s non-prosecution agreement. The Court again concludes, as it did in its April 
+Jeffrey Epstein’s non-prosecution agreement does not bar the charges in the S2 
+Court held that the non-prosecution agreement (“NPA”) between Jeffrey Epstein and the U.S. 
+the supplemental authority Maxwell cites change the Court’s conclusion that the NPA does not 
+Epstein’s NPA is not enough to overcome the presumption in favor of single-district plea 
+concluded (and continues to conclude) that the NPA does not bind the U.S. Attorney’s Office for 
+Circuit precedent in Annabi forecloses Maxwell’s arguments related to the NPA. In any event, 
+Cosby, that opinion sheds no light on the proper interpretation of the NPA in this case. 
+Second Circuit precedent, the NPA does not bind the U.S. Attorney for the Southern District of 
+agreed to nothing in Epstein’s NPA, because she was not a party to it. She suffered no criminal 
+accepts a non-prosecution agreement. This is the first case in which Maxwell will be put in 
+In 2008, when Epstein pleaded guilty to state charges, his non-prosecution 
+conspirators in Epstein’s non-prosecution agreement, the U.S. Attorney’s Office said 
+Last month, U.S. District Judge Kenneth Marra refused to scrap the non-prosecution 
+mishandling of the ridiculous 2008 non-prosecution agreement, and then the decision to bring 
+Breach of the Non-Prosecution Agreement 
+JsOW B ‘payeInpaun 
+-2duyp NOY ‘sJaA Jase> pure ‘ssoyeInpa 
+UO JEINpa UO JUaAaId 2 Nesse 
+Account to satisfy debit balances for any amounts due, including those resulting from unpaid 
+notice of nonpayment and further waive all other notices and formalities to which you may 
+Inmate Epstein denied any history of mental health treatment, either on an inpati tient basis. Inmate Epstein 
+Inmate Epstein denied any history of mental health treatment, either on an inpatient or outpatient basis. 
+history of mental health treatment, either on an inpatient or outpatient basis. Inmate Epstein denied any treatment in the 
+received inpatient or outpatient mental health treatment any history of suicidality. Currently, he does not 
+history of mental health treatment, either on an inpatient or outpatient basis. Inmate Epstein denied any 
+received inpatient or outpatient mental health treatment and denied any history of suicidality. Currently, he 
+In fall 2007, the defendant entered into a non-prosecution agreement with the SDFL in 
+connection with the conduct at issue in that investigation, which the non-prosecution agreement 
+' The non-prosecution agreement, further discussed below, was entered into at the conclusion of 
+prosecution agreement (“NPA”) with a different federal district pose any impediment to his 
+Moreover, with respect to the NPA, that agreement, to which the Southern District of New 
+similarly extends to a non-prosecution agreement. See United States v. Laskow, 688 F. Supp. 851, 
+to the contrary, it is presumed that a non-prosecution agreement binds offices of the United States 
+771 F.2d at 672). Second, the Indictment charges conduct not covered by the NPA, namely 
+conduct that occurred in New York. The prior NPA included a list of several dozen victims 
+into a cooperation agreement, plea agreement, immunity or non-prosecution agreement. The 
+Attachments: NPA_v3.docx 
+Checking in on the status for the motions. I’m attaching the NPA point draft, which can be folded in. Can folks let me know 
+respond. The Plaintiffs have included a copy of the NPA, [J depo and have made numerous factual allegations 
+from him. She did not know she was in the non-prosecution agreement. 
+Subject: NPA letter 
+Attachments: 2021-04-22 Gov't Letter Regarding NPA.docx 
+Subject: RE: NPA 
+Attachments: 2021-02-26 GM Government Opposition (NPA) (MC) (AR) (LP).docx 
+Subject: RE: NPA 
+Subject: RE: NPA 
+Subject: RE: NPA 
+Subject: NPA 
+Attached is the most recent draft of the NPA brief. Apologies for the delay, | really struggled with this one. | think our 
+settled a $47.9 million potential class action claim over unpaid overtime for 
+Expert Witness Sues Levi & Korsinsky For Unpaid Fees 
+Form 8582. A nonpassive activity with a prior year suspended 
+Schedule E. A nonpassive partnership activity has been entered 
+Schedule E. A nonpassive partnership activity has been entered 
+» Schedule E. A nonpassive partnership activity has been entered 
+figure it and send you a bill for any unpaid amount. If you want to 
+unpaid amount. If you want to figure it, you may use Part Ill or 
+a bill for any unpaid amount. If you want to figure your penalty, you may use Part Ill or IV as a worksheet and enter your penalty on your tax return, but file 
+Passive Income and Loss Nonpassive Income and Loss 
+(f) Passive loss allowed (g) Passive income (h) Nonpassive loss (i) Section 179 expense (j) Nonpassive income 
+Passive Income and Loss Nonpassive Income and Loss 
+[PartV [Summary * ENTIRE DISPOSITION OF NONPASSIVE ACTIVITY 
+NONPASSIVE K-1 Input Basis Loss Basis Limitation At-Risk Loss At-Risk Loss Loss Tax Return 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other ss 
+NONPASSIVE Basis Loss Basis Limitation At-Risk Loss At-Risk 
+NONPASSIVE K-1 Input Basis Loss Basis Limitation At-Risk Loss At-Risk Loss Loss Tax Return 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other . 
+NONPASSIVE 
+NONPASSIVE K-1 Input Basis Loss Basis Limitation At-Risk Loss At-Risk Loss Loss Tax Return 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other . 
+NONPASSIVE 
+NONPASSIVE K-1 Input Basis Loss Basis Limitation At-Risk Loss At-Risk Loss Loss Tax Return 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other . 
+NONPASSIVE 
+NONPASSIVE K-1 Input Basis Loss Basis Limitation At-Risk Loss At-Risk Loss Loss Tax Return 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other . 
+NONPASSIVE 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other ss 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other _ 
+amount on line 28. Otherwise, complete the appropriate line inPartlV _ 
+amount on line 28. Otherwise, complete the appropriate line inPartlV _ 
+amount on line 28. Otherwise, complete the appropriate line inPartlV Pe | 22 QO. 
+amount on line 28. Otherwise, complete the appropriate line inPartlV _ 
+column (c))  ..... wecnpasicncnedhvanpieeanass vasa teas sewediesacsssoabones sans 
+EMPLOYER AT IF PASSIVE PASSIVE NONPASSIVE SEC. 179 NONPASSIVE 
+* ENTIRE DISPOSITION OF NONPASSIVE ACTIVITY 
+column (c))  ..... wecnpasicncnedhvanpieeanass vasa teas sewediesacsssoabones sans 
+Passive Income and Loss Nonpassive Income and Loss 
+(f) Passive loss allowed (g) Passive income (h) Nonpassive loss (i) Section 179 expense (j) Nonpassive income 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other 
+NONPASSIVE Basis Loss Basis Limitation At-Risk Loss At-Risk Loss Loss Tax Re 
+Unreimbursed expenses (nonpassive) 
+Nonpassive other 
+NONPASSIVE Basis Loss Basis Limitation At-Risk Loss At-Risk Loss Loss Tax Return 
+Charitable Charitable Charitatie Other recapture lvesiment | Nonpassive | ee etc | Medical 
+amount on line 28. Otherwise, complete the appropriatedine inPartiV = s - b 4,419. 
+amount on line 28. Otherwise, complete the appropriateline inPartiV = «sg Pe |22 
+you will have to pay a penalty of 1/2 of 1% of the unpaid amount 
+for nonpayment. However, if an electronic payment is retumed 
+Subject: NPA 
+In their motion on the NPA, the defense cites to this privilege log that SDFL filed in a civil case to support their assertion 
+Subject: RE: NPA 
+Attachments: 2021-02-26 GM Government Opposition (NPA) (MC) (AR).docx 
+Subject: RE: NPA 
+Subject: RE: NPA 
+Subject: NPA 
+Attached is the most recent draft of the NPA brief. Apologies for the delay, | really struggled with this one. | think our 
+old sex crime case against Epstein when they signed a nonprosecution agreement with Epstein without notifying his 
+2020-01-10, JE, , nonprosecution_agreement,_draft.docx; 2020-01- 
+13, JE, -nonprosecution agreement, draft.docx; 2020-02- 
+14, JE, . nonprosecution_agreement, draft.docx; 2020-02- 
+interpretation of the NPA as material it is required to disclose, and, if so, whether it has disclosed any and all 
+Is it fair to say prosecutors saw the case not only as a way to bring Epstein to justice but as a rebuke to the NPA? 
+Subject: 2021-04-22 Gov't Letter Regarding NPA.v5.docx 
+Attachments: 2021-04-22 Gov't Letter Regarding NPA.v5.docx 
+Justice, or any other nonparty to this case, including but not limited to victims or their counsel 
+Fifth Request: The NPA, including but not limited to communications within the Department 
+have access to the NPA itself as well as any “communications . . . with counsel for Mr. Epstein” 
+Epstein counsel: “[T]here is a nonprosecution agreement with the United States Attorney's office that triggers as a result 
+prosecutor, has agreed to a nonprosecution agreement with you, meaning that if you successfully complete probation and 
+CLIN, e PAN, 0g LUD sdistasnossncsidceessnnparscibassriaassatnnebecentiaanndsieivas Ghintvisihinasiiveivetiatceaieadibas 10 
+| www.stuartnkaplanpa.com 
+BE | stuartnkaplanpa.com 
+Epstein counsel: “[T]here is a nonprosecution agreement with the United States Attorney's office that triggers as a result 
+prosecutor, has agreed to a nonprosecution agreement with you, meaning that if you successfully complete probation and 
+nonprosecution agreement with the United 
+i. nonprosecution agreement -- 
+12 has agreed to a nonprosecution agreement 
+into a cooperation agreement, plea agreement, immunity or non-prosecution agreement. The 
+instrument.” (DE 407 at § 17.) On September 10, 2007, multiple drafts of a non-prosecution 
+agreement (“NPA”) had been exchanged between Epstein’s counsel and the Office. (DE 407 at 4 
+counsel provided a proposed NPA to the Government that extended immunity from federal 
+On September 18, 2007, the Office responded: “A non-prosecution agreement would 
+give up their 2255 rights.... In the context of a non-prosecution agreement, the office may be more 
+September 24, 2007, and the NPA was being executed, Lefkowitz sent an email to the line 
+prosecutor stating: “{J— Please do whatever you can to keep this [i.e., the NPA] from becoming 
+Epstein and the Office accordingly entered into a NPA reflecting such an agreement. (DE 407 at 4 
+38.) The NPA provided that “the United States, in consultation with and subject to the good faith 
+paid for by Epstein.” The NPA also provided that if any of the victims elected to bring suit under 
+‘18 U.S.C. § 2255, they must agree to waive any other claim for damages. As part of the NPA, 
+to contest liability and damages. (NPA, DE 361-62.) 
+Among other provisions, the NPA expanded immunity to any “potential coconspirator™ 
+TE or BE EEE 407 at § 40.) The NPA also provided that: “The parties 
+the NPA was concluded—the Office never conferred with the victims about a NPA or told the 
+£44.) The Office did not consult or confer with any of the victims about the NPA before it was 
+Epstein’s counsel was aware that the Office was deliberately keeping the NPA secret from 
+ED (DE 407 2t 1.48.) After the NPA was 
+about the NPA. (DE 407 at € 49.) It was a deviation from the Government’s standard practice to 
+master for selecting an attorney representative for the victims under the NPA’s compensation 
+addendum to the NPA clarifying the procedures for the third-party representative for the victims 
+under the NPA’s compensation provisions. (DE 407 at § 64.) On October 25, 2007, AUSA 
+NPA’s compensation procedure. (DE 407 at 4 65.) 
+that the NPA had already been signed. (Jane Doe | Decl. § 5, DE 361-26.) Jane Doe 1's 
+terms of the NPA” (QJ Decl. § 8, DE 403-18.) After the meeting, Special Agent 
+HE became concerned about what would happen if Epstein breached the NPA, and thought 
+that if the victims were aware of the NPA, the provision about monetary damages could be grounds 
+about Epstein’s plea to state charges that was part of the NPA: 
+in the NPA, including that because Epstein’s plea of guilty to state charges was “part of the 
+are not limited to proceedings in a federal district court. Our Non-Prosecution 
+appropriately informed, and our Non-Prosecution Agreement does not require the 
+in the Southern District of Florida was the subject of the NPA entered into by Epstein and the Office, 
+a NPA with Epstein. (DE 407 at 4 97.) According to the declaration of Jane Doe 2, while she 
+trying to set aside the NPA and therefore the Government needed to be prepared for a 
+signed the NPA in September 2007. (DE 407 at € 98.) 
+existence of the NPA or any other possible resolution to the case. (DE 407 at 4 101.) 
+prosecutor did not inform Edwards about the NPA. (DE 407 at 4 102.) On June 19, 2008, Edwards 
+several calls regarding the Non-Prosecution Agreement. I do not know whether the title of the 
+attorney a copy of the NPA to be filed under seal. (July 1, 2008 email, DE 362-38.) 
+to the NPA when the Government filed its responsive pleading to Jane Doe’s emergency petition. 
+victims would be informed about the civil compensation provision of the NPA the next day: 
+In accordance with the terms of the Non-Prosecution Agreement, on June 30, 
+also objected to the victim notification letters containing certain information about the NPA. (DE 
+some of the civil compensation provisions of the NPA. The notification did not provide the full 
+terms of the NPA. 
+NPA. (DE 407 at § 136.) On August 14, 2008, the line prosecutor emailed Epstein's counsel 
+disclosure of the terms of the NPA, but that Epstein would “cooperate with the government to 
+Jane Doe 2 was not informed of the contents of the NPA until August 28, 2008, when the 
+NPA after learning that another attorney, established through the NPA, would be making 
+email to State Attorney Barry Krischer, explaining that the NPA “contain[{ed] a confidentiality 
+and signing the NPA; (2) when the Government sent letters telling Petitioners to be patient while 
+the NPA. Additionally, Petitioners contend the Government violated their rights to reasonable 
+and accurate notice when it concealed that the NPA and the federal investigation were implicated 
+‘is no right to notice or conferral about a NPA; it was reasonable for the Government to send 
+Government argues that Petitioners are equitably estopped from challenging the NPA because 
+they relied upon the NPA in their state court civil actions against Epstein. Lastly, the 
+NPA because they have asserted mutually inconsistent positions; namely, that the NPA is invalid 
+rescission or “reopening” of a prosecutorial agreement, including a non-prosecution agreement, 
+Here, it is undisputed that the Government entered into a NPA with Epstein without 
+entered into the NPA. Ata bare minimum, the CVRA required the Government to inform 
+binding effect of the NPA was contingent upon Epstein pleading guilty to the state charges, that 
+permanently tied if Epstein fulfilled his obligations under the NPA. Thus, Petitioners and the 
+action before it bound itself under the NPA. Had the Petitioners been informed about the 
+[non-prosecution agreement].” Id. Indeed, it is this type of communication between prosecutors 
+NPA and mislead the victims to believe that federal prosecution was still a possibility." When 
+spent untold hours negotiating the terms and implications of the NPA with Epstein’s attorneys, 
+conceal the existence of the NPA from the victims.° 
+having told Jane Doe | the “main terms” of the NPA (which is left undefined), the victims were 
+informed of a non-prosecution agreement. (Prior to this amendment, this Court held that the right 
+into the statute a negative implication that victims need not be informed of non-prosecution 
+* A NPA entered into without notice has a more damaging impact on the victims than a 
+Once a NPA is entered into without notice, the matter is closed and the victims have no 
+were seeking review of the NPA at higher levels within the Department of Justice. As indicated 
+previously, however, at this point, the Government had bound itself to the terms of the NPA 
+assurances that the NPA would not be “made public or filed with the Court.” (DE 407 at € 31.) 
+withhold information about the NPA from the victims. If that had been the case, the Government 
+intention to enter into the NPA, a violation of the CVRA occurred. 
+permitted it to enter into the NPA. The Government correctly notes that the CVRA provides that 
+Florida federal court to nullify the nonprosecution agreement with Epstein that the court has already deemed 
+violated the Crime Victims’ Rights Act when they signed the nonprosecution agreement with Epstein without 
+Among the remedies they seek are the nullification of the nonprosecution agreement and the reopening of the 
+or a deferred prosecution agreement, both of which are more common than a nonprosecution agreement. That 
+non-prosecution agreement (NPA). On February 21, 2019, this Court brought the initial phase of 
+explained, the undisputed evidence establishes that “the Government entered into a[n] NPA with 
+opening the non-prosecution agreement. See id. at 13-18.! 
+rescission or ‘re-opening’ of a prosecutorial agreement—including a non-prosecution 
+alluded in its discussions with Jane Doe | and 2 to the possibility that if, for example, the NPA 
+‘forfeited’ any right to seek specific performance of the non-prosecution agreement. . . . [H]e 
+has for specific performance of the non-prosecution agreement disappears.” DE 127 at 9 (citing 
+ask you to immediately rescind the provisions in the non-prosecution agreement 
+into a non-prosecution agreement with Epstein, in which your Office agreed not to 
+Id. at 7-10. This non-prosecution agreement was an illegal agreement, as your Office 
+Here, it is undisputed that the Government entered into a NPA 
+Government entered into the NPA. At a bare minimum, the CVRA 
+the NPA was contingent upon Epstein pleading guilty to the state charges, 
+obligations under the NPA. Thus, Petitioners and the other victims should 
+action before it bound itself under the NPA. Had the Petitioners been 
+Judge Marra also noted that your Office had “concealed” the NPA from the 
+existence of the NPA and mislead the victims to believe that federal 
+spent untold hours negotiating the terms and implications of the NPA 
+“reopening” of a prosecutorial agreement, including a non-prosecution agreement, 
+2 through “rescission or reopening” of Epstein’s non-prosecution agreement. We 
+the provisions in the non-prosecution agreement barring prosecution of Epstein and his 
+is available: rescinding the provisions in the non-prosecution agreement barring 
+prosecutorial agreement, including a non-prosecution agreement, reached in violation of a 
+declaring the provisions of the NPA barring Epstein’s prosecution to be invalid and that 
+victims prior to entering into a non-prosecution agreement, Petitioners’ counsel 
+Epstein to fulfill certain conditions in exchange for the non-prosecution 
+document/discovery requests related to the SDFL investigation and the NPA, in particular. Those conversations were 
+employee/assistant of Epstein’s, who was ostensibly covered by the Florida NPA, and whose name has come up with 
+to the genesis of the SDNY investigation given the issues that we have raised regarding the NPA. | am not by this email 
+11. Jeffrey Epstein Non-Prosecution Agreement 
+In fall 2007, the defendant entered into a non-prosecution agreement with the SDFL in 
+connection with the conduct at issue in that investigation, which the non-prosecution agreement 
+' The non-prosecution agreement, further discussed below, was entered into at the conclusion of 
+prosecution agreement (“NPA”) with a different federal district pose any impediment to his 
+Moreover, with respect to the NPA, that agreement, to which the Southern District of New 
+similarly extends to a non-prosecution agreement. See United States v. Laskow, 688 F. Supp. 851, 
+to the contrary, it is presumed that a non-prosecution agreement binds offices of the United States 
+771 F.2d at 672). Second, the Indictment charges conduct not covered by the NPA, namely 
+conduct that occurred in New York. As noted above, the prior NPA includes a list of several dozen 
+We are in the process of investigating Jeffrey Epstein, the billionaire who previously was granted a non-prosecution 
+into a cooperation agreement, plea agreement, immunity or non-prosecution agreement. The 
+Checking in on the status for the motions. I’m attaching the NPA point draft, which can be folded in. Can folks let me 
+individual named as a possible co-conspirator in the NPA and also identified as one of the 
+A. The Non-Prosecution Agreement Does Not Preclude Prosecution 
+the scope of the NPA — that is, alleged conduct that occurred here in New York and involving New 
+challenge to the NPA, he would still have to stand trial on Count Two of the Indictment and 
+of New York—or anywhere else outside the SDFL—are manifold. The language of the NPA 
+In its terms section, the NPA further states that Epstein’s signature “is not to be construed 
+to any victim whose identity was not disclosed by SDFL to Epstein, as provided for in the NPA, 
+substantive paragraph of the NPA states that “Epstein hereby requests that the United States 
+7 All emphases relating to the NPA are added unless otherwise specified. 
+curiam)). Moreover, any references in an NPA to the “Government” or the “United States” do not 
+* This analysis similarly extends to a non-prosecution agreement. See United States v. Laskow, 
+an explicit statement to the contrary, it is presumed that a non-prosecution agreement binds offices 
+FOR BREACH OF THE NON-PROSECUTION AGREEMENT 
+L. The NPA Applies to Ms. Maxwell, and She Has Standing to Enforce It. 0.0.00. 2 
+Tae RAEI co Catala Ao MD Nacsa es scannn dards viidincaciuan apa ania stu ctaasesiaseanaasinnigintcamsabannpaeateabins 17 
+Dismiss the Superseding Indictment for Breach of the Non-Prosecution Agreement (“Motion”). 
+Non-Prosecution Agreement (“NPA”) with Jeffrey Epstein that does not exist in the text, and 
+language of the NPA states, without limitation, that “the United States . . . will not institute any 
+Indictment (“Indictment”) contends that Ms. Maxwell was a co-conspirator of Epstein, the NPA, 
+opposition, is that the NPA means something other than what it says. 
+In suggesting that the parties to the NPA intended to immunize only the four individuals 
+NPA to be read more narrowly than the language provides, arguing that following the NPA’s 
+plain language would contradict “common sense.” (Opp.' 8, 16.) But a non-prosecution 
+strains “common sense” is the notion that any reasonable prosecutor who intended the NPA to be 
+globally” his criminal liability. NPA at 2. The Court should therefore decline the government’s 
+invitation to rewrite the NPA to its liking, should enforce the NPA as written, and should grant 
+Maxwell contends that the NPA unambiguously bars her prosecution here, and that neither 
+arguments regarding the NPA parties’ intent simply cannot be credited without the consideration 
+of evidence. Because Ms. Maxwell, as a nonparty, has no personal knowledge regarding the 
+lL. The NPA Applies to Ms. Maxwell, and She Has Standing to Enforce It. 
+The NPA’s co-conspirator immunity provision forecloses “any criminal charges against 
+NPA at 5 (emphasis added). The phrase “potential co-conspirators of Epstein” obviously 
+conspirator of Epstein is somehow insufficient for an NPA that immunizes “potential co- 
+Ms. Maxwell thus need not show that the parties to the NPA were thinking of her “in 
+NPA intended to benefit. See, e.g., Florida West, 853 F. Supp. 2d at 1228 (“the signatory parties 
+that could include the Defendants”). And that class is clear from the face of the NPA: “any 
+with Epstein’s conduct. NPA at 5. 
+Although the NPA expressly provides that that class is “including but not limited to” the 
+four individuals named in the co-conspirator immunity provision (NPA at 5), the government 
+line prosecutor who negotiated the NPA “believed” that only the four individuals expressly 
+to” the four named individuals, the government explicitly agreed that the NPA would apply to 
+the provision that appears in the signed NPA, it obviously acceded to defense’s counsel’s desire 
+escaped its attention at the time of the NPA is demonstrably incorrect. The government’s own 
+investigation that led to the NPA. (See Ex. A). Thus, the government was clearly aware of Ms. 
+Maxwell at the time it executed the NPA and agreed to extend the immunity provision to “any 
+potential co-conspirators.” She is covered by the NPA. 
+As a third party immunized by the NPA, Ms. Maxwell has third-party beneficiary status 
+Epstein cannot obtain relief for the government’s breach of the NPA; not only is he deceased, but 
+dollars to accusers under the NPA’s claims provision, and thus would have had no occasion to 
+enforce the NPA by withdrawing his guilty plea. Nor is it clear that Epstein could have 
+withdrawn his plea had the NPA been breached while he was serving his sentence, given that the 
+NPA—unlike a plea agreement—was not submitted to the state court in which Epstein entered 
+Ms. Maxwell demonstrated in her opening brief that the NPA, read as a whole, creates an 
+arguing that the NPA’s selective use of language limiting the scope of Epstein’s immunity 
+applies to the entire NPA, the government inverts fundamental principles of contract law and 
+asks the Court to read nonexistent limitations into the NPA. The government then, incredibly, 
+proceeds to fault Ms. Maxwell—a nonparty to the NPA—for failing to possess and produce 
+evidence regarding the parties’ intent in negotiating the agreement. While the text of the NPA, 
+demonstrated that the NPA, as a whole, gives rise to such an appearance—and the government 
+Unlike Annabi and its progeny, the NPA here contains significant evidence of the parties’ 
+District,” NPA at 2, the co-conspirator immunity provision contains no such limitation. 
+F.3d at 1156-57. Here, the NPA contains only two immunity provisions: one for Epstein, which 
+NPA that the parties intended to apply the co-conspirator immunity provision outside the SDFL: 
+where a provision in the NPA is intended to refer only to the USAO-SDPL, it does so explicitly. 
+See Mem. at 8-9 (citing examples of NPA’s explicit references to USAO-SDFL). While the 
+districts, the NPA’s references to both the USAO-SDFL and “the United States” require an 
+* The government incorrectly cites to a brief filed by the USAO-SDFL in 2013 as taking the position that “the NPA 
+(S.D. Fla.)). But the cited passage in that brief argued only that the NPA did not bar the prosecution of Epstein in 
+conspirators. In any event, any self-serving attempts by the USAO-SDFL to limit the NPA’s applicability years 
+after it was executed—after the NPA had been widely criticized and scrutinized—are no more probative of the 
+elsewhere in the NPA, and provided that “the United States Attorney's Office . . . will not 
+tools to limit other provisions of the NPA, yet failed to use either of them in the co-conspirator 
+different language in the different provisions of the NPA removes any potential ambiguity from 
+that the NPA is binding outside the SDFL, any ambiguity as to whether such an appearance 
+prosecution of a third party—and in fact, Epstein did not agree to the NPA until the co- 
+efforts. This outcome is consistent with the language of the NPA. 
+The text of the NPA, read as a whole, thus creates an affirmative appearance that the co- 
+the SDFL investigation (Opp. 10), Ms. Maxwell, as a nonparty to the NPA, has no access to such 
+evidence—which, as noted above, is unnecessary given the unambiguous text of the NPA— 
+to the investigation and negotiation leading up to the NPA, while simultaneously opposing her 
+the time period or the offenses charged in the Indictment consists of (i) asserting that the NPA 
+Maxwell, that the NPA gives Ms. Maxwell carte blanche immunity from federal prosecution for 
+First, the government’s assertion that “the NPA contains detailed provisions that limit the 
+scope of the crimes immunized in the agreement” is simply not true. See Opp. 15. The NPA 
+* To be clear, Ms. Maxwell does not assert that the NPA forecloses the perjury counts of the Indictment, which arise 
+out of alleged post-NPA conduct. 
+As to Epstein, the NPA prescribes immunity for three categories of offenses: (i) “the 
+arose from the Federal Grand Jury investigation.” NPA at 2. The government’s assertion that 
+the NPA bars prosecution only for “the specific offenses enumerated in the NPA” (Opp. 15-16) 
+significant because, contrary to the government’s argument, the NPA does not purport to “list[] 
+investigation involved offenses “including” those enumerated. NPA at 1. Moreover, the NPA 
+unknown, as the NPA neither defines the term “Federal Grand Jury investigation” nor describes 
+its scope. But the text of the NPA provides no basis for the government’s assertion that Epstein 
+NPA were strictly limited to the 2001-07 time period and to the specific offenses enumerated, as 
+* Contrary to the government's argument, Ms. Maxwell does not contend that the NPA “immunize[d] Epstein for his 
+the joint investigation—an investigation that, according to the NPA, included Epstein’s background. NPA at 1. To 
+underlying the charges against Ms. Maxwell here), the plain language of the NPA immunized Epstein from 
+text of an immunity provision in a non-prosecution agreement. 
+reductio ad absurdum argument that unless the Court writes into the NPA the language the 
+interpretation of the NPA leads to no such conclusion. Ms. Maxwell contends only that a 
+Attorney for this District has characterized as a “prequel” to offenses by Epstein that the NPA 
+government’s interests here, is the “common-sense way to read the NPA” that the Court should 
+of the NPA and should be dismissed. The text of the NPA, read as a whole, unambiguously bars 
+have meant to write various provisions of the NPA differently than they actually did. These 
+example, to the extent that the scope of offenses for which the NPA immunized Epstein is 
+cannot be resolved in the government’s favor on this record, and the plain language of the NPA 
+submitted the NPA itself, which, on its face, bars her prosecution. See Feldman, 939 F.3d at 
+(same). Ms. Maxwell’s contention that the plain language of the NPA reflects the parties’ intent 
+evidence that we anticipate would confirm that the parties intended the NPA to mean exactly 
+"’ In addition, unlike the defendants in the cases the government cites, Ms. Maxwell was a nonparty to the NPA, and 
+Lefkowitz, the attorney who was principally involved in negotiating the language of the NPA on Epstein’s behalf. 
+evidentiary hearing regarding the parties’ intent in negotiating the NPA. 
+De ET KB eae CAO F sreccas aes rndassadunvapuisschiasisdesnkadanpaiaivasbintaveetuitakatpaantadesisvatiishcientdaheeqnaGiaasats 8 
+Breach of the Non-Prosecution Agreement 
+PES SRT g HO CR MAUI chaos ei sauensey cxuonpaxancvunssasassnncdusasevsccesssvesussiuvcasasvnguansavuyeistancshassuneveateieseaes 8 
+In fall 2007, the defendant entered into a non-prosecution agreement with the SDFL in 
+connection with the conduct at issue in that investigation, which the non-prosecution agreement 
+' The non-prosecution agreement, further discussed below, was entered into at the conclusion of 
+prosecution agreement (“NPA”) with a different federal district pose any impediment to his 
+Moreover, with respect to the NPA, that agreement, to which the Southern District of New 
+similarly extends to a non-prosecution agreement. See United States v. Laskow, 688 F. Supp. 851, 
+to the contrary, it is presumed that a non-prosecution agreement binds offices of the United States 
+771 F.2d at 672). Second, the Indictment charges conduct not covered by the NPA, namely 
+conduct that occurred in New York. The prior NPA included a list of several dozen victims 
+Elkins vy. Cireited States, S64 U.S, 206 C1 9GD i sisnsccicsanacivendsasccentsssanavesnsacnsnidesuannctcnpanstesnyenvessadavsens 20 
+As you know, she is not mentioned in the NPA and, according the lawyer at OPR who is running the NPA investigation, 
+0 Fed foece and effect uned Mangan shall neeivr written quince te the comtaey five the Ubnpanec uma, 
+Would you please also add an Issue Designation tag entitled “Relevant to NPA” to the preexisting Issue Designation tags? 
+Would you please also add an Issue Designation tag entitled “Relevant to NPA” to the preexisting Issue Designation tags? 
+entered into a non-prosecution agreement without notifying them. (See pp. 25, et seq.) 
+establishing venue, the South Florida NPA, statute of limitations issues and the general DOJ tradition of not second- 
+me about the NPA etc. 
+e Maxwell moves to dismiss all counts based on a non-prosecution agreement between 
+L Jeffrey Epstein’s non-prosecution agreement does not bar this prosecution 
+Epstein entered into a non-prosecution agreement (“NPA”) with the Office of the United States 
+Attorney for the Southern District of Florida. Dkt. No. 142 at 1-2. Epstein agreed in the NPA to 
+observed, the NPA was unusual in many respects, including its breadth, leniency, and secrecy. 
+U.S. Attorney’s negotiation and approval of the NPA did not amount to professional misconduct, 
+Only the NPA’s effect, and not its wisdom, is presently before the Court. Maxwell 
+contends that the NPA bars this prosecution, because she is charged as a co-conspirator of 
+Jeffrey Epstein and the NPA’s co-conspirator provision lacks any geographical or temporal 
+Circuit precedent, the NPA does not bind the U.S. Attorney for the Southern District of New 
+A. The non-prosecution agreement does not bind the U.S. Attorney for the 
+of New York. The question is whether the terms of the NPA did so. Applying Second Circuit 
+Maxwell asks this Court to draw the opposite conclusion. The provision of the NPA 
+Two provisions of the NPA refer specifically to prosecution in the Southern District of 
+geographical limitation. If anything, that language reflects that the NPA’s scope was expressly 
+Without an affirmative statement in the NPA’s text, Maxwell turns to its negotiation 
+history. Under Second Circuit precedent she may offer evidence that negotiations of the NPA 
+Attorney’s Office for the Southern District of Florida sought and obtained approval for the NPA 
+about the NPA’s negotiation history in the form of the OPR report and yet identifies no evidence 
+that the Department of Justice made any promises not contained in the NPA. The OPR report 
+reflects that the Office of the Deputy Attorney General reviewed the NPA, but only after it was 
+assistance but not for help negotiating the NPA. Dkt. No. 204-2. Nor would direct approval of 
+the NPA by the Office of the Deputy Attorney General change the meaning of its terms. No 
+evidence suggests anyone promised Epstein that the NPA would bar the prosecution of his co- 
+NPA’s text or negotiation history to disturb this presumption. The Court thus concludes that the 
+NPA does not bind the U.S. Attorney for the Southern District of New York. 
+B. The non-prosecution agreement does not cover the charged offenses 
+The NPA would provide Maxwell no defense to the charges in the S1 superseding 
+indictment even against an office bound to follow it. The NPA bars prosecution, following 
+(1) “the offenses set out on pages | and 2” of the NPA; namely, “any offenses that 
+Dkt. No. 142-1 at 2. The NPA makes clear that the covered charges are those relating to 
+Maxwell contends that the NPA’s co-conspirator provision lacks any limitation on the 
+conspired with Epstein in the offenses covered by the NPA for their involvement in those 
+The Court has no trouble concluding that the perjury counts are not covered by the NPA. 
+depositions in 2016, more than eight years after Epstein signed the NPA. Maxwell now 
+The Mann Act counts, too, fall comfortably outside the NPA’s scope. The S1 
+NPA. The NPA does not purport to immunize Epstein from liability for crimes committed 
+Maxwell’s protection is no broader. The Court thus concludes that the NPA does not cover the 
+an evidentiary hearing as to the parties’ intent in the NPA. The Court finds no basis to do so. 
+writing. This is no such case. The NPA’s terms are clear. Beyond the NPA itself, an extensive 
+For the same reason, the Court will not order the discovery on the NPA. In any case, it 
+the NPA. The Government shall confirm in writing within one week whether it views any 
+evidence supporting Maxwell’s interpretation of the NPA as material it is required to disclose, 
+non-prosecution agreement (Dkt. No. 141), to dismiss the Mann Act counts as barred by the 
+any evidence related to negotiation of the non-prosecution agreement to constitute Brady or Rule 
+Ex. E A. Farmer Release (Redacted).pdf; Ex. F Epstein NPA.pdf 
+relating to her motion to dismiss the Indictment based on the NPA or her motion to suppress 
+As you know, she is not mentioned in the NPA and, according the lawyer at OPR who is running the NPA 
+old sex crime case against Epstein when they signed a nonprosecution agreement with Epstein without notifying his 
+had just one meeting on the Epstein case. He’d cut the non-prosecution deal with 
+Subject: Gov't Says Epstein Victims Can't Scrap Nonprosecution Deal - Law360 
+ov't Says Epstein Victims Can't Scrap Nonprosecution Deal 
+challenge the nonprosecution agreement, does not 
+nonprosecution agreement with Epstein without 
+epstein-victims-can-t-scrap-nonprosecution-deal 
+committed itself to the terms of the [nonprosecution 
+subsequently invoked the NPA to enter into civil 
+which are more common than a nonprosecution 
+document/discovery requests related to the SDFL investigation and the NPA, in particular. Those conversations were 
+U.S. District Judge Kenneth Marra ruled in February that Epstein’s non-prosecution agreement 
+to leave Epstein’s non-prosecution agreement in place. 
+Relating to the Non-Prosecution Agreement (“NPA”) Signed by Epstein on September 24, 
+of New York is a party or signatory to the NPA, nor is the defendant or this Office named therein. 
+Additionally, attached are the non-prosecution agreement, previously publicly filed in civil proceedings in Florida, and a 
+In fall 2007, the defendant entered into a non-prosecution agreement with the SDFL in 
+connection with the conduct at issue in that investigation, which the non-prosecution agreement 
+' The non-prosecution agreement, further discussed below, was entered into at the conclusion of 
+prosecution agreement (“NPA”) with a different federal district pose any impediment to his 
+Moreover, with respect to the NPA, that agreement, to which the Southern District of New 
+similarly extends to a non-prosecution agreement. See United States v. Laskow, 688 F. Supp. 851, 
+to the contrary, it is presumed that a non-prosecution agreement binds offices of the United States 
+771 F.2d at 672). Second, the Indictment charges conduct not covered by the NPA, namely 
+conduct that occurred in New York. The prior NPA included a list of several dozen victims 
+GB - Attached is a copy of the memo we sent down about five weeks ago along with the NPA from the Florida 
+persuasively argued that the Non-Prosecution Agreement entered into by Jeffrey Epstein in 
+HS — We understand you've been overseeing and handling OPR’s review of the 2008 Non-prosecution 
+health treatment, either on an inpatient or outpatient basis. Inmate Epstein denied any treatment in the past or present 
+heat treatment, either on an inpatient or outpatient basis. Inmate Epstein denied any treatment in the 
+Inmate Epstein denied any history of mental health treatment, either on an inpati tient basis. Inmate Epstein 
+Inmate Epstein denied any history of mental health treatment, either on an inpatient or outpatient basis. Inmate Epstein 
+history of mental health treatment, either on an inpatient or outpatient basis. Inmate Epstein denied any treatment in the 
+received inpatient or outpatient mental health treatment dd ¢ 
+history of mental health treatment, either on an inpatient or outpatient basis. Inmate Epstein denied any treatment in the 
+received inpatient or outpatient mental health treatment and denied any history of suicidality. Currently, he does not 
+in order to announce the results of OPR’s investigation into SDFl’s non-prosecution agreement with Epstein. 
+nonprosecution agreement with the United 
+nonprosecution agreement -- 
+has agreed toa nonprosecution agreement 
+and there are plenty of legal revelations to unpack. So we'll do just that on 
+New Clifford Chance Program Offers 2-Month Unpaid Leave 
+two months of unpaid leave under a new framework at the firm meant to 
+nominee Brett Kavanaugh. On this week's Pro Say podcast, we unpack the 
+terms and implications of the NPA with Epstein's 
+which are more common than a non-prosecution 
+remedy is the invalidation of the non-prosecution 
+somehow unpatriotic. 
+Telecom Co. Hit With $4.2M Judgment In Unpaid Loan Action 
+more uncertain than ever, the leading nonpartisan British fiscal think tank 
+Morgan Lewis Sues Pierce Bainbridge For $436K Unpaid Rent 
+AU.S. magistrate judge assigned to Roger Stone's $2 million unpaid tax suit 
+non-prosecution agreements, promises and benefits to witnesses, threatened charges against 
+agreement to unfreeze certain assets to cover millions in unpaid legal bills 
+Team — Attached is a draft of OPR’s report on the Epstein NPA. OPR is asking us to review and provide feedback, if any, 
+health treatment, either on an inpatient or outpatient basis. Inmate Epstein denied any treatment in the past or present 
+inpatient psychiatric facility such as a Federal Medical Center. 
+inpatient psychiatric facility such as a Federal Medical Center. 
+inpatient psychiatric facility such as a Federal Medical Center. 
+health treatment, either on an inpatient or outpatient basis. Inmate Epstein denied any treatment in the past or present 
+inpatient psychiatric facility such as a Federal Medical Center. 
+his/her housing assignment or transferred to an inpatient psychiatric facility such as a Federal Medical Center. 
+his/her housing assignment or transferred to an inpatient psychiatric facility such as a Federal Medical Center. 
+his/her housing assignment or transferred to an inpatient psychiatric facility such as a Federal Medical Center. 
+his/her housing assignment or transferred to an inpatient psychiatric facility such as a Federal Medical Center. 
+his/her housing assignment or transferred to an inpatient psychiatric facility such as a Federal Medical Center. 
+his/her housing assignment or transferred to an inpatient psychiatric facility such as a Federal Medical Center. 
+his/her housing assignment or transferred to an inpatient psychiatric facility such as a Federal Medical Center. 
+his/her housing assignment or transferred to an inpatient psychiatric facility such as a Federal Medical Center. 
+admission for inpatient care, emergencies, and specialty care. Outside contractors are also 
+"SdO 36 edkL ge $d Jo “Suii "pile ied PainpaIdS *Z 
+‘je41Npaccid 40 SAjUeYsqNs ‘j1yeUEq JO YH Aue a}ea49 “JOU SBOP pue ‘0} PapuajUI jou S| Anyod sius 
+residence; and detailed analysis of various phone and flight records. Epstein was offered a non-prosecution 
+agreement by the Southern District of Florida. The terms of the 2007 non-prosecution agreement required 
+Southern District of Florida, Epstein was offered a non-prosecution agreement which required Epstein to 
+e This non-prosecution agreement garnered significant media attention as Alex Acosta is currently serving 
+Jans oo cud npan SaaaNp ease MONMAS SS LKSOCMAED Cee 
+YZBpZzV6VHkyZWxBSEZBQ2swMEUwaE LwVm9BQOtEZ2 LUSEIGTKNpazJBcWpBe LNnQTBtTThVWxdh - 
+Z1VUVVVNVEZZbHVs TnpoZOt j CHh4VFFNdFFnSE5uakZONTcwNXNpanFNMHhpRThVQTAWNXpTc LFN- 
+SGxpULFRaGNpaFdCcEVYUFdqSVUObOdQVmdUODFGbkdqNmtobCs 1bW1sUVNDRFUVbEFCVzZVbUS5) - 
+cnBBc2FQWVkvaUFyRCt6RDdRWDZGYT FvNXdpRLNPMVVuS LoyeHdLSVNPaXRUOTAxSkoOL3NDewJo - 
+cVLOeGLxU09LVTJ5dwlmdUdCclBtekdldkZhdVFBd3JJdjVBSENpaG9 1bHVVSm4vZTQ3VmkzRnVY - 
+TTLxcE5KakNZNj FkdDJDSmpGWVNPaURMY 0JDCc2MxYOhKeU9sVTQwenpWcU1FSEZaTTZJawt rdG5G - 
+NHLATG1seGw3enp6MHpYUXNRN2NWa 1dLROtNRHZXckYwe LAMVTNPaUMwSHFQTDVGWDRwT j BLQ2Fw- 
+prosecution agreement (NPA) in 2007, and into judicial criticism of the government for failing to 
+consult with the victims of Epstein’s crimes before the NPA was signed and by misleading them 
+regarding the status of the federal investigation after the NPA was signed. 
+Unpacking, unstuffing, and letting it all out is part of the grieving process. It is especially important 
+bit.ly/oceanpassport 
+```
+
+---
+
+*Full extract: `09-LEGAL-PROCESS/extract-non-prosecution-raw.txt`*

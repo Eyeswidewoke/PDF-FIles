@@ -1,0 +1,522 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p019_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 828
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.898581
+---
+
+Xcingular 
+Aur wit
+~Gub% Number 
+Acan* aN
+ne 
+Date ol Involce7 
+January 12. 2005 
+Paga 16 01 22 
+DE MIL OF CURRENT ACTIVITY - CONTINUE» 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+/0.C1 IJSAGC FO~ 
+CAIMiRKKI
+~br 
+04422 
+Ckami 
+ka OSM Fint• GSM 
+O4114 Se 
+Usa MM DeScripllon 
+.110,;
+0 4
+./
+/M 
+201 O1.14F 
+MYM 
+w p 
+, „. 
+2.1310;1751
+1090e 
+Silf; 
+1 0910 
+10011P 
+9 
+z! 
+i 
+i 
+.111. 
+Ml 09120 
+Mln 
+MI MM 
+24310444411
+291 94454 
+1.01 01440 
+pi' sw 
+O7119 
+VII 01950 
+I 01150 
+1O131P 
+1 pA 1P 
+20101110 
+1O1
+LO194 
+21
+2/7 04101
+ao1 l 10014 
+I 10110 
+1 
+11 
+11 
+7110 
+i 1 /OM 
+715 0101 i
+a 
+Ile 01.111 I r M 
+/11 001 1 AIA 
+Sì21;ìltZ 
+720 001 1055A 
+724 
+EmE" 
+us 010101;44A 
+n? 0101 
+nt owi rui 
+4512P0i:F 
+730 0101 01. 16 
+n 
+1.1 
+415 
+416 
+00 E 
+w 
+E 
+r11 
+491 
+691 
+401 
+t
+601 
+/P7
+003 
+970 
+101 
+.102 
+701 
+7O4 
+11M1 
+111111 
+va:40
+00~0MM RFL 
+52214«/IFL 
+MM= 
+1S 
+1/4O.UOEO1/114.1TFS 
+ta.
+UNLest
+laiwn
+l.14170140m14049
+3,
+22Mre 
+d= 
+EVT 
+2.9,954414 W TRILVAL 
+114O.O1114O 
+101 
+14/11u0141010.11eS 
+112OO11111O 
+L1111 
+P 24O1)O41)1914.17ES 
+N 
+UNLAINC101 TO 140114 
+SO 
+FL 
+al 
+42O11OED1414 / TYS 
+Mi 
+UNOM 10211. IO MOK 
+=UM 
+t:
+UN ER 
+TEl
+IM 
+INC.4.1.91O1.OO1£ 5 
+km 
+007202MANOLL 
+Ol 
+2UE811!291 
+TH IL 
+1M14 
+MIM 0004 i u NO« 
+WPAMR44/214 FL 
+1MN 
+114O.1.15CO 0•29104 
+MN
+ oCnit TO Lim 
+MOI /11270 TO 1/004. 
+i Lim 
+UN UM ~t 
+Tę /004 
+len 
+LESSAGE 12O1OVAL 
+11111 
+r nCtUD411 PANSTS 
+MN 
+inC4.1.00714247TES 
+41. 
+MM 
+41O.1.1OF)141O11$ 
+111111 
+UW11140014 TO NOK 
+MIM 
+MW 
+14O 
+MM $ 
+MN 
+1111O12i 9141Oa5 
+111111 
+ihe9 
+JAN/ 
+S 
+l'A. 
+1114 
+WWW% war 
+FL 
+MIN 
+MULMEO UMK 
+Si 
+1411 
+0412141w W/01 
+1141 
+FL 
+11411 
+umuuntommous 
+FL 
+1LM 
+UNUMTED NUMĄ 1.144 
+FL 
+21M4 
+UNUMT W élM1N40 tal 
+YN 
+=OSACH FL 
+i iis 
+U 
+W/01101M 
+EACI4 FL 
+,9.,..EVA 
+L 
+USUW 
+M/OO um 
+0011414 
+NUMO MN 
+Fl 
+n 
+004 R 
+1= 
+Fa 
+I 
+m O 
+Ft 
+MN 
+BOVNTO. a ti. 
+MN 
+ILIN 
+114/1 
+mx 
+al wai
+gRU9, 
+WPALIMEACH Ft 
+15O1117O41:O1 FL 
+1111AUMTCH Ft 
+1/91AL/m4004 EL 
+OO1/ 211131.OO1n. 
+7,4041VIC4/174 
+YorA
+sialACH 
+UNUMTEO 14104451 LM 
+1.1114110 LO 149/9O4O1M 
+es Z i %R tvw.1:2 NN
+WILMITĘp hivexl NN 
+u4430101114MR
+AM 
+WIL41/112O kNeet 
+Fd 
+191 
+AC14 FL 
+411114•1 
+1/101411 
+INCO1.49C 
+'MO
+ MN 
+11411 
+1.041.040) 94/4411 
+VSPN-145.EICH R 
+11474 
+ULL/490)145/01101AN 
+M=2{P 
+:t 
+prIl 
+11/2O411O1 
+1.4N 
+MMMD IUMMOMN 
+21/O1147)18OO1 
+11.01 
+1.011.1411419 
+IM 
+‚MAMULACH 41. 
+21114 
+1.011.141140 
+111"312R 
+Li 
+41040011024141 
+1111/4 
+WILMTzrgis==
+EO MOCNO MN 
+Purga 
+VOICE LISAG£ rl1R 
+2414Mbet 
+Men 04.4 rime 
+731 O1O1
+«I gr 
+M O/ 
+731 01201 
+131 0101 
+33t 
+.44 01/011:1
+P4E 
+741 0101 6944 
+744 (11/01 0494 
+741 0101 0211 
+)
+)
+TM
+'gI hl
+3i2; 23 
+no mim osm 
+TSS 
+OOini 
+owvo cb,O
+O1.:11
+14 
+41Oi m 4 
+74
+72; 01/0011 9014.4150
+914
+M nt UM 
+' 'Meni O4.3414
+740 01/01 04200 
+n2
+?" 01/11 O11." MP
+SP
+. 101
+01401 51 
+/01 Célt'S:
+ra 
+no
+m  081:1 ty
+01°91 "1:1 0
+41: 249
+1 0: 90: 
+I
+1/O1 109412
+T/ 4 0101 mc/ 
+4,
+711 sow
+1201 
+TI 01/0 113 
+• 
+?_7113 82 
+Iming 
+Piiì 092 
+:31e 
+O1O2O1 204 
+/il 71.0201 04 
+ni O1.O2O1.O4 
+ca Te 
+éó~iiR 
+WFNJAMAC1102 
+MN 
+WFALIMACTI FL 
+MI 
+MENTI NIMAN 1411 
+... mn, MMMD UM 
+111100 MN 
+LALE VVORT11111. 
+11O1144 
+MM 
+194104 
+O 41079191110 
+s 
+Ummi 
+C 40W.I1 z un 
+p
+W
+pp
+O
+,.:41 
+. uso 
+rs 
+MN 
+NZ r
+5 N: 
+~SOMEAF-41 k 
+M 
+L 
+11
+"."14.101014: 
+WPAUMACH Ft 
+IM 
+USLINTE O 101040 MN 
+%d'I 
+R 
+154 
+lontano »mm un 
+im 
+ummnos.w.ogo un 
+WPAI
+tt 
+1/44 
+Zr
+t 1111 14.113 IM 
+Ml 
+Mi 
+UMMT 112
+C /Ur. k te474 
+144 
+MMMD Mv910 401 
+11.21 
+UM m 
+L4W:m
+741, ter4
+1•4 
+w 
+tremano »WAM Un 
+1141.110511, 40000 LM 
+SM 
+UM 
+14~0 11411 
+RITNEVAL, 
+Min 14WOO 1911 
+L 
+Q 11000.11 SM 
+D 144.912°A 
+ti g 
+D Law
+4.14%) NN 
+1) /4WOO MN 
+1411010 OS 
+U 
+~Il 
+1.411 
+/41114 
+IM 
+MN 
+1111 
+u 
+14
+101011 
+M 
+U 
+499XMWOmcm ul% 
+U 
+o /4 
+TOMO 
+WNM1E
+W 1611 
+81.14
+L170 r4.0 1411 
+=M 
+8 E . W 
+s.
+%.n
+y . 0
+2 ,24 ill
+lin 
+UN 
+M 
+MW 
+u 
+14 
+iét4 
+UM mu 
+014/0.13 LM 
+1/111/00) MAMO 4111 
+2124111.411O Niwom NN 
+UtuMn o knvam 2.444 
+02411111U022 
+404)1 
+Chms• 
+Med Rate 04449441441 
+Mn 
+571 
+dr. 
+MM 
+UNIAMI 
+1AN 
+;ur 
+W.P
+nccAmm
+v°43•cm Ft 
+lnet
+1414 
+WPA1103004 FL 
+I a: 
+OCCOMG 
+h44(F0 1 ,4O 
+lI e
+r,
+54,4-%
+.
+114,453.
+MM 
+WI•ADAPS Stil f L 
+14
+14.41  
+0012/18004 0 
+144 
+5MV"A.4173
+59.004 41. 
+3 al 
+.0y
+rgA
+n9212: 8P 
+a il 
+--m. ..;,t Im 
+..... 
+4140914a 
+)IM/MI
+WPAL1.401/04 FL 
+140002140 
+WI
+41~/4 
+Voirlim2.1O4 A 
+REI
+z: dt Amir. a 
+40
+.K1910
+" 0
+1.125204 R 
+Il 
+rga
+rtZ
+"  
+aIl 
+MigUE8 :sp "A 
+M 
+mt
+igrell tÉRET
+'S FIECVM.494
+MWANIFAO41/1. 
+M 
+UNIIVITED ILWX111 IM 
+14O1.
+1"Cer.4 3OOO111. 
+W 
+UN.MTFC 4~00 uri 
+hal 
+lintralte ~D 
+LIN 
+W .=F1 
+a 
+NIN 
+UhltalL4 O9911O UN 
+1/144 
+1.91.14nę. Nmolil 4144
+alarm 
+EFTA01692793

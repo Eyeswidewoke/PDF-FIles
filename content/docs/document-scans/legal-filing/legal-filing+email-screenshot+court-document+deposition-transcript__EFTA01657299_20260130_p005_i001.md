@@ -1,0 +1,54 @@
+---
+source_image: "legal-filing+email-screenshot+court-document+deposition-transcript__EFTA01657299_20260130_p005_i001.png"
+source_pdf: "EFTA01657299.pdf"
+method: pdf_text
+words: 535
+confidence: 1.00
+extracted: 2026-02-13T17:08:55.978456
+---
+
+It turns out that her daughter is 25 years old, and resides in New York. I obtained the email address of her daughter and 
+Epstein's that appeared and can speculate how it got there. At this time 
+did not feel the level of risk was too great, 
+but assured me that she would provide her daughter my information in case she needed to reach someone familiar with the 
+situation. 
+The situation continues now to focus on the child sex trafficking allegations and all the information she has gathered. I don't 
+believe the venue is DC/Northern VA, but am happy to assist however you feel necessary. 
+Do you know if there is someone that she should talk to in Miami about her knowledge, or should she speak to the media 
+rep through the agent there? 
+I am at a juncture and need some guidance. I know this is not a ball to get dropped, but don't want to involve us here in 
+DC, out of our territory, unless requested to do so, especially if this is all being investigated and uncovered already by 
+agents in other field offices. 
+Please advise. 
+Thanks so much, 
+Special Agent • 
+FBI Washington Field Office 
+Child Ex loitation Task Force 
+From 
+To: 
+Cc: 
+Sent: Thu Jun 10 12:53:06 2010 
+Subject: PRIVATE 
+Yesterday I interviewed Sergio Cordero (modeling agent and business partner of Jean Luc Brunel who also knows and had 
+past association with JEpstein). 
+1. Cordero confirmed that Brunel uses MC2 as a legitimate transport agency of underage girls into America for purposes of 
+sex. 
+2. Brunel uses MC2 to introduce underage girls to Epstein since Epstein gave him $1 million dollars to start up MC2 after 
+he was fired from various modeling agencies in Paris (his hometown). 
+3. Cordero and Brunel are in the same business. 
+4. Cordero is more focused towards production (TV) side of modeling unlike Brunel. 
+5. Brunel and Cordero have a joint business venture. According to Cordero they are currently in a legal dispute in Miami, 
+Fla., over control of business. 
+6. According to Cordero, Brunel has always been Epstein's principal supplier of underage girls using MC2 as a cover up 
+7. MC2 is also a legitimate business in that it transports some underage models for hire and contracts them out to other 
+sources for fees. 
+8. Many of the underage girls that Brunel and Epstein shared and liked continue to live in Brunel's 1 bedroom apt in NY. 
+some live in Epstein's East 66 St apts in Manhattan. There are some underage girls living there now. 
+9. The principal business of MC2 (Based in South Beach where Brunel now resides), is to transport underage girls for 
+purposes of sexual pleasure for Brunel and Epstein according to various sources interviewed including Cordero. 
+10. Cordero confirmed that former President Clinton was on Epstein's plane with Brunel several times with underage girls. 
+OBVIOUSLY THIS IS HEAR SAY SINCE HE ALSO MENTIONED THAT HE WAS NOT THERE. Cordero stated that Brunel 
+told him this information. 
+11. Cordero confirmed that Brunel and Epstein travel the world to source underage victims for purposes of sex and lure 
+them with modeling contracts and the possibility of a better and wealthier lifestyle. 
+EFTA01657303

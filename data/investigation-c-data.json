@@ -1,0 +1,1020 @@
+{
+  "generated": "2026-02-15",
+  "total_files_scanned": 114039,
+  "high_value_docs": 26128,
+  "flights": {
+    "total_files": 4347,
+    "subcategories": [
+      {
+        "name": "general-travel",
+        "count": 2397,
+        "words": 602573
+      },
+      {
+        "name": "flight-logs",
+        "count": 1357,
+        "words": 247434
+      },
+      {
+        "name": "passenger-manifests",
+        "count": 376,
+        "words": 112367
+      },
+      {
+        "name": "hotel-travel",
+        "count": 145,
+        "words": 49549
+      },
+      {
+        "name": "ground-transport",
+        "count": 72,
+        "words": 32480
+      }
+    ],
+    "tail_numbers": [
+      {
+        "tail": "N212JE",
+        "count": 396,
+        "note": "Epstein Gulfstream"
+      },
+      {
+        "tail": "N908JE",
+        "count": 297,
+        "note": "Epstein Boeing 727 \"Lolita Express\""
+      },
+      {
+        "tail": "N909JE",
+        "count": 175,
+        "note": "Epstein aircraft"
+      },
+      {
+        "tail": "N908",
+        "count": 51,
+        "note": ""
+      },
+      {
+        "tail": "N793TA",
+        "count": 36,
+        "note": ""
+      },
+      {
+        "tail": "N120JE",
+        "count": 35,
+        "note": ""
+      },
+      {
+        "tail": "N722JE",
+        "count": 35,
+        "note": ""
+      },
+      {
+        "tail": "N415LM",
+        "count": 35,
+        "note": ""
+      },
+      {
+        "tail": "N979RA",
+        "count": 28,
+        "note": ""
+      },
+      {
+        "tail": "N505C",
+        "count": 24,
+        "note": ""
+      },
+      {
+        "tail": "N909",
+        "count": 23,
+        "note": ""
+      },
+      {
+        "tail": "N21",
+        "count": 21,
+        "note": ""
+      },
+      {
+        "tail": "N787TA",
+        "count": 18,
+        "note": ""
+      },
+      {
+        "tail": "N90",
+        "count": 18,
+        "note": ""
+      },
+      {
+        "tail": "N88GA",
+        "count": 16,
+        "note": ""
+      },
+      {
+        "tail": "N491GM",
+        "count": 15,
+        "note": ""
+      },
+      {
+        "tail": "N493LX",
+        "count": 14,
+        "note": ""
+      },
+      {
+        "tail": "N331JE",
+        "count": 14,
+        "note": ""
+      },
+      {
+        "tail": "N9083E",
+        "count": 10,
+        "note": ""
+      },
+      {
+        "tail": "N23U",
+        "count": 10,
+        "note": ""
+      }
+    ],
+    "routes": [
+      {
+        "route": "New York",
+        "count": 385
+      },
+      {
+        "route": "Palm Beach",
+        "count": 273
+      },
+      {
+        "route": "Paris",
+        "count": 226
+      },
+      {
+        "route": "JFK",
+        "count": 94
+      },
+      {
+        "route": "London",
+        "count": 62
+      },
+      {
+        "route": "NEW YORK",
+        "count": 45
+      },
+      {
+        "route": "St. Thomas",
+        "count": 37
+      },
+      {
+        "route": "Teterboro",
+        "count": 29
+      },
+      {
+        "route": "PALM BEACH",
+        "count": 24
+      },
+      {
+        "route": "LONDON",
+        "count": 16
+      },
+      {
+        "route": "Santa Fe",
+        "count": 16
+      },
+      {
+        "route": "PARIS",
+        "count": 14
+      },
+      {
+        "route": "ST. THOMAS",
+        "count": 12
+      },
+      {
+        "route": "TETERBORO",
+        "count": 11
+      },
+      {
+        "route": "jFk",
+        "count": 11
+      }
+    ]
+  },
+  "financial": {
+    "subcategories": [
+      {
+        "name": "invoices",
+        "count": 35040,
+        "words": 8100821
+      },
+      {
+        "name": "general-financial",
+        "count": 33854,
+        "words": 7769675
+      },
+      {
+        "name": "trusts-estates",
+        "count": 7792,
+        "words": 1585289
+      },
+      {
+        "name": "property-real-estate",
+        "count": 4848,
+        "words": 1917337
+      },
+      {
+        "name": "bank-statements/other",
+        "count": 3821,
+        "words": 859024
+      },
+      {
+        "name": "receipts",
+        "count": 2629,
+        "words": 802692
+      },
+      {
+        "name": "wire-transfers",
+        "count": 1347,
+        "words": 309340
+      },
+      {
+        "name": "checks",
+        "count": 1215,
+        "words": 108653
+      },
+      {
+        "name": "tax-documents",
+        "count": 1015,
+        "words": 496321
+      },
+      {
+        "name": "credit-cards",
+        "count": 786,
+        "words": 275059
+      },
+      {
+        "name": "bank-statements/jpmorgan",
+        "count": 784,
+        "words": 233657
+      },
+      {
+        "name": "bank-statements/deutsche-bank",
+        "count": 270,
+        "words": 89051
+      },
+      {
+        "name": "bank-statements/citibank",
+        "count": 103,
+        "words": 28222
+      },
+      {
+        "name": "bank-statements/bank-of-america",
+        "count": 21,
+        "words": 4397
+      }
+    ],
+    "banks": [
+      {
+        "bank": "JPMorgan",
+        "count": 3894
+      },
+      {
+        "bank": "Chase",
+        "count": 3135
+      },
+      {
+        "bank": "chase",
+        "count": 2539
+      },
+      {
+        "bank": "ubs",
+        "count": 1893
+      },
+      {
+        "bank": "CHASE",
+        "count": 975
+      },
+      {
+        "bank": "Deutsche Bank",
+        "count": 880
+      },
+      {
+        "bank": "UBS",
+        "count": 745
+      },
+      {
+        "bank": "JP MORGAN",
+        "count": 447
+      },
+      {
+        "bank": "JPMORGAN",
+        "count": 379
+      },
+      {
+        "bank": "jpmorgan",
+        "count": 153
+      },
+      {
+        "bank": "JP Morgan",
+        "count": 144
+      },
+      {
+        "bank": "BANK OF AMERICA",
+        "count": 136
+      },
+      {
+        "bank": "Bank of America",
+        "count": 128
+      },
+      {
+        "bank": "Citibank",
+        "count": 126
+      },
+      {
+        "bank": "CITIBANK",
+        "count": 123
+      },
+      {
+        "bank": "PALM BEACH",
+        "count": 336
+      },
+      {
+        "bank": "Palm Beach",
+        "count": 101
+      },
+      {
+        "bank": "East 71",
+        "count": 58
+      },
+      {
+        "bank": "EL BRILLO",
+        "count": 46
+      },
+      {
+        "bank": "LITTLE ST JAMES",
+        "count": 42
+      },
+      {
+        "bank": "Zorro Ranch",
+        "count": 12
+      },
+      {
+        "bank": "EAST 71",
+        "count": 12
+      },
+      {
+        "bank": "PALMBEACH",
+        "count": 6
+      },
+      {
+        "bank": "El Brillo",
+        "count": 5
+      },
+      {
+        "bank": "Little St. James",
+        "count": 4
+      },
+      {
+        "bank": "LITTLE ST. JAMES",
+        "count": 4
+      },
+      {
+        "bank": "avenue Foch",
+        "count": 3
+      },
+      {
+        "bank": "71st Street",
+        "count": 3
+      },
+      {
+        "bank": "palmbeach",
+        "count": 2
+      },
+      {
+        "bank": "PalmBeach",
+        "count": 2
+      },
+      {
+        "bank": "TRUST",
+        "count": 6903
+      },
+      {
+        "bank": "LLC",
+        "count": 4741
+      },
+      {
+        "bank": "INC.",
+        "count": 2613
+      },
+      {
+        "bank": "Inc.",
+        "count": 2062
+      },
+      {
+        "bank": "Trust",
+        "count": 1924
+      },
+      {
+        "bank": "Management",
+        "count": 954
+      },
+      {
+        "bank": "MANAGEMENT",
+        "count": 952
+      },
+      {
+        "bank": "ASSOCIATES",
+        "count": 926
+      },
+      {
+        "bank": "trust",
+        "count": 817
+      },
+      {
+        "bank": "Capital",
+        "count": 807
+      },
+      {
+        "bank": "management",
+        "count": 775
+      },
+      {
+        "bank": "capital",
+        "count": 645
+      },
+      {
+        "bank": "HOLDINGS",
+        "count": 631
+      },
+      {
+        "bank": "Holdings",
+        "count": 595
+      },
+      {
+        "bank": "CORP.",
+        "count": 572
+      },
+      {
+        "bank": "Partners",
+        "count": 536
+      },
+      {
+        "bank": "partners",
+        "count": 522
+      },
+      {
+        "bank": "PARTNERS",
+        "count": 468
+      },
+      {
+        "bank": "CAPITAL",
+        "count": 439
+      },
+      {
+        "bank": "Corp.",
+        "count": 404
+      }
+    ],
+    "properties": [
+      {
+        "property": "PALM BEACH",
+        "count": 336
+      },
+      {
+        "property": "Palm Beach",
+        "count": 101
+      },
+      {
+        "property": "East 71",
+        "count": 58
+      },
+      {
+        "property": "EL BRILLO",
+        "count": 46
+      },
+      {
+        "property": "LITTLE ST JAMES",
+        "count": 42
+      },
+      {
+        "property": "Zorro Ranch",
+        "count": 12
+      },
+      {
+        "property": "EAST 71",
+        "count": 12
+      },
+      {
+        "property": "PALMBEACH",
+        "count": 6
+      },
+      {
+        "property": "El Brillo",
+        "count": 5
+      },
+      {
+        "property": "Little St. James",
+        "count": 4
+      },
+      {
+        "property": "LITTLE ST. JAMES",
+        "count": 4
+      },
+      {
+        "property": "avenue Foch",
+        "count": 3
+      },
+      {
+        "property": "71st Street",
+        "count": 3
+      },
+      {
+        "property": "palmbeach",
+        "count": 2
+      },
+      {
+        "property": "PalmBeach",
+        "count": 2
+      },
+      {
+        "property": "TRUST",
+        "count": 6903
+      },
+      {
+        "property": "LLC",
+        "count": 4741
+      },
+      {
+        "property": "INC.",
+        "count": 2613
+      },
+      {
+        "property": "Inc.",
+        "count": 2062
+      },
+      {
+        "property": "Trust",
+        "count": 1924
+      },
+      {
+        "property": "Management",
+        "count": 954
+      },
+      {
+        "property": "MANAGEMENT",
+        "count": 952
+      },
+      {
+        "property": "ASSOCIATES",
+        "count": 926
+      },
+      {
+        "property": "trust",
+        "count": 817
+      },
+      {
+        "property": "Capital",
+        "count": 807
+      },
+      {
+        "property": "management",
+        "count": 775
+      },
+      {
+        "property": "capital",
+        "count": 645
+      },
+      {
+        "property": "HOLDINGS",
+        "count": 631
+      },
+      {
+        "property": "Holdings",
+        "count": 595
+      },
+      {
+        "property": "CORP.",
+        "count": 572
+      },
+      {
+        "property": "Partners",
+        "count": 536
+      },
+      {
+        "property": "partners",
+        "count": 522
+      },
+      {
+        "property": "PARTNERS",
+        "count": 468
+      },
+      {
+        "property": "CAPITAL",
+        "count": 439
+      },
+      {
+        "property": "Corp.",
+        "count": 404
+      }
+    ]
+  },
+  "contacts": {
+    "subcategories": [
+      {
+        "name": "general-contacts",
+        "count": 14400,
+        "words": 3552022
+      },
+      {
+        "name": "email-lists",
+        "count": 748,
+        "words": 126519
+      },
+      {
+        "name": "phone-directories",
+        "count": 732,
+        "words": 295182
+      },
+      {
+        "name": "contact-directories",
+        "count": 97,
+        "words": 32064
+      },
+      {
+        "name": "black-book",
+        "count": 45,
+        "words": 5890
+      }
+    ]
+  },
+  "case_evidence": {
+    "subcategories": [
+      {
+        "name": "people/epstein",
+        "count": 4478,
+        "words": 722904
+      },
+      {
+        "name": "people/multiple-subjects",
+        "count": 1025,
+        "words": 361639
+      },
+      {
+        "name": "abuse-allegations",
+        "count": 461,
+        "words": 226319
+      },
+      {
+        "name": "locations/palm-beach",
+        "count": 458,
+        "words": 60208
+      },
+      {
+        "name": "general-evidence",
+        "count": 413,
+        "words": 60350
+      },
+      {
+        "name": "people/maxwell",
+        "count": 411,
+        "words": 48176
+      },
+      {
+        "name": "locations/new-york",
+        "count": 161,
+        "words": 57131
+      },
+      {
+        "name": "locations/st-james",
+        "count": 38,
+        "words": 3066
+      },
+      {
+        "name": "locations/virgin-islands",
+        "count": 35,
+        "words": 7170
+      },
+      {
+        "name": "people/giuffre",
+        "count": 24,
+        "words": 10768
+      },
+      {
+        "name": "locations/paris",
+        "count": 16,
+        "words": 8308
+      },
+      {
+        "name": "locations/zorro-ranch",
+        "count": 14,
+        "words": 2109
+      },
+      {
+        "name": "locations/saint-james",
+        "count": 12,
+        "words": 1984
+      },
+      {
+        "name": "people/kellen",
+        "count": 10,
+        "words": 1916
+      },
+      {
+        "name": "people/wexner",
+        "count": 9,
+        "words": 2420
+      },
+      {
+        "name": "people/brunel",
+        "count": 9,
+        "words": 163
+      },
+      {
+        "name": "people/dubin",
+        "count": 8,
+        "words": 338
+      },
+      {
+        "name": "locations/london",
+        "count": 7,
+        "words": 3913
+      },
+      {
+        "name": "people/trump",
+        "count": 5,
+        "words": 2058
+      },
+      {
+        "name": "people/prince-andrew",
+        "count": 4,
+        "words": 1140
+      },
+      {
+        "name": "people/dershowitz",
+        "count": 4,
+        "words": 1968
+      },
+      {
+        "name": "locations/new-mexico",
+        "count": 4,
+        "words": 1342
+      },
+      {
+        "name": "locations/ohio",
+        "count": 2,
+        "words": 1506
+      },
+      {
+        "name": "people/clinton",
+        "count": 1,
+        "words": 537
+      },
+      {
+        "name": "locations/manhattan",
+        "count": 1,
+        "words": 94
+      }
+    ]
+  },
+  "person_matrix": [
+    {
+      "name": "MAXWELL",
+      "total": 24089,
+      "categories": "5/5",
+      "flight": 1206,
+      "financial": 18621,
+      "contacts": 1675,
+      "evidence": 2587
+    },
+    {
+      "name": "EPSTEIN",
+      "total": 11403,
+      "categories": "4/5",
+      "flight": 300,
+      "financial": 4016,
+      "contacts": 1495,
+      "evidence": 5592
+    },
+    {
+      "name": "ITO",
+      "total": 5460,
+      "categories": "5/5",
+      "flight": 322,
+      "financial": 3523,
+      "contacts": 1124,
+      "evidence": 491
+    },
+    {
+      "name": "BLACK",
+      "total": 3559,
+      "categories": "5/5",
+      "flight": 58,
+      "financial": 2705,
+      "contacts": 515,
+      "evidence": 281
+    },
+    {
+      "name": "BARR",
+      "total": 1926,
+      "categories": "5/5",
+      "flight": 23,
+      "financial": 1219,
+      "contacts": 385,
+      "evidence": 299
+    },
+    {
+      "name": "TRUMP",
+      "total": 852,
+      "categories": "5/5",
+      "flight": 13,
+      "financial": 313,
+      "contacts": 357,
+      "evidence": 169
+    },
+    {
+      "name": "ANDREW",
+      "total": 796,
+      "categories": "5/5",
+      "flight": 6,
+      "financial": 297,
+      "contacts": 293,
+      "evidence": 200
+    },
+    {
+      "name": "GROFF",
+      "total": 510,
+      "categories": "4/5",
+      "flight": 7,
+      "financial": 31,
+      "contacts": 124,
+      "evidence": 348
+    },
+    {
+      "name": "WEXNER",
+      "total": 508,
+      "categories": "5/5",
+      "flight": 11,
+      "financial": 309,
+      "contacts": 31,
+      "evidence": 157
+    },
+    {
+      "name": "MARCINKOVA",
+      "total": 498,
+      "categories": "5/5",
+      "flight": 47,
+      "financial": 341,
+      "contacts": 92,
+      "evidence": 18
+    },
+    {
+      "name": "VISOSKI",
+      "total": 451,
+      "categories": "4/5",
+      "flight": 330,
+      "financial": 60,
+      "contacts": 37,
+      "evidence": 24
+    },
+    {
+      "name": "RODRIGUEZ",
+      "total": 398,
+      "categories": "5/5",
+      "flight": 3,
+      "financial": 247,
+      "contacts": 54,
+      "evidence": 94
+    },
+    {
+      "name": "CLINTON",
+      "total": 385,
+      "categories": "5/5",
+      "flight": 34,
+      "financial": 79,
+      "contacts": 84,
+      "evidence": 188
+    },
+    {
+      "name": "GATES",
+      "total": 324,
+      "categories": "5/5",
+      "flight": 23,
+      "financial": 114,
+      "contacts": 140,
+      "evidence": 47
+    },
+    {
+      "name": "ACOSTA",
+      "total": 223,
+      "categories": "4/5",
+      "flight": 1,
+      "financial": 52,
+      "contacts": 48,
+      "evidence": 122
+    },
+    {
+      "name": "DERSHOWITZ",
+      "total": 221,
+      "categories": "5/5",
+      "flight": 2,
+      "financial": 46,
+      "contacts": 36,
+      "evidence": 137
+    },
+    {
+      "name": "MITCHELL",
+      "total": 169,
+      "categories": "4/5",
+      "flight": 0,
+      "financial": 96,
+      "contacts": 34,
+      "evidence": 39
+    },
+    {
+      "name": "MODELAGENCIES",
+      "total": 121,
+      "categories": "5/5",
+      "flight": 37,
+      "financial": 53,
+      "contacts": 8,
+      "evidence": 23
+    },
+    {
+      "name": "RICHARDSON",
+      "total": 118,
+      "categories": "4/5",
+      "flight": 0,
+      "financial": 74,
+      "contacts": 28,
+      "evidence": 16
+    },
+    {
+      "name": "MUSK",
+      "total": 116,
+      "categories": "5/5",
+      "flight": 1,
+      "financial": 69,
+      "contacts": 35,
+      "evidence": 11
+    },
+    {
+      "name": "DUBIN",
+      "total": 116,
+      "categories": "4/5",
+      "flight": 0,
+      "financial": 49,
+      "contacts": 25,
+      "evidence": 42
+    },
+    {
+      "name": "BARAK",
+      "total": 104,
+      "categories": "4/5",
+      "flight": 0,
+      "financial": 69,
+      "contacts": 20,
+      "evidence": 15
+    },
+    {
+      "name": "SUMMERS",
+      "total": 99,
+      "categories": "5/5",
+      "flight": 1,
+      "financial": 64,
+      "contacts": 12,
+      "evidence": 22
+    },
+    {
+      "name": "BRUNEL",
+      "total": 66,
+      "categories": "4/5",
+      "flight": 0,
+      "financial": 14,
+      "contacts": 5,
+      "evidence": 47
+    },
+    {
+      "name": "KELLEN",
+      "total": 62,
+      "categories": "5/5",
+      "flight": 1,
+      "financial": 48,
+      "contacts": 2,
+      "evidence": 11
+    },
+    {
+      "name": "BANNON",
+      "total": 60,
+      "categories": "5/5",
+      "flight": 2,
+      "financial": 45,
+      "contacts": 12,
+      "evidence": 1
+    },
+    {
+      "name": "STALEY",
+      "total": 37,
+      "categories": "4/5",
+      "flight": 0,
+      "financial": 13,
+      "contacts": 13,
+      "evidence": 11
+    }
+  ]
+}

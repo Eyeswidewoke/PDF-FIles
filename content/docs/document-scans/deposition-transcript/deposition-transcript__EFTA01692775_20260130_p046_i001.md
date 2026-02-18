@@ -1,0 +1,557 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p046_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 933
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.044441
+---
+
+cingular 
+~"" 
+Account Nam 
+Dale of LmAW 
+April 12.2005 
+Page 10 &MS 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+i DETAIL OF CURRENT ACTIVITY - CONTINUED 
+p
+VOICE USAGE re 
+Cortio.,cel 
+VOICE I ISAGENLOtal0nual 
+»at 
+Om, 
+amps 
+NAM Dame Tim* CAM 
+Celle 
+U•ed pate Dasaipelon 
+Charge 
+, bin. Date Dine Can« 
+CS To 
+pi iti
+A 
+it 
+= 
+boarg 2 1.1.2:481.45: 
+MN 
+UNLM:t5 
+OM 
+IAN 
+,‘ NU 0144 77' 
+1EC 0146 37 
+P 
+INCOUIN 
+lAKt 
+el 13. 
+EL 
+1111 
+MN 
+Pathan A= 
+II: 2 
+=
+6,E., 
+"YNTS=1;1
+VrA. 
+MN 
+300 ADM &brew MN 
+MN 
+300 3001_ ANYINL I« 
+I, 
+3?,/ CT:6061Y 
+MN 
+1.1111.114 MOM. TQ MO& 
+i 
+03 03176 0314P 
+gt1:8R33:81 
+,, 3i5 221
+w
+m2812:: 
+" II 
+' g 2 1A331:, 
+IIS 
+t 2 
+g Igl 232 aln 
+3.35 CUC6 0403. 
+3% 01e6 07062 
+I 
+397 031760707P 
+1 
+191 03r.:1. 0910. 
+t, 
+/%0 03/Z4 0,41110 
+}I 
+4g1> Egt 
+li 402 
+03 
+i 
+403 0344 09 
+!I 
+403 03/2649 
+401 03/36 03 
+N
+01(04 OP 5111• 
+44:1 01,06 IC.73. 
+, :glffil 
+3 
+' 
+.i 4% 03/t4 1104 
+'' 111 Et 
+'I 
+g 
+22:14 
+P: PI C6
+0324 Ng 
+;j :11 g ',5tIL, 
+II 
+03(17 I if7 
+li 420 03421 0' 
+11 In
+It :4, o.,35; ou 
+!i :51å2J8I.
+1 
+417 03/37 01.57 
+424 03t27 01,57 
+.1 132 g3n
+0  I Si'
+:i 4
+£ 
+11 93/3/ 01 
+. 
+432 Ma/ 04. 
+I 
+:13 23g3 it 
+!': In g33; I 
+. 
+437 030110 
+414 COR7 117 
+:r1 ITIII: B 
+441 03a8 I 1 di 
+324 
+325 
+326 
+32; 
+119 
+334 
+343 
+345 
+32 
+349 
+318 
+3s, 
+3s2 
+353 
+354 
+355 
+316 
+SS* 
+)30 
+361 
+3141 
+361 
+365 
+366 
+367 E 
+371 
+372 
+1 OA 
+3/75 11221676 
+3.2511 
+3423 113 
+eiI
+å
+A 
+1 l 
+5
+5 
+95P 
+3125 073115
+325 01550 
+25 0309 
+5,5 gig: 
+341 34 34P 
+3131 34 .33P 
+x534390 
+3/25 39 140 
+39 
+zYP 
+17P 
+39 
+39 .7W 
+00 MP 
+125 08 OP 
+tl 1001P 
+3/31 11 19P 
+3.03/10 
+305 ,1 41P 
+11 491 
+240111R 
+260113A 
+Mt 01 114 
+MOILS 
+ZIRSU 
+af• 
+9126 02 11P 
+ogo 
+304 02410 
+n0 02540 
+NM 0323P 
+03•14P 
+NV
+.
+04 
+04:1 
+041»P
+9 35: t.'O 841g 
+373 ohs oa'ne 
+23 C35 
+3;', ffi t 8AZ 
+310 
+.6 062M 
+WPALIMEACII FL 
+W4AW9EAOIfL
+~CMS° 
+TNT 
+WPM 
+1NPAUMEA04 FL 
+130YNTOMK.14 FL 
+v~.4iM
+A1N 
+iii 
+INC011.810 
+614 
+VIP 
+V.14
+iNCCA414 
+01C04.410 
+INCCAING 
+90TAT0411994 EL 
+W oria0.044~1. 
+Wagl
+iNe"1"
+;14. 
+INPAUMUCH Ft 
+IMMUMEACIA Ft 
+Efr
+ain
+ASIPALIMP-ACH 
+!KO% 
+il efg 01401 FL 
+V.A1MMACN FL 
+FL 
+FL 
+MN 
+MIN 
+MN 
+MN 
+MM
+N. 
+MN 
+I. 
+MN 
+MN 
+MN 
+MN
+AAA 
+MN 
+EVT 
+MN 
+MN 
+MN 
+MN
+EH
+ENT 
+Uri 
+MN 
+MN 
+MN 
+MN 
+MN 
+1MN 
+1MN 
+1 MN 
+MAN 
+%MK
+1EVT 
+trig 
+261111 
+IMN1 
+4 MN 
+1 WI 
+1.110.1MOOL TO" 
+X0 41301. ~TIC MN 
+Wane 55474V/egi 
+MY: 
+14M,
+C3Cirr 
+Al& 
+11
+U 
+Tr) 361911.0 
+UM.941E3 DIANKMO MN 
+It.11189.1.913 :Wa
+MMTFD 
+hl ht, 
+UNLIIME1) NM« UM 
+EINUMTED 
+*AN 
+UNIJATED ItiVt0.0 
+U/EAMIAPIP NAVE1.0 
+1164/~ MONO MN 
+CAL.. VONN10 
+1.1.4.MIED hAVEMO 4/N 
+UMMIED NAVRXO MN 
+:PAM IF 9 MIAOW UN 
+'JUJU TED NM'KNOMN
+UMPA TEO krW1(1.0 MN 
+MESSAGE REITIIEVAL 
+:./M31.1TEJ NV/0.13 MN 
+VESSICC 1CTMCVN. 
+bird% 
+u 
+UNUMI 
+INWE14 MIN 
+UMNITO) NM« /al 
+MON MN 
+MN 
+UMMrtD 
+UMW°, NAVA 
+U ILIATED JIM KS 
+UMMTED ION« 
+IIMP
+UM. 
+UM FATED NNW/0314N 
+Um salm1 ~MD MN 
+UK MT tO KW.» WI 
+..1111.4 Mu µNNW MN 
+UMMTO N.V.%« MN 
+'JMUMI631/M1MfIMN 
+CALL WAITING 
+41.1 4.I 
+UN
+p =V= 
+UM1 0 NNIX/I0 MN 
+UNISTL NAVIN IAN 
+1 
+I 
+».1P411D itMICk MN 
+UM
+0111(0Q r«0« MN 
+NUIR IMO WC« NW 
+UNIANTED ~1 
+Mt4 
+11111111111111111111111111I1111111111111111111111 
+1111111111 
+III 
+N 
+V/i. 
+VIPAJAXACCN Fl
+VY 
+e&t
+: FL 
+~AULT 
+Al 
+!Ana 
+101. 
+nr>2; 
+k 
+VIPAUAXACI4 Ft 
+WPALMEACI4 
+AL
+ma 
+AC 
+n 
+a 
+aiTti
+~
+OlAU/BEACH AL 
+erg. 
+w 
+"NW 
+EL 
+WAIVE/AO. AL 
+WPAIMI3EACH Ft 
+NO:~ 
+w
+ALVOIEADI R. 
+AMOCAI 
+UM 110RM 11. 
+pµf/ ALCM FL 
+INCOUNG 
+I
+UWE MO« 
+C34 
+EL 
+V.KWIEA
+31. 
+W'm
+ Ft 
+0.46 V. 
+TM FL 
+r4CMYSVC. 
+NC41.640 
+LUC
+MA NORTH FL 
+04.2
+ENDOMN 
+N001.1NG 
+LAKE V.02714 FL 
+0-3211a: 
+'ANDEA01 IL 
+W?31.343EACJI Ft 
+rh EM
+111.t
+WPALMLNEMII Ft 
+r'4Y.55."432 
+1
+PAi 
+Ft 
+WPALAMEAC44 FL 
+°Tay 
+ettag, 
+Used Rate Onalpiket 
+IMN 
+101AN 
+11411 
+1MN 
+1MN 
+1MN 
+1 MN 
+!PAN 
+244.1 
+'ACM 
+MN 
+4414 
+MN 
+UNUNITE1) NAV1011) MN 
+WI 
+4114.PAITID «MOO UN 
+sati 
+MN 
+MN 
+M 
+WI▪ N 
+▪ iN 
+WKI
+UV-141 «MY Mk 
+UM.M/ ItN/11 WM 
+Waal 
+WWI MN 
+I.P.t.DAT 
+IINN« IMO 
+UMNITIP011/011411Q SeN 
+UM.3.1 W 11NIVOLI MN 
+UNMATED 14NCES0 MN 
+t'utZliR815528P31 
+g:Ittag k.
+" ,',748 I= 
+BI
+ 
+21
+:a
+ er08, 12 
+UN' 
+«MO MN 
+UP4.1.0T13) «MVO MN 
+UP l'ACT ID lan 
+WI 
+NH Vert 
+N 
+(O 
+VW 
+1.44U
+LD NW 
+VI4 
+UMNR
+MICD 14W010.114 
+LNINIVED NAVIN° NO1 
+N:UVIT 
+ä2I 111 
+on 
+MN 
+UNUUM WEND NM 
+MN 
+I.T4UUffLO MWON) MN 
+MN 
+MILVITED NV/MM. 
+MN 
+LANUWTED NW/COMO. 
+MN 
+MN 
+MN 
+LNUVR 
+~RN INI 
+[2191 
+K iln 
+II 
+M 
+44WEN.n MS 
+MN 
+1./101/1110 14.14000 14104 
+MN 
+1.11I1VMD MY/RN° MN 
+1011 
+NIUMIED «FEND MN 
+MN 
+LINUVITCD ra Ode WI 
+MA 
+UNUMTED %WEND M24 
+ENT 
+YESSI4E RLIREVN. 
+NIN 
+MILUITCFC NW« MN
+1 
+IS 
+U4/1 14114 4 W ANN . WI 
+UNLINT 
+MAWS MN 
+1.3412141TED WM« MN 
+LIN 
+VNIMITED14/4.M.ND MN 
+MN 
+IMULLTD9 WAND MS 
+MK 
+OPIUM I' ED WACO la 
+MA 
+IMIAATED ~MOMS 
+AM 
+MO1VITILD «VEND MN 
+WI' 
+CALL WATING 
+NM 
+~MR 
+roth4V9 MN 
+MN 
+IMUVIT 
+M14 
+MK 
+UNINAT 
+WW41/1 MN 
+inn 
+ni.t.r.artfintAt" 
+IM 
+UNUWEED 14µ14140 MN 
+1.4111111703 ~NC AIN 
+EVE 
+4.4655.4136 RETEMVAL 
+MN 
+UNIPAT 
+Panel tilt 
+INN 
+UN 
+1
+« 
+AM 
+« 
+UV1 NM 
+MN 
+MMUM' 
+KW 
+M
+511 Dar. NINXN • MN 
+M 
+MO AWL ANYME 11.11 
+ZOAPietlk_IU0r1T 
+iv niE WI: 
+WI 
+3:0 ADM. ~NYE INA 
+EFTA01692820

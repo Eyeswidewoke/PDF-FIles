@@ -1,0 +1,287 @@
+---
+source_image: "deposition-transcript__EFTA01723247_20260130_p097_i001.png"
+source_pdf: "EFTA01723247.pdf"
+method: pdf_text
+words: 543
+confidence: 1.00
+extracted: 2026-02-13T17:00:48.951819
+---
+
+• 
+'agog 
+111111ng Cycle Date, 
+Account NUMbert 
+27 of 34 
+C6 07 05 - 07 06/05 
+wireless. Data Detail Continued) 
+User Name: 
+Rate Code: SI3/432./SHOM CSM 600R UMW 
+Rate Period (Pd.): P-Peak, CaOff Peak, NMNighte 
+Feature: B.Direct Awn Call Complete; CaCall waiting; DaData Call; F.call Forwarding/ NaGroup Mobile to Mobile Calls; 
+I=Ineoming C011; KaFaX Call; MaMobile To Mobile DiecoUnt; PaPriOri TyUde:re Service; OmV-VPM; R.Roam with Home; 
+6-Shared Minutes; TaThree Way Calling; N-Nights, and Weekends 
+Rate Rate Pea- In/ 
+betel 
+Item Day Date 
+Time 
+To/From 
+Type 
+Meg/RE 
+Code Pd Cure Out 
+Charge 
+111 
+06/14 07:49PM 
+OL TXT 
+. 
+1 Meg SHG2 
+To 
+0.10 
+112 
+06/14 09:50PM 
+MOBILE TO 
+2 Meg SHG2 
+in 
+0.10 
+113 
+66/14 10:01PM 
+R MOBILE TO 
+1 Meg SHG2 
+Out 
+0.10 
+114 Thu 06/16 03:01PN 
+01 TXT 
+1 Meg SHG2 
+Out 
+0.10 
+115 
+06/16 03:02PM 
+OL TXT 
+1 Meg 51402 
+In 
+0.10 
+116 
+06/16 03:06PM 
+OL TXT 
+1 Meg SHG2 
+Out 
+0.10 
+117 
+06/16 04:01PM 
+OL TXT 
+1 Meg SHG2 
+In 
+0.10 
+118 
+06/16 04:03PN 
+OL TXT 
+1 Mag SHG2 
+Out 
+0.10 
+119 
+06/16 04:03PM 
+OL TXT 
+1 Meg SHG2 
+In 
+0.10 
+120 
+06/16 04114PM 
+OL TICT 
+1 Meg SHG2 
+Out 
+0.10 
+121 
+06/16 04:15PM 
+OL TXT 
+1 /lag SHG2 
+In 
+0.10 
+122 
+10:17PM 
+INGULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+123 
+06/16 10:54PM 
+ER MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+124 
+06/16 11:07PM 
+• 
+R MOBILE TO 
+1 Meg SHG2 
+Out 
+0.10 
+125 Sat 06/10 09:59AM 
+MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+126 
+06/10 07:01PM 
+MOBILE TO 
+1 Meg SHG2 
+Out 
+0.10 
+127 Sun 06/19 05:48AM 
+• 
+R MOBILE TO 
+1 Meg.SHG2 
+In 
+0.10 
+128 
+06/19 06:08AM 
+MOBILE TO 
+1 Meg 5/302 
+Out 
+0.10 
+129 
+06/19 00:38AM 
+MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+130 
+06/19 10:59PM 
+MOBILE TO 
+2 Meg SHG2 
+Out 
+0.10 
+111 
+06/19 11:05PM 
+MOBILE TO 
+1 Msg SHG2 
+Out 
+0.10 
+132 Tue 06/21 01:16AM 
+• 
+R MOBILE TO 
+2 Msg SHG2 
+In 
+0.10 
+133 Wed 06/22 12:07AM 
+•
+R MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+114 Thu 06/23 01:05PM 
+01 TX/ 
+1 Msg 5002 
+In 
+0.10 
+136 
+06/23 11:10141 
+• 
+ER MOBILE TO 
+1 Meg SHG2 
+Out 
+0.10 
+136 Fri 06/24 12:19AM 
+INGULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+137 
+06/24 12:20A14 
+INGULAR MOBILE 
+1 Msg SHG2 
+Out 
+0.10 
+138 
+06/24 01:06AN 
+INGULAR MOBILE 
+1 Meg SHG2 
+CIA 
+0.10 
+139 
+06/24 01:5214. 
+INGULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+140 
+06/24 09:33PM 
+INGUIAR MOBILE 
+1 Nag SHG2 
+Out 
+0.10 
+141 
+06/24 10:07PM 
+INGMAR MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+142 
+06/24 10:12PM 
+INGULAR MOBILE) 
+1 Meg SHG2 
+in 
+0.10 
+143 
+06/24 10129PN 
+INGULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+144 
+06/24,10:309N 
+INGULAR MOBILE 
+1 Meg SHG2 
+In 
+0.20 
+145 Sat 06/25 03:31A/4 
+INGULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+146 
+06/25 02:19PM 
+CIRCULAR MOBILE 
+2 Meg SHG2 
+In 
+0.10 
+147 
+06/25 02:33PM 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+148 
+06/25 03:02PM 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+149 
+06/25 03:12VM 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+150 
+06/25 03:469M 
+CIRCULAR MOBILE 
+2 Meg SHG2 
+Out 
+0.10 
+151 
+06/25 03:4798 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+152 Tue 06/24 01:09AM 
+OL TX? 
+1 Meg SHG2 
+in 
+0.10 
+153 
+06/28 05:37PM 
+• ER MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+EFTA01723343

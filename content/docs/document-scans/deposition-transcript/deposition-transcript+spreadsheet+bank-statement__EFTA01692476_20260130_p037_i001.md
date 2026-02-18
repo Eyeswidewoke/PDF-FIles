@@ -1,0 +1,372 @@
+---
+source_image: "deposition-transcript+spreadsheet+bank-statement__EFTA01692476_20260130_p037_i001.png"
+source_pdf: "EFTA01692476.pdf"
+method: pdf_text
+words: 599
+confidence: 1.00
+extracted: 2026-02-13T16:56:53.154167
+---
+
+unt
+Account Number 
+DETAIL OF CURRENT AC111/TTY - CONTINUED 
+Data of Invoke 
+May 18.7004 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+'S 
+Rare WY Tlime 
+es osr 54110 
+SI ail' C4200 
+97 3912 1623A 
+£611211S}A
+9) 09/12 II. 
+203 40/1
+11 2 1226 
+fN 0411}  1T 
+201 031221:16 
+20$ 01412 31.17 
+291 osnt 31 
+202 00112 312
+AF 
+ .1 
+236 51/11 OA 
+211  
+i
+0612 0 
+n 
+2'5 
+2 09 
+Vi 
+0464 
+4 El lc 
+0511.1 144 
+las 
+224 Wm 10 
+227 0 4n 
+1111 
+:Y+031412
+031412 
+211 ant VOA 
+212 0314 1107 
+13 051412 
+511 8171 a24 
+na 
+4 It24 
+217 a.n3l. 
+231 Dna 30241 
+:47 05/14 31011 
+24' (Ana 01 11P 
+145 WM 03 Iap 
+1"  1r: 317 
+lM i6,,, 
+%);,, 
+Continued 
+Only 
+014.491 
+WIS To 
+11$03 
+Ram Description 
+mLPE8DNNmN(LQ.LLDQ 
+s :VG 
+4. R 
+MR 
+V 
+1N11P 
+IAN) 
+SHAPED WAVE TO 11041. 
+MIR USW/Stolts 
+SNARED 12091. TO NOW. 
+MESSAGE REiVAL 
+ra iz
+COMM 
+g 44144 
+SMARR r1 
+MRS 
+SHAPED NM TO la:44. 
+SWAIM 
+T /COL 
+FE 
+8174 
+0 MOM 
+TO /0206 
+MLSWsF 
+AL 
+SMARM ra lp194. 
+1111645 
+V 
+rZe it
+SHARE
+SNAR
+W
+W 
+T 
+CLU 
+ISMS 
+ED 
+D N 
+D ?ED rat. 
+LOUD 
+DMUS 
+Mk1 
+M
+iahligk
+eL T8Z811E 
+IARCO 
+1 
+MCLU
+D 
+t'
+kt9SACIE 
+'Now 
+SmARTOLACI uOtDMLIS 
+SNA
+SS.REDM.E MCS1 TO WOK 
+•N 
+TITO/AL 
+WARGO MOOLTO MON. 
+Cm L WAITING. 
+SHARED ICLIJOID was 
+stra
+R
+w erctypcp tirs 
+EEa
+jlig 
+SIIM 
+Meet 0 3000L 
+WASTE PETRIE vu_ 
+IEEE 
+INCLUDE OM/IS 
+01.4.1. 
+MOW, Of Wisc. 
+NES 
+E ITETP2EVAL 
+avieislrg
+aitgv 
+. 
+5/LART2 moat 
+ssisern UM TO A.4292 
+CALEWNI&G 
+R 
+ 
+„5.2
+.La 1 /1°Mrl. 
+NOLUDED 225 
+W~~INt
+WPAIMJFAOI FL
+WAIMEA). FL 
+Awn 
+YN 
+FL 
+14.04 
+It 
+YN 
+WI 
+IIIr 
+FL 
+514 
+ISM 
+FYI" 
+MN 
+*MIR 
+MN 
+MN 
+A04 FL 
+MN 
+WPAIMB ACTI FL 
+MN 
+WIMUNIEN314 FL 
+MN 
+VT 
+FL 
+Tem 
+FL 
+MN 
+MN 
+MN 
+MN 
+MN 
+FL 
+IAN 
+FL 
+FL 
+MN 
+MN 
+LW
+MN
+0
+1.4
+MN
+MN 
+MN 
+MN 
+MN 
+MN
+N
+M 
+MN 
+VT 
+WI YORE NY 
+MN 
+?MAMMA. Ft. 
+MN
+•4031040 
+MN 
+WPM-WADIFL 
+MN 
+MN 
+TAR
+FL 
+ IFYT 
+MAN 
+Ft 
+1MN 
+,4:411=
+g IL 
+2MN 
+WPAANTEACM FL 
+I 
+WPA245CACH FL 
+WAN 
+iWCIJII.G 
+AMU 
+IEW 
+= 
+11.enaml 
+WPALSO
+acx IL 
+vat 
+WcPALM3nL40IFL 
+AIN 
+Chair 
+VOICE USAGE FOR 
+its 
+— 
+Data Thile 
+251 004
+W050 
+251 OS$35 0504 
+25203130 
+233 01411 0? 
+2N 0317 02 
+233 0X1) 02 
+in It% 81411, 
+253 Keil 03 
+EN TAJO 03 
+200 On 030 
+trii 
+COI 7 030 
+it.' <1;1 I 
+2,6 £61 17 0.1 
+237 00,17 03 
+;
+Cm 
+271 46/0 04 
+272 0507 04 1 
+all gi:1 
+t.1 Dun t, 
+3l) 0317 VI I 
+TOTAL VOICE USAGE 10 
+WPMMDEA04 FL 
+WM/ABEAM FL 
+WAN =n. 
+MO, 
+mire 
+Ft
+FL 
+;PM 
+FL 
+WA A: 
+ 
+FL 
+02Ct 
+WW2_ 
+A 
+124110CACN Ft 
+FL 
+WP 
+n. 
+WRALAIWACI4 FL 
+WPALM3FACH  fj. 
+WOWS, VW rt. 
+STUART IL 
+kl 
+Ve=a4 
+FL 
+AMT 
+Wireless 
+Pogo 7 08 
+- Continued 
+alp 
+Chine 
+To 
+Ilsof Ram Owrimion 
+AC" a 
+It
+IEaV
+N 
+E‘FT 
+MN 
+104 
+MN 
+MN 
+MN 
+MN 
+MN 
+MI 
+MIA 
+MN 
+MN 
+MN 
+MAA
+-4 
+LAN 
+1414 
+MN 
+UN 
+-4 
+I404 
+Mai 
+MM
+EVT 
+MN/
+.i&AL,No.4- tve 
+€,A„„„ir
+SIAAREO IJGWAIEEKEM) 
+10F%..AGE RETRIEVAL 
+SNARED Wale 12 IMMO 
+3M/OCP 4/COOL TO N 
+rE
+OW-
+t5t2l ijirgvr
+1
+33t/04ty nirLtiev man 
+:ammo mc1.0 
+SMARM NCI% 0 11245 
+SHAREDWet TO YOB£ 
+SWAM WU ADM WAS 
+5104211110 
+2.AIAR 
+310E1 
+4.0
+11 
+.9 sty!, 
+• 4/JO
+ MCLUDFDM/29 
+SAAREO NCLUDEDIANS 
+51AREO FACLUOCOMVS 
+3 LI/ ,,
+?AAP 
+LU 
+8191.1 
+Wes 
+oCeL 1 14001. 
+SsAiti) ,NCLUOWIami 
+WARE° T.CLIJOCO WIT 
+r• ••;4E %ORM 
+B eip oalLS 
+SHARED 41061.2 14031. 
+MESSAGE RF, PEVA. 
+Outgo 
+230 
+EFTA01692512

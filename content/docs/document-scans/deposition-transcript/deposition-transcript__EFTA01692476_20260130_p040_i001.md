@@ -1,0 +1,290 @@
+---
+source_image: "deposition-transcript__EFTA01692476_20260130_p040_i001.png"
+source_pdf: "EFTA01692476.pdf"
+method: pdf_text
+words: 501
+confidence: 1.00
+extracted: 2026-02-13T17:00:45.950229
+---
+
+Date of InvOlce 
+July T8.2004 
+AT&T Wireless 
+Par solo 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+Taxa. Sochargas and Ragulencry Fess 
+tan oasaInan 
+1 UNIVER3OLCONNECTVITY CHARGE 
+0.03 
+2 FEDERAL TAX 
+039 
+3 LOCAL COMM SCRVCI TAX 
+034 
+4 COUNTY Ill MX 
+050 
+5 STATE COMM SERVICE TAX 
+Total Taw 3444:14• 30•11444OOTO4AmT12042 
+4.17 
+TOTAL CAAR0543 FOR 
+nit 
+DETAIL OF CURRENT ACTIVITY 
+VOICE USAGE FOR 
+NumoN 
+nen Dale TWEE Called 
+I OM* NAM 
+1 Mt I'M 
+/
+4 GAAS 0101 P 
+6 
+00%11y8003 
+ItAIA 
+all It  ; 
+12 CO1901 429 
+WM OT 42P 
+6 735 
+to 
+440403P 
+17 OryleceSEP 
+18 7619 4:654P 
+Is WOO MOW 
+20 3402 OX474 
+AtFA Viten 
+!iv r-at 
+34 62304210 
+35 04.73 05:32P 
+:0 CAM 020w 
+37 0673 0431P 
+20 04€2.5 4204P 
+cras .2372 
+SO 73.2$  044P 
+7. 
+75n 31:42A 
+35 e7M 
+1 LEN/ 
+lP 
+35  0101 050 le 
+30 0707 OLI2P 
+eery 
+Charge 
+Calls To 
+Deed Rale DamElp0On 
+Chary. 
+VOMEMBEACHFL 
+MN 
+SHAREDNOW T05/004 
+FVT 
+I/ESSA 2 Pr 
+VA 
+1417/0/BEACH at 
+'all 
+CalARE MAT 
+VMS 
+WIPMJECMACH It 
+M.. 
+MIlatlat
+ri2vrtala 
+WPALAWFACH FL 
+101 
+544.062 m'ak TO MOW 
+(VT 
+PASSAGE kETRILLAL 
+WPALIEVACHEI. 
+VN 
+vernind
+,toon to at 
+rai p. ma, v.-
+waatiAc. Ft 
+wo43.34334.4c3, FL 
+WI 
+?mixt 444.37 
+to. to 
+'arc 
+t ittollgatagi: 
+It
+MN 
+lTAWMACH TI. 
+ 
+tilliBMIZABIll3
+MY 
+WPA4M312.71I ft 
+WV 
+ON 
+4/' 
+MI4Allalm WY Ft 
+MN 
+z 
+VOAMJEKACH al 
+E: I 
+nd 
+-.WI 
+Eq 
+Azig
+ ft 
+?Planar AGA FL 
+MN 
+SNARED 
+AVFE>EAO 
+NELNIMEACH FL 
+a 
+SNARED MGHT 
+KW 
+VIVALNet ACM PE 
+MN 
+SOARED NIGIET 
+LIME 
+FVT 
+f 
+VAS 
+WILLIMIDACHT 
+VOW 
+AL 
+WIGNMESA94
+I. 
+M 
+DAI 
+4 
+V
+MON. WAS 
+WI' N.XAsE AO 01 
+WI 
+p DOW 16 t4
+4. 
+WPALAISEAGIOL 
+MN 
+fl) MOW TO 1/664 
+M
+SAGE laTTROvAL 
+WPMJESEACHIN. 
+r.4 
+SEEMED MOW TO 1195. 
+NtSLAyt PSTADvEL 
+VEPALIMEACHIL 
+ra 
+Weagr2Pcivr 
+INOCEIWO 
+Mai 
+tHAPEDAINTRY MIES 
+VAPALWEACX Ft 
+RANI 
+SNADEDANYTRY MI6 
+DECOYING 
+10MN 
+SHAMMY:WE ERNS 
+voNEAMEACH n 
+all 
+2NADEO MAK Ti) L4255 
+NICZAGF us Tegvm 
+VIPALPEIFACHII 
+Wall 
+iNimg a 
+To
+ ra 
+WPALAIBEAO 4 a 
+1001 
+IM 
+lalTEGAGE ETTRIavAL 
+WoMMIMACIE ft 
+2MIE 
+<HARM ANny Noe 
+.vg,Alltc.IIIR 
+?Xi 
+i'Ll€V2T;ltii Ng 
+INCEYEING 
+NMI 
+SHAND ANY- Me MIES 
+MOONNG 
+INN 
+SHARED ANYTIME MNS 
+VOICE USAGE FOR 
+Ntentam 
+Iwo Delo Time Cade 
+17 ow, wow 
+IA 0O7.0301/1
+0701020 
+▪ 07410020r 
+42 *MO PS Iva 
+• 
+376044478P 
+44 ortio oozy 
+ES 07/10 Cana 
+07/11 01 104 
+47 0
+48 cull OIOIPP 
+•003 
+OM
+FMPP 
+11 SIRI 
+at 0 /II IIMP 
+fa 07/15 12570 
+54 0705 0130P 
+cts 07/E6 04,3B 
+it 83;11 16.
+Continued 
+GM 
+Calls To 
+Used Theta 
+W-CIVI40 
+DrtiOrliCy 
+ft 
+WP 
+FL 
+" a 
+rt. 
+FL 
+FL 
+WPAMMEADI Et 
+Egire:::
+t4 
+WPALMIVON FL 
+INPNAMEA01 
+TOTAL MCC USAGE F'
+MN 
+(VT 
+MN 
+MN 
+r4 
+IAN 
+WI
+MA
+W 
+MN 
+(VT 
+MN 
+MN 
+Ian 
+/10I 
+Char 
+DoscreeMal 
+eafaitig EA/A
+fl
+ T Illal. 
+ii,,ittgentT.E1Or. 
+von Q. tii 
+voce
+'too 
+EARED MG/47 
+FitENLE 
+ARED14461204 tk4N4) 
+AVEC
+EPA1 
+IR Fla 
+KAI 
+m
+REO ANYTTAE MI6 lrJ 
+114. 
+T8 al 
+:Na 
+, 
+7 
+, 
+" BIVANYTiVael 
+k
+ED MET 
+IONS 
+r,/la
+ji 1:2 
+Mtaillr° 
+Chirp. 
+oW 
+EFTA01692515

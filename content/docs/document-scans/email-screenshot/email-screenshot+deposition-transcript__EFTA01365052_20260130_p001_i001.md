@@ -1,0 +1,45 @@
+---
+source_image: "email-screenshot+deposition-transcript__EFTA01365052_20260130_p001_i001.png"
+source_pdf: "EFTA01365052.pdf"
+method: pdf_text
+words: 566
+confidence: 1.00
+extracted: 2026-02-13T17:34:23.863722
+---
+
+Disclaimer 
+I 
+Deutsche Bank (which includes Deutsche Bank AG, its branches and all affiliated companies) is not acting as your or any of your agents' (collectively, "You" or "Your") 
+financial adviser, consultant or fiduciary with respect to any information provided in the materials attached hereto. Deutsche Bank does not provide investment, legal, tax 
+or accounting advice and does not express any opinion or recommendation whatsoever as to any strategies, products or any other information presented in the 
+materials. Information contained herein is being provided solely on the basis that it has not and will not form a primary basis for any investment decision, and does not 
+constitute a recommendation, or express an opinion on, any product or service or any trading strategy. 
+The information contained herein is provided solely for Your internal use on the basis that You have such knowledge and experience in financial and business matters to be capable of 
+evaluating the merits and risks associated with such information. Investments in products and strategies described herein could incur substantial loss and may not be suitable for all 
+investors. Other alternatives may be available, including through other dealers. You should make an independent assessment, in consultation with Your tax, legal, accounting 
+and other advisors, of the information herein In light of Your own objectives and circumstances. The ultimate responsibility for Your decision to rely on information contained 
+herein rests solely with You. 
+The information herein has been compiled from sources believed to be reliable. including third party depositories and/or other information vendor sources, and may include calculations 
+based on algorithms (including inputs, methodology and output) that are designed, maintained and/or managed by third parties. Deutsche Bank does not guarantee the accuracy 
+and/or completeness of the information contained herein and shall not be held liable for any errors, omissions or misinterpretations. 
+Deutsche Bank has no obligation to update. modify or amend the information provided herein. Deutsche Bank may engage in securities transactions. on a proprietary basis or 
+otherwise, in a manner that is inconsistent with information that is contained in the attached materials. 
+DEUTSCHE BANK SPECIFICALLY DISCLAIMS ALL LIABILITY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, SPECIAL OR OTHER LOSSES OR DAMAGES INCLUDING 
+LOSS OF PROFITS INCURRED BY YOU OR ANY THIRD PARTY THAT MAY ARISE FROM ANY RELIANCE ON THE INFORMATION CONTAINED IN THESE MATERIALS. 
+The distribution of this document and availability of these products and services in certain jurisdictions may be restricted by law. You may not distnbute this document, in whole or in 
+part, without our express written permission. DB is authorized under German Banking Law (competent authority: BaFin - Federal Financial Supervising Authority) and regulated by the 
+Financial Services Authority for the conduct of UK business. In the US this document is approved and or distributed by Deutsche Bank Securities Inc., a member of the 
+NYSE,FINRA,NFA and SIPC. 
+Past Performance 
+The past performance of securities, indexes or other instruments referred to herein does not guarantee or predict future performance. 
+Deutsche Bank may hold positions 
+We or our affiliates or persons associated with us or such affiliates may: maintain a long or short position in securities referred to herein, or in related futures or opfions, purchase or 
+sell, make a market in. or engage in any other transaction involving such securities, and earn brokerage or other compensation. 
+019910 111114 
+Deutsche Bank 
+10 
+CONFIDENTIAL - PURSUANT TO FED. R. CRIM. P. 6(e) 
+DB-SDNY-0055658 
+CONFIDENTIAL 
+SDNY_GM_00201842 
+EFTA01365052

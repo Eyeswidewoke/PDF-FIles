@@ -1,0 +1,320 @@
+---
+source_image: "bank-statement+spreadsheet__EFTA02711366_20260210_p003_i001.png"
+source_pdf: "EFTA02711366.pdf"
+method: pdf_text
+words: 533
+confidence: 1.00
+extracted: 2026-02-13T16:09:12.063608
+---
+
+TRUSTS 2014 LDB LLC 
+UNREALIZED LO TO HI 
+JULY 2014 SOTHEBY'S 
+Artist 
+Item Description 
+Total Paid (in 
+USD) 
+Sotheby's 
+Appraised 
+Value (July 
+2014) 
+Fair Value (% 
+Ownership) or 
+Cost (if not on 
+Appraisal) 
+UNREALIZED 
+GAIN (LOSS) 
+CUMULATIVE 
+GROSS 
+UNREALIZED 
+GAIN (LOSS) 
+INCREMENTAL 
+APO 2 
+DEGAS, EDGAR 
+Les repasseuses (Ironing Women) 
+2.167.500 
+2.400.000 
+2,400,000 
+232.500 
+1,242.058 
+APO 2 
+SEVERINI, GINO 
+II Tango Argentino 
+533,750 
+800,000 
+800,000 
+266,250 
+1,508,308 
+APO 2 
+NOLDE, EMIL 
+Tanzerin (S. L 56) 
+1.150.687 
+1,500,000 
+1,500,000 
+349.313 
+1.857.621 
+LDB 2014 LLC 
+SEURAT. GEORGES 
+Le Chien Noir (Etude pour 'Un Dimanche a La Gran 
+1,380,188 
+1,750.000 
+1,750,000 
+369.813 
+2,227.434 
+APO 2 
+GAUGUIN. PAUL 
+Le Peintre Roy 
+2.600.000 
+3.000.000 
+3.000.000 
+400.000 
+2.627.434 
+APO 2 
+FONTANA. LUCID 
+Spaziale 
+1.284,948 
+1,750.000 
+1.750.000 
+465.052 
+3.092.485 
+LOB 2014 LLC 
+.Concetto 
+DE KOONING. WILLEM Woman 
+3.021,289 
+3.500.000 
+3.500.000 
+478.711 
+3.571.196 
+APO 2 
+GRIS. JUAN 
+Man with an Opera Hat (assumed to be Homme au 
+869.000 
+1.500.000 
+1.500.000 
+631.000 
+4,202.196 
+APO 2 
+SEURAT. GEORGES 
+Le manteau blanc (Promeneuse au parapluie) 
+1.600.000 
+2.250,000 
+2.250,000 
+650.000 
+4.852.196 
+LOB 2014 LLC 
+PICASSO. PABLO 
+Jeune homme et cheval 
+1,792.349 
+2,500,000 
+2.500,000 
+707,651 
+5,559,847 
+LOB 2014 LLC 
+PICASSO, PABLO 
+Verre. pipe et parquet de tabac 
+1,281.000 
+2.000.000 
+2,000.000 
+719,000 
+6.278.847 
+APO 2 
+PICASSO. PABLO 
+La Minotauromachie 
+1,261,602 
+2.000.000 
+2,000.000 
+738,398 
+7,017.245 
+APO 2 
+PICASSO. PABLO 
+Figure Surrealiste (Camel. 1044) 
+950.991 
+1.800.000 
+1.800.000 
+849.009 
+7.866.254 
+7.866.254 
+LOB 2014 LLC 
+MONDRIAN, PIET 
+Church at Domburg: Church Facade IV 
+1.601,250 
+2.500.000 
+2.500.000 
+898.750 
+8.765.004 
+APO 2 
+BURRI. ALBERTO 
+Bianco Cretto 
+1.083.750 
+2.000.000 
+2,000.000 
+916.250 
+9.681.254 
+APO 2 
+DE GOYA. FRANCISCO Bajan rihenda (They go down quarreling) 
+4.050.313 
+5.000.000 
+5.000.000 
+949.687 
+10.630.941 
+LDB 2014 LLC 
+SCHIELE. EGON 
+Flusslandschaft mit zwei Bauman (River Landscape 
+24.000.000 
+25.000.000 
+25,000,000 
+1.000.000 
+11,630.941 
+APO 2 
+PICASSO. PABLO 
+Portrait of Mateu Fernandez de Soto 
+36,410.522 
+37,500,000 
+37,500,000 
+1,089,478 
+12,720,419 
+APO 2 
+MANZONI, PIERO 
+Achrome 
+704,438 
+2,000,000 
+2,000,000 
+1,295,563 
+14,015.982 
+APO 2 
+LEGER, FERNAND 
+Les lumen sur les toils 
+1,648,273 
+3.000.000 
+3.000,000 
+1,351,727 
+15.367.709 
+APO 2 
+REDON, ODILON 
+Visage derriere les barreaux 
+863.770 
+2.250.000 
+2,250.000 
+1.386.230 
+16.753.939 
+LOB 2014 LLC 
+CALDER. ALEXANDER Portrait de Fernand Leger 
+1,001,313 
+2.500.000 
+2.500.000 
+1.498.688 
+18.252.626 
+APO 2 
+PICASSO. PABLO 
+Weeping Woman (La femme qui pleure) 
+1,357.813 
+3.000.000 
+3.000.000 
+1.642.188 
+19.894.814 
+APO 2 
+DEGAS. EDGAR 
+Le Pas Battu 
+2.281.125 
+4.000.000 
+4.000.000 
+1.718.875 
+21,613.689 
+APO 2 
+PICASSO. PABLO 
+Acrobate 
+3,251.250 
+5,000,000 
+5.000,000 
+1.748.750 
+23,362.439 
+APO 2 
+AVERY, MILTON 
+Conversation 
+649.500 
+2,500,000 
+2.500,000 
+1.850,500 
+25,212,939 
+APO 2 
+BRANCUSI, CONSTANT The Kiss 
+9.741.490 
+12,000,000 
+12,000.000 
+2,258,510 
+27,471.449 
+LOB 2014 LLC 
+PABLO 
+Deux Femmes 
+2,322,774 
+5.000.000 
+5.000,000 
+2,677,226 
+30.148,674 
+APO 2 
+.PICASSO, 
+LIOTARD. JEAN-ETIENN Femme Turque au Tambourin 
+1,308.402 
+4.000.000 
+4.000.000 
+2,691.598 
+32.840.272 
+APO 2 
+WARHOL. ANDY 
+Nine Multicolored Marilyns 
+2.291.721 
+5.000.000 
+5.000.000 
+2.708.279 
+35.548.551 
+APO 2 
+DEGAS. EDGAR 
+Les Chevaux de courses 
+8.284.340 
+12.500.000 
+12.500.000 
+4,215.660 
+39.764.212 
+LDB 2014 LLC 
+MONDRIAN. PIET 
+Composition with Color Planes and Grey Lines 
+8.821.221 
+15.000.000 
+15.000.000 
+6178,779 
+45,942.991 
+APO 2 
+MATISSE, HENRI 
+Amphitrite 
+6.000.000 
+14.000,000 
+14.000,000 
+8.000.000 
+53,942.991 
+APO 2 
+LICHTENSTEIN, ROY 
+Nude with Abstract Painting 
+4,345,000 
+18,000,000 
+18,000,000 
+13.655,000 
+67,597,991 
+APO 2 
+MALEVICH. KAZIMIR 
+Plane in Rotation, DIT Cercle Noir (Black Circle) 
+20.049.375 
+35.000.000 
+35,000,000 
+14,950,625 
+82.548.616 
+APO 2 
+GIACOMETTI, ALBERTC Figure Moyenne II 
+2,922,750 
+22,500.000 
+22,500,000 
+19,577,250 
+102,125,866 
+94.259,611 
+Page 3 of 3 
+EFTA_R1_02125037 
+EFTA02711368

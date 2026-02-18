@@ -1,0 +1,310 @@
+---
+source_image: "deposition-transcript+bank-statement__EFTA01715572_20260130_p033_i001.png"
+source_pdf: "EFTA01715572.pdf"
+method: pdf_text
+words: 526
+confidence: 1.00
+extracted: 2026-02-13T16:20:31.825300
+---
+
+Page 
+19 
+Account Number: 
+Billing Date: 
+Mobile Muter: 
+Mobile Veer: 
+Total Mobiles: 
+AIRTIME AND LONG DISTANCE CHARGES 
+CHARGES 
+Length 
+City 
+of 
+Air 
+Long 
+Itm Date 
+Time 
+CL No. Called 
+Called 
+F P Call Time 
+Diet. Total 
+1 04/07 10:27AM 
+2 04/07 02:24PM 
+3 04/07 02:25PM 
+4 04/07 02:26PM 
+5 04/07 03:12W 
+6 04/07 06:28PM 
+7 04/07 08:46PM 
+8 04/07 08:55PM 
+9 04/09 12:12PM 
+10 04/10 01:0SAM 
+11 04/10 06:45PM 
+12 04/10 06:47PM 
+13 04/10 07:11PM 
+14 04/10 07:13P41 
+15 04/10 07:17PM 
+16 04/10 07:27PM 
+17 04/11 06:32PM 
+18 04/11 06:32PM 
+19 04/11 06:33PM 
+20 04/11 06:33PN 
+21 04/11 06:34PM 
+22 04/11 06:43PM 
+23 04/11 06:51PM 
+24 04/11 06:53PM 
+25 04/11 07:13PM 
+26 04/11 10:40PM 
+27 04/11 10:48PM 
+28 04/11 11:06PM 
+29 04/11 11:08PM 
+30 04/11 11:12PM 
+31 04/11 11:22PM 
+32 04/16 04:48PM 
+33 04/16 04:50PM 
+34 04/16 04:S1PM 
+35 04/16 05:11PM 
+36 04/17 08:17PM 
+37 04/17 11:14PM 
+38 04/18 01:42PN 
+39 04/18 05:53714 
+40 04/18 05:57PM 
+41 04/18 06:24PM 
+42 04/19 04:36PM 
+43 04/19 04:37PM 
+44 04/19 04:41PM 
+45 04/19 09:15PM 
+46 04/30 10:17AM 
+47 04/21 07:04PM 
+48 04/21 09:10PM 
+49 04/21 09:10PM 
+50 04/22 08:13PM 
+SI 04/22 10:07AM 
+52 04/23 03:31PM 
+53 04/23 09:37714 
+54 04/25 12:11PM 
+55 04/27 03:06PM 
+56 04/27 07:22PM 
+ICE CL 
+PALM FL 
+PALM FL 
+PALM FL 
+PALM FL 
+PALM FL 
+PALM FL 
+PALM FL 
+NCOMI CL 
+ITTSB PA W 
+NCOMI CL W 
+PALM FL M 
+PALM FL 
+PALM FL 14 
+PALM FL K 
+NCOMI CL K 
+PALM PL W 
+4 PALM FL W 
+PALM PL K 
+PALM FL W 
+PALM FL K 
+PALM FL K 
+PALM FL W 
+' PALM PL K 
+PALM PL K 
+' PALM PL W 
+PALM FL M 
+PALM FL W 
+' PALM FL 14 
+INCOMI CL W 
+PALM FL W 
+:DICE CL 
+44 PALM FL 
+' PALM FL 
+PALM PL 
+INCOMI CL W 
+VOICE CL W 
+VOICE CL 
+K PALM FL 44 
+14 PALM FL W 
+14 PALM PL 
+W PALM PL 
+K PAW FL 
+W PALM FL 
+INCOMI CL W 
+INCOMI CL 
+INCOMI CL 
+SYKESV MD K 
+SYKESV ND K 
+INCOMI CL 
+SY1412.517 MD 
+INCOMI CL 
+INCOMI CL W 
+VOICE CL 
+INCOMI CL 
+INCOMI CL 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+8 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+28 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+18 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+10 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+11 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+EFTA01715604

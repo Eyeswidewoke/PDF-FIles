@@ -1,0 +1,27 @@
+{
+  "generated": "2026-02-12T18:50:18+00:00",
+  "queue_size": 500,
+  "terms": [
+    "victim",
+    "minor",
+    "underage"
+  ],
+  "datasets": {
+    "DS9": {
+      "files": 127,
+      "total_hits": 1905,
+      "victim_hits": 635,
+      "minor_hits": 635,
+      "underage_hits": 635,
+      "excerpt_count": 1905
+    },
+    "DS10": {
+      "files": 373,
+      "total_hits": 19363,
+      "victim_hits": 13548,
+      "minor_hits": 4706,
+      "underage_hits": 1109,
+      "excerpt_count": 19363
+    }
+  }
+}

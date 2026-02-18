@@ -1,0 +1,71 @@
+---
+source_image: "deposition-transcript+affidavit+court-document+invoice__EFTA01290001_20260130_p061_i001.png"
+source_pdf: "EFTA01290001.pdf"
+method: pdf_text
+words: 566
+confidence: 1.00
+extracted: 2026-02-13T16:19:19.068039
+---
+
+Deutsche Bank 
+P.O Box 1776, Baltimore, MD 21203 
+Client Service Information 
+Your lammed Spodaint ENJ 
+JOSHUA SHOSHAN 
+June 1,2017 - June 30,2017 
+SOUTHERN TRUST COMPANY INC 
+Your Account Information 
+Coated 'donation 
+Telephone Number: 
+TAX LOT DEFAULT DISPOSITION METHOD 
+Default Method for M utual Funds: 
+First In First Out 
+Default Method for Stocks in a Dividend Reinvestment Plan: 
+First In First Out 
+Default Method for all Other Securities: 
+First In First Out 
+BOND AMORTIZATION ELECTIONS 
+Amortize premium on taxable bonds based on Constant Yield Method: Yes 
+Accrual market discount method for all other bond types: 
+Constant Yield Method 
+Include market discount in income annually: 
+No 
+ELECTRON IC DELIVERY 
+You have not selected any account communications for electronic delivery. To register and turn off paper communications, log in to your account or contact your Investment 
+Specialist for more information. 
+Important Information and Disclosures 
+The Role of Pershing 
+• 
+Pershing carries your account as clearing broker pursuant to a clearing agreement with your financial institution. Pershing may accept from your financial institution without 
+inquiry or investigation (i) orders for the purchase and sale of securities and other property and (ii) any other instructions concerning your account. Pershing is not responsible or 
+liable for any acts or omissions of your financial institution or its employees and it does not supervise them. Pershing provides no investment advice nor does it assess the 
+suitability of any transaction or order. Pershing acts as the agent of your financial institution and you agree that you w ill not hold Pershing or any person controlling or under 
+common control with it liable for any investment losses incurred by you. 
+• 
+Pershing performs several key functions at the direction of your financial institution. It acts as custodian for funds and securities you may deposit with it directly or through your 
+financial institution or that it receives as the result of securities transactions it processes. 
+• 
+Your financial institution is responsible for adherence to the securities laws, regulations and rules which apply to it regarding its own operations and the supervision of your 
+account, its sales representatives and other personnel. Your financial institution is also responsible for approving the opening of accounts and obtaining account documents; the 
+acceptance and, in certain instances, execution of securities orders: the assessment of the suitability of those transactions, w here applicable; the rendering of investment advice, 
+if any, to you and in general, for the ongoing relationship that it has with you. 
+• 
+Inquiries concerning the positions and balances in your account may be directed to the Pershing Customer Service Department at (201) 413.3333.AI' other inquiries regarding 
+your account or activity should be directed to your financial institution. Your financial organization's contact information can be found on the first page of this statement. 
+• 
+For a description of other functions performed by Pershing please consult the Disclosure Statement provided to you upon the opening of your account. This notice is not meant as 
+a definitive enumeration of every possible circumstance, but as a general disclosure. If you have any questions regarding this notice or if you would like additional copies of the 
+CONFIDENTIAL — PURSUANT TO FED. R CRIM. P. 6(e) 
+Pagel of 9 
+CONFIDWFAL-4
+Wed bane% 
+hay Year Sffice 2C0/ 
+DAUM RA TED COMUNICATiOt6 
+FICILIANCI 
+Clearlas through Peal% LC. a wilwanornal 
+emery of tinier. a Nom Yak Mike 
+Corporation (MY NNW) 
+Ptrshint L1C. mat. FINRA,EINYILGM-00047192 
+DB-SDNY-0010016 
+EFrA_00 I 57801 
+EFTA01290061

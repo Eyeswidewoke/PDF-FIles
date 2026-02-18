@@ -1,0 +1,518 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p020_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 890
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.903127
+---
+
+. . 
+1—,1:cingular 
+Arar Wireless 
+~UM mot 
+Aetna* Name 
+Date of Invoice 
+January 12. 2005 
+Pago 18 of 22 
+DETAIL OF CURRENT ACTIVITY CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+voia USAGE I"( 
+Renew 
+Rigia DM* Tam C.-
+01/02 01:49A 
+SIZMn 
+010? MIA 
+0102
+11* 
+: 
+;
+RAM
+gig 
+1104 
+09112 
+aø 0002 M DIP 
+906 0102 01:1M 
+BCTI Olga 0123P 
+W9 01010~ 
+rg gal MME 
+13 D2Ø gil4P 
+011 1 71
+°  4
+1/12 i2
+F2I hP:
+109 in 
+0209 
+41 
+IRO 01/22 
+j P
+01 
+M 4-04279 
+02019 
+*Ism" 
+m 
+Oki* 
+1132 01M 04:110 
+213 01:02 66:1W 
+M 011
+Ø
+LQ øpTA
+Lx0101D201P 
+an 0122 0202P 
+FH SZMt 
+0102076191
+09CR
+kli E 
+11411 01 
+p0
+p3T)] gi
+gpp 
+31 
+I , 21 01M! 
+VOICE usAc,r. MR 
+~Ms 
+CMS To 
+WPMAIOLACII 1FL 
+Mail 
+mallenDmv.~ silk 
+1.1~1 Rau 1:1~.0 
+Champ /I!~ Ca• Tina Coate 
+Mil 01/02 02:3GP 
+WP 
+II 
+UNLisalTOTMVS:
+MØNWB2 /YN 
+IL 
+AN 
+g6 gig! gfnr. 
+ASAGE FLETAFETN. 
+WIPALMIXACII FL 
+JNLIIITE0 NYMN) 14W 
+Et 0102 02610 
+UM
+WPAL1MEACN PI 
+WTOVIMIJN314N 
+169 CI1 
+MOW 
+fil., 01 
+OCUP 
+MESSAGE RETRIETAI. 
+VIT #1 Mg: 
+R  
+HL 
+Wan 
+MW 
+MN 
+MI OW. Map 
+U
+» 
+NAT 
+MX 
+0/2 010? C*29P 
+MØR 
+WAIN I 
+WAN 
+VIN 
+UM 
+~RN 
+gr. 812i Sgtg 
+WS, 
+UNUINT 1 0 ~RN 604 
+9”  glg aU; 
+:MUM ltt NM/R 
+mr< 
+sw,itimr„,,v(42:: 
+0.4111•TED IMMT110 IAN 
+E 812 Eli; 
+beg 010 
+21P 
+gNYI
+Ntig¥11W00 14.11 
+VI 01/02 0924P 
+14WW) MN 
+B)0 owl ten. 
+wt. 
+VT Owl MUIR 
+UNUMITU NMOLNJ 1.1m 
+Vitaam0 ~A 
+mot 
+WPM WO N.V.M 
+its 
+UNtIUTED MWM 
+BIN 
+2.i ;i f ar,r, 
+75 01 
+OP 10 
+UNUIBT920 /WAND MN 
+26 OW:09SW 
+R
+ NAI/010 my 
+ii 
+133,
+87/ ,I18,1
+E0•15
+,119 
+All 01.02 OR SW 
+I 
+402 0102 102010
+043 0102 1POW 
+I 
+gi.0/ 1g ng 
+(FT 01.02 1ta19 
+01.02 10130 
+Xi 1 
+/I 
+939 0102 102W 
+PM 01.01 WY* 
+I
+ 01.02 ia2 /0 
+i
+i" ii 0*  ; I0
+i P 2 10.
+1* 119P
+PO (11 
+%MOP 
+P/4 010 1.241P 
+I 
+NM 01 
+1650P 
+II 
+tin 513 lnl: 
+:,i 5. i0rA1. Kv,„iii
+1 1211 il§1, 
+, slot mop 
+,;i 1 ia 22 inlep 
+c, 
+11.
+90T/Fr 
+Down 
+COr -Lod 
+Choy 
+cowls 
+rt
+IOYNTOMICH FL 
+Tqi FmaCL 
+To Ems L 
+F 
+Ng: 
+BOYNT 
+Nil 
+MCC•IING 
+F
+irZi4 list 
+YhT0141904 FL 
+Wie."1.W AC,* M. 
+9cCOM44 
+\r/0.1l0
+e.„ SACN 0.
+WPNAIDEACH Fl 
+M8t:18 
+INCOMMI 
+:=2 
+MCOMPIG 
+LMYPP 
+INCOWIC 
+NCOMM2 
+VIP A
+I 
+MMILICN Ft 
+Va
+nACII IL 
+1.9201ANO 
+WPOZECI4FL 
+N 
+Ma
+AMl 
+MN
+YN 
+Ditrl 
+iv . 
+MX re. 
+»X 
+I UM 
+IMX 
+HMI 
+%VT 
+lIM 
+3,12D11=1.23 2 
+UMJATED NMKN) MN 
+Umssin-T£8=g2:::: 
+UM. 
+NVa.N? NM 
+UIM 
+U 
+NWSNO Mr< 
+NVJOI'l MN 
+U 
+NWI(N) NIA 
+UNLIVIn0 NAVOI,3 MN 
+UNIA:ATE0 NAVAN3141. 
+"NM 
+NANK110 MN. 
+WILMITEO1 ~MID 1.W. 
+MEN 
+NMM 
+MN 
+UM.•• 
+HAW 
+MN 
+N
+M
+W1UM 
+NAVE 
+A. 
+M.141 
+M 
+UMJATE NIMENO MN 
+MN 
+WILMWD MWVIO MN 
+CALL WANT% 
+"MT° 
+NMTAIO MN 
+L.FCbillr
+5 FmN0 MN 
+IF/412A125~4
+- 0mN 
+CA.L ~NW 
+MIMEO) WNENO MN 
+EA-L WAITING 
+UMNATE0 WWENO MN 
+VNUIAITFO ~TN MN 
+1.1/11.011 
+1
+1{ WMI.11 MN 
+UNUM1L WM04 MN 
+Wit« IL ~A 
+MN 
+WEAM12 HAWN MN 
+UNUAMQ
+11
+MPP010 MN 
+"Meru/ N/MWO MN 
+a8----gaEi.å: 
+UNUNIT DIUNAN MN 
+UNUMT[DNMAIND INN 
+UNLIMITED minim laN 
+1118 
+., . 13 0, 
+g 
+I 
+01> 
+919 01 
+l. 
+11;gP
+11. 
+li 
+11:519 
+rAXIIRM:111 
+OW, 
+Chopp 
+Calk To 
+U.S Rao Dectiption 
+forrootioa<, 
+M.ONNCI 
+IIOYNTOMICION. 
+NEW YONK NY 
+INC OM NG 
+IAX:2 
+t=
+..(gA 
+Z ' tOM
+Mill rA8:
+IMCOMN0 
+'WON VG 
+IKCOMNG 
+MCCANN° 
+1
+:46.
+W AMIMIL0.1 FL 
+WPAMNICACH FL 
+,t.4%.14Z
+CW 
+ACJI FL 
+V.PAIMIEACH FL 
+WPAYMEACH FL 
+INCONN4 
+iL 
+YX 
+MX 
+IAN 
+IAN 
+NIN 
+N
+M 
+MN 
+MN 
+IMO 
+N
+M 
+WM 
+MN 
+IAN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+1/aN 
+3/421 
+1
+N 
+11•
+MFi 
+INN 
+1 MN 
+I WI
+DAN 
+ISM 
+1MN 
+DIN 
+1MN 
+Fl 
+MIN 
+eMN 
+'MN 
+1M1/ 
+MPA1MB 
+1NbN 
+WPAgA 
+FE 
+11.104 
+WPA 
+F 
+'MN 
+PALAMEAC.14 F 
+HAN 
+WPALAMEAGN F 
+INGOMI 
+WIN 
+MVP 
+ALF. FL 
+Imp 
+ZION 
+% !nrl= 
+rAltarej 
+1MN 
+1M11 
+5.1 ,1121ft 
+flit 
+%%PAU/MACH FL 
+115)1 
+WhIaAcmn 
+WIRUMNACII 
+MPAIYEAENR 
+BAN 
+WPM/MUCH R 
+2111111 
+WPMAMEAEN l. 
+WPALMINEA04 F F 
+1: 
+‘114p3r . 
+1
+1 
+WPA 
+5=41 
+INGEMNG
+WOMMISCACM F 
+%Pm/ 
+CH n 
+EL 
+WiLeurl 
+~ 
+NWKM> MN 
+LNIAIT 
+PHD MN 
+INuNIT.4 wF4Nu /AN 
+LMAKT ONWKITIF MN 
+LNLIMIT pi  NAVX240 MN 
+12401FIT D N.MMIIQ MIN 
+LNUINTEDWWX/t0 MN 
+1,N 
+1.N
+UNIT 0 
+1.11/0 NATT.NO mN 
+I. NUM/ V 
+NMIKNO 
+&WEN:0MN 
+M. 
+"NM 
+%WEND MN 
+Leilwrtir
+MITAN 
+WIWI 
+WW144 MN 
+1.:NUMT 
+NAVT/F MN 
+1. muMT 
+NAview MN 
+VNIAATC0 NM040 MN 
+UNLIMTED %MTN') MN 
+L.MILI
+.L L TISEg w\v):440.tz 
+Lz,tt,11F21;2p1 
+Wa.m1 
+MVALN mt. 
+IFM2ATED WOW MN 
+t/MMT 
+WpW MN 
+ISM2111W
+NAWNTIZI 
+IYCLAITErl ?NNW° MN 
+I.I/gIATE0 MAWS() MN 
+~MUD WNWO IAN 
+IMITATE0 NPM040 Nin 
+vimim 1 
+NIWM0) MN 
+UM W 
+0 ~WO MN 
+UMMIp
+NAMWO PAN 
+UMM I 
+NAM«) INN 
+NES$AgIE KIM,. VAL 
+UNIMUOMMICNO MN 
+VIN.5.11(0 WW040 MN 
+um/onto BiNMNO MN 
+~JAM 
+IllYMNI) MN 
+INLMILONAØMN 
+LNMIfUNA'MN MN 
+INIMITen NM» IAN 
+LNUATCCI NAVIM MN 
+1.1112411ED FINFIM lai 
+liftman) NATTA NW 
+C111.11.91TO «Mx 
+1AN 
+1.4M.INETED %NNW 
+AN 
+ltg/MIEU WNW 
+....tuM I 
+I.Nt.M4 Wile4MN 
+I.PLUT 
+VMM MN 
+Mil 
+1.NIMUI) WNW) mu 
+‘0.10ITED vAWND MN 
+L5LIBATE0 TATTNO IAN 
+I NuI111,0 WaKNV MN 
+I. SI.LXII1 WNW° MN 
+I. 
+vef
+NUIAT 
+icon mu 
+1. TIINIT 
+YAVICHQ MN 
+I. %OM It 
+WNWO MN 
+I '4 UM/E.0 ~WO MN 
+1*IZrl=
+4 14 1:4 
+L.NUMT 
+WWI. MN 
+lotion° aWicol >la% 
+1.141.MTE0 V.WITN0 MN 
+Charg• 
+EFTA01692794

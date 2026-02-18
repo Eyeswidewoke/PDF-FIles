@@ -1,0 +1,10 @@
+---
+source_image: "boat+office__COMBINED_ALL_EPSTEIN_FILES_20260210_p5175_i001.jpg"
+source_pdf: "COMBINED_ALL_EPSTEIN_FILES_20260210.pdf"
+method: "clip-classified"
+words: 0
+confidence: 1.00
+extracted: "2026-02-16T09:47:24.444964"
+category: "boat"
+---
+Gallery pick from boat category. EFTA: COMBINED_ALL_EPSTEIN_FILES_20260210

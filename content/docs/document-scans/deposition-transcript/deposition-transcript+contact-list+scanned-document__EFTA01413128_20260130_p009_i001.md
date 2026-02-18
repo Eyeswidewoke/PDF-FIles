@@ -1,0 +1,294 @@
+---
+source_image: "deposition-transcript+contact-list+scanned-document__EFTA01413128_20260130_p009_i001.png"
+source_pdf: "EFTA01413128.pdf"
+method: pdf_text
+words: 578
+confidence: 1.00
+extracted: 2026-02-13T16:20:40.545098
+---
+
+50242 
+HRC4Neg HRC4 
+4.0000022118E10 MARIA VICTORIA MEJIA 
+Waived No 
+1/14/2014 4:31 DELA 
+CLA 
+9955 
+52296 
+HubMBenLo 
+HubSpoke 
+99955009 
+BT Money Transfer Omni Account Waived No 
+4/1/2014 4:52 
+DELACLA 1146 
+x 
+51228 
+HubMBenLo 
+HubSpoke 
+99955009 
+BT Money Transfer Omni Account Waived No 
+3/1/2014 4:10 
+DELACLA 3181 
+50654 
+HubMultOrg 
+HubSpoke 
+99955009 
+BT Money Transfer Omni Account Waived No 
+2/1/2014 4:12 
+DELACLA 3238 
+51849 
+HubMOrgLoLE 
+HubSpoke 
+99955009 
+BT Money Transfer Omni Account Waived No 
+3/18/2014 4:11 DELACLA 3336 
+50641 
+HubMBenLo 
+HubSpoke 
+99955009 
+BT Money Transfer Omni Account Waived No 
+2/1/2014 4:12 
+DELACLA 3440 
+52302 
+HubMBenLo 
+HubSpoke 
+1.0000146465E10 PATRICIA A MAY Waived No 
+4/1/2014 4:5 
+2 
+DELACLA 3854 
+52294 
+HubMBenLo 
+HubSpoke 
+99955009 
+BT Money Transfer Omni Account Waived No 
+4/1/2014 4:52 
+DELACLA 5656 
+50645 
+HubMBenLo 
+HubSpoke 
+99955009 
+BT Money Transfer Omni Account Waived No 
+2/1/2014 4:12 
+DELACLA 5896 
+51804 
+HubMOrgLoLB 
+HubSpoke 
+1.0000442979E10 MAC PROPERTY MANAGEMENT, LLC 
+Waived No 
+3/18/2014 4:11 DELACLA 7754 
+50647 
+HubMBenLo 
+HubSpoke 
+1.0000146465E10 PATRICIA A MAY Waived No 
+2/1/2014 4:1 
+2 
+DELACLA 8081 
+52306 
+HubMultOrg 
+HubSpoke 
+Waived NO 
+4/1/2014 4:52 
+DELACLA 9288 
+52436 
+RepDebit 
+Repetitive 
+1.0000450328E10 ORNATUS USA LLC Waived No 
+4/8/2014 4:1 
+1 
+DELACLA 28 
+x 
+50542 
+RepPerCk 
+Repetitive 
+1.0000210057E10 JENNISON ASSOCIATES 
+Waived No 
+1/28 
+/2014 4:14 
+DELACLA 68 
+52206 
+RepPerCk 
+Repet itive 
+1.0000212733E10 MERIDIAN CAPITAL GROUP LLC 
+Waived No 
+4/1/2014 4:52 
+DELACLA 89 
+51348 
+RepWireIn 
+Repet itive 
+99955009 
+BT Money Transfer Omni Account Waived No 
+3/4/2014 9:21 
+DELACLA 94 
+50767 
+RepTranln 
+Repet itive 
+1.000022263E10 BEAR CREEK INVESTMENT LLC 
+Waived No 
+2/4/2014 4:42 
+DELACLA 132 
+50780 
+RepWireOut 
+Repet itive 
+99955009 
+BT Money Transfer Omni Account Waived No 
+2/4/2014 4:43 
+DELACLA 151 
+51790 
+RepDebit 
+Repet itive 
+1.0000210057E10 JENNISON ASSOCIATES 
+Waived No 
+3/18 
+/2014 4:11 
+DELACLA 156 
+52409 
+RepATM Repetitive 
+1.0000446315E10 DENISE CINQUE 
+Waived No 
+4/8/2014 4:11 
+DELA 
+CLA 
+249 
+52205 
+RepPerCk 
+Repet itive 
+1.0000210057E10 JENNISON ASSOCIATES 
+Waived No 
+4/1/ 
+2014 4:52 
+DELACLA 417 
+51328 
+RepPerCk 
+Repet itive 
+1.0000210057E10 JENNISON ASSOCIATES 
+Waived No 
+3/4/ 
+2014 9:21 
+DELACLA 426 
+50755 
+RepPerCk 
+Repet itive 
+1.0000215683E10 MOSES & SINGER Waived No 
+2/4/2014 4:4 
+2 
+DELACLA 496 
+50543 
+RepPerCk 
+Repet itive 
+1.0000212733E10 MERIDIAN CAPITAL GROUP LLC 
+Waived No 
+1/28/2014 4:14 DELACLA 529 
+50769 
+RepWireIn 
+Repet itive 
+1.0000210057E10 JENNISON ASSOCIATES 
+Waived No 
+2/4/ 
+2014 4:43 
+DELACLA 621 
+50754 
+RepPerCk 
+Repet itive 
+1.0000212733E10 MERIDIAN CAPITAL GROUP LLC 
+Waived No 
+2/4/2014 4:42 
+DELACLA 635 
+52218 
+Repiranln 
+Repet itive 
+1.000022263E10 BEAR CREEK INVESTMENT LLC 
+Waived No 
+4/1/2014 4:52 
+DELACLA 640 
+50514 
+RepATM Repetitive 
+1.0000092461E10 ALAN KESTENBAUM Waived No 
+1/28/2014 4:14 DELA 
+CLA 
+694 
+52736 
+RepDebit 
+Repet itive 
+1.0000210057E10 JENNISON ASSOCIATES
+Waived No 
+4/28: 
+/2014 4:13 
+DELACLA 734 
+52426 
+RepPerCk 
+Repet itive 
+1.0000210057E10 JENNISON ASSOCIATES
+Waived No 
+2014 4:11 
+DELACLA 741 
+52595 
+RepPerCk 
+Repet itive 
+1.0000408981E10 GOLDENTREE ASSET MANAGEMENT, LP Waived No 
+4/15/2014 4:11 DELACLA 857 
+50908 
+RepWire0ut 
+Repet itive 
+99955009 
+BT Money Transfer Omni Account Waived No 
+2/11/2014 4:20 DELACLA 975 
+51813 
+RepWireIn 
+Repet itive 
+99955009 
+BT Money Transfer Omni Account Waived No 
+3/18/2014 4:11 DELACLA 1071 
+51007 
+RepPerCk 
+Repet itive 
+1.0000212733E10 MERIDIAN CAPITAL GROUP LLC 
+Waived No 
+2/19/2014 6:13 DELACLA 1125 
+50757 
+RepPerCk 
+Repet itive 
+1.00004457E10 
+SILLIMAN GROUP, LLC 
+Waived No 
+2/4/ 
+2014 4:42 
+DELACLA 1350 
+51346 
+RepWireIn 
+Repet itive 
+1.0000210057E10 JENNISON ASSOCIATES 
+Waived No 
+3/4/ 
+2014 9:21 
+DELACLA 1481 
+51347 
+RepWireIn 
+Repet itive 
+1.0000408981E10 GOLDENTREE ASSET MANAGEMENT, LP Waived No 
+3/4/2014 9:21 
+DELACLA 1689 
+51012 
+RepDebit 
+Repet itive 
+1.0000210057E10 JENNISON ASSOCIATES 
+Waived No 
+2/19 
+/2014 6:13 
+DELACLA 1744 
+51768 
+RepATM Repetitive 
+CLA 
+1756 
+50551 
+RepTranln 
+Repet 
+/2014 4:14 
+DELACLA 1832 
+1.0000446315E10 DENISE CINQUE 
+itive 
+1.000021321E10 HIRTLE CALLAGHAN 
+Waived No 
+3/18/2014 4:11 DELA 
+Waived No 
+1/28 
+EFTA01413136

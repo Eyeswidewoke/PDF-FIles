@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>🔍 DEEP SWEEP — Hidden Evidence from 400K Blank Pages | THE PDF FILES</title>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    :root{--bg:#0d0d0d;--surface:#161616;--surface-2:#1e1e1e;--border:#2a2a2a;--text:#c8c8c8;--muted:#777;--accent:#c9510c;--accent-2:#e8742d;--bad:#e53935;--warn:#f9a825;--ok:#66bb6a}
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font:15px/1.6 'Inter',sans-serif;background:var(--bg);color:var(--text)}
+    a{color:var(--accent-2);text-decoration:none}a:hover{text-decoration:underline}
+    .back-link{display:inline-block;padding:.5rem 1rem;font:600 .75rem 'IBM Plex Mono',monospace;color:var(--accent-2);text-transform:uppercase;letter-spacing:.05em;margin:.5rem .3rem}
+    .hero{background:linear-gradient(180deg,#0a1a0a 0%,var(--bg) 100%);padding:2.5rem 1.5rem 1.5rem;text-align:center}
+    .hero h1{font-size:2rem;color:#fff;letter-spacing:.02em}
+    .hero .subhead{max-width:700px;margin:.7rem auto;color:var(--text);font-size:.88rem;line-height:1.5}
+    .hero .datestamp{font:600 .7rem 'IBM Plex Mono',monospace;color:var(--muted);margin-top:.5rem;text-transform:uppercase;letter-spacing:.06em}
+    .content{max-width:1000px;margin:0 auto;padding:1rem 1.5rem 3rem}
+    section.block{background:var(--surface);border:1px solid var(--border);border-radius:.8rem;padding:1.4rem;margin:1.2rem 0}
+    section.block h2{font-size:1.05rem;color:#fff;margin-bottom:.6rem;letter-spacing:.01em}
+    section.block h3{font-size:.88rem;color:var(--accent-2);margin:.8rem 0 .4rem;text-transform:uppercase;letter-spacing:.03em}
+    p{margin:.5rem 0;font-size:.85rem}
+    .src{font:600 .68rem 'IBM Plex Mono',monospace;color:var(--muted);margin-bottom:.6rem}
+    .callout{background:rgba(201,81,12,.08);border-left:3px solid var(--accent);padding:.6rem .8rem;border-radius:0 .5rem .5rem 0;margin:.6rem 0;font-size:.82rem}
+    .callout.red{background:rgba(229,57,53,.08);border-left-color:var(--bad)}
+    .callout.green{background:rgba(102,187,106,.08);border-left-color:var(--ok)}
+    .warning-banner{background:linear-gradient(90deg,rgba(201,81,12,.15),rgba(201,81,12,.05));border:1px solid var(--accent);border-radius:.6rem;padding:.7rem 1rem;margin:.8rem 0;font-size:.78rem;color:var(--accent-2)}
+    .stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.5rem;margin:.7rem 0}
+    .stat-card{background:var(--surface-2);border:1px solid var(--border);border-radius:.5rem;padding:.7rem;text-align:center}
+    .stat-card .n{font:800 1.5rem 'Inter',sans-serif;color:var(--accent-2)}
+    .stat-card .l{font:.68rem 'IBM Plex Mono',monospace;color:var(--muted);margin-top:.2rem;text-transform:uppercase;letter-spacing:.03em}
+    .stat-card.bad .n{color:var(--bad)}
+    .stat-card.warn .n{color:var(--warn)}
+    .stat-card.ok .n{color:var(--ok)}
+    .quote-block{border-left:3px solid var(--bad);padding:.6rem 1rem;margin:.8rem 0;background:rgba(229,57,53,.06);font-size:.84rem;font-style:italic;color:#ffcdd2}
+    .quote-block .attr{font-style:normal;font-size:.72rem;color:var(--muted);margin-top:.3rem}
+    .quote-block.orange{border-color:var(--accent);background:rgba(201,81,12,.06);color:var(--text)}
+    .data-table{width:100%;border-collapse:collapse;margin:.7rem 0;font-size:.78rem}
+    .data-table th{text-align:left;font:600 .7rem 'IBM Plex Mono',monospace;color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em;padding:.5rem .5rem;border-bottom:2px solid var(--border);background:var(--surface-2)}
+    .data-table td{padding:.4rem .5rem;border-bottom:1px solid var(--border);color:var(--text)}
+    .data-table tr:hover td{background:rgba(201,81,12,.05)}
+    .nav-row{display:flex;flex-wrap:wrap;gap:.5rem;margin:.8rem 0}
+    .nav-btn{padding:.4rem .8rem;border-radius:.4rem;font:600 .72rem 'IBM Plex Mono',monospace;background:var(--surface-2);border:1px solid var(--border);color:var(--accent-2);text-decoration:none;transition:all .2s}
+    .nav-btn:hover{border-color:var(--accent-2);background:rgba(201,81,12,.15);text-decoration:none}
+    @media(max-width:700px){.content{padding:1rem}section.block{padding:1rem}.stat-grid{grid-template-columns:repeat(2,1fr)}}
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./index.html">&larr; MAIN SITE</a>
+  <a class="back-link" href="./analysis.html">&larr; FILE ANALYSIS</a>
+  <a class="back-link" href="./explosive-docs.html">&larr; EXPLOSIVE DOCS</a>
+
+  <header class="hero">
+    <h1>🔍 THE DEEP SWEEP</h1>
+    <p class="subhead">
+      403,020 pages were classified as "blank" in the original Epstein files dataset. We recovered 99.5% of them.
+      Then we swept 8,059 high-value hits and found 6,611 genuinely novel discoveries — including FBI Director statements,
+      complete financial architectures, bank compliance failures, and a full asset inventory.
+    </p>
+    <p class="datestamp">Deep Sweep Analysis &middot; Findings #31–38 &middot; 8,059 hits from 400,913 recovered pages</p>
+  </header>
+
+  <div class="content">
+
+    <div class="warning-banner">
+      ⚠️ All quotes are verbatim from official documents in the Epstein files. Source EFTA numbers provided for verification.
+    </div>
+
+    <!-- OVERVIEW -->
+    <section class="block">
+      <h2>📊 THE HIDDEN PAGES</h2>
+      <p>The Epstein files as originally released contained <strong>403,020 pages classified as "blank"</strong> — pages that
+      appeared empty but actually contained text that standard extraction methods missed. Using PyMuPDF text-layer extraction,
+      we recovered <strong>400,913 pages</strong> containing <strong>40.3 million words</strong>. Then we swept them for
+      high-value content.</p>
+
+      <div class="stat-grid">
+        <div class="stat-card bad"><div class="n">400,913</div><div class="l">Pages Recovered</div></div>
+        <div class="stat-card warn"><div class="n">40.3M</div><div class="l">New Words Extracted</div></div>
+        <div class="stat-card"><div class="n">8,059</div><div class="l">High-Value Hits</div></div>
+        <div class="stat-card"><div class="n">6,611</div><div class="l">Novel Findings</div></div>
+      </div>
+
+      <h3>Novel Findings by Severity</h3>
+      <div style="display:flex;border-radius:.5rem;overflow:hidden;margin:.5rem 0;height:2rem;font:700 .68rem 'IBM Plex Mono',monospace;color:#fff;text-align:center">
+        <div style="flex:2422;background:#c62828;display:flex;align-items:center;justify-content:center" title="Explosive">🔴 2,422 EXPLOSIVE</div>
+        <div style="flex:1349;background:#e65100;display:flex;align-items:center;justify-content:center" title="High">🟠 1,349 HIGH</div>
+        <div style="flex:1232;background:#f9a825;display:flex;align-items:center;justify-content:center;color:#000" title="Medium">🟡 1,232 MEDIUM</div>
+        <div style="flex:1608;background:#78909c;display:flex;align-items:center;justify-content:center" title="Low">⬜ 1,608 LOW</div>
+      </div>
+
+      <h3>Top Names in Novel Findings</h3>
+      <table class="data-table">
+        <thead><tr><th>Person</th><th>Novel Hits</th><th>Person</th><th>Novel Hits</th></tr></thead>
+        <tbody>
+          <tr><td>Epstein</td><td><strong>2,255</strong></td><td>Gates</td><td>65</td></tr>
+          <tr><td>Maxwell</td><td>460</td><td>Woody Allen</td><td>63</td></tr>
+          <tr><td>Leon Black</td><td>438</td><td>Eva Dubin</td><td>62</td></tr>
+          <tr><td>Trump</td><td>355</td><td>Acosta</td><td>60</td></tr>
+          <tr><td>Prince Andrew</td><td>270</td><td>Starr</td><td>44</td></tr>
+          <tr><td>Clinton</td><td>202</td><td>Mitchell</td><td>42</td></tr>
+          <tr><td>Groff</td><td>189</td><td>Campbell</td><td>38</td></tr>
+          <tr><td>Dershowitz</td><td>99</td><td>Brunel</td><td>38</td></tr>
+          <tr><td>Wexner</td><td>86</td><td>Barak</td><td>29</td></tr>
+          <tr><td>Barr</td><td>65</td><td>Musk</td><td>28</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Novel Findings by Document Category</h3>
+      <table class="data-table">
+        <thead><tr><th>Category</th><th>Count</th><th>Category</th><th>Count</th></tr></thead>
+        <tbody>
+          <tr><td>Case Evidence</td><td><strong>1,357</strong></td><td>Emails</td><td>657</td></tr>
+          <tr><td>Communications</td><td>1,118</td><td>Depositions</td><td>459</td></tr>
+          <tr><td>Financial</td><td>1,011</td><td>Media/Press</td><td>217</td></tr>
+          <tr><td>Legal Filings</td><td>906</td><td>Flight/Travel</td><td>129</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- FINDING 31: FBI DIRECTOR PATEL -->
+    <section class="block">
+      <h2>🔴 FINDING #31: FBI DIRECTOR PATEL — EPSTEIN ESTATE REFUSES TO SHARE RECORDS</h2>
+      <p class="src">Source: EFTA00164105 &middot; November 25, 2025 &middot; Sweep Score: 465</p>
+
+      <p>FBI News Service daily summary documenting Director <strong>Kash Patel's</strong> statements to journalist
+      Catherine Herridge. Patel confirms the Epstein estate is actively refusing to cooperate with the FBI's
+      renewed investigation.</p>
+
+      <div class="quote-block">
+        "Based on the new referral, we'll take a look at that and see what evidence comes, but there's an
+        important distinction. The information that the government possesses versus the information that the
+        Epstein estate possesses, those are two separate boxes of information and the Epstein estate has not
+        been willing to share information with the U.S. government..and so even though we've requested them to do so,"
+        <div class="attr">— FBI Director Kash Patel, November 25, 2025 (EFTA00164105)</div>
+      </div>
+
+      <div class="callout red">
+        <strong>$851,344 IN ONE WEEK:</strong> The FBI's "Epstein Transparency Project" cost
+        <strong>$851,344 in overtime</strong> in a single week (March 17-22), with personnel working nights
+        and weekends. Materials reviewed included search warrant execution photos, street surveillance video,
+        and aerial footage. Over <strong>161 pages were withheld</strong> due to ongoing law enforcement proceedings.
+      </div>
+
+      <div class="callout red">
+        <strong>SIMULTANEOUS COLLAPSE:</strong> Under the same administration, <strong>child exploitation
+        indictments dropped 28%</strong> and <strong>child victims rescued dropped 17%</strong> due to
+        reallocation of FBI resources. Up to <strong>45% of FBI agents</strong> working child exploitation
+        were reassigned to immigration enforcement.
+      </div>
+
+      <p>This is the <strong>most recent document</strong> found in the entire dataset — November 2025.</p>
+    </section>
+
+    <!-- FINDING 32: LEON BLACK FINANCIAL ARCHITECTURE -->
+    <section class="block">
+      <h2>🔴 FINDING #32: LEON BLACK — COMPLETE FINANCIAL ARCHITECTURE</h2>
+      <p class="src">Sources: EFTA01193218 (Jan 2015), EFTA02710783 (Mar 2015), EFTA01127688 (Dec 2006), EFTA01116009, EFTA01478313 &middot; Sweep Score: 455</p>
+
+      <p>Two bank account listings from January and March 2015 reveal the complete financial architecture
+      used by <a href="./black.html">Leon Black</a> during the period he was paying Epstein <strong>$158 million</strong>.
+      Together they map <strong>80+ financial entities</strong>.</p>
+
+      <h3>Personal Accounts</h3>
+      <table class="data-table">
+        <thead><tr><th>Account</th><th>Balance</th></tr></thead>
+        <tbody>
+          <tr><td>Debra Black — Money Market Savings</td><td><strong>$6,278,886.85</strong></td></tr>
+          <tr><td>Leon & Debra — Tiered Interest Checking</td><td><strong>$7,273,292.43</strong></td></tr>
+          <tr><td>Leon & Debra — Tiered Interest Checking #2</td><td><strong>$19,740,513.21</strong></td></tr>
+          <tr><td>Gandall Trust</td><td><strong>$5,126,011.18</strong></td></tr>
+        </tbody>
+      </table>
+
+      <h3>Trust Network — 6 GRATs + 8 Dynasty Trusts</h3>
+      <p style="font-size:.8rem">GRAT 1 through GRAT 6 at BOIA &middot;
+      88 Trust Ben/Josh/Alex/Victoria &middot; 92 Trust Josh/Victoria/Alex &middot;
+      1997 Trust GST Exempt &middot; ASB/BEB/JIAB/VRB 2011 Trusts &middot;
+      Ben Black 2010 Trust &middot; Josh Black 2011 Trust</p>
+
+      <h3>Shell Entities & LLCs (Selected)</h3>
+      <p style="font-size:.78rem;color:var(--muted);line-height:1.8">
+        Black Family Partners &middot; Black Finley Partners &middot; LBF Holdings &middot;
+        LOB 2011 LLC &middot; LOB 2014 LLC &middot; LOB Foundation (5+ accounts) &middot;
+        Leon Black Family Foundation Inc. &middot; DRB Productions &middot; Friends Ventures &middot;
+        NY 70th Street CAM LLC &middot; NY 70th Street LLC &middot; OFH LLC &middot; PAT70 LLC &middot;
+        PASI LLC &middot; AS Holdings Ltd &middot; ASRP LLC &middot; Phalanx Global LLC &middot;
+        JMWT Acquisition LLP &middot; JMWT Limited &middot; JMWT LLC &middot;
+        BJAV &middot; BV70 &middot; Nertows &middot; APOI Agreement &middot; APO2 Declaration &middot;
+        AIF IV Management
+      </p>
+
+      <div class="callout red">
+        <strong>WHY THIS MATTERS:</strong> 80+ entities managed by a single family office create enormous
+        potential for concealed financial flows. The 6 GRATs (Grantor Retained Annuity Trusts) are
+        wealth-transfer vehicles that can obscure the source and purpose of payments. The timing
+        (Jan-Mar 2015) coincides with the period of Epstein-Black financial activity. Combined with
+        <a href="./groff.html">Groff and Black appearing together in 742 documents</a>, this reveals
+        the financial plumbing through which $158M in payments to Epstein could have flowed.
+      </div>
+    </section>
+
+    <!-- FINDING 33: QUICKBOOKS LEDGER -->
+    <section class="block">
+      <h2>🔴 FINDING #33: EPSTEIN QUICKBOOKS LEDGER — TRANSACTION-LEVEL EVIDENCE</h2>
+      <p class="src">Source: EFTA00610667 &middot; As of December 31, 2011 &middot; Sweep Score: 418 &middot; Financial Signal: 72</p>
+
+      <p>Complete QuickBooks transaction ledger for <strong>Jeffrey E. Epstein</strong> through the "Menlo" account,
+      showing every wire transfer, check, and deposit from February–March 2011. Opening balance:
+      <strong>~$2.2 million</strong>.</p>
+
+      <h3>Key Transactions</h3>
+      <table class="data-table">
+        <thead><tr><th>Payee</th><th>Amount</th><th>Type</th><th>Significance</th></tr></thead>
+        <tbody>
+          <tr><td>Darren K. Indyke PLLC</td><td style="color:var(--bad)"><strong>$250,000</strong></td><td>Wire</td><td>Epstein's personal attorney</td></tr>
+          <tr><td>LSJ, LLC (Little Saint James)</td><td style="color:var(--bad)"><strong>$160,000</strong></td><td>Wire (2 txns)</td><td>Island operations — one month</td></tr>
+          <tr><td>JEGE, Inc.</td><td><strong>$250,000</strong></td><td>Wire</td><td>Epstein shell entity</td></tr>
+          <tr><td>NES, LLC</td><td><strong>$100,000</strong></td><td>Wire</td><td>Epstein entity</td></tr>
+          <tr><td>Abbott & Lineham Mechanical</td><td><strong>$185,360.82</strong></td><td>Wire</td><td>Kitchen work / construction</td></tr>
+          <tr><td>Caribbean Petroleum</td><td><strong>$99,900</strong></td><td>Wire</td><td>Island fuel</td></tr>
+          <tr><td>American Express (multiple)</td><td><strong>$135,572</strong></td><td>Direct</td><td>Credit card payments</td></tr>
+          <tr><td>St Thomas Jet Center</td><td><strong>$50,000</strong></td><td>Wire</td><td>"Prepaid $50,000 worth of fuel"</td></tr>
+          <tr><td>Mann G. Weinberg, P.C.</td><td><strong>$25,000</strong></td><td>Wire</td><td>Defense attorney</td></tr>
+          <tr><td style="color:var(--warn)">Bruce E. Reinhart, PA</td><td style="color:var(--warn)"><strong>$10,000</strong></td><td>Wire</td><td>Former AUSA who switched sides, later judge</td></tr>
+          <tr><td>Cash withdrawals</td><td style="color:var(--bad)"><strong>$120,000+</strong></td><td>Cash/Euro</td><td>Including 15,000 Euros ($21,502)</td></tr>
+        </tbody>
+      </table>
+
+      <div class="callout">
+        <strong>BRUCE REINHART:</strong> Received $10,000 from Epstein. He was the former Assistant US Attorney
+        who <em>switched sides</em> to represent Epstein's employees. He later became the federal magistrate
+        judge who authorized the Mar-a-Lago search warrant (2022). This payment is now part of the official record.
+      </div>
+
+      <div class="callout red">
+        <strong>$120,000 IN CASH</strong> withdrawn in a single month — consistent with cash-heavy operations
+        and untraceable payments.
+      </div>
+    </section>
+
+    <!-- FINDING 34: VY CAPITAL NDA -->
+    <section class="block">
+      <h2>🔴 FINDING #34: VY CAPITAL DUBAI NDA — DEUTSCHE BANK / SDNY GRAND JURY</h2>
+      <p class="src">Source: EFTA01386994 &middot; October 3, 2017 &middot; Sweep Score: 411 &middot; Coverup Signal: 33</p>
+
+      <p>Complete Non-Disclosure Agreement between <strong>Vy Capital Management Company Limited</strong>
+      (Dubai, UAE — Emirates Financial Towers, DIFC) and an unnamed party.</p>
+
+      <p>The critical detail is the document footer markings:</p>
+
+      <div class="stat-grid" style="grid-template-columns:repeat(3,1fr)">
+        <div class="stat-card bad"><div class="n">Rule 6(e)</div><div class="l">Grand Jury Secrecy</div></div>
+        <div class="stat-card warn"><div class="n">DB-SDNY</div><div class="l">Deutsche Bank → SDNY Production</div></div>
+        <div class="stat-card"><div class="n">SDNY_GM</div><div class="l">Maxwell Case Number</div></div>
+      </div>
+
+      <p>The dual Bates numbering (DB + SDNY_GM) proves this NDA flowed through Deutsche Bank's production
+      in the <strong>Ghislaine Maxwell case</strong>. Dubai/DIFC entities are common vehicles for obscuring
+      beneficial ownership — the presence of this NDA raises questions about what business relationship
+      Vy Capital had with Epstein's network.</p>
+    </section>
+
+    <!-- FINDING 35: GROFF-SPINELLA -->
+    <section class="block">
+      <h2>🔴 FINDING #35: GROFF–SPINELLA — COORDINATING LEON BLACK'S VISITS VIA APOLLO</h2>
+      <p class="src">Source: EFTA00321703 &middot; July 26, 2016 &middot; Sweep Score: 289</p>
+
+      <p>Email chain between <strong>Lesley Groff</strong> (Epstein's executive assistant) and
+      <strong>Melanie Spinella</strong> (Executive Assistant to Leon D. Black, Apollo Management,
+      9 West 57th Street, New York).</p>
+
+      <div class="quote-block orange">
+        <strong>Spinella (9:20 AM):</strong> "Good morning — Hopefully Leon has arrived! On another note —
+        I do not want to be presumptuous — just want to make sure Jeffrey did not send anything on Friday —
+        I have 24 hour doormen, but one never knows what happens!!"
+        <div class="attr">— Melanie Spinella, Apollo Management, July 26, 2016 (EFTA00321703)</div>
+      </div>
+
+      <div class="quote-block orange">
+        <strong>Groff (9:28 AM):</strong> "HI Melanie! Leon is not here as of yet...hopefully any minute now!"
+        <div class="attr">— Lesley Groff, July 26, 2016</div>
+      </div>
+
+      <div class="quote-block orange">
+        <strong>Spinella (9:34 AM):</strong> "I can't believe he did not get there!!! He knew about it —
+        I'm sure he will show up soon — you know Leon!"
+        <div class="attr">— Melanie Spinella, Apollo Management</div>
+      </div>
+
+      <div class="quote-block orange">
+        <strong>Groff:</strong> "yes...we count on him to be late...I must say this is pretty late for him
+        however! Hopefully he can stay a bit longer than just 10am...then again, this may throw off your
+        whole day of appointments!"
+        <div class="attr">— Lesley Groff</div>
+      </div>
+
+      <div class="callout red">
+        <strong>WHY THIS MATTERS:</strong> The completely casual, routine tone — "you know Leon!" —
+        proves these visits were a <strong>regular occurrence</strong>. The date is July 26, 2016 —
+        <strong>8 years after Epstein's conviction</strong>. Apollo Management email addresses are
+        visible. Combined with <a href="./explosive-docs.html">cellmate testimony that Black "raped her
+        numerous times"</a>, this scheduling email takes on far darker significance. The "Jeffrey did not
+        send anything" reference suggests Epstein was sending items/gifts to Black's office via Spinella.
+      </div>
+    </section>
+
+    <!-- FINDING 36: SWEEP SUMMARY -->
+    <section class="block">
+      <h2>📊 FINDING #36: DEEP SWEEP SUMMARY — 6,611 NOVEL FROM 8,059 HITS</h2>
+      <p class="src">Source: Deep sweep analysis of 400,913 recovered pages</p>
+
+      <table class="data-table">
+        <thead><tr><th>Classification</th><th>Count</th><th>%</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Novel findings</strong></td><td style="color:var(--bad)"><strong>6,611</strong></td><td>82.0%</td></tr>
+          <tr><td>Content duplicates</td><td>1,430</td><td>17.7%</td></tr>
+          <tr><td>Already in KEY-FINDINGS</td><td>17</td><td>0.2%</td></tr>
+          <tr><td>Academic noise</td><td>1</td><td>0.0%</td></tr>
+        </tbody>
+      </table>
+
+      <h3>5 Critical Anomalies Detected</h3>
+
+      <div class="callout red">
+        <strong>ANOMALY 1 — Threat & Violence:</strong> 1,230 mentions across recovered pages.
+        <strong>kill</strong> (427), <strong>death</strong> (396), <strong>threat</strong> (243),
+        <strong>suicide</strong> (164). Were these pages deliberately misclassified?
+      </div>
+
+      <div class="callout red">
+        <strong>ANOMALY 2 — Surveillance:</strong> 2,180 mentions.
+        <strong>video</strong> (1,940), <strong>recording</strong> (184), <strong>surveillance</strong> (56).
+        Consistent with known allegations of hidden camera systems.
+      </div>
+
+      <div class="callout">
+        <strong>ANOMALY 3 — Financial Network:</strong> 27,547 mentions.
+        <strong>JPMorgan</strong> (17,540), <strong>Deutsche Bank</strong> (9,522),
+        <strong>wire transfer</strong> (247), <strong>offshore</strong> (238).
+      </div>
+
+      <div class="callout">
+        <strong>ANOMALY 4 — Groff–Black Connection:</strong> <a href="./groff.html">Lesley Groff</a> and
+        <a href="./black.html">Leon Black</a> appear together in <strong>742 documents</strong> —
+        even filtering for documents without "Epstein." Groff may have directly managed the
+        Epstein-Black financial relationship.
+      </div>
+
+      <div class="callout">
+        <strong>ANOMALY 5 — Top Co-Occurrences:</strong>
+        Epstein+Nikolic (2,379 docs) &middot; Dubin+Epstein (1,080) &middot;
+        Andrew+Epstein (1,055) &middot; Epstein+Black (962) &middot;
+        Epstein+Mitchell (821) &middot; Groff+Black (742) &middot;
+        Epstein+Maxwell (652) &middot; Brunel+Epstein (649)
+      </div>
+    </section>
+
+    <!-- FINDING 37: DEUTSCHE BANK -->
+    <section class="block">
+      <h2>🔴 FINDING #37: DEUTSCHE BANK "CRITICAL" COMPLIANCE ALERTS — 2016-2018</h2>
+      <p class="src">Sources: EFTA01377363, EFTA01255367, EFTA01368224, EFTA01363435, EFTA01364138, EFTA01376002 &middot; Sweep Scores: 223-241</p>
+
+      <p>Six Deutsche Bank <strong>internal compliance monitoring records</strong>, all classified
+      <strong style="color:var(--bad)">"Risk Priority: Critical"</strong>, show the bank's own automated
+      systems <strong>repeatedly flagged</strong> Jeffrey Epstein over two years while continuing to
+      provide banking services.</p>
+
+      <h3>Timeline of "Critical" Alerts</h3>
+      <table class="data-table">
+        <thead><tr><th>Date</th><th>Document</th><th>System</th><th>Risk Level</th></tr></thead>
+        <tbody>
+          <tr><td>Oct 12, 2016</td><td>EFTA01364138</td><td>DB12000P</td><td style="color:var(--bad)"><strong>CRITICAL</strong></td></tr>
+          <tr><td>Jun 15, 2017</td><td>EFTA01363435</td><td>DB12000P</td><td style="color:var(--bad)"><strong>CRITICAL</strong></td></tr>
+          <tr><td>Feb 5, 2018</td><td>EFTA01255367</td><td>DB12000P</td><td style="color:var(--bad)"><strong>CRITICAL</strong></td></tr>
+          <tr><td>Apr 2, 2018</td><td>EFTA01368224</td><td>DB27000P CAR Integration</td><td style="color:var(--bad)"><strong>CRITICAL</strong></td></tr>
+          <tr><td>May 30, 2018</td><td>EFTA01377363</td><td>DB12000P</td><td style="color:var(--bad)"><strong>CRITICAL</strong></td></tr>
+          <tr><td><em>undated</em></td><td>EFTA01376002</td><td>DB12000P</td><td style="color:var(--bad)"><strong>CRITICAL</strong></td></tr>
+        </tbody>
+      </table>
+
+      <p>All six alerts tracked Epstein's complete address portfolio: <strong>9 East 71st Street</strong> (NYC),
+      <strong>6100 Red Hook Quarter</strong> (USVI), <strong>49 Zorro Ranch Road</strong> (NM),
+      <strong>Great St. James Island</strong> (USVI), <strong>358 El Brillo Way</strong> (Palm Beach),
+      <strong>22 Avenue Foch</strong> (Paris), <strong>301 East 66th Street</strong> (NYC).</p>
+
+      <p>Criminal history tracked by DB compliance: <em>Sex offenses, Prostitution, Fraud, Theft</em>.
+      Physical description maintained (5'11", 180lbs, brown eyes, gray/brown hair).</p>
+
+      <div class="callout red">
+        <strong>$150 MILLION FINE:</strong> In 2020, Deutsche Bank was fined $150M by NY DFS for compliance
+        failures related to Epstein. These are the very compliance records that should have triggered action.
+        The bank cannot claim ignorance — their own systems flagged him as <strong>"Critical"</strong>
+        at least 6 times.
+      </div>
+    </section>
+
+    <!-- FINDING 38: SEX OFFENDER REGISTRATION -->
+    <section class="block">
+      <h2>🔴 FINDING #38: SEX OFFENDER REGISTRATION — COMPLETE ASSET INVENTORY</h2>
+      <p class="src">Source: EFTA00522924 &middot; Sweep Score: 158 &middot; Flight Signal: 19</p>
+
+      <p>Complete attachment to Epstein's Sexual Offender Registration Form — every vehicle, boat, aircraft,
+      telephone, and email address required by law. A primary law enforcement document.</p>
+
+      <h3>Aircraft Fleet (3 Registered)</h3>
+      <table class="data-table">
+        <thead><tr><th>#</th><th>Aircraft</th><th>Tail #</th><th>Airports</th></tr></thead>
+        <tbody>
+          <tr><td>1</td><td>2001 Bell 430 (helicopter)</td><td style="color:var(--accent-2)"><strong>N331JE</strong></td><td>Cyril E. King, St. Thomas</td></tr>
+          <tr><td>2</td><td>1988 Gulfstream G-IV</td><td style="color:var(--accent-2)"><strong>N120JE</strong></td><td>West Palm Beach, Boca Raton</td></tr>
+          <tr><td>3</td><td>2007 Gulfstream G550</td><td style="color:var(--accent-2)"><strong>N212JE</strong></td><td>Santa Fe, Albuquerque, JFK, Newark, Teterboro, 3 NYC heliports, MacArthur, Stewart</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Vehicle Fleet (15 Registered, 4 States)</h3>
+      <p style="font-size:.8rem">3 Chevrolet Suburbans (USVI, NM, FL) &middot; 2 GMC Yukon Denalis (USVI) &middot;
+      Mercedes Benz S500 (NM) &middot; Hummer H2 (NM/FL) &middot; Range Rover (NM) &middot;
+      Ford Expedition EL (NM) &middot; <strong>Bentley Mulsanne</strong> (NY) &middot;
+      Chevrolet Express 2500 van (FL) &middot; 4 additional Suburbans (NY, FL)</p>
+
+      <h3>Boat Fleet (11 Registered — Little St. James / Great St. James)</h3>
+      <p style="font-size:.8rem">"Nana" (35' Ribtec) &middot; "PRD" (31' Cape Horn) &middot;
+      "Little C" (36' Procat) &middot; "Big N" (barge) &middot; "Little S" (34' Sportis) &middot;
+      6 additional watercraft (jet skis, Sea-Doo, Zodiac, RIBs)</p>
+
+      <h3>Phone Infrastructure — Little St. James Island</h3>
+      <div class="stat-grid" style="grid-template-columns:repeat(3,1fr)">
+        <div class="stat-card"><div class="n">21</div><div class="l">Landline Numbers</div></div>
+        <div class="stat-card"><div class="n">5</div><div class="l">"JEE" Personal Lines</div></div>
+        <div class="stat-card"><div class="n">16</div><div class="l">Staff Lines</div></div>
+      </div>
+
+      <div class="callout">
+        <strong>THE INFRASTRUCTURE:</strong> 3 aircraft (including G550 serving 12 airports), 15 vehicles
+        across 4 states, 11 boats between two islands, 21 phone lines on a private island, and a Bentley
+        Mulsanne in Manhattan. This is the operational footprint of a sophisticated trafficking network,
+        disclosed under legal obligation as a registered sex offender.
+      </div>
+    </section>
+
+    <!-- METHODOLOGY -->
+    <section class="block">
+      <h2>📐 METHODOLOGY</h2>
+      <p style="font-size:.82rem;color:var(--muted)">
+        <strong>Phase 1: Recovery.</strong> PyMuPDF text-layer extraction on 403,020 pages classified as "blank."
+        400,913 pages recovered (1,107 truly empty). 40,357,664 new words. 57.2 minutes, 117.1 files/sec.<br>
+        <strong>Phase 2: Person Scan.</strong> 401,913 recovered files scanned against 45 persons + 39 keywords.
+        36,401 high-value files (3+ entities) identified. 2,726 seconds.<br>
+        <strong>Phase 3: Cast Update.</strong> 395,857 files scanned against 19 persons of interest.
+        12 cast dossier pages updated. 5 HIGH-severity anomalies identified.<br>
+        <strong>Phase 4: Deep Sweep.</strong> 8,059 high-value hits extracted. Cross-referenced against existing
+        KEY-FINDINGS.md for novelty. 6,611 genuinely novel (82%). Top 200 detailed in report.<br>
+        All scripts open source. All data reproducible from the original EFTA datasets.
+      </p>
+    </section>
+
+    <!-- NAVIGATION -->
+    <section class="block">
+      <h2>🔗 RELATED PAGES</h2>
+      <div class="nav-row">
+        <a class="nav-btn" href="./explosive-docs.html">💣 EXPLOSIVE DOCUMENTS</a>
+        <a class="nav-btn" href="./inner-circle.html">🕸️ INNER CIRCLE</a>
+        <a class="nav-btn" href="./complicity-gradient.html">⚖️ COMPLICITY GRADIENT</a>
+        <a class="nav-btn" href="./black.html">LEON BLACK</a>
+        <a class="nav-btn" href="./groff.html">LESLEY GROFF</a>
+        <a class="nav-btn" href="./barr.html">WILLIAM BARR</a>
+        <a class="nav-btn" href="./financials.html">💰 FINANCIAL INTELLIGENCE</a>
+        <a class="nav-btn" href="./analysis.html">📊 FILE ANALYSIS</a>
+        <a class="nav-btn" href="./flights.html">✈️ FLIGHT LOGS</a>
+        <a class="nav-btn" href="./map.html">🗺️ CONNECTION MAP</a>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>

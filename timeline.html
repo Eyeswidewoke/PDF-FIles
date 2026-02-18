@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TIMELINE | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260215" />
+  <style>
+    :root {
+      --tl-accent:#546e7a;--tl-accent2:#90a4ae;--tl-glow:rgba(84,110,122,.25);
+      --era-pre:#2e7d32;--era-npa:#e65100;--era-sdny:#1565c0;--era-trial:#6a1b9a;--era-release:#c62828;
+    }
+    .tl-wrap{position:relative;z-index:1;max-width:1320px;margin:0 auto;padding:1rem clamp(1rem,3vw,2.5rem) 3rem}
+    .tl-controls{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem;align-items:center}
+    .tl-controls input,.tl-controls select{border:1px solid var(--border);border-radius:.6rem;background:#fffefb;color:var(--ink);font:500 .8rem var(--mono);padding:.55rem .65rem}
+    .tl-controls input{flex:1;min-width:200px}
+    .tl-controls select{min-width:140px}
+    .era-pills{display:flex;flex-wrap:wrap;gap:.35rem;margin-bottom:.8rem}
+    .era-pill{border:1px solid var(--border);border-radius:100px;padding:.18rem .6rem;font:600 .68rem var(--mono);cursor:pointer;background:#fffefb;color:var(--muted);transition:all .15s}
+    .era-pill:hover{border-color:var(--tl-accent)}
+    .era-pill.active{background:var(--tl-accent);color:#fff;border-color:var(--tl-accent)}
+    .era-pill[data-era="pre"]{--pill-c:var(--era-pre)}.era-pill[data-era="pre"].active{background:var(--era-pre);border-color:var(--era-pre)}
+    .era-pill[data-era="npa"]{--pill-c:var(--era-npa)}.era-pill[data-era="npa"].active{background:var(--era-npa);border-color:var(--era-npa)}
+    .era-pill[data-era="sdny"]{--pill-c:var(--era-sdny)}.era-pill[data-era="sdny"].active{background:var(--era-sdny);border-color:var(--era-sdny)}
+    .era-pill[data-era="trial"]{--pill-c:var(--era-trial)}.era-pill[data-era="trial"].active{background:var(--era-trial);border-color:var(--era-trial)}
+    .era-pill[data-era="release"]{--pill-c:var(--era-release)}.era-pill[data-era="release"].active{background:var(--era-release);border-color:var(--era-release)}
+    .tl-meta{font:.72rem var(--mono);color:var(--muted);margin-bottom:.6rem}
+    .tl-line{position:relative;padding-left:2.2rem}
+    .tl-line::before{content:'';position:absolute;left:.85rem;top:0;bottom:0;width:3px;background:linear-gradient(180deg,var(--tl-accent2),var(--border));border-radius:2px}
+    .tl-year-marker{position:relative;margin:1.8rem 0 .8rem;font:700 1.3rem var(--sans);color:var(--tl-accent);padding-left:.3rem}
+    .tl-year-marker::before{content:'';position:absolute;left:-1.35rem;top:50%;transform:translateY(-50%);width:13px;height:13px;border-radius:50%;background:var(--tl-accent);border:3px solid var(--panel);box-shadow:0 0 0 2px var(--tl-accent)}
+    .tl-event{position:relative;margin-bottom:.65rem;border:1px solid var(--border);border-radius:.7rem;background:linear-gradient(160deg,#fffefb,#fff8ef);padding:.65rem .8rem;box-shadow:0 2px 8px rgba(0,0,0,.04);transition:border-color .15s,box-shadow .15s}
+    .tl-event:hover{border-color:var(--tl-accent);box-shadow:0 4px 16px var(--tl-glow)}
+    .tl-event::before{content:'';position:absolute;left:-1.35rem;top:1rem;width:9px;height:9px;border-radius:50%;border:2px solid var(--tl-accent2);background:var(--panel)}
+    .tl-event.explosive::before{background:#c62828;border-color:#c62828;box-shadow:0 0 6px rgba(198,40,40,.5)}
+    .tl-event.explosive{border-left:3px solid #c62828}
+    .tl-event-date{font:600 .68rem var(--mono);color:var(--tl-accent);margin-bottom:.15rem}
+    .tl-event-title{font:700 .92rem var(--sans);margin-bottom:.25rem;line-height:1.3}
+    .tl-event-body{font:.82rem var(--sans);color:#444;line-height:1.55;margin-bottom:.35rem}
+    .tl-event-quote{font:.78rem var(--mono);color:#6d4c41;border-left:3px solid #bcaaa4;padding:.3rem .6rem;margin:.35rem 0;background:rgba(188,170,164,.08);border-radius:0 .4rem .4rem 0}
+    .tl-event-tags{display:flex;flex-wrap:wrap;gap:.3rem;margin-top:.3rem}
+    .tl-tag{font:600 .62rem var(--mono);padding:.1rem .38rem;border-radius:100px;background:#f0ebe4;color:#6f665f;border:1px solid #e0d8cf}
+    .tl-tag.person{background:#e8f5e9;color:#2e7d32;border-color:#c8e6c9;cursor:pointer}
+    .tl-tag.person:hover{background:#c8e6c9}
+    .tl-tag.source{background:#e3f2fd;color:#1565c0;border-color:#bbdefb;cursor:pointer}
+    .tl-tag.source:hover{background:#bbdefb}
+    .tl-tag.era-tag{color:#fff;border:none}
+    .tl-tag.era-pre{background:var(--era-pre)}.tl-tag.era-npa{background:var(--era-npa)}.tl-tag.era-sdny{background:var(--era-sdny)}.tl-tag.era-trial{background:var(--era-trial)}.tl-tag.era-release{background:var(--era-release)}
+    .tl-links{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.35rem}
+    .tl-link{font:600 .68rem var(--mono);color:var(--accent);text-decoration:none;padding:.15rem .4rem;border:1px solid var(--accent-soft);border-radius:.4rem;background:#fff8f3;transition:all .12s}
+    .tl-link:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .tl-overview{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.6rem;margin-bottom:1.2rem}
+    .tl-stat{border:1px solid var(--border);border-radius:.6rem;background:#fffefb;padding:.55rem .7rem;text-align:center}
+    .tl-stat-num{font:700 1.4rem var(--sans);color:var(--tl-accent)}
+    .tl-stat-label{font:.68rem var(--mono);color:var(--muted);margin-top:.1rem}
+    .person-filter-row{display:flex;flex-wrap:wrap;gap:.3rem;margin-bottom:.5rem}
+    .person-btn{border:1px solid #c8e6c9;color:#2e7d32;border-radius:100px;padding:.15rem .45rem;font:600 .64rem var(--mono);background:#f1f8e9;cursor:pointer;transition:all .12s}
+    .person-btn:hover{background:#c8e6c9}
+    .person-btn.active{background:#2e7d32;color:#fff;border-color:#2e7d32}
+    @media(max-width:700px){.tl-controls{flex-direction:column}.tl-controls input,.tl-controls select{width:100%}.tl-overview{grid-template-columns:1fr 1fr}}
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+  <header class="hero">
+    <h1>⏱️ CASE TIMELINE</h1>
+    <p class="subhead" style="margin:.5rem auto 0;color:#6f665f;max-width:70ch;text-align:center">
+      Comprehensive chronology of the Epstein case — from first crimes through DOJ file releases.
+      Every event sourced from our 900,956 PDF analysis. Click any person or source to explore.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+    <nav class="hero-nav" aria-label="Navigation">
+      <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#5e4732,#3f2d1f)">HOME &rarr;</a>
+      <a class="hero-nav-btn" href="./navigator.html" style="background:linear-gradient(125deg,#1a237e,#0d1452)">🧠 MIND MAP &rarr;</a>
+      <a class="hero-nav-btn" href="./map.html" style="background:linear-gradient(125deg,#52307f,#311d57)">CONNECTION MAP &rarr;</a>
+      <a class="hero-nav-btn" href="./search.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900)">SEARCH &rarr;</a>
+      <a class="hero-nav-btn" href="./cast.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916)">CAST HUB &rarr;</a>
+    </nav>
+  </header>
+
+  <div class="tl-wrap">
+    <!-- Overview stats -->
+    <div class="tl-overview" id="tlStats"></div>
+
+    <!-- Controls -->
+    <div class="tl-controls">
+      <input type="search" id="tlSearch" placeholder="Search events, people, quotes, sources..." autocomplete="off" spellcheck="false" />
+      <select id="tlEraSelect">
+        <option value="all">All Eras</option>
+        <option value="pre">Pre-Investigation (1990s–2005)</option>
+        <option value="npa">NPA Era (2006–2018)</option>
+        <option value="sdny">SDNY Era (2019–2020)</option>
+        <option value="trial">Trial Era (2021–2024)</option>
+        <option value="release">Release Era (2025–2026)</option>
+      </select>
+      <select id="tlPersonSelect">
+        <option value="all">All People</option>
+      </select>
+    </div>
+
+    <!-- Era pills -->
+    <div class="era-pills" id="eraPills"></div>
+
+    <!-- Person quick-filter -->
+    <div class="person-filter-row" id="personRow"></div>
+
+    <!-- Result meta -->
+    <p class="tl-meta" id="tlMeta">Loading timeline...</p>
+
+    <!-- Timeline -->
+    <div class="tl-line" id="tlLine"></div>
+  </div>
+
+  <script>
+  (function(){
+    /* ── TIMELINE DATA ─────────────────────────────────────────── */
+    const EVENTS = [
+      // ═══════════════ PRE-INVESTIGATION ERA (1990s–2005) ═══════════════
+      {y:1992,d:"1992",t:"Trump & Epstein party with 28 women at Mar-a-Lago",b:"NBC footage shows Trump and Epstein socializing at Mar-a-Lago with a group of cheerleaders. Trump later said he 'wasn't a fan' of Epstein.",q:null,era:"pre",persons:["Trump","Epstein","Maxwell"],tags:["Mar-a-Lago","video evidence"],links:[{l:"Trump & Epstein →",h:"./trump.html"}]},
+      {y:1993,d:"1993",t:"Ghislaine Maxwell arrives in New York after father's death",b:"After Robert Maxwell's mysterious drowning death in 1991, Ghislaine moves to New York and enters Jeffrey Epstein's orbit, eventually becoming his primary partner and alleged procurer.",era:"pre",persons:["Maxwell","Epstein"],tags:["recruitment","New York"],links:[{l:"Maxwell →",h:"./maxwell.html"}]},
+      {y:1994,d:"1994–1997",t:"Epstein–Wexner financial relationship deepens",b:"Les Wexner grants Epstein sweeping power of attorney over his finances. Epstein receives the 71st Street Manhattan mansion — one of the largest private residences in NYC — from Wexner. The nature of this extraordinary financial relationship has never been fully explained.",era:"pre",persons:["Epstein","Wexner"],tags:["financial","Manhattan mansion","power of attorney"],links:[{l:"Wexner →",h:"./wexner.html"},{l:"Financial Intel →",h:"./financials.html"}]},
+      {y:1997,d:"1997",t:"Epstein black book/address network documented",b:"A large contact book associated with Epstein is compiled, capturing hundreds of names and contact points across business, social, and political circles. The document later becomes a recurring investigative reference point.",era:"pre",persons:["Epstein","Maxwell"],tags:["address book","network mapping","contacts"],links:[{l:"Cast Hub ->",h:"./cast.html"}]},
+      {y:1999,d:"1999–2003",t:"Clinton flies on Epstein aircraft 26+ times",b:"Flight logs show former President Bill Clinton flew on Epstein's aircraft (including the Boeing 727 'Lolita Express' N908JE) at least 26 times. Secret Service detail was reportedly ditched on at least 5 trips.",era:"pre",persons:["Clinton","Epstein","Maxwell"],tags:["flight logs","Lolita Express","N908JE"],links:[{l:"Clinton →",h:"./clinton.html"},{l:"Flight Intel →",h:"./flights-intel.html"}]},
+      {y:2000,d:"c. 2000",t:"Victim recruited at Mar-a-Lago — age 16",b:"Multiple deposition exhibits document that a victim 'met Maxwell at Donald Trump's Mar-a-Lago Club in Palm Beach, Florida, when [she] was a 16-year-old spa attendant. She asserted that Maxwell had recruited her.'",q:"met Maxwell at Donald Trump's Mar-a-Lago Club...when [she] was a 16-year-old spa attendant",era:"pre",persons:["Trump","Maxwell","Epstein"],tags:["Mar-a-Lago","recruitment","victim testimony"],links:[{l:"Finding #22 →",h:"./depositions.html"},{l:"Trump →",h:"./trump.html"}],explosive:true},
+      {y:2001,d:"2001",t:"Trump tells New York magazine Epstein 'likes beautiful women on the younger side'",b:"In a New York magazine profile, Trump says of Epstein: 'I've known Jeff for 15 years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side.'",q:"many of them are on the younger side",era:"pre",persons:["Trump","Epstein"],tags:["public statement","New York Magazine"],links:[{l:"Trump →",h:"./trump.html"}]},
+      {y:2002,d:"c. 2002",t:"Maxwell pilots Clinton helicopter to Little St. James",b:"Sworn declaration states Maxwell flew President Clinton by helicopter to a dinner on Epstein's private island.",q:"Ms Maxwell piloted President Bill Clinton in a helicopter to a dinner on Little St James",era:"pre",persons:["Clinton","Maxwell","Epstein"],tags:["Little St. James","helicopter","sworn testimony"],links:[{l:"Finding #20 →",h:"./depositions.html"},{l:"Clinton →",h:"./clinton.html"}],explosive:true},
+      {y:2002,d:"c. 2002",t:"Victim names sex partners in sworn testimony",b:"Victim identifies individuals she was directed to have sex with by Maxwell and Epstein, including Governor Richardson, Prince Andrew, Alan Dershowitz ('oral sex when Ms. [redacted] was 16'), Senator Mitchell, Ehud Barak, Wexner, Dubin, and Clinton.",q:"oral sex when Ms. [redacted] was 16",era:"pre",persons:["Andrew","Dershowitz","Clinton","Wexner","Dubin","Maxwell","Epstein","Richardson","Mitchell","Barak"],tags:["sworn testimony","victim statement"],links:[{l:"Finding #18 →",h:"./depositions.html"},{l:"Andrew →",h:"./andrew.html"},{l:"Dershowitz →",h:"./dershowitz.html"}],explosive:true},
+      {y:2004,d:"2004",t:"Trump and Epstein reportedly split after Palm Beach property rivalry",b:"Public reporting describes a major falling-out tied to competition over the Maison de l'Amitie property in Palm Beach, often cited as an inflection point in their relationship.",era:"pre",persons:["Trump","Epstein"],tags:["Palm Beach","relationship break","property dispute"],links:[{l:"Trump ->",h:"./trump.html"}]},
+      {y:2005,d:"March 2005",t:"Palm Beach Police begin investigation",b:"A parent calls Palm Beach PD to report that her 14-year-old daughter was taken to Epstein's mansion and paid $300 after being asked to undress. Detective Joe Recarey begins investigation.",era:"pre",persons:["Epstein","Recarey"],tags:["Palm Beach","police investigation","first report"],links:[]},
+      {y:2005,d:"2005–2006",t:"Message pads show Trump called Epstein's Palm Beach mansion",b:"Physical evidence confiscated from Epstein's home — message pads — show Trump called Epstein's West Palm Beach mansion 'on several occasions during the time period most relevant' to victims' complaints.",q:"message pads confiscated from Epstein's home indicated that Trump called Epstein's West Palm Beach mansion on several occasions",era:"pre",persons:["Trump","Epstein"],tags:["message pads","physical evidence","Palm Beach"],links:[{l:"Finding #19 →",h:"./depositions.html"},{l:"Trump →",h:"./trump.html"}],explosive:true},
+
+      // ═══════════════ NPA ERA (2006–2018) ═══════════════
+      {y:2006,d:"2006",t:"FBI launches federal investigation",b:"After Palm Beach PD identifies 40+ victims, FBI opens federal investigation into Epstein's sex trafficking operation.",era:"npa",persons:["Epstein"],tags:["FBI","federal investigation"],links:[]},
+      {y:2006,d:"July 19, 2006",t:"Palm Beach grand jury returns solicitation indictment",b:"Local grand jury returns a solicitation-related charge rather than broader trafficking counts sought by local investigators, narrowing the immediate criminal exposure and shaping the path toward the later federal deal.",era:"npa",persons:["Epstein"],tags:["grand jury","Palm Beach","indictment"],links:[{l:"Legal Filings ->",h:"./legal-filings.html"}]},
+      {y:2007,d:"June 2007",t:"Epstein's Non-Prosecution Agreement (NPA)",b:"US Attorney Alexander Acosta negotiates a secret deal with Epstein's lawyers. Epstein pleads guilty to two state prostitution charges, serves 13 months with work release, and receives federal immunity — along with unnamed co-conspirators. Victims are not notified, violating the Crime Victims' Rights Act.",era:"npa",persons:["Epstein","Acosta","Dershowitz"],tags:["NPA","plea deal","immunity","CVRA violation"],links:[{l:"Depositions →",h:"./depositions.html"}],explosive:true},
+      {y:2007,d:"September 24, 2007",t:"NPA language extends protection to potential co-conspirators",b:"The signed NPA includes broad language protecting named and potential co-conspirators from federal prosecution in the district, a central point of later legal and public criticism.",era:"npa",persons:["Epstein","Acosta","Maxwell"],tags:["NPA text","co-conspirators","immunity scope"],links:[{l:"Legal Filings ->",h:"./legal-filings.html"}],explosive:true},
+      {y:2008,d:"2008",t:"Alfredo Rodriguez arrested for selling 'golden nugget' notebook",b:"Epstein's house manager Rodriguez attempted to sell a notebook containing comprehensive evidence of Epstein and Brunel's trafficking operation to an undercover agent for $50K. FBI agents noted it 'confirmed all allegations and had photos, emails and notes.'",q:"That notebook contained and confirmed all allegations and had photos, emails and notes outlining Epstein and Brunel's sex trafficking scheme",era:"npa",persons:["Epstein","Brunel","Rodriguez"],tags:["evidence destruction","golden nugget","obstruction"],links:[{l:"Finding #1 →",h:"./analysis.html"}],explosive:true},
+      {y:2008,d:"June 30, 2008",t:"Epstein enters state guilty plea on two prostitution-related charges",b:"Epstein pleads guilty in state court under the framework created by the NPA. The plea and sentencing structure become a long-term flashpoint in legal and public accountability debates.",era:"npa",persons:["Epstein","Acosta"],tags:["guilty plea","state court","NPA outcome"],links:[{l:"Legal Filings ->",h:"./legal-filings.html"}]},
+      {y:2008,d:"July 2008",t:"Epstein begins 13-month sentence with work release",b:"Under the NPA, Epstein serves his time at Palm Beach County Stockade with 'work release' privileges allowing him to leave 12 hours per day, 6 days per week to go to his private office.",era:"npa",persons:["Epstein","Acosta"],tags:["sentence","work release","Palm Beach"],links:[]},
+      {y:2009,d:"2009",t:"Epstein registers as sex offender; civil suits begin",b:"After release, Epstein registers as a Level 3 sex offender. Attorney Bradley Edwards begins filing civil suits on behalf of victims.",era:"npa",persons:["Epstein","Edwards"],tags:["sex offender","civil litigation"],links:[{l:"Depositions →",h:"./depositions.html"}]},
+      {y:2010,d:"June 2010",t:"FBI documents MC2 as sex trafficking front",b:"FBI Child Exploitation Task Force internal email: Sergio Cordero confirms Brunel uses MC2 modeling agency as 'a legitimate transport agency of underage girls into America for purposes of sex.' Epstein gave Brunel $1M to start MC2.",q:"Brunel uses MC2 to introduce underage girls to Epstein since Epstein gave him $1 million dollars to start up MC2",era:"npa",persons:["Epstein","Brunel","Clinton"],tags:["FBI","MC2","sex trafficking","modeling agency"],links:[{l:"Finding #1 →",h:"./analysis.html"}],explosive:true},
+      {y:2010,d:"2010",t:"FBI creates 'Names in JE File' internal document",b:"FBI compiles list of positive case hits from Epstein's files. Trump entry notes: 'one identified victim claimed abuse by Trump but ultimately refused to cooperate.' Document lists 15+ individuals with FBI-corroborated connections.",q:"one identified victim claimed abuse by Trump but ultimately refused to cooperate",era:"npa",persons:["Trump","Andrew","Clinton","Dershowitz","Wexner","Black","Dubin","Brunel","Spacey","Summers","Gates","Staley","Weinstein"],tags:["FBI","positive case hits","victim claim"],links:[{l:"Finding #17 →",h:"./depositions.html"},{l:"Trump →",h:"./trump.html"}],explosive:true},
+      {y:2011,d:"2011",t:"Epstein invokes 5th Amendment in depositions",b:"When asked under oath about evidence of abuse, Epstein asserts his rights under the 5th, 6th, and 14th Amendments rather than answer substantive questions.",q:"Unfortunately today I have to respond by asserting my rights of Sixth, Fifth and Fourteenth Amendment",era:"npa",persons:["Epstein"],tags:["deposition","5th Amendment","sworn testimony"],links:[{l:"Finding #21 →",h:"./depositions.html"}]},
+      {y:2011,d:"2011–2014",t:"Leon Black pays Epstein $158M",b:"Apollo Global Management founder Leon Black pays Epstein approximately $158 million over several years, claiming it was for 'tax and estate planning.' Documents show payments routed through entities including 'Alan Dershowitz Consulting LLC' and 'Gratitude America Ltd.'",era:"npa",persons:["Black","Epstein","Dershowitz"],tags:["$158M","Apollo","financial","tax planning"],links:[{l:"Black →",h:"./black.html"},{l:"Financial Intel →",h:"./financials.html"}],explosive:true},
+      {y:2015,d:"January 2015",t:"Virginia Giuffre names Andrew, Dershowitz in federal filing",b:"Court filing in Giuffre v. Maxwell names Prince Andrew and Alan Dershowitz as individuals Giuffre was forced to have sex with while trafficked by Epstein and Maxwell.",era:"npa",persons:["Andrew","Dershowitz","Maxwell","Epstein","Giuffre"],tags:["federal filing","Giuffre v. Maxwell"],links:[{l:"Andrew →",h:"./andrew.html"},{l:"Dershowitz →",h:"./dershowitz.html"}]},
+      {y:2017,d:"2017",t:"Acosta confirmed as U.S. Labor Secretary",b:"Alexander Acosta, who oversaw the 2007 federal non-prosecution agreement as U.S. Attorney in Miami, is confirmed to President Trump's cabinet, renewing scrutiny of the earlier deal.",era:"npa",persons:["Acosta","Trump","Epstein"],tags:["cabinet","Acosta","NPA scrutiny"],links:[{l:"Bondi/Acosta Context ->",h:"./bondi.html"}]},
+      {y:2018,d:"November 2018",t:"Miami Herald 'Perversion of Justice' series published",b:"Julie K. Brown's investigative series exposes the secret NPA deal, identifies 80+ victims, and forces renewed scrutiny of Acosta's handling of the case.",era:"npa",persons:["Epstein","Acosta"],tags:["Miami Herald","journalism","NPA exposed"],links:[]},
+
+      // ═══════════════ SDNY ERA (2019–2020) ═══════════════
+      {y:2019,d:"July 6, 2019",t:"Epstein arrested by SDNY at Teterboro Airport",b:"FBI agents arrest Epstein upon return from Paris. SDNY charges him with sex trafficking of minors. Prosecutors Geoffrey Berman and team pursue case despite political pressure.",era:"sdny",persons:["Epstein","Berman"],tags:["arrest","SDNY","sex trafficking","Teterboro"],links:[]},
+      {y:2019,d:"July 9, 2019",t:"SDNY files federal indictment alleging 2002-2005 trafficking conduct",b:"Federal charging documents detail sex-trafficking and conspiracy counts and lay out a structured factual timeline that reframes the case as a major federal prosecution rather than a closed historical matter.",era:"sdny",persons:["Epstein","Berman"],tags:["indictment","SDNY","federal charges"],links:[{l:"Legal Filings ->",h:"./legal-filings.html"}]},
+      {y:2019,d:"July 2019",t:"Berman receives pointed questions about DOJ protection of Andrew",b:"After Epstein's arrest, journalist asks US Attorney Berman why 'three successive DOJ administrations (Bush, Obama, Trump) protected Prince Andrew' and why immunity was granted to procurers including Maxwell.",era:"sdny",persons:["Berman","Andrew","Maxwell"],tags:["SDNY","DOJ protection","immunity"],links:[{l:"Finding #2 →",h:"./analysis.html"}]},
+      {y:2019,d:"July 2019",t:"Acosta resigns as Labor Secretary",b:"Alexander Acosta resigns from Trump's cabinet amid renewed scrutiny of his role in the 2007 NPA deal that let Epstein escape federal prosecution.",era:"sdny",persons:["Acosta","Trump","Epstein"],tags:["resignation","Labor Secretary","NPA"],links:[]},
+      {y:2019,d:"July 25, 2019",t:"Federal court denies Epstein bail",b:"Court rejects release proposals and keeps Epstein detained pretrial, citing risk and case seriousness. The detention ruling marks a sharp contrast with the earlier plea-era treatment.",era:"sdny",persons:["Epstein"],tags:["bail denied","pretrial detention","SDNY"],links:[{l:"Legal Filings ->",h:"./legal-filings.html"}]},
+      {y:2019,d:"August 10, 2019",t:"Epstein found dead in MCC cell",b:"Jeffrey Epstein is found dead in his cell at the Metropolitan Correctional Center in Manhattan. Death ruled suicide by hanging. Both guards assigned to his unit were sleeping, cameras malfunctioned. AG William Barr calls it a 'perfect storm of screw-ups.'",era:"sdny",persons:["Epstein","Barr"],tags:["death","MCC","suicide","cameras"],links:[]},
+      {y:2019,d:"August 2019",t:"Boris Nikolic named in Epstein's will as backup executor",b:"Bill Gates' former science advisor Boris Nikolic is named as a backup executor of Epstein's will, signed just two days before Epstein's death. Nikolic claims surprise. Text messages between Nikolic and Gates associates found in files.",era:"sdny",persons:["Gates","Nikolic","Epstein"],tags:["will","executor","Gates advisor"],links:[{l:"Gates →",h:"./gates.html"},{l:"Finding #7 →",h:"./analysis.html"}]},
+      {y:2020,d:"July 2, 2020",t:"Ghislaine Maxwell arrested in New Hampshire",b:"FBI arrests Maxwell at her secluded New Hampshire property. Charged with enticement and conspiracy to entice minors, transportation of minors, and perjury.",era:"sdny",persons:["Maxwell"],tags:["arrest","FBI","conspiracy"],links:[{l:"Maxwell →",h:"./maxwell.html"}]},
+
+      // ═══════════════ TRIAL ERA (2021–2024) ═══════════════
+      {y:2021,d:"Nov–Dec 2021",t:"Maxwell trial — guilty on 5 of 6 counts",b:"Ghislaine Maxwell found guilty of sex trafficking, conspiracy, and transporting a minor. Four victims testified. Prosecution presented evidence including flight logs, photographs, and massage table from Epstein's Palm Beach residence.",era:"trial",persons:["Maxwell","Epstein"],tags:["trial","verdict","guilty","sex trafficking"],links:[{l:"Maxwell →",h:"./maxwell.html"}]},
+      {y:2022,d:"February 19, 2022",t:"Jean-Luc Brunel found dead in French custody",b:"Brunel, long associated with Epstein's recruitment pipeline through modeling contacts, is found dead in prison while awaiting trial in France.",era:"trial",persons:["Brunel","Epstein"],tags:["Brunel","French custody","pipeline context"],links:[{l:"Brunel ->",h:"./brunel.html"}]},
+      {y:2022,d:"June 28, 2022",t:"Maxwell sentenced to 20 years",b:"Judge Alison Nathan sentences Maxwell to 20 years in federal prison, calling her crimes 'heinous and predatory.' Victims deliver impact statements.",era:"trial",persons:["Maxwell"],tags:["sentencing","20 years"],links:[{l:"Maxwell →",h:"./maxwell.html"}]},
+      {y:2023,d:"January 2023",t:"Giuffre v. Maxwell documents ordered unsealed",b:"Federal judge orders the release of sealed documents from Giuffre v. Maxwell civil case, which contain depositions, flight logs, and testimony naming numerous powerful individuals.",era:"trial",persons:["Maxwell","Giuffre"],tags:["unsealing","court order"],links:[]},
+      {y:2023,d:"May-June 2023",t:"Major bank settlements expand institutional accountability",b:"Civil actions tied to Epstein-related conduct produce large settlements from major financial institutions, broadening scrutiny beyond individuals to gatekeepers and compliance failures.",era:"trial",persons:["Epstein","Staley"],tags:["civil settlements","institutional liability","banks"],links:[{l:"Financial Intel ->",h:"./financials.html"}]},
+      {y:2024,d:"January 3, 2024",t:"First batch of Giuffre v. Maxwell documents released",b:"Court releases hundreds of pages of previously sealed depositions and documents. Names of powerful individuals become public. Media coverage explodes globally.",era:"trial",persons:["Maxwell","Trump","Clinton","Andrew","Dershowitz"],tags:["document release","unsealing","global coverage"],links:[]},
+      {y:2024,d:"February 2024",t:"Prince Andrew settlement terms discussed in released docs",b:"Unsealed documents reveal details of the financial settlement between Prince Andrew and Virginia Giuffre, along with deposition testimony about Andrew's alleged activities.",era:"trial",persons:["Andrew","Giuffre"],tags:["settlement","deposition"],links:[{l:"Andrew →",h:"./andrew.html"}]},
+
+      // ═══════════════ RELEASE ERA (2025–2026) ═══════════════
+      {y:2025,d:"January 2025",t:"DOJ announces full Epstein file release",b:"Department of Justice announces plans to release the complete Epstein case files to the public, comprising approximately 900,956 PDF documents across multiple datasets.",era:"release",persons:["Epstein"],tags:["DOJ","file release","900K PDFs"],links:[{l:"Release Guide →",h:"./release-guide.html"}]},
+      {y:2025,d:"Jan–Feb 2025",t:"Datasets 1–12 released to public",b:"DOJ releases 12 datasets totaling approximately 1.86 TB of documents. Files include FBI reports, depositions, flight logs, financial records, emails, communications, photographs, and legal filings.",era:"release",persons:[],tags:["datasets","1.86TB","12 datasets"],links:[{l:"Release Guide →",h:"./release-guide.html"}]},
+      {y:2025,d:"February 2025",t:"Pam Bondi (AG) suggests Epstein files may implicate 'many people'",b:"Attorney General Pam Bondi makes public statements suggesting the released files may contain information implicating numerous additional individuals.",era:"release",persons:["Bondi"],tags:["AG statement","implications"],links:[{l:"Bondi →",h:"./bondi.html"}]},
+      {y:2025,d:"July 2025",t:"DOJ/FBI memo states no standalone client list found",b:"A joint memo position states investigators found no centralized document labeled as a definitive client list and frames further disclosures narrowly, escalating disputes over transparency expectations.",era:"release",persons:["Bondi","Epstein"],tags:["DOJ memo","client list debate","transparency"],links:[{l:"Release Guide ->",h:"./release-guide.html"}]},
+      {y:2025,d:"November 2025",t:"Epstein Files Transparency Act signed",b:"Congressional action sets formal release expectations and timelines, shifting the disclosure process from ad-hoc releases toward a statutory framework.",era:"release",persons:[],tags:["transparency act","congress","release framework"],links:[{l:"Release Guide ->",h:"./release-guide.html"}]},
+      {y:2026,d:"February 2026",t:"THE PDF FILES: 900,956 PDFs fully indexed and analyzed",b:"Complete automated analysis of all 900,956 PDFs: 1.52M pages extracted, 286.6M words indexed, 98 cast members tracked, 176,561 person-scan matches, 5 investigations completed, 22 key findings documented.",era:"release",persons:[],tags:["analysis complete","1.52M pages","286M words","22 findings"],links:[{l:"Analysis →",h:"./analysis.html"},{l:"Key Findings →",h:"./investigations.html"}]},
+      {y:2026,d:"February 2026",t:"Investigation A: Power Network — 13 dossiers compiled",b:"Deep analysis of 447,045 communications and email files. Dossiers on 13 key figures including Trump, Clinton, Andrew, Gates, Musk, Black, Wexner, Dershowitz, Bannon, Barr, Acosta, Dubin, and Ito.",era:"release",persons:["Trump","Clinton","Andrew","Gates","Musk","Black","Wexner","Dershowitz","Bannon","Barr","Acosta","Dubin"],tags:["Investigation A","dossiers","power network"],links:[{l:"Investigation C →",h:"./investigation-c.html"}]},
+      {y:2026,d:"February 2026",t:"Investigation C: 26,128 high-value financial & flight documents identified",b:"Scan of 114,039 flight, financial, contact, and evidence files. Identified 5 aircraft tail numbers, 1,296 flight records with named persons, Dershowitz payments through shell entities, and Black's $158M connection.",era:"release",persons:["Black","Dershowitz","Wexner","Epstein"],tags:["Investigation C","financial","flights","26K docs"],links:[{l:"Investigation C →",h:"./investigation-c.html"},{l:"Financials →",h:"./financials.html"},{l:"Flights →",h:"./flights-intel.html"}]},
+      {y:2026,d:"February 2026",t:"Investigation D: 276,445 deposition files deep-read",b:"Complete scan of all deposition and sworn testimony files (60.9M words). Identified 42 named deponents, 134,403 documents with named persons, 3,174 high-value multi-person documents. FBI 'Names in JE file' document discovered.",era:"release",persons:["Trump","Clinton","Andrew","Dershowitz","Maxwell","Epstein"],tags:["Investigation D","depositions","60.9M words","FBI names list"],links:[{l:"Depositions →",h:"./depositions.html"}]},
+    ];
+
+    /* ── ALL PERSONS extracted from events ── */
+    const ALL_PERSONS = [...new Set(EVENTS.flatMap(e=>e.persons))].sort();
+
+    const ERAS = [
+      {id:"pre",label:"Pre-Investigation (1990s–2005)",color:"var(--era-pre)"},
+      {id:"npa",label:"NPA Era (2006–2018)",color:"var(--era-npa)"},
+      {id:"sdny",label:"SDNY Era (2019–2020)",color:"var(--era-sdny)"},
+      {id:"trial",label:"Trial Era (2021–2024)",color:"var(--era-trial)"},
+      {id:"release",label:"Release Era (2025–2026)",color:"var(--era-release)"},
+    ];
+
+    const PERSON_PAGES = {
+      "Trump":"trump.html","Clinton":"clinton.html","Andrew":"andrew.html","Maxwell":"maxwell.html",
+      "Gates":"gates.html","Black":"black.html","Wexner":"wexner.html","Dershowitz":"dershowitz.html",
+      "Musk":"musk.html","Bannon":"bannon.html","Barr":"barr.html","Bondi":"bondi.html",
+      "Kellen":"kellen.html","Dubin":"dubin.html","Brunel":"brunel.html",
+    };
+
+    /* ── STATE ── */
+    let filterEra = "all";
+    let filterPerson = "all";
+    let filterQuery = "";
+
+    /* ── DOM ── */
+    const $search = document.getElementById("tlSearch");
+    const $eraSelect = document.getElementById("tlEraSelect");
+    const $personSelect = document.getElementById("tlPersonSelect");
+    const $eraPills = document.getElementById("eraPills");
+    const $personRow = document.getElementById("personRow");
+    const $meta = document.getElementById("tlMeta");
+    const $line = document.getElementById("tlLine");
+    const $stats = document.getElementById("tlStats");
+
+    function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+
+    /* ── RENDER STATS ── */
+    function renderStats(){
+      const total = EVENTS.length;
+      const explosive = EVENTS.filter(e=>e.explosive).length;
+      const people = ALL_PERSONS.length;
+      const eras = ERAS.length;
+      const years = EVENTS.map(e=>Number(e.y)).filter(Number.isFinite);
+      const earliest = years.length ? Math.min(...years) : '-';
+      const latest = years.length ? Math.max(...years) : '-';
+      const cards = [
+        {n:total,l:"Timeline Events"},{n:explosive,l:"Explosive Findings"},{n:people,l:"Named Persons"},{n:eras,l:"Eras Covered"},
+        {n:String(earliest),l:"Earliest Event"},{n:String(latest),l:"Latest Event"},{n:"22",l:"Key Findings"},{n:"4",l:"Investigations"},
+      ];
+      $stats.innerHTML = cards.map(c=>`<div class="tl-stat"><div class="tl-stat-num">${c.n}</div><div class="tl-stat-label">${c.l}</div></div>`).join("");
+    }
+
+    /* ── BUILD PERSON SELECT ── */
+    function buildPersonSelect(){
+      ALL_PERSONS.forEach(p=>{
+        const o=document.createElement("option");o.value=p;o.textContent=p;
+        $personSelect.appendChild(o);
+      });
+    }
+
+    /* ── BUILD ERA PILLS ── */
+    function buildEraPills(){
+      const all = document.createElement("button");
+      all.className="era-pill active";all.dataset.era="all";all.textContent="All Eras";
+      all.onclick=()=>{filterEra="all";$eraSelect.value="all";syncPills();render()};
+      $eraPills.appendChild(all);
+      ERAS.forEach(era=>{
+        const b=document.createElement("button");
+        b.className="era-pill";b.dataset.era=era.id;b.textContent=era.label;
+        b.onclick=()=>{filterEra=era.id;$eraSelect.value=era.id;syncPills();render()};
+        $eraPills.appendChild(b);
+      });
+    }
+    function syncPills(){
+      $eraPills.querySelectorAll(".era-pill").forEach(p=>{
+        p.classList.toggle("active",p.dataset.era===filterEra);
+      });
+    }
+
+    /* ── BUILD PERSON ROW ── */
+    function buildPersonRow(){
+      const top = ["Trump","Clinton","Andrew","Maxwell","Epstein","Gates","Black","Dershowitz","Wexner","Musk","Bannon","Barr","Acosta","Brunel","Dubin"];
+      top.forEach(p=>{
+        const b=document.createElement("button");b.className="person-btn";b.textContent=p;
+        b.onclick=()=>{
+          if(filterPerson===p){filterPerson="all";$personSelect.value="all";b.classList.remove("active")}
+          else{filterPerson=p;$personSelect.value=p;$personRow.querySelectorAll(".person-btn").forEach(x=>x.classList.remove("active"));b.classList.add("active")}
+          render();
+        };
+        $personRow.appendChild(b);
+      });
+    }
+
+    /* ── FILTER ── */
+    function getFiltered(){
+      const q = filterQuery.toLowerCase();
+      return EVENTS.filter(e=>{
+        if(filterEra!=="all" && e.era!==filterEra) return false;
+        if(filterPerson!=="all" && !e.persons.includes(filterPerson)) return false;
+        if(q){
+          const hay = [e.t,e.b,e.q||"",...e.persons,...(e.tags||[])].join(" ").toLowerCase();
+          if(!hay.includes(q)) return false;
+        }
+        return true;
+      });
+    }
+
+    /* ── RENDER ── */
+    function render(){
+      const filtered = getFiltered();
+      $meta.textContent = `Showing ${filtered.length} of ${EVENTS.length} events` + (filterEra!=="all"?` · Era: ${ERAS.find(e=>e.id===filterEra)?.label||filterEra}`:"") + (filterPerson!=="all"?` · Person: ${filterPerson}`:"") + (filterQuery?` · Search: "${filterQuery}"`:"");
+
+      let html = "";
+      let lastYear = null;
+      filtered.forEach(e=>{
+        if(e.y !== lastYear){
+          lastYear = e.y;
+          html += `<div class="tl-year-marker">${e.y}</div>`;
+        }
+        const eraClass = "era-"+e.era;
+        const eraLabel = ERAS.find(x=>x.id===e.era)?.label||e.era;
+        html += `<div class="tl-event${e.explosive?" explosive":""}">`;
+        html += `<div class="tl-event-date">${esc(e.d)}</div>`;
+        html += `<div class="tl-event-title">${esc(e.t)}</div>`;
+        html += `<div class="tl-event-body">${esc(e.b)}</div>`;
+        if(e.q) html += `<div class="tl-event-quote">"${esc(e.q)}"</div>`;
+        html += `<div class="tl-event-tags">`;
+        html += `<span class="tl-tag era-tag ${eraClass}">${esc(eraLabel)}</span>`;
+        e.persons.forEach(p=>{
+          const href = PERSON_PAGES[p] ? ` onclick="location.href='./${PERSON_PAGES[p]}'"` : "";
+          html += `<span class="tl-tag person"${href}>${esc(p)}</span>`;
+        });
+        (e.tags||[]).forEach(tag=>{
+          html += `<span class="tl-tag">${esc(tag)}</span>`;
+        });
+        html += `</div>`;
+        if(e.links && e.links.length){
+          html += `<div class="tl-links">`;
+          e.links.forEach(lnk=>{
+            html += `<a class="tl-link" href="${esc(lnk.h)}">${esc(lnk.l)}</a>`;
+          });
+          html += `</div>`;
+        }
+        html += `</div>`;
+      });
+      if(!filtered.length) html = `<p style="color:var(--muted);text-align:center;padding:2rem">No events match your filters.</p>`;
+      $line.innerHTML = html;
+    }
+
+    /* ── EVENTS ── */
+    $search.addEventListener("input",()=>{filterQuery=$search.value;render()});
+    $eraSelect.addEventListener("change",()=>{filterEra=$eraSelect.value;syncPills();render()});
+    $personSelect.addEventListener("change",()=>{
+      filterPerson=$personSelect.value;
+      $personRow.querySelectorAll(".person-btn").forEach(b=>b.classList.toggle("active",b.textContent===filterPerson));
+      render();
+    });
+
+    /* ── INIT ── */
+    renderStats();
+    buildPersonSelect();
+    buildEraPills();
+    buildPersonRow();
+    render();
+  })();
+  </script>
+</body>
+</html>

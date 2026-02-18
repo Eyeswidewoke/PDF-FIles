@@ -1,0 +1,312 @@
+---
+source_image: "scanned-document+deposition-transcript+bank-statement+invoice__EFTA01729006_20260130_p010_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 514
+confidence: 1.00
+extracted: 2026-02-13T17:19:04.264719
+---
+
+Page 
+16 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile Veer: 
+Total Mobile,: 
+' AIRTIME AND LONG DISTANCE CHARGES 
+ 
+CHARGES 
+• 
+Length 
+Clty 
+of 
+Air 
+'Long 
+Ito: Date 
+Timm 
+CL Mo. Called 
+Called 
+P P Call Time 
+Diet. Total' 
+600 D1/19 20:09PN 
+601 01/19 10218PN 
+602 01/19 10:20PM 
+603 01/19 10:28PM 
+604 01/20 07:22PM 
+605 02/20 07:35PM 
+606 01/20 07:42PM 
+607 01/20 08:37PN 
+608 01/20 08:43PM 
+609 01/21 01:06PM 
+610 D2/22 03:26PM 
+611 01/21 03:27PM 
+612 01/22 04:33PM 
+613 01/22 07:52FM 
+614 01/22 08:28PM 
+615 01/22 08:349M 
+616 01/22 08:38PM 
+617 01/22 08:55PN 
+618 01/22 09:0204 
+619 01/22 09:27PN 
+620 01/22 09:30PM 
+621 01/22 09:43PM 
+622 01/22 09:44PM 
+623 01/22 09:53PM 
+624 01/22 10:12PM 
+625 01/22 10:47PM 
+626 01/22 11:36PM 
+627 01/22 11:47PM 
+628 01/23 12:19AM 
+629 01/23 11:38AM 
+630 01/23 12:3131MI 
+631 01/23 01:07PM 
+632 02/22 01:41PM 
+-633 01/23 02:07PM 
+634 01/23 02:08PN 
+635 01/23 04:19PN 
+636 01/23 04:21PM 
+637 01/23 04:26PM 
+638 01/23 04:28PM 
+639 01/23 06:19PM 
+640 01/23 06:50PM 
+641 01/23 00:09PN 
+642 01/23 08:31PN 
+643 01/23 09:23PM 
+644 01/23-09:26PM 
+645 01/23 09:42PM 
+646 01/23 10:08PM 
+647 01/23 10:19PM 
+648 01/23 10:23PM 
+649 01/23 10:30PM 
+650 01/23 10:33PM 
+651 01/21 10:39PM 
+652 01/23 10:42PM 
+653 02/23 10:51PM 
+654 01/23 11:041174 
+655 01/23 11:15PM 
+W PALM FL M 
+VOICE CL 
+• PALM PL W 
+1NCOMI CL N 
+N PALM FL 
+INCOMI CL 
+1NCOMI CL 
+PALM FL 
+=OM 
+CL' 
+ICR CL 
+PALM PL 
+PALM FL 
+COMI CL 
+'COMI CL 
+PALM FL 
+PALM FL 
+NODMI CL 
+NCOMI CL 
+NCCNI CL W 
+PALM PL N 
+PAIN FL N 
+PALM FL M 
+•PALM FL M 
+PALM FL W 
+PALM FL W 
+NCOMI a W 
+PALM FL W 
+PAN FL 
+ICE CL W 
+PALM FL 
+NCONI CL 
+:DICE a 
+=MI a 
+W FL 
+PALM FL 
+PALM FL 
+PALM FL 
+NCOMI a 
+PALM FL 
+NCOMI a 
+PALM FL 
+PALM FL 
+NI CL 
+OBI CL 
+TONI CL W 
+COMI CL N 
+PALM FL N 
+ICE CL W 
+PALM FL N 
+COMI CL W 
+COMI CL N 
+CONI CL 
+CON! a W 
+PALM FL N 
+PALM FL W 
+PALM FL N 
+9 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00.
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+2 
+D.00 
+0.00 
+6 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+-0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+4.00 
+1 
+0.00 
+0.00 
+1 
+0.0D 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+D.00 
+4 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+• 2 
+0.00 
+0.00 
+2 
+0.00.
+0.00 
+11 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 .0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00-
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+D.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.60 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+EFTA01729015

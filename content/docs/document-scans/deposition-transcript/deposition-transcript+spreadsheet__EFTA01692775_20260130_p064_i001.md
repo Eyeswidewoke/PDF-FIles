@@ -1,0 +1,548 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p064_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 861
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.986122
+---
+
+I .iKcingular.
+Account Number 
+Account Nanie 
+Date of Invoice 
+JUNO 12. 2005 
+Pages 0116 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+WACT MAU FOR 
+Nsa 
+karc Owe Time Case 
+1pit 
+II CN 
+t6/1 
+NM 
+E 
+te VW 
+21 an 
+sinin 
+E 
+new 
+• 16/1 
+OSP 
+40 WI 
+41 OW 
+NpRn
+• 
+OWI 
+44 OWI 
+4/ 
+4F oi
+49 
+SO 
+SN 
+tan 
+S7 WI 
+1211A 
+12259. 
+1
+1iF29A 
+11YC 
+0115" 
+01:10A 
+01 
+Ol 
+01 
+01 4/A 
+01/111A 
+01A1A 
+W 
+02:1
+OW
+W 
+OMA 
+BM 
+0302A 
+0104A 
+t  I
+A 
+AU
+4A
+4'
+COSOA 
+O354A 
+Glib To 
+ciemnicy 
+Lamę tisAtil.......
+r. v 
+Only 
+Chafes 
+:I 
+Used 
+Rsw OesdriPude 
+Champ r. Nn Des Tim 
+W T 
+UW 
+MVA04) M 
+fl ISS WI OIASA 
+W 
+i m A 
+IJKLIWE 
+MWK 
+W 
+u,/ 
+unLIMT 
+MW 
+INI 
+;I MM 802 
+b  
+t..itillirl 
+NW 
+ii1 
+WW 
+UNIKAT 
+NyIĄ 
+211 
+21/19.4 
+wane, 
+hiw 
+li Si El 
+1 1/
+2M1 
+WARWO MW 
+Mel 
+I•  
+rk
+lm WI ba 
+WW 
+/AWAY 
+MWK 
+WI 
+' 
+it SM 10:11A. 
+WIT 
+LIALW 
+MW< 
+W 
+i 
+WW 
+t,...Wil 
+NW( 
+WI 
+It 
+M 
+04/1 na
+wir 
+unUtol 
+NWX 
+lal 
+11/0/ 
+WWW 
+IWA 
+MM 
+11 
+A 
+Iw 
+umierał NWI 
+in 
+I EAT 
+MESSAGE RAMC A. 
+4
+i,. Bl. 
+11.02 
+WP 
+R 
+2W4 
+UhtlidtrE0 ilWAta) IM 
+MW 
+IRWATED MYKWOM* 
+ACM FL 
+MIN 
+Wal 
+wirn. = 
+MW 
+lil 
+Na 
+UNLIMITED r4Y/100 N* 
+OM USSA 
+AO, R 
+IW 
+ilAti110 D PIVVIiiii0 MK 
+I 3 
+IMP 
+WAWA 
+2WI1 
+UhltilTE0 FMK 
+SM 
+if stiP 
+NIW 
+UhlOirt 
+14V/4 
+ISM 
+POWINNO 
+MM 
+UhLOWTED MVMM) WI 
+ii %trag ginIN 
+INCOMMG 
+MCOIWO 
+ir4 
+e....trawrit -". 
+ii III Cifill 01.24P 
+ml. 
+MilACTED inlmilti WI 
+1112 OW14 WW 
+CALL www: 
+LAKE WORTH rL 
+MN 
+UliLlIAITED MMMD WI 
+INCOMAW 
+IW 
+UriLIIETED ‚AVOW, WI 
+li 
+M  EIS
+wp....v , 
+IM" 
+ISCUPAITrItN01411 
+WPalMs 
+R 
+IM 
+LNMNf
+WE Al/ 
+it 
+wrAWEACKIII. 
+(.10VATCNIPW fl. 
+Wy 
+MI Sil 
+"IW< 
+IW 
+UMW 
+14V/A 
+LM 
+UtillidITIEU WA 
+WI 
+‚ii 
+i 
+E 
+Fl 
+MCOlan0. 
+LM( YORTIIR 
+IW 
+11.04 
+UNKRAITED MW 
+IM 
+UNUMIEDNWK 
+M 
+i M Ml 
+, 
+MOWA 
+MN 
+WWWW MW11.10 mn 
+nn ona 1 
+WWWASEACH Fl. 
+INCOW40 
+LW 
+UhLIWT 
+WWW) W 
+1..11 ...ri......„., 
+UNI1 
+WAIXIC IIIII 
+i 
+nz cyn i 
+% IN wif 01:SIA 
+- 
+•93 WIS 'LOA 
+e
+lar4G. 
+WPALMOTACH R. 
+I 
+WPALIACFM01 a ;pl a Ast i vi, vh. 
+1 121 
+i 
+117,R
+inTe
+.  
+,„ , tn SM 
+IKiM 
+91001400 
+im CVI 
+WPM/AMA/54 R. 
+tiM il 
+U
+t tilMT
+"int S AL
+4 Vall illni"  
+Wm 
+WPALIR
+ACN n. 
+SAM 
+Uhtltill ED 141W<NQ ION 
+WPALMMACAIR 
+MW 
+WWW 
+WWW° W 
+E 0.2 W:A0A 
+. 
+4/IS PNIA 
+WAR/AWACS IL 
+KW 
+WW( 
+MW 
+WI 
+AD. IL 
+t 
+WAM 
+0AWK 
+W 
+WA 
+AIWA 
+W 
+) Al OVIS 11.4A 
+WPAVe
+aron 
+WPAWAVACH R 
+a 
+UM WM MWOO WI 
+I kVorAKl: 
+.A04 M. 
+Mn 
+WAKAT 
+NW 
+W 
+014 OKK11 11:SSA 
+MM 
+UMAITO &WAND um 
+1 
+E 8111R324: 
+Mm 
+WWII 
+0.  MWOO WI 
+MN 
+WAM i i .0 SKWARO WI 
+: Iw WIS 09.400 
+MM 
+UAW! o AWM90 IM 
+MM 
+LIALWITEQ WWW UM 
+I P? 81143
+MN 
+LIMMITto WW 
+MM 
+WPALMBEACH Fl 
+MN 
+UMUNITED N.WO1O OAS 
+fI 
+BOYMTCWOCH R 
+SIAN 
+ueuscria) MVO° Le 
+EW 
+EWKA RETRIEW. 
+:I 
+2)12 i l l 
+FIL
+7
+12.1 
+/Av 
+LAW/IWO RWA 
+VartM R 
+M 
+glINN'" 
+u 
+N 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+iMr" 
+WAraAO4 R 
+WPALWACH 
+WOMma 
+WPFLIMEAGIFL 
+111111111 
+11111111 
+111111111111111111111111111111111111111111111111 
+C./.-.110111,41 
+OMY 
+avow 
+Gelb TO 
+Used Rate DetotOten 
+SOVNT 
+FL 
+31114 
+R 
+pat 
+R 
+MW 
+O WWW) PAN 
+UMM gt.grAT 
+Ar
+it a 
+tri  
+= 
+Uu:litlfrAttga
+lK 
+2F 
+CL 
+— 
+1.) 
+Fl. 
+UMLIMTI WNW/0 Mrś 
+OIANAND IAN 
+D ‚WANN INN 
+R 
+1W 
+NANKPO W 
+FL 
+Ink 
+RMAr 
+R. 
+IM 
+IWOM IM4 
+meow.] k iM 
+wu 
+UOILIKATED PAVAN VF 
+WNW WI 
+KP IMI 
+1.1 MIN 
+WPAIMBEACP FL 
+IWIN 
+UNIMAL O NAWINIJ MN 
+UM 
+UPILWITIONATKNO IW 
+WPAI Nofsral FL 
+IWI 
+IMIAKTE WN9/40 Mv 
+WRALVIII ADM 
+IW 
+W 
+NINO( INN 
+VIVV: 
+IW 
+WAIT 
+HAWN INN 
+MA 
+WC 
+NAVIN MN 
+W ...L.FeL.Lct. In. 
+AMR 
+WOSKI 
+WWW MW 
+WWW/EACH FL 
+WAII 
+WONNICO WINNO NIN 
+IACOURG 
+WIWIWW
+TEOWJAIND U114 
+CALL 
+WALWACI4 IL 
+1 
+um wriT(Witnw Dw 
+i RW 
+WriSMI.T. onania 
+WPAWAM:1i FL 
+IW 
+LALKA TEO PIMAND MW 
+MCCAAMG 
+IW 
+L0/..9.41Q/ 9/MAND MN 
+WPALWEACH R 
+2MII 
+1.1O./Alto WNWID MN 
+WPALW.V.T..)4 R 
+ILU 
+WILIM1r14NDMIN 
+WPALLMEACJ4FL 
+ILU 
+WILNO 
+WWID tun 
+wpALA/n/ ALA FL i r, ayrza gira:: 
+T 
+11KWANG 
+WPALWOEACII FL 
+Mk 
+VA/WM WYRW MN 
+itt 
+.T.tVartari8M 
+iu-.04,0, 
+LAKE WCAWIFL 
+IW 
+111A.MTEWINIWO IW 
+V/PAO/PEACH R 
+IAA 
+UNLIWIE0 WWW/AM 
+WPAIMMACH Fl. 
+MR 
+WAITED WNW WW 
+rw/MAJM 
+R. 
+= 
+WOWATIOKAYKNEWN 
+WAWft QWWW401.0, 
+=j:VAG., 
+ot 
+ 
+• 
+WWI 
+SIIMK1/81.01 
+/WW1/ 
+WSM IAN 
+WPA1 VOUCH 
+WPALAIREACH 
+LAW WW IW Fh  
+Mk 
+LIKM11.0 
+O MWWW> MR 
+sak 
+LIAAMTLW/10 MR 
+Mk 
+UMAMIEOPWAND MX 
+WPAJAM. ACM PL 
+W. 
+AM.KA IW WAIVID MN 
+wPALAWEACH FL 
+MR 
+tiPWRONIATAIDIKIN 
+WI 
+NETS MIĘ RETRIEVAL 
+WNIVADEACH il 
+W 
+WILMTW MMilow IAN 
+/AcOsANA. 
+W 
+WAWA o knatio w 
+O/COW/4 
+MN 
+Ww/C0 14MVAID M N 
+DICOWIG 
+It 
+Lnunnoninkn p nn 
+0071/041804 FL 
+WARSTW IWAUV 0 RW 
+wPAWOIACTI FL 
+R.Y. 
+lti/T AT,J.Ittelt
+rth/ RAW 
+SW 
+WPAWKACH FL 
+NIN 
+LIILIVIT(00 WWW IW 
+Illansw 
+WA 
+WIXWILWAVIVI RMF 
+WA / 
+wwa 
+Aw/ EL 
+W 
+tAlli/WWWWIRP/ 
+R 
+W. 
+WAMI 
+a re:2 ;It 
+NP 
+W. 
+WW1 
+WPALAMEAtm FL 
+w. 
+wilmTE0 WIWID MN 
+WPALAWA044 R 
+N/A 
+WIWATE0 WMOILWIN 
+BOYNTINO04 
+NW 
+WIUMTED WWWID WIN 
+EFTA01692838

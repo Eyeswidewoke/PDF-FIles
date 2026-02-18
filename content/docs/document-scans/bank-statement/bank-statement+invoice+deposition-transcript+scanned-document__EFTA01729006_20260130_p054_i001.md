@@ -1,0 +1,293 @@
+---
+source_image: "bank-statement+invoice+deposition-transcript+scanned-document__EFTA01729006_20260130_p054_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 563
+confidence: 1.00
+extracted: 2026-02-13T16:08:19.822837
+---
+
+. A 
+Page 
+5 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile User: 
+Total Mobiles: 
+Cingular Text Messaging 
+7We 
+Incoming/ 
+Outgoing 
+OTHER MOBIL! TO MOBILE 
+OTHER MOBILE TO MOBILE 
+Total 
+Out 
+In 
+AIRTIMB AND LONG DISTANCE CHARGES 
+' 
+Included Billable 
+Rate 
+Total 
+0 
+1 
+0.10 
+0.10 
+0 
+5- 
+0.10 
+0.50 
+6
+0.60 
+City 
+lea Dace 
+Tine 
+CL No. Called 
+Called 
+F P 
+1 02/07 12:41AM 
+2 02/07 03:15AM 
+3 02/07 03:20AM 
+4 02/07 03:43AM 
+5 02/07 10:34AM 
+6 02/07 10:36AM 
+7 02/07 10:38AM 
+6 02/07 10147AN 
+9 02/07 11:03AN 
+. 10 02/07 11:48AM 
+11 02/07 02:13PM 
+12 02/07 02:19PM 
+13 02/07 02:24PM 
+14 02/07 02:25PM 
+15 D2/07 02:42PM 
+16 02/07 02:43PM 
+17 02/07 04:OOPM 
+18 02/07 04:01PM 
+19 02/07 10:07PM 
+20 02/07 10:09PM 
+21 02/07 10:11PM 
+22 02/07 10:25PM 
+23 02/07 10:37PN 
+24 02/07 10:38PN 
+25 02/07 10:4704 
+26 02/07 10:48PM 
+27 02/07 10:57PM 
+28 02/07 10:58PM 
+29 02/07 10:59PM 
+30 02/07 11:02PM 
+31 02/07 11:14PM 
+32 02/07 11:16PM 
+33 02/07'11:24PM 
+34 02/07 11:31PM 
+35 02/07 11:34PM 
+36 02/07 11:42PM 
+37 02/07 11:47PM 
+38 02/07 11:55PM 
+39 02/08 12:01AM 
+40 02/08 12:01AM 
+41 02/08 12:04AM 
+42 02/0$ 12:15AM 
+43 02/08 12:17AM 
+44 02/08 12:32AM 
+45 02/08 01:06AM 
+46 02/0$ 02:22AM 
+47 02/08 02:37AM 
+48 02/08 02:50AM 
+H PALM FL W N 
+N PALM FL H N 
+INC0MT CL N N 
+VOICE CL N N 
+N PALM FL N N 
+W PALM FL V N 
+W PALM FL N N 
+INCCMI CL w N 
+VOICE CL N N 
+INCOMI CL N N 
+INCOMI CL N N 
+N PALM FL N N 
+PCMPAN PL N N 
+N PALM FL N N 
+N PALM FL H N 
+VOICE CL N N 
+N PALM FLWN 
+N PALM FL W N 
+N PALM FL NN 
+W PALM FL NN 
+• PALM FL N N 
+INCOMI CL N N 
+INCOMI CL N N 
+N PALM FL N N 
+N PALM FL NN 
+W PALM FLWN 
+N PALM FL H li 
+N PALM FL H 
+W PALM FL N N 
+N PALM FL N N 
+VOICE CL N 
+INCOMI CL N N 
+N PALM FL N N 
+W PALM FL N N 
+W PALM FL W N 
+INCOMI CL N N 
+PALM FL NN 
+PALM FL N N 
+PALM FL N N 
+PALM FL N N 
+INCOMI CL N N 
+PALM FL N N 
+PALM FL NN 
+PALM FL NN 
+COMI CL N N 
+PALM FL N N 
+CE a, w 11 
+CL W N 
+CHARGES 
+Length 
+of 
+Call 
+Air 
+Time 
+Long 
+'Dist. 'Total 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+4 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+7 0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00' 
+2 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+.1 
+0.00 
+0.00 
+5 
+0.00 
+.0.00 
+1 
+0.00 
+•
+ 
+0.00 
+. 1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+D.00 
+0.00 
+I 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+EFTA01729059

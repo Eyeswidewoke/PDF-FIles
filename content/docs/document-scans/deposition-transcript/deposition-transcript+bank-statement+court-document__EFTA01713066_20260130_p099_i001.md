@@ -1,0 +1,122 @@
+---
+source_image: "deposition-transcript+bank-statement+court-document__EFTA01713066_20260130_p099_i001.png"
+source_pdf: "EFTA01713066.pdf"
+method: pdf_text
+words: 527
+confidence: 1.00
+extracted: 2026-02-13T16:20:13.849238
+---
+
+maw Enforcement Report 
+Page 8 of 19 
+SDELANO 
+CA 93215-9653, TULARE COUNTY (Jul 2001 - Jan 2008) 
+a
+r 
+CA 93215-9413. TULARE COUNTY (Sep 2001 - Dec 2007) 
+AKERSPIELD CA 93308.2076, KERN COUNTY (Jan 1975 • Apr 2006) 
+RICHUROVE CA 93.161, TULARE COUNTY (May 2001 - 2006) 
+BAKERSFIELD CA 93301-5927. KERN COUNTY (Jun 1096 - Jun 2001) 
+BAKERSFIELD CA 93308-3065. KERN COUNTY (Jan 1975 - Jul 1996) 
+BAKERSFIELD CA 93308-2986. KERN COUNTY (Mar 1992 - Feb 1994) 
+BAKERSFIELD CA 93308-2984. KERN COUNTY (Jul 1986 - Aug 1993) 
+DOB: 
+Age: 38 
+xxx-xx-xxxx issued in New York between 01/01/1984 and 1251/1986 
+°rifled Address(es): 
+MASPETH NY 11378-2444 QUEENS COUNTY (Aug 2006 • Feb 2008) 
+ASPETH NY 11378.2426. QUEENS COUNTY Nov 1999 - Nov 2005) 
+ELANO CA 93215-9802, KERN COUNTY (Mar 1992 - Oct 2000) 
+KLYN NY 11229, KINGS COUNTY (Sep 2000) 
+GLOUCESTER MA 01930-3429. ESSEX COUNTY (Sep '995) 
+AKERSFIELD CA 93309-6347. KERN COUNTY (Mar 1992 - Jun 1994) 
+GLOUCESTER MA 01930-2913. ESSEX COUNTY (Oct 1990 - Dec 1990) 
+LOUCESTER MA 01930-3772. ESSEX COUNTY (Oct 1990) 
+STER MA 01930-0254, ESSEX COUNTY 
+NO CA 93224, KERN COUNTY 
+Age: 
+as Associated withAssoc" 
+• 
+DOB 
+e: 34 
+xxx-xx-snis issued in New Yodi be 
+/ 1/1984 and 12/31/1980 
+ 
+ICBM 
+e: 34 
+New
+between 01/01!1984 and 12/31/1986 
+111.1101DOB 
+: 34 
+xxx-xx-xxxx ssu 
+in New York between 01/01/1984 and 12/31/1986 
+' 
+Addross(es): 
+P 
+PORTERVILLE CA 93257.1497. TULARE COUNTY (Feb 2007 - Aug 2007)
+CA 93257-1614. TULARE COUNTY (Apr 2036 - May 2007) 
+ORTERVILLE CA 93257-8876, TULARE COUNTY (Jul 2007 - Feb 2008) 
+ORTERV1LLE CA 93257-6615. TULARE COUNTY (Dec 2001 - Jan 2007) 
+PORTERVLLE CA 93257-1617. TULARE COUNTY (Jul 2000 - Dec 2001) 
+DELANO CA 93216-0310, KERN COUNTY (Mar 1999 - Jul 1999) 
+RICHGROVE CA 93261, TULARE COUNTY (Apr 1999 - Dec 2001) 
+LANO CA 93215. KERN COUNTY (Mar 1999 • Jul 1999) 
+eDELANO 
+CA 93215-9802, KERN COUNTY (Feb 1992 - Jan 1999) 
+li
+)ELANO CA 93215-9413, KERN COUNTY (Jul 1994 - Apr 1995) 
+DOB: \ge: 
+28 
+motoowootx issued in New York between 01/01/1980 and 12/31/1982 
+ociate: 
+OEI:
+iige: 28 
+in(v.vv.nedirNew vrirk biuren 01/01/1980 and 12/31/1982 
+ 
+DOB: .ge: 
+28 
+mot-xx-t000( issued in New York between 01/01'1980 and 12/31/1982 
+illikilliatrifled 
+Address* 
+OLUMBIA SC 29201-3533. RICHLAND COUNTY (Jul 2007- Feb 2(X9) 
+Ill
+/lASPETH NY 11378-2444. QUEENS COUNTY (Jun 2003 - Dec 2007) 
+S
+_MHURST NY 11373-4587. QUEENS COUNTY (Sep 2002 - Jun 2003) 
+MASPETH NY 11378-3202, QUEENS COUNTY (Jun 2002 - Sep 2002) 
+ANAICA NY 11436-1301. QUEENS COUNTY (Sep 1998 • Jun 20021 
+U H OZONE PARK NY 11420. QUEENS COUNTY 
+Age: 
+Names Asap:labidwi h Associate: 
+DOB:
+e: 44 
+xxx-xx-xxxx issue in
+ i 
+California 
+/01/1972 and 12/31'1972 
+OB: 
+xxx
+ssu
+lligliF
+in
+cfniabetween 01/0e;/414972 and 12/31/1972 
+ 
+DOB: Mkge: 44 
+ssx-xx-xxxx issued in California between 01/01/1972 and 12/31/1972 
+DOBflge: 
+44 
+xxx-icx-xxxx issued in California between 01/0111972 and 12/31/1972 
+DOB: 
+VCC-XX.X7J0( 133U 
+hfornie between
+Age: 0414/01(
+1972 and 12/31/1972 
+on-Verified Address(es): 
+DELANO CA 93215-9653. TULARE COUNTY (Jul 2001 - Feb 2008) 
+N CA 93215-9653, TULARE COUNTY (Dec 2001 - Jun 2006) 
+BAKERSFIELD CA 93308-2076. KERN COUNTY (Mar 2001 - Jun 2001) 
+FORT COLLINS CO 50526-7101, LARIMER COUNTY (Oct 1984 - Jun 2()01) 
+OULA MT 59806-0131. MISSOULA COUNTY (Jan 1997) 
+https://secure.accurint.corn/app/bpstreport 
+4/23/2008 
+EFTA01713164

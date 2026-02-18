@@ -1,0 +1,524 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NAVIGATOR | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260215" />
+  <style>
+    :root{--nav-bg:#0d1117;--nav-panel:#161b22;--nav-border:#30363d;--nav-text:#c9d1d9;--nav-accent:#58a6ff;--nav-accent2:#79c0ff;--nav-muted:#8b949e;--nav-link:#d2a8ff;--nav-glow:rgba(88,166,255,.15);--node-person:#2ea043;--node-topic:#d29922;--node-inv:#bc8cff;--node-page:#f85149;--node-data:#3fb950;--node-hub:#58a6ff}
+    body{background:var(--nav-bg)!important;color:var(--nav-text)!important}
+    .noise{opacity:.03!important}
+    .hero{background:linear-gradient(120deg,#0d1117,#161b22)!important;border-bottom:1px solid var(--nav-border)!important}
+    .hero h1{color:#fff}
+    .hero .subhead{color:var(--nav-muted)!important}
+    .hero-nav-btn{border:1px solid var(--nav-border)!important}
+    .hero-divider{border-color:var(--nav-border)!important}
+    .nav-wrap{position:relative;z-index:1;max-width:1400px;margin:0 auto;padding:1rem clamp(1rem,3vw,2.5rem) 3rem}
+
+    /* ── Mind Map SVG ── */
+    .map-container{border:1px solid var(--nav-border);border-radius:.8rem;background:var(--nav-panel);padding:.5rem;margin-bottom:1.2rem;overflow:hidden;position:relative}
+    .map-container svg{width:100%;height:auto;display:block}
+    .map-controls{position:absolute;top:.6rem;right:.6rem;display:flex;gap:.3rem;z-index:5}
+    .map-ctrl{border:1px solid var(--nav-border);background:var(--nav-bg);color:var(--nav-text);border-radius:.4rem;padding:.3rem .6rem;font:600 .72rem var(--mono);cursor:pointer;transition:all .12s}
+    .map-ctrl:hover{background:var(--nav-accent);color:#fff;border-color:var(--nav-accent)}
+    .map-legend{display:flex;flex-wrap:wrap;gap:.6rem;padding:.4rem .6rem;border-top:1px solid var(--nav-border);font:.68rem var(--mono);color:var(--nav-muted)}
+    .legend-item{display:flex;align-items:center;gap:.25rem}
+    .legend-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+
+    /* ── Detail Panel ── */
+    .nav-detail{border:1px solid var(--nav-border);border-radius:.8rem;background:var(--nav-panel);padding:1rem;margin-bottom:1rem;display:none}
+    .nav-detail.active{display:block}
+    .nav-detail h2{margin:0 0 .4rem;font-size:1.1rem;color:#fff}
+    .nav-detail-sub{font:.75rem var(--mono);color:var(--nav-muted);margin-bottom:.6rem}
+    .nav-detail-body{font:.85rem var(--sans);line-height:1.6;color:var(--nav-text);margin-bottom:.6rem}
+    .nav-detail-links{display:flex;flex-wrap:wrap;gap:.4rem}
+    .nav-detail-link{font:600 .72rem var(--mono);padding:.3rem .6rem;border:1px solid var(--nav-border);border-radius:.5rem;color:var(--nav-accent);text-decoration:none;background:rgba(88,166,255,.06);transition:all .12s}
+    .nav-detail-link:hover{background:var(--nav-accent);color:#fff;border-color:var(--nav-accent)}
+    .nav-detail-link.primary{background:var(--nav-accent);color:#fff;border-color:var(--nav-accent)}
+    .nav-detail-link.primary:hover{background:var(--nav-accent2);border-color:var(--nav-accent2)}
+
+    /* ── Category Grid ── */
+    .cat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:.7rem;margin-bottom:1.5rem}
+    .cat-card{border:1px solid var(--nav-border);border-radius:.7rem;background:var(--nav-panel);padding:.7rem .8rem;transition:border-color .15s,box-shadow .15s;cursor:pointer}
+    .cat-card:hover{border-color:var(--nav-accent);box-shadow:0 0 20px var(--nav-glow)}
+    .cat-card h3{margin:0 0 .2rem;font-size:.9rem;color:#fff;display:flex;align-items:center;gap:.4rem}
+    .cat-card-desc{font:.76rem var(--sans);color:var(--nav-muted);margin-bottom:.4rem}
+    .cat-card-links{display:flex;flex-wrap:wrap;gap:.3rem}
+    .cat-link{font:600 .65rem var(--mono);padding:.15rem .4rem;border:1px solid var(--nav-border);border-radius:100px;color:var(--nav-accent);text-decoration:none;transition:all .1s}
+    .cat-link:hover{background:var(--nav-accent);color:#fff}
+
+    /* ── Search ── */
+    .nav-search{display:flex;gap:.5rem;margin-bottom:1rem}
+    .nav-search input{flex:1;border:1px solid var(--nav-border);border-radius:.6rem;background:var(--nav-bg);color:var(--nav-text);font:500 .82rem var(--mono);padding:.6rem .8rem}
+    .nav-search input::placeholder{color:var(--nav-muted)}
+
+    /* ── Section Headers ── */
+    .nav-section{margin:1.5rem 0 .6rem;font:700 .75rem var(--mono);text-transform:uppercase;letter-spacing:.06em;color:var(--nav-muted);border-bottom:1px solid var(--nav-border);padding-bottom:.3rem}
+
+    /* ── Connection Lines ── */
+    .conn-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:.5rem;margin-bottom:1rem}
+    .conn-card{border:1px solid var(--nav-border);border-radius:.6rem;background:rgba(22,27,34,.8);padding:.5rem .65rem;font:.78rem var(--sans);color:var(--nav-text);transition:all .12s;cursor:pointer}
+    .conn-card:hover{border-color:var(--nav-link);background:rgba(210,168,255,.05)}
+    .conn-arrow{color:var(--nav-muted);margin:0 .3rem}
+    .conn-label{font:.65rem var(--mono);color:var(--nav-muted);margin-left:.3rem}
+    @media(max-width:700px){.cat-grid{grid-template-columns:1fr}.conn-grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+  <header class="hero">
+    <h1>🧠 NAVIGATOR</h1>
+    <p class="subhead" style="margin:.5rem auto 0;max-width:70ch;text-align:center">
+      Interactive mind map of the Epstein case — people, investigations, documents, and connections.
+      Click any node to see details and links. Use this to explore the full site.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+    <nav class="hero-nav" aria-label="Navigation">
+      <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#5e4732,#3f2d1f)">HOME &rarr;</a>
+      <a class="hero-nav-btn" href="./timeline.html" style="background:linear-gradient(125deg,#546e7a,#37474f)">⏱️ TIMELINE &rarr;</a>
+      <a class="hero-nav-btn" href="./map.html" style="background:linear-gradient(125deg,#52307f,#311d57)">CONNECTION MAP &rarr;</a>
+      <a class="hero-nav-btn" href="./search.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900)">SEARCH &rarr;</a>
+      <a class="hero-nav-btn" href="./cast.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916)">CAST HUB &rarr;</a>
+    </nav>
+  </header>
+
+  <div class="nav-wrap">
+    <!-- Search -->
+    <div class="nav-search">
+      <input type="search" id="navSearch" placeholder="Search people, topics, investigations, connections..." autocomplete="off" spellcheck="false" />
+    </div>
+
+    <!-- SVG Mind Map -->
+    <div class="map-container">
+      <div class="map-controls">
+        <button class="map-ctrl" id="resetBtn">Reset View</button>
+      </div>
+      <svg id="mindSvg" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg"></svg>
+      <div class="map-legend">
+        <div class="legend-item"><div class="legend-dot" style="background:var(--node-hub)"></div> Hub</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--node-person)"></div> Person</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--node-inv)"></div> Investigation</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--node-topic)"></div> Topic</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--node-page)"></div> Site Page</div>
+        <div class="legend-item"><div class="legend-dot" style="background:var(--node-data)"></div> Data</div>
+      </div>
+    </div>
+
+    <!-- Detail panel (shown when node clicked) -->
+    <div class="nav-detail" id="detailPanel">
+      <h2 id="detailTitle">-</h2>
+      <div class="nav-detail-sub" id="detailSub">-</div>
+      <div class="nav-detail-body" id="detailBody">-</div>
+      <div class="nav-detail-links" id="detailLinks"></div>
+    </div>
+
+    <!-- Quick Navigation Categories -->
+    <div class="nav-section">📌 Quick Navigation</div>
+    <div class="cat-grid" id="catGrid"></div>
+
+    <!-- Key Connections -->
+    <div class="nav-section">🔗 Key Connections (from investigations)</div>
+    <div class="conn-grid" id="connGrid"></div>
+
+    <!-- All Site Pages -->
+    <div class="nav-section">📄 All Site Pages</div>
+    <div class="cat-grid" id="pageGrid"></div>
+  </div>
+
+  <script>
+  (function(){
+    /* ═══════════════════════════════════════════════════════
+       MIND MAP DATA
+       ═══════════════════════════════════════════════════════ */
+
+    const NODES = [
+      // Hub
+      {id:"epstein-corpus",label:"Epstein Corpus",type:"hub",desc:"900,956 PDFs · 1.52M pages · 286M words · 12 datasets",x:600,y:400},
+
+      // People (inner ring)
+      {id:"trump",label:"Trump",type:"person",desc:"2,311 deposition mentions · 738 comms mentions · 109 HV docs. Message pads show calls to Epstein mansion. Victim recruited at Mar-a-Lago.",page:"trump.html",x:380,y:180},
+      {id:"clinton",label:"Clinton",type:"person",desc:"884 deposition mentions · 208 comms mentions · 101 HV docs. 26+ flights. Helicopter to Little St. James. 'Erotic massages.'",page:"clinton.html",x:600,y:130},
+      {id:"andrew",label:"Prince Andrew",type:"person",desc:"4,480 deposition mentions · 747 comms mentions · 194 HV docs. Named by victim in sworn testimony. FBI positive case hit.",page:"andrew.html",x:820,y:180},
+      {id:"maxwell",label:"Maxwell",type:"person",desc:"9,953 deposition mentions. Primary procurer. Helicopter pilot. Guilty on 5/6 counts. 20-year sentence.",page:"maxwell.html",x:860,y:380},
+      {id:"gates",label:"Gates",type:"person",desc:"800 deposition mentions · 469 comms mentions. Advisor Nikolic named in will. 'No hit' on FBI list.",page:"gates.html",x:850,y:560},
+      {id:"black",label:"Leon Black",type:"person",desc:"7,457 deposition mentions · 4,133 comms mentions. $158M paid. Apollo Global. Highest non-Epstein mention count.",page:"black.html",x:750,y:620},
+      {id:"dershowitz",label:"Dershowitz",type:"person",desc:"1,460 deposition mentions · 287 comms mentions. Named by victim. 'Oral sex when [she] was 16.' Consulting LLC payments.",page:"dershowitz.html",x:500,y:650},
+      {id:"wexner",label:"Wexner",type:"person",desc:"429 deposition mentions · 156 comms mentions. Power of attorney. Manhattan mansion. Victoria's Secret.",page:"wexner.html",x:350,y:600},
+      {id:"musk",label:"Musk",type:"person",desc:"164 deposition mentions · 277 comms mentions. Context under investigation.",page:"musk.html",x:230,y:500},
+      {id:"bannon",label:"Bannon",type:"person",desc:"407 deposition mentions · 1,350 comms mentions. Surprisingly high volume. Trump co-occurrence.",page:"bannon.html",x:200,y:350},
+      {id:"barr",label:"Barr",type:"person",desc:"180 comms mentions. AG during Epstein death. 'Perfect storm of screw-ups.'",page:"barr.html",x:230,y:230},
+      {id:"acosta",label:"Acosta",type:"person",desc:"1,393 deposition mentions · 67 comms mentions. Architect of NPA.",page:null,x:370,y:400},
+      {id:"bondi",label:"Bondi",type:"person",desc:"Current AG. Public statements about file implications.",page:"bondi.html",x:180,y:420},
+      {id:"brunel",label:"Brunel",type:"person",desc:"838 deposition mentions. MC2 modeling agency. $1M startup from Epstein. Found dead in cell 2022.",page:"brunel.html",x:460,y:520},
+      {id:"dubin",label:"Dubin",type:"person",desc:"1,024 deposition mentions · 1,979 comms mentions. Highbridge Capital. Named by victim.",page:"dubin.html",x:700,y:500},
+
+      // Investigations (outer ring top)
+      {id:"inv-a",label:"Investigation A",type:"inv",desc:"Power Network — 447K files · 13 dossiers · 3,119 HV docs",page:"investigation-c.html",x:100,y:100},
+      {id:"inv-c",label:"Investigation C",type:"inv",desc:"Money & Planes — 114K files · 26,128 HV docs · flights & finance",page:"investigation-c.html",x:350,y:50},
+      {id:"inv-d",label:"Investigation D",type:"inv",desc:"Depositions — 276K files · 60.9M words · 42 deponents · 3,174 multi-person docs",page:"depositions.html",x:650,y:50},
+      {id:"inv-e",label:"Investigation E",type:"inv",desc:"Legal Filings — 549K files · 25 subcategories · In progress",page:null,x:900,y:100},
+
+      // Topics (outer ring bottom)
+      {id:"flights",label:"Flight Logs",type:"topic",desc:"4,347 flight files · 5 aircraft · N908JE 'Lolita Express' · N212JE Gulfstream",page:"flights-intel.html",x:100,y:650},
+      {id:"financial",label:"Financial Records",type:"topic",desc:"96,958 financial files · Bank records · Shell entities · Wire transfers",page:"financials.html",x:300,y:730},
+      {id:"depositions",label:"Depositions",type:"topic",desc:"276,445 files · 60.9M words · Sworn testimony · Cross-examinations",page:"depositions.html",x:550,y:750},
+      {id:"legal",label:"Legal Filings",type:"topic",desc:"549,360 files · 119.1M words · Sealing orders · Plea agreements",page:null,x:800,y:730},
+      {id:"comms",label:"Communications",type:"topic",desc:"256,461 files · Emails · Text messages · Internal memos",page:null,x:1000,y:650},
+
+      // Site pages (right side)
+      {id:"timeline-pg",label:"Timeline",type:"page",desc:"Interactive case chronology · Filter by era, person, topic",page:"timeline.html",x:1050,y:250},
+      {id:"analysis-pg",label:"Analysis",type:"page",desc:"Key findings · All 22 discoveries",page:"analysis.html",x:1080,y:380},
+      {id:"cast-pg",label:"Cast Hub",type:"page",desc:"98 tracked individuals · Connection network",page:"cast.html",x:1050,y:500},
+      {id:"search-pg",label:"Search",type:"page",desc:"Full-text search across all extracted content",page:"search.html",x:1000,y:200},
+    ];
+
+    const LINKS = [
+      // Hub to people
+      {s:"epstein-corpus",t:"trump",label:"mentions"},{s:"epstein-corpus",t:"clinton",label:"mentions"},
+      {s:"epstein-corpus",t:"andrew",label:"mentions"},{s:"epstein-corpus",t:"maxwell",label:"primary"},
+      {s:"epstein-corpus",t:"gates",label:"mentions"},{s:"epstein-corpus",t:"black",label:"$158M"},
+      {s:"epstein-corpus",t:"dershowitz",label:"named"},{s:"epstein-corpus",t:"wexner",label:"financial"},
+      // People to people
+      {s:"trump",t:"maxwell",label:"Mar-a-Lago"},{s:"trump",t:"andrew",label:"co-docs"},
+      {s:"clinton",t:"maxwell",label:"helicopter"},{s:"clinton",t:"andrew",label:"44 shared docs"},
+      {s:"andrew",t:"dershowitz",label:"25 shared docs"},{s:"black",t:"dershowitz",label:"payments"},
+      {s:"gates",t:"musk",label:"5 shared docs"},{s:"bannon",t:"trump",label:"8 shared docs"},
+      {s:"barr",t:"trump",label:"13 shared docs"},{s:"wexner",t:"brunel",label:"Victoria's Secret"},
+      {s:"maxwell",t:"brunel",label:"MC2"},{s:"dubin",t:"andrew",label:"7 shared docs"},
+      {s:"acosta",t:"dershowitz",label:"NPA deal"},
+      // Investigations to hub
+      {s:"inv-a",t:"epstein-corpus",label:"447K files"},{s:"inv-c",t:"epstein-corpus",label:"114K files"},
+      {s:"inv-d",t:"epstein-corpus",label:"276K files"},{s:"inv-e",t:"epstein-corpus",label:"549K files"},
+      // Topics to hub
+      {s:"epstein-corpus",t:"flights",label:"4,347 files"},{s:"epstein-corpus",t:"financial",label:"96,958 files"},
+      {s:"epstein-corpus",t:"depositions",label:"276K files"},{s:"epstein-corpus",t:"legal",label:"549K files"},
+      {s:"epstein-corpus",t:"comms",label:"256K files"},
+      // Pages
+      {s:"epstein-corpus",t:"timeline-pg",label:"chronology"},{s:"epstein-corpus",t:"analysis-pg",label:"findings"},
+      {s:"epstein-corpus",t:"cast-pg",label:"cast"},{s:"epstein-corpus",t:"search-pg",label:"search"},
+      // Cross-links
+      {s:"inv-c",t:"flights",label:"source"},{s:"inv-c",t:"financial",label:"source"},
+      {s:"inv-d",t:"depositions",label:"source"},{s:"inv-e",t:"legal",label:"source"},
+      {s:"inv-a",t:"comms",label:"source"},
+    ];
+
+    /* ═══════════════════════════════════════════════════════
+       NAVIGATION CATEGORIES
+       ═══════════════════════════════════════════════════════ */
+    const CATEGORIES = [
+      {icon:"🔴",title:"Key People",desc:"Power players, co-conspirators, and connected individuals",links:[
+        {l:"Trump & Epstein",h:"trump.html"},{l:"Clinton",h:"clinton.html"},{l:"Prince Andrew",h:"andrew.html"},
+        {l:"Maxwell",h:"maxwell.html"},{l:"Gates",h:"gates.html"},{l:"Leon Black",h:"black.html"},
+        {l:"Dershowitz",h:"dershowitz.html"},{l:"Wexner",h:"wexner.html"},{l:"Musk",h:"musk.html"},
+        {l:"Bannon",h:"bannon.html"},{l:"Barr",h:"barr.html"},{l:"Bondi",h:"bondi.html"},
+        {l:"Brunel",h:"brunel.html"},{l:"Dubin",h:"dubin.html"},{l:"Kellen",h:"kellen.html"},
+        {l:"All Cast →",h:"cast.html"},
+      ]},
+      {icon:"🔍",title:"Investigations",desc:"Deep analysis of specific evidence categories",links:[
+        {l:"A: Power Network",h:"investigation-c.html"},{l:"C: Money & Planes",h:"investigation-c.html"},
+        {l:"D: Depositions",h:"depositions.html"},{l:"All Investigations",h:"investigations.html"},
+      ]},
+      {icon:"📊",title:"Evidence Categories",desc:"Browse by document type",links:[
+        {l:"Flight Intelligence",h:"flights-intel.html"},{l:"Financial Intelligence",h:"financials.html"},
+        {l:"Depositions & Testimony",h:"depositions.html"},{l:"Flight Logs",h:"flights.html"},
+      ]},
+      {icon:"⏱️",title:"Chronology",desc:"Navigate the timeline of events",links:[
+        {l:"Case Timeline",h:"timeline.html"},{l:"Connection Map",h:"map.html"},
+        {l:"Master Timeline",h:"master-timeline.html"},
+      ]},
+      {icon:"📁",title:"Datasets & Files",desc:"Browse the 12 official DOJ datasets",links:[
+        {l:"DS1",h:"ds1.html"},{l:"DS2",h:"ds2.html"},{l:"DS3",h:"ds3.html"},{l:"DS4",h:"ds4.html"},
+        {l:"DS5",h:"ds5.html"},{l:"DS6",h:"ds6.html"},{l:"DS7",h:"ds7.html"},{l:"DS8",h:"ds8.html"},
+        {l:"DS9",h:"ds9.html"},{l:"DS10",h:"ds10.html"},{l:"DS11",h:"ds11.html"},{l:"DS12",h:"ds12.html"},
+        {l:"Release Guide",h:"release-guide.html"},
+      ]},
+      {icon:"🔎",title:"Research Tools",desc:"Search, analyze, and explore",links:[
+        {l:"Site Search",h:"search.html"},{l:"File Analysis",h:"analysis.html"},
+        {l:"Image Analysis",h:"images.html"},{l:"Victims & Accusers",h:"victims.html"},
+      ]},
+    ];
+
+    const KEY_CONNECTIONS = [
+      {from:"Trump",to:"Epstein",label:"Message pads, Mar-a-Lago, 'younger side' quote, victim claim"},
+      {from:"Clinton",to:"Epstein",label:"26+ flights, helicopter to island, 'erotic massages'"},
+      {from:"Andrew",to:"Epstein",label:"4,480 mentions, victim testimony, FBI positive hit"},
+      {from:"Maxwell",to:"Epstein",label:"Primary procurer, helicopter pilot, MC2 connection"},
+      {from:"Black",to:"Epstein",label:"$158M payments, Apollo Global, highest mention count"},
+      {from:"Dershowitz",to:"Epstein",label:"Named by victim age 16, consulting payments, NPA role"},
+      {from:"Wexner",to:"Epstein",label:"Power of attorney, Manhattan mansion, Victoria's Secret"},
+      {from:"Gates",to:"Epstein",label:"Advisor Nikolic in will, FBI 'no hit' list"},
+      {from:"Brunel",to:"Maxwell",label:"MC2 modeling front, $1M from Epstein, trafficking"},
+      {from:"Clinton",to:"Andrew",label:"44 shared high-value documents"},
+      {from:"Acosta",to:"Dershowitz",label:"NPA deal negotiation, immunity grants"},
+      {from:"Bannon",to:"Trump",label:"8 shared documents, 1,350 comms mentions"},
+      {from:"Barr",to:"Trump",label:"13 shared docs, AG during Epstein death"},
+      {from:"Dubin",to:"Andrew",label:"7 shared docs, victim named both"},
+      {from:"Musk",to:"Gates",label:"5 shared documents in corpus"},
+    ];
+
+    const ALL_PAGES = [
+      {l:"Home",h:"index.html"},{l:"Search",h:"search.html"},{l:"Connection Map",h:"map.html"},
+      {l:"Timeline",h:"timeline.html"},{l:"Navigator",h:"navigator.html"},{l:"Cast Hub",h:"cast.html"},
+      {l:"Release Guide",h:"release-guide.html"},{l:"Investigations",h:"investigations.html"},
+      {l:"Analysis & Findings",h:"analysis.html"},{l:"Image Analysis",h:"images.html"},
+      {l:"Victims & Accusers",h:"victims.html"},{l:"Flight Logs",h:"flights.html"},
+      {l:"Flight Intelligence",h:"flights-intel.html"},{l:"Financial Intelligence",h:"financials.html"},
+      {l:"Investigation C Hub",h:"investigation-c.html"},{l:"Depositions",h:"depositions.html"},
+      {l:"Trump",h:"trump.html"},{l:"Clinton",h:"clinton.html"},{l:"Andrew",h:"andrew.html"},
+      {l:"Maxwell",h:"maxwell.html"},{l:"Gates",h:"gates.html"},{l:"Black",h:"black.html"},
+      {l:"Dershowitz",h:"dershowitz.html"},{l:"Wexner",h:"wexner.html"},{l:"Musk",h:"musk.html"},
+      {l:"Bannon",h:"bannon.html"},{l:"Barr",h:"barr.html"},{l:"Bondi",h:"bondi.html"},
+      {l:"Brunel",h:"brunel.html"},{l:"Dubin",h:"dubin.html"},{l:"Kellen",h:"kellen.html"},
+      {l:"Russia / Putin",h:"russia.html"},
+      {l:"DS1",h:"ds1.html"},{l:"DS2",h:"ds2.html"},{l:"DS3",h:"ds3.html"},{l:"DS4",h:"ds4.html"},
+      {l:"DS5",h:"ds5.html"},{l:"DS6",h:"ds6.html"},{l:"DS7",h:"ds7.html"},{l:"DS8",h:"ds8.html"},
+      {l:"DS9",h:"ds9.html"},{l:"DS10",h:"ds10.html"},{l:"DS11",h:"ds11.html"},{l:"DS12",h:"ds12.html"},
+    ];
+
+    /* ═══════════════════════════════════════════════════════
+       DOM
+       ═══════════════════════════════════════════════════════ */
+    const $svg = document.getElementById("mindSvg");
+    const $detail = document.getElementById("detailPanel");
+    const $detailTitle = document.getElementById("detailTitle");
+    const $detailSub = document.getElementById("detailSub");
+    const $detailBody = document.getElementById("detailBody");
+    const $detailLinks = document.getElementById("detailLinks");
+    const $catGrid = document.getElementById("catGrid");
+    const $connGrid = document.getElementById("connGrid");
+    const $pageGrid = document.getElementById("pageGrid");
+    const $search = document.getElementById("navSearch");
+    const $resetBtn = document.getElementById("resetBtn");
+
+    function esc(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
+
+    /* ═══════════════════════════════════════════════════════
+       RENDER SVG MIND MAP
+       ═══════════════════════════════════════════════════════ */
+    const NS = "http://www.w3.org/2000/svg";
+    const TYPE_COLORS = {hub:"#58a6ff",person:"#2ea043",inv:"#bc8cff",topic:"#d29922",page:"#f85149",data:"#3fb950"};
+    const TYPE_RADIUS = {hub:28,person:18,inv:16,topic:16,page:14,data:14};
+
+    let selectedNode = null;
+
+    function nodeById(id){return NODES.find(n=>n.id===id)}
+
+    function drawMap(){
+      $svg.innerHTML = "";
+
+      // Defs for glow
+      const defs = document.createElementNS(NS,"defs");
+      const filter = document.createElementNS(NS,"filter");
+      filter.id = "glow";
+      filter.innerHTML = `<feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>`;
+      defs.appendChild(filter);
+      $svg.appendChild(defs);
+
+      // Draw links
+      LINKS.forEach(link=>{
+        const s = nodeById(link.s);
+        const t = nodeById(link.t);
+        if(!s||!t) return;
+        const line = document.createElementNS(NS,"line");
+        line.setAttribute("x1",s.x);line.setAttribute("y1",s.y);
+        line.setAttribute("x2",t.x);line.setAttribute("y2",t.y);
+        line.setAttribute("stroke","#30363d");line.setAttribute("stroke-width","1");
+        line.setAttribute("opacity","0.6");
+        line.dataset.source = link.s;
+        line.dataset.target = link.t;
+        $svg.appendChild(line);
+      });
+
+      // Draw nodes
+      NODES.forEach(node=>{
+        const g = document.createElementNS(NS,"g");
+        g.style.cursor = "pointer";
+        g.dataset.id = node.id;
+
+        const r = TYPE_RADIUS[node.type]||14;
+        const color = TYPE_COLORS[node.type]||"#8b949e";
+
+        // Outer glow circle
+        const glow = document.createElementNS(NS,"circle");
+        glow.setAttribute("cx",node.x);glow.setAttribute("cy",node.y);
+        glow.setAttribute("r",r+4);glow.setAttribute("fill",color);glow.setAttribute("opacity","0.15");
+        g.appendChild(glow);
+
+        // Main circle
+        const circle = document.createElementNS(NS,"circle");
+        circle.setAttribute("cx",node.x);circle.setAttribute("cy",node.y);
+        circle.setAttribute("r",r);circle.setAttribute("fill",color);
+        circle.setAttribute("stroke","#0d1117");circle.setAttribute("stroke-width","2");
+        g.appendChild(circle);
+
+        // Label
+        const text = document.createElementNS(NS,"text");
+        text.setAttribute("x",node.x);text.setAttribute("y",node.y + r + 14);
+        text.setAttribute("text-anchor","middle");text.setAttribute("fill","#c9d1d9");
+        text.setAttribute("font-size","11");text.setAttribute("font-family","Space Grotesk, sans-serif");
+        text.setAttribute("font-weight","600");
+        text.textContent = node.label;
+        g.appendChild(text);
+
+        g.addEventListener("click",()=>selectNode(node));
+        $svg.appendChild(g);
+      });
+    }
+
+    function selectNode(node){
+      selectedNode = node;
+      $detail.classList.add("active");
+      $detailTitle.textContent = node.label;
+      $detailSub.textContent = node.type.toUpperCase() + (node.page ? " · Has dedicated page" : "");
+      $detailBody.textContent = node.desc;
+
+      // Build links
+      $detailLinks.innerHTML = "";
+      if(node.page){
+        const a = document.createElement("a");
+        a.className = "nav-detail-link primary";
+        a.href = "./" + node.page;
+        a.textContent = "Open " + node.label + " Page →";
+        $detailLinks.appendChild(a);
+      }
+
+      // Find connections
+      const connected = LINKS.filter(l=>l.s===node.id||l.t===node.id);
+      connected.forEach(link=>{
+        const otherId = link.s===node.id ? link.t : link.s;
+        const other = nodeById(otherId);
+        if(!other) return;
+        const a = document.createElement("a");
+        a.className = "nav-detail-link";
+        a.href = other.page ? "./" + other.page : "#";
+        a.textContent = other.label + (link.label ? " ("+link.label+")" : "");
+        if(!other.page) a.style.opacity = ".5";
+        a.addEventListener("click",function(e){
+          if(!other.page){e.preventDefault();selectNode(other)}
+        });
+        $detailLinks.appendChild(a);
+      });
+
+      // Highlight in SVG
+      $svg.querySelectorAll("g").forEach(g=>{
+        const isSelected = g.dataset.id === node.id;
+        const isConnected = connected.some(l=>l.s===g.dataset.id||l.t===g.dataset.id);
+        g.style.opacity = isSelected ? "1" : isConnected ? "0.9" : "0.3";
+      });
+      $svg.querySelectorAll("line").forEach(l=>{
+        const isActive = l.dataset.source===node.id||l.dataset.target===node.id;
+        l.setAttribute("stroke", isActive ? TYPE_COLORS[node.type]||"#58a6ff" : "#30363d");
+        l.setAttribute("stroke-width", isActive ? "2" : "1");
+        l.setAttribute("opacity", isActive ? "1" : "0.2");
+      });
+
+      $detail.scrollIntoView({behavior:"smooth",block:"nearest"});
+    }
+
+    $resetBtn.addEventListener("click",()=>{
+      selectedNode = null;
+      $detail.classList.remove("active");
+      $svg.querySelectorAll("g").forEach(g=>g.style.opacity="1");
+      $svg.querySelectorAll("line").forEach(l=>{
+        l.setAttribute("stroke","#30363d");l.setAttribute("stroke-width","1");l.setAttribute("opacity","0.6");
+      });
+    });
+
+    /* ═══════════════════════════════════════════════════════
+       RENDER CATEGORY GRID
+       ═══════════════════════════════════════════════════════ */
+    function renderCategories(){
+      $catGrid.innerHTML = CATEGORIES.map(cat=>`
+        <div class="cat-card">
+          <h3>${cat.icon} ${esc(cat.title)}</h3>
+          <div class="cat-card-desc">${esc(cat.desc)}</div>
+          <div class="cat-card-links">
+            ${cat.links.map(l=>`<a class="cat-link" href="./${esc(l.h)}">${esc(l.l)}</a>`).join("")}
+          </div>
+        </div>
+      `).join("");
+    }
+
+    /* ═══════════════════════════════════════════════════════
+       RENDER CONNECTIONS
+       ═══════════════════════════════════════════════════════ */
+    function renderConnections(){
+      $connGrid.innerHTML = KEY_CONNECTIONS.map(c=>`
+        <div class="conn-card" onclick="this.querySelector('.conn-detail')?.classList.toggle('open')">
+          <strong>${esc(c.from)}</strong>
+          <span class="conn-arrow">⟷</span>
+          <strong>${esc(c.to)}</strong>
+          <div class="conn-label">${esc(c.label)}</div>
+        </div>
+      `).join("");
+    }
+
+    /* ═══════════════════════════════════════════════════════
+       RENDER ALL PAGES
+       ═══════════════════════════════════════════════════════ */
+    function renderPages(){
+      $pageGrid.innerHTML = `<div class="cat-card">
+        <h3>📄 All ${ALL_PAGES.length} Site Pages</h3>
+        <div class="cat-card-desc">Every page on the site — click to navigate</div>
+        <div class="cat-card-links">
+          ${ALL_PAGES.map(p=>`<a class="cat-link" href="./${esc(p.h)}">${esc(p.l)}</a>`).join("")}
+        </div>
+      </div>`;
+    }
+
+    /* ═══════════════════════════════════════════════════════
+       SEARCH
+       ═══════════════════════════════════════════════════════ */
+    $search.addEventListener("input",function(){
+      const q = this.value.toLowerCase().trim();
+      if(!q){
+        // Show all
+        $catGrid.querySelectorAll(".cat-card").forEach(c=>c.style.display="");
+        $connGrid.querySelectorAll(".conn-card").forEach(c=>c.style.display="");
+        $pageGrid.querySelectorAll(".cat-card").forEach(c=>c.style.display="");
+        $svg.querySelectorAll("g").forEach(g=>g.style.opacity="1");
+        $svg.querySelectorAll("line").forEach(l=>{l.setAttribute("opacity","0.6");l.setAttribute("stroke","#30363d");l.setAttribute("stroke-width","1")});
+        return;
+      }
+
+      // Filter nodes
+      $svg.querySelectorAll("g").forEach(g=>{
+        const node = nodeById(g.dataset.id);
+        const match = node && [node.label,node.desc,node.id].join(" ").toLowerCase().includes(q);
+        g.style.opacity = match ? "1" : "0.15";
+      });
+
+      // Filter category cards
+      $catGrid.querySelectorAll(".cat-card").forEach(card=>{
+        card.style.display = card.textContent.toLowerCase().includes(q) ? "" : "none";
+      });
+
+      // Filter connections
+      $connGrid.querySelectorAll(".conn-card").forEach(card=>{
+        card.style.display = card.textContent.toLowerCase().includes(q) ? "" : "none";
+      });
+    });
+
+    /* ═══════════════════════════════════════════════════════
+       INIT
+       ═══════════════════════════════════════════════════════ */
+    drawMap();
+    renderCategories();
+    renderConnections();
+    renderPages();
+
+    // If URL has ?node=xxx, auto-select
+    const params = new URLSearchParams(location.search);
+    const autoNode = params.get("node");
+    if(autoNode){
+      const n = nodeById(autoNode);
+      if(n) setTimeout(()=>selectNode(n),100);
+    }
+  })();
+  </script>
+</body>
+</html>

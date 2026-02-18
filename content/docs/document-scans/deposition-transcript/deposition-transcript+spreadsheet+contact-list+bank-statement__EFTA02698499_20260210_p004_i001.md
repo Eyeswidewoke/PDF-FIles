@@ -1,0 +1,681 @@
+---
+source_image: "deposition-transcript+spreadsheet+contact-list+bank-statement__EFTA02698499_20260210_p004_i001.png"
+source_pdf: "EFTA02698499.pdf"
+method: pdf_text
+words: 1148
+confidence: 1.00
+extracted: 2026-02-13T16:56:54.328226
+---
+
+INVESTMENT GRADE 5011D OHRRINGS 
+Al Inds [1,04,1ar• 94/4,1 to amWilt/ 
+Al «im am ti.biec• to(rang) 
+PleAse took :a yea/ A/49 54M lerprobenuter lot fern le.* 
+lit n rot an abhaibine lu of all ,neurnert arade mad dlerece. 
+manna 
+rann.in 
+Cusip 
+OW 
+lams 
+1.4upm 
+Maury 
+Peke 
+VIM 
+Moody 
+S&P 
+tinier 
+Smiler 
+n-c. 
+CollaltHE TWO 
+29658P:53 
+3.054 WALT D.Slitv CO 
+1 125% 
+2/192017 
+100595 
+1.00 4.2 
+A 
+4 649 
+Conn.n.usteo 
+2.060 5b unSi(ar, 
+369626268 
+1000 GEN ELK CAP CRP 
+5400% 
+2/15/2017 
+115561 
+197 AI 
+M. 
+4.242 
+p.a.. 
+I.0O3 ba oniony 
+503769616 
+1.00) KEW 
+1250% 
+2/192017 
+100718 
+1 1 o 699 
+AAA 
+4 638 
+444-44 
+1.0:0 C44.16uatualu) 
+3567IDAWS 
+1.370 PREEPORT41( (64 
+2150% 
+311/2017 
+100620 
+201 P443 
+FOR 
+4 557 
+ea weed, 
+2.000 %a Mama 
+65562045/ 
+1.000 KOREA( WYST ENK 
+1000% 
+30/2017 
+100970 
+0 80 444 
+MA 
+4 728 
+Gnearen 
+200.060 batibtb«v140 
+6271804A) 
+500 MURRAY STREET TR 
+4617% 
+992017 
+101 553 
+429 Al 
+4 201 
+I-69...9 
+LOCO 4044>aff alum 
+0605050A9 
+300 8.14e OF AMER CRP 
+5470% 
+9192017 
+103013 
+4 72 P442 
+B884 
+4 220 
+2,99.9 
+1 oo.coo bubcacebuio 
+COWMAN 
+1.000 MRK AN Dry BANK 
+I 125% 
+3/197017 
+10 1377 
+084 Ma 
+MA 
+4 742 
+canermt 
+1100 sit mono 
+045167C(5 
+1000 ASIAN DE,/ IMP& 
+1 125% 
+9150017 
+101 761 
+076 Na 
+MA 
+4 744 
+IOW 14 vetuctrao 
+Gesennt 
+04.4••••ne 
+2987851145 
+LOCO EUTIOPEAN PUT IiK 
+1750% 
+3/192017 
+101992 
+133 444 
+MA 
+4 665 
+1,000 sa mums° 
+1360SIGEOS 
+2,000 SAW CI AMU CRP 
+3875% 
+3/22/2017 
+101 413 
+3 56 Lail 
+4 415 
+Inemi4 
+2.0:0 2 unbituao 
+617474079 
+1,061 81(1tGAN STANUY 
+4750% 
+3/220017 
+100791 
+457 62 
+A- 
+4311 
+i...4.4 
+I,CCO utunicuiso 
+060516608 
+2.000 nor a MAR CRP 
+3875% 
+922/2017 
+101 113 
+3 56 Eaa I 
+A. 
+4 415 
+F...44 
+2.050 la 1.4614V44 
+o2esuoore 
+1.415 AMER EDNIESS CR 
+2)75% 
+3/24/2017 
+102452 
+185 Al 
+B88. 
+4.617 
+2.000 sa ifirsicume 
+5634691U9 
+120 MANROBA IMO!, 
+1 303% 
+413/2017 
+101649 
+096 Aal 
+AA 
+4 768 
+9..n.... 
+LOCO 54 tietSICuia0 
+459058(66 
+1.020 IfiT BK RICOME:EV 
+0875% 
+4/17/2017 
+100484 
+078 Ma 
+MA 
+4 861 
+44444en. 
+1000 st vbru4y440 
+110707M6 
+1100 BRIT CO.U1115.4 
+1200% 
+1/25/2017 
+101 332 
+093 Nee 
+AM 
+4 845 
+Geaneaat 
+5.000 bati9S10.410 
+36962059.1) 
+1750 GEN ELK CAP CRP 
+2360% 
+4.477/2017 
+101 237 
+204 Ale 
+M. 
+4 709 
+lanai 
+1,000 oafirvtio 
+6174/61451 
+500 MORGAN NIAMEY 
+5550% 
+4/274017 
+102 765 
+492 42 
+4 331 
+Pena 
+100.000 ba vbibmitto 
+887323041 
+166 MAE WARAER CAM. 
+5850% 
+91/2017 
+118 138 
+201 0442 
+BBB 
+4 424 
+cennineacat 
+2.060 rowan 304144 
+1363854/'7 
+1470 (AN NATURAL RES 
+5700% 
+9192017 
+120 331 
+1 48 Na 1 
+888. 
+4 384 
+gnaw 
+EOM 1g 1411444.90 
+298765467 
+1000 EUI1OPEANIINT BK 
+5125% 
+5/30/2017 
+118497 
+134 Ma 
+Am 
+4 486 
+ramanni 
+I.000 ‚a isibicumb 
+1266508142 
+300 CVS CAREMARK 
+5750% 
+611/1017 
+119291 
+17S 8442 
+888. 
+4 430 
+caniu,.. tens 
+2.0:0 Si bmuctria, 
+298765PNI 
+LOCO RAMAN INYT BK 
+1625% 
+6/192017 
+101030 
+142 Ame 
+MA 
+4 914 
+cuinanewe 
+1,000 311u4sicono 
+054937462 
+33S WIT COPPORATION 
+4960% 
+6/392017 
+III 588 
+219 43 
+BBB. 
+4 551 
+Iwwis 
+I.
+bubosito 
+13411949i 
+388 CAMPBELL SOUP CO 
+3050% 
+7/192017 
+109015 
+125 Al 
+A 
+4821 
+cows Naw.ba. 
+2,000 1414441(11.4 
+172967C110 
+1.345 crtneur i..c 
+6.000% 
+8/192017 
+112116 
+341 43 
+A.. 
+4 539 
+Bneaw 
+IMO) SatatilCuit0 
+0258164X7 
+703 AMERICAN EXPRESS 
+6150% 
+8/28/2017 
+119701 
+220 Al 
+1188. 
+4 611 
+1.4.444 
+2.000 sm40.49440 
+0505050H4 
+265 WY OE AMER CRP 
+6003% 
+9/1/2017 
+108604 
+418 Gal 
+A. 
+4 984 
+444-4.4 
+5.000 NuetS10.010 
+381441486 
+260 40101AAN SACHS GP 
+6250% 
+918017 
+111093 
+392 AI 
+A. 
+4 543 
+14.44,4 
+2.060 SavniCtalio 
+4592004N 
+2.120 IPA CORP 
+5700% 
+91//2017 
+121128 
+145 443 
+At 
+1 726 
+linlie07/ 
+100,000 SP toiSICui40 
+36962031K 
+11100 GEN BSC CAP CRP 
+5625% 
+9/15/2917 
+117007 
+224 Al 
+M. 
+4 708 
+t..9(.2 
+1,000 54 uvucubto 
+341099(62 
+1.582 41044DA MR CORP 
+5800% 
+9/192017 
+122410 
+144 47 
+A 
+4 712 
+env. 
+2.060 UT bioncarai 
+0103921328 
+121 AL92.61.1A POWER CO 
+5500% 
+1919/017 
+121 124 
+145 Al 
+A 
+4 827 
+Wig, 
+I.
+54 Ve6441440 
+25213YAMI 
+1.000 04640 CAP RC 
+5750% 
+10234017 
+121 386 
+147 Al 
+4 833 
+°runt .444wit. 
+1 040 swum GvAJNI 
+907818[29 
+190 UMON PAC CoRP 
+5750% 
+11/192017 
+121 355 
+1.68 0442 
+4 770 
+..4.4ind 
+I.
+11 tinicino 
+459SOK818 
+1,000 WU Hi (et, 
+1125% 
+11/70017 
+106341 
+095 Na 
+AAA 
+5 226 
+Ceermerot 
+1000 41 4.614490 
+I729670.M 
+500 COCAIN.. INC 
+6125% 
+11/21/2017 
+113020 
+352 43 
+a 
+4.652 
+1....chl 
+1,003 u volcano 
+002819486 
+S.CCO MOTT LABS 
+5600% 
+11/392017 
+123112 
+127 Al 
+M 
+46t5 
+Finan,anearaiiti. 
+2,1300 54 4.1510.410 
+919746105 
+195 %netts FARGO CO 
+5625% 
+1201/2017 
+118414 
+212 Al 
+A9 
+4.836 
+1, 4, 04 
+5,000 >a ifirit<4440 
+68323A4(8 
+1,000 POW, Poteetec( 
+3150% 
+12,15/2017 
+109261 
+la) 692 
+M. 
+5 153 
+4bannat 
+5.000 St tietS10.044, 
+617MVACO 
+500 MORGAN STAMEY 
+5950% 
+12/292017 
+103 886 
+51S Al 
+4.701 
+1,4{4.1 
+100.01:0 st voNvii0 
+46625114Y° 
+1.000 1PMORGAN CHASE 
+6007% 
+1/15/2018 
+117192 
+272 443 
+A 
+4870 
+444‚c4 
+1,000 441.0.15140,40 
+8330344)0 
+205 PAPAZIN NC 
+4250% 
+1/192010 
+111 945 
+203 Elm 1
+5 079 
+enuaar 
+I.
+SA A15101411 
+00206R4)1 
+1841 AT&T MC 
+5500% 
+2/1/2018 
+119 363 
+192 42 
+A 
+5 000 
+4Onnibageen 
+2.000 1406144419 
+92976WRH8 
+900 WACHOM COPP 
+5750% 
+7/1/2018 
+118505 
+I29 A2 
+A. 
+4.953 
+tariai 
+I.CCO netuctibto 
+931142C43 
+3.009 WAI-MARI STORES 
+5800% 
+2/15/2018 
+124039 
+144 Aal 
+AA 
+5 027 
+canitatreca 
+2.00) la umicuan 
+91324P80 
+1.603 UNITEDWALTH GRP 
+6030% 
+2/15/2018 
+123005 
+179 A3 
+4.997 
+Nu 
+2.060 54 mono 
+Cerere 
+us.. 
+69330/Ail 
+I,C00 PECO ENERGY CO 
+5350% 
+3/1/2018 
+120642 
+161 Al 
+A. 
+5 113 
+I.
+1,1 Oil &mu 
+560769013 
+1.000 KEW 
+4375% 
+9192018 
+116882 
+137 Am 
+AM 
+5 246 
+invabi 
+LOW Goa 029.90arto 
+025819w5 
+500 AMERCAN EXPRESS 
+7000% 
+3/190018 
+125 110 
+2 3) 43 
+888. 
+4 965 
+1 nrctil 
+2000 bb umituao 
+035229(50 
+388 4744FUSCR BUSCH 
+4500% 
+41112018 
+114481 
+189 A) 
+A 
+5.216 
+1,060 ccebraw Guar.« 
+3814160,41 
+1.000 COWMAN SACHS 64.
+6 I SO% 
+umola 
+109453 
+A.32 AI 
+A- 
+4 988 
+rburbe 
+2.0:0 St vabiCtriao 
+1491213U3 
+215 CATERP RN SERV 
+5450% 
+4115/2018 
+121 766 
+159 Al 
+A 
+5.226 
+i, ..?4,4 
+I.
+5* 01/40440 
+842434(02 
+140 SPIIINRN CAL GAS 
+5450% 
+4092018 
+121305 
+167 463 
+A. 
+5 222 
+wain 
+LOCO 1ST ”444.444E 
+110122409 
+1106 111,6104.1VER SOB 
+5450% 
+91/2018 
+122 884 
+144 42 
+A. 
+5 276 
+Cemarn• bane«. 
+2.000 SA 4101CUND 
+3696263U6 
+IWO GEN ElEC CAP CRP 
+5625% 
+91/2018 
+117042 
+254 Al 
+M. 
+5 219 
+rnana 
+1,000 batotbl<t410 
+7/8140072 
+1,000 QUEBEC PROW.« 
+4625% 
+5/11/2018 
+117951 
+1.50 Ail 
+A. 
+5 
+6a.•...... 
+1100 SS 1444CUKO 
+172967156 
+1.131 CITIGROUP INC 
+6125% 
+915/2018 
+112 598 
+377 A3
+r444. 
+50033i
+I.
+fatielriair,
+70109144118 
+500 PARKER,HAANE01 
+5500% 
+5050018 
+121 447 
+173 A2 
+A 
+5 157 
+reams 
+2.060 sa minim, 
+039381AF I 
+700 ARCEtORMaTAI 
+6125% 
+wawa 
+106 703 
+484 8443 
+888- 
+45b9 
+itni man. 
+2.0:0 sr auction 
+25746U8E8 
+4125 COMPOON RES 
+6460% 
+6/15/2018 
+124 732 
+207 Em2 
+5 151 
+won 
+I,000 9* troickno 
+8137321411 
+494 TRW WARNER CAM. 
+6 750% 
+7/1/2018 
+123 461 
+160 Baal 
+888 
+S131 
+Conn.neworn 
+2000 Cann Gemmel 
+263534815 
+1.930 DUPONT El NEMOUR 
+6000% 
+7/192018 
+126202 
+154 A2 
+A 
+5.305 
+taw Attie(4, 
+2103 utueguiso 
+500769CU6 
+1,000 KEW 
+4500% 
+7/16/2018 
+118316 
+110 Aaa 
+AM 
+5493 
+inn... 
+1,1300 60•1044P.444U0 
+M9' 
+02.11645, 12 
+J.1? Morgan 
+Ppa 4 449 
+EFTA_R1_02059047 
+EFTA02698502

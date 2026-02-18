@@ -1,0 +1,485 @@
+---
+source_image: "deposition-transcript__EFTA01692725_20260130_p025_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 823
+confidence: 1.00
+extracted: 2026-02-13T17:00:45.982527
+---
+
+. 
+. 
+F ACCOUrit NOM. 
+Account Nuntier 
+Data of Invoice 
+September 12. 2004 
+ART VVIreless 
+Page 120(14 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Number 
+Item Date Lime 
+501 0:0101 COP 
+502 000 01.2). 
+103 0074 05.2a 
+7.414 00,11 021W 
+507 on tsar 
+506 0316 10730P 
+501 on  11:30P 
+50h 040511:211P 
+500 ON% 11:43P 
+0075117190 
+$11 0607 Cirne 
+512 6W3705130 
+S13 050' a 2a 
+lit 0407 0424P 
+05 ONO OthiP 
+tit "n3 )'OZ' 
+sit a 
+ati40 
+pp 
+mut+ 
+aro ow '1W 
+II: oleo 141 1/.. 
+10.4aa 
+$24 (44a) 1040* 
+05 0103 10Ia 
+12. OMB 10.ISA 
+12! 0
+ 1186E 
+8 on  04: 
+= 
+5p31 OSP 0/1470 
+i 0903  
+133 00900  
+01100
+0P
+0103 0.10F 
+P S on  MOW 
+Bt 
+Mrs 
+S36 010:0105121
+131 CIAO 09.14. 
+S40 OMNI 01149 
+541 NICE WI® 
+343 0 
+0
+9501007:0 
+01 
+CO 0914P 
+611; 0306E 
+. 
+OSa 
+$4105011074P 
+3 
+552 03 
+1014P 
+V S 0500 1004A 
+51
+. 
+0"
+ 1
+08011014*t
+0001020P 
+- Contuued 
+On 
+Charge 
+Calls To 
+INS Rah Deaription 
+1MN 
+UILIMTEO WOO MN 
+21451 
+OWNITED MAY101) MN 
+Ira 
+avT,?)Dan .
+42 
+UM.JA g PAYeras MN 
+IEVY 
+1Li$igsaakET 
+NAWMVN. 
+O MN 
+0.0.. 
+RIE
+PAN 
+UNOATTN Nr0:01)1AN 
+IS 
+Ina 00 ItI0100 MN 
+Mel 
+UlahrEC 100450 MN 
+1•11 
+Wan 1E0 SNV010 MN 
+MN 
+Witiv1- E0 1001010 MN 
+25ON 
+U741.04r010 MN 
+Lar 
+UESSAC 
+0 111E14% 
+MN 
+UNSM 
+Oman 
+INN 
+ACLUDED MU 
+W 
+P4CLUOE0 700.1 
+LW 
+605544E RV/M AL 
+TES 
+104 
+VtileatO Mat* MN 
+MN 
+Unta110 Wangs V N 
+MN 
+UNLNETE0 %Maas he 5 
+MN 
+UMPATFO SNVKIM v 5 
+'4% 
+101.11050 MV/13.) 0 h 
+1/10% 
+uNtiel 
+feWr.h-7 0:. 
+MN 
+gertne, 
+h11.00., 0.5 
+501 
+erttgaT 
+NM/RIOS cr: 
+PM 
+WNW 
+10 hsObt. 
+2W
+rag.MDEOL 
+9.17ES 
+Ira 
+PiCIDDEO MAU' ES 
+SIM 
+er0.1.1010 mihil7ES 
+DeN 
+'KELM 10.UrES 
+2IAN 
+=a
+ 
+ipicANOLJ MUT
+1
+E'S2:1 
+n
+7,8 
+ME
+VT 
+SSAGE. RELTDEVN 
+MAI 
+MLA. /.000, TO 61DPA 
+MIN 
+MIN WO-1010a 
+WA 
+cga is0.3 AT% MI 
+1101 
+Utast WM. TOU34. 
+all 
+MIESIrti
+llg 
+UNU111/061. T01.1381 
+ow 
+CALL WHIM 
+114411 
+NiCLUDEDNOWTES 
+IC? 
+CALL WA11114 
+161111 
+IN0U0E0101110TES 
+416.1 
+1110.11pLOMNJTES 
+DM 
+IN020101401151 
+2
+5.4 
+UNtIM 
+TOWN. 
+pal 
+UNOM 
+10 MOIR 
+INCtut) 
+MINUS 
+SW 
+UMW 
+Tu .710111. 
+ltrNi 
+IttatICM, 
+giV "
+/AN 
+Wahltith 0 70000 MN 
+MN 
+L 
+UIMarT
+ML.1070) Ma  
+Wha sa MN 
+ssip le N 
+0 
+MN 
+UmasITLD NAV00 MN 
+Fla 
+LESSAGE REDNEWL 
+MN 
+tarasno stsVaNg MN 
+IheN 
+maese1E0 Niania MIS 
+MN 
+INCLVIDEP 1.0.1 ES 
+MN 
+INgLULCD /NW E5 
+MN 
+INCLUCgtp lair ES 
+N 
+licalstga My ES 
+WPALG3£KN FL 
+01COMNG 
+WPOJ.m3EACJI FL 
+'ZOMV 
+MIVACI4fL 
+INC01.00 
+WINgMBEACH FL 
+INCONII0 
+INCOMING 
+Z21132601 n 
+w0µ664434 FL 
+Pµ0* BEACH FL 
+FL 
+IJ 
+.1401m10 
+PALMU04 FL 
+WPNNeFAON FL 
+WPOL6M0101a. 
+NOM 
+rt
+FL 
+VOICE USAGE FOR 
+Contlnued 
+War 
+clma 
+Km Dam Tim. Cad 
+Ca lb 
+lad 
+Rate 
+SW 0900 OISSO 
+MO 0309 03070 
+WPALMITCH FL 
+1104 
+LICSitel 
+I 
+561 oa
+OP 
+NCOuNC 
+.Mai 
+WPAIMMEA01 EL 
+0011001504 FL 
+1050800042W 
+WPALA18004 FL 
+50 Wag 0144P 
+vs MVO 041•1
+lei 0703Callih 
+ni =ant
+=05ilas 
+574 OWN 00 
+OS 0903 Cgage5P
+571 0601 0620. 
+t34 ,^? gun 
+5716103 07.15P 
+fMJ 01110 01:10F 
+1 orm rstio 
+0.0)(016P 
+0100 (0261 
+Mt 0510 15 1 0'"
+CO1OP 
+56h 0144 14.1 
+1*' 0003102 
+141 0001 1040 
+509  MO 01 1 
+Ill osn
+°9 
+oi
+cn:44
+Ia 08(011:11* 
+01105 
+594 07410[10" 
+506
+$45 OTIOC6
+0$151; 
+593 091005AL,,
+14
+19: 010
+0700 
+OJOMIO
+vt Cral0 
+44
+=
+04100*
+/03 0410 
+50. 0510 
+to; Nog 
+11 0 v  1
+0 0 1 0 0 3
+07 
+!I I =12°1 
+414 05,10 
+411. 05110 all 
+Ill 0/10 74'1 
+pICCONg 
+{0.11514. 
+WP 
+0101)405 
+WPWPAlaFPWR 
+W01
+NN1404 FL 
+VIPM.5030.01FL 
+VileaNBEACK FL 
+Ils=
+2
+007 OM 1.4 
+VNµMBEA{N FL 
+WPA.NOCACI410. 
+W
+OKPALt4
+c4"C
+OLA01 FL 
+1010040FACk FL 
+*tacitFt 
+*n  at., 
+to. 
+swab 
+raaeitak 
+sos„,..x.R
+ss,,,s,
+o7,1,
+0,..... 
+We
+rwaSNi
+  12 14.
+FL 
+al= 
+ACM Ft 
+F'
+NPALIMEACH FL 
+WPN1a17404 FL 
+MS VrOris FL 
+WPA714.EAC14 FL 
+VON 0.51
+-0.04 FL 
+60 C010 091 
+5110414 
+ACHACN FL 
+21 a 
+1MN 
+1MM 
+3MN 
+2M11 
+1MM 
+NMN 
+1MN 
+That 
+1 EV't 
+It -VT 
+MN 
+new 
+2101 
+ILVT
+1M14 
+01.04 
+VAN 
+127IA Pi 
+140 
+DAN 
+'MN
+MN 
+. 'Da 
+PIN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MIN 
+MIN
+YN 
+Cigar 
+Dacration 
+INCLUDED14W 
+INCAUCED WW1 
+MVVT 
+Mttgb MW!
+Mau Dilr0TES 
+INO.L0E0 MINUTES 
+f240.1.0E0 NISPOES 
+UMW 07a. 704400. 
+Hi
+ter 1314E0 Puts;du 
+• v 
+L
+.Las MAMA 
+• 
+.701101ataT 
+IOW MO& TO 11011L 
+eict
+rictu x om
+ialtom
+tairts 
+1rctuaro lamina 
+aainEDM 
+1.00.5110115 TO
+14282
+ 8 a i
+1400)000
+ll
+ut..2.,3611-0 NDAµBtL 
+uhu
+- TagN,Sla. 
+LI
+WCM.M
+SSAC
+IAM.
+PETTOR"1/00.
+-
+INCLU.70711/0715 
+UN. MT CD 741/74740 MN 
+ulna Es7 N.W1/40 MN 
+ulasihm
+geklorrwhraxn
+estvAl.mst
+Uhtsat 0 W 
+ID MN 
+Sti4 RETRIVAL 
+I/MIN
+UhUvaL0 laNicra MN 
+TED Matat0 MN 
+UNMATED 14.01140 MN 
+81,1118=8:1I1 
+Wahl 44046. TO I/COL 
+11/ir C
+0F51QIIPA ISAL
+Urea LOLL TO P.100. 
+17/CLUMP' lartft1 
+Ii*
+CedgiS s:t 
+ust
+"
+trair 
+Tr Iva 
+13 
+s5Ctu 
+ItnUTES 
+040.0 
+Vatfrhs 
+04010000 
+101341ACM. TO 11090 
+164000
+01 MVUTfi 
+1X40041 mu 
+INCLUDE mums 
+INCLUDED MUTES 
+vac
+gauA
+lfli 
+UNLeA 510035 TO hice30 
+IhCLUROMMUT s 
+Casa 
+EFTA01692749

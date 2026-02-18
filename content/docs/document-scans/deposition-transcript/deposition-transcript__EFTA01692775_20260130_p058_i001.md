@@ -1,0 +1,523 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p058_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 885
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.062572
+---
+
+X angular 
+Aoco 
+~sr 
+Account N^ 
+Date of Invoice 
+May 13. 2005 
+Pay. 14 of 18 
+DETAIL OF CURRENT ACTIVITY. CONTINUED 
+ii DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VCICEUSAGE FOR 
+OffitillUtd 
+Mae 
+Claw 
+Charge 
+ben, LW Ti,,. 
+Callan'. 
+Wed Rath Irle~ 
+70 0146N1 
+381 gig Z13 
+701 011:0 '73 
+M 81g 18 
+461 82Z 
+18 
+78/ OSIC6 104 
+261 OS% 1101 
+>Gi WM 1105 
+77,7 0148 11058 
+FICOIMG 
+771 Cia 
+11.7 
+DOYNTON1101 FL 
+771
+777 
+11 }IA 
+. 
+774 01/99 1 11 7 
+NCOLINC: 
+NCY0NT
+1.11ON
+%0 
+BL
+EICN FL 
+775 051:6 13,43. 
+,C014740. 
+il t gg HZ 
+1888112FOR 
+/ Wa 'I= 
+;17Q,21t.tem"X 
+320? OM 31`,148 
+INCOMING 
+WPM/AU/41ft 
+764 WC4 01 119 
+HCOWInt 
+781 0546 01 % 
+784 OSX8 011 
+WPAILIKACII IL 
+tIC.C~G 
+7113 05.4:6 01)Y 
+11IPAUMFACH IL 
+al 0l4601 
+i4C01440 
+71/ 01106 01 
+119~110.04 FL 
+7k1 MCC 02440 
+W011/411/51 IL 
+;l91 =
+841 I Al%
+791 Wt. 
+.160 
+IVPAIM4{AC,..I FL 
+WPA~AGI IL 
+WPAIMMAG4 Fl. 
+79? 05.013 one,  
+WPALIANFACI FL 
+191 4.06 02,4W 
+WPAL1/60.01fl. 
+794 <6.06 02,47P 
+940,1010 
+rig log: Mt 
+WFADIFXACJIII. 
+10Ytt10.40C44 FL 
+797 0:11:4 a o& 
+LAU W0145.4 FL 
+381 at 
+81518 
+VIPA-Y'
+11,0 C.C10 
+1,1 C4476 04)
+I.71 tf..010 
+003 OM» 0 4.
+0,4 Wit 011.0 9 
+PS CMS 011* 
+re C1/4
+11140 
+(0/91. 09119 
+Me 8:010937P 
+e ea, es« once 
+• 
+010 01108 014TP 
+911 WT6 0,451. 
+712 05.0.6050 
+311 
+01.06
+C3103 0548P 
+sx 
+31 
+00100 
+g 
+4 0105 0051P 
+11194 
+11494 
+11.11,4 
+1EVT 
+11494 
+114MLy1µN1741Yy4Y 
+114111 
+11114 
+1141%. 
+1EVI 
+1EVT
+18174 
+Mw 
+MIN 
+3W5411IN
+11174 
+41174 
+11/74 
+111174 
+11474 
+2.4111 
+anal 
+MOT 
+C
+a
+M
+N
+ 
+LW 
+v
+r
+ 
+P
+A
+V
+I
+ 
+IAN 
+WPAZ MULCH FL 
+IN 
+IFIGCNING 
+YerW.44.4. ACM IL 
+MN 
+WIV:MOLAGMFL 
+4a.. 
+vroAaIiikial lit 
+MN 
+IIIPAIMUACH FL 
+MN 
+Z=12 
+IAN 
+10t14T01411C14 FL 
+MIN 
+ACH FL 
+UM 
+V/PAIAMACH PT 
+/0/1 
+V• I 
+‘t: 
+5 
+ 
+ CM 00 
+WFALUDEACII FL 
+MIN 
+ISCOWIG 
+1111111111111111 
+GP411411FD N.V/oke 4/4 
+UNLIMITED 11W~ IAN 
+34511.11109L TO moeL 
+MESSAGE RETAEVA. 
+u181111:Ok T8 :811. 
+881:8
+Nal  
+:41 
+1X145 W~WiN T01104
+MESSAGE R.:TfaVN. 
+1710.10F0 la L115 
+VI<U14 YOE TO 
+M88Z814118 
+it4CLUOW MIN 
+INCLUDED YOWL 
+INCI.L0E08811 
+II10.10€01/11 
+• 
+I41CO 
+INCLII0E0 
+Itia68? 149141 
+INCLI.P0E Wli 
+till ~11743 
+DROP CALL CRONT 
+INCLUOCO ~UM 
+IVA tF
+n
+it 
+UNLI14 7.70 
+WOW. 
+8z8mitiK9e4. 
+Iaa 
+.14,.
+INN`IN
+41,412intn
+tilTC 
+INC10000MINLTES 
+5.510050 art 
+115111.575 TO 
+I )1:1%102, 
+iplit~httte 
+INC LUOT MINT1E5 
+UM21005., 10 11051 
+inaUDEOMITT0e5 
+117450TOWT5TZT 
+,Mall0E0151 5 
+INeW 
+155 
+OED 
+5 
+*CW05050110 5 
+104.51T(0 55111) N 
+IT 
+051.5.11e,
+UKISIT00 IT 
+1A 
+UMAT1T1) PI,We 
+NW ACE R6-1,
+,ff
+. 
+MN 
+171 
+US NI 
+11 
+10 
+Ubtaalf O 
+"UM) 
+.41W4X0 
+IJAU1411F0 W4.10148 
+1111111111111 
+11111111111111111 
+11111111 
+VOICE OSACT ro~ 
+CoTtaul 
+Charg• 
+Um, Rats ~ninon 
+gamy 
+0515 i tern C.I. Tirn• Gibs 
+Calls To 
+il 
+eitilit rro
+M7 n
+99:fili 
+Mn»auxiicti A 
+INN 
+VlIkralll WelVNI901/14 
+i\?.04AN4 
+II« 
+ri."..r.R 
+NAva.En Ivir4 
+107 
+Nu4h=
+blzrAiri.„,:;Ait„,,,A
+1 
+819 WO/ 01:31A 
+'', :31g `12 sa 
+h 
+ICI W07112.048 
+/1.1>ALIIBEAC.1 ri 
+18414 
+VIVALN138A
+. C14 FL 
+WPM L1WACIIFL 
+1116401 
+11 PILMICO NAVIOct LIN 
+MC WORTH Ft 
+4.414 
+allIlirTI.0 S.1WINCI L.N 
+P4C014NC. 
+Ho< 
+UNtlYTED 5011/10/0 IAN 
+i i 
+820 390101:40.• 
+i
+gl 2bt, 11, 1. 
+511 
+EMT 
+0550 5•5 
+18881g fi1r41R ir., 
+tr;:ttz.P2,R 
+/5055 WM 
+151007 1.75 
+kr1N/0711.0 
+5 
+0140 11 
+12/ 0107 1T:110 
+:: 
+0 
+1N1 
+U Wen 0 NTAixwb me, 
+I 
+Br:, 
+I/ .lit: 
+.-pezi.,,--_,..... 
+co %WM, Ma 
+IM 
+me SAAC PETRIVAL 
+0 FTIO IfAVAN ) eam 
+WPAIWALCH Ft 
+211/14 
+UNINFTFO ~IN ND VIC
+lia 01/01 12t44P 
+111CMANG 
+: 511 tla Wr= 
+ixtrx : on?! ft 
+85 
+UIC.11.114 0 W14.00 I/IN 
+IS 
+UNUMTLO NINK110 mat 
+! rug,. 01i17P 
+818 WO Ili 
+yt.V.
+,,,4%11Aa4
+^.11Ft
+rt  
+11101 
+YULNt I tr.i.WXyp 1.fit.; 
+iiie~ 
+iI.0081M) 
+UNLI14,TF WNIQ4111.14 
+latIllån 3,1MICSk VIM 
+: 
+Cat 0"° 8 11 
+I 
+I r
+ 
+8Mg 
+*Yu MOM°. R 
+la 
+ut4
+11/4
+Ul'uLlUELDDWIPE
+WNXNHO 4/
+14.171
+LiDel:11
+,84,1 re. 
+3 
+Uk.iMILO=EI5 
+ii L..°14,8"sig
+a
+• VS WO 01370 
+INCOM940 
+Ir k  
+041049 a 
+UHUISTID IlHaND MN 
+0}54P 
+2,0"447
+NTWr i  kl. 
+14~ 
+I"J‘CICID 
+wow 
+woo3~ 
+.• tit OM iiii 
+INC 
+949 
+K 
+IN41/14/141441) 94134 
+'i.=.0 
+" 
+NP 
+FL 
+gun  
+MUM/ 
+NM, 
+Los 
+'MUM! 
+14/I MN uo. 
+WitiM1 
+hillaffi IAN 
+H 011 WO 04:119 
+1148 WO 04340 
+1144N 
+UNUNTED 4~10 MN 
+LINIM7CD ~NM) MN 
+864,39 0,‘,o
+0Y0 09:179 
+Ilj• 9"01 
+FL 
+iiiii : 
+billitM844•
+Wrixtioliii 
+I: 031; 0,4,
+ozio { I. i 4 ,P 
+~ANISE/CH FL 
+11101 
+1117JAITED5415.0 NH 
+1
+.-,-=100.4 FL 
+1711111
+1"  
+U1%/471 11,"/1010DM
+'APIN
+' 
+017 M 
+, Fi
+e07, 9
+1W 
+Et 0. M.P. 
+6. TNIVNI/C11 Ft 
+OM 
+lINUMI 
+14~101.4N 
+5
+A0,12141,,e„ pt 
+HON 
+UNuM11 nrilwmp mu 
+1100. 
+WITIVITT 7510.01•11
+(155 
+1 
+I,
+0.25P 
+WPAL11113~ FL 
+11141 
+UNLIVITEDNMN//01.1/1 
+5 078 0507 092/0 
+VIP ALLIDurai• Ft 
+Oak 
+UNUISILP/VeVi.740 MU 
+,I 859 01407 0918P 
+INC
+2 wo. 
+UNUMITIO.~1./40 1A/1 
+j 
+E8E3
+ClItig 
+R 
+1.11k 
+1/05.1171150500101AN 
+15 
+1115TIED/55/10140 
+‘ 
+„LW/ 
+A
+dexi l:p
+'I. WI fiwiLro 
+114b. 
+~MT .0 illyntr4D NM 
+imp, 
+unumitplinativviun 
+I 
+409 OW 11:210 
+WPA1.75.51 Ft 
+MO% 
+UNUMTED IlAWND MIN 
+INC 
+WPALMILFACII FL 
+MIA 
+V.U14IT 
+74M1/40 MN 
+iimitki. 
+NC 
+1110 
+lITILIMT
+1511717511 
+1101. 
+IlMJMT 
+7511NOMN 
+15 
+uMATIZI415 MN 
+15 
+UNUIRII. 15510) UN 
+MI 
+eA11.15 
+I
+11 
+OZ  105 
+1TVT 
+LINTACT1 00155581. 
+ll 1148% I re, 
+8.1 kter
+m n 
+'110 
+%MN 
+W4OLTUNWMDMN 
+WILIMUUMVAMOUN 
+I,
+M. 
+r‘iEi 
+Iv, 
+mtufåwn ::: 
+INCOMNG 
+WA 
+MUM,  CD W, M140 MN 
+1 VI 05 01:51// 
+Ple081140 
+111N 
+UNtaht 
+44/1110/11•14 
+41411 
+U144.148TCO ~NH LOIN 
+' 
+077 065 (12,5 
+00111701.11CM 0. 
+11115 
+UNUMTWW14101011111 
+1111101" 
+Chugs 
+EFTA01692832

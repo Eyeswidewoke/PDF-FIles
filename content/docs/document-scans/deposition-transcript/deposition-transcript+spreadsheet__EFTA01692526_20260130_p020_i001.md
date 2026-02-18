@@ -1,0 +1,435 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692526_20260130_p020_i001.png"
+source_pdf: "EFTA01692526.pdf"
+method: pdf_text
+words: 662
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.758326
+---
+
+cingithr;na,
+Der 
+OCONMit Name 
+Date of Invoke 
+July 18. 2005 
+Page 6 of 8 
+ee
+f
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY 
+CONTINUED 
+VOICE USAGE FOR II= 
+Contemed 
+Mamber 
+COM 
+ha Del. Mem CMS 
+Collo To 
+Wed RM. 
+3.I O 
+0625
+M
+ 1110 
+MN 
+%NM 
+Me 
+35 
+36 
+0.4715 
+4 
+37 057 
+MI65 171.4M 
+M1.N 
+la Ofelt 12205 
+MN 
+EN 
+PAN 
+MN
+gel! 
+II W74 CA:360 
+12 
+11 M
+.  Cit a 
+IS OVt 
+2017,-
+18 8V,
+so 06.
+SI 007 
+SL OP ZIP; 
+6.002 0/55P 
+65 0624 03.0iP 
+1 m0624 as.p
+60 
+OM OlcCIA 
+6
+t 1 0
+40$ 
+6ra 11:41A 
+al rig ZI
+N
+O 
+EER2 
+67 ONO 11SIA 
+M 0520 01.004
+t OWN MCP 
+atl 
+1 
+14 
+75 OWN 15216 
+76 MOM NOM 
+(301 
+79 07401 0/49P 
+11 ;1, 
+.r, MAN 
+cpr, 
+MAI 01.04e 
+OS 0701 0e2/15
+03 0701 C6-31/ 
+11, 
+OCbO 
+04:CP 
+07020132? 
+11111111111 
+FL 
+NR 
+Plovelit101. 
+Wel/leMeO4FI. 
+weALVM/51419. 
+STUART FL 
+WPALINFICH FL 
+WPALLIENACH 
+: r u,Ini! `"  a
+I 
+.2. 
+WPALM/MAGM FL 
+WPALMNALNt 
+mrazo. PC 
+WeAUIBEA014 FL 
+WPALMEMO. FL 
+We/UNE/Co FL 
+INA:r4.1.tlirli3 
+PL.
+NCOMM: 
+.51.2.20440, Fl. 
+terlC012GA?, 
+Ft
+ft 
+INC/.TNN 
+INCOMPM 
+;40. 6
+trirein 
+TsuA„T 
+WeALIONAell FL 
+WIMOME/CIM 
+WPAINKAGN FL 
+WONJAMAEN 
+Mt 
+Mt 
+FL 
+Y
+E
+N 
+IW 
+HEN 
+1r m
+MEN 
+MEN 
+MEN 
+SIN 
+NAN 
+114N 
+NMI 
+NMI 
+fi: 
+hi: 
+Ft 
+Yp 
+10611 
+a
+NEN 
+1.2
+I CM 
+302 
+COMM 
+twooreoloo 
+SoMMO saCertraMa 
+1;101 liti
+-TV4342 
+SMAREC 14GHTMEEKENE 
+SMPEC 1424TMEMEM 
+M:55.4.OE ”ravy. 
+r4ItriE :le=KRT, 
+SMACE MGMTAVAMMO 
+$1.2 
+tkinEff
+ma:.4.i.1/4c
+EV: 
+YESSAC.0 RETANYA. 
+MN 
+SHAM. NOT/4 MM. 
+MN 
+WNW (W
+OOL to WOOL 
+MN 
+540529 
+75111011. 
+MN 
+'MARK 
+111 
+NAB 
+MESSAGE RETRIVAL 
+MSK
+ESTAZ IRtia ilr
+eL
+L.. 
+h
+AR3 mAlgg 
+D.8 NOTZ14/11 
+514020 MYTHE 
+AWYMF'MILMIS 
+la 
+WINMMS 
+T 140 
+titata 
+Z
+s
+2=P 
+L1
+MESSAGE RETIOEVAL 
+SHARED WO. TO WEIL 
+WARM laNt MINN 
+MOJIMIYINE MOS 
+?OR 
+ANYTNE 541/5 
+4-5/04 
+%MK - 05550. 
+t.14 2016715a2. 
+LIENMGEN6ItIVV
+L
+MARCO WO TO OOP. 
+5ETPOM 
+EEDU il y.. to toe. 
+41..1RtlAl 
+AMY r gut WOVE 
+sae& To MORI 
+NAACO MOT L IE MI S 
+GANYtAll 1425 
+g
+lIa0 
+%MOO. 
+MOO- T MOM 
+A12414 
+5 
+EWAN. '0 5405 
+SNA
+ la. !real 
+0 /NMI WI 
+lery 
+M 
+to *Kum. 
+lass 
+ ItETIbev 
+SHAREDIEWATIWEEXEM:1 
+111111111111P1111111111111111111111111111011111 
+11 
+Omer 
+111111111 
+VOICE USAGE FOR 
+maw. 
+elm Wrenn. 
+N 0702 <WOW 
+074e040514
+Mitt; 
+1607403.350
+1500702053M 
+1010102 03120 
+;4,A 
+101 0702 07231,
+1060,04 IONIA 
+112 OM OlL3OP 
+Ill 07/36 01:11P 
+'II
+1 ;383
+M 
+11/1. 07M1. 
+1111 
+1 
+IONA 
+;gtEEESI iiE 
+IN ONCE MISR 
+0/413 OM/P 
+1M 
+007040150e 
+stn; 
+;z15/31. 
+1,7 /II 
+:710 
+1/2 
+MR 
+113 EOM 0325P 
+IN gm sltan 
+1,, /11 03'MP 
+it; al; Ets 
+30
+1 07/12 
+.1 
+110 ORM 01:17P 
+07/17 97210 
+1120503 02.21. 
+113070203:1W 
+07/120141P 
+;:agl ii&SF 
+117 07/1 Ol 
+lie 07014 121W 
+Continued 
+Only 
+Orme 
+Can To 
+tend Raw Onalpion 
+ty: FL 
+WRIMMEA04 FL 
+=Kg 11. 
+FL 
+YX 
+MN 
+IMN 
+SNARED 
+I EVT 
+IMF 
+ft:: 
+SNAR 
+i
+ty 1.0 411 
+I EVT ISO 4111 
+PALIMEAGM FL 
+MIN 
+SMAREDI4G1ITMEERE70 
+PALIMEACI4 Fl. 
+MIN 
+MARIO 0 COIThMEEENO 
+=I
+C/4 fl 
+II
+MNMNN 
+M 
+MT/
+% 
+ 
+ii 
+6 I: 
+mitgAcai it 
+MIN 
+N. G 
+N 
+ry
+WP
+HC° 12
+AU 
+42N FL 
+2MN 
+1
+D NOMME
+IMa  
+N: NO 
+2MN
+VAN 
+41.114 
+E RET
+.
+ITN 
+2MII 
+MIN 
+2MN 
+IMO 
+'MN 
+WAN 
+lag 
+INN 
+150 
+2MW 
+NN 
+144MI 
+MAN 
+N lll 
+11
+5011 
+25311
+WN22.11
+N- 
+"
+....511 .12t
+ 
+1011 
+WO 
+MN 
+NN 
+All4 
+NFL 
+NMI 
+VIPAIM 
+lift 
+2/AN 
+VIP 
+21111 
+wp
+FAT2
+231
+NG 
+66
+~L
+YY
+L11
+NN
+rati 
+n 
+VIPALM 
+N-1101. 
+We/Llie AO Ft 
+W15101 .4211FL 
+eK MM 
+NG. 
+VACNFL 
+NMI 
+MAN 
+A VEIr
+ES 
+IL 
+MR 
+W 
+FL 
+IMN 
+gp
+A, Y 21 
+M 
+fg =Z.. 
+1.5,17.1001. 
+0 MITM: P.M) 
+EtZYTIV 
+lIAIIE 
+UPON. I 
+I 
+MIMI/ MN 
+I. 
+SAGE RETRIEVAL 
+..i 
+0 AMIN raS 
+C. AMTTIOS 
+0 MX T MOM 
+toMMO ICE 05 0 MOS 
+r oallje MOC. 70 
+WRVS NUM 
+Mtana.X8 
+Mg 
+YMi 
+I N 
+7 
+li 
+Imi
+t ifr
+"
+I 
+DA4.1 
+Vaga 
+*Mtge 
+50 
+IN 
+EFTA01692545

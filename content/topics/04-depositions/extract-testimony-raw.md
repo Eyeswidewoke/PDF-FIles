@@ -1,0 +1,2440 @@
+# ⚖️ Testimony-Raw
+> **Category:** Depositions
+> **Source:** `04-DEPOSITIONS/extract-testimony-raw.txt`
+> **Lines:** 2,406
+> **Generated:** 2026-02-12T11:12:01
+
+## 🏷️ Tags
+`legal` · `testimony-raw` · `trump` · `epstein` · `maxwell` · `visoski` · `cohen`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Maxwell](../cast/profiles/maxwell.md) | 200 |
+| [Epstein](../cast/profiles/epstein.md) | 45 |
+| [Visoski](../cast/profiles/visoski.md) | 7 |
+| [Trump](../cast/profiles/trump.md) | 4 |
+| [Michael Cohen](../cast/profiles/cohen.md) | 3 |
+
+## 🔑 Keywords
+
+`'That is my testimony. That is correct.'` · `'That is my testimony.'` · `And did you also testify earlier that ee 
+Q.` · `FBI` · `Just to be clear you testified earlier that | |` · `London` · `New York` · `Now you've testified just a moment ago that 
+Q.` · `Palm Beach` · `Paris` · `Q.` · `That is my testimony.` · `Was that to the property you testified about` · `You testified earlier that as was sexually 
+Q.` · `affidavit` · `connection with your testimony today?` · `deposition` · `documentary evidence` · `immunity` · `investigation`
+
+## Full Extract
+
+```
+Your access to grand jury materials, including testimony and documents, is for the sole purpose of 
+Your access to grand jury materials, including testimony and documents, is for the sole purpose of 
+called to testify before the Grand Jury to seek an indictment against 
+to testify because she felt: they were still friends. 
+victims needed to report for Grand Jury testimony. Messages were left 
+testified as follows: 
+Q. Is your testimony today based in part of those 
+testimony that you're going to hear today will include 
+be testifying solely from her own observations, but that 
+If, however, you would like to hear the testimony 
+testifying today. 
+Q. And would it assist you in testifying today? 
+Q. And is your testimony today based on both your 
+Q. So you testified that she ultimately went to his 
+Q. Is your testimony today based both on your review 
+Q. Is your testimony today based on both your review 
+QO. So turning to slide 25. You've testified that 
+back to slide 30. I believe you testified earlier that the 
+0. When you testified about the documents that you 
+you testifying to the exact words used or just the substance 
+Jury, was examined and testified as follows: 
+Q. Did you testify before this grand jury on 
+Q. And is your testimony today based in part on 
+testimony that you're going to hear today will 
+witness will not be testifying solely from her own 
+7 testimony of any other witness, you have the right 
+15 testifying before this grand jury on June 18, 2019;.is 
+20 transcript of your testimony on that date? 
+testifying about your interviews with a young woman 
+testifying about phone records of a call between a 
+Q. So when you testified that based on the phone 
+ask you, do you recall testifying before this grand 
+QO. Do you recall testifying about >: 
+Q. When you testified about the documents you 
+were you testifying to the exact words that were used 
+testified as follows: 
+everyone can hear. You testified earlier that you're a 
+Q. Is your testimony today based in part on those 
+you a brief instruction. Some of the testimony that you'll 
+that means that the witness will not be testifying solely 
+If, however, you would like to hear the testimony 
+testifying today. 
+connection with your testimony today? 
+You testified earlier that her birthday is in 
+summer camp, and you testified that she provided them with 
+Q. Now, you testified just a moment ago that yyy 
+invisible. Was -- I believe that was your testimony? 
+Q. Was that to the property you testified about 
+Q. You testified that she began traveling to New York 
+Q. You testified earlier that JJ was sexually 
+Q. Now, you testified earlier that you reviewed 
+QO. Turning to the next slide. You testified earlier 
+QO. Am I correct that you testified earlier that in 
+Q. Now, you testified that JJ sometimes flew on 
+Q. You testified earlier about the time that Epstein 
+QO. You testified earlier that just before she turned 
+QO. Now, you testified earlier about your interviews 
+Q. So just to be clear, is your testimony that he 
+Q. Now, let me just pause here. You testified that 
+Q. -- rephrase the questions. You testified that she 
+Q. Now, you testified just a moment ago that she was 
+0. Now, you testified just a moment ago that Maxwell 
+Q. Now, you testified a moment ago that dl told 
+Q. I believe you testified a moment ago that yyy 
+sworn testimony in a civil deposition in connection with a 
+deposition under oath where they testify about the substance 
+Q. And is deposition testimony live and in person and 
+testimony, I want to talk with you about the lawsuit that 
+the testimony was about. Have you become aware that in or 
+Q. On both days did she give testimony in Manhattan? 
+the answer here Maxwell's testimony? 
+Q. Just to be clear, you testified earlier that kz 
+Q. And did you also testify earlier that Maxwell -- 
+Q. Just to be clear, you testified earlier about two 
+Q. And again, was this Maxwell giving testimony as 
+part of the testimony under oath here in Manhattan? 
+you testified earlier that 
+And is it correct that you testified earlier that 
+And did you also testify earlier that 
+And did you also testify earlier that sex 
+And did you also testify earlier that the 
+your testimony that in the 1990s and 2000s you were not 
+A. Maxwell's answer: "That is my testimony. That is 
+Q. Just to be clear, is it correct that you testified 
+Q. And did you also testify earlier that Maxwell was 
+testimony that you've never given anybody a massage?" 
+your testimony?" 
+A. Maxwell's answer: "That is my testimony." 
+your testimony?" 
+QO. Just to be clear, as you testified earlier, is it 
+Q. And when you testified about the documents that 
+were you testifying to the exact words used or just the 
+exhibits from last week, the transcript of the testimony you 
+evidence. Only the testimony of the witnesses and the 
+the testimony last week. You also heard testimony from FBI 
+copy of the transcript of that testimony. It is up on the 
+the civil case in which Maxwell gave deposition testimony on 
+deposition testimony on July 22nd, 2016, under the same 
+transcript from the testimony that Maxwell gave on 
+Is it your testimony that in the 1990s and 
+A. That is my testimony, that is 
+your testimony that you've never given 
+testified as follows: 
+by others, and transcripts of testimony in other court and 
+Q. Will your testimony today be based in part on 
+testimony you are going to hear from Detective = will 
+include hearsay. That means he is not going to testify only 
+testifying about what other people have told him and what he 
+indict the defendant, but if you want to hear testimony from 
+you're a part of testified before a different grand jury 
+testimony given by FBI Special Agent po before a 
+Q. "Is your testimony today based in part on those 
+eee testimony the same way it applies to 
+Detective a testimony. 
+testifying today." 
+connection with your testimony today?" 
+QO. "You testified earlier that her birthday was in 
+summer camp and you testified that she provided them with 
+Q. "Now you testified just a moment ago that E—| 
+invisible -- was -- I believe that was your testimony?" 
+"Was that to the property you testified about 
+"You testified that she began travelling to 
+QO. "You testified earlier that as was sexually 
+Q. "Now you testified earlier that you reviewed 
+Q. "Turning to the next slide. You testified earlier 
+o. "Am I correct that you testified earlier that in 
+QO. "Now, you testified that eae sometimes flew on 
+QO. "You testified earlier about the time that Epstein 
+Q. "You testified earlier, just before she turned 18, 
+Q. "Now you testified earlier about your interviews 
+Q. "So just to be clear, is your testimony that he 
+Q. "Now let me just pause here. You testified that 
+Q. “"Rephrase that question. You testified that she 
+Q. "Now you testified just a moment ago that she was 
+Q. "Now you've testified just a moment ago that 
+Q. "Now you testified a moment ago that a told 
+Q. "I believe you testified a moment ago that f= 
+sworn testimony in a civil deposition in connection with a 
+deposition, under oath, where they testify about the 
+Q. "And is deposition testimony live, and in-person, 
+testimony, I want to talk to you about the lawsuit that the 
+testimony was about. Have you become aware that in or about 
+Q. "On both days does she give testimony in 
+is the answer here Maxwell's testimony?" 
+"Just to be clear you testified earlier that | | 
+"And did you also testify earlier that 
+Cs “Just to be clear, you testified earlier about two 
+Q. "And again, was this Maxwell giving testimony as 
+part of the testimony under oath here in Manhattan?" 
+clear you testified earlier that 
+Q. “And is it correct you testified earlier that 
+Q. "And did you also testify earlier that ee 
+Q. "And did you also testify earlier that sex toys 
+Q. "And did you also testify earlier that the FBI 
+testimony that in the 1990s and 2000s you were not aware 
+A. "'That is my testimony. That is correct.'" 
+testified earlier that a and ita || told you that 
+Q. "And did you also testify earlier that Maxwell was 
+Q. "'Let's just tie that down. Is it your testimony 
+A. "'That is my testimony.'" 
+your testimony?'" 
+Q. "Just to be clear, as you testified earlier, 
+connection with your testimony today? 
+Q. Will it assist you in testifying today? 
+we'll use it as you testify. During the course of this 
+Q. And is your testimony today based on both the 
+Q. When you testified about conversations you had 
+with others, or documents you reviewed, did you testify to 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: | 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+A. That is my testimony, that is correct. 
+testimony that in the 1990s and 2000s, you were 
+oF Is it your testimony that you’ve never given 
+your testimony? 
+-. That is my testimony. 
+testimony? 
+testimony 
+testimony, t 
+your testimony that you've never given 
+massa is that your testimony? 
+A. That is my testimony. 
+massage is your testimony? 
+everyone can hear. You testified earlier that you're a 
+Q. Is your testimony today based in part on those 
+you a brief instruction. Some of the testimony that you'll 
+that means that the witness will not be testifying solely 
+If, however, you would like to hear the testimony 
+testifying today. 
+connection with your testimony today? 
+Q. You testified earlier that her birthday is in 
+summer camp, and you testified that she provided them with 
+Q. Now, you testified just a moment ago that yj 
+invisible. Was -- I believe that was your testimony? 
+a. Was that to the property you testified about 
+Q. You testified that she began traveling to New York 
+Q. You testified earlier that J was sexually 
+Q. Now, you testified earlier that you reviewed 
+Q. Turning to the next slide. You testified earlier 
+Q. Am I correct that you testified earlier that in 
+GS. Now, you testified that eS sometimes flew on 
+%. You testified earlier about the time that Epstein 
+0 You testified eax er that just before she turned 
+Q. Now, you testified earlier about your interviews 
+Ge So just to be clear, is your testimony that he 
+Q. Now, let me just pause here. You testified that 
+Q. -- rephrase the questions. You testified that she 
+Q. Now, you testified just a moment ago that she was 
+Q. Now, you testified just a moment ago that Maxwell 
+Q. Now, you testified a moment ago that J told 
+I believe you testified a moment ago that are 
+sworn testimony in a civil deposition in connection with a 
+deposition under oath where they testify about the substance 
+Q. And is deposition testimony live and in person and 
+testimony, I want to talk with you about the lawsuit that 
+the testimony was about. Have you become aware that in or 
+Q. On both days did she give testimony in Manhattan? 
+the answer here Maxwell's testimony? 
+Q. dust to be clear, you testified earlier that yj 
+Q. And did you also testify earlier that Maxwell —- 
+Q. Just to be clear, you testified earlier about two 
+Q. And again, was this Maxwell giving testimony as 
+part of the testimony under oath here in Manhattan? 
+Gi. Just to be clear, you testified earlier that 
+Q. And is it correct that you testified earlier that 
+Q. And did you also testify earlier that 
+Q. And did you also testify earlier that sex toys 
+Q. And did you also testify earlier that the FBI 
+your testimony that in the 1990s and 2000s you were not 
+A. Maxwell's answer: "That is my testimony. That is 
+Q. Just to be clear, is it correct that you testified 
+Q. And did you also testify earlier that Maxwell was 
+testimony that you've never given anybody a massage?" 
+your testimony?" 
+A. Maxwell's answer: "That is my testimony." 
+your testimony?" 
+QO. Just to be clear, as you testified earlier, is it 
+Q. And when you testified about the documents that 
+were you testifying to the exact words used or just the 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+testimony. 
+whose testimony appears in the foregoing pages was duly sworn 
+by me; that the testimony of said witness was reported by me 
+form; that said deposition is a true record of the testimony 
+was examined and testified as follows: 
+issues in terms of testimony. 
+Q -- shore up victim witness testimony, find new 
+not want to testify, and -- and so, that conversation was 
+testify differently. And I'm suggesting that it's important 
+victims will testify in this particular case, but also what 
+The sworn testimony of 9] EJ was taken 
+and did report the sworn testimony. 
+was examined and testified on his oath as follows: 
+my shorthand notes of the testimony of __ 
+and did report the sworn testimony. 
+was examined and testified on her oath as follows: 
+Q I know that you testified here a few weeks ago. 
+Was there anything from that testimony that you wanted to 
+Not interviewed, but she testified before the grand jury 
+three or four months later, in July of 2006, she testified 
+7 A Yes. According to other testimony we have 
+testified to in the grand jury in July of 2006. Reading 
+the testimony and listening to 
+In her testimony with the grand jury with the 
+we have in her testimony to the grand jury and her 
+my shorthand notes of the testimony of Rina 
+TESTIMONY 
+The sworn testimony of SPECIAL AGENT E. 
+testimony. 
+that the testimony you give will be the 
+testified about me. did Ss also report 
+my stenotype notes of the testimony of 
+2 TESTIMONY | 
+The sworn testimony of SPECIAL AGENT 
+testimony. 
+that the testimony you give will be the 
+viously testified abou 
+attorney were concerned about her testimony here? 
+17 testify and to provide other information before 
+23 |refused to testify and provide other information 
+of the United States Attorneys, the testimony and 
+hot give testimony and provide other 
+However, no testimony or other 
+such testimony or other information may be used 
+my stenotype notes of the testimony of 
+TESTIMONY 
+The sworn testimony of | 9 FRESE SS 
+testimony. 
+the foreperson, testified on her oath as follows: 
+summarize briefly your previous testimony about her. 
+From testimony we know that Timi went there 
+you testified previously about the people who were 
+also had testified previously about who was aboard the 
+(The testimony of the witness was concluded 
+shorthand notes of the testimony of fj esiit 
+The sworn testimony of =. ii SE 
+and did report the sworn testimony. 
+was examined and testified on her oath as follows: 
+Q In preparation for your testimony today, did you 
+Q Has Mr. 9M) been qualified to testify as an 
+testified about her? 
+14 testified about her earlier before this grand jury, 
+Q And she also testified before this grand jury, 
+my shorthand notes of the testimony of = 
+- 12 TESTIMONY, 
+MM20-GJ TESTIMONY-000369 
+The sworn testimony of 3 HJ was 
+testimony. 
+MM20-GJ TESTIMONY-000370 
+the testimony yov give will be the } 
+MM20-GJ TESTIMONY-000371 
+MM20-GJ TESTIMONY-000372 
+MM20-GJ TESTIMONY-000373 
+MM20-GJ TESTIMONY-000374 
+MM20-GJ TESTIMONY-000375 
+MM20-GJ TESTIMONY-000376 
+MM20-GJ TESTIMONY-000377 
+MM20-GJ TESTIMONY-000378 
+MM20-GJ TESTIMONY-000380 
+_ MM20-GJ TESTIMONY-000381 
+MM20-GJ TESTIMONY-000382 
+MM20-GJ TESTIMONY -000383 
+MM20-GJ TESTIMONY-000384 
+MM20-GJ TESTIMONY-000385 
+MM20-GJ TESTIMONY -000386 
+MM20-GJ TESTIMONY-000387 
+MM20-GJ TESTIMONY-000388 
+MM20-GJ TESTIMONY-000389 
+MM20-GJ TESTIMONY-000390 
+MM20-GJ TESTIMONY-000391 
+MM20-GJ TESTIMONY-000392 
+MM20-GJ TESTIMONY-000393 
+MM20-GJ TESTIMONY-000394 
+MM20-GJ TESTIMONY-00039 
+MM20-GJ TESTIMONY-000396 
+MM20-GJ TESTIMONY-000397 
+MM20-GJ TESTIMONY-000398 
+MM20-GJ TESTIMONY-000399 
+MM20-GJ TESTIMONY-000400 
+MM20-GJ TESTIMONY-000401 
+my stenotype notes of the testimony of 
+MM20-GJ TESTIMONY-000402 
+TESTIMONY 
+The sworn testimony of i. itm Tinie was taken 
+testimony. 
+the foreperson, testified on her oath as follows: 
+the testimony of the girls has engaged in sexual 
+21 material as well as testimony. 
+(The witness was recalled to testify before 
+(The testimony of the witness concluded 
+transcript of my shorthand notes of the testimony of 
+Subject: RE: US v. Maxwell - missing testifying witness materials 
+Subject: RE: US v. Maxwell - missing testifying witness materials 
+Subject: FW: US v. Maxwell - missing testifying witness materials 
+Subject: [EXTERNAL] US v. Maxwell - missing testifying witness materials 
+could testify sometime between the afternoon of 12/1 and 12/3. Just to flag that, if we get him off the stand on 12/1 or 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+2021.11.11 U.S. v_ Ghislaine Maxwell Non-Testifying Witness Material (Defense).pdf,; 
+addition, a supplemental production of testifying witness and non-testifying witness material and exhibits are also ready 
+|__ 3802-002 | 2021.02.01 fTestimonydisclosure 20S 
+testifying under pseudonyms, the Court explained that: 
+permitting witnesses to testify using pseudonyms or first names includes an order barring 
+other than co-defendants should they testify ....”). It would defeat the purpose of the Court’s 
+their testimony. 
+has authorized to testify using pseudonyms or their first names. 
+testifying under pseudonyms, the Court explained that: 
+permitting witnesses to testify using pseudonyms or first names includes an order barring 
+other than co-defendants should they testify ....”). It would defeat the purpose of the Court’s 
+their testimony. 
+has authorized to testify using pseudonyms or their first names. 
+Subject: RE: CBP Testimony 
+Subject: [EXTERNAL] CBP Testimony 
+| hope that this email finds you well. | understand that you are in need of CBP assistance — specifically testimony regarding 
+our travel records prior to 2004. We have located an appropriate individual to testify and | would like to facilitate. If you 
+testify under pseudonyms, and third parties. 
+of the Federal Rules of Evidence, and no records custodian should be required to testify. The 
+testify under pseudonyms, and third parties. 
+of the Federal Rules of Evidence, and no records custodian should be required to testify. The 
+expects each of the Minor Victims named in the subpoena to testify at trial. Accordingly, if the 
+records to the Court before the Minor Victims actually testify for the sake of efficiency. 
+Government expects the Minor Victims to testify to those amounts at trial. 
+may be provided to the defense in the unlikely event that the Minor Victims testify inconsistently 
+the EVCP, there is no reason to think their trial testimony will be biased in order to advance their 
+would be entirely consistent for the victim to testify as much on the stand, and to tell the EVCP 
+that omission. Similarly, if the defendant argues that the Minor Victims’ testimony was biased by 
+Prepared for trial testimony previously undisclosed, clarifying, or different recollections 
+We should have a production of additional non-testifying witness materials prepared to produce to you by the end of 
+that you would be producing to us additional non-testifying 3500 material. When can we expect to receive that? 
+MDC. If the additional non-testifying 3500 material is ready to be produced, please include that on the drive. 
+testify on 12/9 or 12/10. We would like to have him fly in on the morning of 12/8 and out on the evening of 12/10. Also, 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+Testifying Witness Material Index (Defense Copy).pdf;: 
+addition, a supplemental production of testifying witness and non-testifying witness material and exhibits are also ready 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+Preclude Testimony of Dietz and Loftus] 
+Subject: [EXTERNAL] U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Maxwell's Resp to Govs Motn to Preclude Testimony of 
+Preclude Expert Testimony of Dr. Park Dietz and Dr. Elizabeth Loftus along with supporting documents. Pursuant to our 
+testify on 12/8, but he could possible bleed over into 12/9. | need to prep with him on 12/7, and he’s not vaccinated, so 
+we'll need to get him a COVID test before he can testify. Given that plan, Id like to have him fly in the evening of 12/6 and 
+not know that is coming up to NY to testify. So would you please make sure tha stays at a hotel that is far 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+Prepared for trial testimony. Bas shown following GX and confirmed recognized: 
+to Preclude Testimony of Dietz and Loftus] 
+Preclude Expert Testimony of Dr. Park Dietz and Dr. Elizabeth Loftus along with supporting documents. Pursuant to our 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investig; Views, 
+to testify and give evidence in the following matter: 
+not had the opportunity to testify in court in any 
+A party seeking to obtain records or employee testimony from the Department must first 
+to testify and give evidence in the following matter: 
+longer had a basis to assert his Fifth Amendment rights, Mr. Cosby testified at several depositions 
+Are you testifying that you are 
+9 Is it your testimony that in the 1990s and 
+15 A. That is my testimony, that is 
+10 massage is your testimony? 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+attack, the district court “may consider extrinsic evidence such as testimony and 
+I understand I have the right to testify on my own behalf, but I cannot be compelled to be a witness against myself 
+1 understand I have the right to call witnesses to testify in my behalf and to invoke the compulsory process of the 
+“GEE ) testified that both Jane Doe 1 and Jane Doe 2 received letters describing their rights 
+court, after receiving clear and convincing evidence, determines that testimony by the 
+victim would be materially altered if the victim heard other testimony at that 
+« We will need these materials for all witnesses, regardless of whether they are testifying or not, and 
+IN TESTIMONY WHEREOF | HAVE SET MY _wannanoseatHis 229d payor Dec., 2020 
+IN TESTIMONY WHEREOF MY _wanoanosear tuts 22Md pay o¢ Dec., 2020 
+IN TESTIMONY WHERE HAVE § 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS A7VA_ pay or 77M _2008 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: | 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+in that matter. As you are aware, both Mr. Boies and Ms. IB were invited to testify at the 
+retired general, and used testimony from two dead witnesses. 
+=  Testified before the Parliamentary Enquiry into miscarriages of justice during the Outreau trial 
+6. We request a written summary of any testimony that the government intends to 
+falsify or distort his or her testimony. Pennsylvania v. Ritchie, 480 U.S. 39 (1987); 
+to testify. I instruct you that each party had an equal opportunity or lack of opportunity to call 
+as to what they would have testified to had they been called. Their absence should not affect your 
+responses to requests for admission, deposition testimony, and other 
+invoke her privilege against compulsory self-incrimination and agreed to testify at her April 
+Count Six of the superseding indictment alleges that Maxwell provided false testimony 
+when she testified during her July 2016 deposition that: (1) she could not recall whether sex toys 
+forthcoming in giving testimony and less willing to settle their disputes.” S.E.C. v. 
+expected frequently to refuse to testify pursuant to protective orders if their testimony were to be 
+conviction when the government mischaracterized the substance of grand jury testimony). 
+Subject: RE: Maxwell testifying witness 3500 
+Subject: RE: Maxwell testifying witness 3500 
+Subject: Maxwell testifying witness 3500 
+Would you please save the attached pdfs in the respective witness and 3500 folders for the testifying witnesses in each 
+compel the production of documentary evidence or the testimony of witnesses, as it deems 
+aware. Accordingly, the ordinary exercise of grand jury power to “subpoena witnesses to testify, 
+regardless of whether they have already testified or furnished documentary evidence in civil 
+that the government could not meet its burden of showing need for deposition testimony until it 
+IN TESTIMONY WHEREOF | HAVE SET MY _wannanoseatHis 229d payor Dec., 2020 
+IN TESTIMONY WHEREOF MY _wanoanosear tuts 22Md pay o¢ Dec., 2020 
+IN TESTIMONY our HAND ANB-SEAL THIS QG__ pay or March 2017 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS A7VA_ pay oF 7/4/2008. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 2 DAY OF Dec, +2013. 
+IN TESTIMONY WHEREOF 1 HAVE SET MY HAND AND SEAL THIS A 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS | a DAY Foy 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS | L DAY ad -, 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS L DAY “a -, 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS | Ee DAY OF . 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS B DAY OF) ¥ , 2011. 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 30 DAY OF, sy 2011, 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS AO DAY ORYpr 2011. 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS AO DAY Spr 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THS3.0O DAY Ok, ., 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 4, Dd DAY Rpt” 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY-HAND AND SEAL THIS 30 ™ DAY O6, pp» 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 20 ™ DAY OF, ., 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS =. 2"" DAY OF JUNE, 2011. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 13 "DAY OF DEC., 2010 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 1°" DAY OF OCT., 2010. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 26™ DAY OF AUG., 2010. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 50'™ DAY OF Nov., 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 16™ OF FEB., 2010. 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 4 ™ DAY OF. 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS /9™ DAY OF Jay... 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS ¢ 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 6™ OF NOV., 2009. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 20" OF JULY, 2009. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 7™ OF JULY, 2009. 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS): ™ DAY O Ply 2009. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS UL. ™" DAY OF MAY, 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS | 9 DAY OF My 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 8" OF JAN., 2009. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS /.2°" DAY OF SEPT., 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS. 18" OF AUG., 2008. 
+| IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 3° oF Twré, 2008. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 2°7™ DAY OF MAY, 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 27" DAY OF MAY, 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS DAY OF MAY, 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 2'7™ DAY OF MAY, 
+& IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS’ 6™ OF DEC., 2007. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS DAY OF MAR.., 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 28™ OF FEB., 2007. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 29" OF AUG., 2006. _ 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 13™ DAY OF DEC., 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 23®° DAY OF SEPT., 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 25™ OF JULY, 2005. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 157 OF MAY, 2005. 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 19™ DAY OF APR., 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 12™ DAY OF APR., 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 6 ™ DAY OF APR., 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 6 ™ DAY OF APR., 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 27™ DAY OF DEC., 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS _27™ OF JAN., 2005. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 20™ DAY OF DEC., 
+IN TESTIMONY WHEREOF | Hi MY HAND AND SEA o™! OF DEC., 2004. | 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 10™ DAY OF DEC., 
+IN TESTIMONY WHEREOF 1 Hg : TH OF DEC., 2004. 
+IN TESTIMONY WHEREOF | HAVE STOFDE7-, 2004. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 27™ OF SEPT., 2004. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 9"" OF JULY, 2004. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 26™ OF MAR., 2004. _| 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 17™ DAY OF NOV., 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS30 ™ OF SEPT., 2003. 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 25°" DAY OF APR., 
+IN TESTIMONY WHEREOF | HAVE SET MY HAND AND SEAL THIS 19™ DAY OF MAR., 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL THIS 19™ OF MAR., 2003. 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 15th pay or January 2001 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 31St pay or December, 2001 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THs 25th pay or September 2001 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 16th pay or March 2001 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 2Nd Day or February 2001 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 3 |——pay or January 2001 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS ite pay or January 2001 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THISZ2G _ Day oF December 2000 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 1St Day or May 2000 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THis 30th pay or December 1999 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 15th pay or December 1999 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THis 7th pay or December 1999 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THis 29th pay or November 1999 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 23rd pay of November 1999 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIS 19th pay or November 1999 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIs 19th pay or November 1999 
+IN TESTIMONY WHEREOF WE HAVE SET OUR HAND AND SEAL THIs 2nd pay or November 1999 
+IN TESTIMONY WHEREOF we HAVE SET our HAND AND SEAL THIS 29 
+course, those witnesses who do testify at trial would be subject to examination on the record as to 
+In my earlier review of some of the old Epstein 302s and grand jury testimony, | identified the below names as potentially 
+In my earlier review of some of the old Epstein 302s and grand jury testimony, | identified the below names as potentially 
+testimony and that the discovery produced to date has included only a “small number of 
+testimony. According to the Government, and as reflected in the indictment, it is anticipated that 
+evidence, including flight records and other witnesses’ corroborating testimony, will further 
+support the main witnesses’ testimony and link the Defendant to Epstein’s conduct. Gov't 
+evidence and witnesses’ testimony would not be 
+attributable to suppressed evidence; (2) testimony 
+defendant’s boat, and witnesses’ testimony, even 
+@ Explanation of Testimony on 
+Testimony regarding statutory maximum 
+money laundering conspiracy, testimony that 
+money laundering conspiracy, — testimony 
+limine seeking to preclude testimony at trial on 
+Brady, of witness’ grand jury testimony: General 
+and, although witness’ testimony indicated “Adverse spousal testimony privilege” gives 
+of defendant, Brady materiality determination right not to testify against his spouse. 
+Criminal Law Only testifying spouse can assert adverse 
+® Sound recordings spousal testimony privilege. 
+testimony based on _ confidential marital 
+7) Criminal Law adverse spousal testimony privilege, government 
+spousal testimony privilege was threshold 
+testimony demonstrated detailed recall of facts 
+testimony by Yvette Gifford regarding aliases, the 
+challenged testimony by Saberhagen is based on 
+(1994). The Delapena Grand Jury testimony does not 
+Richard Messino makes her testimony material. But a 
+court will not order production of the Delapena testimony. 
+Similarly, Maleki’s testimony need not be produced by 
+the government. The court’s inspection of the testimony 
+threshold issue of whether the adverse spousal testimony 
+not to testify against his or her spouse. See United States 
+testimony privilege will not apply: first, Pamela Messino 
+adverse spousal testimony privilege is a threshold matter. 
+when his nontestifying codefendant’s confession naming 
+paraphrased snippet of testimony from a witness about 
+conclusions by lay witnesses, and (2) testimony of 
+to testify and give evidence in the following matter: 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+\\Usa.doj.gov\cloud\NYS\StAndrews\Shared\USvEpstein-2018R01618\!Trial\3500\1. Testifying\Production 3\3524 I 
+they are when they testify the more plausible Epstein's argument becomes. 
+The grand jury we are using will expire soon. We have already presented more than a dozen hours of testimony and the 
+anywhere in the world,” she testified. “He is used to exerting control over all the people 
+testified in no unclear terms that there was never any discussion over the phone about her coming over to Mr. Epstein’s 
+at 15. Second, the underage women who visited Mr. Epstein have testified that they lied about their age in order to gain 
+Ms. {BM was highly critical of the overreaching by federal law enforcement officers in this case. She testified—in no 
+testimony and Detective own rendition of that testimony in his reports and/or search 
+him a massage. That fact is confirmed by, among other things, testimony that “he 
+family seeking $50 million from Mr. Epstein, their testimony against Mr. Epstein is per se suspect. 
+But, despite their obvious incentive to harm Mr. Epstein, their testimony actually confirms his 
+innocence. Ms. , for instance, has testified that Ms. who introduced her to Mr. 
+, who was introduced to Mr. Epstein by Ms. , testified in her federal sworn interview 
+The conduct of | is likewise illustrative of “mutually corroborating” testimony 
+The investigation and testimony in this case makes clear that Mr. Epstein did not use any 
+ee ay was clear on this point at her deposition during which she repeatedly testified that 
+testified that 1) she never engaged in sexual activity with Mr. Epstein; 2) she never even met or 
+their testimony that are necessarily sensationalized and fictionalized. We presented 
+conference that they lied to Mr. Epstein about their ages. Numerous witnesses testified 
+o The defense has confirmed examples of women who testified that they were not 
+confronted with the testimony of a women who denied both being a victim and 
+incurring personal injury, Ms. actually acknowledged such testimony. 
+review that is based on the transcripts of witness testimony themselves so that the reviewer can 
+testified that they were actually under 18 have ifically admitted to systematically lying to 
+often, as confirmed by the masseuses’ own testimony, several individuals who were contacted by 
+“routine and habit” will also not fit the facts of this case. The witness testimony at issue makes 
+matter would be inappropriate. This testimony taken to date categorically confirms that (i) Mr. 
+they testify the more plausible epstein's argument becomes. 
+The grand jury we are using will expire soon. We have already presented more than a dozen hours of testimony and the grand jury ts 
+they testify the more plausible epstein's argument becomes. 
+The grand jury we are using will expire soon. We have already presented more than a dozen hours of testimony and the grand jury ts 
+subpoena, AUSA EE directs (Mo appear on July 1, 2008 to give testimony 
+testimony of witnesses so as to reach a conclusion of guilt. Our contention is reinforced by the 
+fact that key prosecution witnesses have provided evidence and testimony that directly 
+enhance their testimony, in order to maximize their opportunities to obtain financial recompense. The 
+time, | still intend to present Ms. ean testimony to the grand jury on Tuesday. With respect to the 
+executed. Since this would seem to obviate any need for Ms. meee to testify, please let me know what is going on 
+anticipated testimony, I believe that the more prudent course will be to question Ms. [J to determine the 
+me with a written proffer that summarizes her anticipated testimony and explains how she will be exposed to 
+Ms. _ will need to appear before the grand jury on July 1°‘ to give testimony. Please contact my 
+GEE testimony will begin either in the late morning or early afternoon, but she should be available for 
+After hearing four weeks of testimony, the jurors deadlocked on eight counts, including illegal gathering and 
+On the witness stand, C.I.A. employees — who testified under pseudonyms or only first names — publicly 
+this,” testified a C.I.A. employee, who used the pseudonym Jeremy Weber. 
+The testimony revealed the scramble inside C.!.A. headquarters when the files leaked. Sean Roche, a top C.I.A. official at 
+Harbor,” he testified. 
+resignation letter accused the agency of “deep injustices and illegal behavior,” witnesses testified. 
+conversation, an F.BI. agent testified. 
+After hearing four weeks of testimony, the jurors deadlocked on eight counts, including illegal gathering and 
+On the witness stand, C.I.A. employees — who testified under pseudonyms or only first names — publicly 
+this,” testified a C.l.A. employee, who used the pseudonym Jeremy Weber. 
+The testimony revealed the scramble inside C.I.A. headquarters when the files leaked. Sean Roche, a top C.I.A. official at 
+Harbor,” he testified. 
+resignation letter accused the agency of “deep injustices and illegal behavior,” witnesses testified. 
+conversation, an F.BI. agent testified. 
+production (which consisted of 5GB of non-testifying witness 3500) along with our protective order, with the hopes that 
+to testify and give evidence in regard to an alleged violation of : 
+- calling in connection with ij allegation / testimony released in the civil papers 
+Amendment and refused to testify when civilly deposed, respectively, in 
+responses to requests for admission, deposition testimony, and other 
+I met with and I need time to evaluate matters. Regarding the subpoena to testify before the 
+I met with and | need time to evaluate matters. Regarding the subpoena to testify before the 
+I met wit and | need time to evaluate matters. Regarding the subpoena to testify before the 
+the compelling testimony of DI D7 777i, “ho 
+testified that they fear for their safety and the safety of 
+Attachments: Stipulation[J Trial Testimony.DOCX 
+a “true and accurate copy of the transcript of one witness's trial testimony, but not the full trial transcript, given on 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+parameters or scope of her testimony. 
+That will be produced on a hard drive to you. In addition, a supplemental production of testifying witness and non- 
+testifying witness material and exhibits are also ready to send to you. Attached please find the accompanying cover letter 
+and indices. Those materials will be on the hard drive as well. We will also produce the testifying witness and non- 
+testifying witness material and exhibits via USAfx. 
+to testify and give evidence in the following matter: 
+(1) while testifying; or 
+(2) before testifying, if the court decides that justice requires the party to 
+witness's testimony. If the producing party claims that the writing includes 
+witness's testimony or--if justice so requires--declare a mistrial. 
+that relates to the subject matter of the witness's testimony.”). 
+Attachments: StipulationJ Trial Testimony.PDF 
+a “true and accurate copy of the transcript of one witness's trial testimony, but not the full trial transcript, given on 
+Attached please find a letter motion to file a reply in support of the Government's motion to preclude the testimony of Dr. 
+of the Government's motion to preclude the testimony of Dr. Ryan Hall. Among other issues, the 
+Government on November 8, 2021, filed a motion to partially preclude the testimony of Dr. 
+testimony of the remaining six experts. The Defense filed a response on November 19, 2021. 
+Federal Rule of Evidence 702 governs the admissibility of expert testimony. That rule 
+education may testify in the form of an opinion or otherwise if: 
+(b) the testimony is based on sufficient facts or data; 
+(c) the testimony is the product of reliable principles and methods; and 
+testimony. Restivo v. Hessemann, 846 F.3d 547, 575 (2d Cir. 2017). To determine whether an 
+Defense “must... give to the government a written summary of any testimony that the 
+unexpected expert testimony, reduce the need for continuances, and to provide the opponent with 
+a fair opportunity to test the merit of the expert’s testimony through focused cross-examination.” 
+16, a notice must not merely describe the “general topics” on which experts will testify but 
+(“Merely identifying the general topics about which the expert will testify is insufficient; rather, 
+When a disclosure merely lists general topics on which the expert might testify, the Second 
+witnesses’ testimony, not their qualifications or the reliability of their methods under Rule 702. 
+“whether expert testimony proffered in the case is sufficiently tied to the facts of the case that it 
+The Government moves to exclude the testimony of Bennett Gershman in its entirety. As 
+misconduct.” Notice at 12. The Defense expects that he will testify “on best practices to ensure 
+expected testimony is irrelevant. At the November | pretrial conference, the Court ruled that it 
+expected topics of Gershman’s testimony—investigation, witness preparation, media contact, 
+crimes charged. In short, this testimony would run afoul of the instruction that the jury will 
+The Court notes that a court in this district recently excluded Gershman’s testimony in a 
+request to admit an expert to testify about government investigative techniques. The Court 
+Second, even if Gershman’s testimony was relevant, Rule 403 prejudice would 
+Gershman’s testimony would be likely to confuse the jury by suggesting that the Government’s 
+satisfy Rule 16. The Defense has listed only the general topics on which Gershman will testify, 
+testimony. Therefore, even if Rules 401 and 403 were satisfied, the Court would exclude 
+Gershman’s testimony because the Defense has not yet satisfied Rule 16. 
+testimony. Because this is a preliminary pre-trial ruling, it is possible that facts and 
+2021.11.19 Maxwell Response to Gov Motion to Preclude Expert Testimony [propose 
+consulting with us and potentially testifying at the trial. Would it be possible to schedule a call to discuss? 
+testifying under the pseudonym “Jane”) 
+(testifying under the pseudonym i) 
+witnesses will testify at trial. The Government notes, however, that this order may change, 
+witnesses, including witnesses whom the Court has authorized to testify using pseudonyms or their 
+other (testifying under the pseudonym . 
+* The Government previously indicated that this witness would testify under the pseudonym 
+Subject: [EXTERNAL] Supplemental letter regarding ie testimony 
+Please see attached letter regarding Mr. Ij anticipated testimony. 
+Subject: Emails/Notes RE testifying 
+637 F.2d 95, 102 (2d Cir.1980) (challenged testimony “smack[ed] of nothing more than casual 
+with respect to any acts committed or statements made during or . fter the meeting or testimony 
+Client testify; and (c) the Government may also use statements ma je by Client at the meeting to 
+approximate age but if not maybe who they are, why they are testifying, city or state they are from? is 
+Below is the list of potential testifying witnesses as discussed. Please run rap sheets as discussed. Do you think you could 
+Is GE testifying as a custodian for a particular company/organization? 
+approximate age but if not maybe who they are, why they are testifying, city or state they are from? 
+Below is the list of potential testifying witnesses as discussed. Please run rap sheets as discussed. Do you think you 
+interview information may later be used as testimony or evidence in court 
+of Maxwell’s deposition testimony. Indeed, under the plain terms of the Protective Order, 
+government’s request, “holding that the deposition testimony had been given in reliance upon the 
+the witnesses were under no compulsion to testify, and having given testimony, they voluntarily 
+testimony in civil litigation, thus undermining a procedural system that has been 
+witnesses might be expected frequently to refuse to testify pursuant to protective 
+orders if their testimony were to be made available to the government for criminal 
+inspect protected testimony for possible use in a criminal investigation, either as 
+material and testimony to a state grand jury. /d. at 862. The district court granted the Attorney 
+(“The grand jury cannot require a witness to testify against himself.”). The subpoena i 
+incriminating testimony Po 
+Boyd, 116 U.S. at 634-35. Even if the subpoena does not literally require Maxwell to “testify 
+because the government could not use her testimony against her—or at least could not do so 
+without notice and an opportunity to be heard—only to find out that the testimony she offered 
+would preserve” the confidentiality of her testimony. And even though Maxwell had not been 
+include information about which numerous witnesses are expected to testify at trial, include 
+those materials could influence witness testimony at trial, or enable witnesses to change or shape 
+their testimony. Premature disclosure of these records and/or the information contained therein 
+could reasonably be expected to influence witnesses’ potential testimony at trial and/or allow 
+witnesses to alter their testimony to conform to other evidence. 
+expected to testify at trial, as well as information and documents authored by potential trial 
+some of the dates in between, will be the subject of witness testimony at the Noel trial. In 
+potential testimony at trial, allow witnesses to alter their testimony to conform to other evidence, 
+or influence potential jurors’ perceptions of witness testimony or evidence. 
+Epstein’s death, may be trial exhibits, the subject of witness testimony, or were prepared by 
+witnesses who will testify at trial. Premature disclosure of these materials could reasonably be 
+expected to influence witnesses’ potential testimony at trial, allow witnesses to alter their 
+testimony to conform to other evidence, or influence potential jurors’ perceptions of witness 
+testimony or evidence. Alternatively, if evidence of Epstein’s July 23, 2019 suicide attempt or 
+of Epstein prepared by BOP may be trial exhibits, the subject of witness testimony, and/or were 
+prepared by witnesses who will testify at trial. Premature disclosure of these records could 
+influence the testimony of potential witnesses, including by potentially causing them to alter or 
+confirm their testimony. In addition, premature disclosure of these records could reasonably be 
+be trial exhibits, the subject of witness testimony, and/or were prepared by witnesses who will 
+testify at trial. Premature disclosure of these materials could reasonably be expected to influence 
+witnesses’ potential testimony at trial, allow witnesses to alter their testimony to conform to 
+other evidence, and/or influence potential jurors’ perceptions of witness testimony or evidence. 
+SHU prepared by BOP may be a trial exhibit, the subject of witness testimony, and/or was 
+prepared by witnesses who will testify at trial. Premature disclosure of this record could 
+reasonably be expected to influence witnesses’ potential testimony at trial and/or allow witnesses 
+to alter their testimony to conform to other evidence. 
+subject of witness testimony at the Noel trial. Their disclosure could influence witness 
+testimony, including by allowing witnesses to alter their testimony to conform to other evidence, 
+or influence potential jurors’ perceptions of witness testimony or evidence. Alternatively, as 
+testimony at the Noel trial. Their disclosure could influence witness testimony, including by 
+allowing witnesses to alter their testimony to conform to other evidence, or influence potential 
+jurors’ perceptions of witness testimony or evidence. Alternatively, as described above, if 
+the anticipated content of witness testimony. More detailed public descriptions could also 
+Tartaglione Records could reasonably be expected to influence witness testimony and/or 
+potential jurors’ perceptions of witness testimony or evidence. 
+witness testimony or jurors’ perceptions, if records are released in part or without full context. 
+numerous witnesses are expected to testify at trial, details that are not publicly known or known 
+reasonably be expected to influence witnesses’ potential testimony at trial and/or enable 
+witnesses to alter or shape their testimony to conform to other evidence. 
+expected to testify at trial, as well as information and documents prepared by potential trial 
+2019, will be the subject of trial testimony at the Noe/ trial. 7(A) Returned Records containing 
+prematurely could reasonably be expected to influence witnesses’ potential testimony at trial, 
+allow witnesses to alter or shape their testimony to conform to other evidence, identify potential 
+testimony or evidence. 
+witnesses’ potential testimony at trial, allow witnesses to alter or shape their testimony to 
+influence potential jurors’ perceptions of witness testimony or evidence. 
+10, 2019, will be the subject of witness testimony at the Noe/ trial. 7(A) Returned Records 
+materials prematurely could reasonably be expected to influence witnesses’ potential testimony 
+at trial, allow witnesses to alter or shape their testimony to conform to other evidence, and/or 
+influence potential jurors’ perceptions of witness testimony or evidence. 
+subject of witness testimony, and/or were prepared by witnesses who will testify at trial. 7(A) 
+Premature disclosure of these records could influence the testimony of potential witnesses, 
+including by potentially causing them to alter or shape their testimony to conform to other 
+witness testimony, and/or were prepared by witnesses who will testify at trial. 7(A) Returned 
+testimony at trial, allow witnesses to alter their testimony to conform to other evidence, and/or 
+influence potential jurors’ perceptions of witness testimony or evidence. 
+testimony of numerous victims, and this case presents the very real possibility that he will go to 
+all of this evidence — the voluminous and credible testimony of individuals who were sexually 
+to testify because she felt they were still friends. 
+by significant evidence, including victim and witness testimony 
+by significant evidence, including victim and witness testimony 
+testimony was sought concerning her personal knowledge and role in Epstein’s abuse of ic, 
+fact, however, within weeks of using that excuse to avoid testifying, Maxwell had returned to 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+« In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+« In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+e In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+our productions of non-testifying witness statements. 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+e In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+recording to you as part of our productions of non-testifying witness statements. 
+GPS data, and aerial footage), or are digital recordings of interviews that will be produced as non-testifying 
+In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no 
+to you containing the contents of the electronic media with these non-testifying witness statements, but you are 
+¢ EER is the same person as I, a potential testifying witness. Could you please move those 
+-Could you please move the J EJ folder to the potential testifying witness folder, and if possible could you 
+¢ EE is the same person as I, a potential testifying witness. Could you please move those 
+- ER, GE is the same persons as I, EE who is a testifying witness. Would you please move the 
+¢ HES BM is the same person as J EE, a potential testifying witness. Could you please move those 
+a witness has testified. United States v. Skelos, No. 1S-CR-317 (KMW), 2018 WL 2254538, at 
+too, the theory that the rest of the journal contradicts Minor Victim-2’s anticipated testimony as 
+testimony. 
+Minor Victim-2 is expected to testify at trial, does not establish any relevance except as to 
+testimony. Moreover, it is entirely speculative and unsubstantiated. Maxwell provides no actual 
+again Maxwell’s arguments sound in impeachment of anticipated authentication testimony. For 
+testimony or whether it will implicate the photographs. 
+is expected to testify to that fact at trial. (See Govt Omnibus Response, Dkt. No. 204 at 187 (citing 
+defendant] of his right to a fair trial, in part, because he could not testify about the diary without 
+waiving his right not to testify”); United States v. Rios, No. 88 Cr. 186, 1989 WL 9289, at *2 
+testimony, shrouded again in a conclusory claim about the need for authentication. For 
+Subject: RE: testifying witness notes 
+Subject: RE: testifying witness notes 
+Subject: testifying witness notes 
+Would you please save the attached pdf in J testifying witness 3500 folder and in his witness folder on the 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+Testimony of Three Witnesses 
+the government’s proffer that the testimony of the three accusers would be corroborated by 
+the testimony of the three accusers. The government’s case against Ms. Maxwell therefore rests 
+counts (Counts Two and Four) are based on the testimony of only one witness, Minor Victim-1, 
+Instead, they will testify only that “both [Ms. Maxwell] and Epstein knew and interacted with certain minor victims 
+from any witness who testified before the grand jury, or their counsel, or 
+potential government witness’s testimony, including known 
+government of what the client would be able to provide by way of testimony” and 
+Additionally, in 2016, while testifying under oath in a civil proceeding, Maxwell 
+two, non-exclusive potential topics of her testimony. The Government advised that she will 
+testify about, “among other things, [i] certain [unspecified] documentary evidence relating to the 
+evidence the Rule contemplates. What "documentary evidence" will she testify about? What 
+what purpose will she testify to it? Are there other topics covered by the language "among other 
+their change of heart and to rebut allegations of sandbagging. Unforeseen turns of testimony at 
+Indictment or any other testifying witness, nor (b) any of the legal allegations contained in the 
+timing of her stated employment, it also begs the question how her testimony, reference to 
+research, her testimony will concern the workings of human memory, the effects of suggestion 
+suggestion, influence or the like. She will also testify about the characteristics of false and/or 
+evaluations of allegations of sexual victimization. He has testified as an expert witness in 
+forensic psychiatry on hundreds of occasions, including testimony in criminal matters in federal 
+His testimony may include, but will not be limited to, the following: 
+Although the Government’s Expert Notice regarding Dr. Rocchio’s proposed testimony 
+Other opinions put forth in the disclosure of Dr. Rocchio’s proposed testimony also rest 
+We expect Professor Gershman to provide testimony on best practices to ensure the 
+and AME. His curriculum vitae is attached. Exhibit H. Mr. Kelso has previously testified in 
+We anticipate that Mr. Kelso will testify about the user data associated with certain 
+photographs. He may also testify generally about computer forensic principles associated with 
+the limits to the information that can be gleaned from the metadata. Mr. Kelso may testify in 
+rebuttal to any testimony offered by the government through Stephen Flatley. As trial 
+It is expected that Mr. Lopez will testify about his review of certain financial records 
+Investigative and Forensic Sciences. He has testified as an expert witness in numerous cases and 
+seek to have them analyzed and present testimony on the analysis as needed. 
+offer the proposed testimony. Nevertheless, we hereby notice Mr. Lopez as a potential expert 
+and present testimony on the analysis as needed. 
+testimony and other evidence presented during the government’s case-in-chief. The defense also 
+testimony Ms. Maxwell reserves the right to identify and rebut this testimony after the close of 
+choose between testifying in a civil matter and asserting [her] Fifth Amendment privilege." Louis 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+Organizer: testimony hi 
+From: testimony &lt; gt; 
+To: testimony; iS ; is 
+Federal Rule of Evidence 702 governs the admissibility of expert testimony. That rule 
+education may testify in the form of an opinion or otherwise if: 
+(b) the testimony is based on sufficient facts or data: 
+(c) the testimony is the product of reliable principles and methods: and 
+testimony. Restivo v. Hessemann, 846 F.3d 547, 575 (2d Cir. 2017). To determine whether an 
+opinions of Dr. Rocchio’s testimony, which the Government did here in a timely manner. See 
+involved the distinct situation where a district court excluded expert testimony because the notice 
+addition to her teaching. Given these papers, and her credible and extensive hearing testimony, 
+concludes that Dr. Rocchio’s anticipated testimony is admissible with one exception. The Court 
+will address first why Dr. Rocchio’s testimony is admissible and then address the one opinion 
+reason that several courts in this circuit have admitted the testimony of similar experts, such as 
+testimony on so-called trauma bonding to explain why prostitutes may not flee from their pimps 
+even when not physically restrained. In United States v. Kidd, the court admitted the testimony, 
+263. Identical testimony was admitted by Judge Furman in United States v. Dupigny, No. 18- 
+adequate basis for her to testify on methods that perpetrators of sexual abuse often use to build 
+identifying points of agreement and disagreement. Based on her testimony, the parties” 
+For the reasons Judge Engelmayer gave—which Dr. Rocchio echoed in her testimony— 
+perpetrators themselves. This argument overlooks the fact that, as she testified, Dr. Rocchio also 
+testimony is the effect that grooming behaviors have on the minor, not the perpetrator’s mental 
+has explained, expert testimony cannot “constitute evaluations of witness credibility”—that is, 
+expert testimony is inadmissible if it “comment[s] directly, under the guise of expert opinion, on 
+the credibility of trial testimony from” specific fact witnesses. Nimely, 414 F.3d at 398. 
+knowledge and common sense,’ no expert testimony is warranted.” Edmondson v. RCI Hosp. 
+F.3d 91, 101 (2d Cir. 2001) (explaining that “the district court should not admit testimony that is 
+these elements of Dr. Rocchio’s testimony relevant to matters the Defense intends to put in issue 
+average person,” and so appropriate for expert testimony. United States v. Felder, 993 F.3d 57, 
+The Defense argues that Dr. Rocchio’s testimony is not relevant because the Government 
+represents that she will testify only to general principles and not offer “testimony regarding any 
+explained above regarding the Second Circuit’s Nimely decision, an expert may not testify as to a 
+similar testimony, Dr. Rocchio’s testimony is appropriate because she does not testify as to any 
+*7; Johnson, 860 F.3d at 1140 (8th Cir. 2017) (explaining that an expert may testify “regarding 
+“whether expert testimony proffered in the case is sufficiently tied to the facts of the case that it 
+Third, the probative value of Dr. Rocchio’s testimony is not substantially outweighed by 
+403 prejudice to Ms. Maxwell. The Court finds that Dr. Rocchio’s testimony would not unduly 
+aside, the Court agrees with this narrower objection to Dr. Rocchio’s testimony. As discussed at 
+grooming. Moreover, as the Government explains, Dr. Rocchio’s testimony is still relevant 
+The Court therefore denies the Defense’s motion to exclude Dr. Rocchio’s testimony 
+Testifying\Production 11 
+Testifying\Production 11 
+testify under her own name (and has testified under her own name at the prior bail hearings). 
+In accordance with the previously provided court order, any victim or witness testifying under a pseudonym should not 
+*OFF-THE-RECORD, AND FOR GUIDANCE ONLY: Several of the government’s anticipated witnesses will be testifying in 
+Court’s order that certain witnesses be permitted to testify or be referred to by first name only or 
+government’s evidence will consist of the testimony of witnesses as well as 
+does present a defense case, the defense witnesses will testify, and the government 
+What, then, is evidence? Evidence consists only of the testimony of 
+Third, testimony that I have excluded or told you to disregard is not 
+There is no formula to evaluate testimony or exhibits. For now, suffice it to 
+the testimony from each of the witnesses and the exhibits that are received in 
+witness’s testimony based on all of the circumstances. Again, I cannot emphasize 
+that is said in the courtroom and any portion of the testimony can be read back to 
+that has a HEPA filter, and they will remove their mask to testify when we have 
+witnesses testify. The lawyer who will be questioning them and the lawyer during 
+Subject: FW: Supplemental letter regarding [J testimony 
+Subject: [EXTERNAL] Supplemental letter regarding JJ testimony 
+Please see attached letter regarding Mr. Ij anticipated testimony. 
+IN TESTIMONY WHEREOF I Have set MY HAND ANB-SEAL THIS 2Y™ payor MARCH 2016 
+In testimony whereof, I have set my signature this 30" daw of Ape! 2012. 
+IN TESTIMONY WHEREOF 
+IN TESTIMONY WHEREOF HAND AND SEAL THIS 30" ay of OE “AS 
+IN TESTIMONY WHEREOF I HAVE SET MY HAND AND SEAL, THIS 3RD DAYOF JUNE __, 1999 
+its 3500 material, including more than 8,000 pages of testifying witness disclosures. It will 
+should therefore be ordered to appear and give testimony, and the Government should disclose to 
+via sworn testimony.” The exculpatory value of the video footage -- i.e. efforts made by Mr. 
+witness testimony explaining the apparent loss of this evidence is necessary and appropriate. 
+Testimony of Three Witnesses 
+the government’s proffer that the testimony of the three accusers would be corroborated by 
+the testimony of the three accusers. The government’s case against Ms. Maxwell therefore rests 
+counts (Counts Two and Four) are based on the testimony of only one witness, Minor Victim-1. 
+Instead, they will testify only that “both [Ms. Maxwell] and Epstein knew and interacted with certain minor victims 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+a. a= is expected to testify, based on her relevant education, training, experience, 
+individuals can facilitate the sexual abuse of minors. J. P| is also expected to testify that 
+| | aa testimony regarding any specific victim. 
+8. BE ¢xpected testimony relies on her education and training on psychological 
+witness that the defendant intends to rely upon, including a written summary of any testimony that 
+| | Een has previously testified in state court and has been deposed in the course of federal 
+and state litigation. As a courtesy, a list of that testimony is also being produced to you today 
+statements of witnesses she will call to testify, including expert witnesses. See Fed. R. Crim. P. 
+will call to testify. See Fed. R. Crim. P. 26.2; United States v. Nobles, 422 U.S. 225 (1975). We 
+jury subpoenas, and others may be meeting with us in lieu of testifying before the grand jury. We can advise if we believe 
+(including prospective grand jury testimony). 
+to testify and give evidence in regard to an alleged violation of : 
+deposition testimony, that would be a huge help as well: 
+e The cover page of both days of testimony (so the caption and date shows) 
+Q. I want to be sure that I’m clear. Is it your testimony that 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given anybody a 
+testimony? 
+A. That is my testimony. 
+Q. You never gave [Minor Victim-2] a massage is your testimony? 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+with respect to any acts committed or statements made during or after the meeting or testimony 
+Client testify; and (c) the Government may also use statements made by Client at the meeting to 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+As | mentioned, attached is a trial subpoena. If we end up needing you to testify, I'll be in touch in late-October to talk 
+to testify and give evidence in the following matter: 
+there have been efforts by certain witnesses to conform their testimony to the public 
+investigation by, inter alia, arranging for interviews and testimony of certain New York 
+to testify and give evidence in the following matter: 
+Subject: RE: Expert Testimony 
+Subject: RE: Expert Testimony 
+Subject: Fwd: Expert Testimony 
+Subject: Re: Expert Testimony 
+testify as an expert witness at trial. Are you available for a call tomorrow or next week to discuss? 
+o Does not believe that he will be citing any inmate testimony 
+Sorry for my late response. | have been out of the office all week. | can testify if need be. Let me know if you need 
+Thanks, oe We'd like to identify a records custodian who could testify, in the event that it would be necessary. 
+We'd like someone to sign an affidavit for now, but we'd also like to identify someone who could testify at trial if need be. 
+to” witnesses who are expected to testify at trial, and for whom the Government has various 
+subpoenas for records are quite unlike subpoenas for trial testimony: they can be made returnable 
+for trial testimony. 
+STE ANE-2ES0SS-2A Vel. 8 48 Grand Jury Testimony audio files dated 7/19/2006 (media 
+Subject: Expert Testimony 
+We would be interested in speaking with you about your availability to testify as an expert witness at trial. Are you 
+because we would be interested in speaking with J about potentially testifying at trial. Would it be possible to 
+research on children's testimony and child abuse. I have also been quoted in numerous newspaper and 
+Children's Eyewitness Testimony 
+Effects of Criminal Court Testimony on Child Sexual Assault Victims 
+Child Sexual and Physical Abuse: Children's Testimony and 
+Impact of Courtroom Practices on Children's Testimony and Jurors’ Reactions 
+Emotional Effects of Courtroom Testimony on Child Victims: 
+testimony. I have also co-chaired an APA Division 41 Task Force on Child Abuse and a Division 7 Task 
+large number of grant-related projects. In addition, I have given invited testimony before legislative 
+Goodman, G. S. (1984). Children's testimony in historical perspective. Journal of Social Issues, 40(2), 9-32. 
+Goodman, G. S., Hepps, D., & Reed, R. S. (1986). The child victim's testimony. In A. Haralambie (Ed.), 
+Goodman, G. S., & Reed, R. S. (1986). Age differences in eyewitness testimony. Law and Human Behavior, 
+Goodman, G. S., & Hahn, A. (1987). Evaluating eyewitness testimony. In 1. Weiner & A. Hess (Eds.), 
+stand: Jurors' perceptions of children's eyewitness testimony. Law and Human Behavior, 11, 27-40. 
+testimony. In S. Ceci, M. Toglia, & D. Ross (Eds.), Children's eyewitness memory (pp. 1-23). New 
+The child in court: A preliminary report on the emotional effects of criminal court testimony on 
+perceived credibility. In S. Ceci, D. Ross, & M. Toglia (Eds.), Perspectives on children's testimony (1- 
+ecological validity in the study of children’s eyewitness testimony. In R. Fivush & J. Hudson 
+and the emotional effects on children of testifying in court. In K. Oates (Ed.), Understanding and 
+Pipe, M. E., & Goodman, G. S. (1991). Elements of secrecy: Implications for children's testimony. 
+children's testimony. Developmental Psychology, 27, 1-26. 
+Goodman, G. S., & Clarke-Stewart, A. (1991). Suggestibility in children's testimony: Implications for 
+Goodman, G. S. (1991). Stress and children's testimony: Commentary on Peters. In J. Doris (Ed.), The 
+cognitive, social, and emotional factors on children's testimony. In R. Flin & H. Dent (Eds.), 
+Testifying in criminal court: Emotional effects on child sexual assault victims. Monographs of the 
+children's testimony. NY: Guilford Publishers, Inc. 
+Understanding and improving children's testimony (pp. 301-330). NY: Guilford Publishers, Inc. 
+Goodman, G. S. (1993). Understanding and improving children's testimony. Children Today, 22, 13-15, 32. 
+Goodman, G. S., Batterman, J., & Kenney, R. (1993). Optimizing children's testimony: Research and 
+Whitcomb, D., Goodman, G. S., Runyan, D. K., & Hoak, S. (1994). The emotional effects of testifying on 
+Bottoms, B. L., & Goodman, G. S. (1994). Evaluation of children's testimony: Factors influencing the jury. 
+testimony. Child Development Abstracts and Bibliography, 68, 101-102. 
+jurors’ perceptions. In M. Zaragoza, J. Graham, & G. Hall (Eds.), Memory and testimony in the child 
+testimony.) 
+testimony. Newbury Park, CA: Sage. 
+Bottoms, B. L., & Goodman, G. S. (Eds.). (1996). International perspectives on children’s testimony. 
+Practical implications for children’s interviews and courtroom testimony. Pacific Law Review, 28, 
+testimony and jurors’ decisions. Law and Human Behavior, 22, 165-203. (Reprinted in R. Bull [Ed.]. 
+eyewitness testimony in adults and children. In 1. Weiner & A. Hess (Eds.), Handbook of forensic 
+Bidrose, S., & Goodman, G. S. (2000). Testimony and evidence: A scientific case study of memory for child 
+in children’s testimony: Factfinders’ abilities to reach the truth in open court and closed-circuit 
+Ghetti, S., Schaaf, J., Qin, J. J., & Goodman, G. S. (2004). Eyewitness testimony. In W. O’Donohue, D. 
+H. (2005). Childhood sexual assault victims: Long-term outcomes of testifying in criminal court. 
+Evaluating eyewitness testimony in children and adults. In 1. Weiner & A. Hess (Eds.), Handbook 
+versus children’s testimony: Effects of truthful and deceptive statements on jurors’ decisions. Law 
+(Eds.), Testimony without fear(?) Non-revictimizing cultures and practices (pp. 21-34). Brasilia, Brazil: 
+comprehensive guide to assessment and testimony (pp. 181-202). John Wiley & Sons. 
+testimony. In A. Haralambie (author), Handling child custody, abuse, and adoption cases (pp. 595- 
+testimony. In A. Haralambie (author), Handling child custody, abuse, and adoption cases (pp. 606- 
+Paz-Alonso, P., Chae, Y., & Goodman, G. S. (2009). Children’s testimony. In B. Cutler (Ed.), The 
+Block, S. D., Greenberg, S. N., & Goodman, G. S. (2009). Remembrance of eyewitness testimony: Effects of 
+Ogle, C. M., Chae, Y., & Goodman, G. S. (2010). Eyewitness testimony. In I. Weiner & W. E. Craighead 
+development, memory, and testimony. In A. M. Haralmabie (Ed.), Handling child custody, abuse, 
+development, memory, and testimony. In A. M. Haralmabie (Ed.), Handling child custody, abuse, 
+Paz-Alonso, P., Ogle, C. M., & Goodman, G. S. (2013). Children’s memory and testimony in “scientific 
+development, memory, and testimony. In A. M. Haralambie (Ed.), Handling child custody, abuse, 
+Goldfarb, D. A., & Goodman, G. S. (Eds.). (2015). Child victim witnesses: Context, testimony, and legal 
+Larson, R. P., Goldfarb, D. A., & Goodman, G. S. (2015). Children’s eyewitness memory and testimony in 
+development, memory, and testimony. In A. M. Haralambie (Ed.), Handling child custody, abuse, 
+Goodman, G. S., & Michelli, J. (1981. April). Psychology and the law: Effects of children's courtroom testimony. 
+Goodman, G. S. (1982, May). A new direction in judicial research: Children's courtroom testimony. Invited 
+Goodman, G. S., Golding, J., & Haith, M. M. (1983, August). Jurors’ reactions to children's testimony. Paper 
+Goodman, G. S., Reed, R.S., & Hepps, D. (1985, August). The child victim's testimony. In M. Toglia 
+Goodman, G. S. The reliability of children's testimony. (1986, March). In D. Raskin (Chair), Investigative 
+Goodman, G. S., Hirschman, J., & Rudy, L. (1987, April). Children's testimony: Research and policy 
+implications. In S. Ceci, D. Ross, & M. Toglia (Chairs), Children's testimony: Social policy 
+Goodman, G. S. (1987, October). Ecological issues in the study of children's eyewitness testimony. Paper 
+suggestibility. Presented in D. Peters (Chair), Children's testimony. Symposium, American 
+Goodman, G. S., Wilson, M. E., Hazan, C., & Reed, R. S. (1989, April). Children's testimony nearly four years 
+Goodman, G. S. (Chair). (1989, April). Current topics in research on children's testimony. Invited 
+research on children's testimony. Society for Research in Child Development, Kansas City, Kansas, 
+Understanding& improving children's testimony. Am. Psychological Assoc. Meeting, New Orleans, 
+Children's testimony for a stressful event: Improving children's reports. In G. S. Goodman, 
+(Chair). Child sexual abuse: Understanding and improving children's testimony. American 
+Keeping secrets: Implications for children's testimony. American Psychology and Law Meetings, 
+Goodman, G. S. (1990, August). Media effects and children's testimony. In D. Singer (Chair), The impact 
+Kenney, B. (1992, August). Impact of innovative court procedures on children's testimony. In B. 
+L. Bottoms & M. Levine (Chairs), Children's eyewitness testimony. Symposium presented at the 
+testimony. Symposium, American Psychological Association Convention, Washington, D.C. 
+testimony. Paper presented at the American Psychological Association Convention, Wash, D. C. 
+Factfinders' abilities to detect deception in children's testimony. Paper presented at the American 
+Effects of live testimony vs. hearsay on jurors’ perceptions of children's evidence. Invited paper, U. S. 
+Goodman, G. S., Eisen, M., & Qin, J. (1995, July). Eyewitness testimony in victims of child malteatment: 
+Should interviews of children be videotaped or adults testify in children's place?: Effects of 
+in sexual abuse cases: Videotaped testimony and hearsay. American Psychological Society Convention, 
+consequences on child sexual abuse victims of testifying in criminal court. In J. A. Quas & G. S. 
+competence and testimony in legal proceedings. Symposium presented at the American Psychology- 
+Quas, J. A., Goodman, G. S., et al. (2001, April). Memory for sexual abuse and courtroom testimony. In K. 
+Castelli, P., Goodman, G. S., & Ghetti, S. (2002, December). Jurors’ reactions to children’s testimony: Effects of 
+testimony. 28th International Congress of Applied Psychology, Paris, France. 
+child sexual abuse testimony. 16" Conference on Partnerships for Children and Families in Los 
+Goodman, G. S. Children's memory and children's testimony. Invited keynote address, 
+Goodman, G. S. Children's eyewitness testimony: Research and policy issues. The Bush Center in 
+Goodman, G. S. Age differences in eyewitness testimony. Invited colloquium. Department 
+Goodman, G. S. Children's eyewitness testimony. Invited colloquium, Department of 
+Goodman, G. S. Children's memory for real-life events: Children's testimony. Invited principal 
+Goodman, G. S. Children's memory and eyewitness testimony. Invited colloquium, Department 
+Goodman, G.S. Children's testimony in child abuse cases. Invited address. Conference on Child 
+Goodman, G. S. Child abuse and children's testimony. Invited colloquium. Human Development 
+Goodman, G. S. Children's testimony: Accuracy and Impact. Invited colloquium, Department of 
+Goodman, G. S. Child abuse and children's testimony: Current research findings. Invited 
+Goodman, G. S. Social and cognitive influences on children's testimony. Invited colloquium. 
+Goodman, G. S. An overview of current research on children's testimony. Two invited addresses to 
+Goodman, G. S. Understanding children's testimony. Invited address. New York Society for the 
+Goodman, G. S. Understanding children's testimony. Invited address, Division 7 (Developmental 
+Goodman, G. S. Advances in the study of children's testimony. Invited address, Eastern 
+testimony. Italy, May, 1992. 
+Goodman, G. S. Effects of closed circuit television on children's testimony and jurors’ decisions. 
+influences on children's testimony. Center for the Study of Child Abuse, University of 
+Goodman, G.S. The ritual abuse scare: Eyewitness testimony, repressed memory, and child 
+Goodman, G. S. (1998). Testimony about childhood events: Psychological, legal, and social policy 
+Goodman, G. S. (2003, August). Child maltreatment and child testimony. Nicholas Hobbs Award 
+Goodman, G. S. (2010, July). Children’s testimony. European Association of Psychology and Law. 
+Goodman, G. S. (2013, February). Children’s eyewitness memory and testimony. Invited address 
+XVI. STATE/COUNTY/COUNTRY REPORTS AND TESTIMONY 
+as for various state counties and countries. | have also testified as an expert in State and Federal Courts, 
+and given reports and/or testimony to countries’ Supreme Courts. 
+Development, Psychology and Law, Eyewitness Testimony, Child Witnesses, Victimization. 
+Federal Court Testimony 
+Inside Edition is asking if Anthony Weiner is expected to testify against Jeffrey Epstein? 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+Cunniffe's during the interrogation. When it came to trial, neither that tape nor Robert's testimony was allowed 
+because of legal maneuvering by prosecutors. The video tape was suppressed and Robert did not testify due to 
+Robert took the 5th but did submit an affidavit that if he were to testify he would have said Sean did not know 
+documents between Cunniffe and Robert. There were no witnesses who gave testimony on Sean's knowledge 
+Months after Hayat’s arrest, then-director of national intelligence, John D. Negroponte, testified in a 
+testimony at trial. Burrell found that the failure to challenge the validity of the confession by presenting a false 
+Cunniffe's during the interrogation. When it came to trial, neither that tape nor Robert's testimony was allowed 
+because of legal maneuvering by prosecutors. The video tape was suppressed and Robert did not testify due to 
+Robert took the 5th but did submit an affidavit that if he were to testify he would have said Sean did not know 
+documents between Cunniffe and Robert. There were no witnesses who gave testimony on Sean's knowledge 
+Months after Hayat’s arrest, then-director of national intelligence, John D. Negroponte, testified in a 
+testimony at trial. Burrell found that the failure to challenge the validity of the confession by presenting a false 
+2016, the defendant gave deposition testimony in connection with a civil lawsuit in the Southern 
+defendant. The victims are backed up contemporaneous documents, records, witness testimony, 
+evidence included eleven “clearly incriminating video tapes” and testimony from various cooperating witnesses, and 
+the testimony of three individuals about events that allegedly occurred roughly 25 years ago 
+: Let’s just tie that down. Is it your testimony that you've never given anybody a massage? 
+: You never gave Mr. Epstein a massage, is that your testimony? 
+: That is my testimony. 
+: You never gave (J a massage is your testimony? 
+course, those witnesses who do testify at trial would be subject to examination on the record as to 
+testify.’ To the contrary, many alleged victims have already chosen to speak on the record in 
+Ms. Maxwell and others, and to provide deposition testimony and discovery in those suits; and to 
+largely consist of testimony relating to documents (which by their nature are not easily altered)? (4) Is there a 
+prosecution's witnesses will not appear at trial, or will be unwilling to testify at trial? (5) Does the indictment allege 
+to appear or testify’). 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+investigation, and Victim-1 did not testify before the grand jury in SDFL. Victim-1 was 
+will call to testify. See Fed. R. Crim. P. 26.2; United States v. Nobles, 422 U.S. 225 (1975). We 
+potentially testifying at trial. Would it be possible to schedule a call with Dr. Cooper to discuss? 
+interested in speaking with you about your availability to testify at trial. Are you available for a call this week to 
+York. We would be interested in speaking with you about your availability to testify at trial. Are you 
+EXPERT WITNESS CASES—CONSULTATION AND/ OR TESTIMONY 
+48 Grand Jury Testimony audio files dated 7/19/2006 (media 
+Epstein Ducks Victim Testimony With Eve-Of-Trial Settlement 
+trial that was to have featured testimony from the women. Read full article » 
+2016, but only meant to see what traits she intended to testify to and how 
+Prosecutors on Tuesday urged a jury after seven weeks of testimony to 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: | 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+testimony. Superseding Indictment, Doc. # 17 at 29 7 8. 
+case and then “conforming” their testimony in the criminal case to what was disclosed in the 
+105. In sworn testimony at a public hearing on the tax incentive application conducted 
+testimony, and quarterly reports to the EDC, a commission of the Government, regarding the 
+293. These false statements and documents included affidavits, testimony, an 
+testimony, and quarterly reports to the EDC, a commission of the Government, regarding the 
+303. These false statements and documents included affidavits, testimony, an 
+Clerk/Recorder is to appear in person to testify, and produce the requested record, at the U.S. District Court for 
+Court may consider the perpetrator's ability to pay. The DA's office may contact you and ask you to testify at the restitution 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in the following matter: 
+to testify and give evidence in the following matter: 
+Dr. Rocchio is expected to testify, based on her relevant education, training, experience, 
+individuals can facilitate the sexual abuse of minors. Dr. Rocchio is also expected to testify that 
+Dr. Rocchio’s testimony regarding any specific victim. 
+Dr. Rocchio’s expected testimony relies on her education and training on psychological 
+witness that the defendant intends to rely upon, including a written summary of any testimony that 
+' Dr. Rocchio has previously testified in state court and has been deposed in the course of federal 
+and state litigation. As a courtesy, a list of that testimony is also being produced to you today 
+statements of witnesses she will call to testify, including expert witnesses. See Fed. R. Crim. P. 
+2021.11.05 U.S. v Ghislaine Maxwell Non-Testifying Witness Material (Defense).pdf; 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+to testify and give evidence in regard to an alleged violation of : 
+Preska has refused to unseal all of the testimony charged in the indictment, except one question 
+prosecution before Maxwell even testified, it stands to reason that Boies Schiller and the 
+during that deposition and testified truthfully. 
+Sorry for my late response. | have been out of the office all week. | can testify if need be. Let me know if you need 
+Thanks, gg We'd like to identify a records custodian who could testify, in the event that it would be necessary. 
+We'd like someone to sign an affidavit for now, but we'd also like to identify someone who could testify at trial if need be. 
+Sorry for my late response. | have been out of the office all week. | can testify if need be. Let me know if you need 
+Thanks, J} We'd like to identify a records custodian who could testify, in the event that it would be necessary. 
+We'd like someone to sign an affidavit for now, but we'd also like to identify someone who could testify at trial if need be. 
+US attorney-general called to testify on political interference claims 
+because we would be interested in speaking with Dr. JJ about potentially testifying at trial. Would it be possible to 
+longer testify to crimes; indeed, penalties for telling the truth after a settlement 
+Testimony of Three Witnesses 
+the government’s proffer that the testimony of the three accusers would be corroborated by 
+the testimony of the three accusers. The government’s case against Ms. Maxwell therefore rests 
+counts (Counts Two and Four) are based on the testimony of only one witness, Minor Victim-1. 
+Instead, they will testify only that “both [Ms. Maxwell] and Epstein knew and interacted with certain minor victims 
+To: testimony 7 = Nee | 
+Attendee: testimony (eee 
+expect she'll testify on] We would like to have her fly in on[jJand out on the evening off You already 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+Court having received testimony concerning the Program at the hearing held on February 4, 2020, 
+be testifying under a pseudonym. Could you please reach out to him when you can? 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+letter. That will be produced on a hard drive to you. In addition, a supplemental production of testifying witness and 
+non-testifying witness material and exhibits are also ready to send to you. Attached please find the accompanying 
+cover letter and indices. Those materials will be on the hard drive as well. We will also produce the testifying 
+witness and non-testifying witness material and exhibits via USAfx. 
+The Government expects to offer testimony from Computer Forensic Examiner | | 
+(“CART”). Although the Government believes that Examiner testimony will not require 
+provides notice of Examiner anticipated testimony in an abundance of caution. A copy 
+The Government anticipates that, if called as a witness, Examiner oe will testify about 
+' Examiner fae has previously testified regarding similar topics in federal court. As a courtesy, 
+the Government notifies you that Examiner has previously testified in federal court in 
+of those devices. The Government further anticipates that Examiner Es will also testify that 
+defendant intends to rely upon, including a written summary of any testimony that the defendant 
+statements of witnesses she will call to testify, including expert witnesses. See Fed. R. Crim. P. 
+In accordance with the previously provided court order, any victim or witness testifying under a pseudonym should not 
+*OFF-THE-RECORD, AND FOR GUIDANCE ONLY: Several of the government’s anticipated witnesses will be testifying in 
+testimony in the civil case that are still sealed. In light of Judge Nathan's order, we think those should be redacted as 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+testify under oath, and to produce the records called for by the subpoena. Nonetheless, | choose to waive 
+you of the time and date of the appearance, the scope of testimony, any Google Reference 
+and could testify competently thereto if called as a witness. 
+testify relatively early in the trial, and may even get on the stand c= =- = | 
+to testify and give evidence in the following matter: 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+with respect to any acts committed or statements made during or after the meeting or testimony 
+Client testify; and (c) the Government may also use statements made by Client at the meeting to 
+trial. Attached please find a subpoena requiring his testimony at the trial scheduled to begin on November 29, 2021. 
+Our team will let you and know closer to trial what date he will be needed to testify. | expect he will testify 
+to testify and give evidence in the following matter: 
+I'm attaching a trial subpoena requiring J to testify at our trial, which is scheduled to begin on November 29, 
+2021. | expect we will call JJ to testify sometime in early December 2021 during that trial. 
+to testify and give evidence in the following matter: 
+give you a better estimate of when you will likely be called to testify, and we can make arrangements for your travel and 
+to testify and give evidence in the following matter: 
+Subject: Maxwell testifying witness 3500 
+Would you please save the attached pdfs in the respective witness and 3500 folders for the testifying witnesses in each 
+e Discussed schedule for trial prep, mechanics of trial testimony. USAO will pay for 
+Epstein and is nervous about testifying at trial. BB continues to speak with her counselor 
+- prepared for direct testimony 
+Sorry to hear that. You're correct that we didn’t need his testimony. 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+input, and especially from the testimony of victims here today 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+| find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+deposition testimony, that would be a huge help as well: 
+e The cover page of both days of testimony (so the caption and date shows) 
+Q. I want to be sure that I’m clear. Is it your testimony that 
+A. That is my testimony, that is correct. 
+QO. Is it your testimony that you’ve never given anybody a 
+testimony? 
+A. That is my testimony. 
+QO. You never gave [Minor Victim-2] a massage is your testimony? 
+court, after receiving clear and convincing evidence, determines that testimony by the victim would be 
+materially altered if the victim heard other testimony at that proceeding; (4) The right to be reasonably heard at 
+counts of perjury in connection with Maxwell’s testimony in a civil deposition. Trial is set to 
+° Maxwell moves to dismiss the perjury counts because, in her view, her testimony 
+they all would have provided exculpatory testimony were they alive today. Courts have 
+testimony do not justify dismissing an indictment for delay. See, e.g., United States v. Scala, 388 
+provides no indication of what many of these potential witnesses might have testified to. The 
+testimony she suggests the detective might have offered—that witnesses in the Palm Beach 
+relevant circumstances that a jury would have found testimony from Epstein credible even if he 
+had waived his right against self-incrimination and testified on her behalf. See United States v. 
+18 U.S.C. § 1623(a). Testimony is perjurious only if it is knowingly false and is material to the 
+The requirement of knowing falsity requires that a witness believe that their testimony is 
+testimony. The factual disputes relating to materiality are at least enough to preclude pretrial 
+required to testify, trying all counts together could force Maxwell to choose between having her 
+counsel testify on her behalf on the perjury charges and having them assist her in defending the 
+The Second Circuit has recognized that witness testimony offered by a party’s attorney 
+introduce Minor Victim-3’s testimony for impermissible purposes. 
+discovery until that witness has testified on direct examination.” Coppa, 267 F.3d at 145. The 
+proffered co-conspirator testimony following the Government’s Jencks Act disclosures. 
+Maxwell at least six weeks to investigate testifying witness statements—allows Maxwell 
+to non-testifying witnesses. After considering the circumstances, including the complexity of the 
+co-conspirator statements; non-testifying witness statements; testifying witness statements; the 
+clients testify, Maxwell presumably could request that the Court issue a subpoena to require 
+to Maxwell, if appropriate, at the conclusion of each witness’s direct testimony. See United 
+ultimately testify in this action. 
+incentives to testify in a particular way. That argument demonstrates that the documents are 
+when those witnesses testify. She presents no other nonconclusory basis as to why they are 
+conclusion of each witness’s direct testimony. See Giampa, 1992 WL 296440, at *3; Ferguson, 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+| am willing to testify, and provide evidence and/or more detailed descriptions of events. 
+prison time, even though they had grand jury testimony from victims—including Evelyn Yang—eager 
+produced, answers to interrogatories, responses to requests for admission, deposition testimony, 
+Comm'n v. TheStreet.com, 273 F.3d 222 (2d Cir. 2001) (holding pretrial deposition testimony were not “judicial documents”); 
+the GX number in them. I'm sending them to counsel for JP Morgan to discuss having a records custodian testify. Thanks! 
+testify if the case went to trial, which I was willing and anxious to 
+to testify and give evidence in the following matter: 
+| met wit and | need time to evaluate matter ing the subpoena to testify before the Grand Jury 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+With that being said, I just testified earlier this week in a Daubert Hearing for Federal Prosecutor I : 
+sheds light in the content of my testimony. Similarly, the trial transcript for this case, where I testified for the 
+New York. We would be interested in speaking with you about your availability to testify at trial. Are 
+testimony. Note that witnesses may only be sah in ‘under the FEWS il eS for grand j jury testimony, ¢ court testimony, 
+has been scheduled and cE witness is intended to testify. Any other witness travel for investigative interviews must be covered 
+testimony. Note that witnesses may only be sah in ‘under the FEWS il eS for grand j jury — court testimony, 
+has been scheduled and the witness is intended to testify. Any other witness travel for investigative interviews must be covered 
+and Mr. testimony in the Maxwell case. 
+testimony), no mandate has issued or documents been unsealed. 
+pertaining to the , Which might corroborate some of his testimony, 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+As you know, Maxwell previously testified that Epstein was not paying for anything associated with her or any litigation. 
+payment. As you know, Maxwell previously testified that Epstein was not paying for anything associated with her or any 
+to testify and give evidence in the following matter: 
+Thanks for chatting yesterday. As discussed, here is a list of potential testifying witnesses for you to check for in your 
+A Utah judge this week began to hear testimony from lawyers for a death row inmate 
+“mitigating” testimony during the penalty phase of his 2015 capital trial. sant LAKE city 
+‘The report is my testimony’: Mueller would not provide Congress new information 
+month could get him out of testifying before Congress about 
+“The report is my testimony,” the former special counsel said on 
+May 29. “Any testimony from this office would not go beyond our 
+He's testified before Congress more than 50 times, including during 
+Asked about Mueller testimony, Trump pivots to Mueller’s ‘conflicts’ of interest 
+testimony moves the needle in the polls. As Pelosi loves to say, 
+expected to accompany their former boss and testify in closed 
+-- No matter what happens, Mueller’s testimony won’t clear the 
+Office of Special Counsel, is scheduled to testify Wednesday about 
+invited Conway to testify, plan to vote to subpoena her if she fails to 
+testimony to a PBS correspondent: 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+Thanks for your email. | am tied up for much of this week with a testifying witness, but should be able to speak to 
+> subpoena to testify before the Grand 
+I met with and | need time to evaluate matters. Regarding the subpoena to testify before the Grand 
+the criminal prosecution. Of course, if four victims all testify consistently that they were not 
+will testify about, among other things, certain documentary evidence relating to the charged 
+crimes. The Government further anticipates that Ms. will testify about her role in 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made false 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, Maxwell 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+court proceeding, unless the court, after receiving clear and convincing evidence, determines that testimony by the 
+victim would be materially altered if the victim heard other testimony at that proceeding; (4) The right to be reasonably 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+herein, when providing testimony under oath in 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+Ms. Maxwell, charging her with, among other things, perjury in her deposition testimony. 
+by “repeatedly provid[ing] false and perjurious statements” in deposition testimony. 
+Ms. Maxwell gave false testimony (a) when she testified “I don’t know what you’ re talking 
+girls for sexual massages . . . [i]f you know”; and (b) when she testified, “I’m not aware of 
+Second Circuit. The transcript containing this testimony is sealed. 
+speculated that the pretrial deposition testimony might be relevant to its 
+completeness of testimony given by witnesses in the Government’s 
+deposition testimony had been given in reliance upon the protective order, thus rendering 
+In the present case the deponents testified in reliance upon the Rule 26(c) 
+protective order, absent which they may have refused to testify. . . . [T]he 
+testimony in civil litigation, thus undermining a procedural system that has 
+In short, witnesses might be expected frequently to refuse to testify pursuant to 
+protective orders if their testimony were to be made available to the 
+protected testimony for possible use in a criminal investigation, either as evidence or as the 
+necessitate Defense production of evidence surrounding the photographs including testimony 
+Maxwell and Mr. Epstein, that fact is provable by other photographs and testimony. 
+Forensic Assessment, Forensic Consultation, Expert Testimony 
+Psychological Evaluation and Testimony in Cases of Clergy or Teacher Sexual 
+Forensic Consultation, Expertise & Testimony 
+Testifying Witness Material pamiae hp 
+We have a supplemental production of testifying witness and non-testifying witness material ready to send to you. 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+| 3802002 | 2021.02.01 fTestimonydisclosure CC‘ OLB 
+to testify and give evidence in the following matter: 
+to” witnesses who are expected to testify at trial, and for whom the Government has various 
+subpoenas for records are quite unlike subpoenas for trial testimony: they can be made returnable 
+for trial testimony. 
+Future Testimony 
+request that the witness be asked if he is willing to testify in U.S. criminal proceedings in the 
+testimony given after the meeting; or (b) if, at any time following the meeting, Client becomes a 
+examination should Client testify; and (c) the Government may also use statements made by 
+witnesses testify about it. I would think this could be released after trial. 
+likely be produced in some fashion after trial, and relate to topics that witnesses will testify 
+likely be produced in some fashion after trial, and relate to topics that witnesses will testify 
+likely be produced in some fashion after trial, and relate to topics that witnesses will testify 
+counts of perjury in connection with Maxwell’s testimony in a civil deposition. Trial is set to 
+° Maxwell moves to dismiss the perjury counts because, in her view, her testimony 
+they all would have provided exculpatory testimony were they alive today. Courts have 
+testimony do not justify dismissing an indictment for delay. See, e.g., United States v. Scala, 388 
+provides no indication of what many of these potential witnesses might have testified to. The 
+testimony she suggests the detective might have offered—that witnesses in the Palm Beach 
+relevant circumstances that a jury would have found testimony from Epstein credible even if he 
+had waived his right against self-incrimination and testified on her behalf. See United States v. 
+18 U.S.C. § 1623(a). Testimony is perjurious only if it is knowingly false and is material to the 
+The requirement of knowing falsity requires that a witness believe that their testimony is 
+testimony. The factual disputes relating to materiality are at least enough to preclude pretrial 
+required to testify, trying all counts together could force Maxwell to choose between having her 
+counsel testify on her behalf on the perjury charges and having them assist her in defending the 
+The Second Circuit has recognized that witness testimony offered by a party’s attorney 
+introduce Minor Victim-3’s testimony for impermissible purposes. 
+discovery until that witness has testified on direct examination.” Coppa, 267 F.3d at 145. The 
+proffered co-conspirator testimony following the Government’s Jencks Act disclosures. 
+Maxwell at least six weeks to investigate testifying witness statements—allows Maxwell 
+to non-testifying witnesses. After considering the circumstances, including the complexity of the 
+co-conspirator statements; non-testifying witness statements; testifying witness statements; the 
+A party seeking to obtain records or employee testimony from the Department must first 
+From: testimony <i> 
+evidence in a prosecution for some other offense, provides testimony inconsistent with his responses given in the 
+Art 6 is to be applied to authorize the taking of testimony of a person located in the 
+testimony of a witness in proceedings for which mutual legal assistance is available. The 
+A witness may also refuse to produce documentary evidence or give oral testimony on the 
+documents and/or testimony, though we haven't asked specifically. 
+documents and/or testimony, though we haven't asked specifically. 
+documents and/or testimony, though we haven't asked specifically. 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+to testify and give evidence in the following matter: 
+IN TESTIMONY WHEREOF | Have ser__MY HAND AND SEAL THIS pay or May, 2021 
+Page 2 of DE 149 contains a summary of Ms. Maxwell’s deposition testimony. DE 150-1 
+deposition testimony; DE 150-1; DE 153; and DE 153-1: Identification of 
+personal references in Ms. Maxwell’s deposition testimony excerpts. 
+life into this case and was deposed under a court-ordered guarantee that her testimony would 
+ongoing investigations are a powerful countervailing interest here. The sealed testimony or 
+testimony subject to the Protective Order and references to multiple Non-Party Does including 
+deposition testimony from Non-Party Does.° 
+DE 172 contains multiple references to Ms. Maxwell’s deposition testimony and the 
+deposition testimony of one other Non-Party taken pursuant to the Protective Order. See pp. 2, 4-8 
+paragraph quoting the deposition testimony of a Non-Party taken pursuant to the Protective Order 
+DE 190 and 190-1 relate to deposition testimony by Plaintiff. Ms. Maxwell has no 
+testimony taken from Non-Party Does and should remain sealed based on countervailing interests 
+DE 204 and 204-1 relate to the deposition testimony of three Non-Party Does including J. 
+Doe |. All of the references to the Non-Parties and the testimony should remain sealed based on 
+the countervailing interests discussed above. Exhibit | to DE 204 is the testimony of a J. Doe, yet 
+Protective Order. Exhibit 3 to DE 204-1 is deposition testimony taken of J. Doe | pursuant to the 
+reference Non-Party Does and refer in some instances to Non-Party deposition testimony taken 
+Attached please find a letter motion to file a reply in support of the Government’s motion to preclude the testimony of Dr. 
+Subject: Testifying witness notes 
+Would one of you please save the attached in the testifying witness 3500 folder and the witness folder for Larry Visoski on 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+custodian testifying at trial? 
+Victim 3.” All three individuals are expected to testify for the government at trial. 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+uncovering admissible evidence, aiding witness preparation, corroborating testimony, or assisting 
+Q: I want to make sure that I’m clear. Is it your testimony that in the 1990s and 
+A: That is my testimony, that is correct. 
+Attachments: Rocchio Daubert Hearing Testimony Redacted.pdf 
+Is there anyway for me to get a transcript of my testimony? 
+2021.11.20 U.S. v_ Maxwell Non-Testifying Witness Material Index (Defense).pdf; 
+That will be produced on a hard drive to you. In addition, a supplemental production of testifying witness and non- 
+testifying witness material and exhibits are also ready to send to you. Attached please find the accompanying cover letter 
+and indices. Those materials will be on the hard drive as well. We will also produce the testifying witness and non- 
+testifying witness material and exhibits via USAfx. 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+will be testifying in this trial using a pseudonym or first name. The Court granted a Government motion 
+to permit certain witnesses and certain non-testifying 
+allegations of sex abuse, to testify or be referred to by 
+testifying about abuse that allegedly occurred when they were 
+publicity trial involving adults testifying about sex abuse as 
+involving at least one adult testifying about sex abuse as 
+case involving an adult testifying about sex abuse as a minor; 
+testifying about sex trafficking as minors; United States v. 
+District case from 2016 involving adults and adults testifying 
+chill their willingness to testify for fear of having their 
+will “testify in explicit detail and/or be the subject of 
+highly sensitive and personal testimony concerning illegal 
+regarding witnesses testifying under pseudonyms or under their first name only, and (4) address 
+You may have noticed during yesterday's testimony that the witness used first 
+At this trial, certain witnesses will be testifying under their first name only. Other 
+witnesses will be testifying under pseudonyms — that is, under different names. 
+yesterday's testimony that the witness used first names of 
+protected to which they may refer while testifying. 
+will be permitted to testify either using pseudonyms or only using 
+a company may be admissible as business records of that company if witnesses testify that the records are integrated into 
+e Exhibit A to Motion 4 (grand jury testimony) 
+e Exhibit B to Motion 4 (grand jury testimony) 
+Subject: RE: Testifying Witness Questions 
+Subject: [EXTERNAL EMAIL] - Testifying Witness Questions 
+Subject: FW: Maxwell testifying witness folder 
+GE 3500 assuming we call her to testify just about the seizure of this evidence. 
+Subject: Maxwell testifying witness folder 
+Would you please create a testifying witness folder for MG and save the two attached pdfs in the relevant 
+. You used the phrase in your testimony 
+2 You've testified earlier that you and ia 
+20 who was nude, do you recall that testimony? 
+21 Q. So, if] understand your testimony 
+2 Q. So, if I recall your testimony this 
+11 you, if | got your testimony right -- 
+else about the possibility of testifying in this 
+25 Q. But in fact as you testified earlier, you 
+21 to the testimony -- 
+18 testified about earlier with B. Now, during this 
+8 your testimony that you were able to go to a drug 
+Papers from Miami case file (grand jury testimony): This is a disk — | can copy it and send it over to you. 
+[3] We would be grateful if you would confirm the areas of testimony that you would wish the Duke’s witness 
+in a prosecution for some other offense, provides testimony inconsistent with his responses given in the voluntary 
+guilty to racketeering, narcotics, and firearms-related offenses, testified in September 20109 at the 
+Papers from Miami case file (grand jury testimony): This is a disk — | can copy it and send it over to you. 
+Papers from Miami case file (grand jury testimony): This is a disk — | can copy it and send it over to you. 
+Department of Justice, so that no additional evidence or potential testimony is 
+to a speedy trial. Psychological expert testimony was sought as part of these 
+Children’s Testimony: A Handbook of Psychological Research and Forensic Practice, Westcott 
+DPH. 2005. Childhood sexual assault victims: Long term outcomes after testifying in criminal 
+%A0110 (Rev. 04/07) Subpoena to Testify Before Grand Jury 
+YOU ARE HEREBY COMMANDED to appear and testify before the Grand Jury of the United States District 
+AOII0 (Rev. 04/07) Subpoena to Testify Before Grand Jury 
+On the last business day BEFORE you travel to testify, call Special Agent with FBI, ‘iim: verify your exact 
+When you are advised that you have completed your testimony and your attendance is no longer required, you should request information 
+down following the testimony of 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+yeah they don’t testify. 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made false 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+all of this evidence — the voluminous and credible testimony of individuals who were sexually 
+herein, when providing testimony under oath in 2016. 
+taken an oath to testify truthfully in a deposition in 
+false testimony: | 
+taken an oath to testify truthfully in a deposition in 
+false testimony: 
+testimony that in the 1990s and 2000s, you were 
+A. That is my testimony, that is correct. 
+Q. Is it your testimony that you’ve never given 
+your testimony? 
+A. That is my testimony. 
+testimony? 
+with respect to any acts committed or statements made during or after the meeting or testimony 
+Client testify; and (c) the Government may also use statements made by Client at the meeting to 
+tomorrow if necessary -- noon is middle of Cohen testimony. 
+testimony on similar matters in the criminal trial; (ii) subjecting the defendant to a deposition on 
+testimony of these witnesses could severely impair the criminal prosecution. First, such witnesses 
+may be forced to testify about any efforts to assist the criminal investigation and prosecution, and 
+to seek a preview of trial testimony in the criminal case, and would afford her with a broader array 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+Subject: Fwd: Expert Testimony 
+Subject: Re: Expert Testimony 
+testify as an expert witness at trial. Are you available for a call tomorrow or next week to discuss? 
+Subject: RE: Expert Testimony 
+Subject: Fwd: Expert Testimony 
+Subject: Ke: Expert Testimony 
+testify as an expert witness at trial. Are you available for a call tomorrow or next week to discuss? 
+Subject: Re: Expert Testimony 
+to testify as an expert witness at trial. Are you available for a call tomorrow or next week to discuss? 
+A. Pratt (Chair) Forensic assessment and testimony: Psychological trauma. A workshop presentation at the 
+Dutton, M.A. and Hughes, D.M. (April 13, 2015). Expert Witness Testimony in Cases Involving Domestic 
+Hughes, D.M. (December 2001). Relevance of domestic violence in the courtroom: Expert testimony in a duress 
+preparation of written reports/affidavits/ declarations, deposition and testimony preparation, 
+Court and deposition testimony are billed in full or half-day increments at the hourly rate of 
+Payment is required at least 72 hours in advance. In the event that a deposition/ testimony is 
+allotted for said testimony as Dr. Hughes’ schedule is made far in advance. In addition, if 
+government's witnesses, who are not alleged victims themselves, may testify under pseudonyms because the 
+will be testifying in this trial using a pseudonym or first name. The Court granted a Government motion 
+2021.11.19 Maxwell Response to Gov Motion to Preclude Expert Testimony.pdf; 
+IN SUPPORT OF ITS MOTION IN LIMINE TO PRECLUDE EXPERT TESTIMONY 
+Il. THE COURT SHOULD PRECLUDE THE TESTIMONY OF DR. RYAN HALL ........ 4 
+Dz. Dr. Hall's Fact Testimony Is Inadmissible............0. ccc cceeceeseeteceeeeseceeeeeeceeseeseeeeeseeaeeaeeaseasees 15 
+III. THE COURT SHOULD PRECLUDE THE TESTIMONY OF BENNETT 
+TESTIMONY, THE DEFENDANT SHOULD BE REQUIRED TO PROVIDE SUPPLEMENTAL 
+notice identifies topics on which the experts might testify. The Government is therefore not able 
+supplemental expert notice forthwith or preclude these witnesses from testifying. 
+defendant “must. . . give to the government a written summary of any [expert] testimony that 
+' As described below, however, insofar as two of these witnesses will testify as fact witnesses 
+testimony on Daubert grounds. 
+often results from unexpected expert testimony, reduce the need for continuances, and to provide 
+the opponent with a fair opportunity to test the merit of the expert’s testimony through focused 
+Evidence 702;” (2) a “summary of the expected testimony,” which “permit[s] more complete 
+which the expert will testify is insufficient; rather, the summary must reveal the expert’s actual 
+As the Court is well aware, a properly noticed expert witness may then testify if such 
+testimony complies with Federal Rule of Evidence 702. Accordingly, before admitting expert 
+testimony, the Court must conclude that (1) the witness is qualified to be an expert, (2) the 
+proposed expert testimony is reliable, and (3) the proposed testimony is relevant. See Daubert 
+381, 396 n.11 (2d Cir. 2005). “Expert testimony which does not relate to any issue in the case 
+omitted). The party that proffers the testimony bears the burden of showing that it is admissible 
+Court “must consider whether an expert’s proposed testimony would usurp the province of the 
+II. THE COURT SHOULD PRECLUDE THE TESTIMONY OF DR. RYAN HALL 
+This Court should exclude Dr. Hall’s testimony. As disclosed, his expert opinionlfg 
+a Dr. Hall’s proffered fact testimony should also be 
+In addition to testifying abou 
+Minor Victim-4’s ability to testify accurately. (See supra at 5 to 11). And to the extent Dr. Hall 
+would testify about any undisclosed significance to his opinions, the failure to disclose that 
+testimony itself renders it inadmissible. 
+The party proposing to call an expert must provide “a written summary of any testimony 
+disclose what his testimony will be, not just the topics about which he will testify. See United 
+identifying the general topics about which the expert will testify is insufficient; rather, the 
+(7th Cir. 2001) (“The Rule requires a summary of the expected testimony, not a list of topics.”). 
+some undisclosed significance, his testimony should be excluded. See Ulbricht, 2015 WL 413318, 
+at *5 (collecting cases concerning the exclusion of expert testimony for insufficient notice).* 
+D. Dr. Hall’s Fact Testimony Is Inadmissible 
+basis, Dr. Hall would testify about [is 
+testimony, the Government would not object to a foundational account of how he evaluated Minor 
+Victim-4. The defendant has not, however, identified any admissible substantive testimony from 
+testimony based solely on the inadequacy of the defendant’s disclosures and the lateness of any 
+Government does not expect that Minor Victim-4’s testimony will be contradicted by statements 
+she made to Dr. Hall. And to be clear, Minor Victim-4’s expected testimony about the defendant's 
+In addition, the defendant does not need Dr. Hall’s testimony to inform the jury that Minor 
+194). But at present, the defendant has identified no relevant fact testimony that Dr. Hall could 
+offer. Because his expert testimony is similarly inadmissible, he should be excluded as a witness 
+'" To be clear, although Dr. Hall could conceivably testify as to his recollection of some prior 
+761 F. Supp. 2d at 117-18, 120 (excluding testimony about prior witness interviews offered as 
+Il, THE COURT SHOULD PRECLUDE THE TESTIMONY OF BENNETT 
+the following testimony: 
+We expect Professor Gershman to provide testimony on best 
+This testimony should be precluded as irrelevant. At the conference on November 1, 2021, 
+Gershman’s proposed testimony is relevant only to the defense theories that the Court has 
+precluded. This testimony invites the jury to conclude that either the New York investigation or 
+Even if this testimony was not plainly barred by the Court’s prior ruling, it should still be 
+discussion and not Gershman’s opinions, and it does not identify the bases for his testimony— 
+testimony. In a recent case, however, Gershman attempted to offer precisely the sort of testimony 
+Aug. 5, 2021) (excluding Gershman’s testimony in a civil case that, inter alia, “the SEC 
+The Court should not permit expert testimony on those subjects. 
+TESTIMONY, THE DEFENDANT SHOULD BE REQUIRED TO PROVIDE 
+testify about computer forensics; pi ool who would testify about financial records; and two 
+expected testimony and the bases for that testimony. Insofar as Kelso and Jj will testify as 
+fact witnesses, the Government does not object to that testimony. If they are expected to testify as 
+experts, however, and before any testimony by the forensic document specialists, the defense must 
+The defendant anticipates calling Robert Kelso, a computer forensics specialist, to testify 
+photographs. He may also testify generally about computer 
+from the metadata. Mr. Kelso may testify in rebuttal to an 
+testimony offered by the government through pee 
+Similarly, the defendant anticipates [ie a financial investigator, to testify about: 
+that testimony is not expert testimony, and therefore its admission is not precluded by Rule 702. 
+BE. 20 FB! computer forensic examiner who will testify as a fact witness about his 
+To the extent Kelso and =z would testify based on their “scientific, technical, or other 
+specialized knowledge,” however, that testimony is expert testimony. /d. (quoting Fed. R. Evid. 
+702(a)). And any such testimony is not reflected in the expert notice. These expert notices provide 
+Rule 16. Ulbricht, 858 F.3d at 115. For instance, the notice for Kelso states that he will testify 
+testify “about user data associated with certain devices seized and searched by the government’s 
+GE testified, including United States y. Kelly, 19 Cr. 286 (AMD) (E.D.N.Y.). 
+Accordingly, the Court should preclude expert testimony from Kelso and te unless and 
+does not do so, those witnesses should be limited to purely factual testimony. See Lebedev, 932 
+testimony on the analysis as needed. 
+testimony to facts in the record. Experts—but not other witnesses—may rely on facts or data that 
+purportedly awaited or topics of testimony, besides documents that “may require analysis,” leading 
+to whatever testimony is “needed.” (Ex. A at 13-14). This is plainly inadequate under the rules, 
+testimony about unidentified documents at this time. 
+that may stretch into trial and would far exceed the scope any actual testimony that may be 
+preclude the testimony of Dr. Ryan Hall and Bennett Gershman; preclude any expert testimony 
+(as opposed to fact testimony) by Robert Kelso or |: and preclude any testimony at all 
+Testifying\Production 11 
+Testifying\Production 11 
+custodian testifying at trial? 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+custodian testifying at trial? 
+Testifying Witness Material (Defense Copy).pdf 
+In additional, a supplemental production of testifying witness and non-testifying witness material is also ready to send to 
+e Exhibit A to Motion 4 (grand jury testimony) 
+e Exhibit B to Motion 4 (grand jury testimony) 
+Subject: US v. Maxwell, 20 Cr. 330 (AJN) - non-testifying witness production 
+Testifying Witness Material Index (Defense Copy).pdf 
+A supplemental production of non-testifying witness material is now ready to produce. Attached please find the cover 
+| hope you had a great weekend! They've been saved in the MM testifying witness 3500 and witness folder. 
+Would one of you please save the attached 2 pdfs in the testifying witness 3500 and witness folders for J on 
+Expense Types Not Reimbursable from the AFF: Expert/witness testimony or travel related expenses (may be 
+Would you please add the attached to EJ testifying witness folder on the Epstein share? 
+will call to testify. See Fed. R. Crim. P. 26.2; United States v. Nobles, 422 U.S. 225 (1975). We 
+material, regarding the witnesses who may be called to testify at trial in the above-referenced case. 
+testified in the grand jury in connection with the investigation conducted by the Palm Beach State's 
+unplayable and, therefore, there is no record 0 srand jury testimony. 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+by non-testifying witness about Minor Victim-4. In particula: as previously 
+ae. contained in the Government's non-testifying witness productions, including in the first 
+witnesses that the Government may call to testify at trial in the above-referenced case: 
+travels to New York for trial testimony. 
+ravels to New York to testify at trial. 
+New York to testify at trial. 
+York to testify at trial. 
+to New York to testify at trial. 
+New York to testify at trial. 
+testimony. 
+New York to testify at trial. 
+employer regarding dates of future trial preparation sessions and trial testimony. 
+testify at trial. 
+testify at trial. 
+testify at trial. 
+and hotel accommodations in New York City in connection with the tnal testimony of 
+the witnesses the Government anticipates testifying at the trial. Such arrangements 
+hotel expenses for trial testimony for at least the following individuals: 
+Jeff Bezos, Mark Zuckerberg, Sundar Pichai and Tim Cook will testify to 
+testify. Zuckerberg and Sheryl Sandberg are set to meet civil rights leaders 
+Expense Types Not Reimbursable from the AFF: Expert/witness testimony or travel related expenses (may be 
+Epstein Ducks Victim Testimony With Eve-Of-Trial Settlement 
+trial that was to have featured testimony from the women. Read full article » 
+Prosecutors on Tuesday urged a jury after seven weeks of testimony to 
+A party seeking to obtain records or employee testimony from the Department must first 
+It was a pleasure talking to you today. As we discussed, | am authorized to accept service of the subpoena for testimony 
+either appear or proffer, either in advance or in lieu of any testimony. 
+interrogatories or give deposition testimony absent further_order of the Court. /d., 
+Ms. Maxwell’s sealed civil deposition testimony in v. Maxwell, 15-cv-7433. 
+government in the criminal case. Such discovery might include testimony of the 
+direct quotes from her civil deposition testimony that is both under seal and subject to 
+Papers from Miami case file (grand jury testimony): This is a disk — | can copy it and send it over to you. 
+witnesses’ expected testimony, the government argues that it is necessary to conceal their identity 
+“Witness-1”) to protect the privacy interests of third parties unless and until they testify publicly. 
+He could testify to what he saw, but certainly cannot testify to what she felt. 
+to testify and give evidence in regard to alleged violations of federal criminal law, including: 
+our productions of non-testifying witness statements. 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+e In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+our productions of non-testifying witness statements. 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+Dr. Rocchio’s testimony is based on her education as well as her training, experience, and 
+number of factors. Dr. Rocchio can testify about the research regarding the various factors 
+Dr. Rocchio’s testimony relies on her education and training on psychological trauma, 
+Prepare Testimony 
+Court Testimony 
+functioning as independent contractors, to conduct record reviews and data analyses in preparation for testimony in person or by 
+written report and to provide such testimony in court or by trial deposition. In this particular case, the USAO has determined that 
+an expert witness is necessary to testify in litigation for the government and such services are not available from the agency being 
+prepare testimony, testify, and other work pertinent to the case. 
+and in connection with such services agrees to perform such document review, studies and research so as to be able to testify in person 
+Testify as an expert witness during the trial either in person or by written report, unless notified to the contrary by the AUSA, and 
+Assist the USAO in the obtaining of one or more additional expert witnesses, as needed to support the testimony of the contractor 
+and the specific hours to be worked by the contractor except when the contractor's testimony is required at a specific time and place. 
+and written opinions, the signing of affidavits, giving depositions or courtroom testimony under oath and directly consulting with the 
+Government anticipates that this case will proceed ot trial. At trial, Dr. Rocchio will serve as a testifying expert to explain various 
+topics related sexual abuse and trauma. Specifically, Dr. Rocchio will serve as a testifying expert, based on her professional 
+In advance of her trial testimony, Dr. Rocchio will meet with the Government for preparation sessions; assist the Government in 
+responding to motions related to her expert testimony, as needed; and review any materials provided by the Government, or other 
+relevant materials relevant to the above subject matters as necessary in advance of her testimony. 
+working on the case, in order to facilitate the testimony to be provided by the expert in person or by written report, unless notified 
+information, such as support staff needed to assist in the preparation of testimony in person or by written report. The Contractor shall 
+use and derivative use immunity provides protection “from the use of compelled testimony, as 
+voluntary decision about whether to testify and or to assert her right to remain silent. U.S. 
+defendant the right to testify in her defense); Brown v. Artuz, 124 F.3d 73, 78 (2d Cir. 1997) 
+(wavier of the right to testify must be knowing and voluntary). Ms. Maxwell’s decision 
+whether to testify is personal and fundamental. /d. (“[T]he decision whether to testify belongs 
+right to testify unless they too know the legal ramification of testifying or remaining silent. /d. 
+at 79 (defense counsel must “advise the defendant about the benefits and hazards of testifying 
+and of not testifying”). These considerations necessitate resolution of Ms. Maxwell’s motions 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in regard to an alleged violation of : 
+Subject: RE: Testifying witness notes 
+Subject: RE: Testifying witness notes 
+All set, it’s been added to both folders. On a related note, do we have a set deadline for producing testifying witness 3500 
+Subject: Testifying witness notes 
+Would one of you please save the attached in the testifying witness 3500 folder and the witness folder for Larry Visoski on 
+Subject: RE: Testifying witness notes 
+Subject: RE: Testifying witness notes 
+Subject: RE: Testifying witness notes 
+All set, it’s been added to both folders. On a related note, do we have a set deadline for producing testifying witness 3500 
+Subject: Testifying witness notes 
+Would one of you please save the attached in the testifying witness 3500 folder and the witness folder for Larry Visoski on 
+for E EE husband, and three minor children to travel with her to New York for her testimony and 
+She is willing to commit to testify but she definitely wants her husband and children with her when in NY for trial in July. 
+are going to expand our case to includefiitestimony. 
+I'm just checking in to see whether{ifhas made a decision about whether she would be willing to testify at our 
+Could you please create a potential testifying witness folder for IM and include the attached items? 
+Mr. QM testimony in the Maxwell case. 
+testimony), no mandate has issued or documents been unsealed. 
+pertaining to the which might corroborate some of his testimony, 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+Forensic Assessment, Forensic Consultation, Expert Testimony 
+Psychological Evaluation and Testimony in Cases of Clergy or Teacher Sexual 
+Forensic Consultation, Expertise & Testimony 
+Disclosure of testimony as of 2/1/2021 
+e Deposition testimony on 12/11/2020 in the matter of C.C v. County of Warren et. al. 
+e Deposition testimony on 12/11/2020 in the matter of R.M. vy County of Warren, et. al. 
+e Deposition testimony on 8/23/2019 in the matter of: State of NH v. Hugh MacDonald 
+e Trial testimony on 6/12/2019 in the matter of: Commonwealth of MA v.. Erika Murray 
+e Deposition Testimony in 2011 in the matter of Donna MacAuliffe, Plaintiff, v. Leanard 
+e Trial testimony in 2002 in the matter of State of RI v. Joy Carter 
+psychotherapy, also has done legal consultation; forensic evaluations; expert testimony in 
+e §=Recently testified in criminal trial in Massachusetts last year; only testified twice (only 
+o Incase testified about intimate partner violence, explained that intimate partner 
+e = Will try to find out if judge was asked to rule if testified as expert for any of her depositions 
+Q: Let's just tie that down. Is it your testimony that you've never given anybody a massage? 
+Q: You never gave Mr. Epstein a massage, is that your testimony? 
+A: That is my testimony. 
+Q: You never cave a massage is your testimony? 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+to testify in United States v. Ghislaine Maxwell case pending in the SDNY. 
+Ms. (RR has conveyed some concerns about her inability to properly prepare for her testimony whether for the 
+preparation to the FD-302 written that she may be called to testify about. ( | will be able to elaborate via tel/cal with 
+to testify in United States v. Ghislaine Maxwell case pending in the SDNY. 
+Ms. bas conveyed some concerns about her inability to properly prepare for her testimony whether for the 
+preparation to the FD-302 written that she may be called to testify about. (| will be able to elaborate via tel/cal with you). 
+21 examined and testified as follows: 
+testimony presented to the grand jury. 
+with respect to any acts committed or statements made during or after the meeting or testimony 
+Client testify; and (c) the Government may also use statements made by Client at the meeting to 
+from California, so he'll need to travel to NY on 11/27 in order to meet with me on 11/28. | expect he'll testify on 11/29, 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+he'll testify on 12/2, but he could possible bleed over into 12/3, so I'd like to have him fly in on 12/1 and out on the 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+We have a supplemental production of testifying witness material, which | have attached to this email, along with an 
+“GEE ) testified that both Jane Doe 1 and Jane Doe 2 received letters describing their rights 
+court, after receiving clear and convincing evidence, determines that testimony by the 
+victim would be materially altered if the victim heard other testimony at that 
+will call to testify. See Fed. R. Crim. P. 26.2; United States v. Nobles, 422 U.S. 225 (1975). We 
+can testify. 
+mansion to engage in sexual acts. They have not had the opportunity to testify in court in any proceeding thus 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+jury testimony, and we hope to pursue [J as a witness in this case. Our understanding is that JJ 
+and have provided expert witness testimony. 
+(1951), for the testimony of (1) FBI Special Agent , (2) FBI Special 
+summary of the testimony we seek: 
+“| July 2006 to June 2008. We request testimony from 
+they reviewed, documents they obtained by subpoena, and their testimony before 
+(AJN)). We request testimony from i and concerning the 
+investigative steps taken by the agents, including but not limited to testimony about 
+documents they obtained by subpoena, their testimony before the grand jury, and 
+The testimony of these law enforcement officers is relevant and material to the issues in 
+to exclude any of the Defendant's anticipated witness testimony as disclosed in her November 1, 
+who will be testifying? 
+custodian testifying at trial? 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+regarding witnesses testifying under pseudonyms or under their first name only, and (4) address 
+You may have noticed during yesterday's testimony that the witness used first 
+At this trial, certain witnesses will be testifying under their first name only. Other 
+witnesses will be testifying under pseudonyms — that is, under different names. 
+regarding witnesses testifying under pseudonyms or under their first name only, and (4) address 
+You may have noticed during yesterday's testimony that the witness used first 
+At this trial, certain witnesses will be testifying under their first name only. Other 
+witnesses will be testifying under pseudonyms — that is, under different names. 
+yesterday's testimony that the witness used first names of 
+protected to which they may refer while testifying. 
+other materials they relied upon to prepare their testimony, we have not repeated that information 
+of this evidence — the voluminous and credible testimony of individuals who were sexually abused 
+documents and/or testimony, though we haven't asked specifically. 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or | 
+you please create a new testifying witness folder for him and add these materials? 
+with respect to any acts committed or statements made during or after the meeting or testimony 
+Client testify; and (c) the Government may also use statements made by Client at the meeting to 
+AG TESTIMONY 
+ABC (live updating): https://abcnews. go.com/Politics/barr-testimony-live-updates-ag-faces-questions- 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+testimony of numerous victims, and this case presents the very real possibility that he will go to 
+testimony. Note that witnesses may only be brought in under the FEWS appropriation for grand 
+jury testimony, court testimony, or preparation for same. NB: as to grand jury, this applies only in 
+is intended to testify. Any other witness travel for investigative interviews must be covered by the 
+kinds of issues about whether or not they have to testify. We 
+testimony as confidential. 
+can't believe that this entire testimony is going to be 
+been denied by plaintiff, her own deposition testimony in the 
+asserting her Fifth Amendment privilege. Truthful testimony 
+injustice, to allow the government to convict Maxwell of testifying falsely when the government 
+authority to compel testimony in support of her defense. U.S. CONST. amend. VI. 
+all of this evidence — the voluminous and credible testimony of individuals who were sexually 
+The production [ij uploaded was non-testifying witness 3500. An example page is attached, and includes our 
+\\Usa.doj.gov\cloud\NY S\StAndrews\Shared\USvEpstein-2018R01618\Trial\3500\1. Testifying\Production 
+Would you please create new testifying witness folders for ——————— on the Epstein share and 
+invoke her privilege against compulsory self-incrimination and agreed to testify at her April 
+Count Six of the superseding indictment alleges that Maxwell provided false testimony 
+when she testified during her July 2016 deposition that: (1) she could not recall whether sex toys 
+forthcoming in giving testimony and less willing to settle their disputes.” S.E.C. v. 
+expected frequently to refuse to testify pursuant to protective orders if their testimony were to be 
+conviction when the government mischaracterized the substance of grand jury testimony). 
+injustice, to allow the government to convict Maxwell of testifying falsely when the government 
+authority to compel testimony in support of her defense. U.S. CONST. amend. VI. 
+Subject: RE: Maxwell testifying witness 3500 
+Subject: RE: opie testifying witness 3500 
+Subject: Maxwell testifying witness 3500 
+Would you please save the attached pdfs in the respective witness and 3500 folders for the testifying witnesses in each 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+and include them in the next production? Do not include the photograph of the deposition testimony on page 5. 
+to testify and give evidence in the following matter: 
+We do have the transcripts of their grand jury testimony (although not the AUSA preamble). She is not mentioned in the 
+introductory part of the agent’s testimony where they are walking through the various targets and subjects of the 
+the SDFL investigation, but will take a look to confirm. We also have the grand jury testimony and I’m asking team to 
+confirm that Maxwell was not mentioned in that testimony. 
+Preclude Testimony of Dietz and Loftus] 
+Subject: [EXTERNAL] U.S. v. Maxwell, Case No. 20 Cr. 330 (AJN) [Maxwell's Resp to Govs Motn to Preclude Testimony of 
+Preclude Expert Testimony of Dr. Park Dietz and Dr. Elizabeth Loftus along with supporting documents. Pursuant to our 
+was by me first duly sworn to testify the ? 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or property 
+Subject: Re: Maxwell testifying witness folder 
+G's 3500 assuming we call her to testify just about the seizure of this evidence. 
+Subject: Maxwell testifying witness folder 
+Would you please create a testifying witness folder for MY and save the two attached pdfs in the 
+The Government expects Minor Victim-3 to testify, in substance and in part, that she met 
+counts of perjury in connection with Maxwell’s testimony in a civil deposition. Trial is set to 
+° Maxwell moves to dismiss the perjury counts because, in her view, her testimony 
+they all would have provided exculpatory testimony were they alive today. Courts have 
+testimony do not justify dismissing an indictment for delay. See, e.g., United States v. Scala, 388 
+provides no indication of what many of these potential witnesses might have testified to. The 
+testimony she suggests the detective might have offered—that witnesses in the Palm Beach 
+relevant circumstances that a jury would have found testimony from Epstein credible even if he 
+had waived his right against self-incrimination and testified on her behalf. See United States v. 
+18 U.S.C. § 1623(a). Testimony is perjurious only if it is knowingly false and is material to the 
+The requirement of knowing falsity requires that a witness believe that their testimony is 
+testimony. The factual disputes relating to materiality are at least enough to preclude pretrial 
+required to testify, trying all counts together could force Maxwell to choose between having her 
+counsel testify on her behalf on the perjury charges and having them assist her in defending the 
+The Second Circuit has recognized that witness testimony offered by a party’s attorney 
+introduce Minor Victim-3’s testimony for impermissible purposes. 
+discovery until that witness has testified on direct examination.” Coppa, 267 F.3d at 145. The 
+proffered co-conspirator testimony following the Government’s Jencks Act disclosures. 
+Maxwell at least six weeks to investigate testifying witness statements—allows Maxwell 
+to non-testifying witnesses. After considering the circumstances, including the complexity of the 
+co-conspirator statements; non-testifying witness statements; testifying witness statements; the 
+Testifying\Production §\3527 Visoski, Larry 
+knowledge and, if called and sworn as a witness, I could and would testify as set forth below. 
+will be testifying in this trial using a pseudonym or first name. The Court granted a Government motion 
+recordings of Mr. Avenatti’s testimony at bar proceedings. Mr. Avenatti has not reviewed any 
+to testify and give evidence in the following matter: 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+FORENSIC EXAMINATION / TESTIMONY EXPERIENCE 
+supported expert testimony in Federal Court, Southern District of NY and Eastern District of NY. 
+win work on high-profile fraud cases, testifying Tuesday that these were 
+to testify and give evidence in the following matter: 
+- The content of witness’s statement will be treated in the same manner as testimony taken 
+invoke her privilege against compulsory self-incrimination and agreed to testify at her April 
+Count Six of the superseding indictment alleges that Maxwell provided false testimony 
+when she testified during her July 2016 deposition that: (1) she could not recall whether sex toys 
+forthcoming in giving testimony and less willing to settle their disputes.” S.E.C. v. 
+expected frequently to refuse to testify pursuant to protective orders if their testimony were to be 
+conviction when the government mischaracterized the substance of grand jury testimony). 
+to determine whether to keep under seal testimony that occurred before Chief Judge 
+sealed deposition testimony. Judge Preska has ruled that certain questions and answers are 
+Motions, we limited our proposed redactions to the portions of deposition testimony that 
+it in this mannera meaning entirely different from that which it has when the testimony is 
+Q. Let's just tie that down. It is your testimony that you’ve never 
+Q. You never gave Mr. Epstein a massage, is that your testimony? 
+A. That is my testimony. 
+Q. You never gave [Minor Victim-2] a massage is your testimony? 
+Subject: Maxwell testifying witness materials 
+Attached please find notes from trial prep with testifying witnesses for Maxwell. Would one of you please save these in 
+the 3500 folder and the witness folder for the relevant testifying witness named in the file name for each pdf? 
+Prepared for trial testimony. J previously undisclosed, clarifying, or different recollections 
+Prepared for trial testimony. [J previously undisclosed, clarifying, or different recollections 
+Prepared for trial testimony. Clarified the following: 
+Prepared for trial testimony. [J previously undisclosed, clarifying, or different recollections 
+e Prepared for trial testimony. 
+We do have the transcripts of their grand jury testimony (although not the AUSA preamble). She is not 
+mentioned in the introductory part of the agent’s testimony where they are walking through the various 
+We also have the grand jury testimony and I’m asking team to confirm that Maxwell was not mentioned 
+in that testimony. 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+of protective orders in civil cases is to encourage testimony in 
+In addition, Ms. Maxwell is requesting a bail hearing at which witnesses will testify regarding 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+e In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+not had the opportunity to testify in court in any 
+The defendant faces substantial evidence of guilt founded on the corroborated testimony 
+authorized by law to administer oaths and record testimony pursuant to Federal Rule of Civil 
+deposition may be used to preserve testimony for trial, to obtain discovery, and for any other 
+rights. So if you want substantive testimony you will have to wait. Out of curiosity have any of your clients been criminally 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Subject: testifying witness notes 
+Would you please save the attached pdf in J testifying witness 3500 folder and in his witness folder on the 
+e [At this point, AUSAs | BE joined) Prepared for trial testimony. aa 
+Subject: RE: Expert Testimony 
+availability to testify as an expert witness at trial. Are you available for a call tomorrow or next week to 
+Subject: RE: Expert Testimony 
+Embedded: RE: Expert Testimony.msg 
+Subject: RE: Expert Testimony 
+investigation, and Victim-1 did not testify before the grand jury in SDFL. Victim-1 was 
+will call to testify. See Fed. R. Crim. P. 26.2; United States v. Nobles, 422 U.S. 225 (1975). We 
+witnesses she will call to testify. See Fed. R. Crim. P. 26.2; United States v. Nobles, 422 U.S. 225 
+inspection until said witness has testified on direct examination in the trial of the case.” 18 U.S.C. 
+testimony at trial. See In re U.S., 834 F.2d 283, 284-87 (2d Cir. 1987) (issuing a writ of mandamus 
+Request 6 — A Written Summary of Any Testimony the Government Intends to 
+Government intends to call any expert to testify at trial, the Government will provide appropriate 
+defendant disclose prior statements of witnesses she will call to testify. See Fed. R. Crim. P. 26.2; 
+have to prove that she is not guilty. That means a defendant does not have to testify, or to put on 
+several years. [J was granted immunity by SDFL and provided grand jury testimony as part of the prior 
+for “massages” for several years. J was granted immunity by SDFL and provided grand jury testimony, and 
+potential testimony. Obviously, I am not certain whether any of the information presented is new to you or 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+I find that the affidavit(s), or any recorded testimony, establish probable cause to search and seize the person or 
+to testify and give evidence in the following matter: 
+where her testimony at trial was not ultimately required. Examples of Ms. Richardson's assistance 
+testimony or an in-person proffer, we note that many of the details Ms. Richardson provided were 
+all of this evidence — the voluminous and credible testimony of individuals who were sexually 
+02 SUBPOENA TO TESTIFY BEFORE GRAND JURY PERTAINING TORR 
+70: i SUBPOENA TO TESTIFY 
+YOU ARE HEREBY COMMANDED to appear and testify before the Grand Jury of the United States District 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+to testify and give evidence in the following matter: 
+Papers from Miami case file (grand jury testimony): This is a disk — | can copy it and send it over to you. 
+numerous witnesses are expected to testify at trial, details that are not publicly known or known 
+reasonably be expected to influence witnesses’ potential testimony at trial and/or enable 
+witnesses to alter or shape their testimony to conform to other evidence. 
+expected to testify at trial, as well as information and documents prepared by potential trial 
+2019, will be the subject of trial testimony at the Noe/ trial. 7(A) Returned Records containing 
+prematurely could reasonably be expected to influence witnesses’ potential testimony at trial, 
+allow witnesses to alter or shape their testimony to conform to other evidence, identify potential 
+testimony or evidence. 
+witnesses’ potential testimony at trial, allow witnesses to alter or shape their testimony to 
+influence potential jurors’ perceptions of witness testimony or evidence. 
+10, 2019, will be the subject of witness testimony at the Noe/ trial. 7(A) Returned Records 
+materials prematurely could reasonably be expected to influence witnesses’ potential testimony 
+at trial, allow witnesses to alter or shape their testimony to conform to other evidence, and/or 
+influence potential jurors’ perceptions of witness testimony or evidence. 
+subject of witness testimony, and/or were prepared by witnesses who will testify at trial. 7(A) 
+Premature disclosure of these records could influence the testimony of potential witnesses, 
+including by potentially causing them to alter or shape their testimony to conform to other 
+witness testimony, and/or were prepared by witnesses who will testify at trial. 7(A) Returned 
+testimony at trial, allow witnesses to alter their testimony to conform to other evidence, and/or 
+influence potential jurors’ perceptions of witness testimony or evidence. 
+include information about which numerous witnesses are expected to testify at trial, include 
+those materials could influence witness testimony at trial, or enable witnesses to change or shape 
+their testimony. Premature disclosure of these records and/or the information contained therein 
+could reasonably be expected to influence witnesses’ potential testimony at trial and/or allow 
+witnesses to alter their testimony to conform to other evidence. 
+expected to testify at trial, as well as information and documents authored by potential trial 
+some of the dates in between, will be the subject of witness testimony at the Noel trial. In 
+potential testimony at trial, allow witnesses to alter their testimony to conform to other evidence, 
+or influence potential jurors’ perceptions of witness testimony or evidence. 
+Epstein’s death, may be trial exhibits, the subject of witness testimony, or were prepared by 
+witnesses who will testify at trial. Premature disclosure of these materials could reasonably be 
+expected to influence witnesses’ potential testimony at trial, allow witnesses to alter their 
+testimony to conform to other evidence, or influence potential jurors’ perceptions of witness 
+testimony or evidence. Alternatively, if evidence of Epstein’s July 23, 2019 suicide attempt or 
+of Epstein prepared by BOP may be trial exhibits, the subject of witness testimony, and/or were 
+prepared by witnesses who will testify at trial. Premature disclosure of these records could 
+influence the testimony of potential witnesses, including by potentially causing them to alter or 
+confirm their testimony. In addition, premature disclosure of these records could reasonably be 
+be trial exhibits, the subject of witness testimony, and/or were prepared by witnesses who will 
+testify at trial. Premature disclosure of these materials could reasonably be expected to influence 
+witnesses’ potential testimony at trial, allow witnesses to alter their testimony to conform to 
+other evidence, and/or influence potential jurors’ perceptions of witness testimony or evidence. 
+SHU prepared by BOP may be a trial exhibit, the subject of witness testimony, and/or was 
+prepared by witnesses who will testify at trial. Premature disclosure of this record could 
+reasonably be expected to influence witnesses’ potential testimony at trial and/or allow witnesses 
+to alter their testimony to conform to other evidence. 
+subject of witness testimony at the Noel trial. Their disclosure could influence witness 
+testimony, including by allowing witnesses to alter their testimony to conform to other evidence, 
+or influence potential jurors’ perceptions of witness testimony or evidence. Alternatively, as 
+testimony at the Noel trial. Their disclosure could influence witness testimony, including by 
+allowing witnesses to alter their testimony to conform to other evidence, or influence potential 
+jurors’ perceptions of witness testimony or evidence. Alternatively, as described above, if 
+the anticipated content of witness testimony. More detailed public descriptions could also 
+Tartaglione Records could reasonably be expected to influence witness testimony and/or 
+potential jurors’ perceptions of witness testimony or evidence. 
+witness testimony or jurors’ perceptions, if records are released in part or without full context. 
+Attachments: 2021.11.24 U.S. v_ Maxwell Non-Testifying Witness Material Index (Defense).pdf; 
+Testifying\Production 11 
+Testifying\Production 11 
+Giglio material, regarding witnesses who may be called to testify at trial in the above-referenced 
+Government does not expect to call these individuals to testify at trial. Instead, these materials 
+testify under her own name (and has testified under her own name at the prior bail hearings). 
+In accordance with the previously provided court order, any victim or witness testifying under a pseudonym should 
+testifying in this trial using a pseudonym or first name. The Court granted a Government motion [attached] 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made false 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+a company may be admissible as business records of that company if witnesses testify that the records are integrated into 
+My client SG is willing to give testimony in the above 
+investigation. | believe EE testimony will be helpful to your 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+our productions of non-testifying witness statements. 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+e In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+- EE is the same persons as who is a testifying witness. Would you please move the 
+- Es the same person al, a potential testifying witness. Could you please move those 
+testimony is instrumental in her prosecution. In fact, when | was 
+old’s life if | testified. 
+for this trip. The process of preparing to testify about years of childhood sexual abuse is 
+New York, where we will prepare both and | testify at trial, they will also need 
+court/GJ testimony. 
+e Witnesses may only be brought in under the FEWS appropriation for grand jury testimony that 
+has been scheduled and where the witness is expected to testify before the grand jury; court 
+testimony; or preparation for same. Any other witness travel, e.g., for investigative interviews, 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made false 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+testimony on this topic.) 
+- The content of witness’s statement will be treated in the same manner as testimony taken 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+during the public testimony of witnesses and may be listed on public exhibits introduced at trial. See 
+Would you please put the attached into a non-testifying witness folder for i? 
+in order to secure his testimony. 
+testify against them, and the further prejudicial effect of the sixth applicant's 
+deposition testimony, that would be a huge help as well: 
+e The cover page of both days of testimony (so the caption and date shows) 
+QO. I want to be sure that I’m clear. Is it your testimony that 
+A. That is my testimony, that is correct. 
+QO. Is it your testimony that you’ve never given anybody a 
+testimony? 
+A. That is my testimony. 
+Q. You never gave [Minor Victim-2] a massage is your testimony? 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, Maxwell 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+Additionally, in 2016, while testifying under oath in a civil proceeding, MAXWELL repeatedly made 
+to testify and give evidence in the following matter: 
+to testify and give evidence in the following matter: 
+Would one of you please save the attached 2 pdfs in the testifying witness 3500 and witness folders for i on 
+The Government expects to offer testimony from Computer Forensic Examiner Stephen 
+(“CART”). Although the Government believes that Examiner pe testimony will not require 
+provides notice of Examiner or anticipated testimony in an abundance of caution. A copy 
+The Government anticipates that, if called as a witness, Examiner ee will testify about 
+' Examiner [J has previously testified regarding similar topics in federal court. As a courtesy, 
+the Government notifies you that Examiner has previously testified in federal court in 
+of those devices. The Government further anticipates that Examiner [J will also testify that 
+defendant intends to rely upon, including a written summary of any testimony that the defendant 
+statements of witnesses she will call to testify, including expert witnesses. See Fed. R. Crim. P. 
+Papers from Miami case file (grand jury testimony): This is a disk — | can copy it and send it over to you. 
+examined and testified as follows: 
+testimony Presented to the grand jury. 
+briefly prep about how to testify and what they may want to say during the sentencing portion. Thank you for 
+businessman, is slated to testify to Congress about the Trump Tower Moscow 
+not had the opportunity to testify in court in any 
+The trial was to have featured testimony from some 
+single one of them, it heard testimony from witnesses. Those cases include the 
+federal judge heard emotional testimony Monday from patients who said their 
+of allowing trial testimony about news coverage of his fee fight with a former 
+unfair,” the firm's chairman testified in Boston federal court Wednesday at a 
+longtime Trump attorney's testimony about crimes he committed in dealings 
+Michael Cohen the night before testimony ... 
+13.a. Expert Testimony on Behalf of U.S. 
+13.c. Medical Examination of Plaintiff/Witness/Defendant in Contemplation of Testimony on Behalf of U.S. 
+14.b. Prepare Testimony 
+14.c. Court Testimony 
+testified in his own defense. Read full article » 
+13.a. Expert Testimony on Behalf of U.S. 
+13.c. Medical Examination of Plaintiff/Witness/Defendant in Contemplation of Testimony on Behalf of U.S. 
+14.b. Prepare Testimony 
+14.c. Court Testimony 
+and aerial footage), or are digital recordings of interviews that will be produced as non-testifying witness 
+e In light of our decision to produce non-testifying witness statements beginning on April 12, 2021, we are no longer 
+contents of the electronic media with these non-testifying witness statements, but you are of course welcome to 
+long-running bid to compel testimony from former Trump White House 
+A former ENRC security consultant testified on Wednesday that he regretted 
+A former ENRC security consultant testified on Wednesday that he regretted 
+motives of the testifying BSF lawyers to curry favor with the government. After all, Boies is 
+Maxwell now seeks a new bail hearing at which “witnesses [would] testify regarding the 
+current and former employees of the Palm Beach Police Department who may need to testify at the upcoming trial in our 
+The afternoon session is underway, with testimony from Kurt 
+custodian testifying at trial? 
+If you are selected as a juror, you will be required to be present for the taking of testimony and 
+testify, and that a juror cannot hold it against the defendant if she chooses not to 
+testify. Do you accept this principle, and will you be able to apply it if selected to 
+You may hear testimony in this case that law enforcement officers recovered certain 
+You also may hear testimony in this case from expert witnesses. Have you had any 
+Witnesses in this case may testify claiming sexual abuse or sexual assault. Would 
+witnesses testified that they received no 
+and testimony offered at the evidentiary hearing, in light 
+materials in James Neill’s briefcase. She testified that she 
+However, Stevens testified that on or about November 
+items.’ Fort testified that, on or about December |, 1993, 
+document,’ corroborated Fort’s testimony. See Transcript 
+at 84-85 (Vol. II-B). Fort testified persuasively that he 
+testified that while again reviewing documents that had 
+87 (Vol. I-B). Fort testified that he did not *839 show the 
+electronic files, the agents testified persuasively that they 
+testified at the hearing that they lacked computer skills. 
+Justice’s Fraud Section, testified that she read most (but 
+based upon the evidence and testimony offered at the 
+only for a short time. Fort testified persuasively that he 
+materials, and his testimony was not undermined on 
+prosecution team witnesses testified that, to their 
+Stevens testified that she was unaware of the existence of 
+6 Poole further testified that he “told them that the prosecution team would not review any of the documents as to which claims of 
+9 Agent Brown testified that Fort wanted her to witness that, upon finding the potentially privileged materials, he sealed them 
+Il Neither side called Agent Granger to testify at the evidentiary hearing. 
+privileged materials after defense counsel had reviewed the boxes containing seized material. Fort testified that he was surprised to 
+identified in a document discovered inadvertently), the government witnesses persuasively testified that those entities were known 
+to the investigators prior to the search. This testimony was not surprising. The investigation of the Neills and their business 
+7 The testimony at the hearing indicated that some of the files were printed and read by at least Agent Fort prior to the computer taint 
+would be to fly out on Monday (4/12), conduct two days of interviews to debrief the victim and discuss testifying at trial, 
+Subject: Ex-White House Counsel McGahn Ordered To Testify To House 
+Ex-White House Counsel McGahn Ordered To Testify To House 
+McGahn must comply with a subpoena to testify in House Democrats’ 
+Eastern investors participating, a London jury heard during testimony from 
+treatments tried to show through testimony on Wednesday that a difference 
+in her own defense and exercising her privilege not to testify against her 
+3. A summary of the testimony of each witness is attached: N/A 
+testify. 
+NAME: , Can Testify to: 
+D. Have you ever testified against anyone in court ? ( )YES ( )NO 
+3. A summary of the testimony of each witness is attached: N/A 
+D. Have you ever testified against anyone in court ? ( )YES ( )NO 
+incident. she said she will get torn up on the stand and lose her license if called in to testify about her SRA from yesterday 
+incident. she said she will get torn up on the stand and lose her license if called in to testify about her SRA from yesterday 
+"1 "Don't pass on malicious gossip. 2 Don't go along with the crowd in doing evil and don't fudge your testimony 
+"1 "Don't pass on malicious gossip. 2 Don't go along with the crowd in doing evil and don't fudge your testimony 
+testimony Wednesday afternoon or Thursday. We've also set up a prep by phone for 6:30 eastern tomorrow. Does 
+me getting into the court room during her testimony? 
+when we can prep and also when you might need me to testify. 
+Sorry for my late response. | have been out of the office all week. | can testify if need be. Let me know if you 
+Thanks, J We'd like to identify a records custodian who could testify, in the event that it would be necessary. 
+We'd like someone to sign an affidavit for now, but we'd also like to identify someone who could testify at trial if 
+testimony. 
+disclose the existence, content, testimony, evidence or results of the arbitration, except as 
+limitation (“SOL”). She has been invited to testify and advise legislators in every state where 
+that one client's story benefits another client, such as a client who will testify that he or she 
+Fw: Re: Testifying / Press Release 
+Subject Fw: Re: Testifying / Press Release _ 
+Subject: Fw: Re: Testifying / Press Release 
+Court may consider the perpetrator's ability to pay. The DA's office may contact you and ask you to testify at the restitution 
+such public court proceeding, unless the court, after receiving clear and convincing evidence, determines that testimony by 
+the victim would be materially altered if the victim heard other testimony at that proceeding; (4) The right to be reasonably 
+witness testimony, (2) impact witnesses’ willingness to testify, (3) prejudice the jury pool “so as 
+Evidentiary/Investigative Materials “could influence the testimony of witnesses by providing the 
+opportunity for witnesses to shape their testimony to conform with other evidence gathered 
+be disinclined to testify if their personal information is released to the public.” (Id. § 14(b)) 
+testimony. 
+disclosure of the materials at issue could influence witness testimony by “providing the 
+opportunity for witnesses to shape their testimony to conform with [what is set forth in the non- 
+exposure of this material would influence witness testimony.” (Pltf. Br. (Dkt. No. 62) at 3) 
+to testify and give evidence in the following matter: 
+to testify and give evidence in regard to an alleged violation of: 
+Thanks for the email. If we need to ask you to testify, it will need to be in person, but we don't yet know whether 
+Subject: [EXTERNAL EMAIL] - RE: Testifying Witness 3500 
+Subject: RE: Testifying Witness 3500 
+Subject: [EXTERNAL EMAIL] - Testifying Witness 3500 
+Subject: [EXTERNAL EMAIL] - Testifying Witness 3500 
+Below is the list of potential testifying witnesses as discussed. Please run rap sheets as discussed. Do you think you could 
+guilty verdicts were supported by the witness testimony and documentary evidence presented 
+Subject: RE: Testifying Witness 3500 
+Subject: [EXTERNAL EMAIL] - Testifying Witness 3500 
+I'm looking to track down who did sketches of myself and my partner i aa during the Maxwell trial. She was called to testify for the defense when sketched and | was sketched 
+I apologize for not testifying. | was afraid and didn’t want my name more associated with them than it was, and 
+exhibits from last week, the transcript of the testimony you 
+evidence. Only the testimony of the witnesses and the 
+the testimony last week. You also heard testimony from FBI 
+copy of the transcript of that testimony. It is up on the 
+the civil case in which Maxwell gave deposition testimony on 
+deposition testimony on July 22nd, 2016, under the same 
+transcript from the testimony that Maxwell gave on 
+to testify and give evidence in regard to an alleged violation of: 
+to testify and give evidence in regard to an alleged violation of : 
+to testify and give evidence in regard to an alleged violation of : 
+```
+
+---
+
+*Full extract: `04-DEPOSITIONS/extract-testimony-raw.txt`*

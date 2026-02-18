@@ -1,0 +1,346 @@
+---
+source_image: "bank-statement+deposition-transcript__EFTA01715472_20260130_p072_i001.png"
+source_pdf: "EFTA01715472.pdf"
+method: pdf_text
+words: 588
+confidence: 1.00
+extracted: 2026-02-13T16:08:12.020978
+---
+
+Page 
+11 
+ACCOnnt Mister: 
+Billing Dote: 
+AIRTIME AND LONG DISTANCE CHARGES 
+City 
+Its Date 
+Time 
+CL No. Called 
+Called 
+P P 
+Length 
+of 
+Call 
+Mobile Number: 
+Mobile User: 
+Total Mobiles: 
+ 
+CHARGES 
+Air 
+Long 
+Tine 
+Dist. Total 
+320 01/04 08:17PM 
+INCOMI CL N N 
+1 
+0.00 
+0.00 
+321 01/04 08:39PM 
+W PALM PL N N 
+2 0.00 
+0.00 
+322 01/04 08:44PM 
+N PALM PL N N 
+1 
+0.00 
+0.00 
+323 01/04 10:05PM 
+W PALM PLWN 
+1 
+0.00 
+0.00 
+324 01/04 10:10PM 
+INCONI CL W N 
+1 
+0.00 
+0.00 
+325 01/04 10:13PN 
+W PALM PL N N 
+1 
+0.00 
+0.00 
+326 01/04 11:44PM 
+W PALM PL NN 
+1 
+0.00 
+0.00 
+327 01/04 11:45PM 
+W PALM FL N N 
+3 
+0.00 
+0.00 
+328 01/05 12:04AM 
+VOICE CL N N 
+2 0.00 
+0.00 
+329 01/05 12:36AM 
+INCOMI CL M N 
+3 
+0.00 
+0.00 
+330 01/05 12:39AM 
+M PALM FL W N 
+1 
+0.00 
+0.00 
+331 01/05 12:40AM 
+INCOMI CL W N 
+2 
+0.00 
+0.00 
+332 01/05 12:42AM 
+M PALM FL W N 
+1 
+0.00 
+0.00 
+333 01/05 12:43AM 
+W PALM FL W N 
+1 
+0.00 
+0.00 
+334 01/05 12:43AM 
+M PALM PL W N 
+1 
+0.00 
+0.00 
+335 01/05 04:43PM 
+W PALM PL 
+P 
+1 
+0.00 
+0.0D 
+336 01/05 04:57PM 
+W PALM PL 
+p 
+2 
+0.00 
+0.0D 
+337 01/05 08:28PM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+338 01/05 10:55PM 
+WPAU4PLWO 
+1 
+0.00 
+0.00 
+339 01/06 02:29PM 
+M PALM PL 
+P 
+1 
+0.00 
+0.00 
+340 01/06 02:30PM 
+N PALM PL. 
+P 
+1 
+0.00 
+0.00 
+341 01/06 03:04PM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+342 01/06 08:01PM 
+LOCAL CL 
+P 
+1 
+0.00 
+0.00 
+343 01/06 08:02PM 
+W PALM PL 
+P 
+2 
+0.00 
+0.00 
+344 01/06 08:04PM 
+N PALM PL 
+P 
+1 
+0.00 
+0.00 
+345 01/06 08:04PM 
+M PALM PL 
+P 
+1 
+0.00 
+0.00 
+346 01/06 08:06PM 
+N PALM FL 
+P 
+2 
+0.00 
+0.00 
+347 01/06 09:25PM 
+W PALM PL W 0 
+2 
+0.00 
+0.00 
+348 01/07 06:58AM 
+INCOMI Ct. W 0 
+1 
+0.00 
+0.00 
+349 01/07 07:19AM 
+N PALM PL 
+P 
+1 
+0.00 
+0.00 
+350 01/07 07121AM 
+INCOMI CL 
+P 
+2 
+0.00 
+0.00 
+351 01/07 09:26AM 
+INCOMI CL R P 
+1 
+0.00 
+0.00 
+352 01/07 09:18AM 
+INCOMI CL R P 
+1 
+0.00 
+0.00 
+353 01/07 09:22AM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+354 01/07 09:11AN 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+355 01/07 09:43AM 
+W PALM PL 
+P 
+1 
+0.00 
+0.00 
+356 01/07 09:43AM 
+W PALM FL 
+P 
+2 
+0.00 
+0.00 
+357 01/07 09:46AM 
+W PALM PL 
+P 
+2 
+0.00 
+0.00 
+358 01/07 09:55AM 
+W PALM PL 
+P 
+2 
+0.00 
+0.00 
+359 01/07 10:28AM 
+W PALM PL 
+P 
+2 
+0.00 
+0.00 
+360 01/07 10:30AM 
+W PAW PL 
+P 
+1 
+0.00 
+0.00 
+361 01/07 10:35AM 
+W PALM PL 
+P 
+1 
+0.00 
+0.00 
+362 01/07 10:36AM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+363 01/07 10:57AM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+364 01/07 12:05PM 
+W PALM PL 
+P 
+1 
+0.00 
+0.00 
+365 01/07 12:06PM 
+M PALM FL 
+P 
+2 
+0.00 
+0.00 
+366 01/07 12:07PM 
+W PALM FL 
+P 
+2 
+0.00 
+0.00 
+367 01/07 12:22PM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+368 01/07 12:39PM 
+II PALM PL 
+P 
+3 
+0.00 
+0.00 
+369 01/07 01:01PM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+370 01/07 02:08PM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+371 01/07 02:09PM 
+INCOMI CL 
+P 
+2 
+0.00 
+0.00 
+372 01/07 02:34PM 
+INCOMI CL R P 
+3 
+0.00 
+0.00 
+373 01/07 03:12PM 
+SS PAW FL 
+P 
+4 
+0.00 
+0.00 
+374 01/07 03:131112 
+CL 
+P 
+2 
+0.00 
+0.00 
+375 01/07 03:16PM 
+M PALM PL 
+P 
+1 
+0.00 
+0.00 
+EFTA01715543

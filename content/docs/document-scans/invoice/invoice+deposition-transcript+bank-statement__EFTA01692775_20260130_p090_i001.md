@@ -1,0 +1,414 @@
+---
+source_image: "invoice+deposition-transcript+bank-statement__EFTA01692775_20260130_p090_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 754
+confidence: 1.00
+extracted: 2026-02-13T17:13:13.451126
+---
+
+cingular 
+Acta« Manner 
+Dato oi Involcs 
+August 12. 2005 
+Page 8 o11B 
+SUMSICRY or CURRENT ACTIVITY - CONTINUED 
+I« Orly U0094/ 
+CANDIN/9111 
+Item Ducriptial 
+8 TEXT NES9MW9 tiNT 
+9 liiti IITIFD 1.11141.1TES 
+10 ADDITIONAI 21199229 
+Tecs il~11sage 
+auran 
+Othur Vafirrtghgr Chargus 
+imm omamon 
+1 FEDERAL UNIVERSAL ~ED 
+Furio SURCRARGE 
+Tecs Othe 94lbSaiber aines 
+Sul"..Cf91,K (.‘,At91.0.911 Feos and Toms 
+haen Onalptlen 
+1 LOCALCCNNSER9122 TAX 
+2 STATE COARA SERVICE TAX 
+1 011 SLIRCHARGE 
+4 FFDERAtECCISE TAX 
+Tecs panee., ~mene 
+Fae* AAN Ts 
+OTAL CURRENT ~ROSS FOR 
+DETAIL OF CURRENT ACTNITY 
+VOICT.IJSAGLekr~
+CIMTUNed 
+SS EVT 
+4C0 
+IT/ 1A1N 
+QFFT 
+CArg• 
+Ne Dale Thno CN1N1 
+Cas Te 
+Usid Ra• D•scriptisn 
+Sinä 
+3 011 02 
+4 0))1}02'i 
+- 
+01/12021 
+II 07/1202 
+W/1202 14 
+MYI
+é 01ín17 
+fo UNTO* 
+Ii 07/1209 
+17 07/1209 4 
+1:80MS1 
+13 0702 02 
+13 07/12 001 
+17 07/12)95! 
+•o 0702 043 /4 
+I1 0/412 144:011
+20 07/12 IC170 
+21 0702 le.144 
+21 On 10140 
+21071"$ 10363
+24 (11- 10461
+11 07/12 101714
+V 0702 11110 
+Ifflitorat /I. 
+iYM 
+UntIVITED 11M104011144 
+OMIN 4.to01. 19 140131. 
+16SSAGEnC1RLVK
+10 Ann t 4011 he 3161 
+X040131 Mer11/e1,411 
+I E. 
+X0 ArUl. A9Y1 NL 16/1 
+WPAUMEACHIN. 
+1 
+ONIN 11001 TO NOOL 
+MCNNq 
+Erik I 
+1 
+14/1 
+4'0 
+larl 
+211.1 
+UNI 
+Yr 
+M▪ M 
+11114 
+LIIV 
+Wl 
+4114 
+MN 
+PAN 
+MN 
+VAL 
+103 41/01 41.61ME1.41 
+teen 111401 TO ta: 
+In144111 0 A44/10441404 
+1111144171- D KW/0404144 
+UNLfren 
+40400.064t4 
+3141.1,6314 KAA10.4 14N 
+1.11411/111.4 131/3/11 1474 
+1.11311411, 1 /311,1411161/4 
+V/41~1 1~43 tin 
+IOLAIITt IGWAS0 PAN 
+U104147417 14/1360441 /1x 
+eat wk0no 
+04000 
+443.00d keh 
+U1USIITFt> A700646~ 
+UNLBATE0 41.7101D 
+ueUVITFI> 41/0010 
+1.14/1401011 /AINO /a1/ 
+ia V410 n 4111.301101 
+1041.1110 
+4/KNO 11414 
+141111YrED 
+fi eN01141 
+Ntruer rk 40040 1114 
+IIiIIIIIIIIIIIIIVIIIIIIJIIIIIIIIIII 
+DETFIII. OF CURRENT ACTIVITY - CONTINUED 
+valcE usAGE FOR 
+on , 
+AO 
+IseitlAte Tae OSIN 
+21 0112 11.1.40 
+Maha 
+S 
+That
+asa
+Cti3° il  
+21 taru 1 1 ISSP 
+Ili 
+29 0913 01 4311
+1 
+<utu 0147 
+cheri, 
+....!
+~i 0/03 147 
+UI ii 
+Ml P. 
+01113 caU1P 
+:, re,.., 
+0n7 
+qå°?
+1All i! 
+40 01/3 04
+04.44:: 
+Champs 4 
+101 so
+n t 
+04I 07
+070A 31 »0131 : 
+111. I 
+43 07/13 04)07,
+4104 
+41. 427/23 04141.31; 
+ThAS MiTr 
+181 AT 1 
+41 I42411 19381. 
+:ei  Mi
+larePP 
+II 
+11 Cm oli 
+Ei. 
+IIIIIIIIIVII 
+07na 12.41A 
+1r: 
+55
+14 07
+07/14
+m  
+ni
+m1U 
+I / W244il t 
+bk
+80;1112: 
+43 01/14 11:41A 
+64 01/14 11:4A 
+on. 11:43A 
+0 
+onu87?tit1:4 122/2
+ISP 
+2;721 
+; 
+• 
+7 8 7/2 1 3 •,!4"
+,
+/4 0014 0.10141
+16 07014 6.10.0 
+76 07/14 0414P 
+776 077/n14 0344P 
+70 0;/1104007 
+• 
+EC10//14 04:129 
+81 01/14 041W 
+01tu 04:10P 
+CO, TA 
+VIPUIPLCUPIFI. r. 
+n 
+Evr 
+WPAIVAEAOIFI. 
+144 
+10114144414414 Ft 
+UN 
+909910Neal il. 
+iblil 
+'19 
+MNCWOAuf 32 uu a 
+} YM
+YN 
+111>AUAttLICIIII. 
+OM 
+INCOWTO 
+INCC4471G 
+inO 
+4744:11240401. 
+1 iuN 
+erPALY teAell 11 
+112 
+6151411490.01 Fl. 
+MM 
+NCe.041403 
+41AN 
+1/APAIIIAA4044t 
+]MN 
+AlCalre• 
+W4T.,&•Ntgieric 
+:10 
+,EVT 
+1311,134001 FL 
+MW 
+1414141460.04F1. 
+Esin 
+091111x430411. 
+1E 
+6111169N F6 
+- 
+I .ek1444 
+HPAL11644461FL 
+I M
+47041•02i 11 
+4794.1.414FAC>1 v 
+1 1.141 
+INPAWBEACA Ft 
+1414 
+NIIAL4114e.4.1. 
+MK 
+NPAini, 4 .4 q.
+NNV.M3 X
+ FL 
+1IMI
+2
+NPA
+EIC 
+NCCIA
+LMNC, 
+mm 
+Evy 
+PALMU-AC.1 11 
+tel 
+NoeurNi 
+tel 
+•14.011.14 
+M
+N44.4.400/CAFt 
+Ml 
+Vf 
+riON 
+vr 
+Mal 
+AJ.NfALIn 
+AAN 
+I MM 
+W
+ CYT 
+(1717r 1.11Ft 
+Ala 
+AIMO 
+1111. 
+131114 
+I'404 
+41-11 
+11AN 
+4144CtteCN 
+41141414 
+1
+111G 
+11ITC40101 Ii. 
+VAN 
+9
+PEt 
+461 
+a 
+1109
+Cln£
+APH 
+11111 
+11101 
+'1,Qpitik4c,i 11. 
+?Ilig 
+NCC44,141 
+Ít 
+1COU 
+;.I:L=rt 
+COINAlKai 
+12,112
+CA 
+1.1Ned 
+Rae* Ductleden 
+Ula mr4 0 BuYegut, 6411 
+MESSK. 
+Ura 44/ 0 NYKI 01.//e 
+leSSACCII1C31e11/4 
+Uhlf4 VCOt 70 UM 
+.4014ef 111¥7:111/44p,
+AZOt AWYMIC MN 
+44457r 
+• 
+300410 
+/1 
+..„(J2,4 
+x„, 
+300
+300 
+m/61y7
+11 
+mex
+ulx 
+OM NVola. TOITOIN 
+NE9SAZE RETNNUI. 
+10 9C,Co. AnYr1U 1/14 
+VIAPATE1 NJWX/101454 
+ei) a/T sT Ne 4T t  
+LIIAN 
+1,110.UKI1 
+0141 
+UNtMT4 
+n me/ 
+14~16114,1 
+104.4.611 1,11M01. MAsi 
+MLUM)E R£TaivAL 
+13111441Te4 110411101AN 
+isiNN
+UX=1/4111 rh
+3.47
+4 1gC MV 
+UNIM'
+MY
+/414004Q11/11 
+UMUW'
+1.101XNu 111-4 
+UMLMEONNRIIDMY
+i6tVr- FD 9Nexn0 uni 
+NOL) LAYY•NSYY
+9:41 
+AN
+t
+YIVIF 
+»Alen 
+Airrtm MN 
+340400-4 AnYiede 
+3C0 4001 ~SE 
+1511 
+103 4001.4/0/1110 1141 
+CM.1.14/411741 
+40311
+C133". /4
+"Y -M
+•1114: 41%4
+E
+300v;..
+ADzA
+D1 4111,74(4.
+0101 
+41) 
+ANY 1At 11/4 
+el LL eep,C 
+0Q .4111- 141 11111 
+intaka
+"
+TrO‘ trat "
+)001.0014111- 1/E MM 
+303 IMI. Meri& MM 
+tintaltACIAL TO maat 
+/44:1140t 111.761C0It 
+1:040M 4A11141 
+Hl 01110 MYI V[ MIN 
+g4
+741/171. A001044 1104 
+4001 nier14411111 
+5:0 .1gL AKY
+NCilt Mi
+hy
+303 
+CO3 AterIlitn 
+ifI l
+l
+z<4
+4. ": 17:30 unwLI
+N 
+L ~Ta 
+MM 
+Oteta 
+EFTA01692864

@@ -1,0 +1,536 @@
+---
+source_image: "deposition-transcript__EFTA01388942_20260130_p001_i001.png"
+source_pdf: "EFTA01388942.pdf"
+method: pdf_text
+words: 814
+confidence: 1.00
+extracted: 2026-02-13T17:00:22.000929
+---
+
+18 October 2016 
+REITs 
+US REIT 3O16 Earnings Preview 
+3Q16 earnings call schedule 
+IFigure 5: DB Earnings Call Schedule 
+RipmsdamIRP 
+Ras 
+01111140 
+014119 
+111111.11 
+Os* 
+Inalied) 
+1/0191.0 
+NO 
+arm 
+Ins' 
+05514
+1.4-914 
+301604111•4•1004. 
+an Met 
+Or 
+OD PM 
+S
+.
+11•10, 
+Ditraey. Ott 20 
+Ansega 
+PAD 
+840.1007 
+1203414 1877) 20487020 
+$1665903 
+1041 
+3069 
+10.70 
+1262 
+1255 
+125247W 
+1294 
+1257 
+5257 
+54. green Remy Cd9 
+no 
+ARC. 
+200011 On 3124706 
+104:66124 
+$143 
+$143 
+$150 
+Sill 
+$125 
+25 174125 
+$1.19 
+55 19 
+$620 
+Tuesday. Od 75 
+&sins 
+ORX 
+AMC. 1024 
+10014M 1660/317-0$l 
+2334515 
+1050 
+$OSO 
+9061 
+1203 
+1206 
+12034206 
+$305 
+12 06 
+$206 
+Arenas Campo Conds4864 We 
+ACC 
+AMC 1004 
+1000441 1/7715447529 
+10:62501 
+50 45
+30 45
+1043 
+12.19 
+$2.31 
+1219423P 
+1233 
+52.25 
+5225 
+Abssallay Canentn10•• Pc 
+AVB 
+AMC. 1024 
+110934 155 04745920 
+7799037 
+1218 
+$206 
+$2.11 
+16.26 
+1.146 
+$5261646 
+1835 
+5523 
+5533 
+Wodne40$11 0 0 a 
+Mad -Cal. RealirC09 
+CU 
+AMC. Walf 
+0304M 010/3252444 
+Mac*.C•B 
+20 50 
+$050 
+1056 
+$207 
+$213 
+$3074213 
+$221 
+13.12 
+5211 
+Sloan Onntddy Grasp M. 
+400 
+110. 1000 
+ii0.14M 187715426971 
+13470240 
+52* 
+5246 
+nes 
+$1077 mg' 
+51077.510.0 
+slow $1010 
+$1066 
+DautyRefoenmi 
+SCR 
+AMC. 10129 
+11010.1 18074 4495636 
+1711236 
+$051 
+1075 
+10 15 
+5356 
+Sill 
+1306511P 
+5298 
+13.07 
+1309 
+OTSRealyTnai 
+OTS 
+M/C.10/2S 
+i00(3461 48771 8410343 
+*MIN 
+$063 1062 
+1046 
+1256 
+$246 
+125542.46' 
+1154 
+12 62 
+5200 
+144136 PA:ens mc. 
+dentist,. 04427 
+MP 
+AI/C.10125 
+14101•M 1577/ 706.45C0 
+2302909 
+$142 
+$142 
+Sly 
+$692 
+$599 
+$66245.09 
+13 97 
+$9 
+$698 
+Nay Ode Ist 
+ICY 
+AMC. 1001 
+90*.14 1$&317.6003 
+0742415 
+$027 
+$033 
+1034 
+1136 
+51 40 
+113611y-
+$129 
+$139 
+$139 
+6011 Co, 
+DOR 
+AMC. Kra 
+1000AM 11771 2491119 
+NA 
+$031 
+$0 31 
+$0.31 
+$123 
+31 .26 
+$I 23-51 20 
+$1.26 
+11.25 
+1120 
+lord Retry Coo 
+SAC 
+AMC. 10/25 
+1011411 1901)71)4214 
+27469105 
+1057 
+1057 
+1092 
+1336 
+13 44
+$3361144 
+$140 
+1340 
+1340 
+Dots Resit Trull 
+DIA 
+AMC. lore 
+530954 1655131740$ 
+silecn• 
+1137 
+$149 
+1144 
+1606 
+1475 
+$654679 
+1653 
+13 73 
+1570 
+Friday. Od 28 
+Kitpendnot Remy Tod 
+437 
+8010. 1008 
+9104M 18441775-2642 
+1300:17101 
+$019 
+$022 
+1022 
+109 
+SOU 
+S0544066 
+1469 
+1000 
+5086 
+Soros tnt 
+VTR 
+880.10420 
+10004M 1844)1767541 
+Vedas 
+61 01 
+$19 
+5103 
+5406 
+$4 13 
+$4 06-$4 13 
+1410 
+PIO 
+$4 12 
+once RealtrOn 
+ION 
+AMC. 10127 
+10004M IBM 317-6033 
+3303430 
+$0.17 
+55 36
+10.15 
+$134 
+$142 
+61 341142 
+42 
+$135 
+1150 
+$135 
+Comma Ades/. Ton,
+CPT 
+AMC. 1027 
+120094 ISM 317-0033 
+0910019 
+11 11 
+SI 11 
+$1.10 
+5440 
+5440 
+9$54.60 
+953 
+5456 
+$4 56 
+Idde434 Co 
+AMC 
+MC. 1027 
+2COM 119 17104016 
+710037 
+$101 
+$104 
+11.46 
+$405 
+$4.15 
+1,40644.15 
+$406 
+14 10 
+3411 
+Mandy. Oa 31 
+8F4.447is Int 
+CONE 
+0)0 .1001 
+II .004)4 040 452.3731 
+1479 
+1055 
+$064 
+1042 
+5250 
+$155 
+$2504256 
+52 25 
+52 56 
+1256 
+Tuna. Novel 
+Owed Orono Pspends 
+OOP 
+AMC. 1031 
+940414 18771951018 
+1401 
+$036 
+$036 
+$34 
+$161 
+$1.45 
+S1514165" 
+SI 51 
+$154 
+$153 
+virrni4olt•My 
+V710 
+AMC. COI 
+10014M 4551)771.4171 
+4358/401 
+938 
+$1 17 
+SID 
+ILA 
+9$ 
+54 94
+3457 
+Pod Proptrbei Ps 
+ASO 
+AMC. 1001 
+1003444577)7$53538 
+5770078 
+SOSO 
+10 80 
+NAV 
+$3,20 
+1324 
+13208124 
+1121 
+UN 
+1323 
+~set 
+Mot 02
+RAmtc-Otindesen Presets* Trud 
+RAT 
+AMC, 'Ill 
+1103.11/ 077)4074205 
+MR 
+$033 
+10 13 
+10 34 
+Sir 
+$137 
+S1334137' 
+$136 
+11 36 
+$1 37 
+Repent Cedes Cap 
+REO 
+Al.C. WI 
+1000AM 1877) 07-0780 
+WA 
+10 23 
+SOSO 
+1050 
+1322 
+1327 
+11224327" 
+$272 
+1337 
+$326 
+vddetst 
+ICI 
+Walla 
+10004M 1$0/ 3$219 
+91724136 
+41 13 
+41 13 
+41 14 
+$4 50
+pa 
+2410540 
+$4 50
+54 $ 
+54 04 
+Raid PrOPet134* dAmwr-• 
+RPM 
+AMC. 11/1 
+1104410 (5771705.6003 
+MIA 
+30 26 
+10 26 
+1016
+$104 
+$107 
+5104410r 
+$112 
+$106 
+31 07 
+Tantdan C4olets vs 
+TCO 
+MC.11/1 
+1110444 0691204712 
+9675512 
+$016 
+SOU 
+ION 
+13 75
+1300 
+13 754390 
+139 
+1359 
+1384 
+Thm.d.y, Nor 03 
+PGRE 
+MAC.11/2 
+100006 4877)40707$ 
+NM 
+$0 15 
+$0 19 
+10 19 
+10 61 
+$O 55 
+$O 61.10 65' 
+1067 
+10 46
+1065 
+p__ 
+GIVIP 
+Ftdesal Rut/ IrrveRmeni Tdil 
+Fr 
+MC. 11/2 
+11034m 16771 445.3230 
+75376394 
+11 44
+Sly 
+11.42 
+1662 
+$563 
+$S 624166 
+65 .05 
+1663 
+1566 
+Spit Rotate-spar 
+SRC 
+MC.11/2 
+11004M MI) 3490136 
+NO 
+$0 19 
+$0 22 
+1022 
+1057 
+1099 
+AFF0 1097-S0e) 
+10 55 
+10 19 
+SOISS 
+Inks Hey °I
+SW 
+AMC. 1113 
+i0OLIAM ISM 007-9061 
+MR 
+SOOT 
+1076 
+4006) 
+SIR 
+150211 1979 
+ISOM 
+Iltaday. Nov 07 
+CM Ma 
+at Ioannina00o 
+CO 
+6110.110 
+II 004M 016612620919 
+Ott OR* 
+$0 22 
+1026 
+1026 
+ROI 
+5054 
+$101 
+$107 
+AMOICall Fanaland 
+AFC/3 
+$007 
+$007 
+$0 CO 
+IM 
+$622 
+NA 
+$0 11 
+modem Protten Ton 
+IPW 
+10 30 
+10 30 
+30 30 
+1129 
+$1.33 
+112911.33 
+$129 
+31 29 
+1126 
+D0 
+to twat In 44m634444 lid Am Nen BOOM Iva plor publimilem b emparabety b repawd mulls 
+NW ettmaAts We to EPS 
+GU.311,C0 
+pates WIMOT ITO °sang wood as d:440 
+• 
+Spr4 nonage ntler et 070 
+Ceemniunteamme we as 91 101416 
+Sows DeuiseM Ott. C4WPWIYdeli Morns," 
+Page 6 
+Deutsche Bank Securities Inc. 
+CONFIDENTIAL - PURSUANT TO FED. R. CRIM. P. 6(e) 
+DB-SDNY-0092933 
+CONFIDENTIAL 
+SDNY_GM_00239117 
+EFTA01388942

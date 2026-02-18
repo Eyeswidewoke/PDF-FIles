@@ -1,0 +1,51 @@
+---
+source_image: "bank-statement+deposition-transcript+contact-list__EFTA02730274_20260131_p010_i001.png"
+source_pdf: "EFTA02730274.pdf"
+method: pdf_text
+words: 510
+confidence: 1.00
+extracted: 2026-02-13T16:07:48.734459
+---
+
+\\ids-fs-prod\prod\DCU\THE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 002_F0LDER_MISC DOCS 
+Wds-fs-prod \ prod \ DCWHE BIG M-TIFAWave006 ‘3.12.2025 - 8pm P1-1A\BOX 002_F0LDER_ 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_F0LDER_SUB REQUESTS 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_NATI0NAL COMPLIANCE CI 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_0FFICIAL POLICE PHOTOGF 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_PALM BEACH INVESTIGATI( 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 002_PALM BEACH PAPERS 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 002_PALM BEACH PD PROPERT 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_PALM BEACH POLICE 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 002_PALM BEACH POLICE DEPA 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_PHOTOS 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_PROBABLE CAUSE AFFIDAV 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_ 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_ 
+NYC 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_UNITED STATES DISTRICT C 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 002_USAO VISITOR 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_31E-NY-3027571-GI SEC OC 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 003_31E-NY-3027571-al SEC OC 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_31E-NY-3027571-al SEC OC 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 003_31E-NY-3027571-al SEC 00 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_31E-NY-3027571-al SER lfi 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_50D-NY-3027571 SEC 0015 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 003_50D-NY-3027571-al SEC 0t 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_BLUEPRINTS 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 003_CERTIFIED COPY OF BIRTH 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_DISKS 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_FLATLEY 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_MAXWELL SECURITY FOOT 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 003_ 
+RTIFIE 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 003_TRANSFER OF EPSTEIN CAS 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 2 OF 2_ 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 2 OF 2_ 
+_ 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 2 OF 2_ 
+Wds-fs-prod \prod \DCU \THE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 2 OF 2_ARREST OF GHISLAINE IS; 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 2 OF 2_BRAD EDWARDS 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 2 OF 2_ 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFs\Wave006\3.12.2025 - 8pm P1-1A\BOX 2 OF 2_BRAVO ZONE SEARCH PI 
+\\ids-fs-prod\prod\DCU\THE BIG M-TIFAWave006\3.12.2025 - 8pm P1-1A\BOX 2 OF 2_ 
+EFTA02730283

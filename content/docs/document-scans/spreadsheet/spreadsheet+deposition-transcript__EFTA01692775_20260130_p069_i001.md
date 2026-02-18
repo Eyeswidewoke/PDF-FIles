@@ -1,0 +1,496 @@
+---
+source_image: "spreadsheet+deposition-transcript__EFTA01692775_20260130_p069_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 857
+confidence: 1.00
+extracted: 2026-02-13T17:15:21.507067
+---
+
+. . 
+. • • 
+5":cingular 
+Amount ~mbar 
+Accoin Nan 
+Date of Invoken 
+Juno 12. 2005 
+Page 13 of 13 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+VO/CE USAGE EC11~ 
+Conlrend 
+Numb/. 
+WACI 
+Chala. 
+lawn Ow limo 
+Call To 
+Used 
+19414 DroselphOn 
+MO 5 01:21A 
+M 
+11:51A 
+OtWAL 
+TIAN 
+LIIILIPATED WM(110 lad( 
+WM 
+011JA WOOL TO MOM 
+UN WTED NWIRO NIX 
+WI 
+: 
+11:{5~M 
+I I WN 
+I 
+It: 
+PIP 
+I IAN 
+IIIIN 
+WAX 01:331/ 
+WIN 
+OF 060004.049 
+MP 
+MO WWO 0931P 
+LIZ 
+411 =MIS 
+um 
+Hie« 
+VAN 
+NW 
+/1441 
+Wn 
+WI 
+RgriA 
+RIZ 
+0513001/21P 
+te.,,cong
+≥D 0600 MOW 
+721 WOO OFEW 
+ogno(cgt: 
+11 
+7/6 
+JO 010-1P 
+%NEWS 
+729 0030 00.11P 
+1/0 46/30011.11P 
+IgrZ 
+INI 
+0145A 
+nt 
+WO 
+T§ 
+tl tlA 
+COMA 
+T.1 OFA PIMP 
+010503 OR411/ 
+E 
+04010 
+091111
+IM111 
+7.. WO 01,5M 
+13 212 Ill 
+;1?
+W:57P 
+OW EC34P 
+‘F.• Ert0 
+#111 ) 2.141:1
+714 WO 03.10 
+70 WO 0110 
+WPALIMENWEL 
+maw/KA:um 
+WPM YI/RIN It 
+LIIPM1/ 
+WNW. 
+OCCWIL 
+INCWANC 
+INCOMING 
+IWO...NG 
+WPAINet ACM FL 
+9051005 9CH FL 
+Ltrif 
+"N 
+0041 Chi k 
+inalAW 
+9
+0146,31 FL 
+INCOP
+3VNT
+ANG 
+0057005 DWI FL 
+WPWIEWLE11 FL 
+vomw6FACH FL 
+WPAOM~ FL 
+INCOIANG 
+WV= 
+SI ;1 
+INIV
+I
+LNIACH FL 
+WFWAWEACH Fl 
+111
+1 Ohr...M Fl 
+NG 
+IIIOVNTQA MN FL 
+"01.4W" 
+3 
+1/11 It 
+MCONOW 
+INCOPANO 
+INCOVING 
+00011090C101 
+19004/011DCH El 
+WITICOMEC101 
+WPALMBEA001 
+WPALIIWAE101 
+WPALIOBWOWL 
+1eo11-11 
+II
+go
+n« ii 
+n 
+AUI 
+fi
+WP 
+Ft 
+AIM 
+Nfil. 
+MACAO. Ft 
+IP•94»2411. 
+AGM FL 
+ECTNIIMIEGN FL 
+erratumFL 
+IWAUSAGN FL 
+YN 
+EVT 
+2W1 
+IFS 
+ISM 
+1110 
+WI 
+L
+W
+p 
+Ip 
+EVT 
+WI 
+AIN 
+WI 
+}El"
+Ma 
+11411 
+low 
+HAN 
+MIN 
+MAN
+AN
+W
+YEVt 
+'MN 
+WAN 
+MN 
+ILVT 
+IMN 
+ING.00940. TO 
+VI 0$0111:1: 
+lOYNTOutlai PI 
+al 
+14 LI1191011. WWI. 
+UNLIVVost 4§ 
+111/ woe« 
+T 
+, 
+1,101=
+C0Iverki n 
+11103.0En ma tilES 
+UNtw MOP. 70110EIL 
+UN.1141/00. 7 
+l• 15 a :III 
+...,....,... TO MOW 
+1.193/0AXL TO. 
+EVT 
+CA.1 WAIING 
+INCL~WIKUTES 
+Y 
+0002 OUP" 
+IvIth it
+h•gli FI E :Ism gm 
+ON I.M~ 
+TO MOW 
+Tio NOW 
+MOWN OttOP 
+CM 
+AMNG 
+WIWTES 
+L
+ai 61101,4/6 *I F 
+ig 
+51173,, 
+1W1 
+NEALOW 1ANUTE5 
+Local aa.au , 
+u 
+MAYAS 
+VI aZ81241 
+INCLUIRIMAPPITES 
+1/4 E 2,11511 
+911 
+GIMP 
+III7 raw 0000 
+rtltr
+"  E
+ L.. 0 
+t 
+Td5 OW) 0136P 
+:MEW
+L
+Fl. 
+PAN 
+arcaLOODPANUTES 
+L 
+11W 
+«CM 
+MN 
+INELLZED FA 
+• 
+ill al; 81111 
+11.1 0001 Iltiv 
+1r II r= 
+FL 
+1::: 
+tank 
+I 
+• 
+444 DOW 11:0 U1
+07 Fuya 113 9 
+II? le 
+III 
+INCONINC 
+ILI 
+1.01 
+LiaL
+LIIILIA
+m 
+0 
+UN MT 
+/MOW WA 
+a 
+lab 
+WO 
+05 05/CC 0999 
+I.PIC
+TPACM
+LAW
+NI/C. FL 
+011 :11.1 Ft. 
+I"WI 
+WE WM NINICV3991. 
+UNIMTWII0/03/0 la31 
+141 OW) ittIM 
+03 0/.0.111•11 
+001N"060:9 FL 
+WPAILW /04 FL 
+/WI 
+WAN 
+"W. 1£011/00131/0 
+WA ILL IX II NMMID IA/ 
+Van ITO NWOO YIN 
+UNIMITCO IIWAN0 WI 
+I EVT 
+WESSAGE RETWEvAL 
+LIN LMTE0 NANA9 IAN 
+DROP CALL CREEL 
+04
+VOW/WA> FL 
+2.01. 
+PPWIRCiat FL 
+MIR 
+Untio I 1 C NWOO VIN 
+UMPATEO WW2») ran 
+' 
+795 0401 1 /AM 
+TM 0037 1147 
+K.P111/9~ FL 
+11111 
+UK/AMP N/10/0 /Rh 
+LIN./449110M010 MN 
+197 0903 I 9504. 
+ 
+Untaillg)UhYPIOINh
+UNUIATIE WW1» Din 
+NCOWNG 
+991 PAW 0 N/MW)M6 
+LIWMT/01004,31/11. 
+UNAMTIE1 NNOLNI)
+yhtdATFp WINING wo, 
+• 
+mbar. TO MOW-
+SAGE tETWEVAL 
+INCLUVODELD°  ZUTES
+InES
+VAEGGAG RE/WC/AA 
+AM 91141. 40 MDR 
+Met VA WWI es 
+~Lyn 
+LINUTIS 
+YD
+Kaska( strasFvx. 
+• 
+tu 3 0933 DEW 
+544001•114 
+uaLN wet TO 
+u.mwOet Loam 
+! III WM DEW 
+yirda040~i EL 1E 
+ElllIrt1„2
+wPAPAIR 111 Ft 
+IW .1
+14140104010 WI 
+II( 
+RLTRIEVAI. 
+UVIIPAT 0 WMAND MN 
+• 
+14 WO/ 01: 
+F3 SO U 
+~AIWA,. rt 
+11%1 
+WCWA114 
+II 
+UM II WO. Ty .4OL 
+a llt12/ wir 
+..,,,,,t 144: 4 
+INCWIDEP 1/14/TE 5 
+• MI czna en: 
+WPM WW2. "WU 
+lINVAMCfP I 
+urn sarm3 R, 
+Inn 
+UNLDATE0 NAW1e0 WI 
+WILT/3W /0001/0 LIN 
+VOL MTECI KUR110 /IN 
+100400 NWINO kW 
+v.,....1,....9 UN 
+VIILIA 
+IWO' 
+NFL 
+UNLea1 
+roavaro Lug 
+°now 
+NAvoN san 
+ni 0101 11:41F 
+FL 
+1W1 
+lellthAIWNIMIM MN 
+reral411 
+WWI 
+WRPATIO NANA MN 
+I 
+VOICC USAGC~1610GO 
+WWI 
+Chug* 
+CWw40 
+ben Deis Time CAW 
+QM Yo 
+Wad Ps Pecdpelon 
+na OS0115449 
+WW1 
+UN VOTED NM101 MN 
+759 0601 
+IMO 
+IIN.PATED WATW IAN 
+L 
+a 
+UHLailn 0 worm 
+190. Unt0 NOW 
+5 
+WPAU/GIACIIFL
+YN 
+90011/6414101. 
+140111(.4111514 
+• 
+111:19111/11:
+114
+UNAL 
+NAN 11 
+INCLEIXIMAIJUTES 
+• 
+WOL "0 MOW 
+767 nonnow 
+WPALIIMACIIR 
+I 
+Was MOW 0 MOW 
+TIMWOLO ~IFS 
+IEVT 
+DAMAGE FrITRIEWE 
+1/4110.9t p 
+TO MOVE 
+UNLM 
+TO 
+764 WIC MOW 
+1300110101.34 Ft 
+4 
+44 PAWL TO& 
+INCt 
+18 =MS 
+=Ws 
+LOB mR$Is 
+1.0910 
+NWIA.0 
+04031110A 
+WPIUM~ FL 
+AIR 
+VILLPAIW N/M00 
+NE /SAGE RETRIEVAL 
+0/03 116? 
+WPALMOCA.T. FL 
+IOW 
+UNIIIAMINMUCI 
+MO /WO 1161 
+WPAIL09-10 FL 
+UNLWTED MAW° WI 
+• 
+031 ONO) OLO1 
+ilKOlaxE 
+I:: 
+UNLIWIEOPWW/0 WI 
+I 
+W? asp/ eau 
+0401/00 
+MR 
+UNLIN~19WILI4 WI 
+ 103 0003 II:14 
+widnua. azdt FL ,i11
+ulbcruzgai 
+UMLAUT 
+haw.. 
+IS 
+' 
+e 
+0U  ur 
+VIPA.413411.> FL 
+á 
+YIP A.1.19el0. FL 
+ablil 
+WM 1.01/- TO WOOL 
+• 
+DM 0447 IL II 
+Y/P3.1494A-1-.FL 
+Eí .T.<1 WI 
+ii°1 20 
+I P.4 
+INCLUDEO WWI £ 
+t 
+0111 
+wixur 
+LEsS&GF RE Till 
+AL 
+Vint!~ 10i a 
+lass :LT 
+lectivos 
+ail vc 
+Idvviro a 
+tráps,98121
+039NT 
+FL 
+1441U 
+L 
+LtIl 
+0111/911 
+EFTA01692843

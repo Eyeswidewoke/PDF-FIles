@@ -1,0 +1,584 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692725_20260130_p030_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 924
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.798124
+---
+
+[Account 
+Name 
+I 
+VOICE USAGE FORS 
+Continued 
+Numbs. 
+Only 
+ki t
+ 
+n 0010 Tinto 
+GMT* 
+Used 
+Nato 
+3 
+ON23 
+3. OV 0340P
+13 00441,  
+M 
+LORI pi. 
+IM
+IM4 
+F6 ON24 00 o7A 
+17 0324 1051A 
+WC 
+IL 
+FL
+MI 
+NOt 
+MN 
+28.1„ 
+IS OWN 09.03A 
+WI 
+LAKE WORTH FL 
+IAN 
+LME WORTH FL 
+INCOM103 
+M
+INN
+N
+LOW /4 0701P 
+' 
+4 02 429 
+32 
+iNOMAIC 
+ODYNTOMCII FL 
+II 2 000 4 Cd440 
+NI
+WI 
+323 0324 025.:P 
+3/PALI/PEACH FL 
+MX 
+324 OLV24 032IP 
+WPALAME 
+NIN 
+325 0124 03249 
+INCOMNGACM FL 
+ 
+YIN 
+ltg6 ON: 4 032r 
+7 (074 04 171. 
+0324 04 321. 
+0324 0524P 
+WP.404%14 FL 
+t.:
+41Mir
+rN
+M
+ACI4PIL 
+WIN 
+INN 
+MN 
+MN 
+ENT 
+330 O324 06AIP 
+WPILNIKACH FL 
+Mr 
+ag cki: 31 
+ii5 a. 4 0139. 
+314 PM 4 0/.15P 
+316 
+4 0734P 
+ACK FL 
+NFL 
+NM 
+mu 
+MN 
+MN 
+MIN 
+116 4.024 s gr. 
+ME2r. k 
+MN 
+VIN 
+Ei aiii AZ 
+E '414,121t1 Ft 
+MN 
+MM 
+310 cam .39239 
+wPALMEACI4 FL 
+MN 
+MI 03/24 0924P 
+WP.M.4 Atli FL 
+1•14 
+342 02/24 0,24P 
+3: WI 2:3
+ 
+04921134 IC NFL 
+MN 
+N
+M 
+veN 
+345 0044 055:p 
+WORTH FL 
+MN 
+3.46 0004 100F4P 
+347 OVA Ma) 
+maNis 
+MN 
+341) 0324 1053P 
+VI INOIMACH FL 
+IAN 
+349 OM 1 i 01P 
+WPALU 
+NFL 
+MN 
+MO 0374 11 41P 
+311 Mt 12.0M 
+WPALL 
+/F. 
+MN 
+lall 
+n2 0.523. 12 nA 
+MN 
+iliillil 
+....9, 
+,i. 
+MX 
+MN 
+INI 
+MN 
+1S7 cArn 12.914 
+LAME MONTH FL 
+MN 
+356 corn 01 144 
+WPALIMEAC44 FL 
+IIIN 
+350 06/25 01 14A 
+INCOMING 
+MI 
+ENT 
+)60 04TS 02344 
+Ail 
+01076 
+sic 
+WPALWEACN FL 
+them,,,. 11 
+wP 
+ACII FL 
+LM 
+FL 
+Mill 
+MN 
+NM 
+me 
+UM 
+mi 
+60T74TONKAIFt 
+MN 
+)67 ant J. SEA 
+TACCSING 
+IAN 
+MI Olen IT 1. 
+3.9 0;0,12 Ns 
+tlar ;atm F L 
+MI 
+MN 
+No 04,75 I 7.5. 
+viSALACLACII FL 
+1.694 
+3D Mt ig: 
+MALVIN-AC.1FL 
+NOMA M3 
+IIMI 
+I400 
+LW 
+333 09/26 •224a 
+LAM WORM FL 
+LEN 
+ill VII Oil; 
+8111: 
+M 
+;Val 
+)66 MRS 11:54A 
+Account Number 
+Date of Invoke 
+October 12, 2004 
+AT&T Wireless 
+Pago 10 of 16 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+Camps 
+Dm:Option 
+37 
+ANYTME MN 
+D MWMO IMI 
+IAN 
+MN 
+61. 
+Calf
+arr 
+I 
+rulfarkfator 
+ro WM. ride 
+MN 
+X0 ADD1. *Meng 
+MN 
+303AD 
+MTV& M 
+3COADYYLNITTIAE 
+1
+AAD
+31414
+T.0m04.1014
+INTME MN 
+NESSAGfveva 
+e&,k„Er..i..„304 
+WILIM.....81.T.D 
+303 ADM NralleiN 
+,1
+0 A4 
+NAVII: 02:4 
+R
+2 
+mataa MN 
+UNMATED WW10461 MN 
+U44urrrif 
+WwXND IM 
+UM 
+NM.1041104 
+UM 411 
+NW104 MN 
+umular oN.W04 WI 
+UNIMIT(ONWM MIN 
+UNUNITLDNW1040 INN 
+UNMATED AIMOND MN 
+UNMATED WWILND IM 
+tzurt "a
+' S 1 8 : A 
+LOcult/E,I6W% 
+MN 
+OMNI
+ NW 
+NW( 
+IRV:L: 14 c
+4 
+MUYT 
+NW 
+WONTED NW 
+1174 
+UNMATED NY/100 UN 
+CALL WM1V33 
+WONTED hIWX310 NM 
+Mt: TS ra: 
+Ltt
+i 
+VNLR§) 1100K 
+WI 
+'Mt 
+itnvt 
+MN 
+woos 
+NAM 
+MN 
+UNMATED 14/mon) IAN 
+UNLIMITED MUM° MM 
+UMPAIEO 
+IIV 
+letwol 
+WKNO MN 
+UMM 
+WOMMO PAN 
+Mae 
+NAV, MN 
+UNL•41 
+MN 
+UMMT 
+II/Wal MN 
+IMSSAGE
+ED olTRIEVAL 
+MEWED ;UNIDO MN 
+Outgo 
+VOICE USAGE FOR 
+Manbor 
+Item 0eto Taro CMS 
+11 ft% 33:1 
+mho ,:0M 
+s03261,11.
+2914, 
+OWNS al 14.0 
+M Olin 0015 
+334 
+365 OWN 61100 
+Mf 090401:319 
+NI) 0326 03 
+3.36 0914 01 11P 
+a#')SnigE. m
+g1) .1 
+M own 044 
+• 
+0074 04:42 
+ni Opno4 4) 
+461
+3100'26 O&M 
+396 own 04 
+399 Orn 03 44 
+42? 097
+4 05 11 
+40: 0074 OS 0 
+403 00t6 05 2/ 
+404 on, 06 21 
+C/ C° 1474
+*  
+01 r•
+V. gig 
+26 0, 
+Of 
+400
+410 0 
+eta6,26 
+06 I
+2 
+411 60.26016
+444
+1
+154'1 0G941
+4 
+6
+09126
+474 01
+81.""
+Nvn 0x50 
+420 06/26 07 
+0 0934 0]95 
+421 0916 07 
+422 00%07 
+44
+ 000 
+243 0374
+°9176 031 
+42t 007i Oa I 
+4277 
+1*
+Mc. 03
+°41
+bt 
+03
+gt 
+OW34 a. 
+3” 1 0%-16 
+• 
+09,74 OP 
+SI
+ 09. 
+St 
+436
+os 
+100.1 
+104 
+"4
+• Continued 
+Only 
+Cham. 
+Gib To 
+Used RAM Omalpdon 
+MANE WO:TIFF 
+YIN 
+10.4.100 WI 
+NKOMO 
+MN 
+MVO IN
+MN 
+MI 
+r‘i C 
+H FL 
+IIIIII 
+Malan 
+1141 
+FL 
+1.114 
+NW 
+ 
+554
+ 
+MM 
+IF 
+BD 
+SON Fl. 
+MN 
+MUNN 
+I/ 
+WPAUMEA.04 FI. 
+MN 
+LOOJNITEDIMIONO MN 
+WPALIABEACN Fl. 
+MN 
+UMINFIEDNANKNO MK 
+MONO* 
+MN 
+UNLNITEDWNKNO Mt. 
+WPALIMEACH FL 
+MN 
+ulfulATED.Wermi NM 
+WPAMMEN:44 Ft 
+MN 
+UNLMTED NUM MN 
+WPM.1450.01 FL 
+Evi r 
+I) WED ren.04 IAN 
+REMOVAL 
+OMN 
+ 
+Ft. 
+IL 
+- 111-
+Nrt 
+LAl1 WORTH ft 
+LAX( WORTH FL 
+wPfastBENCII Ft 
+ss 
+N 
+ACM IL 
+NCCAM02R
+LWAL1000.
+a 001. 
+ricome 
+iccmNo 
+INMAN° 
+=s,r",tatrim 
+%PA 
+ACH Ft 
+inAar OR 
+F 
+WPA,IOSF,A_C
+,W
+LME woRTHFk 
+wmmerfoot 
+WPALM30.04 
+it 
+FA.
+FL 
+FL 
+• 
+KN 
+Ft 
+OL 
+VotALIMEACI4 
+:L A'alittl 
+MN 
+MN 
+MN 
+IAN 
+MN 
+MN 
+PAN 
+MN"
+fNiag 
+MN
+MN 
+IAN 
+MN 
+PAN 
+PM 
+MN 
+MN 
+4091 
+MN 
+eAN 
+IMN 
+IMN 
+MINI 
+MAN 
+LTNI
+IAN 
+NMI 
+MN 
+MM 
+rAN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+N
+M 
+PAN 
+JIM, 
+V 
+IRMA, 
+U 
+-ram 
+NAMMOMN 
+UMBATEDOMMmOmm 
+UMM 
+M 
+MN 
+UNLM 
+em 
+MN 
+UNUPA 
+UNPIN 
+WW.Cli 
+UNMATED DAWN0 im 
+UNLIMITED NWIM0I Will
+UNIZOTEDNM1003/M 
+UN 
+I KM X AM 
+UM 
+utaa 
+Ate4 
+UNLOATE 14W 
+NAM il 
+PAM 
+am 
+uNalir NW( 
+WI 
+UN AKI 
+POMP 
+UNLAsm 0
+O XAVK 
+FA= 
+. N
+wsvm Lei 
+FA= 
+r oktfc am. 
+UN 
+NANKIN) ION 
+UN 
+NVI 
+NN 
+UN 
+NAVA 
+MN 
+Mum 
+1604x10 km 
+UN 
+uNurao 
+:4= 
+)04 
+MUM 
+leMiX1 MIN 
+Lty 
+UNLMATE0 NMI( 
+mem 
+UN 
+Wan 
+Um 
+Um 
+V/ 
+Mill 
+UN 
+WI 
+NM•NI~ MN 
+um 
+MN 
+MN 
+?A= 
+M r * 
+tr"4 
+UmuraTto er..W8m3mr4 
+et:WM 
+NOUN 
+MM%MOMN 
+Champ 
+EFTA01692754

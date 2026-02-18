@@ -1,0 +1,94 @@
+---
+source_image: "deposition-transcript+court-document__EFTA01728353_20260130_p011_i001.png"
+source_pdf: "EFTA01728353.pdf"
+method: pdf_text
+words: 532
+confidence: 1.00
+extracted: 2026-02-13T16:27:28.708182
+---
+
+Law Enforcement Report 
+Page 10 of 20 
+Age: 
+xxx-xx-)cooc issued in New York between 01/01/1983 and 12/31/1984 
+Active Address(es): 
+ell
+NORTH SALEM NY 10560-2521, WESTCHESTER COUNTY (Mar 2000 - Jan 2008) 
+Curr 
+' 
+d 
+Tied Address(es): 
+EW YORK NY 10028.0130, NEW YORK COUNTY (Jan 1996 - Mar 2008) 
+NEW YORK NY 10022-6843, NEW YORK COUNTY (Feb 1988 - Mar 2008) 
+, EW YORK NY 10021-6216, NEW YORK COUNTY (Feb 1988 - Feb 2008) 
+NEW YORK NY 10153-0023, NEW YORK COUNTY (Jan 1996) 
+NEW YORK NY 10321-6403, NEW YORK COUNTY (Feb 1988 - Dec 1992) 
+NEW YOR NY 10022-1513, NEW YORK COUNTY (Apr 1984 - Apr 1986) 
+'06:Øe: 
+43 
+xxx-xx-xxxx issued in New York between 01/01/1974 and 12/31/1975 
+01BA:lit 
+ge: 43 
+xxx-xx->xor issued in New York between 01/01/1974 and 12/31/1975 
+Active Address(es): 
+LIVINGSTON NJ 07039.4234, ESSEX COUNTY (Oct 2003 - Mar 2008) 
+Previous And Non-Verified Address(es): 
+53 KENT CLARK DR, ALBRIGHTSVIU.E PA 18210, CARBON COUNTY (Jan 2005 - Feb 2008) 
+477 FDR DR APT 601, NEW YORK NY 10002-2006, NEW YORK COUNTY (Jun 1994 - Feb 2008) 
+17 CONCORD DR, LIVINGSTON NJ 07039-4313, ESSEX COUNTY (Aug 2006 - Nov 2007) 
+3205 POINTE GATE DR 3, LIVINGSTON NJ 07039-1733, ESSEX COUNTY (Jul 2006) 
+301 E 66TH ST APT 8D-E, NEW YORK NY 10021-6205, NEW YORK COUNTY (May 2003 - Jul 2006) 
+3457 MADISON AVE APT, NEW YORK NY 10022-6843, NEW YORK COUNTY (Oct 2000 - Sep 2004) 
+2 KEARNY TER, LIVINGSTON NJ 07039-4107, ESSEX COUNTY (Oct 2003 - Feb 2004) 
+116 E 65TH ST, NEW YORK NY 10021-7007, NEW YORK COUNTY (Oct 2000. 2003) 
+601 M, NEW YORK NY 10002, NEW YORK COUNTY (Sep 1998) 
+DOB: 
+Age: 57 
+xxx-xx-xxxx issued in New Jersey between 01/01/1961 and 12/31/1963 
+lillatDU
+i
+Ball~,Age: 
+57 
+- - 
+• 
+ersey between 01/01/1961 and 12/31/1963 
+DOB:-Age: 
+57 
+issimilliey 
+between 01/01/1961 and 12/31/1963 
+DOB~Age: 
+57 
+y between 01/01/1961 and 12/31/1963 
+B
+Age: 57 
+.11.11~Illir 
+belliii1.971 
+and 12/31/1972 
+DOB 
+ge: 57 
+)oorecr-root issued in New Jersey beiwmirAnr m
+i /1961 and 12/31/1963 
+DOB:MRIAge: 57 
+xicr->x-»n issued in New Jersey between 1 
+/1961 and 12/31/1963 
+Active Address(es): 
+NEW YORK NY 10023-7703, NEW YORK COUNTY (Mar 1999 Mar 2008) 
+NEW YORK NY 10023-7703, NEW YORK COUNTY (Feb 1998 - Feb 2008) 
+NEW YORK NY 10023-7703, NEW YORK COUNTY (Jun 2002 - Mar 2007) 
+# CI, VAIL CO 81657-3713, EAGLE COUNTY (Aug 1994 - Mar 2007) 
+Previous And Non-Verified Address(es): 
+153 N MABBETTSVILLE RD, MILLBROOK NY 12545-5357, DUTCHESS COUNTY (Sep 1975 - Feb 2008) 
+85 4TH AVE APT 2FF, NEW YORK NY 10003-5208, NEW YORK COUNTY (Aug 2906 - Nov 2007) 
+515 N MABBETTSVILLE RD W, MILLBROOK NY 12545.5362, DUTCHESS COUNTY (Dec 2004 - Oct 2007) 
+543 N MABBETTSVILLE RO, MILLBROOK NY 12545-5362, DUTCHESS COUNTY (Apr 1981 • Aug 2007) 
+75 ROCKEFELLER P12 STE 93, NEW YORK NY 10019-6908, NEW YORK COUNTY ( 2005 - 2007) 
+75 ROCKEFELLER P12 APT 900, NEW YORK NY 10019.6908, NEW YORK COUNTY (Dec 1998 - 2007) 
+GHISLA1NE NOELLE MAXWELL DOB: 12/25/1961 Age: 46 
+icia-xx->xa issued in New York between 01/01/1991 and 12/31/1993 
+Names Associated with Associate: 
+GHISLANE N MAXWELL DOB: 12/1961 Age: 46 
+>onc-xx-xx>s< issued in New York between 01/01/1991 and 12/31/1993 
+Previous And Non-Verified Address(es): 
+https://secure.accurint.com/app/bps/report 
+5/2/2008 
+EFTA01728363

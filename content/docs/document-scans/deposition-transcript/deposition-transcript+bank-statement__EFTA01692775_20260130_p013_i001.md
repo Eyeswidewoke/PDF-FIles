@@ -1,0 +1,319 @@
+---
+source_image: "deposition-transcript+bank-statement__EFTA01692775_20260130_p013_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 530
+confidence: 1.00
+extracted: 2026-02-13T16:20:30.558954
+---
+
+71
+11,
+%)(cingular
+iirni 
+Wireless 
+Account Number 
+Account Nanw 
+Data of Inv*INC 
+January 12.2005 
+Page 9 of 22 
+SUMMARY OF CURRENT ACTIVITY 
+DETAIL OF CURRENT ACTIVITY 
+Masi?? v Service Carves 
+DostMelen 
+CALL WAITING 
+TEXT MESSAGING 
+Service DOM 
+12112324 •01/11/05 
+12/12/01 oin nos 
+12112104 •01/11/05 
+VOICEMAIL 
+12/12/01•01/11/05 
+GSM AMERr.A LOC.& 979.90 
+12I MI -0911/05 
+DOMESTIC LONG DISTANCE FRMSEAMCE AREA 12)12.01.01/11/05 
+DETAILtM21NG 
+12112101.01)11205
+TYREEWAY CALUIG 
+12)1/021-01/11/05 
+WORLDCONNECT 
+12/12101 . 01/11/05 
+REGULATORY PROGRPOS FU 
+nriao4 cosmos 
+CALL FORWARDING 
+1912/04 • 01/1005 
+Teal Moathly UM*, OMINNI 
+440,01Ny Usage CIINGDS 
+Me Description 
+1 UNLMTED NAMED MN 
+2 INCL. 01 FUN DATA 
+3 MESSAGE RETRIEVAL 
+4 CALL WNTIVG 
+5 IMUM molt TOMO& 
+8 TEXT MESSAGES SENT 
+3CO ADMAIM/AL 1144 
+ADDL DATA SO OMO) 
+9 E MALLET 
+II) INCLUDED MIMES 
+11 ADDOVNAL MINUTES 
+Tool Monilly Wage EIMMOS 
+1.021 lObbfee (1(6) 41540244N 0581 
+0tnor icron ter Marge, 
+RNN DourIptloa 
+UNNERSALCONtECDVITY CHARGE 
+TotsOtte Subserbr Charm 
+‘47;.c.: Govinrunenl I1/410:k rind 
+• /OS 
+Mum DamlptIon 
+I COUNTY 911 TM 
+2 FEDERAL TAX 
+3 LOCAL COMM SERVICE TAX 
+4 STATE COMM SERVICE TM 
+Tom. Smierime Eimmamm F404 m4 Tams 
+TOTAL CNARGES FOR 
+Oily Mod 
+1594 MIN 
+5 KO 
+00 EVT 
+29 EVT 
+414 MIN 
+122 EVT 
+300 MIN 
+510 KB 
+9 EVT 
+400 MN 
+130 MN 
+Cbarm 
+000 
+000 
+000 
+000 
+YAM 
+000 
+000 
+O
+O
+X0 
+X4) 
+1.75 
+emL 
+41.74 
+Chins 
+000 
+000 
+0.00 
+000 
+0.00 
+12.20 
+000 
+1810 
+17.41 
+0.00 
+100.41 
+dit 
+Chap 
+0.50 
+9.11 
+8.14 
+222s. 
+toss 
+ttl.14 
+WW1.: IISAGC FORT 
+NINON' 
+INN fraw Dm* Cad 
+I WO 
+7 nem 1202. 
+t 124120924A 
+• 1207 00.114, 
+Zit MAC 
+I/ 
+1/ 
+TRW 
+10001 
+29 
+92 
+a
+a
+a 
+al 
+z 
+NU
+1n2 
+II 
+64 
+03.109 
+VI MAW 
+VIZri MA 
+07i54
+any 
+Charge 
+Calls To 
+GOWN 
+FL 
+NAN 
+LAILMITEDNANINIO MN 
+LISNI RAW Onsclizon 
+Ism 
+UNLIT% 
+%AMMO MN 
+HAM 
+LM9 T10 NAM 
+Am 
+NFL 
+iNg 
+::::
+St 
+IL1.11 
+so avec ft  
+21W 
+MESSAGE RETRNAL 
+NWORMACII FL 
+ZMN 
+MINIM rovvio ;am 
+WIAOMFACKFI. 
+MAI 
+WWI 
+WHIM OA. 
+s a 
+ ".cr." 
+R i :Ns ern" 'syn 5F, 
+wpamerA04 a  
+2I m
+EYT
+N 
+u
+NESSAOF RENINAL 
+LNIAIT 
+HIVIEN In 
+NNANI MN 
+NAM MN 
+NIVAH In
+FL 
+I MN 
+OtLM 
+rowv4
+PUWICNom
+M: 
+INT 
+NES 
+RETHEV AL 
+WPAMBEAcH 
+80774TOMICNR 
+ill 
+UN 
+AIN/1121PIAI. 
+YOKIMEACIIFI. 
+1 an 
+mit To gar 
+VAIAVCII FL 
+1/24 
+UNUMTIO NhVlIND MN 
+IN 
+ 
+WINN TEO NANCNO MN 
+l' hvIll 
+eilerThang 
+INN 
+LNIAM1f0 NM1010 MN 
+}}MN 
+WANTED WINN° MN 
+lail 
+&ILI ° V, 20/1411 
+i Am 
+t.
+I.1)00.110. arnI
+NNlItNeva144 
+1 EFT 
+ITISt vg 
+Ft 
+Ign 
+w4
+" 1:1I/8 rhylni tilli 
+mi... st 
+1MN 
+MILIAT 
+WW1 MIN 
+VMMIREACI4 FL 
+2M/1 
+UNLUT tRani
+:14: vvAl
+lAN 
+VITALIMEACH FL 
+111% 
+INNIAMEACN FL 
+1MN 
+NIYAIND MN 
+Ft 
+ILI 
+FO WAND MN 
+1MN 
+CAL/CREDO µ 
+ICAO/ n. 
+ass 
+iittrartgonyourouty 
+iefr 
+I/ 
+FL 
+IMF: 
+nEtrilajD 
+;t 
+i 
+A/Mum. LIN 
+I sM 
+MN 
+Nigtgrt 
+= 
+= 
+INN 
+FL 
+ININ 
+WIA1 MN 
+WWI 
+IAN 
+FL 
+INN 
+I 
+Mal 
+LiIt
+TER A
+NC eg 
+rt 
+rils  
+sLTailfit 
+ag§ 
+Ft 
+NAN 
+EA 
+1 
+MAN 
+M OM
+AN 
+es 
+CA0011C7IL 
+111
+13: 
+'WACO.. ANTIC II/A 
+A 
+1, 
+MOM MOM. TO 
+=AIM 
+2MM 
+=COL TIIFIAC MN 
+1•100100I FL 
+No 
+CA.
+A0L.Olkjmil.0& 
+NG 
+Ft 
+WPA,1100/414FL 
+VAM.INEAci4F1. 
+VAAL...EACH FL 
+LNLIAIT/ 
+UtIMIT 
+Lf1 
+L 
+MUT/ 
+NNMM 
+MY 
+C1•2100 
+EFTA01692787

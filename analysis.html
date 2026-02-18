@@ -1,0 +1,894 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FILE ANALYSIS &amp; FINDINGS | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --bg:#0f1218;
+      --surface:#171c24;
+      --surface-2:#1f2631;
+      --border:#2d3643;
+      --text:#e8edf4;
+      --muted:#92a0b4;
+      --accent:#d35d2c;
+      --accent-2:#f08a5d;
+      --warn:#e6a817;
+      --good:#2caa71;
+      --bad:#c62828;
+      --sans:'Space Grotesk',system-ui,sans-serif;
+      --mono:'IBM Plex Mono',monospace;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--sans);background:radial-gradient(circle at 10% 0%,#1a1f29 0%,#0f1218 55%);color:var(--text);line-height:1.6;min-height:100vh}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    /* BACK LINK */
+    .back-link{
+      display:inline-block;margin:1rem;padding:.5rem 1rem;
+      border:1px solid var(--border);border-radius:.5rem;
+      color:var(--muted);font:600 .78rem var(--mono);transition:all .2s;
+    }
+    .back-link:hover{color:var(--accent);border-color:var(--accent);text-decoration:none}
+
+    /* HERO */
+    .hero{
+      padding:2.5rem 1.5rem 1.5rem;text-align:center;
+      border-bottom:2px solid var(--accent);
+      background:linear-gradient(170deg,#131822 0%,#171d28 45%,#0f1218 100%);
+    }
+    .hero h1{
+      font-size:clamp(1.8rem,4vw,2.8rem);letter-spacing:.04em;font-weight:700;
+      background:linear-gradient(90deg,var(--accent),var(--accent-2));
+      background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;color:transparent;
+    }
+    .hero .subhead{max-width:84ch;margin:.6rem auto 0;color:var(--muted);font-size:.92rem}
+    .hero .datestamp{margin-top:.5rem;font:.72rem var(--mono);color:var(--muted)}
+
+    /* LAYOUT */
+    .content{max-width:1200px;margin:0 auto;padding:1rem 1.5rem 3rem}
+    section.block{
+      margin-bottom:2rem;
+      background:var(--surface);border:1px solid var(--border);border-radius:.8rem;
+      padding:1.4rem 1.5rem;
+    }
+    section.block h2{
+      color:var(--accent);margin-bottom:.7rem;font-size:1.15rem;letter-spacing:.02em;
+      border-bottom:1px solid var(--border);padding-bottom:.45rem;
+    }
+    section.block h3{color:var(--accent-2);margin:1rem 0 .5rem;font-size:.95rem}
+    p{margin-bottom:.8rem;color:var(--text);font-size:.88rem}
+    p.muted{color:var(--muted)}
+    .editorial{
+      border-left:3px solid var(--accent);padding:.8rem 1.1rem;margin:1rem 0;
+      background:rgba(211,93,44,.06);border-radius:0 .5rem .5rem 0;font-size:.87rem;
+    }
+    .editorial strong{color:var(--accent-2)}
+    .callout{
+      border:1px solid var(--warn);background:rgba(230,168,23,.08);
+      border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0;font-size:.85rem;
+    }
+    .callout.red{border-color:var(--bad);background:rgba(198,40,40,.08)}
+    .callout.green{border-color:var(--good);background:rgba(44,170,113,.08)}
+
+    /* STAT CARDS */
+    .stat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:.65rem;margin:.8rem 0}
+    .stat-card{
+      background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;
+      padding:.75rem .85rem;text-align:center;
+    }
+    .stat-card .n{font:700 1.5rem var(--mono);color:var(--accent)}
+    .stat-card .l{font-size:.68rem;color:var(--muted);text-transform:uppercase;margin-top:.15rem;letter-spacing:.03em}
+    .stat-card.warn .n{color:var(--warn)}
+    .stat-card.bad .n{color:var(--bad)}
+    .stat-card.good .n{color:var(--good)}
+
+    /* BARS */
+    .bar-section{display:flex;flex-direction:column;gap:.45rem;margin:.7rem 0}
+    .bar-row{display:grid;grid-template-columns:200px 1fr 70px;align-items:center;gap:.6rem}
+    .bar-label{font:600 .74rem var(--mono);color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .bar-track{height:12px;background:var(--border);border-radius:999px;overflow:hidden}
+    .bar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--accent-2))}
+    .bar-fill.blue{background:linear-gradient(90deg,#1a6baf,#4ea8de)}
+    .bar-fill.green{background:linear-gradient(90deg,#1a7a45,#2caa71)}
+    .bar-fill.red{background:linear-gradient(90deg,#8e0000,#c62828)}
+    .bar-fill.yellow{background:linear-gradient(90deg,#b8860b,#e6a817)}
+    .bar-count{text-align:right;font:600 .72rem var(--mono);color:var(--muted)}
+
+    /* TABLES */
+    .data-table{width:100%;border-collapse:collapse;margin:.7rem 0;font-size:.8rem}
+    .data-table th{
+      text-align:left;font:600 .72rem var(--mono);color:var(--accent-2);
+      text-transform:uppercase;letter-spacing:.04em;padding:.5rem .6rem;
+      border-bottom:2px solid var(--border);background:var(--surface-2);
+    }
+    .data-table td{padding:.45rem .6rem;border-bottom:1px solid var(--border);color:var(--text)}
+    .data-table tr:hover td{background:rgba(211,93,44,.05)}
+    .data-table .num{text-align:right;font-family:var(--mono);font-size:.78rem}
+    .data-table .muted{color:var(--muted)}
+    .data-table .accent{color:var(--accent)}
+    .data-table .small{font-size:.72rem;color:var(--muted)}
+
+    /* SAMPLE BLOCKS */
+    .sample{
+      background:var(--bg);border:1px solid var(--border);border-radius:.5rem;
+      padding:.8rem 1rem;margin:.7rem 0;font:.78rem var(--mono);
+      color:var(--muted);white-space:pre-wrap;line-height:1.5;max-height:300px;overflow-y:auto;
+    }
+    .sample .highlight{color:var(--accent-2);font-weight:600}
+
+    /* PIPELINE */
+    .pipeline{display:flex;flex-wrap:wrap;gap:.6rem;margin:.8rem 0}
+    .pipe-step{
+      flex:1;min-width:160px;background:var(--surface-2);border:1px solid var(--border);
+      border-radius:.6rem;padding:.7rem;text-align:center;position:relative;
+    }
+    .pipe-step::after{
+      content:'→';position:absolute;right:-.45rem;top:50%;transform:translateY(-50%);
+      color:var(--accent);font-weight:700;font-size:1.1rem;
+    }
+    .pipe-step:last-child::after{content:none}
+    .pipe-step .step-n{font:700 .7rem var(--mono);color:var(--accent);text-transform:uppercase}
+    .pipe-step .step-desc{font-size:.78rem;color:var(--muted);margin-top:.25rem}
+
+    /* TOC */
+    .toc{
+      background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;
+      padding:1rem 1.2rem;margin-bottom:1.5rem;
+    }
+    .toc h3{color:var(--accent);margin-bottom:.5rem;font-size:.9rem}
+    .toc ol{padding-left:1.3rem}
+    .toc li{margin:.3rem 0}
+    .toc a{font:.8rem var(--mono);color:var(--muted)}
+    .toc a:hover{color:var(--accent)}
+
+    @media(max-width:700px){
+      .bar-row{grid-template-columns:120px 1fr 55px}
+      .content{padding:1rem}
+      section.block{padding:1rem}
+    }
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./index.html">&larr; BACK TO MAIN SITE</a>
+
+  <header class="hero">
+    <h1>FILE ANALYSIS &amp; FINDINGS</h1>
+    <p class="subhead">
+      A detailed breakdown of the official Epstein file releases &mdash; what&rsquo;s actually in them,
+      how they were formatted, what it takes to process them, and what the numbers reveal about
+      the DOJ&rsquo;s approach to &ldquo;transparency.&rdquo;
+    </p>
+    <p class="datestamp">Last updated: February 2026 &middot; Based on analysis of 904,395 files across 12 official datasets</p>
+  </header>
+
+  <div class="content">
+
+    <!-- TABLE OF CONTENTS -->
+    <nav class="toc">
+      <h3>CONTENTS</h3>
+      <ol>
+        <li><a href="#scale">The Scale of the Release</a></li>
+        <li><a href="#format">Format &amp; Delivery Choices</a></li>
+        <li><a href="#content-quality">Content Quality Breakdown</a></li>
+        <li><a href="#images">Image Extraction &amp; Classification</a></li>
+        <li><a href="#blanks">Blank Pages &amp; Waste</a></li>
+        <li><a href="#datasets">Dataset-by-Dataset Breakdown</a></li>
+        <li><a href="#pipeline">What It Takes to Process These</a></li>
+        <li><a href="#editorial">Editorial: The Document Dump Strategy</a></li>
+        <li><a href="#samples">Content Samples</a></li>
+      </ol>
+    </nav>
+
+    <!-- ─── 1. SCALE ─── -->
+    <section class="block" id="scale">
+      <h2>1. The Scale of the Release</h2>
+      <p>
+        The DOJ released Jeffrey Epstein&rsquo;s files across 12 separate ZIP/TAR archives totaling
+        approximately <strong>461 GB</strong> of compressed data, expanding to over <strong>1.86 TB</strong>
+        on disk. The release contains <strong>904,395 individual files</strong>, of which approximately
+        <strong>900,956 are PDFs</strong>.
+      </p>
+
+      <div class="stat-grid">
+        <div class="stat-card"><div class="n">904,395</div><div class="l">Total Files</div></div>
+        <div class="stat-card"><div class="n">~461 GB</div><div class="l">Compressed Archives</div></div>
+        <div class="stat-card"><div class="n">1.86 TB</div><div class="l">Expanded on Disk</div></div>
+        <div class="stat-card"><div class="n">12</div><div class="l">Separate Datasets</div></div>
+        <div class="stat-card"><div class="n">99.6%</div><div class="l">Files Are PDFs</div></div>
+        <div class="stat-card"><div class="n">835,718</div><div class="l">Extracted Images</div></div>
+      </div>
+
+      <p class="muted">
+        To put this in perspective: if you spent 30 seconds reviewing each document, working 8 hours a day
+        with no breaks, it would take <strong>2.6 years</strong> to get through all of them. The format
+        choices made by the releasing agency ensure this is exactly what would be required for any
+        meaningful review.
+      </p>
+    </section>
+
+    <!-- ─── 2. FORMAT ─── -->
+    <section class="block" id="format">
+      <h2>2. Format &amp; Delivery Choices</h2>
+
+      <h3>Everything Is a PDF</h3>
+      <p>
+        Nearly every file in the release &mdash; 99.6% &mdash; is a PDF. This includes emails, text messages,
+        screenshots, photographs, handwritten notes, spreadsheets, legal filings, and blank pages.
+        Each individual email is its own separate PDF file. A conversation thread that might be a single
+        scrollable email in your inbox becomes 5&ndash;15 individual PDF files that must be opened,
+        read, and cross-referenced manually.
+      </p>
+
+      <h3>Why Not Just Release the Native Formats?</h3>
+      <p>
+        The emails in these files originally existed as <code>.msg</code>, <code>.eml</code>, or in PST
+        archive format. The images existed as <code>.jpg</code> and <code>.png</code> files. The spreadsheets
+        were <code>.xls</code> or <code>.csv</code>. Converting everything to individual PDF files:
+      </p>
+      <ul style="padding-left:1.5rem;margin:.5rem 0 1rem;color:var(--muted);font-size:.86rem">
+        <li>Strips all metadata (timestamps, sender info, thread context)</li>
+        <li>Makes full-text search impossible without OCR processing first</li>
+        <li>Inflates the total file count from what would be ~50,000 logical documents to 900,000+ PDFs</li>
+        <li>Forces every researcher to independently solve the same extraction problems</li>
+        <li>Fragments email conversations across thousands of unlinked files</li>
+      </ul>
+
+      <h3>Images Stored as PDFs</h3>
+      <p>
+        Photographs, screenshots, scanned documents, and even business cards are all wrapped in
+        PDF containers. A simple JPEG photograph that would be 200KB becomes a 1.5MB PDF. Our extraction
+        pipeline pulled <strong>835,718 images</strong> out of these PDF wrappers. Of those, over
+        <strong>564,000 appeared blank at the pixel level</strong>. However, our
+        <a href="./deep-sweep.html">Deep Sweep</a> later recovered hidden text from <strong>400,913</strong>
+        of those pages &mdash; they were blank <em>as images</em> but contained embedded text layers
+        that yielded 40.3 million additional words.
+      </p>
+
+      <h3>Concordance / IPRO Load File Format</h3>
+      <p>
+        Dataset 10 (302,600 files) uses <strong>Concordance/IPRO</strong> litigation support format.
+        This is an industry tool used by law firms for document review &mdash; it assigns each page a
+        Bates number and stores it as a single-page TIFF or PDF. A 47-page deposition becomes 47
+        individual files named <code>EPSTEIN-00384721.pdf</code> through <code>EPSTEIN-00384767.pdf</code>.
+        Reassembling documents from this format requires the accompanying load file (DAT/OPT), which
+        is not always included or is itself in a proprietary format.
+      </p>
+
+      <div class="callout">
+        <strong>⚠ Format note:</strong> The Concordance/IPRO format is specifically designed for
+        billing-by-the-hour legal review. It is not designed for public transparency. The choice to
+        release files in this format — rather than converting to merged, searchable PDFs — is itself
+        a significant editorial decision.
+      </div>
+    </section>
+
+    <!-- ─── 3. CONTENT QUALITY ─── -->
+    <section class="block" id="content-quality">
+      <h2>3. Content Quality Breakdown</h2>
+      <p>
+        We performed a systematic analysis of the file contents by randomly sampling 500 documents
+        from Dataset 11 (the largest dataset at 331,997 files) and manually categorizing the content.
+        Results:
+      </p>
+
+      <div class="stat-grid">
+        <div class="stat-card warn"><div class="n">43%</div><div class="l">Admin / Scheduling</div></div>
+        <div class="stat-card good"><div class="n">38%</div><div class="l">Substantive Content</div></div>
+        <div class="stat-card bad"><div class="n">18%</div><div class="l">Noise / Junk</div></div>
+      </div>
+
+      <h3>What &ldquo;Admin / Scheduling&rdquo; Means (43%)</h3>
+      <p>
+        Nearly half the files are scheduling emails, appointment confirmations, flight arrangements,
+        and logistical coordination. These are emails like: <em>&ldquo;Haircut at 2pm. Vegan lunch
+        with Mort Zuckerman at 12:30. Car to Teterboro at 4.&rdquo;</em> While even scheduling details
+        can be evidentiary (they prove who was where, when), the volume of mundane logistics dramatically
+        dilutes the substantive material.
+      </p>
+
+      <h3>What &ldquo;Substantive&rdquo; Means (38%)</h3>
+      <p>
+        The genuinely significant material includes financial records, legal correspondence, witness
+        depositions, wire transfer records, property documents, communications between Epstein and
+        high-profile associates, and documents from criminal proceedings. This includes:
+      </p>
+      <ul style="padding-left:1.5rem;margin:.5rem 0 1rem;color:var(--muted);font-size:.86rem">
+        <li>Wire transfer records and bank statements from multiple financial institutions</li>
+        <li>Correspondence with attorneys (Dershowitz, others) regarding legal strategy</li>
+        <li>Property records for homes in New York, Palm Beach, New Mexico, USVI</li>
+        <li>Flight manifests and travel arrangements referencing specific individuals</li>
+        <li>Communications between Ghislaine Maxwell and Epstein</li>
+        <li>Documents from the 2006&ndash;2008 Florida investigation and plea deal</li>
+        <li>Meeting schedules that place specific associates at specific locations</li>
+        <li>Leon Black / Apollo Global financial relationship documentation</li>
+        <li>MCC Metropolitan Correctional Center records (Dataset 8)</li>
+      </ul>
+
+      <h3>What &ldquo;Noise&rdquo; Means (18%)</h3>
+      <p>
+        Nearly one-fifth of the files are genuinely useless for investigative purposes:
+        blank pages, cover sheets, fax headers, duplicate transmissions, auto-forwarded news articles,
+        and personal messages with no evidentiary value (e.g., <em>&ldquo;Miss you! Good night
+        xxxxoo&rdquo;</em> texts between Epstein and unnamed contacts).
+      </p>
+
+      <h3>Document Type Distribution</h3>
+      <p>
+        Across all datasets, approximately <strong>96% of files are emails</strong> or email-derived
+        content (email bodies, attachments, forwarded messages). The average document contains
+        approximately <strong>1,492 characters</strong> of extractable text &mdash; about half
+        a printed page.
+      </p>
+
+      <div class="bar-section">
+        <div class="bar-row">
+          <span class="bar-label">Emails &amp; email content</span>
+          <div class="bar-track"><div class="bar-fill" style="width:96%"></div></div>
+          <span class="bar-count">~96%</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Legal filings / court docs</span>
+          <div class="bar-track"><div class="bar-fill blue" style="width:2.2%"></div></div>
+          <span class="bar-count">~2.2%</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Financial records</span>
+          <div class="bar-track"><div class="bar-fill green" style="width:1%"></div></div>
+          <span class="bar-count">~1%</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Photos / media</span>
+          <div class="bar-track"><div class="bar-fill yellow" style="width:0.5%"></div></div>
+          <span class="bar-count">~0.5%</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Other (forms, IDs, etc.)</span>
+          <div class="bar-track"><div class="bar-fill red" style="width:0.3%"></div></div>
+          <span class="bar-count">~0.3%</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── 4. IMAGES ─── -->
+    <section class="block" id="images">
+      <h2>4. Image Extraction &amp; Classification</h2>
+      <p>
+        Because every document is a PDF &mdash; including photographs and screenshots &mdash; we built
+        an image extraction pipeline that pulls embedded images out of every PDF and classifies them
+        using <strong>CLIP</strong> (Contrastive Language–Image Pre-training), an AI vision model.
+        This allows us to categorize the visual contents of the release without opening each PDF manually.
+      </p>
+
+      <div class="stat-grid">
+        <div class="stat-card"><div class="n">835,718</div><div class="l">Images Extracted</div></div>
+        <div class="stat-card"><div class="n">47</div><div class="l">Category Labels</div></div>
+        <div class="stat-card bad"><div class="n">564,807</div><div class="l">Blank Pages Found</div></div>
+        <div class="stat-card warn"><div class="n">67.6%</div><div class="l">Blank Rate</div></div>
+      </div>
+
+      <h3>Top Categories by Image Count</h3>
+      <p class="muted">Images classified by CLIP into descriptive categories. The top two categories alone account for 68.5% of all images.</p>
+
+      <div class="bar-section">
+        <div class="bar-row">
+          <span class="bar-label">deposition-transcript</span>
+          <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+          <span class="bar-count">327,718</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">email-screenshot</span>
+          <div class="bar-track"><div class="bar-fill blue" style="width:74.8%"></div></div>
+          <span class="bar-count">245,042</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">invoice</span>
+          <div class="bar-track"><div class="bar-fill green" style="width:13.1%"></div></div>
+          <span class="bar-count">42,973</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">contact-list</span>
+          <div class="bar-track"><div class="bar-fill yellow" style="width:8.8%"></div></div>
+          <span class="bar-count">28,999</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">uncategorized</span>
+          <div class="bar-track"><div class="bar-fill red" style="width:8.3%"></div></div>
+          <span class="bar-count">27,346</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">legal-filing</span>
+          <div class="bar-track"><div class="bar-fill blue" style="width:7.5%"></div></div>
+          <span class="bar-count">24,595</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">scanned-document</span>
+          <div class="bar-track"><div class="bar-fill" style="width:7.4%"></div></div>
+          <span class="bar-count">24,221</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">typed-page</span>
+          <div class="bar-track"><div class="bar-fill green" style="width:6.7%"></div></div>
+          <span class="bar-count">21,975</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">affidavit</span>
+          <div class="bar-track"><div class="bar-fill yellow" style="width:6.0%"></div></div>
+          <span class="bar-count">19,792</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">bank-statement</span>
+          <div class="bar-track"><div class="bar-fill blue" style="width:5.1%"></div></div>
+          <span class="bar-count">16,641</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">court-document</span>
+          <div class="bar-track"><div class="bar-fill" style="width:4.9%"></div></div>
+          <span class="bar-count">16,145</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">text-message-screenshot</span>
+          <div class="bar-track"><div class="bar-fill red" style="width:2.9%"></div></div>
+          <span class="bar-count">9,420</span>
+        </div>
+      </div>
+
+      <h3>Full Category Inventory</h3>
+      <table class="data-table">
+        <thead><tr><th>Category</th><th class="num">Images</th><th class="num">% of Total</th></tr></thead>
+        <tbody>
+          <tr><td>deposition-transcript</td><td class="num">327,718</td><td class="num">39.2%</td></tr>
+          <tr><td>email-screenshot</td><td class="num">245,042</td><td class="num">29.3%</td></tr>
+          <tr><td>invoice</td><td class="num">42,973</td><td class="num">5.1%</td></tr>
+          <tr><td>contact-list</td><td class="num">28,999</td><td class="num">3.5%</td></tr>
+          <tr><td>uncategorized</td><td class="num">27,346</td><td class="num">3.3%</td></tr>
+          <tr><td>legal-filing</td><td class="num">24,595</td><td class="num">2.9%</td></tr>
+          <tr><td>scanned-document</td><td class="num">24,221</td><td class="num">2.9%</td></tr>
+          <tr><td>typed-page</td><td class="num">21,975</td><td class="num">2.6%</td></tr>
+          <tr><td>affidavit</td><td class="num">19,792</td><td class="num">2.4%</td></tr>
+          <tr><td>bank-statement</td><td class="num">16,641</td><td class="num">2.0%</td></tr>
+          <tr><td>court-document</td><td class="num">16,145</td><td class="num">1.9%</td></tr>
+          <tr><td>text-message-screenshot</td><td class="num">9,420</td><td class="num">1.1%</td></tr>
+          <tr><td>book-page</td><td class="num">5,907</td><td class="num">0.7%</td></tr>
+          <tr><td>spreadsheet</td><td class="num">5,075</td><td class="num">0.6%</td></tr>
+          <tr><td>person</td><td class="num">1,853</td><td class="num">0.2%</td></tr>
+          <tr><td>computer-screen</td><td class="num">1,387</td><td class="num">0.2%</td></tr>
+          <tr><td>indoor-scene</td><td class="num">1,064</td><td class="num">0.1%</td></tr>
+          <tr><td>chart</td><td class="num">1,024</td><td class="num">0.1%</td></tr>
+          <tr><td>phone-screen</td><td class="num">822</td><td class="num">0.1%</td></tr>
+          <tr><td>business-card</td><td class="num">730</td><td class="num">0.1%</td></tr>
+          <tr><td>signature</td><td class="num">727</td><td class="num">0.1%</td></tr>
+          <tr><td>letter</td><td class="num">693</td><td class="num">0.1%</td></tr>
+          <tr><td>portrait-photo</td><td class="num">346</td><td class="num">0.04%</td></tr>
+          <tr><td>passport</td><td class="num">272</td><td class="num">0.03%</td></tr>
+          <tr><td>handwritten-note</td><td class="num">201</td><td class="num">0.02%</td></tr>
+          <tr><td>group-photo</td><td class="num">175</td><td class="num">0.02%</td></tr>
+          <tr><td>newspaper-clipping</td><td class="num">126</td><td class="num">0.02%</td></tr>
+          <tr><td>id-card</td><td class="num">97</td><td class="num">0.01%</td></tr>
+          <tr><td>check</td><td class="num">56</td><td class="num">&lt;0.01%</td></tr>
+          <tr><td>receipt</td><td class="num">64</td><td class="num">&lt;0.01%</td></tr>
+          <tr><td class="muted">+ 16 minor categories</td><td class="num muted">~5,700</td><td class="num muted">0.7%</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- ─── 5. BLANKS ─── -->
+    <section class="block" id="blanks">
+      <h2>5. Blank Pages &amp; Waste</h2>
+      <p>
+        A significant portion of the release consists of completely blank pages &mdash; white rectangles
+        stored as full PDF documents with filenames, file system entries, and archive space. These are
+        not redacted pages (which would typically show redaction bars or stamps) &mdash; they are
+        genuinely empty pages.
+      </p>
+
+      <div class="stat-grid">
+        <div class="stat-card bad"><div class="n">564,807</div><div class="l">Blank Pages Found</div></div>
+        <div class="stat-card warn"><div class="n">67.6%</div><div class="l">of All Images</div></div>
+        <div class="stat-card"><div class="n">3,554</div><div class="l">Bad/Corrupt Images</div></div>
+        <div class="stat-card"><div class="n">250,243</div><div class="l">Duplicates</div></div>
+      </div>
+
+      <h3>Blank Page Breakdown by Source</h3>
+      <table class="data-table">
+        <thead><tr><th>Source Category</th><th class="num">Scanned</th><th class="num">Blanks Found</th><th class="num">Blank %</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr><td>deposition-transcript</td><td class="num">424,716</td><td class="num">233,747</td><td class="num">55.0%</td><td><span style="color:var(--good)">✓ Complete</span></td></tr>
+          <tr><td>email-screenshot</td><td class="num">261,902</td><td class="num">186,309</td><td class="num">71.1%</td><td><span style="color:var(--good)">✓ Complete</span></td></tr>
+          <tr><td>uncategorized</td><td class="num">28,544</td><td class="num">26,975</td><td class="num">94.5%</td><td><span style="color:var(--good)">✓ Complete</span></td></tr>
+          <tr><td>contact-list</td><td class="num">29,072</td><td class="num">24,135</td><td class="num">83.0%</td><td><span style="color:var(--good)">✓ Complete</span></td></tr>
+          <tr><td>typed-page</td><td class="num">22,896</td><td class="num">18,736</td><td class="num">81.8%</td><td><span style="color:var(--good)">✓ Complete</span></td></tr>
+          <tr><td>invoice</td><td class="num">43,229</td><td class="num">15,457</td><td class="num">35.8%</td><td><span style="color:var(--good)">✓ Complete</span></td></tr>
+          <tr><td class="muted">+ 41 other categories</td><td class="num muted">138,764</td><td class="num muted">59,448</td><td class="num muted">42.8%</td><td><span style="color:var(--good)">✓ Complete</span></td></tr>
+          <tr style="border-top:2px solid var(--border)"><td><strong>Total</strong></td><td class="num"><strong>949,123</strong></td><td class="num"><strong>564,807</strong></td><td class="num"><strong>59.5%</strong></td><td></td></tr>
+        </tbody>
+      </table>
+
+      <div class="callout red">
+        <strong>🔴 What this means:</strong> At the image level, two out of every three files in the
+        Epstein release appeared to be a completely blank page. However, our <a href="./deep-sweep.html">Deep Sweep</a>
+        recovered hidden text from 400,913 of those pages, finding 40.3 million words of previously
+        invisible content. Even after recovery, the remaining genuinely empty pages still inflated
+        file counts, occupied significant disk space, and wasted every researcher&rsquo;s time.
+      </div>
+    </section>
+
+    <!-- ─── 6. DATASETS ─── -->
+    <section class="block" id="datasets">
+      <h2>6. Dataset-by-Dataset Breakdown</h2>
+      <p>
+        The 12 datasets vary enormously in size and content. Three datasets (DS9, DS10, DS11) contain
+        98% of all files. The remaining nine datasets combined hold fewer than 16,000 files.
+      </p>
+
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Dataset</th>
+            <th class="num">Files</th>
+            <th class="num">Archive Size</th>
+            <th>Primary Content</th>
+            <th>Scan Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>DS1</td><td class="num">3,167</td><td class="num">1.23 GB</td>
+            <td class="small">Mixed correspondence, legal filings</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td>DS2</td><td class="num">579</td><td class="num">0.62 GB</td>
+            <td class="small">Correspondence, financial docs</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td>DS3</td><td class="num">70</td><td class="num">0.58 GB</td>
+            <td class="small">Legal filings, depositions</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td>DS4</td><td class="num">155</td><td class="num">0.34 GB</td>
+            <td class="small">Property records, legal docs</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td>DS5</td><td class="num">123</td><td class="num">0.06 GB</td>
+            <td class="small">Correspondence</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td>DS6</td><td class="num">16</td><td class="num">0.05 GB</td>
+            <td class="small">Compact legal set</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td>DS7</td><td class="num">20</td><td class="num">0.09 GB</td>
+            <td class="small">Small supplementary set</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td>DS8</td><td class="num">10,595</td><td class="num">9.95 GB</td>
+            <td class="small">MCC prison records, guard logs, indictment docs</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td><strong>DS9</strong></td><td class="num"><strong>254,477</strong></td><td class="num"><strong>137.90 GB</strong></td>
+            <td class="small">Lesley Groff emails, Kahn correspondence, bulk email</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+          <tr>
+            <td>DS10</td><td class="num">302,600</td><td class="num">78.64 GB</td>
+            <td class="small">Concordance/IPRO litigation format, financial records</td>
+            <td><span style="color:var(--good)">✓ Financial scan complete</span></td>
+          </tr>
+          <tr>
+            <td>DS11</td><td class="num">331,997</td><td class="num">25.56 GB</td>
+            <td class="small">Largest email set — bulk Epstein office email</td>
+            <td><span style="color:var(--good)">✓ Person scan (11 targets)</span></td>
+          </tr>
+          <tr>
+            <td>DS12</td><td class="num">155</td><td class="num">0.11 GB</td>
+            <td class="small">Supplementary documents</td>
+            <td><span style="color:var(--good)">✓ Scanned</span></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="bar-section" style="margin-top:1rem">
+        <div class="bar-row">
+          <span class="bar-label">DS11 (331,997)</span>
+          <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+          <span class="bar-count">36.7%</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">DS10 (302,600)</span>
+          <div class="bar-track"><div class="bar-fill blue" style="width:91.1%"></div></div>
+          <span class="bar-count">33.5%</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">DS9 (254,477)</span>
+          <div class="bar-track"><div class="bar-fill red" style="width:76.7%"></div></div>
+          <span class="bar-count">28.1%</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">DS8 (10,595)</span>
+          <div class="bar-track"><div class="bar-fill yellow" style="width:3.2%"></div></div>
+          <span class="bar-count">1.2%</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">DS1-7 + DS12 (4,285)</span>
+          <div class="bar-track"><div class="bar-fill green" style="width:1.3%"></div></div>
+          <span class="bar-count">0.5%</span>
+        </div>
+      </div>
+
+      <div class="callout green">
+        <strong>✅ All datasets scanned.</strong> All 12 datasets have been fully processed including
+        text extraction (286M words), blank page detection (564,807 blanks), duplicate scanning
+        (250,243 duplicates), and person reference scanning (27 targets across all datasets).
+      </div>
+    </section>
+
+    <!-- ─── 7. PIPELINE ─── -->
+    <section class="block" id="pipeline">
+      <h2>7. What It Takes to Process These Files</h2>
+      <p>
+        There is no &ldquo;download and read&rdquo; path for these files. Any meaningful analysis
+        requires building custom software infrastructure. Here is what our pipeline involves:
+      </p>
+
+      <div class="pipeline">
+        <div class="pipe-step">
+          <div class="step-n">1. Download</div>
+          <div class="step-desc">461 GB across 13 archives from DOJ/Archive.org sources</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">2. Extract</div>
+          <div class="step-desc">Decompress ZIP/TAR/ZST → 1.86 TB on disk, 904K files</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">3. Parse PDFs</div>
+          <div class="step-desc">PyMuPDF extracts text + images from every PDF</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">4. OCR</div>
+          <div class="step-desc">Tesseract/OCR on scanned pages with no embedded text</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">5. Classify</div>
+          <div class="step-desc">CLIP AI vision model sorts 835K images into 45 categories</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">6. Scan</div>
+          <div class="step-desc">Custom Python scripts scan for person names, financial patterns</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">7. Index</div>
+          <div class="step-desc">Results wired into searchable web interface</div>
+        </div>
+      </div>
+
+      <h3>Technical Requirements</h3>
+      <table class="data-table">
+        <thead><tr><th>Component</th><th>Requirement</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td>Storage</td><td>~2 TB minimum</td><td>Archives + extracted + working copies</td></tr>
+          <tr><td>RAM</td><td>16 GB+</td><td>PDF processing is memory-intensive</td></tr>
+          <tr><td>Python</td><td>3.10+</td><td>PyMuPDF, Pillow, NumPy, various ML libs</td></tr>
+          <tr><td>GPU (optional)</td><td>CUDA-capable</td><td>CLIP classification, ~4hrs with GPU vs ~40hrs CPU</td></tr>
+          <tr><td>Processing Time</td><td>~72 hours</td><td>Full pipeline: extract → classify → scan (per-dataset varies)</td></tr>
+          <tr><td>Custom Scripts</td><td>40+</td><td>Extraction, OCR, scanning, classification, site generation</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Software Stack</h3>
+      <ul style="padding-left:1.5rem;margin:.5rem 0 1rem;color:var(--muted);font-size:.86rem">
+        <li><strong>PyMuPDF (fitz)</strong> &mdash; PDF text and image extraction</li>
+        <li><strong>OpenAI CLIP</strong> &mdash; Zero-shot image classification (ViT-B/32)</li>
+        <li><strong>Pillow + NumPy</strong> &mdash; Image analysis, blank detection (mean pixel &gt; 252, std &lt; 3)</li>
+        <li><strong>Tesseract OCR</strong> &mdash; Optical character recognition for scanned pages</li>
+        <li><strong>Python 3.11</strong> &mdash; All scripts, batch processing, report generation</li>
+        <li><strong>Static HTML/JS</strong> &mdash; Website with search, maps, timeline, cast tracking</li>
+      </ul>
+
+      <div class="callout green">
+        <strong>✅ Open source:</strong> Every script used in this project is available in the project
+        repository. The goal is that any researcher can replicate and extend this analysis.
+      </div>
+    </section>
+
+    <!-- ─── 8. EDITORIAL ─── -->
+    <section class="block" id="editorial">
+      <h2>8. Editorial: The Document Dump Strategy</h2>
+
+      <div class="editorial">
+        <p>
+          <strong>This is a classic document dump.</strong> The release format follows a well-known
+          pattern used when institutions want to appear transparent while making genuine scrutiny
+          as difficult as possible.
+        </p>
+      </div>
+
+      <h3>The Pattern</h3>
+      <p>
+        Document dumps share common characteristics, and this release exhibits all of them:
+      </p>
+      <ul style="padding-left:1.5rem;margin:.5rem 0 1rem;color:var(--text);font-size:.86rem;line-height:1.7">
+        <li>
+          <strong>Volume as obstruction:</strong> 900,000 files sounds like full transparency.
+          In practice, it means no single human can review the material. The sheer volume is itself
+          a form of concealment.
+        </li>
+        <li>
+          <strong>Hostile formatting:</strong> Converting native email archives to individual PDFs
+          destroys searchability, threading, metadata, and context. This is a choice &mdash; the
+          original files could have been released in their native format.
+        </li>
+        <li>
+          <strong>Noise inflation:</strong> Including 564,000+ blank pages, duplicate transmissions,
+          and junk inflates the file count and dilutes substantive content. Every blank page a
+          researcher opens is time not spent on real evidence.
+        </li>
+        <li>
+          <strong>Fragmentation:</strong> Splitting material across 12 separate archives with
+          inconsistent naming schemes, mixed formats, and no cross-referencing index means researchers
+          must independently solve the same organizational problems before any analysis can begin.
+        </li>
+        <li>
+          <strong>No index or manifest:</strong> A 900,000-document release with no master index,
+          no date range guide, no subject categorization, and no document-type breakdown. The
+          releasing agency knows what these files contain — they reviewed them before release.
+          The choice not to include an index is deliberate.
+        </li>
+      </ul>
+
+      <h3>The Effect</h3>
+      <p>
+        The practical result is that meaningful analysis requires:
+      </p>
+      <ul style="padding-left:1.5rem;margin:.5rem 0 1rem;color:var(--muted);font-size:.86rem">
+        <li>2+ TB of storage space</li>
+        <li>Custom software engineering capability</li>
+        <li>Machine learning infrastructure for classification</li>
+        <li>Weeks to months of processing time</li>
+        <li>Domain expertise in legal, financial, and criminal investigation documents</li>
+      </ul>
+      <p>
+        This effectively limits genuine analysis to well-funded organizations, while allowing officials
+        to point to the release as evidence of transparency. The files are &ldquo;public&rdquo; in the
+        same way that a needle in 900,000 haystacks is &ldquo;findable.&rdquo;
+      </p>
+
+      <h3>What Genuine Transparency Would Look Like</h3>
+      <ul style="padding-left:1.5rem;margin:.5rem 0 1rem;color:var(--text);font-size:.86rem;line-height:1.7">
+        <li>Release emails in their native format (PST/EML) with intact threading and metadata</li>
+        <li>Provide a searchable index with document types, date ranges, and subject categories</li>
+        <li>Remove blank pages and duplicates before release</li>
+        <li>Merge single-page Concordance/IPRO files back into complete documents</li>
+        <li>Release images as image files, not PDF-wrapped containers</li>
+        <li>Provide a single consolidated archive rather than 12 fragmented datasets</li>
+        <li>Include a document manifest mapping Bates numbers to logical document boundaries</li>
+      </ul>
+
+      <div class="editorial">
+        <p>
+          <strong>The question is not whether these files contain important information &mdash; they do.</strong>
+          The question is whether the format of the release was designed to facilitate public understanding
+          or to obstruct it. The evidence strongly suggests the latter. Every formatting choice made in this
+          release — individual PDFs, Concordance load files, blank page inclusion, fragmented archives,
+          no index — increases the barrier to analysis without adding any transparency value.
+        </p>
+        <p style="margin-top:.6rem">
+          This project exists to break down those barriers. Every file has been extracted, classified,
+          scanned, and indexed so that the public can actually see what&rsquo;s in these documents
+          without needing a law firm&rsquo;s IT department.
+        </p>
+      </div>
+    </section>
+
+    <!-- ─── 9. SAMPLES ─── -->
+    <section class="block" id="samples">
+      <h2>9. Content Samples</h2>
+      <p>
+        To illustrate the range of material, here are representative samples from different content
+        categories, drawn from actual files in the release.
+      </p>
+
+      <h3>Scheduling / Admin (43% of content)</h3>
+      <div class="sample">From: <span class="highlight">Office of Jeffrey Epstein</span>
+Subject: JE Schedule — Tuesday
+
+<span class="highlight">10:00am</span> — Haircut
+<span class="highlight">12:30pm</span> — VEGAN LUNCH w/ Mort Zuckerman
+<span class="highlight">2:00pm</span> — Call with Richard Kahn re: trust restructuring
+<span class="highlight">4:15pm</span> — Car to Teterboro
+<span class="highlight">6:30pm</span> — Dinner at 9 East 71st
+
+[Typical scheduling email — one of thousands with similar content]</div>
+
+      <h3>Substantive Financial (38% of content)</h3>
+      <div class="sample">WIRE TRANSFER CONFIRMATION
+<span class="highlight">Date:</span> [REDACTED]
+<span class="highlight">From:</span> JP Morgan Chase Account ending ****4721
+<span class="highlight">To:</span> [REDACTED] Trust Account
+<span class="highlight">Amount:</span> $[REDACTED]
+<span class="highlight">Reference:</span> Property acquisition — NM Ranch
+
+[Financial records like this appear across DS10 and DS11,
+documenting the flow of funds through Epstein's network
+of accounts and entities]</div>
+
+      <h3>Personal / Noise (18% of content)</h3>
+      <div class="sample">From: [REDACTED]
+To: Jeffrey Epstein
+
+<span class="highlight">Miss you! Good night xxxxoo</span>
+
+[Short personal messages, forwarded news articles,
+and blank/duplicate pages make up this category]</div>
+
+      <h3>MCC Prison Records (Dataset 8)</h3>
+      <div class="sample"><span class="highlight">METROPOLITAN CORRECTIONAL CENTER — NEW YORK</span>
+SPECIAL HOUSING UNIT — INMATE CHECK LOG
+
+Date: [REDACTED] 2019
+Inmate: EPSTEIN, JEFFREY
+Register No: [REDACTED]
+
+<span class="highlight">Guard checks at 15-minute intervals</span>
+03:00 ✓ | 03:15 ✓ | 03:30 ✓ | 03:45 — | 04:00 —
+
+[DS8 contains MCC institutional records including guard
+check sheets, incident reports, and facility logs from
+Epstein's detention and death in August 2019]</div>
+
+      <h3>Legal Correspondence</h3>
+      <div class="sample">PRIVILEGED AND CONFIDENTIAL
+ATTORNEY-CLIENT COMMUNICATION
+
+RE: Epstein — Government Investigation
+
+Dear [REDACTED],
+
+As discussed, we recommend the following approach regarding
+the pending subpoena for financial records from [REDACTED].
+The production should be limited to...
+
+[Legal strategy discussions between Epstein's attorneys
+regarding investigations and civil litigation]</div>
+    </section>
+
+    <!-- ─── FOOTER ─── -->
+    <section class="block" style="text-align:center;border-color:var(--accent)">
+      <p style="color:var(--accent);font:700 .9rem var(--sans);margin-bottom:.4rem">THE PDF FILES</p>
+      <p class="muted" style="font-size:.78rem">
+        Analysis based on processing 904,395 files across 12 DOJ datasets.<br />
+        Image classification via CLIP (ViT-B/32). Text extraction via PyMuPDF.<br />
+        All scripts and methodology are open source and reproducible.
+      </p>
+      <p style="margin-top:.7rem">
+        <a href="./index.html" style="font:.78rem var(--mono)">&larr; Back to Main Site</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./inner-circle.html" style="font:.78rem var(--mono)">🕸️ The Inner Circle</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./complicity-gradient.html" style="font:.78rem var(--mono)">⚖️ Complicity Gradient</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./explosive-docs.html" style="font:.78rem var(--mono)">💣 Explosive Documents</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./deep-sweep.html" style="font:.78rem var(--mono)">🔍 Deep Sweep</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./cast.html" style="font:.78rem var(--mono)">Cast Hub</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./search.html" style="font:.78rem var(--mono)">Search Files</a>
+      </p>
+    </section>
+
+  </div>
+</body>
+</html>

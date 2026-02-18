@@ -1,0 +1,332 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01729006_20260130_p012_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 575
+confidence: 1.00
+extracted: 2026-02-13T16:53:14.543306
+---
+
+Page 
+18 
+Account Number: 
+Killing Date: 
+Mobila Nurober: 
+Nobile Oaer: 
+Total Mobila,: 
+AUTIME AND LONG DISTANCZ MARIES 
+ 
+CID,RCE.5 
+City 
+Length 
+of 
+Air 
+Long 
+Itm Date 
+Time 
+CL No. Called 
+Called 
+F P Call Tina 
+Diet. Total 
+712 01/26 08:53PM . 
+PALM FL 
+P. 
+1 
+0.00 
+0.00 
+713 01/26 10:05PM 
+ICE CL W 0 
+1 
+0.00 
+0.00 
+714 01/26 10:06PM 
+VOICE 
+CL N 0 
+2 
+0.00 
+0.00 
+715 01/26 10:15PM 
+YTON FL W 0 
+1 
+0.00 
+0.00 
+716 01/26 10:179)4 
+PALM FL W 0 
+1 
+0.00 
+0.00 
+717 01/26 10,19PM 
+PALM FL W 0 
+2 
+0.00 
+0.00 
+718 01/26 10:20PM 
+NCOMI CL W 0 
+11 
+0.00 
+0.00 
+719 01/27 06:43AM 
+INCOMI CL N 0 
+1 
+0.00 
+0.00 
+720 01/27 05:159)4 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+721 01/27 06:12144 • 
+MCOMI CL 
+P 
+2 
+0.00 
+0.00 
+722 01/27 06:52PM 
+PALM PL 
+P 
+2 
+0.00 
+0.00 
+723 01/27 08:21PM 
+INCOMI a, 
+P 
+1 
+0.00 
+0.00 
+724 01/27 00:58PM 
+770N FL 
+P 
+1 
+0.00 
+0.00 
+725 01/27 09:29PM 
+PALM PL W 0 
+1 
+0.00 
+0.00 
+PALM FLNO 
+726 01/27 09:29PM 
+1 
+0.00 
+0.00 
+727 01/27 09:30PM 
+PALM FL N O. 
+9 
+0.00 
+0.00 
+728 01/27 10:22PN 
+INCOMI CL W O 
+1 
+0.00 
+0.00 
+729 01/27 10:53PM 
+OICZ: .CL W 0 
+2 
+0.00 
+0.00 
+730 01/26 06:40AM 
+INCOKI CL N 0 
+1 
+0.00 
+0.00 
+731 01/28 07:23AN 
+PALM PL 
+P' 
+3 
+0.00 
+0.00 
+712 01 / 28 07:36PR 
+NCONI CL 
+P 
+10 
+0.00 
+0.00 
+733 01/28 07:58PM 
+OTTOS FL 
+P 
+3 
+0.00 
+0.00 
+734 01/28 08:48PM 
+INCOMI CL 
+P 
+2 
+0.00 
+0.00 
+735 01/26 10:01PM 
+ICE 
+CL W 0 
+4 
+0.00 
+0.00 
+736 01/28 10:08PM 
+PALM FL W 0 
+3 
+0.00 
+0.00 
+737 01/28 10:12PM 
+PALM FL V 0 
+3 
+0.00 
+0.00 
+738 01/28 10:15PM 
+INCOMI CL W 0 
+1 
+0.00 
+0.00 
+739 01/28 10:15PM 
+INCOMI CL W 0 
+ 2 
+0.00 
+0.00 
+740 01/28 10:23PN 
+INCOMI CI: WO 
+15 
+0.00 
+0.00 
+741 01/29 02:419)4 
+OTTal FL 
+P 
+1 .
+0.00 
+0.00 
+742 01/29 05:09PM 
+ICE 
+CL 
+P 
+1 
+0.00 
+0.00 
+743 01/29 08:32PM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+744 01/29 08:48144 
+PAIN FL 
+P 
+1 
+0.00 
+0.00 
+745 01/29 08:49PM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+746 01/29 08:50PM 
+PALM FL 
+P 
+2 
+0.00 
+0.00 
+747 01/29 08:559M 
+PAIN FL 
+P 
+2 
+0.00 
+0.00 
+748 01/29 09:22PM 
+PALM FLWO 
+1 
+0.00 
+0.00 
+749 01/29 09:401I4, 
+PALM FL W:0 
+1 
+0.00 
+0.00 
+750 01/29 09:46PM 
+PALM FL W 0 
+3 
+0.00 
+- 0.00 
+751 01/29 10:37PM 
+INCOMI CL W 0 
+1 
+0.00 
+0.00 
+752.01/29 11:160M 
+INCOMI CL W 0 
+1 
+0.00 
+0.00 
+753 01/29 11:18PM 
+INCOMI CL W 0 
+5 
+0.00 
+0.00 
+754 01/29 11:26PM 
+PALM FL W 0 
+1 
+0.00 
+0.00 
+755 01/29 11:27PM 
+PALM FL W 0 
+5 
+0.00 
+0.00 
+756 01/29 11:32PM 
+INCOMI CL W 0 
+7 
+0.00 
+0.00 
+757 01/30 06:41AM 
+INCOMI CL W 0 
+1 
+0.00 
+0.00 
+758 01/30 07:25AN 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+759 01/30 10:16PM 
+PALM FL It N 
+1 
+0.00 
+0.00 
+760 01/30 10:17PM 
+PAIN FL M N 
+1 
+0.00 
+0.00 
+761 01/30 10:16PM 
+PALM FINN 
+2 
+0.00 
+0.00 
+762 01/30 10:209)4 
+PALM FL W N 
+5 
+0.00 
+0.00 
+763 01/30 10:27PM 
+INCOMI CL W N 
+1 
+0.00 
+0.00 
+764 01/30 10:299M 
+INCOMI CL N.N 
+3 
+0.00 
+0.00 
+765 01/30 10:33PM 
+INCOMI CL W N 
+1 
+0.00 
+0.00 
+766 01/30 10:369M 
+INCOMI CL W N 
+1 
+0,00 
+0.00 
+767 01/30 11:13PM 
+PALM PL W N 
+2 
+0.00 
+0.00 
+EFTA01729017

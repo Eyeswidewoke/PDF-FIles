@@ -1,0 +1,337 @@
+---
+source_image: "deposition-transcript+bank-statement+scanned-document__EFTA01715572_20260130_p027_i001.png"
+source_pdf: "EFTA01715572.pdf"
+method: pdf_text
+words: 574
+confidence: 1.00
+extracted: 2026-02-13T16:20:20.698666
+---
+
+• 
+Page 
+12 
+Account !Amber: 
+Billing Date: 
+Mobile Number: 
+Mobilo User: 
+Total Mobiles: 
+AIRTIME AND LONG DISTANCE CHARGES 
+CHARGES 
+City 
+Item Date 
+Tine 
+CL No. Called 
+Called 
+P P 
+361 04/25 08:27PM 
+362 04/25 08:38PM 
+363 04/25 10:49154 
+364 04/26 10:19AM 
+365 04/26 21,06AM 
+366 04/26 10:09PM 
+367 04/27 03:08PM 
+360 04/27 03:18PM 
+369 04/27 03:23PM 
+370 04/27 04:00PX 
+371 04/27 09:14PM 
+372 04/27 09:14PM 
+371 04/27 09:41PM 
+374 04/27 09:41PM 
+375 04/27 10:32PM 
+376 04/27 11:08PM 
+377 04/27 11:18PM 
+378 04/28 04 :14Pt4 
+379 04/28 04:25PM 
+380 04/20 04:34PM 
+381 04/28 04:41PM 
+382 04/28 04:57PM 
+383 04/28 06:32PM 
+384 04/28 06:34PM 
+385 04/28 07:11PN 
+386 04/28 07:16PM 
+367 04/28 07:21PM 
+388 04/28 07:50PM 
+389 04/28 08:06PM 
+390 04/28 08:09PM 
+391 04/28 08:16PM 
+392 04/28 08:19PM 
+393 04/28 08:24944 
+394 04/28 08225PM 
+395 04/28 08:31PM 
+396 04/28 08:39PM 
+397 04/28 08:51PM 
+398 04/28 09:09PM 
+399 04/28 09:12PM 
+400 04/28 10:12PM 
+401 04/28 10:21PM 
+402 04/28 10:26PM 
+401 04/28 10:49PM 
+404 04/28 10:50PM 
+405 04/29 10:14PM 
+406 04/29 10:15PM 
+407 04/29 10:16PM 
+408 04/29 101209N 
+409 04/29 10:22PM 
+410 04/29 10:41PM 
+411 04/29 10:42PM 
+412 04/29 10:45PM 
+411 04/29 11:27PM 
+414 04/29 11:30PM 
+415 04/30 02:09AM 
+416 04/30 02:25AM 
+YTOM FL A N 
+ETON MEN 
+PALM FL A N 
+NCOMI CL 
+P 
+PALM FL 
+P 
+ICE CL W 0 
+EN YO NY 
+P 
+ICE CL 
+P 
+EW YO NY 
+P 
+PALM PL 
+P 
+i PALM FL W 0 
+PALM FL N 0 
+PALM FL N 0 
+PALM FL N 0 
+PALM PL W 0 
+PALM PL A 0 
+NCOMI CL W 0 
+NCOMI CL 
+P 
+NCOMI CL 
+P 
+NCOMI CL 
+P 
+PALM FL 
+P 
+NCONI CL 
+P 
+PALM FL 
+P 
+NCOMI CL 
+P 
+PALM FL 
+P 
+NCOMI CL 
+P 
+PALM PL 
+P 
+PALM PL 
+P 
+NCONI CL 
+P 
+PALM FL 
+P 
+NCOMI CL 
+P 
+PALM PL 
+P 
+PALM FL 
+P 
+PALM FL 
+P 
+PALM PL 
+P 
+PALM FL 
+P 
+NCOMI CL 
+P 
+NCOMI CL W 0 
+NCOMI CL W 0 
+OICE CL N 0 
+PALM PL W 0 
+PALM FL N 0 
+PALM PL N 0 
+TON PL N 0 
+ICE CL N 0 
+PALM PL W 0 
+PALM PL W 0 
+INCOMI CL W 0 
+INCONI CL A 0 
+INCOMI CL N 0 
+PALM PL W 0 
+PALM PL W O 
+PALM PL W 0 
+INCONI CL A 0 
+INCONI CL N 0 
+PALM PL N 0 
+Length 
+Of 
+Call 
+Air 
+Long 
+Time 
+DiSt. Total 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+12 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+8 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+8 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+EFTA01715598

@@ -1,0 +1,491 @@
+---
+source_image: "deposition-transcript+spreadsheet+chart__EFTA01692775_20260130_p091_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 806
+confidence: 1.00
+extracted: 2026-02-13T16:56:53.988180
+---
+
+• 
+cingular 
+Account Number 
+Aocountaie 
+Date of Invoice— I 
+August 12. 2005 
+Page 9 of1a 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+ DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE
+ 0:441.704/C4 
+Men Y. no.. Caul 
+43101 To 
+U.. 
+Mr
+ 
+Maio Dosial
+CIAMM4pon 
+13 C0114 Mr" 
+04 07/14042W 
+N 07/14012W 
+N 
+14 044MP 
+G S
+07/IRIPC&SW
+SP
+p 
+1 
+07•14 ORWP 
+E
+13 
+4 1: 3 
+III 0314 IIAMP 
+110°111 lig 
+011111:00 
+01 11114 11 
+n 1tt
+n 4 11: 
+04 II: 
+a 83A1 1411 
+01f14 rig: 
+niltit 
+ii  lit
+1 SI 11 I 81:91 
+IN SiAlitt 
+PS 
+All Or.
+ii gfli  
+4: 1/21 
+BENI El 
+1 SIRI154A 
+em 
+n24 07031 02 
+02 PE A 
+xe own 0)20A 
+4 07150127A 
+20 07/15 03264 
+P1 /RI SI:2Z 
+g
+, ...„,,, 
+° RI liter 
+Il 01/15 12:10P 
+14 N05 112W 
+pt can $(00.0 
+)1 8311 SM. 
+40 pi 
+In 1501P)P 
+11 n; 
+120
+ 7/I 7 IIPIP 
+7/1S 11 400 
+3 07/10 17.61A 
+4 0711501:114 
+5 07n0 02.04A 
+ISSSIMBEACH FL 
+MAX 
+310 A301. 
+NC00/46 
+I NN 
+3
+01.
+70 AWYL ANYIME MN 
+ivrtnemno. 
+Ft 
+21/01 
+330 AWYL 4/4vTIM MN 
+lip 
+LIM wiTFORM/x40 WA 
+. Ai
+la
+. 
+FL 
+ 
+414LANTEDNAWND lilt 
+MOM° 
+INN 
+latilaTED /WARD WA 
+WOR- I1 IL 
+lig 
+U
+WILIM 
+WOMI MR 
+MW 
+IV Mt NWI 
+MIN 
+WNW7 
+WIMN SW 
+ZILE 
+NE 
+Wil 
+UNIALTED NA/AM U24 
+WIUMT 
+tWOR Me4 
+411±13M11 
+WM 
+UNIIMITLQ MAYAN, 4444 
+IAN 
+IALIMIM4 NAWM3 MN 
+MN 
+L AllulTED RANKM3,54 
+n 
+FL 
+MR 
+Llolvar WAAND IOW 
+IN 
+MINT °KINN II14 
+MM 
+UM wirroNNANi ION 
+MN 
+UNIOur DAMN ink, 
+Oa 
+um 
+UNIIAWCP /WARM 
+MINI 
+lilt 
+UNLIMITED WAND 1/11 
+Ira 
+MN 
+OWN r NMI 
+INN 
+C 
+MI C IT g will= 
+NN 
+INN 
+UNMATED NAND /OM 
+MN 
+MINTED PI / MIND OW 
+1. 
+PI 
+AO/ PL 
+WI 
+LNOWINOP0411IN 
+NM
+%NINA PVMAI IN 
+NM 
+IMMO.. P.Wr /4 Awl 
+EW 
+CALL wsillion 
+t044 4== 
+ft 
+OR 
+LNUMTLD mwme0I04 
+MN 
+414lilm/E0 WOMIO MN 
+CVT 
+OICSSAGC RCTREVAL 
+UM 
+LAWN/ 
+NIIIIIN MM
+MM 
+LMINI7 
+WIWI.* 
+14111 
+LNUMI 
+Wean MN 
+Milt 
+WIPMT 
+Wintlret 
+WM 
+VWtJMTT 
+va 
+WARIN NM 
+MIN 
+NI 
+NI v. nip wean mn 
+Met 
+umtimr/Lo N.MA01 IM4 
+IS: 
+IIIIIM:stc
+i, 5 
+NW 
+UPRIMWO MAWR 
+= 
+wonarcp NINIOID la 
+UNLIMITLDNAVARD Mt 
+1MIN 
+UNION L U 1:11KNO IIN 
+21„0
+: 10.: 
+t...
+..,,.I
+VUNIUmvom.
+IIITTIPDrow
+NNN
+IWI
+DVDtarw
+Thi
+i
+IFVF
+MN
+WAWA, RFTCOVAl 
+WM 
+Nnar1811/4-10 u001. 
+WPAMEICA0411 
+Mild 
+30)A001. AMelnIE MN 
+N1,  
+It 
+1. ArME MN 
+r.. 
+I. NIVNIM MN 
+1/1
+I 
+MEG 
+4,000 010/CH FL 
+ACM FL 
+MN 
+U 
+ill% 
+t 
+IAN 
+1.. 
+NITIVIN 
+INN 
+MN 
+MN 
+IN 
+jlt/IZ2 
+rig 
+I MN 
+WILIIIITIM NM10.0 KIN 
+INN 
+UNINTIO KANN MN 
+1MM 
+11 KANN IN 
+INN 
+0 KANN IN 
+INN 
+NAM 
+MN 
+mµUNACIIR 
+SOMMER FL 
+WPALKINAOML 
+NIMILIMENN FL 
+IMON000 
+; 
+USAG3.=a743/04nU347 
+a 
+CIAIWW 
+Mrs 
+$7, Awn Das nosnos
+. 
+Calls To 
+Maw/ Rate Dostriptleo 
+7 
+144 COM ORM 
+SWIM 
+10 07n0 0022A 
+150 074160729A 
+ISO OWN 02412A 
+113 0311602106 
+• 
+MI 2311", 
+13111 11Z 
+8111 RIS 
+1 9 11 011W 
+,.. 
+46P 
+II IPA 0711607.45P 
+1K 7/0601 P 
+:I
+111101 SW 
+Ifi 
+lit ERIE 111 
+1740m6 OMR 
+In 01/IAN 5404
+k: 1;1 SSA: SAPS: 
+SIR= 
+Z
+PIRStrOIS 
+hang 
+01423P 
+III 
+041160)•29P 
+111
+11
+410 2m0S7ftlintilln014.211931 
+43160.5114
+♦I 
+144 otrutotsw 
+Its VIM 0.14P 
+ILI SIRS ISZ 
+8,11 
+'. 
+°XS Ill; 
+20$ OHIO 11:15fl 
+W
+Y=
+P
+691 FL 
+UN 
+LMUMTCO NAVIPIA) MN 
+IMPALE 
+X FL 
+UM 
+!JIMMIED NAVIMAI MP 
+WPALIMEACK FL 
+um 
+LNUIATCOMWMIO MM 
+Ya li Ma
+ilft 
+lad 
+4/4InATED WHIM WM 
+WM 
+CAUDATED IMMK/Ill 154 
+WPALINCACI4 FL 
+I1111 
+4 NUMTIO NAWIND MX 
+ii 
+LASSAOLKTREvAL 
+RR 
+II 
+WIWATEORAVIM VW 
+SIMS rt/Zfrall 
+WV WWACH FL 
+MN 
+WRIMTCORAVIRM MN 
+:Ncan
+k-IMEAC
+KG
+IML 
+AM 
+WARA7C0 NAV/CND MN 
+NW 
+lAuMTCOWANND MA 
+MN 
+LOOLIMMOMMAND IAN 
+MP: 
+Ip 
+2  
+osul r,Nr
+IIMI 
+NUM 
+NIti104 MN 
+NUM 
+NIMIN MN 
+WI 
+INNATX0 NANO MN 
+(VT 
+MESSAGE RETRENAL 
+WI 
+VIOWED ANARIO MR 
+AM 
+40401 
+nNYA45/4.48 
+2 
+SI= 
+0 S "Arc 492An I 
+I 
+MN 
+W4014 
+KNAMIO MN 
+UMPA 
+PAWN° MN 
+id 
+URIAI
+P411§StWAN
+M"  14
+24/1
+i 
+UkuMT 
+NVAN MN 
+PALPATED WW•040 RIM 
+UNMATED N/W4/10 LAM 
+MM .......„,0,..ww,..„,... 
+UNILMTIDIXAYAND MN 
+UNINTW MANN MN 
+I
+ACM Ft 
+WI 
+Withilt0 *MIMI) WI 
+ACM ft 
+MN 
+MULDATIDOW0407al 
+WP 
+Pt 
+I* 
+UNIAATIR AMOR) Mp0 
+VOA At, 
+tliri 
+WORATI3 NANAMP YS 
+Witl1A700 RAMO WI 
+tt
+t k ilt POWS% I. 
+;MN 
+UNIairtnn.W4M0 (MI 
+OE 
+EftEITREE1118 El 
+:1124:12t04 
+F I. 
+MN 
+MI 
+WPAMERACH f I. 
+NM 
+INCOIA 
+MN 
+IMP 
+Ft 
+MN 
+tA 
+k1 
+PI 
+td 
+rt. 
+a 
+rd a 
+MN 
+AIN zi 
+....,y= 
+WA II  MI
+MN 
+MN , 
+M 
+Pti , VL.
+MIN 
+UNW 
+MOO 
+OMNI 
+RE 
+ 
+VA
+ 
+MWXW 
+L 
+MN 
+MAN 
+WPALASCAGIFI, 
+Ill 
+I/COSMO 
+l0004 
+010,04AIN 
+moMPAMACH 
+ANN 
+UNUPATIOWNAMp ME 
+volcano/a:Nom MM 
+AL 
+1
+RE'REV 
+UNIX 
+*Mk 
+WI 
+NW 
+MINK 
+IN 
+UNLINK 
+MINK 
+MINT 
+NAVK 
+INII 
+NOM 
+NANKIN MN 
+114317 
+MIAOW MN 
+UNIIIAlto MAllAll 
+VillIME WARM WA 
+UNA. 
+NONOt WI 
+WINK 
+IAWKS AM 
+UNWATEOPAVNAO MR 
+UNWATED >MAW AM 
+EFTA01692865

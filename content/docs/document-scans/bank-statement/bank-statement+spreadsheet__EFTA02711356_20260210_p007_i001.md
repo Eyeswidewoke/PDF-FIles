@@ -1,0 +1,592 @@
+---
+source_image: "bank-statement+spreadsheet__EFTA02711356_20260210_p007_i001.png"
+source_pdf: "EFTA02711356.pdf"
+method: pdf_text
+words: 912
+confidence: 1.00
+extracted: 2026-02-13T16:09:12.059343
+---
+
+TRUSTS 2014 LOB LLC 
+UNREALIZED LO TO HI 
+JULY 2014 SOTHEBY'S 
+Mist 
+Item Description 
+Total Paid (in 
+USD) 
+Sotheby's 
+Appraised 
+Value (July 
+2014) 
+Fair Value (% 
+Ownership) or 
+Cost (if not on 
+Appraisal) 
+UNREALIZED 
+GAIN (LOSS) 
+CUMULATIVE 
+GROSS 
+UNREALIZED 
+GAIN (LOSS) 
+INCREMENTAL 
+(PLEDGED) 
+GIFT. NAME OF 
+OWNERS 
+DONEE 
+HIP % 
+INSTITUTION 
+NARROWS 
+BARYE. ANTOINE-LOUIE Guerner tartare arretanl son cheval 
+10.000 
+25.000 
+25.000 
+15.000 
+319.537 
+100% 
+NARROWS 
+BARTE. ANTOINE4.0ULI. These* combattant le Centaur Bienor 
+10.000 
+25.000 
+25.000 
+15.000
+334.537 
+100% 
+NARROWS 
+BOURDELLE. EMILE AhtHdracles Archer 
+110.000 
+125.000 
+125,000 
+15.000 
+349,537 
+275.160 
+100% 
+NARROWS 
+DOVE, ARTHUR GARFIE Untitled V (Centerpon) 
+25.000
+. 
+40.000  
+40.000 
+15.000 
+364.537 
+100% 
+NARROWS 
+VUILLARD, EDOUARD La robe rose 
+110,000 
+125.000 
+125,000  
+15.000 
+379.537 
+100% 
+NARROWS 
+BELLOWS. GEORGE WE Old Ballard Player (M. 84: B. 19) 
+2.500 
+18.000 
+18.000  
+15.500 
+395.037 
+100% 
+NARROWS 
+CEZANNE. PAUL 
+Portrait du fits de raroste (recto) and Scene illustran 
+783.009
+800.000 
+800.000 
+16.991 
+412.027
+100% 
+NARROWS 
+DENIS, MAURICE 
+Woman and Child 
+5,000 
+. 
+25.000 
+25,000 
+20.000 
+432,027 
+100% 
+NARROWS 
+REDON. ODILON 
+The Angel of Death 
+179,644 
+. 
+200.000 
+200,000 
+20,3% 
+452.384 
+100% 
+NARROWS 
+CONSTABLE, JOHN 
+Cloud Study (recto)Suffolk Landscape with a Cloud) 
+379.313 
+000.000 
+400.000  
+20,688 
+473071 
+100% 
+NARROWS 
+QUINN. MARC 
+The Blind SW Leading the Blind 
+37,897
+60000 
+80,000 
+22.103 
+495,174 
+100% 
+NARROWS 
+HARTLEY, MARSDEN 
+Twisted Roots (Tree study) 
+7.000 
+. 
+30.000 
+30.000 
+23.000 
+518.174 
+100% 
+NARROWS 
+BEARDSLEY. AUBREY tx Lady Gold's Escort (From The Yellow Book Vol. III) 
+46.598 
+70.000  
+70,000  
+23.403 
+541.577 
+100% 
+NARROWS 
+REDON. ODILON 
+Allegoroue (David et Goliath) 
+476.300 
+500.000 
+500.000 
+23.700 
+565.277 
+100% 
+NARROWS 
+,Sujer 
+REDON. ODILON 
+Le cube (Lbed) 
+325,125 
+350.000 
+350.000 
+24.875 
+590.152 
+100% 
+NARROWS 
+BECKMANN, MAX 
+Kleines Rosenstileben and Mauer() Spiegel 
+325,000 
+350.000 ' 
+350.000 
+25.000 
+615,152 
+100% 
+NARROWS 
+FERNANDO 
+guitarrista 
+10,000 
+35.000 ' 
+35,000 
+25000
+640.152 
+100% 
+NARROWS 
+,BOTERO. 
+,El 
+DAUMIER. HONORE 
+La defense 
+324,750 
+350.000 
+. 
+350,000  
+25.250
+665,402 
+100% 
+NARROWS 
+KHNOPFF. FERNAND 
+Dessin 
+74,151 
+100000 
+100,000 
+25.849 
+691,251 
+100% 
+NARROWS 
+MATISSE. HENRI 
+Autoportrad 
+270.825 
+300.000 ' 
+300.000 
+29.375 
+720.826 
+100% 
+NARROWS 
+DIEGO 
+Lampe en forme bougeor 
+35.000 ' 
+35.000  
+35.000 
+755.626 
+100% 
+NARROWS 
+.GIACOMETTI. 
+GIACOMETTI. DIEGO 
+Lampe en lorme bougeor 
+35.000 
+35,000 
+35.000
+790.626 
+100% 
+NARROWS 
+SMITH. DAVID 
+Untitled 
+462,719 
+500.000 
+. 
+500.000 
+37.281 
+827.907 
+100% 
+NARROWS 
+PICASSO. PABLO 
+Bacchus el jeune femme nee 
+88.800
+. 
+125.000  
+125.000 
+38,400 
+866.307 
+100% 
+NARROWS 
+BECKMANN, MAX 
+Sao* Coeur 
+20.000 
+60.000 
+60,000  
+40.000
+906,307 
+100% 
+NARROWS 
+GONCHAROVA. NATALL The Appearance to Joseph 
+40.000 
+40,000  
+40.000
+946.307 
+100% 
+NARROWS 
+VON MENZEL. ADOLPH Hand of a Woman Holding a Cane 
+20,000
+60.000  
+60,000 
+40000 
+986.307 
+100% 
+NARROWS 
+VON MENZEL. ADOLPH Studies of a Man Eating from a Bowl 
+30,003 
+70.000 
+70.000 
+40.000 
+1.026.307 
+100% 
+NARROWS 
+BURNE-JONES. EDWARLAmor the motive d Sole e rattre Sine 
+134,437 
+175.000 ' 
+175,000  
+40,563
+1,066.870
+100% 
+NARROWS 
+BECKMANN, MAX 
+KEiSbek 
+75,000 
+125.000 
+125.000  
+50.000
+1.116.870 
+100% 
+NARROWS 
+KLEE. PAUL 
+Zwei Manner. Slander in hdherer Stellung vermule' 
+100.000 
+150.000  
+150.000 
+50.000 
+1.166.870 
+100% 
+NARROWS 
+KLEE. PAUL 
+Kornai*, - kv. 4 (Komfeld. no. 9) 
+100.000 
+150.000  
+150.000 
+50,000 
+1.216.870
+100% 
+NARROWS 
+REDON, ODILON 
+Poinsettia (La flour rouge) 
+200.000 
+250.000 
+250,000  
+50.000
+1,266.870 
+100% 
+NARROWS 
+RODIN, AUGUSTE 
+Le penseur 
+250.000 
+300.000 
+300.000 
+50.000
+1.316.870 
+100% 
+NARROWS 
+BECKMANN, MAX 
+Acrobat (Back Bend) 
+48,000
+100.000 
+100.000 • 
+52.000 
+1.368,870
+989.333 
+100% 
+NARROWS 
+MONDRIAN. PIET 
+Chrysanthemum 
+142.890 
+, 
+200.000 
+200.000 
+57.110 
+1.425.980 
+100% 
+NARROWS 
+LIN. MAYA 
+Sever River - Hudson 
+92.331 
+150.000 * 
+150,000  
+57.669
+1,483.649 
+100% 
+NARROWS 
+MONET, CLAUDE 
+Les Nympheas avec saute 
+342,225 
+400,000 
+400.000  
+57.775
+1.541.424 
+100% 
+NARROWS 
+KLEE. PAUL 
+Gegensate Abends (Blau and Orange) 
+1.440.304
+1,500.000 
+1.500.000 
+59.6% 
+1.601.120 
+100% 
+NARROWS 
+GIACOMETTI. AU3ERTOLampedrepied a etoile 
+60.000 : 
+60.000 
+60.000 
+1,661.120 
+100% 
+NARROWS 
+GIACOMETTE ALBERTO Lampe-trepied a edoile 
+• 
+60.000 
+60,000 
+60.000
+1,721,120 
+100% 
+NARROWS 
+BOILLY, LOUIS LEOPOLi Etude preparatoire pour 'Le jeu crechece 
+139,759 
+200.000 
+, 
+200.000 
+60.241 
+1.781.381 
+100% 
+NARROWS 
+MATISSE, HENRI 
+La dense 
+4337300
+500.000 
+. 
+500.000 
+67.000
+1.848.361 
+100% 
+NARROWS 
+INGRES, JEAN-AUGUST Portrait de Monseigneur Gabriel Cortois de Pressler 
+179.855 
+, 
+250.000 
+250.000 
+70.345 
+, 
+1.918.706 
+100% 
+NARROWS 
+DI CREDI. LORENZO 
+Study with the Christ Chid Standing on the.
+1.175.850 
+1,250.000' 
+1.250,000 
+74.150
+1.992.856 
+100% 
+NARROWS 
+.Drapery 
+GAUGUIN. PAUL
+Te Faruru 
+520.200 
+600.000 
+. 
+800,000  
+79.800
+2.072.856 
+100% 
+NARROWS 
+GIACOMETTI, DEGO 
+Console a plateaux. models aux grenouilles 
+170,000 
+250.000 
+250.000 
+80.000 
+2.152.856 
+100% 
+NARROWS 
+SPRANGER. BARTHOLC The Temptation of Adam 
+251,200 
+350.000 : 
+350,000 
+98.800 
+2251.456 
+100% 
+NARROWS 
+ROSSETTI, DANTE GAB Sr Lancelot in Queen Guinevere's Chamber 
+150,942 
+250.000 
+250,000  
+99.058
+2,350.514 
+100% 
+NARROWS 
+DINER. ALBRECHT 
+Passion. Life of the Virgin (Mader 127.
+1,400.000 
+1.500.000 
+1,500,000 
+100.000
+2.450514 
+100% 
+NARROWS 
+.Apocalypse 
+DAVIS, STUART 
+Study for Proposed Mural. United Nations Contemn 
+48,713 
+150.000 
+. 
+150.000 
+101.288 
+2,551.801 
+100% 
+NARROWS 
+DAVIS, STUART 
+The Sidelong Glance 
+20,000 
+. 
+125.000 
+125,000 
+105.000 
+2.656.801 
+100% 
+NARROWS 
+DAVIS. STUART 
+Unwed 
+20,000 
+125.000 . 
+125,000 
+105.000
+2,761.801 
+100% 
+NARROWS 
+FUSELL HENRY 
+The Confederates Arnvng at the Ruth 
+92.013 
+200.000 
+. 
+200,000  
+107.988
+2.869.789 
+100% 
+NARROWS 
+ENSOR, JAMES 
+The Entry of Christ into Brussels in 1889 on the Day 
+182,278 
+300.000 
+300.000 
+117.722 
+2987511 
+100% 
+NARROWS 
+HARTLEY. MARSDEN 
+The Fish 
+80.105
+. 
+200.000  
+200,000 
+119.895 
+3.107.406 
+100% 
+NARROWS 
+.GORMLEY, ANTONY 
+Seeing and Showing 
+60.004 
+200000 
+200,000  
+119.996
+3,227.401 
+100% 
+NARROWS 
+MAILLOL. ARISTIDE 
+Eve a la porrvne 
+75.000 
+200.000 
+200,000 
+125,000
+3.352.401 
+100% 
+NARROWS 
+TIEPOLO. GIOVANNI BA A Moorish Nobleman L 
+170.340 
+300,000 . 
+300.000 
+129.660 
+3.482,061 
+100% National Gallery V 
+NARROWS 
+AVERY, MILTON 
+Beach Umbrellas 
+17.000 
+150.000  
+150,000 
+133.000 
+3,615,061 
+100% 
+NARROWS 
+REDON, ODILON 
+La chule de Phaeton 
+363.000 
+500,000 
+500,000 
+137,000 
+3,752.061 
+100% 
+Page 7 of 10 
+EFTA_R1_02125031 
+EFTA02711362

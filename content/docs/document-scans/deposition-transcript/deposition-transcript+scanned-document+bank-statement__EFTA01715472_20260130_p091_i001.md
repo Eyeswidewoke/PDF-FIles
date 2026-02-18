@@ -1,0 +1,326 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01715472_20260130_p091_i001.png"
+source_pdf: "EFTA01715472.pdf"
+method: pdf_text
+words: 577
+confidence: 1.00
+extracted: 2026-02-13T16:53:14.010891
+---
+
+Page 
+7 
+Account NUMb412: 
+Billing Date: 
+AIRTIME AND LONG DISTANCE CHARGES 
+City 
+Itm Date 
+Time 
+CL No. Called 
+Called 
+F P 
+Length 
+of 
+Call 
+Mobile Number: 
+Mobile 0ser: 
+Total Mobiles: 
+ 
+CHARGES 
+Air 
+Long 
+Tine 
+Dist. Total 
+105 02/22 09:19PM 
+PALM FL W 0 
+1 
+0.00 
+0.00 
+106 02/12 09:40PM 
+PALM FL N 0 
+2 
+0.00 
+0.00 
+107 02/12 09:42144 
+PALM ELKO 
+2 0.00 
+0.00 
+108 02/12 09:45PM 
+PAW PL N 0 
+2 
+0.00 
+0.00 
+109 02/12 09:53PM 
+NCOMI CL W 0 
+7 
+0.00 
+0.00 
+110 02/12 11:00PM 
+NCOMI CL If 0 
+6 
+0.00 
+0.00 
+111 02/22 11:02PM 
+NCOMI CL W 0 
+2 
+0.00 
+0.00 
+112 02/13 07:02AM 
+NCOMI CL 
+P 
+1 
+0.00 
+0.00 
+113 02/13 07:12AM 
+PAIN FL 
+P 
+1 
+0.00 
+0.00 
+114 02/13 03:15PM 
+PAIN FL 
+P 
+1 
+0.00 
+0.00 
+115 02/13 03:17PM 
+ICE CL 
+P 
+3 
+0.00 
+0.00 
+116 02/13 03:21PM 
+IKON' CL 
+P 
+4 
+0.00 
+0.00 
+117 02/13 03:44PM 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+118 02/13 04:32PM 
+NCOMI CL 
+P 
+5 
+0.00 
+0.00 
+119 02/13 05:55PM 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+120 02/13 06:25PM 
+PALM FL 
+P 
+3 
+0.00 
+0.00 
+121 02/13 06:30PM 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+122 02/13 06:31PM 
+PAW FL 
+P 
+2 
+0.00 
+0.00 
+123 02/13 06:44PM 
+NCOMI CL 
+P 
+1 
+0.00 
+0.00 
+124 02/13 07:03PM 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+125 02/13 08:59PM 
+PALM PL 
+P 
+3 
+0.00 
+0.00 
+126 02/13 09:21PM 
+NCOMI CL N H 
+1 
+0.00 
+0.00 
+127 02/13 09:32PM 
+PALM PL W N 
+1 
+0.00 
+0.00 
+128 02/13 09:92PM 
+PALM PL W N 
+3 
+0.00 
+0.00 
+129 02/13 10:02PM 
+NCOMI CL N N 
+2 
+0.00 
+0.00 
+130 02/13 10:03PM 
+PALM FL N M 
+1 
+0.00 
+0.00 
+131 02/13 10:04PM 
+PALM PL 11 N 
+3 
+0.00 
+0.00 
+132 02/13 10:38PM 
+PALM FL W N 
+2 
+0.00 
+0.00 
+133 02/13 10:47PM 
+PALM FL W :4 
+3 
+0.00 
+0.00 
+134 02/13 11:42PM 
+NCOMI CL N N 
+1 
+0.00 
+0.00 
+135 02/14 12:28AM 
+PALM FL N N 
+1 
+0.00 
+0.00 
+136 02/14 12:30AM 
+I PALM FL If N 
+1 
+0.00 
+0.00 
+137 02/14 12:31AM 
+NCOMI CL W II 
+2 
+0.00 
+0.00 
+138 02/14 01:05AM 
+NCOMI CL N N 
+1 
+0.00 
+0.00 
+139 02/14 01:07AM 
+PALM FL W H 
+37 
+0.00 
+0.00 
+140 02/14 01:37AM 
+NCOMI CL H H 
+1 
+0.00 
+0.00 
+141 02/14 01:45AM 
+PALM FL N V 
+1 
+0.00 
+0.00 
+142 02/14 01:46AM 
+PALM FL W N 
+1 
+0.00 
+0.00 
+143 02/14 11:01AM 
+PALM PL W H 
+3 
+0.00 
+0.00 
+144 02/14 11:24AM 
+NCOMI CL W N 
+1 
+0.00 
+0.00 
+145 02/14 11:30AM 
+PALM Pl, M M 
+2 
+0.00 
+0.00 
+146 02/14 12:57PM 
+PICCHI a. K N 
+1 
+0.00 
+0.00 
+147 02/14 12:58PM 
+NCOMI CL W N 
+8 
+0.00 
+0.00 
+148 02/14 01:06PM 
+NCOMI CLWN 
+1 
+0.00 
+0.00 
+149 02/14 01:31PM 
+I.PAW FL N N 
+2 
+0.00 
+0.00 
+150 02/14 03:22PM 
+NCOMI CL N N 
+2 
+0.00 
+0.00 
+151 02/14 03:24PM 
+PALM PLNN 
+1 
+0.00 
+0.00 
+152 02/14 03:25PM 
+ICE CL K N 
+2 
+0.00 
+0.00 
+153 02/14 03133PM 
+PALM FL W N 
+1 
+0.00 
+0.00 
+154 02/14 01:37PM 
+PALM FL W N 
+1 
+0.00 
+0.00 
+155 02/14 03:37PM 
+PALM FL W N 
+1 
+0.00 
+0.00 
+156 02/14 03:3BPM 
+PALM FLO 
+1 
+0.00 
+0.00 
+157 02/14 03:39PM 
+PALM FL W N 
+1 
+0.00 
+0.00 
+158 02/14 03:40PM 
+PALM FL N N 
+1 
+0.00 
+0.00 
+159 02/14 03:41174( 
+PALM FL V N 
+1 
+0.00 
+0.00 
+160 02/14 01:42PM 
+I PALM FL N N 
+1 
+0.00 
+0.00 
+EFTA01715562

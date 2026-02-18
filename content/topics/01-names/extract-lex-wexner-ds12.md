@@ -1,0 +1,70 @@
+# 👤 Lex-Wexner
+> **Category:** Key Individuals
+> **Source:** `01-NAMES/extract-lex-wexner-ds12.txt`
+> **Lines:** 42
+> **Generated:** 2026-02-12T11:11:59
+
+## 🏷️ Tags
+`people` · `lex-wexner` · `epstein` · `wexner`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Wexner](../cast/profiles/wexner.md) | 45 |
+| [Epstein](../cast/profiles/epstein.md) | 30 |
+
+## 🔑 Keywords
+
+`New York`
+
+## Full Extract
+
+```
+U WEXNER FOUNDATION - financial connection to JEFFREY EPSTEIN 
+U WEXNER FOUNDATION - financial connection to JEFFREY EPSTEIN 
+has worked closely with multi-billionaire Leslie Wexner, founder of the Limited chain of women's 
+time was wholly owned by Leslie Wexner, the billionaire founder of the Limited Company.2 In 
+or about 1998, Wexner agreed to sell the New York Residence to Epstein for $20 million. We 
+financial projects for Wexner, including through having power of attorney for Wexner; it also 
+appears that Epstein stole or otherwise misappropriated more than $100 million from Wexner, in 
+d. Counsel for Leslie Wexner 
+On July 25, 2019, counsel for Wexner provided us with an attorney proffer. Wexner is 
+the billionaire founder and CEO of L Brands (formerly Limited Brands) corporation, which 
+controls Victoria's Secret, among other retail brands. It has been publicly reported that Wexner 
+and Epstein had a close relationship and that Epstein managed Wexner's finances from the 1990s 
+During our meeting, Wexner's attorneys indicated that Wexner had no knowledge of any 
+Wexner's relationship with Epstein was more professional than social. The attorneys also 
+explained that over his years handling Wexner's finances, Epstein stole or otherwise 
+misappropriated several hundred million dollars from Wexner. That misconduct, together with 
+fees that Epstein paid himself for his services to Wexner, appears to account for virtually all of 
+Wexner first met Epstein in the 1980s through a mutual friend who recommended 
+Wexner brought Epstein on to help with his investments. Over time, Epstein became more 
+involved in Wexner's finances until Epstein controlled all of Wexner's personal finances with 
+virtually no oversight. In 1991, Epstein obtained a power of attorney from Wexner, which 
+enabled Epstein to handle the purchase and sale of real estate and other assets on Wexner's 
+belonged to Wexner, but the Wexners had moved out of it in 1995. Epstein also sold himself a 
+private plane that previously belonged to Wexner at a deeply discounted price. 
+In the 1990s, Epstein told Wexner that he had other clients and that Wexner did not need 
+introduced Wexner to a number of other people as his clients, and Wexner interacted with other 
+in Dubai. Epstein had no formal role in L Brands or Victoria's Secret. At some point, Wexner 
+when Wexner asked Epstein about it, Epstein denied doing so. 
+Epstein handled Wexner's personal business affairs until 2007, when Wexner learned that 
+Epstein had stolen or otherwise misappropriated several hundred million dollars from Wexner. 
+Around that time, Epstein told Wexner that he was having legal problems involving an overly 
+could get messy, so it would be best for Wexner's wife to take over the family finances. In 
+response, Wexner's wife looked into the state of their finances and discovered that Epstein had 
+bought property on behalf of the Wexners and then sold it to himself for a fraction of the cost. 
+The Wexners then decided to cut off Epstein. When confronted, Epstein tried to convince 
+Wexner's wife that she did not understand the financials and insisted that he had the Wexners' 
+best interests at heart. The Wexners did not want to bring unnecessary public attention to the 
+Wexners, which he did in January of 2008. At that point, Wexner severed all ties with Epstein, 
+Wexner knows nothing about the 
+time, Epstein owned a property adjacent to the Wexners about a half mile way from the 
+Wexners's property. The Wexners's security team is not aware of any inappropriate incident 
+taking place on the Wexners's property, and the Wexners first heard about 
+```
+
+---
+
+*Full extract: `01-NAMES/extract-lex-wexner-ds12.txt`*

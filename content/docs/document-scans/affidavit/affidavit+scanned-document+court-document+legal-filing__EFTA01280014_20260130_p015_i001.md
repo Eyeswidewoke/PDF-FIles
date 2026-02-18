@@ -1,0 +1,66 @@
+---
+source_image: "affidavit+scanned-document+court-document+legal-filing__EFTA01280014_20260130_p015_i001.png"
+source_pdf: "EFTA01280014.pdf"
+method: pdf_text
+words: 657
+confidence: 1.00
+extracted: 2026-02-13T16:16:22.549384
+---
+
+21. Hazardous Substances. As used in this Section 21: (a) "Hazardous Substances" are those 
+substances defined as toxic or hazardous substances, pollutants, or wastes by Environmental Law 
+and the following substances: gasoline, kerosene, other flammable or toxic petroleum products, 
+toxic pesticides and herbicides, volatile solvents, materials containing asbestos or formaldehyde, 
+and radioactive materials; (1,) "Environmental Law" means federal laws and laws of the 
+jurisdiction where the Property is located that relate to health, safety or environmental protection; 
+(c) "Environmental Cleanup" includes any response action, remedial action, or removal action, as 
+defined in Environmental Law; and (d) an "Environmental Condition" means a condition that can 
+cause, contribute to, or otherwise trigger an Environmental Cleanup. 
+Borrower shall not cause or permit the presence, use, disposal, storage, or release of any Hazardous 
+Substances, or threaten to release any Hazardous Substances, on or in the Property. Borrower shall 
+not do, nor allow anyone else to do, anything affecting the Property (a) that is in violation of any 
+Environmental Law, (b) which creates an Environmental Condition, or (c) which, due to the 
+presence, use, or release of a Hazardous Substance, creates a condition that adversely affects the 
+value of the Property. The preceding two sentences shall not apply to the presence, use, or storage 
+on the Property of small quantities of Hazardous Substances that are generally recognized to be 
+appropriate to normal residential uses and to maintenance of the Property (including, but not limited 
+to. hazardous substances in consumer products). 
+Borrower shall promptly give Lender written notice of (a) any investigation, claim, demand, lawsuit 
+or other action by any governmental or regulatory agency or private party involving the Property and 
+any Hazardous Substance or Environmental Law of which Borrower has actual knowledge, (b) any 
+Environmental Condition, including but not limited to, any spilling, leaking, discharge, release or 
+threat of release of any Hazardous Substance, and (c) any condition caused by the presence, use or 
+release of a Hazardous Substance which adversely affects the value of the Property. If Borrower 
+learns, or is notified by any governmental or regulatory authority, or any private party, that any 
+removal or other remediation of any Hazardous Substance affecting the Property is necessary, 
+Borrower shall promptly take all necessary remedial actions in accordance with Environmental Law. 
+Nothing herein shall create any obligation on Lender for an Environmental Cleanup. 
+Non-Uniform Covenants. Borrower and Lender further covenant and agree as follows: 
+22. Acceleration; Remedies. Lender shall give notice to Borrower prior to acceleration following 
+Borrower's breach of any covenant or agreement in this Security Instrument (but not prior to 
+acceleration under Section 18 unless Applicable Law provides otherwise). The notice shall 
+specify: (a) the default; (b) the action required to cure the default; (c) a date, not less than 
+30 days from the date the notice is given to Borrower, by which the default must be cured; and 
+(d) that failure to cure the default on or before the date specified in the notice may result in 
+acceleration of the sums secured by this Security Instrument and sale of the Property. The 
+notice shall further inform Borrower of the right to reinstate after acceleration and the right to 
+assert in the foreclosure proceeding the non-existence of a default or any other defense of 
+Borrower to acceleration and sale. If the default is not cured on or before the date specified in 
+the notice, Lender at its option may require immediate payment in full of all sums secured by 
+this Security Instrument without further demand and 'nay invoke the power of sale and any 
+other remedies permitted by Applicable Law. Lender shall he entitled to collect all expenses 
+incurred in pursuing the remedies provided in this Section 22, including, but not limited to, 
+reasonable attorneys' fees and costs of title evidence. 
+NORTH OAROUNASinde Family.Fanno Mae Redd* Mac UNIFORM INSTRUMENT 
+VMP 0C eskers Syste-nsTil 
+%Vollos Move,' FnanCIal UNION 
+Form 3034 1/01 
+VMPSINC) 1
+21 
+Rape 
+1
+150118 
+CONFIDENTIAL 
+SDNY_GM_00031202 
+EFTA_00141815 
+EFTA01280028

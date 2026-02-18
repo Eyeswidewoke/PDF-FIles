@@ -1,0 +1,436 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p050_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 644
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.965871
+---
+
+cingular 
+Account Farber 
+ACCOlname 
+Date of Invoice 
+April 12.2005 
+Page 14 oil 6 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE I 
+:OF 
+Nunger 
+Wm DMA 100 Callett 
+TIM 0140900A 
+/W IN/09 10.4% 
+04/011 IOWA 
+1W 0109 IONA 
+7% owes iisse4 
+lov
+)i
+irt 
+603 OWO 
+TIP 
+POI 04.00012W 
+NZ 0409 032W rt 
+401 C4419 NOV 
+▪ 
+0109 
+irs, otik. 
+awn07W
+n4 Dw9MELP .. 
+1118:21414; 
+111 MUM 
+1109 04100 090P 
+isse 0409 0900 
+04J09 090SP 
+RR 0009 102% 
+rs
+04/09 104W 
+4 0039 04W 
+0039 WOW 
+pet 04.09
+ST cum 2230 
+GI M•Ol 
+ASP 
+a29 044% 
+AlP 
+AN 04/09 
+ASP 
+t_q
+wv S= 
+An OW.0 
+M
+0400 
+oino 
+Ili WA 
+Malt 
+mgr. NZ 
+FM 04/10 
+.4 
+8b% 110
+IMAM 
+Cesnalits1 
+Onte 
+Maw 
+ans 
+Wild RAW 13010Mie 
+VAAL MBE R. 
+21
+ 
+IdION=1,8 
+WPAL 
+WPALIAMACAIFIL 
+VIPALIMEAGMFL 
+WPAUNMACN ft 
+fL 
+WO
+I5Mg 
+TICOMNO 
+1VP 
+FL 
+WP 
+FL 
+FICOMOIG 
+WITS= 
+I. 
+TWAINSEACH Ft 
+WPAt 
+WPM 
+r
+a2:
+"V/9 
+FL 
+CM:g 
+FL 
+OIC 
+G 
+Ft 
+ •f iCTON901 FL 
+IIIu 
+104 
+MN 
+EVT 
+IESSAGE 
+M VAL 
+IAN 
+SMANTE0 RAMCNO /AN 
+M 
+ONLASCA
+LI5WNIIN 
+NM 
+UN 
+II NM 
+W1 
+1 IffRETREve 
+8 
+: Raga 
+MIN 
+UNGIFTED NA1/00101 
+MN 
+873:48 =US 
+W 
+UNLOVED PRWICAO WI 
+MN 
+VAINITES WW101 I:
+MN
+NM 
+11111 
+umaiTtra NW 
+uNUINTE0 WA 
+VT 
+MESSWEREFR 
+WI 
+I s
+UNLACED 0 
+WI 
+WOWED NOI/ 
+MN 
+WI 
+uieuurrp tv 
+is 
+WI 
+VAUNTED 00/12./Ral 
+rs
+1 
+iwistiNt AO wra
+p/0 
+um
+RETRIEVAL 
+MN 
+initial. 0 %WPM MINI 
+MN 
+UNLACTIrp WNW, INN 
+MN 
+MN 
+e.tras wen 
+uNLAFTIONW 
+MN 
+WI 
+WI 
+UNIMITED WNW) WY 
+WI 
+UNMATED NWICNO UN 
+MN 
+UNWIRED NW1010/ A 
+WI 
+WILMITED AMMO WV 
+MN 
+IMI 
+V rtll;r1Tig IPIZIrD VI 
+WI 
+UNLACED WWI% 0 / RI 
+M 
+WS 
+1.04 
+Waparild49 
+UV 
+AMR 
+WA 
+lit 
+gr.. k 
+:NW
+1•4 
+UMWTED liANNIO WI 
+WI 
+UNLIMITED NWKNO MIN 
+WI 
+WilIVITE0 /0001010111 
+MIN 
+UNLACED NWIINQ WI 
+MN 
+UNLAIMLO MV/009.01 
+LET 
+CALL WNIIAG 
+MN 
+WO/a 
+IWYMPDIAN 
+MN 
+MI 
+1.“."'ITSPP.,..1. WI 
+IAN 
+Wil 
+NI 
+WI 
+UM. 
+IOW 
+UN 
+EYT 
+CAU.WMVICI 
+WI 
+WA 
+RII:11=r1 
+Mat I 
+kNIMI PAN 
+UM IPA 
+0 IWA0 MN 
+Mg 
+WI 
+LAMM IUD knAXWAIN 
+EW 
+Wt34AW RETWVM. 
+WI 
+MN 
+WI 
+UNIWI Ill) WWINIPI 
+MAIM). YAWN /API 
+LINLOWDO WW1 MIN 
+ETT 
+CALL ViNTINO 
+IIIIIIIIIIIIIIII 
+ I
+IDETJUL OF CURRENT ACTIVITY - CONTINUED 
+VCICE USAGE I OR 
+OWN. 
+lbw Gab Thim 
+Cat To 
+UAW RAM Ow01010 
+IM*101001 
+WPALMEN031 FL 
+1MN 
+UTLANTED 1401/100 MN 
+WPAL149001 FL 
+110 
+IPILNITE) /AWN MV 
+W00000111. 
+NAN 
+llAra1110101 LEI 
+WPALmitA04 FL 
+Alit
+EN 
+FR 
+R 
+AL 
+Ft 
+1101 
+LARAWEITNEWAN1001 
+FL 
+1101 
+WILMITE0 NWPC110 MN 
+n  
+PIATE80318tt 
+FL 
+MAN 
+LIPAOIR 
+gAi g 
+INCOMING 
+LAN 
+NAN 
+INN 
+1MN 
+31.911 
+I MN 
+114
+Mi 
+I MN 
+OAN 
+IIIIIIIIIIIIIIIIIllII 
+II 141 0411 
+It Mi an 
+fl 
+01p1INIfnl 
+is 
+an 
+no ow 
+WI INA 
+MO 0111 
+04/1 
+04E 
+! 
+r ip 
+C4r
+ utm
+II
+040 e Mel 
+970 OM 
+I: IRS 
+4 cm eta 
+la
+Gr 
+" 
+ 
+Mw. 
+ws 
+NO WI 
+Ni WI 
+WWI 
+: 
+fON COI
+p c44 
+4 
+OPS0 
+03119 
+0314P 
+031W 
+03-2711
+MDM 
+04.10 
+040$,
+02A644
+0
+r211: 
+723A 
+10116A 
+11104 
+1I U4 
+01 
+11 
+II 
+A 
+glZ 
+040349 
+OAPSP 
+44bl3P
+1OP
+O
+GULP 
+%24P 
+Zit 
+TOTAL VCCE 
+11A I A USi1(4. I 70:7 
+t; bent 0•.• 
+Only Una 
+µI14 
+II
+ OATA laia KaWI= 
+G IS 
+(SOIL 
+1/1'4C,`.' FOR (S31)31C 
+N9M Dew 
+i tent 
+Tle• 
+114 
+Il
+1100/14 
+403/14 
+11Ff 
+1".:44ntleil 
+Nate 
+GAY 
+ehasslo 
+FL 
+it 
+FL 
+sillIFACH FL 
+FL 
+FL 
+Mik&FL 
+" 
+Ira 
+fL 
+F:ANN 
+W9 We
+t FL 
+2 /I 
+M
+INCOMING 
+NMI 
+fl 
+D
+P
+AN 
+AN 
+FL 
+21411 
+UNLINTED :WAND MN 
+10100171) ePt/
+0 MN 
+CW 
+M
+WIM
+04
+E 
+ALWT8g 00/100 WI 
+IIWW 
+WANES 
+Ulld Er 
+I 
+W 
+INCLUCCOMFUTEA_ 
+WILAIROM. TO MWL 
+IACIAIDED 
+S 
+UM M 
+NOLO 
+la° 
+$ 
+1.1.alLA 01401INTO MOIL 
+E REMIEVAL 
+INCLUDED 1401.01ES 
+uv,m vow ThioArl 
+usauclED us 
+inctulumui 
+asctuvE 
+Inn 
+(Iry 
+*WM 
+MMRF 
+Charge 
+ClwyeDendp040 
+00.04 NAN DATA 
+Posta 
+010 
+1
+03 
+8:' 
+0.I 
+0.
+0.1010 
+EFTA01692824

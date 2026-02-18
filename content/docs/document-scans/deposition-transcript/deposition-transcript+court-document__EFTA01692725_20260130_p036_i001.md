@@ -1,0 +1,416 @@
+---
+source_image: "deposition-transcript+court-document__EFTA01692725_20260130_p036_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 639
+confidence: 1.00
+extracted: 2026-02-13T16:27:24.677428
+---
+
+Account Name 
+Account Number 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+Date of Invoice 
+October 12. 200E 
+M
+U
+ 
+Wireless 
+14 of 14 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+water 
+Item 1306 nun 
+2 IMO 1021 
+IMOIi:
+4 1210 il.
+1045 IMO I 
+1046 IWO 12.01 
+1047 IC41007'1 
+040 10100? 
+069  
+01012X'10202 
+02 
+041 1210022.1
+COf IS2813
+22 1 110 213 
+056 1210 0)1 
+Sit l e
+21 IMO II 
+6111010 I113 
+1013 1210 111 
+1/21.6
+014 %/10'1.1 
+1016 10711 
+ICAO04.672 
+11 
+1057 ,21111 
+060 1211 11:1 
+ION 1011 II: 
+10/0 10'11 11:
+100 10711 11 7 
+1072 1041 
+1073 10/1 11: 
+Ion 1211 110 
+1051011__
+10/6 1011 
+1071 1211 
+101;IMI 
+1079 1211 
+1010 121100 
+12061 12 igi I 
+1 
+1211 
+1214 12110 
+MS 1211 104 
+IC01 12111129 
+TOTAL VOICE 
+- Continued 
+Omy 
+Chem, 
+Cat/To 
+UPS RAM Dascr1/3000 
+n. 
+004 Ft 
+11110/..
+BOYNMI 
+NOYNT 
+1•1124 
+WPAt/ME
+140ACH 
+BOY/0006P Ft 
+eiearPAeet
+ 
+fE 
+llC 
+COI FL 
+1.0E WORTH 11. 
+DATA USAGE FOR-
+Nom Dot. 
+Only Used 
+TO1111 DATA USAGE /CRISIS 
+TE XTRAULTIMEDIA MSGS FOR 
+len GAO 
+® 
+09000 
+31 
+Ting 
+Sent Tanteve Fleur 
+OilW 
+04011 
+102911
+MN 
+10.51 
+sigN 
+TIN 
+MN 
+MN 
+MN 
+MN 
+MN 
+UN 
+ION 
+MIN 
+11111 
+MN 
+MN 
+MM
+MM
+MN 
+WIN 
+1.01 
+MIN 
+/AN 
+MN 
+MN 
+I2MN
+0• 1
+MIN 
+MN 
+IAN 
+991 
+69▪ 11 
+ONIPA /TB NAVIN) SIN 
+201/1710 N2V0.010I 
+utintliTED NAVNIO) MN 
+WOWED NV/04 MN 
+MOWED NINICNO MN 
+UMLAUT ED 13'M040 :N
+WIO 
+Ult1111 NAVX 
+TUN 
+.1.3 1=
+ 
+N*
+*WWI MN
+1.1Enr 
+1WIN 
+M 
+1l
+a
+*S 
+UNUM111)142040)MN 
+j
+UNWIRE° WINN MN 
+iMprm3 UN 
+gOnnAl 
+NAVIN MN 
+UNUMTE0 /016 
+MN 
+UNLONFED AIN% 
+WI 
+UralanTO *WIN) MN 
+UNUlati WI/ 
+IC. 
+WM, 
+WANK 
+gel 
+Mil 
+/2100i IIPI 
+ONLY!! 
+141NINO MY 
+20.1./ 0 MNUTES 
+'NCLUDEOMITJTES 
+111117.10/ANU 
+riugErzi. 
+01 
+11 
+SHUT 
+111C/1.1010 WI 
+IM
+AGil
+iti4EVAL 
+INC WOE 0 111111 
+1/41100i 0 INN/ 
+IN71.1r1NWT 
+1NCOJ 
+111100/TI 
+INCILI 
+01411021 
+UTLAITTO Tranco0 MN 
+U NIIIITTO SAY/10 M6 
+11101127E0 201210 MN 
+17207E0 NAMING MN 
+UNIM/E0 NA12.11) Mil 
+On MILTED InVii263 1•11 
+UNLISITE0 161.2CNO 1•14 
+1/2 mown raW7171 MN 
+Chair OncdpInn 
+111137090 1 NAN NO 
+TEXT/MULTIMEDIA MSGS FOR 
+kern On. 
+Tom 
+Merge 
+Celle 
+0623P 
+7 one 
+0(12.19 
+1102/18 
+09030 
+0/1W 
+11 
+32 
+ETV
+10 
+Degaription 
+Chew 
+77 
+N :D146a; 
+TEXT 
+• 
+TEXT ArieSSAGIS SENT 
+61(52C4 S 
+(5 02119 
+14 03/11 
+Is 0322 
+1232/ 
+01/60 
+ON 5 
+/3 ONIS 
+24 01121 
+it/4 
+OM 
+tIt4 
+0132;"
+0404.4 
+11 
+1014P 
+R2Silen.
+Fait 
+or mu 
+n pan
+ 
+tit 
+n 
+ST. Lt.
+00120 
+/6 1001 
+Oa  
+CP
+ 41 6
+128A
+r
+14 
+e
+34 0929 
+i
+37 101
+001 
+41 
+LSI 
+Rif 
+42 KW 
+124
+16560 
+451001 
+44 1001 
+4 
+CCL5C"
+11.41 7A
+PP
+stx 
+11116or 
+ei1100611
+A
+$1 MI 
+63 1011 
+10201 
+ato 
+in an 
+10119 
+It I' 
+OTIOP 
+h,:ii 
+1611 
+311.,1 
+4;64 0 
+041460 
+to 1611 
+0112 
+(.1 10ii 
+1 
+1W 
+gl 
+274 42 ,
+OSSW 
+65 10m.1
+1 
+07
+66501Pe
+TOTUN-WI
+TOMMULThICON61160 USAOt I 
+11 a
+• Ccevinued 
+mai 
+inc
+hsr l=r
+iQS"Or 
+TEXT MESSAGES 
+NT 
+INSTA2{1 
+latu.ai 
+MESSAGESIta 
+mi.MSS/CAS TENT 
+/ENT
+III
+I.CeSSASA 
+ENT
+NT 
+NT 
+NT
+E 
+TEXT 
+T MES
+NT 
+TN
+SSAGES 
+NT
+I*. SAO 
+N 
+SENT
+ESSAOES 
+NT 
+"Mag 
+a rm. 
+SS
+SAGES SENT 
+:A 
+ESS ENT 
+TEXTME(SS 
+VME 
+MT 
+1.4 
+NT 
+1.1
+1341 MESSAGES s5 
+SENT 
+TENT M▪ ESSAGES 
+NT 
+MAT MESSMIET 
+T 
+TEXT
+TETI *1 
+MT
+M'T MESSAGES SENT 
+TEXT IESSAGE5 SENT 
+1121 MESSAGES SECT 
+TAT MESSAGES SETT 
+TEXT MESSAGES SETT 
+TEXT MESSAGES ETT 
+TEXT 91 . A.011 
+•IT 
+SW' 
+r walla 
+TEXT MESSAGES sea 
+TENT aw,,tr,svE, 
+Sfit
+XT rkg:;:gn 
+MESSAGES SE
+NT
+NT 
+TEXT MESS.4165 TE
+TEXT MESSAGES SENT 
+TEXT a 
+Chair 
+sS
+010 
+010 
+0.10 
+0.10 
+010 
+010 
+O10 
+010 
+010 
+4110 
+0.10 
+O 0 
+010 
+010 
+tit 
+0010
+10
+01
+Sit 
+010 
+010 
+itt 
+233 
+0.10
+0.10 
+010 
+010 
+010 
+0.10 
+0.10 
+111 
+010 
+0.10 
+0.10 
+0.10 
+e ig 
+010 
+0.10 
+t 
+SAO 
+EFTA01692760

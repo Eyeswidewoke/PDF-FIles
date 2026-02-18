@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HANDWRITTEN NOTES | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --bg:#0f1218; --surface:#171c24; --surface-2:#1f2631; --border:#2d3643;
+      --text:#e8edf4; --muted:#92a0b4; --accent:#1a8fc4; --accent-2:#4db8e8; --warm:#d35d2c;
+      --sans:'Space Grotesk',system-ui,sans-serif; --mono:'IBM Plex Mono',monospace;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0; font-family:var(--sans); color:var(--text);
+      background:radial-gradient(circle at 12% 0%,#141c24 0%,#0f1218 55%);
+    }
+    a{color:var(--accent)}
+    .back-link{
+      display:inline-block;margin:1rem;padding:.5rem 1rem;border:1px solid var(--border);border-radius:.5rem;
+      color:var(--muted);font:600 .78rem var(--mono);text-decoration:none;
+    }
+    .back-link:hover{color:var(--accent);border-color:var(--accent)}
+    .hero{
+      border-bottom:2px solid var(--accent);
+      background:linear-gradient(170deg,#0e161f 0%,#121a25 45%,#0f1218 100%);
+      padding:2rem 1rem 1.2rem; text-align:center;
+    }
+    .hero h1{
+      margin:0; font-size:clamp(1.5rem,4vw,2.4rem);
+      background:linear-gradient(90deg,var(--accent),var(--accent-2));
+      -webkit-background-clip:text; background-clip:text; color:transparent;
+      letter-spacing:.03em;
+    }
+    .hero p{margin:.6rem auto 0;max-width:76ch;color:var(--muted);font-size:.9rem}
+    .hero-nav{
+      max-width:980px;margin:.9rem auto 0;display:grid;gap:.5rem;
+      grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    }
+    .hero-btn{
+      display:inline-flex;align-items:center;justify-content:center;
+      min-height:2.4rem;padding:.35rem .55rem;border-radius:.5rem;
+      border:1px solid rgba(255,255,255,.2);font:600 .72rem var(--mono);letter-spacing:.02em;
+      color:#fff;text-decoration:none;
+    }
+    .hero-btn:hover{filter:saturate(1.08) brightness(1.04);text-decoration:none}
+    .wrap{max-width:1240px;margin:0 auto;padding:1rem}
+    .panel{
+      background:var(--surface);border:1px solid var(--border);border-radius:.85rem;padding:.9rem;margin-bottom:1rem;
+    }
+    .controls{
+      display:grid;gap:.5rem;
+      grid-template-columns:minmax(240px,2fr) repeat(4,minmax(120px,1fr));
+    }
+    input,select{
+      width:100%;border:1px solid var(--border);border-radius:.55rem;
+      background:var(--surface-2);color:var(--text);padding:.52rem .58rem;
+      font:500 .78rem var(--mono);
+    }
+    .meta{
+      margin:.55rem 0 0;color:var(--muted);font:500 .74rem var(--mono);
+    }
+    .grid{
+      display:grid;gap:.75rem;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));
+    }
+    .card{
+      background:var(--surface);border:1px solid var(--border);border-radius:.75rem;overflow:hidden;
+      display:grid;grid-template-rows:auto 1fr;
+    }
+    .thumb-wrap{
+      background:#0d1117;border-bottom:1px solid var(--border);aspect-ratio:4/3;display:grid;place-items:center;
+    }
+    .thumb{
+      max-width:100%;max-height:100%;display:block;
+    }
+    .body{padding:.65rem .7rem;display:grid;gap:.38rem}
+    .title{
+      margin:0;font-size:.82rem;color:#fff;font-weight:700;letter-spacing:.01em;
+      word-break:break-word;
+    }
+    .chips{display:flex;flex-wrap:wrap;gap:.28rem}
+    .chip{
+      font:600 .64rem var(--mono);padding:.1rem .34rem;border-radius:999px;
+      border:1px solid #dfb7a8;background:rgba(211,93,44,.1);color:#f1b89f;
+      white-space:nowrap;
+    }
+    .chip.good{
+      border-color:#48a87a;background:rgba(44,170,113,.12);color:#9de3bf;
+    }
+    .excerpt{
+      margin:0;color:var(--muted);font-size:.76rem;line-height:1.45;max-height:5.9rem;overflow:auto;
+    }
+    .actions{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.15rem}
+    .btn{
+      border:1px solid var(--border);background:var(--surface-2);color:var(--text);
+      border-radius:.45rem;padding:.35rem .5rem;font:600 .68rem var(--mono);text-decoration:none;
+    }
+    .btn.primary{border-color:#3d6578;color:#d5edf7}
+    .btn:hover{text-decoration:none;filter:brightness(1.07)}
+    .empty{
+      color:var(--muted);font:500 .8rem var(--mono);text-align:center;padding:2rem .6rem;
+      border:1px dashed var(--border);border-radius:.7rem;background:var(--surface);
+    }
+    @media (max-width:900px){
+      .controls{grid-template-columns:1fr 1fr}
+    }
+    @media (max-width:620px){
+      .controls{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./images.html">&larr; BACK TO IMAGES PAGE</a>
+
+  <header class="hero">
+    <h1>HANDWRITTEN NOTES GALLERY</h1>
+    <p>
+      Curated CLIP category from DS9: handwritten-note images with OCR sidecars and source PDF references.
+      Use filters to prioritize cleaner reads.
+    </p>
+    <nav class="hero-nav" aria-label="Gallery navigation">
+      <a class="hero-btn" href="./index.html" style="background:linear-gradient(125deg,#5e4732,#3f2d1f)">HOME &rarr;</a>
+      <a class="hero-btn" href="./images.html" style="background:linear-gradient(125deg,#1a8fc4,#156f98)">IMAGES PAGE &rarr;</a>
+      <a class="hero-btn" href="./search.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900)">SEARCH &rarr;</a>
+      <a class="hero-btn" href="./cast.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916)">CAST HUB &rarr;</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="panel">
+      <div class="controls">
+        <input id="q" type="search" placeholder="Search PDF id, excerpt, tags..." autocomplete="off" spellcheck="false" />
+        <select id="minWords">
+          <option value="0">Min Words: 0</option>
+          <option value="20">Min Words: 20</option>
+          <option value="40" selected>Min Words: 40</option>
+          <option value="80">Min Words: 80</option>
+          <option value="120">Min Words: 120</option>
+        </select>
+        <select id="minConf">
+          <option value="0">Min Conf: 0.00</option>
+          <option value="0.30">Min Conf: 0.30</option>
+          <option value="0.50" selected>Min Conf: 0.50</option>
+          <option value="0.70">Min Conf: 0.70</option>
+          <option value="0.90">Min Conf: 0.90</option>
+        </select>
+        <select id="minAlpha">
+          <option value="0">OCR Readability: Any</option>
+          <option value="0.25">OCR Readability: 0.25+</option>
+          <option value="0.35" selected>OCR Readability: 0.35+</option>
+          <option value="0.50">OCR Readability: 0.50+</option>
+        </select>
+        <select id="sortBy">
+          <option value="rank">Sort: Best First</option>
+          <option value="words">Sort: Words</option>
+          <option value="confidence">Sort: Confidence</option>
+          <option value="source_pdf">Sort: Source PDF</option>
+        </select>
+      </div>
+      <p class="meta" id="meta">Loading gallery...</p>
+    </section>
+
+    <section id="grid" class="grid"></section>
+  </main>
+
+  <script>
+    (function(){
+      const state = {
+        items: [],
+        filtered: [],
+      };
+
+      const el = {
+        q: document.getElementById("q"),
+        minWords: document.getElementById("minWords"),
+        minConf: document.getElementById("minConf"),
+        minAlpha: document.getElementById("minAlpha"),
+        sortBy: document.getElementById("sortBy"),
+        meta: document.getElementById("meta"),
+        grid: document.getElementById("grid"),
+      };
+
+      function esc(input){
+        return String(input || "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#39;");
+      }
+
+      function href(path){
+        const clean = String(path || "").replace(/^\.?\//, "");
+        return "./" + clean.split("/").map((s) => encodeURIComponent(decodeURIComponent(s))).join("/");
+      }
+
+      function nfmt(n){
+        return Number(n || 0).toLocaleString("en-US");
+      }
+
+      function matchQuery(item, q){
+        if(!q) return true;
+        const hay = [
+          item.id, item.source_pdf, item.excerpt,
+          (item.tags || []).join(" "), item.image_path, item.ocr_path
+        ].join(" ").toLowerCase();
+        return hay.includes(q);
+      }
+
+      function applyFilters(){
+        const q = String(el.q.value || "").trim().toLowerCase();
+        const minWords = Number(el.minWords.value || 0);
+        const minConf = Number(el.minConf.value || 0);
+        const minAlpha = Number(el.minAlpha.value || 0);
+        const sortBy = String(el.sortBy.value || "rank");
+
+        const rows = state.items.filter((item) => {
+          if(Number(item.words || 0) < minWords) return false;
+          if(Number(item.confidence || 0) < minConf) return false;
+          if(Number(item.alpha_ratio || 0) < minAlpha) return false;
+          if(!matchQuery(item, q)) return false;
+          return true;
+        });
+
+        rows.sort((a, b) => {
+          if(sortBy === "words"){
+            return Number(b.words || 0) - Number(a.words || 0) || Number(b.confidence || 0) - Number(a.confidence || 0);
+          }
+          if(sortBy === "confidence"){
+            return Number(b.confidence || 0) - Number(a.confidence || 0) || Number(b.words || 0) - Number(a.words || 0);
+          }
+          if(sortBy === "source_pdf"){
+            return String(a.source_pdf || "").localeCompare(String(b.source_pdf || ""), undefined, {numeric:true,sensitivity:"base"});
+          }
+          return Number(a.rank || 0) - Number(b.rank || 0);
+        });
+
+        state.filtered = rows;
+        render();
+      }
+
+      function card(item){
+        const tags = (item.tags || []).slice(0, 4).map((t) => `<span class="chip">${esc(t)}</span>`).join("");
+        return (
+          `<article class="card">` +
+            `<a class="thumb-wrap" href="${href(item.image_path)}" target="_blank" rel="noopener">` +
+              `<img class="thumb" loading="lazy" src="${href(item.image_path)}" alt="${esc(item.id)}" />` +
+            `</a>` +
+            `<div class="body">` +
+              `<h3 class="title">${esc(item.source_pdf || item.id)}</h3>` +
+              `<div class="chips">` +
+                `<span class="chip good">words: ${esc(item.words)}</span>` +
+                `<span class="chip">conf: ${esc(Number(item.confidence || 0).toFixed(2))}</span>` +
+                `<span class="chip">readability: ${esc(Number(item.alpha_ratio || 0).toFixed(2))}</span>` +
+                tags +
+              `</div>` +
+              `<p class="excerpt">${esc(item.excerpt || "")}</p>` +
+              `<div class="actions">` +
+                `<a class="btn primary" href="${href(item.image_path)}" target="_blank" rel="noopener">Open Image</a>` +
+                `<a class="btn" href="${href(item.ocr_path)}" target="_blank" rel="noopener">Open OCR (.md)</a>` +
+              `</div>` +
+            `</div>` +
+          `</article>`
+        );
+      }
+
+      function render(){
+        el.meta.textContent = `Showing ${nfmt(state.filtered.length)} of ${nfmt(state.items.length)} handwritten-note item(s).`;
+        if(!state.filtered.length){
+          el.grid.innerHTML = `<div class="empty">No items match current filters.</div>`;
+          return;
+        }
+        el.grid.innerHTML = state.filtered.map(card).join("");
+      }
+
+      async function boot(){
+        try{
+          const response = await fetch("./content/images/galleries/handwritten-notes/index.json", {cache:"no-store"});
+          if(!response.ok) throw new Error("HTTP " + response.status);
+          const payload = await response.json();
+          state.items = Array.isArray(payload.items) ? payload.items : [];
+          ["q","minWords","minConf","minAlpha","sortBy"].forEach((id) => {
+            el[id].addEventListener(id === "q" ? "input" : "change", applyFilters);
+          });
+          applyFilters();
+        }catch(err){
+          el.meta.textContent = "Gallery failed to load.";
+          el.grid.innerHTML = `<div class="empty">${esc(err && err.message ? err.message : String(err))}</div>`;
+        }
+      }
+
+      boot();
+    })();
+  </script>
+</body>
+</html>

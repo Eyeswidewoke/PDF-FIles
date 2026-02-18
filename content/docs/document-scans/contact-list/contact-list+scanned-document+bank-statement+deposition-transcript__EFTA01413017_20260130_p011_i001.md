@@ -1,0 +1,248 @@
+---
+source_image: "contact-list+scanned-document+bank-statement+deposition-transcript__EFTA01413017_20260130_p011_i001.png"
+source_pdf: "EFTA01413017.pdf"
+method: pdf_text
+words: 510
+confidence: 1.00
+extracted: 2026-02-13T16:06:56.511125
+---
+
+Sep-yc 
+Number Rule Code 
+Rule Group 
+Customer 
+ew Oper Review Date 
+Random 2nd Review 
+47280 
+RepATMOut 
+repetitive 
+:48 
+0.9838601483157394 
+approved 
+1,"Rule Group","dormant")*Q2=6 
+47309 
+RACS3 
+racs3 
+4.0000019559E10 
+282833 approved 
+hubspoke 
+hubspoke")*Q3=1.40 
+47310 
+RACS3 
+racs3 
+4.0000023497E10 
+261496 approved 
+racs3 
+35 
+Q4=3.50 
+35257535 
+9/4/2013 4:56 
+Waived CHENYA 9/17/2013 14 
+dormant 60 
+0.10 
+GETPIVOTDATA("Rule Code",$O$ 
+9/4/2013 4:56 
+Waived CHENYA 9/4/2013 13:40 0.9578812836 
+14 
+0.10 
+GETPIVOTDATA("Rule Code",$O$1,"Rule Group"," 
+9/4/2013 4:56 
+Waived CHENYA 9/4/2013 13:40 0.9470263829 
+0.10 
+GETPIVOTDATA("Rule Code",$O$1,"Rule Group","racs3")* 
+47325 
+RACS4 
+racs4 
+4.0000021897E10 9/4/2013 4:56 
+Waived CHENYA 9/23/2013 15:02 0.8780963550 
+68702 
+approved 
+racs4 
+77 
+0.20 
+GETPIVOTDATA("Rule Code",$O$1,"Rule Group","racs4")* 
+Q5=15.40 
+47326 
+RACS4 
+racs4 
+4.0000023219E10 9/4/2013 4:56 
+Waived CHENYA 9/23/2013 15:36 0.7723085193 
+244572 approved 
+repetitive 
+52 
+0.10 
+GETPIVOTDATA("Rule Code",$O$1,"Rule Group"," 
+repetitive")*Q6=5.20 
+47329 
+RACS4 
+racs4 
+4.0000023497E10 9/4/2013 4:56 
+Waived CHENYA 9/23/2013 16:06 0.7550627175 
+89496 
+approved 
+velocity 
+20 
+0.10 
+GETPIVOTDATA("Rule Code",$O$1,"Rule Group"," 
+velocity")*Q7=2 
+47615 
+dDormntAcct 
+92273459717966 Grand 
+dormant 
+Total 
+15440527 
+258 
+9/18/2013 4:08 Waived CHENYA 10/1/2013 12:59 0.90 
+47395 
+dDormntAcct 
+dormant 259018 9/6/2013 4:15 
+Waived CHENYA 10/1/2013 12:47 0.8946279947 
+057187 
+47502 
+dDormntAcct 
+dormant 251470 9/13/2013 4:09 Waived CHENYA 9/17/2013 12:58 0.8927080268 
+463605 
+47647 
+dDormntAcct 
+dormant 630091 9/21/2013 4:07 Waived CHENYA 9/24/2013 12:23 0.8918210205 
+698884 
+47515 
+dDormntAcct 
+dormant 44110367 
+9/17/2013 8:06 Waived CHENYA 9/17/2013 13:05 0.86 
+96542629137325 
+47257 
+dDormntAcct 
+dormant 450540 9/4/2013 4:56 
+Waived CHENYA 9/4/2013 12:44 0.8691261151 
+404133 
+47747 
+dDormntAcct 
+dormant 42896474 
+9/26/2013 5:55 Waived CHENYA 10/1/2013 9:57 0.84 
+01825626809238 
+47745 
+dDormntAcct 
+dormant 35062543 
+9/25/2013 6:34 Waived CHENYA 10/1/2013 12:59 0.81 
+21667118109652 
+47749 
+dDormntAcct 
+dormant 84592153 
+9/26/2013 5:55 Waived CHENYA 10/1/2013 9:56 0.80 
+98146839183267 
+47504 
+dDormntAcct 
+dormant 44111300 
+9/13/2013 4:09 Waived CHENYA 10/1/2013 12:59 0.79 
+9600841315182 
+47503 
+dDormntAcct 
+dormant 259015 9/13/201 3 4:09 Waived CHENYA 10/1/2013 12:59 0.7952046433 
+326077 
+47743 
+dDormntAcct 
+dormant 190806 9/25/201 3 6:34 Waived CHENYA 10/1/2013 10:07 0.7666433920 
+433173 
+47507 
+dDormntAcct 
+dormant 248907 9/14/201 3 4:24 Waived CHENYA 10/1/2013 12:59 0.7637039354 
+274551 
+47622 
+dDormntAcct 
+dormant 42930417 
+9/19/2013 4:12 Waived CHENYA 10/1/2013 12:59 0.75 
+94612077769991 
+47629 
+dDormntAcct 
+723398 
+47757 
+dDormntAcct 
+777629 
+47634 
+dDormntAcct 
+dormant 251806 
+dormant 246857 
+dormant 44107424 
+9/20/2013 4:09 Waived 
+9/28/2013 6:34 Waived 
+9/20/2013 4:09 
+CHENYA 
+CHENYA 
+Waived 
+10/1/2013 12:59 0.7507433374 
+10/1/2013 9:52 0 
+.7433482377 
+CHENYA 10/1/2013 12:59 0.73 
+8127842970866 
+47255 
+dDormntAcct 
+dormant 251036 9/4/2013 4:56 
+Waived CHENYA 9/4/2013 12:43 0 
+.7350447402 
+403617 
+47501 
+dDormntAcct 
+dormant 15425626 
+9/13/2013 4:09 Waived CHENYA 9/17/2013 12:57 0.73 
+09161844275132 
+47752 
+dDormntAcct 
+dormant 42927875 
+9/27/2013 5:54 Waived CHENYA 10/1/2013 12:59 0.70 
+66512204238005 
+47628 
+dDormntAcct 
+730029 
+dormant 246935 9/20/2013 4:09 Waived CHENYA 9/24/2013 12:10 0 
+.7044982883 
+47514 
+dDormntAcct 
+dormant 18189382 
+9/17/2013 8:06 Waived CHENYA 9/26/2013 13:20 0.70 
+20945760677417 
+47256 
+dDormntAcct 
+dormant 35242384 
+9/4/2013 4:56 
+Waived CHENYA 10/1/2013 12:59 0.68 
+817276311896 
+47621 
+dDormntAcct 
+dormant 652510 9/18/201 3 4:08 Waived CHENYA 9/24/2013 12:05 0 
+.6573684433 
+065348 
+47624 
+dDormntAcct 
+dormant 42945969 
+9/19/2013 4:12 Waived CHENYA 10/1/2013 12:59 0.64 
+59331677378146 
+47754 
+dDormntAcct 
+dormant 44124312 
+9/27/2013 5:54 Waived CHENYA 10/1/2013 10:01 0.62 
+81479251326916 
+47633 
+dDormntAcct 
+dormant 44105760 
+9/20/2013 4:09 Waived CHENYA 10/1/2013 12:59 0.59 
+33932479819308 
+47500 
+dDormntAcct 
+dormant 15309369 
+9/13/2013 4:09 Waived CHENYA 9/17/2013 12:55 0.58 
+16141311466743 
+47755 
+dDormntAcct 
+dormant 450531 9/27/2013 5:54 Waived CHENYA 10/1/2013 10:02 0 
+.5789378967 
+90281 
+ID 
+Account Create Date 
+Review State 
+Revi 
+Row Labels 
+Count of Rule Code 
+% 
+I 
+EFTA01413027

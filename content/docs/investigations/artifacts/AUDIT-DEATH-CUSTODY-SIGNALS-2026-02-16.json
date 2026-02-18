@@ -1,0 +1,728 @@
+{
+  "generated_at": "2026-02-16T08:03:20",
+  "term_total_hits": {
+    "mcc": 545,
+    "suicide": 351,
+    "watch": 101,
+    "cellmate": 212,
+    "autopsy": 33,
+    "tartaglione": 20
+  },
+  "term_file_counts": {
+    "mcc": 235,
+    "suicide": 149,
+    "watch": 34,
+    "cellmate": 41,
+    "autopsy": 22,
+    "tartaglione": 6
+  },
+  "term_unique_efta_counts": {
+    "mcc": 102,
+    "suicide": 88,
+    "watch": 7,
+    "cellmate": 8,
+    "autopsy": 17,
+    "tartaglione": 3
+  },
+  "top_docs_per_term": {
+    "mcc": [
+      {
+        "hits": 13,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+court-document__EFTA01656708_20260130_p059_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 13,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document+deposition-transcript__EFTA01656708_20260130_p101_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 11,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document__EFTA01656708_20260130_p012_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 11,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+affidavit__EFTA01656708_20260130_p009_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 11,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document__EFTA01656708_20260130_p089_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 10,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document__EFTA01656708_20260130_p029_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 10,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+court-document__EFTA01656708_20260130_p058_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 10,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+letter+typed-page__EFTA01656708_20260130_p010_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 10,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+scanned-document+court-document__EFTA01656708_20260130_p116_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 10,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot__EFTA01656708_20260130_p115_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 10,
+        "path": "content/docs/document-scans/scanned-document/scanned-document+email-screenshot__EFTA01656708_20260130_p088_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 9,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+affidavit+email-screenshot+deposition-transcript__EFTA01656708_20260130_p014_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 9,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document+deposition-transcript__EFTA01656708_20260130_p083_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 9,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+court-document__EFTA01656708_20260130_p028_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 8,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+typed-page__EFTA01656708_20260130_p064_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+court-document+affidavit__EFTA01656708_20260130_p013_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+affidavit__EFTA01656708_20260130_p008_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+court-document+affidavit__EFTA01656708_20260130_p110_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+court-document+scanned-document__EFTA01656708_20260130_p068_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript__EFTA01656708_20260130_p105_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot+letter+scanned-document__EFTA01656708_20260130_p038_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/court-document/court-document+legal-filing__EFTA01656708_20260130_p002_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+affidavit+email-screenshot+court-document__EFTA01687643_20260130_p011_i001.md",
+        "efta": "EFTA01687643"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+court-document__EFTA01656708_20260130_p070_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+typed-page__EFTA01656708_20260130_p063_i001.md",
+        "efta": "EFTA01656708"
+      }
+    ],
+    "suicide": [
+      {
+        "hits": 21,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document+affidavit+typed-page__EFTA01656708_20260130_p018_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 12,
+        "path": "content/docs/document-scans/scanned-document/scanned-document+court-document+deposition-transcript__EFTA02727007_20260210_p121_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 11,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+typed-page__EFTA01656708_20260130_p053_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 11,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot__EFTA01656708_20260130_p118_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 10,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document+scanned-document__EFTA02727007_20260210_p102_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 10,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document+affidavit__EFTA01656708_20260130_p052_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 8,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+court-document__EFTA02727007_20260210_p090_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 8,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot+letter+scanned-document__EFTA01656708_20260130_p038_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/court-document/court-document+legal-filing__EFTA01656708_20260130_p002_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+typed-page__EFTA01656708_20260130_p055_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document__EFTA02729994_20260210_p001_i001.md",
+        "efta": "EFTA02729994"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document__EFTA02729997_20260210_p001_i001.md",
+        "efta": "EFTA02729997"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/scanned-document/scanned-document+court-document+affidavit+deposition-transcript__EFTA02727007_20260210_p087_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 5,
+        "path": "content/docs/document-scans/court-document/court-document+affidavit+deposition-transcript+scanned-document__EFTA02727007_20260210_p105_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 5,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+book-page__EFTA01728716_20260130_p043_i001.md",
+        "efta": "EFTA01728716"
+      },
+      {
+        "hits": 5,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document+affidavit__EFTA01656708_20260130_p086_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 5,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document+court-document+letter__EFTA01656708_20260130_p049_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 5,
+        "path": "content/docs/document-scans/scanned-document/scanned-document+court-document+deposition-transcript__EFTA02727007_20260210_p106_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/court-document/court-document+legal-filing+scanned-document+deposition-transcript__EFTA01699675_20260130_p009_i001.md",
+        "efta": "EFTA01699675"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document+scanned-document+affidavit__EFTA02727007_20260210_p116_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document__EFTA01687128_20260130_p052_i001.md",
+        "efta": "EFTA01687128"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+court-document+affidavit__EFTA01656708_20260130_p050_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+typed-page+scanned-document__EFTA02700917_20260210_p006_i001.md",
+        "efta": "EFTA02700917"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+legal-filing__EFTA01656708_20260130_p117_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document+affidavit+scanned-document__EFTA01656708_20260130_p039_i001.md",
+        "efta": "EFTA01656708"
+      }
+    ],
+    "watch": [
+      {
+        "hits": 11,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document+affidavit+typed-page__EFTA01656708_20260130_p018_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 8,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+typed-page__EFTA01656708_20260130_p053_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 8,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document+affidavit__EFTA01656708_20260130_p052_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot+letter+scanned-document__EFTA01656708_20260130_p038_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot__EFTA01656708_20260130_p118_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document__EFTA02729994_20260210_p001_i001.md",
+        "efta": "EFTA02729994"
+      },
+      {
+        "hits": 6,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document__EFTA02729997_20260210_p001_i001.md",
+        "efta": "EFTA02729997"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document+scanned-document__EFTA02727007_20260210_p102_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document+affidavit+scanned-document__EFTA01656708_20260130_p039_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+typed-page__EFTA01656708_20260130_p055_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/scanned-document/scanned-document+court-document+deposition-transcript__EFTA02727007_20260210_p121_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+scanned-document+legal-filing+court-document__EFTA01656708_20260130_p036_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/scanned-document/scanned-document+court-document+deposition-transcript__EFTA02727007_20260210_p106_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/court-document/court-document+affidavit+deposition-transcript+scanned-document__EFTA02727007_20260210_p105_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/court-document/court-document+legal-filing__EFTA01656708_20260130_p002_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+typed-page__EFTA01656708_20260130_p064_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+legal-filing__EFTA01656708_20260130_p117_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document+court-document+letter__EFTA01656708_20260130_p049_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+affidavit+court-document+legal-filing__EFTA02727007_20260210_p109_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document+legal-filing__EFTA01656980_20260130_p001_i001.md",
+        "efta": "EFTA01656980"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document+legal-filing__EFTA02730054_20260210_p001_i001.md",
+        "efta": "EFTA02730054"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+affidavit+scanned-document__EFTA01656708_20260130_p051_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+court-document+affidavit__EFTA01656708_20260130_p050_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+court-document+affidavit__EFTA01656708_20260130_p107_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+court-document__EFTA02727007_20260210_p090_i001.md",
+        "efta": "EFTA02727007"
+      }
+    ],
+    "cellmate": [
+      {
+        "hits": 16,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+typed-page__EFTA01656708_20260130_p063_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 16,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document+affidavit+scanned-document__EFTA01656708_20260130_p039_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 16,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot__EFTA01656708_20260130_p118_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 15,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document+affidavit+deposition-transcript__EFTA01656708_20260130_p108_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 13,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+scanned-document+legal-filing+typed-page__EFTA01656708_20260130_p061_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 12,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+court-document+scanned-document__EFTA01656708_20260130_p040_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 12,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript__EFTA01656708_20260130_p105_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 11,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+court-document+affidavit__EFTA01656708_20260130_p107_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 11,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+typed-page__EFTA01656708_20260130_p064_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 9,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+court-document__EFTA01656708_20260130_p060_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 8,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+court-document__EFTA01656708_20260130_p062_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 8,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+court-document__EFTA01656708_20260130_p058_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+affidavit__EFTA01656708_20260130_p037_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 5,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+scanned-document+legal-filing+court-document__EFTA01656708_20260130_p036_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 5,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+court-document__EFTA01656708_20260130_p076_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 5,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document+affidavit__EFTA01656708_20260130_p052_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+affidavit__EFTA01656708_20260130_p009_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+scanned-document+court-document__EFTA01656708_20260130_p059_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript__EFTA02729994_20260210_p002_i001.md",
+        "efta": "EFTA02729994"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript__EFTA02729997_20260210_p002_i001.md",
+        "efta": "EFTA02729997"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+letter+deposition-transcript+typed-page__EFTA01656708_20260130_p054_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+affidavit+court-document+legal-filing__EFTA02727007_20260210_p109_i001.md",
+        "efta": "EFTA02727007"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document+legal-filing__EFTA02730054_20260210_p001_i001.md",
+        "efta": "EFTA02730054"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+court-document+affidavit__EFTA01656708_20260130_p050_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+deposition-transcript+legal-filing__EFTA01658024_20260130_p015_i001.md",
+        "efta": "EFTA01658024"
+      }
+    ],
+    "autopsy": [
+      {
+        "hits": 7,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+court-document+affidavit__EFTA01656708_20260130_p086_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+email-screenshot__EFTA01658816_20260130_p012_i001.md",
+        "efta": "EFTA01658816"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+legal-filing+scanned-document__EFTA01656051_20260130_p011_i001.md",
+        "efta": "EFTA01656051"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+typed-page__EFTA01658289_20260130_p018_i001.md",
+        "efta": "EFTA01658289"
+      },
+      {
+        "hits": 2,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+affidavit+email-screenshot+deposition-transcript__EFTA01656708_20260130_p014_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+affidavit+email-screenshot+court-document__EFTA01687643_20260130_p011_i001.md",
+        "efta": "EFTA01687643"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+court-document+affidavit__EFTA01279007_20260130_p047_i001.md",
+        "efta": "EFTA01279007"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+email-screenshot+legal-filing__EFTA01655651_20260130_p009_i001.md",
+        "efta": "EFTA01655651"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+email-screenshot+typed-page+legal-filing__EFTA01655264_20260130_p003_i001.md",
+        "efta": "EFTA01655264"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+legal-filing+email-screenshot+timeline__EFTA01655880_20260130_p011_i001.md",
+        "efta": "EFTA01655880"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+typed-page+email-screenshot__EFTA01655846_20260130_p007_i001.md",
+        "efta": "EFTA01655846"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+typed-page+scanned-document__EFTA02700917_20260210_p006_i001.md",
+        "efta": "EFTA02700917"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+typed-page__EFTA01655880_20260130_p010_i001.md",
+        "efta": "EFTA01655880"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+legal-filing__EFTA01655234_20260130_p007_i001.md",
+        "efta": "EFTA01655234"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+letter+legal-filing__EFTA01656708_20260130_p103_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+scanned-document+invoice__EFTA01671962_20260130_p063_i001.md",
+        "efta": "EFTA01671962"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+deposition-transcript+affidavit__EFTA01656708_20260130_p009_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot+deposition-transcript__EFTA01658459_20260130_p020_i001.md",
+        "efta": "EFTA01658459"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot+letter+affidavit__EFTA01656708_20260130_p011_i001.md",
+        "efta": "EFTA01656708"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+email-screenshot__EFTA01655631_20260130_p011_i001.md",
+        "efta": "EFTA01655631"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/scanned-document/scanned-document+deposition-transcript+letter+legal-filing__EFTA02558802_20260210_p001_i001.md",
+        "efta": "EFTA02558802"
+      },
+      {
+        "hits": 1,
+        "path": "content/docs/document-scans/typed-page/typed-page+contact-list+email-screenshot+deposition-transcript__EFTA01655706_20260130_p011_i001.md",
+        "efta": "EFTA01655706"
+      }
+    ],
+    "tartaglione": [
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/legal-filing/legal-filing+scanned-document+deposition-transcript+typed-page__EFTA01687456_20260130_p052_i001.md",
+        "efta": "EFTA01687456"
+      },
+      {
+        "hits": 4,
+        "path": "content/docs/document-scans/letter/letter+scanned-document+legal-filing__EFTA01687456_20260130_p036_i001.md",
+        "efta": "EFTA01687456"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+email-screenshot+legal-filing+court-document__EFTA01687456_20260130_p022_i001.md",
+        "efta": "EFTA01687456"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/deposition-transcript/deposition-transcript+email-screenshot+timeline+legal-filing__EFTA01655511_20260130_p012_i001.md",
+        "efta": "EFTA01655511"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/email-screenshot/email-screenshot+letter+deposition-transcript__EFTA01687868_20260130_p004_i001.md",
+        "efta": "EFTA01687868"
+      },
+      {
+        "hits": 3,
+        "path": "content/docs/document-scans/scanned-document/scanned-document+legal-filing+deposition-transcript+typed-page__EFTA01687456_20260130_p068_i001.md",
+        "efta": "EFTA01687456"
+      }
+    ]
+  },
+  "all_unique_efta": 190,
+  "all_efta_with_media_overlap": 0,
+  "all_media_files_linked_by_efta": 0,
+  "media_summary": {
+    "total_media_files": 2599,
+    "by_dataset": {
+      "DS11": 4,
+      "DS2": 1,
+      "DS8": 420,
+      "DS9": 2174
+    },
+    "by_extension_top": [
+      [
+        ".avi",
+        1730
+      ],
+      [
+        ".mp4",
+        734
+      ],
+      [
+        ".mov",
+        57
+      ],
+      [
+        ".m4v",
+        53
+      ],
+      [
+        ".wav",
+        12
+      ],
+      [
+        ".mp3",
+        7
+      ],
+      [
+        ".wmv",
+        5
+      ],
+      [
+        ".3gp",
+        1
+      ]
+    ]
+  },
+  "linked_media_samples": []
+}

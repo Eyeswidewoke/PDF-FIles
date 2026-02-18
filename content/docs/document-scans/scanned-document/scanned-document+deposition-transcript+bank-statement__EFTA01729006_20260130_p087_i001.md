@@ -1,0 +1,311 @@
+---
+source_image: "scanned-document+deposition-transcript+bank-statement__EFTA01729006_20260130_p087_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 535
+confidence: 1.00
+extracted: 2026-02-13T17:19:04.934101
+---
+
+• 
+• 
+Page 
+4 
+Account NUmber: 
+Billing Date: 
+Mobile Number: 
+Mobile Deer: 
+Total Mobiles: 
+AIRTIME AND.LONG DISTANCE CHARGES 
+It's Date 
+Time 
+CL No. 
+City 
+Length 
+of 
+Called 
+Called 
+P P Call 
+ 
+CHARGES 
+Air 
+Long 
+Time 
+Diet. Total 
+25 04/08 11:07PM 
+INCOME CL W 
+1 
+0.00 
+0.00 
+26,04/08 11:10PM 
+N PALM FL N 
+1 
+0.00 
+0.00 
+27 04/00 11:16PM 
+W PALM FL N 
+1 
+0.00 
+0.0D 
+28 04/08 11:17PM 
+N PALM FL N 
+1 
+0.00 
+0.00 
+29 04/08 11:19PM 
+W PALM PL W 
+3 
+0.00 
+0.00 
+30 04/08 11:19PM 
+INCOMI CL W 
+2 
+0.00 
+0.00 
+31 04/08 11:21PM 
+N PALM FL N 
+1 
+0.00 
+0.00 
+32 04/00 11:22PM 
+W PAIN PL 
+1 
+0.00 
+0.00 
+33 04/08 11:27PM 
+N PALM FL N 
+1 
+0.00 
+0.00 
+34 04/08 11:27PM 
+INCOMI CL N 
+1 
+0.00 
+0.00 
+35 04/08 11:29PM 
+INCOMI CL N 
+1 
+0.00 
+0.00 
+36 04/08 11:33PM 
+N PALM PL N 
+2 
+0.00 
+0.00 
+37 04/09 12:31AM 
+N PALM FL N 
+2 
+0.00 ' 
+0.00 
+3B 04/09 12:45AM 
+N PALM FL N 
+3 
+0.'00 
+0.00 
+39 04/09 01:17AM 
+INCOMI CL H 
+25 
+0.00 
+0.00 
+40 04/09 01:29PM 
+INCCIMI CI 
+4 
+0.00 
+0.00 
+41 04/09 01:30PM 
+INCOME CL 
+1 
+0.00 
+0.00 
+42 04/09 02:31PM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+43 04/09 03:32PM 
+PALM FL 
+1 
+0.00 
+0.00 
+44 04/09 03:33PM 
+INCOMI CL 
+3 
+0.00 
+0.00 
+45 04/09 01:34PM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+46 04/09 03:38PM 
+PALM FL 
+2 
+0.00 
+0.00 
+47 04/09 03:53PM 
+PALM FL 
+3 
+0.00 
+0.00 
+48 04/09 05:20PM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+49 04/09 05:30PM 
+PALM PL 
+2 
+0.00 
+0.00 
+50 04/09 06:19PM 
+PALM FL 
+2 
+0.00 
+0.00 
+51 04/09 05:21PM 
+INCOMI.CL 
+1 
+0.00 
+0.00 
+52 04/09 09:06PM 
+INCOMI CL N 
+2 
+0.00 
+0.00 
+33 04/09 09:32PM 
+INCOMI CL N 
+3 
+0.00 
+0.00 
+54 04/09 09:40FM 
+NCOMI CL 
+1 
+0.00 
+0.00 
+55 04/09 09:55PM 
+NCOMI CL W 
+1 
+0.00 
+0.00 
+56 04/09 10:27PM 
+PALM FL W 
+1 
+0.00 
+0.00 
+57 04/09 10:45PM 
+NCOMI CL N 
+1 
+0.00 
+0.00 
+58 04/09 10:50PM 
+PALM FL N 
+1 
+0.00 
+0.00 
+59 04/09 10:50PM 
+'mom CL N 
+3 
+0.00 
+0.00 
+60 04/09 10:57PM 
+PALM FL N 
+2 
+0.00 
+0.00 
+61 04/09 11:00PM 
+NCOMI CL N 
+1 
+0.00 
+0.00 
+62 04/09 11:07PM 
+NCOMI CL M 
+3 
+0.00 
+0.00 
+63 04/09 11:29PM 
+NCOMI CL N 
+1 
+0.00 
+0.00 
+64 04/09 11:21PM 
+NCOMI CL N 
+2 0.00 
+0.00 
+65 04/09 11:26PM 
+NCOMI CL N 
+2 
+0.00 
+0.00 
+66 04/09 11:28PM 
+NCOMI CL 
+5 
+0.00 
+0.00 
+67 04/09 11:35PM 
+PALM FL N 
+2 
+0.00 
+0.00 
+68 04/10 12:06AM 
+NCOMI CL N 
+3 
+0.00 
+0.00 
+69 04/10 02:38AM 
+°SCE CL N 
+2 
+0.00 
+0.00 
+70 04/10 02:46AM 
+NCOMI CL N 
+3 0.00 
+0.00 
+71 04/10 02:48AM 
+NCOMI CL 
+1 
+0.00 
+0.00 
+72 04/10 02:49AM 
+NCOMI CL N 
+2 
+0.00 
+0.00 
+73 04/10 11:02AM 
+NCOMI CL N 
+5 
+0.00 
+0.00 
+74 04/20 01:04PM 
+NCOMI CL N 
+2 
+0,00 
+0.00 
+75 04/10 02:20PM 
+NCOMI CL M 
+2 0.00 
+0.00 
+76 04/10 02:22PM 
+PALM FL N 
+5 
+0.00 
+0.00 
+77 04/10 02:26PM 
+NCOMI CL N 
+2 
+0.00 
+0.00 
+70 04/20 02:26PM 
+PALM FL N 
+3 0.00 
+0.00 
+79 04/10 02:30PM 
+NCOMI CL W 
+1 
+0.00 
+0.00 
+80 04/10 02:36PM 
+PALM FL N 
+1 
+0.00 
+0.00 
+EFTA01729092

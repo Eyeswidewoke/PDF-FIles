@@ -1,0 +1,303 @@
+---
+source_image: "deposition-transcript+bank-statement+scanned-document__EFTA01694320_20260130_p031_i001.png"
+source_pdf: "EFTA01694320.pdf"
+method: pdf_text
+words: 593
+confidence: 1.00
+extracted: 2026-02-13T16:20:20.121263
+---
+
+Account Number: 
+Billing Date: 
+bbbile Pusher: 
+Mobile User: 
+Total Wbbiles: 
+AIRT1NA AND LONG DTSTANCS IMAGES 
+Ito, Etta 
+Till. 
+City 
+CL No. Called 
+Called 
+P P 
+Length 
+of 
+Call 
+ 
+OHAR0ES 
+Air 
+Long 
+Tine 
+Diet. Total 
+769 02/15 02:09PM 
+NCOMI Ch W N 
+4 
+0.00 
+0.00 
+770 02/15 02:26PM 
+VE WWII 
+22 
+0.00 
+0.00 
+771 02/15 02:42PM 
+•ICE CL C If 
+1 
+0.00 
+0.00 
+772 02/15 02:48PM 
+•ICE CL W N 
+1 
+0.00 
+0.00 
+7/3 02/15 04:149N 
+•ICE CL W N 
+1 
+0.00 
+0.00 
+774 02/16 04:419M 
+PALM FL N N 
+1 
+0.00 
+0.00 
+775 02/15 04:42014 
+PALM FL N II 
+1 
+0.00 
+0.00 
+776 02/15 09:84PN 
+CL N N 
+2 
+0.00 
+0.00 
+777 02/15 04:559N 
+mcOm CL W N 
+2 
+0.00 
+0.00 
+778 03/15 06:08PN 
+NOOK CL W N 
+3 
+0.00 
+0.00 
+779 02/15 06:10Pm 
+NMI CL W K 
+12 
+0.00 
+0.00 
+780 02/15 06:22PN 
+COX CL W N 
+3 
+0.00 
+0.00 
+781 02/15 06:45PM 
+iNØ CL N N 
+9 
+0.00 
+0.00 
+782 02/15 07:02PM 
+SCUM CL N N 
+6 
+0.00 
+0.00 
+783 02/25 07,16PM 
+.'DICE 
+CL N N 
+1 
+0.00 
+0.00 
+784 02/25 07:36PM 
+ROV« 
+CL W N 
+2 0.00 
+0.00 
+765 02/25 07:47PM 
+mCOM CL W N 
+1 
+0.00 
+0.00 
+786 02/15 06:00PM 
+PALM FL N ø 
+2 0.00 
+0.00 
+787 02/15 08:079M 
+PALM FL N N 
+1 
+0.00 
+0.00 
+788 02/15 08:08PN 
+PALM FL W N 
+2 0.00 
+0.00 
+789 02/15 08:20PM 
+NCOMI CL W N 
+1 
+0.00 
+0.00 
+790 02/35 08:25PM 
+NCONI CL N N 
+1 
+0.00 
+0.00 
+791 02/15 09:019M 
+PALM PL W N 
+1 
+0.00 
+0.00 
+792 02/15 09:019M 
+NCONI CL W N 
+1 
+0.00 
+0.00 
+793 02/15 09:04PM 
+1 CL W ø 
+1 
+0.00 
+0.00 
+794 02/15 09:059M 
+NCOMI CL N N 
+2 0.00 
+0.00 
+795 02/15 09:159M 
+1 CL W N 
+1 
+0.00 
+0.0D 
+796 02/15 09:26PM 
+CON! CL W N 
+2 0.00 
+0.00 
+797 02/15 09:33PM 
+NCONI CL N N 
+1 
+0.00 
+0.0D 
+798 02/15 09:34PN 
+PALM FL N N 
+2 0.00 
+0.0D 
+799 02/25 09:34PM 
+•ICE CL C N 
+1 
+0.00 
+0.0D 
+800 02/15 09:269N 
+PALM PL N N 
+2 0.00 
+0.00 
+801 02/15 09:37PM 
+PALM PL W N 
+1 
+0.00 
+0.00 
+802 02/15 09,37174 
+PALM PL N N 
+2 0.00 
+0.00 
+803 02/15 09:42914 
+PALM PL W N 
+1 
+0.00 
+0.00 
+804 02/15 10:12PM 
+NCONX CL N N 
+1 
+0.00 
+0.00 
+805 02/15 10:13PM 
+PALM Ph N N 
+1 
+0.00 
+0.00 
+806 02/15 10:18PM 
+PALM FL W N 
+3 0.00 
+0.00 
+807 02/15 20:21PM 
+PALM PL N N 
+1 
+0.00 
+0.0D 
+808 02/15 10:35PM 
+PALM PL N N 
+2 0.00 
+0.00 
+809 02/15 10:38PM 
+PALM FL N N 
+1 
+0.00 
+0.00 
+810 02/15 10:51914 
+NCONI CL W N 
+1 
+0.00 
+0.00 
+811 02/15 12:139N 
+PALM PL W N 
+1 
+0.00 
+0.00 
+812 02/15 12,22PM 
+PALM PL W N 
+1 
+0.00 
+0.00 
+612 02/15 11:24PN 
+•:CE CL N N 
+1 
+0.00 
+0.00 
+814 02/15 11:28Pm 
+NCONI CL N N 
+1 
+0.00 
+0.00 
+815 02/15 11:24914 
+PAL: PLWN 
+1 
+0.00 
+0.00 
+816 02/15 11:25PN 
+CCNI CL N N 
+1 
+0.00 
+0.00 
+817 02/15 11:27PN 
+PALM n, if N 
+1 
+0.00 
+0.00 
+818 02/15 11:287N 
+PALM PL N N 
+1 
+0.00 
+0.00 
+819 02/15 11:33PN 
+,I00811 CL N N 
+7 0.00 
+0.00 
+820 02/15 11,40pm 
+NCONI CL N N 
+3 0.00 
+0.00 
+831 03/15 11:43PN 
+:02M1 CL N N 
+1 
+0.00 
+0.00 
+822 02/15 11:44PN 
+ØI CL N II 
+1 
+0.00 
+0.00 
+823 02/15 21:45PN 
+'COWL CL N N 
+1 
+0.00 
+0.00 
+824 02/15 11:47724 
+NCONX CI. N N 
+3 0.00 
+0.00 
+Page 
+19 
+12IM 
+EFTA01694350

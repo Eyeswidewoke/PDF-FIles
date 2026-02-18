@@ -1,0 +1,424 @@
+---
+source_image: "scanned-document+deposition-transcript__EFTA01710036_20260130_p018_i001.png"
+source_pdf: "EFTA01710036.pdf"
+method: pdf_text
+words: 538
+confidence: 1.00
+extracted: 2026-02-13T17:19:25.872690
+---
+
+Elementary Test Record 
+Student 
+CTBS/4 
+FORM/ 
+LEVEL 
+A-11 
+GRADE 
+• 1.6 
+DATE 
+3/95 
+CTSS/4 
+FORM/ 
+LEVEL 
+A-12 
+GRADE 
+2.6 
+DATE 
+3/96 
+ISTEP4 
+GRADE 
+3 
+DATE 
+9/96 
+os."Kes 
+READING 
+VOC COMP TOTL 
+LANGUAGE 
+MECH EXPR TOTL 
+MATHEMATICS 
+COMP CLA TOTL 
+TOTL 
+BATT 
+WORD 
+ANLNe 
+SCORES 
+NP 
+88 98 
+95 
+88 
+88 
+89 
+70 
+77 
+75 
+91 * 94 
+NS 
+7 
+9 
+a 
+7 
+7 
+7 
+6 
+6 
+6 
+8 
+9 
+GE 
+2.5 4.2 3.1 2.7 2.6 2.6 1.8 2.2 2.0 2.5 
+X 
+NCE 
+75 
+92 
+85 
+75 
+74 
+76 
+61 
+66 
+64 
+78 
+99 
+School  
+WATSON SCHOQL 
+READING 
+VOC COMP TOM 
+LANGUAGE 
+MECH EXPR TOTL 
+MATHEMATICS 
+COMP CAA TOTL 
+TOTL 
+BATT 
+WORD 
+ANLV SPEL 
+SCORES 
+NP 
+NS 
+81 
+7 
+95 
+a 
+91 
+8 
+478 
+99 
+9 
+899
+93 
+6 
+682 
+99 
+9 
+796
+66 
+7 
+373 
+94 
+8 
+583
+92 
+a 
+379 
+96 
+9 
+4
+90 
+8 
+X 
+59 
+5 
+2.7 
+GE 
+NCE 
+68 
+368 685
+85 
+78 
+99 
+82 
+96 
+73 
+83 
+79 
+87 
+77 
+55 
+AANCE 
+90 
+93 
+94 
+78 
+96 
+88 
+72 
+76 
+75 
+89 
+82 
+86 
+READING 
+VOC COMP TOTL 
+LANGUAGE 
+MECH EXPR TOTL 
+MATHEMATICS 
+COMP CAA TOTL 
+TOTL 
+BATT 
+SCORES 
+NP 
+73 * 99 
+99 
+66 * 99 
+92 
+66 
+87 
+81 
+95 
+GE 
+NCE 
+63 
+463 1299
+99 
+97 
+797 459
+59 1096 
+96 680
+80 358 
+58 573
+73 468 
+68 504 
+04 
+AANCE 
+74 
+74 
+75 
+75 
+74 
+77 
+81 
+80 
+83 
+81 
+Birth Date 
+O 
+CS/ 
+T 
+TEST
+2  
+COI 
+SCORES NVREI MEM VRB TOT 
+C 
+T 
+122 
+/ 
+S 
+LEVEL 
+AGE-11 
+NPA 
+I 
+82 
+11 *99 
+91 
+1 
+7
+2 
+T 
+• 
+TEST 
+CS! 
+• 
+TC8/ 
+134 
+AGE 
+8- 5 
+2 
+TTSSena CS
+Nova 
+C 
+READIN 
+READ VOC 
+LANGUAGE 
+MATHEMATICS 
+COP LANG MECH CMP MATH COMP COP 
+TOTL 
+SCOR 
+SOC 
+STDV 
+FORM/ 
+SCORES 
+LEVEL 
+A-14 
+GRADE 
+4.1 
+NP 
+NS 
+GE 
+NCE 
+NORMS DATE: 1996 
+QUARTER MONTH: 06 
+PATTERN (IRT) 
+DATE 
+09/97 
+M832520001-03-00065 
+jgrrallow 
+LTBS CB 
+FORM/ 
+LEVEL 
+NORMS DA 
+' i ••••511 
+Quaaraa M 
+PATTERN (IRT) 
+M008016001-0S -05471 
+NORMS DATE; 1996 
+QUARTER MONTH: 06 
+PATTERN (IRT) 
+M832520001-03-00099 
+A-15 
+GRADE 
+5.1 
+DATE 
+09/98 
+QUARTER MONTH: 05 
+NO06002000-05-06360
+SCORES 
+READING 
+READ VOC CRP 
+LANGUAGE 
+LANG MECH CMP 
+MATHEMATICS 
+MATH COMP COP 
+TOTL 
+SCOR 8 C1 
+SOC 
+STDV SPEL 
+82 
+81 
+83 
+72 
+68 
+71 
+88 
+81 
+87 
+81 
+91 
+92 
+73 -
+NP 
+NS 
+7 
+7 
+7 
+6 
+6 
+6 
+7 
+7 
+7 
+7 
+8 
+8 
+6 
+-
+GE 
+9.0 7.9 8.6 8.1 7.0 7.5 7.7 6.5 7.1 8.0 9.3 9.2 6.6 -
+NCE 
+70 
+68 
+70 
+63 
+60 
+62 
+74 
+68 
+73 
+68 
+78 
+80 
+63 - 
+O 
+TEST 
+TCS/2 
+CBI 
+115 
+SCORES OEQ lANA NVRB NEN VRB 
+NPA 
+411 921 731 60 
+94 
+/ 
+8 
+AGE 
+11 6 
+2 
+ISTEP• 
+SCO 
+NP 
+GRADE
+6  
+AA 
+GE 
+NC 
+DATE 
+10/99 
+ES 
+READING 
+READ VOC COP LANGUAGE 
+LANG MEP* COP
+MATHEMATICS 
+MATH COMP CMP
+TOTL 
+SCOR
+ISTEPi RESULTS 
+E/LA
+MATH
+CE 
+71 
+9.1 
+65 
+70 
+67 
+7.4 
+59 
+69 
+72 
+8.2 
+63 
+70 
+85 
+10.7 
+72 
+68 
+61 
+7.3 
+56 
+64 
+76 
+9.0 
+65 
+67 
+82 
+8.3 
+69 
+62 
+29 
+5.2 
+38 
+57 
+59 
+6.6 
+53 
+60 
+70 
+8.0 
+61 
+68 
+STANDARD 
+OBTAINED 
+CATEGORY 
+480 
+523 
+ABOVE 
+479 
+528 
+ABOVE 
+EFTA01710053

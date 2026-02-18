@@ -1,0 +1,521 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p010_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 809
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.883499
+---
+
+• 
+EXcingular • air wireless
+wilt.' 
+Account Number 
+Account Mime 
+Date of Invoice 
+pacarriber 12. 700E 
+Page 20 of 22 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE Ra 
+- C013 Alai 
+Maw 
+MiTy 
+CMMEM 
+ken, 0.b TNN. Cad 
+Ca To 
+Used Rate Den)pkon 
+IVY 
+fassFas RcoarFAL 
+1181 D09OJ29P 
+; al 0 ' 
+1109 
+1111 
+1111 
+ILN 
+1115 
+111 
+IIll 
+11111 
+1120 
+111 
+11
+11
+11 
+11 
+1,1 
+11 
+11 
+11 
+11311 
+111 
+1141 
+113 
+1141 
+1I 
+1144 
+1149 
+1140 
+lip 
+11 
+11
+It 
+11
+11 
+I'll 
+i 
+104
+)0$ 1d0SIP 
+2.006
+04 li
+115 
+ZOO 11 
+11MP 
+11 
+2.ft9 1 
+2U101
+209 os 
+Mt 01 MA 
+2/90 01 12A 
+69907349 
+01 
+me 31A 
+0742 
+ae 
+I701 06
+r
+1 
+UN (er
+la cm,. 
+WOO/MI(901 FL 
+INCOVAG 
+WI 
+INII5U 4a TO SOEIL 
+MCOMNO 
+MY 
+ENCLuerp
+MALCED miNtrrES 
+osont/00 
+MN 
+I 
+ MNyTES 
+IKON'S° 
+MN 
+LAW WOE IO EOM. 
+thsCeveds 
+MN 
+U11isi r  TO Nom 
+MIT I  ri 
+FL 
+MN 
+MN 
+UM.IlaT 0 WWIUMmN 
+LaistiNIT is 10MOID MII 
+M'01.140 
+MN 
+MUTATED POWIL40 MN 
+ElOYNTONSCH FL 
+MN 
+UNMATED SMµO MN 
+00YITTONXII EL 
+MN 
+UNI.m1E0 IIM1000 MN 
+INCOMSIG 
+MN 
+UMMTFO 66110101at 
+BOTIM01004 FL 
+MN 
+UNENVIED II/WM MK 
+MEOW/0 
+MN 
+UNLMTE0 MEMO MN 
+ETEMON9044 FL 
+TNTOMION FL 
+MN 
+Mt 
+isAMMO MN 
+Ng 
+IAN 
+UM FAT TO 6N411 SAN 
+LONLMO Us NAVAS MN 
+°Nowa:, mom um 
+ALMREADs M 
+444 
+use uertra 7.0M020 MN 
+WM:JAMMU Ft 
+MN 
+INUINTED 
+M.
+INCOMING 
+IAN 
+Later-Li) 
+Mt 
+INCOMM 
+:40 
+IM_ 
+6 
+km 
+1.44 
+MN 
+MN 
+Maar( 
+MILOOTEI WMIN 1.14 
+UNLIMF. WIAM 1.10 
+...NEWT wenn MN 
+WPMJJIC*O4 FL 
+MN 
+UNUMTECINAVICNO NM 
+WONAILEACM FL 
+INT01040 
+Ce. 
+MILONTIO MV)(716NN 
+MOMS 0 IVWSH NM 
+Oom'OsaCTI FL 
+MN 
+mama 0 %AWN Net 
+f&ttaifill 
+k 
+MN 
+MN 
+UNLMTEO 66410401.44 
+LIIILMMO MOTTO MN 
+419/69VIEMS. FI. 
+MN 
+UN_MTE0 MEMO MN 
+HOYT:1009CM FL 
+MN 
+KATost Pen 
+Ul
+iac
+irriC 
+MID
+4142CIRNOT 
+moms sec4013 WM. 
+=MCI 
+it 
+I 
+LimuU WM. TO t4061 
+W 
+IIESSAGZ IMMENSE 
+BOENTONISCIs FL 
+UNUu44041 10 NOM 
+wPAUSISEAC34 FL 
+int 
+oNct Leto NAMES 
+M'Atrifetti 
+R
+C 
+VfitiVo 'ffiMat 
+wuummAmi Ft 
+MI 
+LitEd MNit. so Nom 
+INCOuric 
+MN 
+Etz-Pe meet lo mom 
+WPA:MMA01 FL 
+MN 
+140,02fD MMITFS 
+MCOUING 
+Mil 
+LNUNUOSt TO MGM 
+EY7 
+CAIL WATMO 
+WPAJMENO1FL 
+MN 
+L141111 MOM To vOLE 
+EVT 
+MESSAGE RE-METAL 
+INCOMTG 
+LPN 
+nCLuJEDIGNISIES 
+vems,MEACII FL 
+WI 
+isoCOuter. 
+vox 
+WPALMEACH FL 
+MN 
+wa 
+MN 
+reCTESOTO MIMICS 
+winds, 
+sel 
+NM wif(744. TO IMIA 
+WeA4 • 
+00TMON 
+Kr/ T 
+1144 
+1 um 
+NA 
+cu
+,  
+- 
+44 
+U 
+n 
+WPILWE 
+Mu 
+UMIT OMIT 0 
+SWALUMACH FL 
+1146 
+LNUMTE0 ?WAND 4472 
+BOY M01004 FL 
+MN 
+MUM 1 To 74691.210 MN 
+WPALVIIENOIFL 
+1MN 
+IMAM°WW1010 MN 
+WNW Kiln 
+lure 
+I 
+FL 
+IMN 
+203. 
+limier/49MM MN 
+LOUNNT u FUMCNoMN 
+wow, 0 WM040 MN 
+Is:lig:I4g Mai 
+560.3.10(0 
+S 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+, Vent. USAGE rest 
+14.4110M 
+Item DMa Time 
+44 MOM OOMP 
+orag;
+149 MO ORM 
+70 
+no 
+GUlP 
+is 
+I! 
+ITS 
+76 
+77 
+176 
+179 
+IR 
+144 
+144 
+in
+149
+a27 
+X• 
+WI
+210 
+21$ 
+11
+O 
+P 
+2110 1211P 
+rims 
+MO 04211> 
+Eg: 
+10 Micow
+iils 
+TO 10.1IP 
+Tg *DIP 
+82/10 
+200 
+811108 
+034 
+1r6 
+749
+211 
+YI 
+1P1 
+06.11 
+M. 
+IO 
+1 
+.cntittal 
+OnlY 
+ammo 
+CST* 
+Udell Ram Osserlpike 
+Ft 
+UM 
+ENLACED WIMPwin 
+ft 
+IIIII 
+tIILIITENINtM 
+404h 
+MN 
+MAASS rum 
+SAN 
+MN 
+WCIA 
+Welled MN 
+MN 
+6 MuMirelentsirN 
+1 MN 
+LOAM 4 finned m N 
+MN 
+USW mot TO MOM 
+WPLLVIIEACN FL 
+Mn 
+UMIIAMOFL TOMO& 
+EVT 
+MESSAGE RETREVAL 
+VIIMUMEACIMI. 
+WI 
+INCLUOLIMMU'ES 
+'AP &WRAC 14 Fl. 
+MIN 
+MO MO 
+70 /409t. 
+WIMMIEENCII Ft 
+t% 
+VoZss 
+V.9. 
+MN 
+U10.1110.4,Qt 1050K 
+NMI 
+itit,LtrniTST 
+C 
+UfsuMT 
+1.11/MD Nth 
+MN 
+WW1' 
+kINIEND YIN 
+USN 
+UMJIATED WANIND UM 
+241•1 
+MEI 
+rwA.Th
+e fi
+ml 8=1.1 
+is 
+la 
+u 14.
+4 
+I w
+k frit 
+ILI
+U 
+Nreali MN 
+Mitre 0 Ns' 
+MN 
+Ink 
+totanittesom MN 
+NM 
+titi.frm NIME140 MN 
+MN 
+tinsivat WNW) Me 
+4441 
+tiN.MT 
+SIMMTI ism 
+la 
+ON.MTL 10WEND AIN 
+MN 
+UN.MTE NWFM0 MN 
+14* 
+cal:aI2ZZ= 
+ri g 
+NEN 
+r 
+UCLITIRPC2713 MI 
+M
+MN 
+UNJOHT D W66142 NIN 
+M 
+IMULATFONTININDUIN 
+MN 
+WOusNTED IMMO MN 
+M
+▪ M 
+Mk° 
+WINCND SIN 
+}}
+MN 
+r .- 9),..-- x4rat 
+Imo 
+gmtd- aM
+g
+OiyArh 
+1LWM YIN 
+NM 
+MILIMITSOTWOMO NM 
+MN 
+isaSSAGE RETRIEVAL 
+UT/NM 6/00(60 NM 
+miSedzsz OM films 
+WPM).
+ACM a 
+601711%. 
+R 
+WPALA 
+FL 
+INC OMNO 
+20TWOM204 FL 
+INCOMOIG 
+32110SNIICH FL 
+AC00.0.13 
+00Y1006404 FL 
+INEOLIE4
+WON 
+fal. 
+wrALMISENTlin. 
+WALIIMER FL 
+WPALMTAMIN FL 
+Orli t'WOI FL 
+IN OVeTh 
+INCOMNO 
+MCOSMIG 
+WPALUMOCV FL 
+MOONING 
+m
+.o
+. 
+R
+WPWF 
+WI:FLA/TEACH FL 
+WPM SIOIWN Fl. 
+10,13F0•420 FL 
+MM 
+JIL9411011, MN 
+(FL
+WI 
+.04.1.1t1,110Y( 
+ii" 
+vIts 
+Olusimms Kw< 
+urs 
+FL 
+= 
+NUM TEL NWS90, 1.44 
+a n. 
+2M40 
+N11143 NW(No UM 
+MOM 
+towoo YIN 
+R
+. 
+1UM 
+MAT 
+04.WENO MN 
+a 
+11/2 
+;ft, %It Vs!ffM 1M 
+FL 
+9601 
+FL 
+IMO 
+FL 
+VAII 
+NAMED Wil 
+PM 
+IstinTE2 NWT 
+UM 
+MAME NSW< 
+1,01 
+LAISE WORTH FA. 
+Isms 
+WEN 
+NUNTEC MW It 
+INN 
+ION 
+MT 
+I/ 
+N 
+TM 
+MM 
+EFTA01692784

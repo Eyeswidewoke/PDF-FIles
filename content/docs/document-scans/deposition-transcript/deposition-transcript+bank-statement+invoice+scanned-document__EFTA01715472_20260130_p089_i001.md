@@ -1,0 +1,291 @@
+---
+source_image: "deposition-transcript+bank-statement+invoice+scanned-document__EFTA01715472_20260130_p089_i001.png"
+source_pdf: "EFTA01715472.pdf"
+method: pdf_text
+words: 546
+confidence: 1.00
+extracted: 2026-02-13T16:20:15.157655
+---
+
+Page 
+5 
+Account Number: 
+Billing Date: 
+Nobile Number: 
+NObile Veer: 
+Total Mobiles: 
+Cingular Text Messaging 
+Mai 
+Type 
+Incoming/ 
+Outgoing 
+Included Billable 
+Rato 
+Total 
+OTHER MOBILE TO MOBILE 
+Out 
+o 
+1 
+0.10 
+0.10 
+OTHER MOBILE TO MOBILE 
+In 
+O 
+5 
+0.10 
+0.50 
+Total 
+o 
+6 
+0.60 
+AIRTIME AND LONG DISTANCE CHARGES 
+MACES 
+Length 
+City 
+of 
+Air 
+Long 
+Itm Date 
+Time 
+CL NO. Called 
+Called 
+F P Call Time 
+Dist. Total 
+1 02/07 12:41AM 
+2 02/07 03g15AM 
+3 02/07 03:20AM 
+4 02/07 03:43AM 
+5 02/07 10:34AM 
+6 02/07 10:36AM 
+7 02/07 10138AM 
+8 02/07 10:47AM 
+9 02/07 11:03AM 
+10 02/07 11:48AM 
+11 02/07 02:13PM 
+12 02/07 02:19PM 
+13 02/07 02:24PM 
+14 02/07 02:25PM 
+15 02/07 02:42PM 
+16 02/07 02:43PM 
+17 02/07 04:00PW 
+18 02/07 04:01PM 
+19 02/07 10:07PM 
+20 02/07 10:09PM 
+21 02/07 10:11PM 
+22 02/07 10:25PM 
+23 02/07 10:37PM 
+24 02/07 10:38PM 
+25 02/07 10:47PM 
+26 02/07 10:48PM 
+27 02/07 10:57PM 
+28 02/07 10:SOPM 
+29 02/07 10:59PM 
+30 02/07 11:02PN 
+31 02/07 11:14PM 
+32 02/07 11:16PM 
+33 02/07 11:24PM 
+34 02/07 11:31PM 
+35 02/07 11:34PM 
+36 02/07 11:42PM 
+17 02/07 11:47PM 
+38 02/07 11:55PM 
+39 02/08 12:01AM 
+40 02/08 12:01AM 
+41 02/08 12:04AM 
+42 02/08 12:1SAN 
+43 02/08 12:17AN 
+44 02/08 12:32AM 
+45 02/08 01:06AM 
+46 02/08 02:22AM 
+47 02/08 02:37AM 
+48 02/08 02:SOAM 
+PALM PL W N 
+1 
+0.00 
+0.00 
+PALM FL W N 
+1 
+0.00 
+0.00 
+NCOMI CL W N 
+2 
+0.00 
+0.00 
+ICE CL W N 
+4 
+0.00 
+0.00 
+PALM FL W N 
+2 
+0.00 
+0.00 
+PALM FLWN 
+1 
+0.00 
+0.00 
+PALM FL W N 
+2 
+0.0D 
+0.00 
+MMMX CL W N 
+S 
+0.00 
+0.00 
+ICE CL W N 
+1 
+0.00 
+0.00 
+NCOMI CL W N 
+1 
+0.00 
+0.00 
+NCOMI CL W N 
+i 
+0.00 
+0.00 
+PALM FL W N 
+4 
+0.00 
+0.00 
+PAN PL N N 
+1 
+0.00 
+0.00 
+PALM FL N N 
+4 
+0.00 
+0.00 
+PALM FL w N 
+1 
+0.00 
+0.00 
+ICE CL N N 
+1 
+0.00 
+0.00 
+PALM PL W N 
+1 
+0.00 
+0.00 
+PALM FL W N 
+1 
+0.00 
+0.00 
+PALM FL W N 
+1 
+0.00 
+0.00 
+PALM FL W N 
+2 
+0.00 
+0.00 
+PALM FL W N 
+2 0.00 
+0.00 
+NCOMI CL W N 
+1 
+0.00 
+0.00 
+NCOMI CL W N 
+1 
+0.00 
+0.00 
+PALM PL N N 
+S 
+0.00 
+0.00 
+PALM FL W N 
+1 
+0.00 
+0.00 
+PALM FL N N 
+1 
+0.00 
+0.00 
+PALM FL N N 
+1 
+0.00 
+0.00 
+PALM FL W N 
+1 
+0.00 
+0.00 
+PALM PL W N 
+2 0.00 
+0.00 
+PALM PL w N 
+1 
+0.00 
+0.00 
+ICE CL N N 
+2 
+0.00 
+0.00 
+NCOMI CL W N 
+1 
+0.00 
+0.00 
+PALM PL W N 
+7 
+0.00 
+0.00 
+PALM PL W N 
+2 
+0.00 
+0.00 
+PALM PL W N 
+2 
+0.00 
+0.00 
+MCMI CL W N 
+1 
+0.00 
+0.00 
+PALM PL N N 
+1 
+0.00 
+0.00 
+PALM PL N N 
+1 
+0.00 
+0.00 
+PALM PL N N 
+1 0.00 
+0.00 
+PALM FL M N 
+1 
+0.00 
+0.00 
+NCOM1 CL W N 
+1 
+0.00 
+0.00 
+PALM PL N N 
+1 
+0.00 
+0.00 
+PALM PLNN 
+1 
+0.00 
+0.00 
+PALM PL W N 
+1 
+0.00 
+0.00 
+NCOmI CL W N 
+1 
+0.00 
+0.00 
+PALM FL W N 
+1 
+0.00 
+0.00 
+OICE CL W N 
+1 
+0.00 
+0.00 
+NCONI CL N N 
+2 
+0.00 
+0.00 
+EFTA01715560

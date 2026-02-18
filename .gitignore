@@ -1,0 +1,42 @@
+# === Editor / OS ===
+.history/
+.vscode/
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Build artifacts ===
+*.log
+*.bak
+*.tmp
+tmp_cred.txt
+_tmp_*
+100
+
+# === Large binary/data files (excluded to stay under GitHub 1 GB limit) ===
+# All .md and .txt TEXT content is INCLUDED so search results open properly.
+# Only massive binary files (PNGs, JSONLs, CSVs) are excluded.
+
+# Document scan PNGs (~5.3 GB) and large JSON index (~19 MB)
+content/docs/document-scans/**/*.png
+content/docs/document-scans/*.png
+content/docs/document-scans/**/*.json
+content/docs/document-scans/*.json
+
+# Large index result JSONL files (~94 MB)
+content/docs/index-results/*.jsonl
+
+# Gallery source images - only compressed JPEGs in galleries/ are included
+content/images/*
+!content/images/galleries/
+!content/images/epstein-face-matches/
+!content/images/epstein-face-matches/**
+
+# Email JSONL raw data files (~12 MB) - the .md summaries ARE included
+content/emails/**/*.jsonl
+
+# Topic large data files (~59 MB) - the .md analysis files ARE included
+content/topics/**/*.jsonl
+content/topics/**/*.csv

@@ -1,0 +1,780 @@
+# 🔴 Trump-Raw
+> **Category:** Trump References
+> **Source:** `05-TRUMP-MENTIONS/extract-trump-raw.txt`
+> **Lines:** 743
+> **Generated:** 2026-02-12T11:12:01
+
+## 🏷️ Tags
+`people` · `trump-raw` · `trump` · `clinton` · `epstein` · `maxwell` · `prince-andrew`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Trump](../cast/profiles/trump.md) | 864 |
+| [Jared Kushner](../cast/profiles/kushner.md) | 53 |
+| [Epstein](../cast/profiles/epstein.md) | 43 |
+| [Prince Andrew](../cast/profiles/prince-andrew.md) | 29 |
+| [Acosta](../cast/profiles/acosta.md) | 17 |
+| [Michael Cohen](../cast/profiles/cohen.md) | 16 |
+| [Clinton](../cast/profiles/clinton.md) | 15 |
+| [Maxwell](../cast/profiles/maxwell.md) | 15 |
+| [Leon Black](../cast/profiles/leon-black.md) | 15 |
+| [Schwarzman](../cast/profiles/schwarzman.md) | 11 |
+
+## 🔑 Keywords
+
+`Coronavirus` · `Disgrace’ 
+state's presidential election a` · `FBI` · `I've known Jeff for fifteen years. Terrific guy,` · `Mar-a-Lago` · `New York` · `Palm Beach` · `This is a good one, right?` · `go to lender` · `investigation` · `issuer/bag man funded research` · `plea` · `prosecution` · `prosecutor` · `savior` · `subpoena` · `testimony` · `transformation`
+
+## Full Extract
+
+```
+les Trump: Kushner's security clearance is up to 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+io Trumps Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+at Trump Chooses Cerberus’s Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+les Trump: Kushner's security clearance is up to 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+le Trumps Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+les Trump Chooses Cerberus's Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+le Trump: Kushner's security clearance is up to 
+Trump: 
+Trump attorney: EKONOMOU 
+Trump Ohio fundraiser 
+https://www.cleveland.com/politics/2019/07/donald-trump-coming-to-cleveland-friday-for-fundraiser-at- 
+le Donald Trump coming to Cleveland Friday for 
+CLEVELAND, Ohio = Republican President Donald Trump is 
+Calk/Lorber/Elliman: Trump 
+Leon Black/ Apollo/Schwarzman: Trump Kushner 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+le Trumps Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+les Trump Chooses Cerberus's Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+le Trump: Kushner's security clearance is up to 
+Leon Black/ Apollo/Schwarzman: Trump Kushner 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+le Trump's Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+le. Trump Chooses Cerberus's Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+le Trump: Kushner's security clearance is up to 
+Calk/Lorber/Elliman: Trump 
+Leon Black/ Apollo/Schwarzman: Trump Kushner 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+lw Trumps Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+ate Trump Chooses Cerberus’s Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+les Trump: Kushner's security clearance is up to 
+Individual States Regulators, sure but there seems to be a monumental disagreement between the Trump white 
+Trump Junk. 
+Today, because of "Coronavirus" Trump and another Milken Degenerate: Treasury Sec Mnuchin are bailing out 
+Same Milken degenerates (incl Trump banker Moelis): Drexel 
+Trump: 
+Trump attorney: EKONOMOU 
+Trump Ohio fundraiser 
+https://www.cleveland.com/politics/2019/07/donald-trump-coming-to-cleveland-friday-for-fundraiser-at- 
+las Donald Trump coming to Cleveland Friday for 
+CLEVELAND, Ohio = Republican President Donald Trump is 
+Calk/Lorber/Elliman: Trump 
+Leon Black/ Apollo/Schwarzman: Trump Kushner 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+las | Trumps Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+le Trump Chooses Cerberus's Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+la Trump: Kushner's security clearance is up to 
+EMA: 40 Wall Street: Trump 
+David Urban: Trump PA Campaign Manager and NITE Not So Independent Board Member and his own money 
+JUDGE Chad Readler. Made so by Trump. 
+OTHER Sason entities list offices at 40 Wall Street: Trump 
+investigation of Hapoalim tax evasion and money laundering. The same SBNY which boasted Ivanka Trump as a 
+Board memberand was a "go to lender" for Trump/Kushner and where ALL SEC filings have disappeared. AND 
+Honig also Trump fundraiser: Cleveland: Colleran. DoJ "prosecutor" on Colleran massive healthcare fraud: Chad 
+Readler. Trump made Readler a Federal judge. 
+also Colleran: Trump felon fundraiser. AND: Vector/New Valley also Trump/Russia. 
+Colleran: Trump felon fundraiser 
+hey look! Marx,Karfunkel:BERK has the same auditor as Trump: Mazars. Prly just ANOTHER coincidence. For 
+SEC/Trump/Kushner/Blackstone/DFC et al facilitated P&D/Insider trading went to Congregation Chemdas 
+Yes: Blackstone/Schwarzman/Marx/Karfunkel/Kushner/Trump et al are most definitely on the SEC/DoJ "Do not 
+Phlow: the VA consortium receiving $350 mil in Government Covid funding to provide Trump pushed Covid 
+MORE on the Blackstone/Trump/Kushner KODK P&D grift. 
+We also know Trump and Schwarzy are BFF's. Schwarzy is also connected to Kushner and Epstein. 
+Then the Pumper/Grifter in Chief Trump goes out wide and far with this absolutely incredible news: 
+As is typical Trump/grifters/ and his criminal Clayton led SEC: the public hasn't seen a 8K filed by KODK to detail 
+this incredible "transformation". The SEC has given its blessing to yet ANOTHER Trump/Grifter/Bag Men P&D. in 
+KODK, FBO Trump BFF and Sull Crom client: Knight "savior" Schwarzy/BX. Had the grossly corrupt SEC 
+me. Per the record Janey: Trump PA campaign Mgr David Urban on the BoD of #1 money laundering shell trader 
+Of course, the grossly corrupt SEC has approved a $20 million public offering for Urban/Trump: HUGE 
+In addition to that name Farkas: ANDREW/Jonathan Farkas. Trump fundraiser and Epstein: Jeffrey: business 
+Platinum Funds/Nordlicht. With links to Kushner(s) and Trump lawyer Giuliani. Other NY entities, a Columbus 
+whistleblower (me) information. Linked to Milken,Russia, Trump, and Epstein. Of course the 7/22 trading 
+Is Trump prolific Bag Man Jonathan Farkas related to Bag Man Michael Farkas: Skyway largest shareholder: 
+https://www.hollywoodreporter.com/rambling-reporter/inside-hamptons-fundraisers-netted-trump-12m- 
+Trump $12M for Re-election | Hollywood 
+The numbers are in and President Donald Trump's quick trip te 
+Some BLNK/Trump/rinsing. With help from "issuer/bag man funded research" Zacks aka Seethroughequities 
+laundering/Putin/Rakishev/Trump/Kushner/Alfa/Crede/Peizer/Milken/Hapoalim/SBNY/CardWorks/ESQ/WireCa 
+linked to Trump Cleveland fundraiser and healthcare fraud felon: Brian Colleran 
+Apockinas/Grinshpun/Antonov/Rakishev/Trump/Kushner/SBNY/CardWorks/Merrick Bank/ESQ/Cohen etc etc 
+Trump: 1MDB money laundering. PHUN also received Cares Act money. AND PHUN is Trump/Kushner/Parscale 
+PHUN/Trump/Kushner/Parscale mobile app technology. 
+Stearns collapse . So, Milken and his merry crew of flunkies are really at the nexus of JUNK. They own Trump 
+and his White House (Trump casino junk) and they own the SEC. It was Milken, Leon Black, Handler, Moelis, 
+Virtue: Drexel that caused the S&L taxpayer bailout stuffing them with junk like Trump's. It is no coincidence 
+Today, Trump PA Campaign Mgr David Urban sits on the NITE BoD. AND is also on the BoD of his very own 
+money laundering shell: Canadian/Pakastani/pot/COVID: FSD Parma: HUGE. Trump advisers/campaign staff 
+Berman/Clayton nomination to take his place/Rabbitt to DoJ/Carpenito replacing Audrey Strauss/Trump/Barr 
+Trump Calls For More Biometric Scans, Data Sharing To Stop Terrorism [NextGov] 
+e President Donald Trump on Wednesday (02/20/2019) signed the National Strategy to Combat Terrorist 
+the president’s inner circle has ties to drug runners and militants. President Trump warned Venezuelan military officials 
+ending last July. President Trump says there’s a “crisis” at the border, and he’s right—its result is the meth-overdose 
+As House votes to impeach him, Trump's focus shifts to brand rehabilitation (nbcnews.com) 
+Also spotted in the car were an American flag, a copy of the Daily News with President Trump’s face on it, an emergency 
+people died in the Capitol riot, including a police officer, in the hours-long siege that took place after President Trump 
+‘A Total Failure’: The Proud Boys Now Mock Trump Members of the far-right group, who were among Donald Trump’s 
+https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html? 
+helps identify supporters of President Donald Trump who ransacked their workplace and forced them to 
+e On Wednesday [Jan. 20], QAnon adherents grappled with a harsh reality check: Trump had left office with 
+Day. Others moved the goalposts again, speculating that Trump would be sworn into office on Mar. 4. 
+Opinion The Problem With Trump’s Odious Pardon of Steve Bannon It is corrupt and a possible obstruction of 
+justice and should be legally challenged. https://www.nytimes.com/2021/01/20/opinion/trump-bannon- 
+Calk/Lorber/Elliman: Trump 
+Leon Black/ Apollo/Schwarzman: Trump Kushner 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+le Trump's Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+le. Trump Chooses Cerberus's Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+le Trump: Kushner's security clearance is up to 
+le | Trump: Kushner's security clearance is up to 
+le. Trump: Kushner's security clearance is up to 
+le Trump: Kushner's security clearance is up to 
+BUZZFEED NEWS: https://www. buzzfeednews.com/article/kenbensinger/new-york-owed-money-man-tweeted-trump-ventilators 
+In 2017, President Donald Trump nominated Acosta to be Secretary of Labor. At his 
+i See, e.g., Ashley Collman, “Stunning new report details Trump's labor secretary’s role in plea deal for 
+billionaire sex abuser,” The Business Insider, Nov. 29, 2018; Cynthia McFadden, “New Focus on Trump Labor 
+Kumar, “Trump labor secretary out of running for attorney general after Miami Herald report,” McClatchy Washington 
+Bureau, Nov. 29, 2018; Emily Peck, “How Trump’s Labor Secretary Covered For A Millionaire Sex Abuser,” 
+In 2017, President Donald Trump nominated Acosta to be Secretary of Labor. At his 
+' See, e.g., Ashley Collman, “Stunning new report details Trump's labor secretary's role in plea deal for 
+billionaire sex abuser,” The Business Insider, Nov. 29, 2018; Cynthia McFadden, “New Focus on Trump Labor 
+Kumar, “Trump labor secretary out of running for attorney general after Miami Herald report,” McClatchy Washington 
+Bureau, Nov. 29, 2018; Emily Peck, “How Trump’s Labor Secretary Covered For A Millionaire Sex Abuser,” 
+Wexner of the Limited, socialite Ghislaine Maxwell, even Donald Trump. 
+and one whose nightlife is far from energetic. And yet if you talk to Donald Trump, a 
+different Epstein emerges. "I've known Jeff for fifteen years. Terrific guy," Trump booms 
+Epstein had socialized with the prince and other high-profile figures including U.S. President Donald Trump and former 
+special counsel Robert Mueller's investigative conclusions to the sentencing of Trump ally Roger Stone, that have raised 
+Berman, who was appointed by President Donald Trump, was asked by a reporter at a press conference whether the 
+Giuliani, Trump's personal attorney. 
+President, the sentencing of Stone and the oversight of the prosecution of Michael Flynn, Trump's former national 
+Giuliani investigation, prosecutors are also looking into whether foreign money flowed into Trump's inaugural 
+committee. The office also prosecuted Michael Cohen, Trump's former personal attorney, for violating campaign finance 
+laws in connection to payments made to two women who alleged affairs with Trump. 
+influence public discourse about the Mueller Report in favor of President Trump..." 
+Epstein had socialized with the prince and other high-profile figures including U.S. President Donald Trump and former 
+special counsel Robert Mueller's investigative conclusions to the sentencing of Trump ally Roger Stone, that have raised 
+Berman, who was appointed by President Donald Trump, was asked by a reporter at a press conference whether the 
+Giuliani, Trump's personal attorney. 
+President, the sentencing of Stone and the oversight of the prosecution of Michael Flynn, Trump's former national 
+Giuliani investigation, prosecutors are also looking into whether foreign money flowed into Trump's inaugural 
+committee. The office also prosecuted Michael Cohen, Trump's former personal attorney, for violating campaign finance 
+laws in connection to payments made to two women who alleged affairs with Trump. 
+influence public discourse about the Mueller Report in favor of President Trump..." 
+of Virginia, by saying the Trump administration 
+Eighth, as for the Austrian passport the government trumpets, it expired 32 years 
+Eighth, as for the Austrian passport the government trumpets, it 
+le Trump: Kushner's security clearance is up to 
+BUZZFEED NEWS: https://wwew.buzzfeednews.com/article/kenbensinger/new-york-owed-money-man-tweeted-trump-ventilators 
+« Agroup of seven U.S. Capitol Police officers sued [President] Trump and a slew [“nearly 20”] of far-right 
+e The officers claim Trump, the Proud Boys, the Oath Keepers, Trump ally Roger Stone and others conspired 
+presidential election, and that [President] Trump worked with these organizations and political organizers 
+made when the Trump administration agreed in early 2020 to withdraw American forces from the 
+The Hill: https://thehill. com/homenews/state-watch/508811-trump-administration-lifts-ban-on-new-yorkers-enrolling-in-federal 
+WHA vi wu /politicsTincoln-project-releases-new-video-targeting-trump-comments-on-ghislaine-maxwell/ar-B BI 79apb 
+Donald Trump -- was arrested on July 6 for alleged sex trafficking of minor girls in Florida and New York. Some of the 
+lead law enforcement detail assisting the Secret Service during President Donald Trump's visits to Mar-a-Lago. The Palm 
+Beach Sheriff's Office spent $5.6 million for Trump’s 2017-2018 trips, the Palm Beach Post reported in April. The 
+A fixture on the high-society social circuit, he was known to associate with figures such as Bill Clinton, Donald Trump and 
+harassment or trumped up imprisonment. 
+motion. They said that Cohen “has heard Trump say things about Epstein,” but would not get into detail at this time 
+the Austrian passport the government trumpets, it expired 32 years ago. And the government offers 
+Donald Trump’s name was there. Each page had a name, address, company, 
+Trump traveled on Epstein’s private jet many more times than previously has been reported (or that we were aware), 
+Trump, and then-20-year-old ie On two other flights, two of the passengers, 
+https://www.thecut.com/2019/07/jeffrey-epstein-donald-trump-mar-a-lago-video.html? 
+https://www.occrp.org/en/investigations/before-campaigning-for-trump-manafort-plotted-to-rig-ukraine- 
+Maybe Mr. Trump could also be more intelligent and know that maybe...Mr. Goldscheider was only using 
+Scaramucci (friend of Soros and Goldscheider) was trying also to impeach Trump. 
+Acosta, then the United States attorney in Miami who is now President Trump’s secretary of labor. 
+In 2002, Mr. Trump described Mr. Epstein as “a terrific guy.” 
+“He’s a lot of fun to be with,” Mr. Trump told New York Magazine. “It is even said that he likes beautiful 
+Trump Doesn’t Know About Labor 
+other than Donald Trump. 
+Have you heard anybody in the Trump administration apologize for anything? Well, there was the occasion the 
+he used to be tight with our current chief executive. “Terrific guy,” Trump said in an interview with New York 
+Are you shocked by any of this? Hey, early in our acquaintanceship we learned Trump is a guy who bragged 
+Ever since the Epstein scandal arose, Trump has been defending Acosta, stressing what an “excellent” job he’s 
+Hmm. Before this week, what do you think Donald Trump thought the Department of Labor did? 
+Trump insiders, of course, feel undermining workers’ rights is supposed to be Acosta’s mission. And they 
+complain he’s been sort of inept at it. Mick Mulvaney, the Trump Acting Chief of Staff For Life, has been trying 
+But are you upset that Trump is too much of an ethical beanbag to get rid of him? The sad truth is that we’re 
+Subject: Trump Labor chief Alex Acosta resigns due to Jeffrey Epstein case 
+PROPUBLICA: https://www.propublica.org/article/top-fec-officials-undisclosed-ties-to-trump-raise-concerns-over-agency-neutrality 
+Goodman, G. (2017, March 1). Why positive parenting trumps physical punishment when it comes to 
+erupted following Epstein’s July 6 arrest forced Acosta to resign as President Trump’s labor secretary. 
+Trump, Bill Clinton and Prince Andrew, and moved in elite circles, including for several years in a relationship 
+agreement. Acosta resigned from his post as Trump’s labor secretary following extensive criticism of the deal. 
+Epstein — onetime friend of the rich and powerful, including current President Donald Trump and past President 
+as President Trump’s labor secretary. 
+Cosby and President Donald Trump of sexual assault. After the hearing, she said she was representing other 
+from President Trump’s trade war. 
+and Mr. Trump’s trade fights. 
+He said that manufacturing around the world was weakening and that Mr. Trump’s trade dispute was continuing 
+The Fed’s rate cut carries political risks, given Mr. Trump’s attacks on the central bank. Mr. Trump has been 
+in China and Europe, and Mr. Trump’s trade war with China and threats of further tariffs on United States trading 
+erupted following Epstein’s July 6 arrest forced Acosta to resign as President Trump’s labor secretary. 
+Trump, Bill Clinton and Prince Andrew, and moved in elite circles, including for several years in a relationship 
+agreement. Acosta resigned from his post as Trump’s labor secretary following extensive criticism of the deal. 
+Epstein — onetime friend of the rich and powerful, including current President Donald Trump and past 
+as President Trump’s labor secretary. 
+Cosby and President Donald Trump of sexual assault. After the hearing, she said she was representing other 
+uncertainty from President Trump’s trade war. 
+and Mr. Trump’s trade fights. 
+He said that manufacturing around the world was weakening and that Mr. Trump’s trade dispute was continuing 
+The Fed’s rate cut carries political risks, given Mr. Trump’s attacks on the central bank. Mr. Trump has been 
+in China and Europe, and Mr. Trump’s trade war with China and threats of further tariffs on United States 
+information" about the contact between President Donald Trump's team and 
+20 State AGs Challenge Trump Rule To Detain Migrant Kids 
+Trump administration over its move to eliminate a 20-day limit on the 
+the Florida associate of former President Donald Trump's lawyer Rudy 
+Donald Trump's former national security adviser Michael Flynn, a federal 
+introduced her to its owner, Donald J. Trump. Introducing 14-year-old Doe to Donald J. Trump, 
+Epstein elbowed Trump playfully asking him, referring to Doe, "This is a good one, right?" 
+Trump smiled and nodded in agreement. They both chuckled and Doe felt uncomfortable, but, at 
+America who are guilty along with Prince Andrew? And this after Donald Trump himself 
+both Donald Trump and 
+les Trump: Kushner's security clearance is up to 
+included Bill Clinton, Donald Trump, actor Kevin Spacey and Britain’s Prince 
+cocaine. Villeneuve took J back inside and someone told the party that Donald Trump had invited 
+reported some of things President Trump had spoken about 
+noted Trump continuously the name "Jeffre while on the phone, 
+meeting Donald Trump, Es immediately ree demeanor went "stone 
+Donald J. Trump had raped her along with Jeffrey ! tein." c= I noted 
+Trump cabinet members, speaks to the swirl of unresolved questions surrounding Mr. Epstein’s short time in prison 
+including President Trump and former President Bill Clinton, that festered even before he died. 
+Department’s credibility — waged chiefly by Mr. Trump when he attacked the Russia investigation — has taken. Mr. 
+investigations since Watergate. Accusations that he misrepresented the findings to benefit Mr. Trump had begun to 
+DAILY MAIL: https://www.dailymail.co.uk/news/article-8625217/Trump-hints-FIRING-FBI-director-Chris- 
+TMZ: President Trump Suggests Jeffrey Epstein Might've Been Killed in Jail 
+Business Insider: Trump again wishes Jeffrey Epstein’s alleged madam Ghislaine Maxwell 'well' as she awaits 
+NYT: https://www.nytimes.com/2020/08/04/us/politics/trump-prosecutors.html 
+Meanwhile, the Trump administration has expanded access to guns through regulatory 
+El Paso to Trump: The hatred that led to gun violence didn’t come from our city. £1 
+What you need to know about Trump, Mueller and obstruction of justice 
+Trump with obstruction, were he not president.” 
+vendetta against the president. Underscoring why that is, Trump 
+Trump’s hands. Think of Rep. Steve Cohen eating Kentucky Fried 
+election to replace Trump: 
+Asked about Mueller testimony, Trump pivots to Mueller’s ‘conflicts’ of interest 
+3) Will Trump’s Republican allies successfully cast doubt on 
+added Trump lawyer Jay Sekulow on Sean Hannity's Fox show. 
+Mueller’s unwillingness to engage in a tit-for-tat with Trump and Co. 
+opening impeachment proceedings against Trump. Mueller’s sole 
+prosecution of former Trump campaign chairman Paul Manafort, to 
+“The Trump International Hotel is located at 1100 Pennsylvania 
+The Trump International Hotel is located at 1100 Pennsylvania Ave NW. (Jonathan Newton/The 
+thicket of thorny legal issues facing Trump. There was a 
+“Rejecting a request from President Trump, a federal judge in 
+records from the Trump Organization. ... Sullivan ordered the two 
+Sept. 27. ... The Trump administration still can try to delay or block 
+federal judges have interpreted these clauses. Trump is being sued 
+the Trump administration’s request for an immediate appeal. 
+Trump’s D.C. hotel. The 4th Circuit heard oral argument in March 
+spitting in Eric Trump’s face, per Tim Elfrink and Mark Guarino. 
+outrage as Trump's policies continue putting the lives of 
+amid bubbling anger over Trump’s handling of the crisis. Mike 
+passage sets up a high-stakes negotiation with Trump and Senate 
+campaign with promises of mass deportations, Trump sent the 
+who Trump installed as acting director of U.S. Immigration and 
+Trump to remove acting DHS secretary Kevin McAleenan at the 
+America, where the Trump administration is seeking a separate 
+to McAleenan. ... One person who has spoken with Trump about 
+Trump administration officials Tuesday used the moment to urge 
+fresh look at the new evidence that the Trump administration 
+representing the Trump administration, told the Supreme Court that 
+migration.” Make no mistake: Trump will use this as a devastating 
+sanctions policy have begun to question whether Trump has a 
+strategy. ... Other experts said that Trump’s summit strategy with 
+President Trump and North Korean leader Kim Jong Un. He said 
+before President Trump is scheduled to visit Seoul, a trip that is 
+-- Trump is flying today to the G20 in Japan with most of his 
+Trump is facing a crucial test of his ‘America First’ agenda, one that 
+a go-it-alone approach, Trump has shown a preference for leader- 
+Trump to plead his father’s case at the summit. Gerry Shih 
+exporter Kai Li, is calling on Trump to raise the case of his father — 
+security charges — during a meeting with Xi this week, when Trump 
+by China's opaque security apparatus. ... Harrison Li said Trump 
+said he’s confident Trump and Xi can make progress in stalled trade 
+a way to capture attention and break away from the pack. Trump 
+debates. These are television shows.’ Trump, a former reality TV 
+Trump's most vocal rivals in 2016, said moderators ‘are often 
+comes to confronting [Trump]. It’s an approach that could pay off 
+Trump” initiative. Pence called Trump “a great champion of Latino 
+unemployment since he took office. “President Trump promised to 
+get this economy moving again, and President Trump delivered,” 
+Pence said. “President Donald Trump is the best friend that Latino 
+-- The latest sexual assault allegation against Trump has been 
+Jean Carroll], who said Trump attacked her in a dressing room more 
+most attention to her story is Trump, who has denied it, saying she 
+was ‘not my type.’ When asked Tuesday whether Trump's response 
+they are, but | take [Trump's] statement at face value.” “Many times 
+believe Trump. (Politico) 
+Trump in a tweet and later confirmed by White House officials. In 
+Trump's last remaining campaign aides serving in the White House. 
+2017, she worked in the West Wing as a deputy to Trump's first 
+-- House Republicans are preparing to go after a Trump 
+liaison to the diplomatic corps at the State Department. ... Trump 
+-- Trump endorsed Sen. Thom Tillis (R-N.C.), who is facing two 
+stepped up to the plate,” Trump tweeted last night. “Thom is tough 
+A House Democrat criticized the Trump administration's Iran policy: 
+about sexual assault allegations against Trump: 
+From the former acting attorney general who Trump fired: 
+And Trump started the day by accusing the Democrats of innaction: 
+on President Trump's taxes. ... The reporters spoke after Baquet. 
+Trump posts over ‘open 
+just can't resemble [Trump]. 
+support for Trump and his 
+Trump will speak at the Faith & Freedom Coalition 2019 Road To 
+-- The Trump administration has hired two private fireworks 
+Seth Meyers had:some:strong.wordssfon, Trump,owho:said he didn't 
+LA TIMES: https://www.latimes.com/opinion/story/2020-11-05/trump-policing-panel-broke-the-law 
+Presley, the British Royal Family, President Trump, and Jeffrey Epstein. We are passing 
+Trump, and Jeffrey Epstein. 
+In 2017, President Donald Trump nominated Acosta to be Secretary of Labor. At his 
+' See, e.g., Ashley Collman, “Stunning new report details Trump's labor secretary’s role in plea deal for 
+billionaire sex abuser,” The Business Insider, Nov. 29, 2018; Cynthia McFadden, “New Focus on Trump Labor 
+Kumar, “Trump labor secretary out of running for attorney general after Miami Herald report,” McClatchy Washington 
+Bureau, Nov. 29, 2018; Emily Peck, “How Trump's Labor Secretary Covered For A Millionaire Sex Abuser,” 
+4. On one occasion | had taken “Morning Glory” and “Ange! Trumpets”. | 
+4. On one occasion | had taken “Morning Glory” and “Angel Trumpets”. 1 
+Let me say I am proud to serve in an Administration and under President Trump 
+crime rate started rising again. Days after his inauguration, President Trump 
+disposal to step up the attack on the cartels. I am hoping that President Trump's 
+Plenty of stories have been revealed around media and former contestants, Donny Trump had employees 
+attempting to groom underage girls for him during Miss Teen USA pageants... as have Donny Trump and Billy 
+Last Name: Trump 
+he provided to Paul Manafort with the intent_of securing a position within the Trump 
+pardoned Trump associate Steve Bannon, rejecting the government's 
+Former Trump HHS Counsel Rejoins Greenberg Traurig 
+Services has become the latest Trump administration official to return to 
+coverage of his legal representation of former President Donald Trump in his 
+Ex-Judges Press AG To Toss Trump-Era Immigration Opinions 
+Garland on Tuesday to revoke the immigration rulings of his Trump-era 
+Subject: 2nd Circ. Rejects Immediate Stay In Trump Tax Subpoena Suit 
+2nd Circ. Rejects Immediate Stay In Trump Tax Subpoena Suit 
+The Second Circuit said Friday that it will consider President Donald Trump's 
+Trump Organization Inc. 
+33-Year-Old Trump Judicial Pick Attacked Over Experience 
+Liberal advocates are lambasting President Donald Trump's youthful pick for 
+BUZZFEED NEWS: https://www.buzzfeednews.com/article/kenbensinger/new-york-owed-money-man-tweeted-trump-ventilators 
+A coalition of 23 Democratic attorneys general sued the Trump administration 
+appeal a decision that the federal arbitration law trumps the state's arbitration 
+Monday seeking details from the Trump administration about what the rights 
+President Donald Trump's former national security adviser Michael Flynn 
+Former immigration judges said Monday that the Trump administration's 
+President Trump’s response to the novel coronavirus when the reporter 
+week before an exhibition game, provoking an attack by Trump. “Looking 
+The Senate GOP scrapped Trump’s demand for a payroll 
+Senate Republicans have cast aside one of Trump’s key demands in their 
+“Trump painted a wishful view Wednesday of the U.S. response to the 
+require people to wear masks. ... [Trump] declined to press for a 
+e Trump attended a fundraiser at his D.C. hotel without a mask. The 
+e Trump said he would be comfortable sending his son and 
+e The GOP-controlled Senate is poised to defy Trump's veto threat and 
+Trump announced a surge of federal law enforcement into 
+family members of crime victims, Trump delivered fiery talking points that 
+Chicago’s mayor accused Trump of seeking to distract from his handling of 
+about what happens if Trump refuses to relinquish power. 
+“Most legal experts said it is hard to envision that Trump would actually try 
+Trump could claim victory before the vote in key states is fully counted — a 
+massive fraud Trump has described. ... 
+“In GOP circles, private talk about Trump’s assertions veers 
+on the condition of anonymity to comment candidly and avoid Trump’s 
+wrath, said he expects Trump to ‘leave quickly’ if it is a blowout defeat. But 
+he said he worries about a narrow election and whether Trump would go to 
+locations and ensure a heavy GOP presence at polling sites. Trump’s 
+e Anew Quinnipiac University poll finds Biden leading Trump by one 
+Trump better, but they’re seriously considering breaking for the 
+e Biden claimed that Trump is America’s “first” racist president. That's 
+Jackson, enacted racist policies. Trump's spokeswoman also insists 
+Trump keeps bragging about passing a cognitive test, but it 
+“In another Fox News interview [last night], Trump couldn’t resist 
+words, in order. Trump said he was first asked to repeat a set of words — 
+question, and repeat them. Can you do it?” Trump said, mimicking the 
+score — as Trump has repeatedly claimed he did — merely signifies that the 
+becoming nastier: The Trump-endorsed candidate, former U.S. 
+Trump’s company applied to trademark the word “telerally.” 
+Then Trump held one. 
+Trump’s description of the coordinator of his coronavirus task force was 
+Stephen Colbert was confused by Trump’s message to Ghislaine Maxwell: 
+Seth Meyers said Trump is trying to convince America that he suddenly 
+The 23 Democratic attorneys general challenging the Trump administration's 
+Trump Can't Exclude Unauthorized Immigrants From Census 
+Trump's attempt to not count unauthorized immigrants in the 2020 census, 
+immigration application fees, but the Trump administration objected to the 
+The Biggest Surprises Of Trump's New Supreme ‘Short' List 
+Trump unveiled Wednesday featured several conservative rising stars on the 
+Bannon’s iPhone 7 on Cellebrite. As | was going through the images from that phone, | found an image of Trump and 
+The list also included: Companies with ties to President Trump, more 
+construction on the oil-sands pipe, dealing a blow to Trump's bid to 
+Donald Trump's trial judge and lower-level administrative nominees to be 
+House Dems Request Trump’s Tax Returns From IRS 
+Trump's tax return information for the past six years, taking the first step in a 
+1st Circ. Perplexed By 'Odd'" Trump Birth Control Argument 
+Massachusetts’ challenge to a Trump administration rule allowing exemptions 
+Trump Taking Aim At Online Counterfeit Market 
+President Donald Trump on Wednesday said he will soon formulate a new 
+Trump Organization Inc. 
+Trump May Allow Turkey To Keep F-35 Despite Russian Deal 
+Turkey's foreign minister said Wednesday that President Donald Trump has 
+The Trump administration wants out of a pair of lawsuits filed in federal court 
+Trump's Opposition To ACA Can't Kill Esformes Trial 
+the Trump administration's new position that the entire Affordable Care Act is 
+3. Article of impeachment sent to the Senate for second Trump trial. The 
+Trump’s legacy and his future influence over the party. However, many aides were 
+currency after the Trump administration postponed those plans. 
+Trump’s personal lawyer and his allies spread false allegations against the company 
+are used by more than 40% of U.S. voters. Since November, Trump allies, right-wing 
+death threats. Giuliani, who led Trump's legal team during his string of failed court 
+history of its refugee program after the Trump administration capped admittances. 
+with President Donald Trump and ex-President Bill Clinton. it and has prompted some who 
+Victim Claims He Showed Her Off to Trump When She Was 14,” The Daily Beast (Aug. 18, 
+showed-her-off-to-trump-at-mar-a-lago-when-she-was-14). 
+Trump, Clinton, Prince Andrew) 
+USATODAY: https://www.usotodoy.com/story/news/polltics/2020/12/07/politics-updates-joe-biden-donald-trump-presidential-transition/3854979001/ 
+Trump: 
+Trump attorney: EKONOMOU 
+Trump Ohio fundraiser 
+https://www.cleveland.com/politics/2019/07/donald-trump-coming-to-cleveland-friday-for-fundraiser-at- 
+le. Donald Trump coming to Cleveland Friday for 
+CLEVELAND, Ohio = Republican President Donald Trump is 
+Calk/Lorber/Elliman: Trump 
+Leon Black/ Apollo/Schwarzman: Trump Kushner 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+le Trumps Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+les Trump Chooses Cerberus's Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+le Trump: Kushner's security clearance is up to 
+THE GUARDIAN: https://www.theguardian.com/commentisfree/2020/dec/15/william-barr-exit-bad-news-donald-trump-post-presidency-pardons 
+SLATE: https://slate.com/news-and-politics/2020/12/trump-medical-pardon-rudy-giullani-covid. html 
+THE HILL: https://thehill.com/policy/finance/531890-trump-names-roisman-acting-sec-chairman 
+NYT: https://www.nytimes.com/2020/12/28/us/pardons-trump.htmi 
+BOSTON GLOBE: https:// www. bostonglobe.com/2020/12/29/opinion/what-trumps-pardons-say-about-criminal-justice/ 
+Acosta, then the United States attorney in Miami who is now President Trump’s secretary of labor. 
+In 2002, Mr. Trump described Mr. Epstein as “a terrific guy.” 
+“He’s a lot of fun to be with,” Mr. Trump told New York Magazine. “It is even said that he likes beautiful 
+MSN: https://www.msn.com/en-us/news/politics/swalwell-barr-has-taken-michael-cohens-job-as-trumps- 
+NYT: https://www.nytimes.com/2020/07/28/opinion/homeland-security-portland-trump.html 
+POLITICO: https://www.politico.com/news/2020/10/07/trump-demands-barr-arrest-foes-427389 
+USATODAY: httns://www.usotodoy.com/story/tech/2020/11/03/facebook-twitter-trump-giuiiani-censorship-bias-biden-election-2020/6149742002/ 
+MEDIAITE: https //wwwemediaite.com/uncategorized/trump-reporte dly-telling-odvisers-hes-increasingly-spooked-at-the-prospect-of-being-indicte d-if-he-loses, utm_ source mostpopular 
+Trump Jawver Rudy Giuliani not above the law, prosecutors say (cnb¢c.com)} 
+Trump traveled on Epstein’s private jet many more times than previously has been reported (or that we were aware), 
+Trump, and then-20-year-old i § On two other flights, two of the passengers, 
+[W]hen Congress has sounded an uncertain trumpet, a court ought to refrain from 
+Leon Black/ Apollo/Schwarzman: Trump Kushner 
+https://www.vanityfair.com/news/2018/03/andrew-ekonomou-donald-trump-legal-team/amp 
+le Trump's Last Line of Defense Against Mueller 
+Atlanta is home of the obscure Trump Russia Counsel Andrew EKONOMOU 
+Jared Kushner, President Donald Trump's son-in-law and senior 
+https://www.bloomberg.com/news/articles/2018-05-11/trump-chooses-cerberus-s-feinberg-to-lead-spy- 
+le. Trump Chooses Cerberus's Stephen Feinberg 
+President Donald Trump has chosen billionaire investor Stephen 
+said Friday. Trump intends to appoint Feinberg, the co-founder 
+le Trump: Kushner's security clearance is up to 
+that a Trump administration official cut as a federal 
+circle — including President Donald Trump, former President Bill Clinton, and, weirdly, former lead 
+ties to Trump before even Epstein did: a 1989 clipping from the St. Louis Post-Dispatch lists Trump as 
+with extremely high-powered individuals such as Trump and Prince Andrew, reportedly introducing 
+working as a towel girl at Trump’s Palm Beach resort Mar-a-Lago, Maxwell recruited her to serve as 
+a job in the administration of former President Donald Trump. 
+politically charged criminal case of ex-Trump national security adviser Michael 
+Duane Morris’ McSwain To Trump: Pa. Election A "Disgrace’ 
+state's presidential election a "partisan disgrace" in a bid for Donald Trump's 
+though it includes the Trump interaction she had with Epstein, and is attached here. No judge assigned yet. 
+https://www.nydailynews.com/new-york/ny-epstein-trump-victim-suit-20200118- 
+AP: https://apnews.com/article/election-2020-donald-trump-pennsylvania-elections-talk-radio-433b6efe 727200864822 1f405c2111f9 
+Trump Doesn’t Know About Labor 
+Donald Trump. 
+Have you heard anybody in the Trump administration apologize for anything? Well, there was the occasion the secretary 
+to be tight with our current chief executive. “Terrific guy,” Trump said in an interview with New York magazine in 2002. 
+Are you shocked by any of this? Hey, early in our acquaintanceship we learned Trump is a guy who bragged about being so 
+Ever since the Epstein scandal arose, Trump has been defending Acosta, stressing what an “excellent” job he’s doing. After 
+Hmm. Before this week, what do you think Donald Trump thought the Department of Labor did? 
+Trump insiders, of course, feel undermining workers’ rights is supposed to be Acosta’s mission. And they complain he’s 
+been sort of inept at it. Mick Mulvaney, the Trump Acting Chief of Staff For Life, has been trying to take control. Recently, 
+But are you upset that Trump is too much of an ethical beanbag to get rid of him? The sad truth is that we’re really 
+alone,” he told his interviewers in the Trump transition, who evidently thought that 
+Subject: Vanity Fair: Just “Him and Epstein” and “28 Girls”: Florida Man Drops a Dime on Trump 
+Just “Him and Epstein” and “28 Girls”: Florida Man Drops a Dime on Trump 
+DC Circ. Questions Trump Fight To Defy Financial Subpoenas 
+Two D.C. Circuit judges seemed highly skeptical of President Donald Trump's 
+Trump Organization Inc. 
+Law360's Pro Say: Neal Katyal On Trump's Census About-Face 
+Trump finally abandoning his plan to add a citizenship question to the 
+politically charged criminal case of former Trump national security adviser 
+for the poor that was shuttered by the Trump administration. 
+Donald Trump from the platform. 
+Feds Call Off Appeal Salvaging Trump-Era Asylum Guidelines 
+federal judge's decision striking down Trump-era credible fear guidelines as 
+Presley, the British Royal Family, President Trump, and Jeffrey Epstein. We are passing 
+Trump, and Jeffrey Epstein. 
+Bannon’s iPhone 7 on Cellebrite. As | was going through the images from that phone, | found an image of Trump and 
+HUFFPO: https: //www. huffpost.com/entry/e-jean-carroll-trump-rape-allegation n_ 5f7c72dacsb6122900 4c 
+/10/05/nyreaion/eric-trump-investigation-election. htm! 
+WAPO: httns://www.washingtonpost.com/politics/2020/10/05/trumps-barrage-new-claims-voter-fraud-have-been-disproven, 
+meeting for Wednesday afternoon to discuss interference from the Trump 
+cases, following the sentencing upheaval in the criminal case against Trump 
+A Kansas federal judge informed President Donald Trump on Tuesday that 
+Trump Commutes Ex-ill. Gov. Blagojevich's 14-Year Sentence 
+President Donald Trump commuted Rod Blagojevich's 14-year prison 
+The Trump administration said Tuesday that it will waive federal procurement 
+The D.C. Circuit hammered the Trump administration Tuesday over its 
+Trump's pro-drilling executive order, saying the state's case resembles 
+The Trump administration illegally ignored the potential impact to endangered 
+The Trump administration on Tuesday sanctioned a subsidiary of Russian 
+Top House Democrats on Tuesday slammed the Trump administration's 
+Trump Pardons Ex-NYPD Chief Kerik On Tax Fraud Conviction 
+President Donald Trump on Tuesday pardoned former New York Police 
+Trump Is Right About Stone Sentencing, For Wrong Reasons 
+President Donald Trump weighed in on Roger Stone's sentencing in an 
+and President Donald Trump, but she noted she may delay imposing the 
+against attacks on the judiciary made by President Trump and other 
+Trump Tax Return Suit Belongs In NY, State Officials Say 
+state President Donald Trump's suit seeking to bar enforcement of a law 
+Dems Tell Trump Tapping Scalia To Head DOL ‘Alarming’ 
+More than two-dozen House Democrats have urged President Donald Trump 
+The Trump administration's attempt to put a citizenship question on the 
+Enviros Say Trump Must Live With Keystone Rejection 
+the Keystone XL pipeline just because President Donald Trump signed a new 
+addressing misconduct and employers are seeking to fortify Trump 
+Senate OKs Trump's 8th Circ. Pick Despite Flake Opposition 
+confirm one of President Donald Trump's appeals court judges, as he cast 
+Stormy Daniels Owes Trump Attys $300K In Fees, Sanctions 
+Stormy Daniels must pay President Donald Trump's attorneys approximately 
+Ghislane looks very much like Melania Trump. 
+Ex-Trump Associate Hacked Mariah Carey's Ex-Manager: Suit 
+A former associate of President Donald Trump hacked electronics belonging 
+businessman, is slated to testify to Congress about the Trump Tower Moscow 
+The New York attorney general's office sued the Trump administration 
+a stint as White House counsel that included orchestrating the Trump 
+President Donald Trump can't get out of Congressional Democrats’ lawsuit 
+Trump Organization Inc. 
+Trump's ability to take additional military action against Iran without congressional 
+House before going to Trump, who has promised a veto that there would not be the 
+was shot down over Iraq in 2004. “Donald Trump spent months attacking an 
+Duckworth is referring to when Trump, who received a deferment for “bone spurs” 
+spoke out against Trump at the Democratic convention in 2016, expressing 
+-- Slotkin left her Pentagon job to move home to Michigan after Trump took 
+midterms. She faces a tough reelection battle this fall in a district Trump 
+Slotkin’s nonbinding resolution instructs Trump “to terminate the use of United 
+Matt Gaetz, one of Trump’s most outspoken allies on Capitol Hill. “| take a 
+Trump trashes Adam Schiff during Ohio rally 
+-- Trump ripped the Slotkin resolution during a rally last night in Toledo, 
+Trump singled out Rep. Adam Schiff (D-Calif.), who as the leader of the 
+investigation that led to Trump's impeachment for abuse of power and obstruction 
+“You little pencil neck,” Trump said, referring to Schiff. Trump claimed, with no 
+imminent armed attack,” but Trump ignored this as he complained about 
+references to Trump by name to make it more palatable for Republican colleagues, 
+-- The Trump administration hit Iran with more sanctions Friday in the first 
+high alert. President Trump said the downing of the aircraft was probably a 
+the United States on the diplomatic front Thursday after Trump called on Britain, 
+-- The speed at which the Iran crisis unfolded shows the influence Trump’s 
+-- For Trump and Iran, Twitter trolling helped escalate tensions on the 
+battlefield. David Nakamura reports: “A day after [Trump] signaled he would not 
+leader responded with a message of his own: a doctored photo of Trump's face 
+e Fareed Zakaria: “Trump does not have a foreign policy. He has 
+e Eugene Robinson: “The best Iran crisis explanation? Trump's 
+other individuals besides Trump have been impeached by the House of 
+retweet from Trump. Felicia Sonmez reports: “The tweet marks the second time 
+-- An Army general denied a request by an officer pardoned by Trump in an 
+Golsteyn's reinstatement request follows Trump's decision in November to pardon 
+once championed by Trump. It found nothing of consequence. Devlin Barrett 
+raised by Trump and his allies in Congress that the FBI had not fully pursued cases 
+Trump administration declared it was at the height of a border crisis. December 
+Trump administration steps back. Rebecca Tan reports: “Maryland’s most 
+they see as the Trump administration's resistance to protecting the planet. ... In 
+-- Trump wished North Korean leader Kim Jung Un a happy birthday through 
+-- Astatue mocking Trump in Melania Trump’s home country was burned 
+mechanism to open Trump's red painted mouth full of pointy teeth was constructed 
+last year in a nation divided over the U.S. president. The statue of Trump, with the 
+Jared Kushner and his wife, lvanka Trump, and their children, 
+Trump, and their children, Arabella, Joseph and Theodore Kushner, attend a Hanukkah reception in 
+greater personal interest to his father-in-law: Mr. Trump's 2020 re-election 
+diversity among Trump's top advisers: 
+The Trump administration indisputably flouted the Affordable Care Act by 
+Trump Extends Iran Sanctions Waiver But Wants Deal Remade 
+President Donald Trump has again extended a sanctions waiver granted to 
+Trump's appointment of a White House official to lead the Consumer 
+Trump Taps Morgan Lewis Vet To Round Out NLRB 
+President Donald Trump on Friday selected Morgan Lewis & Bockius LLP 
+federal appeals court to remove President Donald Trump's choice to serve as 
+President Donald Trump may be poised to impose sweeping restrictions on 
+DACA Deal Uncertain After Trump's Derogatory Comments 
+President Donald Trump's inflammatory comments about migration from what 
+Senate Sends Bill To Recognize Va. Tribes To Trump's Desk 
+bill to President Donald Trump's desk. Read more » 
+Trump, may face trial as soon as May, according to a filing Friday by the 
+special counsel spearheading an investigation into the Trump campaign that 
+Subject: Cohen Nixes Congressional Hearing Over Trump 'Threats' 
+Cohen Nixes Congressional Hearing Over Trump ‘Threats* 
+Donald Trump, Cohen's lawyer said Wednesday, casting uncertainty over the 
+longtime Trump attorney's testimony about crimes he committed in dealings 
+Former Donald Trump presidential campaign chairman Paul Manafort said 
+and advance President Donald Trump's nominees, one senator said this 
+Fed grand jury investigating former Trump inaugural vice chair: Sources 
+Trump Pal Elliott Broidy Is Facing Yet Another Federal Investigation - Vanity Fair 
+Prosecutors are investigating whether GOP donor Elliott Broidy used Trump ties to profit - Vox 
+GOP hush money man Elliott Broidy probed for peddling access to Trump inauguration - New York Daily 
+... Trump adviser Omarosa Manigault Newman teased an appearance on the show, saying, “I'm talking 
+LETTER TO THE EDITOR: Letters about Trump and Gaetz 
+Donald Trump's origin story suffers another severe blow 
+Around the same time that was revealed, former Trump attorney Michael Cohen, who flipped on Trump and 
+Last year it was revealed that Michael Cohen, Donald Trump's lawyer at the time, arranged for a $1.6m 
+Trump's labor secretary Alex Acosta at center of Epstein scandal after agreeing to sweetheart deal ... - Daily 
+A Summary of the Mueller Report Part 3: Russian Contacts with the Trump 
+candidate Trump and other executives in ... 
+With new law, Trump's state tax returns could go to Congress 
+Specifically, he argued that President Trump considering pardons or favorable treatment for his former 
+Adam Schiff renews focus on former Trump business associate Felix Sater 
+Along with Mr. Trump's former personal lawyer, Michael Cohen, Mr. Sater was supposed to be one of the 
+An immigration lawyer linked to President Donald Trump's former attorney 
+States, Dem Legislators Back Monument Suits Against Trump 
+Donald Trump's decision to shrink national monuments in Utah, joining a host 
+of others questioning Trump's authority under the Antiquities Act. Read full 
+Subject: Supreme Court Leads At Ist Trump-Biden Debate 
+Supreme Court Leads At 1st Trump-Biden Debate 
+President Donald Trump and Democratic nominee Joe Biden jousted over 
+Trump, Biden Fight Over Climate Change In Heated 1st Debate 
+President Donald Trump and former Vice President Joe Biden fought over 
+Tuesday, with Trump defending his push to relax emissions rules in an effort 
+Flynn Atty Invokes Executive Privilege Over Trump Meeting 
+criminal case with President Donald Trump recently, just moments after she 
+pause the Trump administration's less restrictive policy on methane 
+Health Care Clashes Dominate 1st Trump-Biden Debate 
+In the first of three debates, President Donald Trump and former Vice 
+President Donald Trump's reelection campaign continued to lock horns with 
+President Donald Trump's executive order directing the government to 
+Blueberry Imports Could Be Next On Trump's Tariff List 
+The Trump administration called for an investigation of imported blueberries 
+Biden Vows To Undo Tax Cuts, Trump Touts Record In Debate 
+Tuesday night's debate with President Donald Trump, who touted his 
+Manhattan DA Says 2nd Circ. Stayed Trump Tax Subpoena 
+cannot enforce a subpoena against President Donald Trump's accounting 
+Trump Organization Inc. 
+barring the Trump administration from excluding unauthorized immigrants 
+Lawyers for the Trump administration and a group of cities and nonprofit 
+revealing the names of jurors deliberating the fate of the former Trump 
+Mueller Wants Up To 6 Months In Prison For Ex-Trump Aide 
+of zero to six months for the former Trump adviser who pled guilty to lying to 
+long-running bid to compel testimony from former Trump White House 
+Judge Mulls Trump Appointee's Jail Release Bid In Riot Case 
+Trump U.S. Department of State appointee seeking release from jail pending 
+conspirator had been pardoned by former President Donald Trump. 
+dramatic reversal from the Trump administration, which consistently sought to 
+e People listening in on Trump's Ukraine call said things weren't right. 
+witnesses saying that Trump's Ukraine call was inappropriate. 
+between Donald Trump and Ukrainian President Volodymyr 
+in any effort to urge Ukraine to investigate Trump's political rival, Joe 
+version before going to Trump for his signature, who's yet to indicate 
+It's the latest of a series of rollbacks coordinated by Trump appointees. 
+Donald Trump, who have all been asked to 
+amid the chaos of the outgoing Trump 
+Bharara, who was fired by the Trump 
+President Donald Trump's judicial nominees, starting with a confirmation 
+Donald Trump, who have all been asked to 
+amid the chaos of the outgoing Trump 
+Bharara, who was fired by the Trump 
+Subject: DOJ Beats Gizmodo FOIA Suit Over Trump Wiretap Docs 
+DOJ Beats Gizmodo FOIA Suit Over Trump Wiretap Docs 
+records related to alleged wiretapping of President Donald Trump's 2016 
+Donald Trump's trial judge and lower-level administrative nominees to be 
+circuit judges and 80 district judges as President Donald Trump clinched his 
+different. President Donald Trump's campaign-season and charitable conduct 
+‘Leapfrogging' Trump Appeals Jolt Sleepy Supreme Court 
+The Supreme Court's relatively quiet term is being rocked by the Trump 
+allegations against a long list of President Donald Trump's associates. Read OTC Markets Group Inc. 
+impeachment inquiry into President Donald Trump's alleged attempts to 
+Justices Pause House Panel’s Trump Records Subpoena 
+Trump's longtime accounting firm seeking eight years of his business 
+records, the U.S. Supreme Court ruled Monday, allowing Trump's attorneys 
+Former Trump campaign adviser Roger Stone can't escape guilty verdicts on 
+Trump's nominee to lead the U.S. Labor Department, earned more than $6 
+fueled calls for investigations into the Trump administration's potential 
+senators questioning President Donald Trump's picks for district courts in 
+Strawn alum and a Trump administration lawyer. 
+Trump's Alaska Trial Court Pick Worth $761K 
+President Donald Trump's just-confirmed pick for a federal trial court seat in 
+House Panel Subpoena For Trump Docs Invalid, Justices Told 
+A House committee's subpoena for President Donald Trump's financial 
+the U.S. Supreme Court, Trump's attorneys told the court Thursday. 
+Subject: Roger Stone's Fine, Supervision Term Also Lifted By Trump 
+Roger Stone's Fine, Supervision Term Also Lifted By Trump 
+came to light Monday, showing that President Donald Trump wiped out 
+suits over Trump administration policies. Here, Law360 looks at 
+Conservative Lawyers Slam Trump's ‘Ignorant Racist’ Tweets 
+Monday tore into tweets in which President Donald Trump suggested four 
+Trump Family Tax History: A Professional Evaluation 
+impropriety by the Trump family. Read full article » 
+arguments just days after he was sworn in as President Donald Trump's 
+Trump's Personal Driver Of More Than 25 Years Drops OT Suit 
+President Donald Trump's former chauffeur on Thursday voluntarily withdrew 
+Trump Organization Inc. 
+against Donald Trump. At the time, Manhattan 
+against Trump was still ongoing, and a jury 
+some comments about Trump and their relationship that Mark thought were of interest. We understand Mark 
+comments about Trump and their relationship that Mark thought were of interest. We understand Mark received this 
+Subject: Fwd: [EXTERNAL EMAIL] - FW: Cambridge Analytica / Trump / Royal Family / 
+Subject: [EXTERN AL EM: AIL] - FW: Cambridge Analytica / Trump / Royal Family / Epstein/Maxwell - 
+Subject: FW: Cambridge Analytica / Trump / Royal Family / Epstein/Maxwell - 
+Subject: Cambridge Analytica / Trump / Royal Family / Epstein/Maxwell - 
+Trump and enjoys protection from within the Royal family. 
+to name names. I believe Presient Trump authorized is murder. 
+```
+
+---
+
+*Full extract: `05-TRUMP-MENTIONS/extract-trump-raw.txt`*

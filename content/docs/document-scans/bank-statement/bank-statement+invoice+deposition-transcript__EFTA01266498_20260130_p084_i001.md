@@ -1,0 +1,318 @@
+---
+source_image: "bank-statement+invoice+deposition-transcript__EFTA01266498_20260130_p084_i001.png"
+source_pdf: "EFTA01266498.pdf"
+method: pdf_text
+words: 636
+confidence: 1.00
+extracted: 2026-02-13T16:08:20.276927
+---
+
+Account Summary 
+U
+. 
+Statement Closing Date 
+Account Number 
+Payment Due Date 
+07/26/19 
+4270 YJOOC XX)Or 0904 
+08/21/19 
+Transactions (continued) 
+07/14 
+07/15 
+07/15 
+07/16 
+07/16 
+07/16 
+07/16 
+07/17 
+07/17 
+07/17 
+07/17 
+07/17 
+07/18 
+07/18 
+07/19 
+07/19 
+07/20 
+07/20 
+07/20 
+07/20 
+07/20 
+07/21 
+07/21 
+07/21 
+07/23 
+07/23 
+07/25 
+Transaction 
+GHISLAIN 
+Trans Date Post 
+7/14 
+7tI 5 
+7tI 5 
+7/16 
+7/16 
+7/16 
+7/16 
+7/17 
+7/17 
+7/17 
+7/17 
+7/17 
+7/18 
+7/18 
+7:19 
+7/19 
+7/20 
+7/20 
+7/20 
+7/20 
+7/20 
+7/21 
+7/21 
+7/21 
+7/23 
+7/23 
+7/25 
+BOR 
+Date 
+G 
+CROSBY'S MARKETPLAC MANCHESTER MA 
+BEACON HILL WINE & SPIRIT BOSTON MA 
+MOODYS_3 BOSTON MA 
+Andre Perrault LMHC 
+617-835.6581 MA 
+PASSPORT PARKING passportinc NC 
+GRUBHUBGOURMETCHINAHO GRUBHUB.COM NY 
+AT&T B172 10673 
+800.331.0500 MA 
+LAZ PARKING 550862 CAMBRIDGE MA 
+PRODIGYGAME.COM BURLINGTON CD 
+SO •MATILDE'S PHOTO BOSTON MA 
+LOGAN PARKING PASSPORT BOSTON MA 
+BEACON HILL BISTRO BOSTON MA 
+SGUYS 1487 QSR PEABODY MA 
+SGUYS 1487 QSR PEABODY MA 
+FEDEX 940389006387 MEMPHIS TN 
+CROSBY'S MARKETPLAC MANCHESTER MA 
+TST' BRAVO BY THE SEA MANCHESTER BY MA 
+FEDEX 788557589395 MEMPHIS TN 
+CROSBY'S MARKETPLAC MANCHESTER MA 
+MANCHESTER ACE HDWE MANCHESTER MA 
+E-ZPass MA 
+877.6277745 MA 
+GALA'S RESTAURANT 130 MANCHESTER BY MA 
+ESSEN MANCHESTER BY MA 
+CROSBY'S MARKETPLAC MANCHESTER MA 
+CROSBY'S MARKETPLAC MANCHESTER MA 
+SP • ALLBIRDS BOSTON MA 
+UBER TRIP HELP.UBER.COM CA 
+Total Transactions For SCOTT G BORGERSON 
+X 0912 
+Description 
+$8.03 
+$27.98 
+$10.65 
+$175.00 
+$1.27 
+$62.93 
+$37.50 
+$3.00 
+$8.95 
+$69.95 
+$8.00 
+$88.46 
+$19.75 
+$14.41 
+$10.61 
+$117.28 
+$39.24 
+$116.64 
+$24.26 
+$133.85 
+$35.00 
+$65.37 
+$31.56 
+$16.97 
+$8.94 
+$285.00 
+$9.68 
+$5,759.63 
+Amount 
+own 
+06/27 
+PINCKNEY NAILS SKIN SALON BOSTON MA 
+$54.00 
+own 
+06/27 
+USPS PO 2400820414 BOSTON MA 
+$3.49 
+0626 
+06/27 
+AMZN Mktp US*MH9OXIZW1 Anun.com/bill WA 
+$84.99 
+06/27 
+06/27 
+THE UPS STORE 5768 
+617-573.0005 MA 
+$5.31 
+06/28 
+0628 
+LA BAGUETTE MARCHE EXPRES BOSTON MA 
+$3.20 
+06/28 
+06728 
+NEWSUNK 27 BOS E BOSTON MA 
+$38.04 
+06/28 
+06728 
+TSr TATTE BAKERY CHARLES BOSTON MA 
+$33.44 
+06/28 
+06128 
+BED BATH & BEYOND #151 KANSAS CITY MO 
+$10.85 
+06/28 
+06128 
+AMZN MIclp US*MH6EA1JS1 funzn.comfoill WA 
+$40.42 
+06/28 
+06/28 
+CHINATOWN FOOD MARKET KANSAS CITY MO 
+$28.69 
+06/29 
+06129 
+C AND R SUPERMARKETS SLAT MACON MO 
+$114.44 
+07/03 
+7/03 
+PARISI CAFE KANSAS CITY MO 
+$3.63 
+07/04 
+7/04 
+CROSBY'S MARKETPLAC MANCHESTER MA 
+$284.72 
+07/06 
+7/06 
+MANCHESTER ACE HDWE MANCHESTER MA 
+$97.51 
+07/08 
+7/08 
+SO 'CLOVER FOOD LAB BOSTON MA 
+$13.25 
+07/08 
+7/08 
+SO 'CLOVER FOOD LAB Boston MA 
+$3.27 
+07/09 
+7/09 
+Amazon Prime AranconVbil WA 
+$12.99 
+07/10 
+7/10 
+BEAUGE TAILORS BOSTON MA 
+$60.00 
+07/10 
+7/10 
+PRET A MANGER 068 BOSTON MA 
+$29.65 
+07/10 
+7/10 
+CHARLES STREET SUPPLY BOSTON MA 
+$21.21 
+07/11 
+7111 
+AMZN Mktp US*MH7R86HP2 Amzn.comthill WA 
+$200.28 
+07/11 
+7111 
+AMZN Mktp US*MH6CT66L1 Amzn.conVhill WA 
+$6.00 
+07/12 
+7/12 
+AMZN Mktp US*MH6GKOG80 Anuncornibill WA 
+$13.95 
+07/12 
+7/12 
+AMZN Mktp US*MH5B7_8D81 Amzn.conVhill WA 
+$47.95 
+07/15 
+7/15 
+AMZN Mktp US*MHOXP32X2 Amzn.conVhill WA 
+$7.20 
+07/15 
+7/15 
+AMZN Mktp US*MHO3F6SL2 Amzn.comthill WA 
+$3.39 
+07/15 
+7/15 
+AMZN Mktp US*MI44nAISFO Amzn.conVhill WA 
+$41.00 
+07/15 
+7/15 
+AMZN Mktp US'MH2ZTOSO2 Amzn.comthill WA 
+$3.15 
+07/25 
+7/25 
+AMZN Mktp US*MH1X04R90 Amzn.com/bill WA 
+$66.96 
+07/25 
+7/25 
+Amazon.com*MAOIP4311 Arnzn.cornthdi WA 
+$25.37 
+Total Transactions For GHISLAINE BORGERSON 
+$1,358.35 
+Fees 
+Trans Date Post Date 
+Description 
+Amount 
+Total Fees For Thls Period 
+S0.00 
+Interest Charged 
+Trans Date Post Date 
+Reference Number 
+Description 
+Amount 
+07 26 
+0 26 
+Interest Charge on Purchases 
+90.00 
+0726 
+0 26 
+Interest Charge on Cash Advances 
+90.00 
+0726 
+0/26 
+Interest Charge on Balance Transfers 
+90.00 
+Total Interest For This Period 
+S0.00 
+2019 Totals Year-to-Date 
+Total fees charged in 2019 
+$0.00 
+Total interest charged in 2019 
+$0.00 
+Interest Charge Calculation 
+Your Annual Percentage Rate (APR) is the annual interest rate on your account. 
+Type of Balance 
+Annual Percentage 
+Rate (APR) 
+Balance Subject to 
+Interest Rate • 
+Interest Charge 
+Regular Purchases (v) 
+13.15% 
+$0.00 
+Interest Charge Calculation 
+$0.00 
+continues on next page. 
+001813821 
+5,50 
+M$R 
+1 
+7 18 190726 0 
+SDNY_GNI_C0010248 
+PAGE 3 of 6 
+10 3309 )000 8064 01/95550 
+EFTA 00120902 
+EFTA01266581

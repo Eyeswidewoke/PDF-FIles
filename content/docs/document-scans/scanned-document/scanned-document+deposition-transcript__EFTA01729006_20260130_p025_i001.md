@@ -1,0 +1,318 @@
+---
+source_image: "scanned-document+deposition-transcript__EFTA01729006_20260130_p025_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 595
+confidence: 1.00
+extracted: 2026-02-13T17:19:26.111757
+---
+
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+Z 
+00'0 
+00'0 
+T 
+00.0 
+00'0 
+I 
+00'0 
+00'0 
+2 
+oomo 
+oomo 
+t 
+00'0 
+00'0 
+1 
+00'0 
+00'0 
+6 
+00'0 
+00'0 
+1 
+00'0 
+00'0 
+1 
+00'0 
+00'0 
+1 
+00'0 
+00'0 
+T 
+00'0 
+00'0 
+S 
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+t 
+00'0 
+00'0 
+1 
+00'0 
+00'0 
+I 
+00'0 
+00'0 
+1 
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+T 
+00'0 
+00'0 
+1 
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+i 
+00'0 
+00'0 
+S 
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+T 
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+I 
+00'0 
+00'0 
+T 
+oomo 
+oo'o 
+t 
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+t 
+00'0 
+00'0 
+2 
+00'0 
+00'0 
+LT 
+00.0 
+00.0 
+I 
+00'0 
+00'0 
+t 
+00'0 
+00'0 
+T 
+00'0 
+00'0 
+S 
+00'0 
+00'0 
+C 
+00'0 
+00'0 
+1 
+00'0 
+00'0 
+t 
+00.0 
+00'0 
+I 
+00'0 
+00'0 
+T 
+oomo 
+oomo 
+z 
+00'0 
+00'0 
+E 
+00'0 
+00'0 
+C 
+00.0 
+00.0 
+C 
+00'0 
+00'0 
+I 
+00'0 
+00'0 
+T 
+00'0 
+00'0 
+T 
+oomo 
+00'0 
+T 
+00'0 
+00'0 
+I 
+00'0 
+00'0 
+T 
+00'0 
+00'0 
+I 
+00'0 
+00'0 
+2 
+d 
+Id Wlid M 
+d 
+141 KW A 
+d 
+ID 11403A1 
+d 
+Id WM M 
+d 
+IA WM A 
+d 
+13 zwoamt 
+d 
+Id VIVA M 
+d 
+'ID tWOOHI 
+H M 13 11403H2 
+N M IA KIVA M 
+N M Id IKIVd A 
+N X IA /MEd A 
+N M la KIVA A 
+N M 74 KIVA M 
+N M IA HTid A 
+N M IA HOLM'S 
+N H 73 INOON' 
+N )1 Id KIVA M 
+N M 13 BODONI 
+N M ID IWOONI 
+H M 13 IWODNI 
+II M Id MA 
+21 A 73 SWOONS 
+N M '13 It50014I 
+N A IA KOLAOS 
+M A IA KIVA 
+K M Id KIVA 
+K A Id KIVA 
+K H II KIVA 
+K M 7A Irma 
+K M IA WPM 
+N MIA KIVA 
+K M IS WINN 
+if H IA KIVA 
+N M IA WM 
+K M ID 'NOON' 
+N H IA WINN 
+M M la KIVA 
+N H Id KIVA 
+N t1 lb SDI 
+N M Id HINM 
+N K IA NOSE 
+a a IA KIVA 
+N K IA frau 
+N M IA KIVA 
+N M /3 IWOONI 
+A M 13 IHODN 
+HAWK:VA 
+a M 13 331 
+H M Id KIVA 
+U M IA 'ma 
+U M IA WIld 
+U M IA KM 
+U M 7d KIVA 
+H'M IA HIVd 
+N M Id KIVA 
+TO/OS '1110 
+owTS TT90 a a 
+PM:* 
+6:1°1 
+NTH 
+JO ' 
+AlT0 
+Rofitiel 
+SSONVH3 
+:soxpRow T1101 
+:208A S/Tvoti 
+:ioqomm e/THOW 
+tampion auTtOny 
+OUTTITH 
+a6£d 
+KA62:10 St/20 SIL 
+NA62:t0 9T/20 SIZ 
+WAST:20 9T/20 ITZ 
+KASO:I0 9t/20 CIL 
+HVLI:IT 9T/20 LIZ 
+HVLI:60 9T/20 Itt 
+WISZ:60 9T/20 Ott 
+NY/0:60 9T/20 602 
+Nd9E,TI ST/20 SOZ 
+WITC:IT SI/20 402 
+Md6Z:TT ST/20 902 
+MASZ:TI ST/20 SOZ 
+AdOt:IT ST/20 102 
+WASTITT SL/20 COL 
+Ad20:12 ST/20 202 
+HA00:TT ST/20 TOZ 
+WdOS:OT ST/20 002 
+16106:0I ST/20 66T 
+WASE:OT SL/L0 161 
+WASE:OT ST/20 LSI 
+WALZ'Ot ST/20 961 
+WA02:0T ST/20 56T 
+WASC:60 ST/20 16T 
+PKIE'60 ST/20 t61 
+Wd6T:LO ST/20 261 
+Wd00:LO ST/20 LSI 
+WASS:90 ST/20 06T 
+WALS:90 ST/20 6St 
+A495,90 ST/20 SST 
+HASS:90 ST/20 LSI 
+HdTS:90 ST/20 90T 
+WALW:90 ST/20 SST 
+HATI:90 ST/20 IST 
+HALE:90 ST/20 cat 
+AdOT:90 ST/LO LOT 
+W492:50 ST/LO 1ST 
+HATZ:SO ST/20 OST 
+HaSt:SO ST/20 GCE 
+Wd10:50 ST/20 IILT 
+HATO:SO ST/20 1.4I 
+Wd00:50 ST/20 921 
+WV00:CO ST/20 SCE 
+WV6S:20 ST/20 ILL 
+WYST:20 ST/20 ELI 
+WYTE:I0 ST/20 ELI 
+WASO:TT IT/20 lit 
+WASS:OT II/20 OLT 
+WAW60 IT/20 691 
+NdOI:60 IT/20 091 
+1466t'60 IT/20 LSI 
+WALS:20 IT/20 991 
+WOLV:E0 IT/20 S9T 
+Wd9t:CO II/20 IST 
+W6SI'CO PI/20 C9T 
+WdSt:CO II/20 291 
+WALI:20 IT/20 T9I 
+POTIvD '011 ID 
+Itti1d 
+*Teo Ku 
+SKOKKHO SONVISIG ON01 ONV 
+' 
+EFTA01729030

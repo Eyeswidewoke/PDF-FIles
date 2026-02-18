@@ -1,0 +1,342 @@
+---
+source_image: "bank-statement+deposition-transcript__EFTA01266601_20260130_p082_i001.png"
+source_pdf: "EFTA01266601.pdf"
+method: pdf_text
+words: 819
+confidence: 1.00
+extracted: 2026-02-13T16:08:07.190809
+---
+
+Payment Conditions. Payments must be made in U.S. dollars and drawn on funds on deposit at financial institutions insured by the F.D.I.C. Do not mall 
+cash. Payments received by us by 5 pm central time will be credited as of the same day if the payment is in U.S. dollars and made: 
+. 
+By check or money order drawn on a financial institution located in the U.S. Of the post office. accompanied only with this payment coupon or your 
+account number. and either mailed to our payment address on the front or delivered in person to us (do not mall cash): 
+Electronically on usaa.com or through a thici•party bill paying service: or 
+. 
+Telephonically by calling 1.800.531.9762. 
+Payments that we accept that do not meet the above requirements will be credited within 5 days. We reserve the right to withhold credit availability until 
+we confirm receipt of good funds. 
+Account Settlements. You cannot settle your account balance without our written agreement. If you want to settle your account for less than the New 
+Balance (for example if you dispute the amount you owe or you cannot afford to pay what you owe). you must write to us at USAA Credit Card Resolution 
+Services. P.O. Box 34894. San Antonio. TX 78265 and we must agree in writing. Otherwise. we may process your payment and it will not release you from 
+paying the remaining unpad balance or result in an accord and satisfaction. 
+Transactions 
+Payments and Credits 
+Trans Date Post Date 
+Reference Number 
+06:30 
+05/30 
+742708214800XV3Z2F 
+Transactions 
+SCOTT G BORGERSON-
+Trans Date 
+0527 
+05/28 
+05/27 
+05/27 
+05/27 
+05/28 
+05/29 
+05/30 
+05/30 
+05/30 
+05/30 
+oseol 
+06/02 
+06/02 
+06/02 
+06/02 
+06/04 
+oats 
+oats 
+oats 
+06/07 
+06/07 
+06/07 
+06/07 
+06/09 
+06/09 
+oedio 
+oedio 
+oedio 
+06/12 
+06/12 
+(Deem 
+(Deem 
+(Deem 
+(Deem 
+owls 
+owls 
+owls 
+owls 
+owls 
+owls 
+06/18 
+06/19 
+06/19 
+06/20 
+06/21 
+06/21 
+06/22 
+06/22 
+06/23 
+0624 
+Post Date 
+05/28 
+05/28 
+05/28 
+05/28 
+05/28 
+05/28 
+05/29 
+05/30 
+05/30 
+05/30 
+05/30 
+06101 
+06102 
+06102 
+06102 
+06102 
+06104 
+06105 
+06105 
+06105 
+06107 
+06107 
+06107 
+06107 
+06109 
+06109 
+06110 
+06110 
+06110 
+06112 
+06112 
+06114 
+06114 
+06114 
+06114 
+06115 
+06115 
+06116 
+06116 
+06116 
+06118 
+06118 
+06/19 
+06/19 
+06120 
+06121 
+06121 
+06122 
+06122 
+0623 
+0624 
+Reference Number 
+2413746H600X4JVOA 
+2413746H700Z7WEZE 
+2442733H4LYR49BOW 
+2443106H5BLIUKB21 
+2490641H42REUFROX 
+2490641H52RDMJZXS 
+2416407H7EY1SJX78 
+2400341H8SS6J8RVG 
+2405083H80046H2MJ 
+2413746H800W9MXEM 
+2443106H72DPVG5J0 
+2426979HAOOLX070E 
+2413746HAO0VPM1R0 
+2420429H90346KB6J 
+2449215HALSOXHDPK 
+2449215HAMNBOSERS 
+2470780H00154LEAD 
+2407105HEVAKTPYV1 
+2469216HD2XPOR3XB 
+2469216HD2XPOR6TO 
+2442806HF8PX8RYG3 
+2444500HGEHWYK17P 
+7465736HG03234B4H 
+2469216HG2XNH8YKO 
+2413746HHOOWK7KMD 
+2413746HJO0X9PK02 
+2413746HJ00X9PK2M 
+2449215HJJHVH5AD8 
+2480197HK606VA3XY 
+2469216HM2X4SZ3RD 
+2469216HM2X4SZ7WM 
+2476517HPOGT2151A 
+2442806HN8PWKMEES 
+2449215HNJJ5POYRW 
+2449398HPP8HAGWVR 
+2413746HROOWN4NT8 
+2449215HPMN2KP8FB 
+2444500HTBLLGJDRK 
+2480197HT606S)COP 
+2490641 HR2TKP1LPS 
+2420429HSO2L9YO4H 
+2461043HSO3PXPZMW 
+2490641HV2TS9KLWO 
+2490641HV2TTV6S.IS 
+2476579HX0WOOPWX2 
+2413746HXEJ7NFO9G 
+2423168HYRBGHTM8K 
+2480197HZ606VG78T 
+2491016HZ0B205WOP 
+2469216HZ2X6A99NN 
+2429910J102VBVZ55 
+Transactions 
+GHISLAINE BORGERSON - 
+Trans Date Post Date 
+Reference Number 
+06,18 
+0616 
+2469216HT2XFM9F54 
+Transactions 
+NOAH C BORGERSON - 
+Trans Date Post Date 
+Reference Number 
+0828 
+O+28 
+2416407H50K8ET05X
+Description 
+Amount 
+USAA CREDIT CARD PAYMENT SAN ANTONIO TX 
+$3,842.10-
+Total Payments And Credits For This Period 
+$3,842.10-
+Description 
+TRACTOR SUPPLY CO 45509 615-440-4600 TN 
+TRACTOR SUPPLY CO 45509 615.440.4600 TN 
+CROSBY'S MARKETPLAC MANCHESTER MA 
+MANCHESTER ACE HOWE MANCHESTER MA 
+)(toile *Robiox lusolla.com CA 
+ROBLOX ' 1.855.333.4734 855.3334734 CA 
+ALLEN S PHARMA08711459 MANCHESTER MA 
+ARMY BARRACKS - SALEM, MA SALEM MA 
+XSOLLA *ROBLOX H.XSOLLA.COM CA 
+CVS/PHARMACY 400261 SALEM MA 
+FTD.COM 
+800.736-3383 IL 
+SAM LAGRACRsq BOSTON MA 
+Tsr TATTE BAKERY -BACK BOSTON MA 
+LOccitane Inc. 
+188436232880 NY 
+BT LIFE ALIVE BF6YWJW 868.987.7537 PA 
+GRUBHUBITADAKI GRUBHUB.COM NY 
+1.800 BUSY DOG BROCKTON MA 
+COMPASSION VETERINARY BRADFORD NH 
+COMMON MAN NO. IRVING HOOKSETT NH 
+COMMON MAN NO. IRVING HOOKSETT NH 
+COMMON MAN HOOKSETT- SOU HOOKSETT NH 
+FIVE GUYS MA 1539 OSR BOSTON MA 
+MOJANG STOCKHOLM SE 
+COMMON MAN SO. IRVING HOOKSETT NH 
+TSr TATTE BAKERY- BACK BOSTON MA 
+USPS PO 2400740115 BOSTON MA 
+TSr TATTE BAKERY- BACK BOSTON MA 
+SP ' BLACKRIFLECOFFEE TWISTRATEMARK UT 
+BY CHLOE BACK BAY BOSTON MA 
+COMMON MAN NO. IRVING HOOKSETT NH 
+COMMON MAN NO. IRVING HOOKSETT NH 
+CALKS RESTAURANT 130 MANCHESTER BY MA 
+COMMON MAN HOOKSETT- SOU HOOKSETT NH 
+SP ' BLACKRIFLECOFFEE TWISTRATEMARK UT 
+Ansrans PAYMENT WWW.ATT.COM TX 
+USPS PO 2400740115 BOSTON MA 
+MPIX 
+620.231.8050 KS 
+WM SUPERCENTER 43114 SAUGUS MA 
+BY CHLOE BACK BAY BOSTON MA 
+Xsolla *Robiox h.xsolla.com CA 
+LOccitane Inc. 
+186.86232880 NY 
+SNOW.COMNAIL RESORTS SKI888-838-0495 CO 
+ROBLOX • 1.855333.4734 855-3334734 CA 
+ROBLOX • 1.855333.4734 855-3334734 CA 
+MANCHESTER MARINE CORPORA978-526.7911 MA 
+TSr BRAVO BY THE SEA MANCHESTER MA 
+GULF OIL 92038966 MANCHESTER MA 
+BY CHLOE BACK BAY BOSTON MA 
+SERAFINA NEWBURY BOSTON MA 
+IN 'ALARMEX INC. 
+978-8872999 MA 
+MANCHESTER GAS MANCHESTER MA 
+Total Transactions For SCOTT G BORGERSON 
+Description 
+A.Abletly1S3S17T01 Amerrconbill NJ 
+Total Transactions For GHISLAINE BORGERSON 
+Description 
+MARKET BASKET 00000232 DANVERS MA 
+Amount 
+$119.99 
+$139.99 
+$50.31 
+$83.47 
+$10.62 
+$9.99 
+$16.97 
+$8.07 
+$10.62 
+$7.47 
+$66.35 
+$13.64 
+$19.79 
+$103.06 
+$8.83 
+$81.31 
+$265.00 
+$929.74 
+$25.33 
+$25.96 
+$2.25 
+$18.30 
+$26.95 
+$8.76 
+$15.52 
+$1.40 
+$14.46 
+$55.09 
+$16.00 
+$2.99 
+$29.48 
+$67.20 
+$6.06 
+$125.91 
+$198.00 
+$14.90 
+$34.50 
+$33.84 
+$12.79 
+$5.31 
+$215.69 
+$1,499.55 
+$19.99 
+$19.99 
+$426.70 
+$33.17 
+$12.99 
+$13.86 
+$112.02 
+$120.00 
+$41.55 
+$5,201.73 
+Amount 
+$14.95 
+$14.95 
+Amount 
+$150.12 
+5550 
+NIB 
+1 
+7 
+le 
+200434 0 
+PAIN 2 of 4 
+1 0 3301P 
+3000 
+8114 01 
+SONY_GM_00010349 
+EFTA_00121003 
+EFTA01266682

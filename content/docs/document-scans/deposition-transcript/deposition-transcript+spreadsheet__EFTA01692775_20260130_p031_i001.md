@@ -1,0 +1,505 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p031_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 790
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.921257
+---
+
+.);:cingular 
+.
+wirek„ 
+Accout Nunbe( 
+ACCOM11 MM. 
+Dab of Invoke—I 
+February 12.2005 
+Page 11 of 18 
+DETAIL OF CURRENT ACTIVITY - coraiNuEo 
+VO:CL USAGE FOR 
+Matar 
+— 
+DS Tim CMS 
+400 OM) 01NRA 
+401 01Q) 11410A 
+4431 010) 12:ZIP 
+409 01421 11:TIP 
+410 01127 1NMP 
+14:11 801
+.3
+07 g1,
+12:4
+z 7P 
+414 002701/MP 
+49 01/21 OltS1P 
+413 0101 MM. 
+417 0107 OREOP 
+411 010/ leel 
+33 gW  01I1FA 
+411 0101 1021A 
+422 0111•0.310 
+111 8i 
+Sti;
+I 
+4:I 1:3
+, 
+1A 
+IA 
+1
+41gg
+.4 j1 P
+121 
+1 Z400 
+* 
+tM 
+4M 0109 CM 110 
+247,7 sir% aotri 
+44 
+MN 0
+81 
+''''' r 
+01 
+INMA 
+443 01/NO IlltA 
+4M0142[02:13* 
+445 0112$ IONDA 
+4M 0129 12140 
+Ifi gM MN; 
+15081g 1M° 
+Ill 01114 0411P 
+412 0109 04:440 
+111 8181gtil2F: 
+413 01129004CP 
+:II N? 269; 
+4 
+t 9 014420 
+419 012304.41P 
+MO 0100 ORRIP 
+4.1 0120 01411! 
+ME 01000a5rP 
+433 0109 OMAR 
+Continued 
+omy 
+Chair 
+Cam To 
+Mimi Rats OmerMdm 
+PIC 
+ACM FL 
+INN 
+Isla IJOrd) M9t 
+ACM Fl 
+WM 
+IMMUSIEP 
+$ 
+MIN 
+INCEWEDMHuT S 
+INCOØ 
+MN 
+INCLUDED ~TES 
+MN 
+INC11...20 ~INS 
+NMI Fl 
+MN 
+1/10.1.24.17 LOM
+S• 
+WIN 
+010.14,10 MINUTE% 
+ACI4PL 
+PM 
+04:04107M TO 11004 
+WRIMMEACHM 
+ifIqUIV2114"
+INDYNTOPECN FL 
+BOYNTIMOCH FL 
+MCOMING 
+INCOMING 
+SPIIS=4.041
+,1 
+INCOMNO 
+INCOMIO 
+W=4C14 
+FL 
+OWN701411CH Ft 
+CMBGNfI 
+KK) 
+MAI 
+AM FL 
+MII
+I/CMITON 
+FL 
+i/a=3 
+L=1 
+v iTtlffa 
+WPAWNACNFI
+=RACK FL 
+W ALM 
+MIS 
+UMW MOM r 
+MLA 
+UNS0411001.701106t 
+MN 
+UNMATED AMMO MS 
+MX 
+MUMTED NAVE» MI 
+MA 
+MUMT- D WIMPS> NM 
+VON 
+UMW 
+Et TO MORE 
+" 
+*114422 Weir 
+MM 
+INCEUCCO MNUEIS 
+MN 
+144ILMCS 
+NM 
+MNUTES 
+MN 
+lai 
+121, 
+u 
+..4%4R1 
+IMF 
+VI 
+ 
+~WO 
+21/111 
+INCEIMI 
+MINAITC4 
+IMF 
+M0.0 
+1/111/RE 
+I MN 
+NOW 
+11140TES 
+RVT 
+CAM WM I NO 
+I Mk 
+IMUNITØØ14111110 VIII 
+I MN 
+‘NUNITE0 11011040 VIN 
+24/IN 
+101.11/1/C0 NARA NM 
+1 
+MN 
+IMMATCD «AM 
+MN 
+MN 
+IXII, 
+0 NARA MN 
+1111I 
+1440/49Q N0011 MN 
+MN 
+UMW 0 NIMAN MN 
+MIVT 
+Li ria
+r..,2.1"*
+Rje
+t
+IAlN
+MN 
+IMINATED INEVAND NM 
+EVT 
+NIN 
+M1.14
+sWa 
+4/1
+tt40104
+L 
+MA 
+MGM I I MIMING MN 
+I. 
+MN 
+IMUMT 
+WÅNNE MN 
+1 
+A 
+mime 
+Nnvos Am 
+NFL 
+MN 
+IINUMT A HAWN MN 
+14141 
+MUM/0MA~ 
+MN 
+2
+M/N 
+i:UNsr
+UINTEDrtr
+NIMM
+E O4A
+M m
+14 
+=11 
+1.01 
+UNUMTED MM,NO IAN 
+UN 
+b MNA 
+mu 
+WPALMICACKFt 
+IM 
+UNUIREDMW114:04111 
+Wr 
+%WA a§
+R  
+R 
+66
+434V 4 
+VI 
+VIOOMIR 
+INCOM.10 
+INCOARG 
+WPALAIBEACI4 FL 
+1.1.
+t4=o
+Rk.Z.(tew 
+MN 
+SNOWED MAIN AIN 
+1.01 
+UMIIIITEID /4/M243 MN 
+MN 
+SNOW 
+~ND 
+MIN 
+[ 
+11111 
+4 /GMT 
+1100/40, VIII 
+MI 
+UMW 
+IGN/IN VIII 
+MI 
+1.411011 
+WAN WI 
+MX 
+UNUMCO AMIN MN 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+YoliCE US."GE FOR 
+ØVIVINIt 
+Clwrg• 
+be Data Tegn 
+444 0700 °IMO 
+44S 11102 01/330 
+444 010.00010 
+447 010$ MOM 
+4n1 Mtn 040/0 
+010 
+N
+CIMOMM 
+tr? 
+= 
+412 
+OROS 
+03 01/21 
+474 0120 MI 
+:1;7471 iloo° 11reimit% 
+ma, soigi 
+114 010:1 
+443  
+23 CI 1/ 
+. 
+ON 
+4:40 GIGO 
+..n.%),- 
+412 01,0 
+MI 01,0 
+NM 01,0 i1L 
+‘. 
+iM
+‘X
+• 
+417 OVJO 
+T 
+49S EVE0 03 
+410 010004:1 
+MO OGEE Gi I 
+: 
+I3 Mt: 
+no OM OSM 
+50,
+504 on0
+01/10°,06,411 
+pp 
+t, EPJL.g' 
+, 
+Cortmucd 
+0MY 
+Chars» 
+Call* To 
+Mod RS INIMIMMA 
+IMMAIMAENII 
+MN 
+UNMITEONAWNO MN 
+WPM ~min
+ 
+MI 
+outran° ~Km) /An 
+EVT 
+MR 
+104 
+1M 
+INN 
+um a 
+MN 
+115 
+31411I 
+11IM 
+LMN 
+NM 
+INN 
+111*. 
+MN 
+INC 
+mmilin. 
+MN 
+S 
+I 
+WARS 
+H.4 
+I 
+tilk E 
+WPM. 
+Nil 
+MYKTOMMIS FL 
+MP 
+WPALMMACHR 
+MN 
+EVT 
+WPALIIERACIIR 
+MN 
+Nr 
+N ACIM 
+eAti 
+1 Mis 
+S 
+03.141014Cliiit 
+MA 
+1140d4=MNIt /a
+VIP 
+ACHFL 
+l 
+231 
+Ft 
+3"
+WM...am 
+rg 
+it: 
+wrx  rim
+ 
+IAN 
+0403M 
+IM 
+WPM 
+MGM 
+LIN 
+EVT 
+YVV
+V;g
+Pffi
+ll  an  IN 
+ACM FL 
+IIIII 
+IMF 
+ACNIM 
+MN 
+Y. 
+FM: 
+',As 
+w
+r 
+i wi, 
+w 
+~Mt 
+Is« 
+ft  
+11: 
+juilff."474 
+MN
+4 
+n 
+NAVIN 14N 
+UNMITEMPN4 
+/AN 
+un RATED NAVE 
+IAN 
+FINTE
+LP 
+VNUARESNAVAND NN 
+1/4144TEDIVNA:41/0 
+MIL /MTtl) /4/MAN MN 
+INIUMILUIUMA 
+IAN 
+UNGVIT DIEMEN° MN 
+am" 
+:AUNT QI WANING ION 
+GM 
+DIGNAND MN 
+LIRDT 0 NAVANO WIN 
+"WM CO NIN« MN 
+I 
+i
+MUINTED WREN INK 
+WRØVITIG WARN MN 
+1.1•IMAREWANN MN 
+LW MITI G IGNEN IAN 
+"MUD 
+NIMRD1101 
+W-11111' 0 W 
+I>la
+inN
+N 
+*t"
+in's sift s
+AVETPAH
+MECS 4
+T 
+WAN MIN 
+MAMA CO MAIM) MIN 
+U44 RATE D 114441(14D UM 
+NMSAGE RE- 0MM 
+UN-IvilE0 MMINDIAN 
+ONT
+4911
+Nrhy2 Aza
+MUM ft 
+WAN IAN 
+/114.44 
+N 
+Wm 
+UN.M 
+0 NM404D MN 
+laril 
+8 V748FZI 
+UNS/1110 IIIIMO LON 
+1.11i..„4.{
+.74Til kw/A(
+14~1
+1i 
+U/MATEM4041M IAN 
+»MAWR MIRE AS 
+MN 111011 Bit,
+ INN 
+1/14 .MTEP NWM MN 
+MIMATCOMAMID MN 
+1/421411110 'MUTES 
+UMW 1.1061 TO MODE 
+MaLtArS1T1I1
+Alfi t 
+txc
+E
+ui
+l
+iatti
+gr
+ijin 
+04C110 
+MIMI 
+MCW 
+wdgi 
+w4ut 
+11MAI 
+Will 
+MUM 
+AMMO MN 
+UMMIOAUARMOMN 
+EFTA01692805

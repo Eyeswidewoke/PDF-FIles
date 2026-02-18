@@ -1,0 +1,388 @@
+---
+source_image: "contact-list+bank-statement+deposition-transcript+scanned-document__EFTA01426691_20260130_p003_i001.png"
+source_pdf: "EFTA01426691.pdf"
+method: pdf_text
+words: 823
+confidence: 1.00
+extracted: 2026-02-13T16:04:17.935201
+---
+
+06/20/2016 
+s Inc. Equity 
+78 
+266800 
+06/20/2016 
+s Inc. Equity 
+O 
+0 
+06/20/2016 
+s Inc. Equity 
+O 
+N/A 
+06/20/2016 
+N4G023804 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+DB Securitie 
+s Inc. Equity Preferred Stock 361860208 
+GMAC CAP TR I GTD TR PFD SECS SER 2 CPN- 8.125$ FREQ 
+QRTLY MATY-02/15/2040 CALL ANYTIME @25 W/30 DAYS BEGINS 02/15/16 
+2/15/2040 
+Anytime 8000 
+O 
+1882773.60 
+1992000 0 
+1992000 24.90 
+06/20/2016 
+N4G023804 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+DB Securitie 
+s Inc. Equity Preferred Stock 780097713 
+ROYAL BK SCOTLAND GP PLC SPON ADR REPSTG SER T PFD C 
+PN-7.25% FREQ QRTLY PERP MTY CALL@25 ANY W/30 D NOTICE AFTR 12/31/12 
+Perpetual 
+Anytime 1200 
+00 
+2924400 3045600 0 
+3045600 25.38 
+06/20/2016 
+N4G023804 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+DB Securitie 
+s Inc. Equity Small Cap 
+57665R106 
+MATCH GROUP INC COM 
+N/A 
+N/A 
+200 
+2400 
+2954 
+0 
+2954 
+14.77 
+06/20/2016 
+s Inc. Equity 
+N/A 
+10000 
+06/20/2016 
+s Inc. Equity 
+5931.84 1176 
+06/20/2016 
+s Inc. Equity 
+O 
+422214 
+06/20/2016 
+s Inc. Equity 
+N4G023804 
+Large Cap 
+0 
+266800 
+N4G023804 
+Large Cap 
+24510 
+16.34 
+N4G023804 
+Other Equity 
+N/A 
+2000 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+25470M109 
+DISH NETWORK CORP CL A N/A 
+N/A 
+53.36 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+90184L102 
+TWITTER INC COM N/A 
+N/A 
+1500 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+37954X204 
+GLOBAL PARTNER ACQUISITION CORP UNIT 
+20000 
+18720 
+0 
+18720 
+9.36 
+DB Securitie 
+5000 
+3649 
+DB Securitie 
+39000 
+2451 
+DB Securitie 
+1 COM & 1 WT EX 
+N4G023804 
+Small Cap 
+0 
+33400 
+N4G023804 
+Small Cap 
+0 
+1176 
+N4G023804 
+Small Cap 
+286000 0 
+N4G023804 
+Small Cap 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+DB Securitie 
+00773U108 
+ADVERUM BIOTECHNOLOGIES INC COM - Margin 
+N/A 
+0 
+33400 
+3.34 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+DB Securitie 
+88104M101 
+TERRAFORM GLOBAL INC CL A 
+N/A 
+N/A 
+400 
+2.94 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+DB Securitie 
+800677106 
+SANGAMO BIOSCIENCES INC COM 
+N/A 
+N/A 
+5000 
+286000 5.72 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+DB Securitie 
+350465100 
+FOUNDATION MEDICINE INC COM 
+N/A 
+N/A 
+4983 
+O 
+1265036.52 
+982149.30 
+0 
+982149.30 
+19.71 
+06/20/2016 
+N4G023804 
+SOUTHERN FINANCIAL LLC DBAB - Brokerage Account 
+DB Securitie 
+s Inc. Alternative Investments Limited Partnerships 
+037612306 
+APOLLO GLOBAL MGMT LLC CL A 
+SHS 
+N/A 
+N/A 
+263157 4999983 4049986.23 
+0 
+4049986.23 
+15.39 
+Southern Trust Company, Inc 
+N4G023812 
+Brokerage 
+8178276 
+Value Date 
+Account Number Account Name 
+Product Category 
+Legal Entity 
+Asset Class 
+1 
+Asset Class 2 
+Security Identifier 
+Security Description 
+Maturity 
+Call 
+Unit 
+s 
+Total Cost 
+Market Value 
+Accrued Income Total Value 
+Price 
+06/20/2016 
+N4G023812 
+SOUTHERN TRUST COMPANY INC 
+DBAB - Brokerage Account 
+DB S 
+ecurities Inc. Cash Equivalents 
+Cash 
+GBP999997 
+BRITISH POUND STERLING N/A 
+N/A 
+313200 482299.38 
+460184.76 
+0 
+460184.76 
+1.47 
+06/20/2016 
+N4G023812 
+SOUTHERN TRUST COMPANY INC 
+DBAB - Brokerage Account 
+DB S 
+ecurities Inc. Cash Equivalents 
+Money Market 
+147539670 
+SCUDDERFUNDDWGI N/A 
+N/A 
+4907322.65 
+4907322.65 
+4907322.65 
+780.27 4908102.92 
+1 
+06/20/2016 
+N4G023812 
+SOUTHERN TRUST COMPANY INC 
+DBAB - Brokerage Account 
+DB S 
+ecurities Inc. Fixed Income 
+Corporate 
+G63980UK3 
+NATIONWIDE BUILDING SOCIETY EURO ISS 
+UE CONV GBP ISINIXS1043181269 6.875% 09/20/88 REG DTD 03/11/14 CLB 
+9/20/2088 
+6/20/2019 
+2000000 3412512 2810770.90 
+0 
+2810770.90 
+140.54 
+J Epstein Virgin Islands 
+N4G024950 
+Brokerage 
+1413044 
+Value Date 
+Account Number Account Name 
+Product Category 
+Legal Entity 
+Asset Class 
+1 
+Asset Class 2 
+Security Identifier 
+Security Description 
+Maturity 
+Call 
+Unit 
+s 
+Total Cost 
+Market Value 
+Accrued Income Total Value 
+Price 
+06/20/2016 
+N4G024950 
+J EPSTEIN VIRGIN ISLANDS FOUNDATION INC DBAB - Brokerage Account 
+DB Securities Inc. 
+Cash Equivalents 
+Cash 
+USD999997 
+U.S.DOLLARS CURRENCY 
+N/A 
+N/A 
+0 
+0 
+0 
+0 
+0 
+1 
+06/20/2016 
+N4G024950 
+J EPSTEIN VIRGIN ISLANDS FOUNDATION INC DBAB - Brokerage Account 
+DB Securities Inc. 
+Cash Equivalents 
+Money Market 
+147539670 
+SCUDDERFUNDDWGI N/A 
+N/A 
+102066.12 
+102066.12 
+102066.12 
+16.18 
+102082.30 
+1 
+06/20/2016 
+N4G024950 
+J EPSTEIN VIRGIN ISLANDS FOUNDATION INC DBAB - Brokerage Account 
+DB Securities Inc. 
+Equity Large Cap 
+110122108 
+BRISTOL MYERS SQUIBB CO COM 
+N/A 
+N/A 
+5000 
+334712 354800 0 
+354800 70.96 
+06/20/2016 
+N4G024950 
+J EPSTEIN VIRGIN ISLANDS FOUNDATION INC DBAB - Brokerage Account 
+DB Securities Inc. 
+Equity Large Cap 
+717081103 
+PFIZER INC COM N/A 
+N/A 
+1000 
+O 
+345304.10 
+345000 0 
+345000 34.50 
+06/20/2016 
+N4G024950 
+J EPSTEIN VIRGIN ISLANDS FOUNDATION INC DBAB - Brokerage Account 
+DB Securities Inc. 
+Equity Large Cap 
+254687106 
+DISNEY WALT CO DISNEY COM 
+N/A 
+N/A 
+5000 
+570072.60 
+497850 0 
+497850 99.57 
+06/20/2016 
+N4G024950 
+J EPSTEIN VIRGIN ISLANDS FOUNDATION INC DBAB - Brokerage Account 
+DB Securities Inc. 
+Equity Large Cap 
+88032Q109 
+TENCENT HLDGS LTD ADR ISINIUS88032Q1 
+094 
+N/A 
+N/A 
+400 
+7607 
+8798.40 0 
+8798.40 22 
+06/20/2016 
+N4G024950 
+J EPSTEIN VIRGIN ISLANDS FOUNDATION INC DBAB - Brokerage Account 
+DB Securities Inc. 
+Equity Large Cap 
+097023105 
+BOEING CO COM 
+N/A 
+N/A 
+500 
+74063.75 
+66375 
+0 
+66375 
+132.75 
+06/20/2016 
+N4G024950 
+J EPSTEIN VIRGIN ISLANDS FOUNDATION INC DBAB - Brokerage Account 
+DB Securities Inc. 
+Equity Small Cap 
+90348R102 
+UBISOFT ENTMT SA ADR ISINIUS90348R10 
+23 
+N/A 
+N/A 
+5000 
+30215.70 
+38155 
+0 
+38155 
+7.63 
+Jaspers Inc 
+N4G024935 
+Brokerage 
+7119385 
+Value Date 
+Account Number Account Name 
+Product Category 
+Legal Entity 
+Asset Class 
+EFTA01426693

@@ -1,0 +1,291 @@
+---
+source_image: "deposition-transcript+invoice__EFTA01309573_20260130_p008_i001.png"
+source_pdf: "EFTA01309573.pdf"
+method: pdf_text
+words: 636
+confidence: 1.00
+extracted: 2026-02-13T16:47:54.215896
+---
+
+0 
+m 
+m 
+r 
+606ZIE0CINO- AN0S 
+X cing?IaLtir
+• 
+I
+— 
+Date of Invoice I tit-
+Ap-i 12.2005 
+ts.
+Page 3 of B 
+IMPORTANT INFORMATION FOR OUR SPANISH-SPEAKING 
+CUSTOMERS: 
+DESEA RECIBIR SU CUENTA EN ESPANOL? LLAMA AL 611 
+MARQUE EL 2 PARA HABLAR CON UNA OPERADORA EN ESPANOL. 
+TRANSLATION: "WOULD YOU UKE TO RECEIVE YOUR BILL IN 
+SPANISH? DIAL 611.ANDPRESS.ITO SPEAK WMA CUSTOMER 
+. 
+- 
+CARE REPRESENTATIVE IN SPANISH." 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+ACCOUNT DETAILS 
+Detail of Payments Thank You! 
+kern Description 
+Dale AppadiReversed Payment Amount 
+Charge 
+1 PAYMENT 
+03/16105 
+-66-51 
+-8691
+Total of Paymeals 
+4634 
+Detail of Account Government Fees and Taxes 
+Item DesalptIon 
+Charge 
+1 FEDERAL TAX 
+170 
+2 LOCAL COMM SERVICE TAX 
+3.21 
+3 STATE COIN SERVICE TAX 
+5.13 
+4 'UNIVERSAL CONNECTIVITY CHARGE 
+1.66 
+911 SURCHARGE 
+0.50
+Total Account Government Fen and Tares 
+1226 
+' This is /101 $ lar Of government teqiirol charge• i1 is I tee assessedon leCCOMfaufitgOIS Witt. 
+Current Subscriber Monthly Charges and Credits 
+Me
+t 
+1
+1. 
+TotalCurrent Subscriber Monttly Charges and re RI 
+Total Current Monthly Charges 
+Charge 
+—
+SS 
+66.82 
+SUMMARY OF CURRENT ACTIVITY 
+FOI
+ME 
+Monthly Service Charges 
+Rem Description 
+Sank, Dates 
+WAITING 
+03f1ZAIS - GUMS 
+RID 
+03112/05 04i1116 
+HONE 353.99 REPLENISHMENT 
+03/12105 • 04/11/06 
+4 THREE WAY CALLING 
+03212I0S • 04/11/06 
+Charge 
+0430 
+000 
+GOO 
+GOO 
+Monthly Service Charges • Continued 
+Rem Description 
+Service Ones 
+5 GO PHONE UHLWITE0 NIGHTS AND WEEKENDS 03111105 • 041110.5 
+6 DETAIL SLUNG 
+0311210$.0411110$ 
+Total Monthly Service Charges 
+• 
+• 
+• 
+- 
+----.. • • • 
+. 
+— . 
+.. ._... . .... 
+Monthly Usage Charges 
+Kern Desaiption 
+1 UNLIMITED N/WKNO MIN 
+2 MESSAGE RETRIEVAL 
+3 TEXT MESSAGES SENT 
+I AMINE MINUTES 
+5 CALL WAITING 
+6 MVODEAVITA USAGE 
+Total MAIM U 
+•Chauges 
+1,024 K106,63 (KS) 
+.
+ • 1 
+.8 
+TOTAL CHARGES FOR 
+DETAIL OF CURRENT ACTIVITY 
+VOICE USAGE FO 
+Moth 
+Wm Data Time 
+1 03/19 11:46A 
+2 MAI I IA7A 
+3 Ma 1110A 
+4 03/29 0100P 
+Ola 
+5 010 03:12e 
+1 0 3119 03-30P 
+103119 03:3IP 
+OHIO 0.11/P 
+10 01119 01:33P 
+11 03/19 0914P 
+12 0.1fl9 01:330 
+I) 011/19 100SP 
+11 013 1
+P 
+15 0y3111 1015P 
+la 031151019P 
+17 03(19 i11.6P 
+11 01113 1114P 
+19 03123 OhleA 
+20 03/20 COSIM 
+21 03/20 03:51lA 
+72 0340 StelA 
+23 01/20 0402A 
+24 01/20 04.03A 
+21 0020 04:04A 
+20 0
+ 
+1/20 PIMA 
+1 03110 04:10A 
+20 03A0 040 SA 
+29 03/20 NAM 
+30 03120 04NIA 
+Calls To 
+WPALLITIEACH It 
+ViPAWSEACH FL 
+INCOSING 
+LANE Welkin 
+werwalitAcN Ft. 
+INCOMING 
+wPA 
+LAXE WORM
+A a 
+H
+IAMECH M. 
+WP
+WPACOFEACH fL 
+Ara a 
+WPAINMEACH ft 
+INCOMING 
+'AKE WORTH FL 
+PaiPANIACH FL 
+WPALAITGACH FL 
+WPAUVIMACH FL 
+WPµNAFACH FL 
+WPMMOEACH FL 
+WPALMS AC/I L. 
+I. 
+WPAISI A041 FL 
+WeAtms.Acti FL 
+=ASIR 
+WOMAN ACH FL 
+VOW, ACH FL 
+ZZ.4$ ACH FL 
+A04 FL 
+WPALM 
+ft. 
+Charge 
+0.00 
+moo 
+Only Used 
+651 MIN 
+V EVT 
+IS EVT 
+596 MIN 
+12 EVT 
+32 KB 
+Charge 
+0.00 
+0.00 
+1.50 
+52.14 
+000 
+54,16 
+SAN 
+Onty 
+Charge 
+Used Rate Description 
+Clary 
+MAN 
+UNLIMITED IMMO MN 
+MESSAGE RETEVAL 
+Nth 
+DROP CALL CREEM 
+I ENT 
+MESSAGE RETRIEVAL 
+nat4 
+UNLIMITED HAMM Itti 
+ 
+INN 
+UNMATED /WAND PAN 
+SUN 
+UNallnau WAWA MN 
+SUN 
+UNLIMITED Pa.90,13M01 
+UNIPATED NAVXADMel 
+1 AN N 
+UNLIMITED INWXN0 rum 
+MIN 
+VaUlATED MN/1030 MN 
+I MN 
+UMUSOTED NAWND MN 
+WI 
+1 IMIN 
+U
+tNUSSAG6 Knofv.M. 
+MTEDNAvinD MN 
+I EYT 
+MESSAGE RETRIEVAL 
+ilgmlico UAWMDAM 
+UMIM TED NAVKNDMN
+INN 
+VALUATED INWITHO MN 
+VAIN 
+UNUMITrYYSM3MIN 
+ION 
+VAUNT 
+IMAOIND 
+11•14 
+t/HUMIL HAVIOMMIN 
+VAN 
+UNUMTED MANX140 MN 
+1 MN 
+UhILIMTal MWICNO MN 
+On 
+UNUIATED Mesa) Ns 
+1104 
+UNUMFED MWAND MIN 
+IlaN 
+waists NSV1040 MN 
+1 CM 
+VASA 
+NYIKNO MN 
+VAIN 
+UNUMI 
+HAVX,40 MN 
+WM 
+Drams D taWKND MN 
+WIN 
+UNUMITEGNWIDO 
+NM 
+UNUMIdlu NW/ MN 
+0 
+MN 
+UMW 
+Ain 
+inns_ 
+UNLIMFT 
+MW10. MN 
+Nth 
+wiLIMN 
+NANKND MIN 
+HOV30 WIV4 LS3M BV1flDNI0 
+Cr 
+ 
+.1
+MM12-31E-MM-108062-1A SEC 015 SER 1A132-1A141-000079 
+EFTA01309580

@@ -1,0 +1,180 @@
+{
+  "generated_at": "2026-02-16T11:19:21",
+  "reports": [
+    {
+      "label": "INVESTIGATION-A-POWER-NETWORK.md",
+      "path": "content/docs/investigations/INVESTIGATION-A-POWER-NETWORK.md",
+      "size_bytes": 150206
+    },
+    {
+      "label": "INVESTIGATION-B-TRAFFICKING-MACHINE.md",
+      "path": "content/docs/investigations/INVESTIGATION-B-TRAFFICKING-MACHINE.md",
+      "size_bytes": 131017
+    },
+    {
+      "label": "INVESTIGATION-C-MONEY-AND-PLANES.md",
+      "path": "content/docs/investigations/INVESTIGATION-C-MONEY-AND-PLANES.md",
+      "size_bytes": 90092
+    },
+    {
+      "label": "INVESTIGATION-D-DEPOSITIONS.md",
+      "path": "content/docs/investigations/INVESTIGATION-D-DEPOSITIONS.md",
+      "size_bytes": 189883
+    },
+    {
+      "label": "INVESTIGATION-E-DATA-INTEGRITY-RABBIT-HOLES.md",
+      "path": "content/docs/investigations/INVESTIGATION-E-DATA-INTEGRITY-RABBIT-HOLES.md",
+      "size_bytes": 4320
+    },
+    {
+      "label": "INVESTIGATION-F-EPSTEIN-DEATH-IN-CUSTODY.md",
+      "path": "content/docs/investigations/INVESTIGATION-F-EPSTEIN-DEATH-IN-CUSTODY.md",
+      "size_bytes": 5522
+    },
+    {
+      "label": "INVESTIGATION-G-FRESH-EYES-WHOLE-CASE-LEAD-MAP.md",
+      "path": "content/docs/investigations/INVESTIGATION-G-FRESH-EYES-WHOLE-CASE-LEAD-MAP.md",
+      "size_bytes": 5713
+    },
+    {
+      "label": "INVESTIGATION-H-DEATH-IN-CUSTODY-TIMELINE.md",
+      "path": "content/docs/investigations/INVESTIGATION-H-DEATH-IN-CUSTODY-TIMELINE.md",
+      "size_bytes": 6352
+    },
+    {
+      "label": "KEY-FINDINGS.md",
+      "path": "content/docs/investigations/KEY-FINDINGS.md",
+      "size_bytes": 35289
+    }
+  ],
+  "findings": [
+    {
+      "number": 1,
+      "title": "FBI Internal Email: Brunel/MC2 Sex Trafficking Front",
+      "path": "content/docs/investigations/findings/F-001-fbi-internal-email-brunel-mc2-sex-trafficking-front.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 2,
+      "title": "Geoffrey Berman (SDNY) — \"Private and Confidential\"",
+      "path": "content/docs/investigations/findings/F-002-geoffrey-berman-sdny-private-and-confidential.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 3,
+      "title": "Ghislaine Maxwell Draft PR Statements",
+      "path": "content/docs/investigations/findings/F-003-ghislaine-maxwell-draft-pr-statements.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 4,
+      "title": "Epstein–Sitrick Crisis PR Coordination",
+      "path": "content/docs/investigations/findings/F-004-epsteinsitrick-crisis-pr-coordination.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 5,
+      "title": "Epstein as \"Team Leader\" — Legal Strategy Email",
+      "path": "content/docs/investigations/findings/F-005-epstein-as-team-leader-legal-strategy-email.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 6,
+      "title": "Epstein → Michael Wolff \"nfw\"",
+      "path": "content/docs/investigations/findings/F-006-epstein-michael-wolff-nfw.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 7,
+      "title": "Boris Nikolic (Gates' Science Advisor) Texts",
+      "path": "content/docs/investigations/findings/F-007-boris-nikolic-gates-science-advisor-texts.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 8,
+      "title": "\"Trump's going to win in November\"",
+      "path": "content/docs/investigations/findings/F-008-trump-s-going-to-win-in-november.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 9,
+      "title": "Jane Doe v. Trump — \"told you\"",
+      "path": "content/docs/investigations/findings/F-009-jane-doe-v-trump-told-you.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 10,
+      "title": "Daily Mail \"GHISLAINE HAS FEMALES FOR MR SE\"",
+      "path": "content/docs/investigations/findings/F-010-daily-mail-ghislaine-has-females-for-mr-se.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 11,
+      "title": "Key Email Addresses Discovered",
+      "path": "content/docs/investigations/findings/F-011-key-email-addresses-discovered.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 12,
+      "title": "\"Air Ghislaine\" Helicopter",
+      "path": "content/docs/investigations/findings/F-012-air-ghislaine-helicopter.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 13,
+      "title": "Epstein–Brunel Text Exchange",
+      "path": "content/docs/investigations/findings/F-013-epsteinbrunel-text-exchange.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 14,
+      "title": "Shanson900 — \"30 min for the girls\"",
+      "path": "content/docs/investigations/findings/F-014-shanson900-30-min-for-the-girls.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 15,
+      "title": "Contact Network Highlights",
+      "path": "content/docs/investigations/findings/F-015-contact-network-highlights.md",
+      "source": "KEY-FINDINGS.md"
+    },
+    {
+      "number": 16,
+      "title": "Operational Logistics Chain (New)",
+      "path": "content/docs/investigations/findings/F-016-operational-logistics-chain-new.md",
+      "source": "KEY-FINDINGS.md"
+    }
+  ],
+  "supplements": [
+    {
+      "label": "AUDIT-DEATH-CUSTODY-SIGNALS-2026-02-16.json",
+      "path": "content/docs/investigations/artifacts/AUDIT-DEATH-CUSTODY-SIGNALS-2026-02-16.json",
+      "size_bytes": 29848,
+      "category": "investigation-supplement"
+    },
+    {
+      "label": "AUDIT-MEDIA-CROSSWALK-2026-02-16.json",
+      "path": "content/docs/investigations/artifacts/AUDIT-MEDIA-CROSSWALK-2026-02-16.json",
+      "size_bytes": 4678,
+      "category": "investigation-supplement"
+    },
+    {
+      "label": "AUDIT-SUMMARY-2026-02-16.json",
+      "path": "content/docs/investigations/artifacts/AUDIT-SUMMARY-2026-02-16.json",
+      "size_bytes": 15580,
+      "category": "investigation-supplement"
+    },
+    {
+      "label": "claim-ledger.json",
+      "path": "content/docs/investigations/claim-ledger.json",
+      "size_bytes": 14882,
+      "category": "claim-ledger"
+    },
+    {
+      "label": "claim-ledger.md",
+      "path": "content/docs/investigations/claim-ledger.md",
+      "size_bytes": 8302,
+      "category": "claim-ledger"
+    }
+  ]
+}

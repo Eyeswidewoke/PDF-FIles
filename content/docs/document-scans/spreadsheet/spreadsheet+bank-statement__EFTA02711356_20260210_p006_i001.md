@@ -1,0 +1,583 @@
+---
+source_image: "spreadsheet+bank-statement__EFTA02711356_20260210_p006_i001.png"
+source_pdf: "EFTA02711356.pdf"
+method: pdf_text
+words: 864
+confidence: 1.00
+extracted: 2026-02-13T17:15:09.712213
+---
+
+TRUSTS 2014 LDB LLC 
+UNREALIZED LO TO HI 
+JULY 2014 SOTHEBY'S 
+Artist 
+Item Description 
+Total Paid (in 
+USO) 
+Sotheby's 
+Appraised 
+Value (July 
+2014) 
+Fair Value (% 
+Ownership) or 
+Cost (if not on 
+Appraisal) 
+UNREALIZED 
+GAIN (LOSS) 
+CUMULATIVE 
+GROSS 
+UNREALIZED 
+GAIN (LOSS) 
+INCREMENTAL 
+(PLEDGED) 
+GIFT. NAME OF 
+OWNERS 
+DONEE 
+HIP % 
+INSTITUTION 
+NARROWS 
+VUILLARD. EDOUARD La mannequin 
+55.000 
+- 
+55.000 
+- 
+100% 
+NARROWS 
+VUILLARD, EDOUARD
+ Le masseur 
+30.000 
+30.000 
+30.000 
+100% 
+NARROWS 
+WELZ. REBECCA 
+Threshold 
+4.896 
+4.896 
+100% 
+NARROWS 
+ZHANG HUAN 
+Afar (Memory Door Series) 
+195.075 : 
+195.075 
+-
+100% 
+NARROWS 
+ZIMMERAIAN. ELYN 
+Stalled Cairn 
+80.063 
+80063
+100% 
+NARROWS 
+KAHN. WOLF 
+Return ng lo Harbor (in Martha's Vineyard) 
+2.250 
+2.500 
+2.500 
+250 
+250 
+100% 
+NARROWS 
+DINE. JIM 
+Seth-portrail Head (Second State) (W.C. 160) 
+1,200  
+1.500  
+1.500 
+300 
+560
+100% 
+NARROWS 
+KAHN. WOLF 
+The Towpath 
+34,640  
+35.000 
+35.000 
+360 
+910 
+100% 
+NARROWS 
+ARTURO
+ Ardores clandestinos 
+3.897 
+4.500 . 
+4.500 
+603 
+1,513 
+100% 
+NARROWS 
+,DELACROIX, EUGENE
+ Three Male Nudes 
+24.356 
+25.000 
+25.000  
+644
+2.157 
+100% 
+NARROWS 
+ROSSETTI. DANTE GAB The Sun May Shine and We Be Cold 
+34.264 
+35.000 
+35.000 
+736 
+2.893 
+100% 
+NARROWS 
+BECKMANN. MAX 
+Vor dem Auftritt (Akrobaten) (H. 289: G. 250) 
+. 
+3.150 
+, 
+ 
+4.000  
+4.000 
+850 
+3.743 
+100% 
+NARROWS 
+BECKMANN, MAX 
+In der Trambahn (H. 235: GI. 209: G. 205) 
+5,000 
+6.000 
+6,000  
+1.000
+4.743 
+100% 
+NARROWS 
+REGINALD 
+Woman Walking 
+5.000 
+6.000 
+6.000 
+1,000 
+5.743 
+100% 
+NARROWS 
+:MARSH, 
+DIX. 01TO 
+Bautzen VI 
+14.400 
+15.500 
+15.500 
+1.100 
+8643 
+100% 
+NARROWS 
+VON STUCK. FRANZ 
+Steam Power 
+. 
+6.503  
+8.000 ' 
+8,000 
+1.498 
+8,340 
+100% 
+NARROWS 
+KAHN. WOLF 
+Evening Light 
+5.359 
+7.000  
+7.000 
+1.641 
+9.981 
+100% 
+NARROWS 
+AVERY, MILTON 
+Two Nudes 
+1.500 
+4.000 
+4.000  
+2.500 
+12.481 
+100% 
+NARROWS 
+AVERY. MILTON 
+Nude Meditating 
+1,200  
+4.000 
+4.000 
+2.800 
+15,281 
+100% 
+NARROWS 
+KAHN. WOLF 
+Barn in Fog 
+1.200 
+, 
+4.000  
+4.000 
+2.800 
+18.081 
+100% 
+NARROWS 
+MAX 
+Schiangendame (H. 200; GI. 176 G. 172) 
+5,000 ' 
+8.000 
+8,000 
+3.000 
+21,081 
+100% 
+NARROWS 
+•BECKMANN, 
+ANDRE 
+Femme nue 
+2.000 
+5.000 
+, 
+5.000 
+3.000 
+24.081 
+100% 
+NARROWS 
+,DERAIN. 
+ENSOR. JAMES 
+Le combat des demons (Diables rossant anges et a 
+2.000 
+5.000 
+5.000 
+3.000 
+27,081 
+100% 
+NARROWS 
+PICASSO. PABLO 
+Deux Femmes babfolant sur un matelas de plage. N. 
+3.000 
+. 
+6,000  
+6.000 
+3.000 
+30.081 
+100% 
+NARROWS 
+DORER, ALBRECHT 
+Nemesis (The Great Fortune) (Bartsch 77: Moder 7L 
+246.970 
+250.000 
+250,000 
+3.030 
+33,111 
+100% 
+NARROWS 
+AVERY. MILTON 
+Head of a Man (L. 8) 
+250 
+3.500 
+3,500 
+3.250 
+36,361 
+100% 
+NARROWS 
+BONHEIJR, ROSA 
+Study for The Horse Fait 
+8,660 
+12.500 
+12,500 • 
+3.840 
+40,201 
+100% 
+NARROWS 
+BELLOWS. GEORGE WE The Pool-Player (M. 83: B.58) 
+. 
+3.500 
+, 
+8.000 
+8.000 
+4.500 
+44.701 
+100% 
+NARROWS 
+DROUAIS, JEAN-GERMI Marius a Mintumes 
+45.325 . 
+50.000 . 
+50,000  
+4.675 
+49.376 
+100% 
+NARROWS 
+BARTE. ANTOINE-LOULion.stelking 
+5.000 
+10.000 
+10.000 
+5.000 
+54.376 
+100% 
+NARROWS 
+SAME. ANTOINE-LOUIE Tigre qui marche 
+5.000 
+10.000  
+10.000 
+5.000 
+59.376 
+100% 
+NARROWS 
+BARYE. ANTOINE-LOUll Lion qui marche 
+10.000 
+10000 
+5.000 
+64.376 
+100% 
+NARROWS 
+BERNARD. EMILE 
+Two Women 
+2,000 
+7.000 
+7.000  
+5.000 
+69,376 
+100% 
+NARROWS 
+CHIRINO, MARTIN 
+.0ology 
+7.000 
+12.000 
+12,000  
+5.000 
+74,376 
+74,376 
+100% 
+NARROWS 
+GRAHAM. JOHN 
+Horse and Rider 
+5.000 
+10.000 
+10.000 
+5.000 
+79,376
+100% 
+NARROWS 
+MAILLOL. ARISTIDE 
+Nude Seen from Behind 
+, 
+20.000 
+, 
+25.000 
+25.000 
+5.000 
+84.376 
+100% 
+NARROWS 
+PASCIN, JULES 
+Turkish Dancers 
+3.000 . 
+8.000 • 
+8,000 
+5.000 
+89.376 
+100% 
+NARROWS 
+SCHWITTERS. KURT 
+Kurt Schwitters: Schnftstellar 
+220.000 
+225,000 
+225,000  
+5.000 
+94.376 
+100% 
+NARROWS 
+RICHMOND. WILLIAM &Portrait 
+12.222 
+17.500 
+17.500 
+5.278 
+99.655 
+100% 
+NARROWS 
+AVERY. MILTON 
+Stnped Drape 
+2.200 : 
+7.500 ' 
+7,500 
+5.300 
+104,955 
+100% 
+NARROWS 
+MAILLOL. ARISTIDE 
+Esquisse pour 'Le Mediterranee 
+19.000 
+25.000 
+25.000 
+6.000 
+110.955 
+100% 
+NARROWS 
+GORMLEY. ANTONY 
+Sense 
+2.653 
+9.000 
+, 
+9.000 
+6.347 
+117.302 
+100% 
+NARROWS 
+GORMLEY. ANTONY 
+Home of the Heart IV 
+2.653  
+9.000  
+9,000 
+6.347 
+123.849
+100% 
+NARROWS 
+GORMLEY. ANTONY 
+Base 
+2.653  
+9.000 
+9.000 
+6.347 
+129,996 
+100% 
+NARROWS 
+CLEMENTE. FRANCESC Untitled (Jamaican Watercolor) 
+43.400 
+50.000 ' 
+50,000 
+6.600 
+136.598 
+100% 
+NARROWS 
+:RORER. ALBRECHT 
+Death and the Devil (Bartsch 98: Mader 74b: 
+592.727 
+600.000 
+600,000  
+7,273 
+143,869 
+100% 
+NARROWS 
+,Knight. 
+ENSOR. JAMES 
+La puce 
+52.500 
+60.000 
+60,000 
+7.500 
+151,389 
+100% 
+NARROWS 
+BOLOTOWSKY. ILYA 
+Untitled 
+1,500 
+10.000 : 
+10,000 
+8.500 
+159.889 
+100% 
+NARROWS 
+ROUSSEL, KER-XAVIER La Clolat 
+5.000 
+14.000 
+14,000  
+9.000 
+168669 
+100% 
+NARROWS 
+RUSKIN. JOHN 
+Spur of Ravine Shaft. Venice 
+6.504 
+16.000 
+16.000 
+9.496 
+178.385 
+100% 
+NARROWS 
+CONSTABLE, JOHN 
+A View in Borrowdale 
+70.363 
+80.000  
+80.000 
+9.638 
+188.002 
+100% 
+NARROWS 
+DORER, ALBRECHT 
+Melanoolia I (Bartsch 74: Metier 7511e: SCherbaum • 
+, 
+790.303 
+800.000 
+800.000 
+9.697 
+197.699 
+100% 
+NARROWS 
+BONNARD. PIERRE 
+Nature move aux fruits
+70.000 ' 
+80.000 ' 
+80,000 
+10.000 
+207.699 
+100% 
+NARROWS 
+MATISSE, HENRI 
+Femme nue debout 
+60.000 
+70.000 
+70.000  
+10.000 
+217.699 
+100% 
+NARROWS 
+DAVID. JACCIUES-LOUParis and Helen 
+459.960 
+470.000 
+470000 
+10.040 
+227.739 
+100% 
+NARROWS 
+NOLDE. EMIL 
+Salamis and Seine Frauen (S.R. 153) 
+4,500 
+, 
+15.000  
+15.000 
+10.500 
+238.239 
+100% 
+NARROWS 
+PUVIS OE CHAVANNES‘ Reclining Female Nude with Drapery 
+6000 
+17,500 
+17,500  
+12,500
+250.739 
+100% 
+NARROWS 
+CALLOT. JACOUES 
+Louis de Lorraine guise, Prince de Phalsbourg. in A., 
+287.390 
+600.000 
+300.000 
+12.610 
+263.349 
+50% Met 
+NARROWS 
+ISABEY. JEAN-BAPTISTEPortrait de Talleyrand 
+7.000 
+20,000  
+20.000 
+13.000 
+278,349 
+100% 
+NARROWS 
+DELACROIX. EUGENE Cavalier mamelouk au galop 
+. 
+161.500 
+175000 
+175,000 
+13.500 
+289,649 
+100% 
+NARROWS 
+BONINGTON. RICHARD Landscape with Harvesters at Sunset 
+, 
+135,313 
+150.000 * 
+150,000 
+14,688 
+304.537 
+100% 
+Page 6 of 10 
+EFTA_R1_02125030 
+EFTA02711361

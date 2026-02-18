@@ -1,0 +1,312 @@
+---
+source_image: "scanned-document+deposition-transcript__EFTA01729006_20260130_p081_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 519
+confidence: 1.00
+extracted: 2026-02-13T17:19:26.129765
+---
+
+Page 
+17 
+AIRTIME AND WHO DISTANCE CHARGES 
+City 
+intDate 
+Time 
+CL No. Called 
+Called 
+P P 
+2 03/07 02:68PM 
+3 03/07 03:20PM 
+4 03/07 03:27PM 
+5 03/07 03:45PM 
+6 03/08 04:04PM 
+7 03/08 06:14PM 
+0 03/08 08:19PM 
+9 03/08'08:21P11 
+10 03/08 09:25PM 
+11 03/08 09:26PM 
+12 03/09 12:57PM 
+13 03/09 12:59PM 
+14 03/09 01:15PM 
+15 03/09 07:07PM 
+16 03/09 07:46PM 
+17 03/11 11:37AM 
+10 03/12 04:31PM 
+19 03/12 06:55PM 
+20 03/12 10:13PM 
+21 03/12 10:15PM 
+22 03/12 11:05PM 
+23 03/13 03:15PM 
+24 03/13 03:19PM 
+25 03/14 10:48AM 
+26 03/14 10:51AM 
+.27 03/14 05:35PM 
+28 02/14 05:38PM 
+29 03/14 05:39PM 
+30 03/15 08:12AM 
+31 03/16 12,40PM 
+32 03/16 04:07PM 
+33 03/16 04:27PM 
+34 03/16 04:28PM 
+35 03/16 04:35PM 
+36 03/16 05:49PN 
+37 03/17 05:02PM 
+38 03/17 10:15PM 
+39 03/19 11:39AM 
+40 03/19 12:53PM 
+41 03/19 12,54PM 
+42 03/20 OB:57AM 
+43 03/20 09:45AM 
+44 03/20 09:46AN 
+45 03/20 12:22PM 
+46 03/20 05319PM 
+47 03/20 05:21PM 
+40 03/20 05:25PM 
+49 03/20 05:29PM 
+50 01/20.06:40PM 
+51 03/20 06:41PM 
+52 03/20 00:10PM 
+53 03/20 08:19211 
+54 03/21 08:03PM 
+55 03/21 08:26214 
+56 03/21 08,37PM 
+57 03/22 08:43PM 
+PITTSB PA H 
+PITTSB PA N 
+PITTSB PA H 
+P27169 PA H 
+ICE CL 
+PITTSB PA 
+PITTSB PA 
+ITTSB PA 
+ICE CL W 
+ITTSB PA H 
+ICS CL 
+ITTSB PA 
+17158 PA 
+YKESV MD 
+NCOMI CL 
+OICE CL 
+OICE CL 
+NCOMI CL 
+VERSO ND W 
+VICKYION 
+NCOMI CL H 
+PALM FL 14 
+NCOMI CL W 
+ITTSB PA N 
+ITT= PA H 
+ITTSB PA W 
+ITTSB PA N 
+ITTSB PA H 
+NCOMI CL 
+oxct CL 
+PALM FL 
+PALM FL 
+PALM FL 
+PALM FL 
+NCOMI CL 
+NCOMI CL 
+ITTSB PA N 
+NCOMI CL 
+I7739 PA 
+ITTSB PA 
+NCOMI CL H 
+=RSV MD W 
+YKESV MD.W 
+I CL W 
+V MD W 
+COMI CL W N 
+1COMI CL W N 
+PALM PL M N 
+COMI CL W 
+COMI CL N N 
+TTSB PAWN 
+TTSB PA W N 
+TTSB PA N N 
+TTSB PA W N 
+COMI a, N N 
+TTS9 PA 
+P 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile User:
+Total Mobiles: 
+CHARGES 
+Length 
+of 
+Call 
+Air 
+Long 
+Time 
+Dist. Total 
+21 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+18 
+0.00 
+0.00 
+14 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 .0.00 
+0.00 
+14 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+16 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+118 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+35 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00' 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+13 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+45 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+16 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+67 
+0.00 
+0.00 
+22 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+EFTA01729086

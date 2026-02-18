@@ -1,0 +1,509 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692725_20260130_p045_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 935
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.835850
+---
+
+L 
+• 
+IT:ACCOUrn Nero 
+Account Number 
+Dots of remota 
+Novombor 14. 2004 
+ATaT Wireless 
+P o leof 20 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Mate 
+am On• Tiat• 
+an 19/10144 
+Ina 1063101MA 
+971 1691040 
+10/31 ISM 
+rit2 VII 
+92.11* 
+019 
+WI I  10/31 
+M 
+MS 1911 
+111.6 10131 a3* 
+831 10/31 maIA 
+IIM 10131 
+6991 
+9) 10/31 
+NO 11 
+10/ I 
+A 
+4* 
+kW 'LW 1 
+9:31 
+994 WM 
+NM 
+MI 1001 09MA 
+100110336* 
+03 1091 03669 
+Mt 10/015/6 
+11971 02 
+501 1011021M119
+603 
+:?0 11 2019 
+404 10/ 
+0303A 
+960 SW 
+031136 
+$05 1G. 
+0304.1 
+907 •.93 03/349 
+90$ 111 
+0351A 
+;t: 
+II, 1003 v61/16 
+912 109 03:1M 
+11310 0.1.20. 
+915 109 0313N 
+;i1 
+919 
+1 I 
+0391* 
+919 121413 10'** 
+:1 133 
+11:009 
+111109 
+16/3 
+1:MA 
+.0/ 
+1 01299 
+93• 10/ 
+11509 
+1741 =Meg°
+E8 
+SIM 
+05 .0 01250 
+931 11-3 0326P 
+932 len 0347P 
+13! 'IC° gie-
+lersi os42, 
+931 1C/31 45170 
+934 WWI 06179 
+939 113101:1T 
+940 NM 1:0114) 
+• COreleued 
+Oes 
+gorge 
+Cent To 
+Mnd Ral•CionalOYM 
+NNILIWEI.C14 FL 
+MN 
+MUM° HAMAD MN 
+WPM. 
+N n. 
+WI 
+9111/109904 FL 
+MN 
+UNUNITE0 MYST° WI 
+n3
+1111 :LIN, 103131)
+*4 ma 1 0504P 
+BOYNTON 
+Ft 
+116/4 
+ukuverE0 Maga mrs 
+WP 
+ft 
+lin 
+UNUMTED IIM%N3 NM 
+IIIN 
+LONINT50 P6W51916.4 
+=
+1.1 .  
+Hit 
+mm 
+MRM 
+Nue 
+Li 
+1 NW% 
+MN 
+16'1gt.8 in  
+NI mt. 
+INM 
+i$14911170 ...Ng% 4114 
+9.19610 
+Ni
+M 
+Lott.mi 1 90 MYR 
+MN 
+019x" K 
+1117 
+POWS 
+WV 
+Eli i n 
+913101 
+INN 
+INCIANILO PoNX 
+LI V 
+AM 
+UNUNTE VOW 
+NV 
+1110. 
+MINT( WNW 
+9111 
+901441/16E 
+FL 
+MN 
+WONTED 91.00 
+AW 
+Kr 
+CAN WA /19 
+bOYNTOWCIS FL 
+LIN 
+LIVLINTEDNININO WI 
+Mt 10111 WNW 
+11191 
+,... NAVE° 11W1111 viz 
+wORAMEACH FL 
+MN 
+UNWETED NW NNQ lel 
+MI 1011 WSW 
+A./Mr-ACM FL 
+MN 
+MAIM WIPING imil 
+950 10,1 00469 
+6MN 
+mitwiT(01.W1(10 flei 
+wompos 
+MI 10131 %MP 
+INN 
+VMMITED PANIIM)1.114 
+IIIIO 
+tr4LWIT SP PAWN° 5194 
+046 
+LONINTED %WIND 91/4 
+1101191011004 ft 
+MN 
+Linn' 9 NAM 
+In 
+110c0/1 
+YNALIttlIt 
+MK 
+VIM tir f: h.,Mi 
+in 
+MN 
+4141.14-  0 NNYK 
+MR 
+902 KT 
+E ;EI • 
+r. WWITIVIRN9 NA 
+MN 
+Ulantak NNIKNID WI 
+MN 
+NINNY' t4V0010 NM 
+W.A.). 
+it 10 t 
+MN 
+NIL:WU &WIN NV 
+HIMIJOSEAC1491. 
+MN 
+Usuial'ED NWIOND LW 
+956 101310101 
+21M1 
+UN.WFIED 1/41/1040 MN 
+IAN 
+UNNVITL 1010(110 WI 
+VIPM/409104 FL 
+MN 
+WUNTED PAWN° WI 
+NICOSING 
+NM 
+WOWED INNIN NM 
+957 1011 
+VAN 
+1,161.WITED WAND MN 
+990 10f31 OKI 
+R 
+INN 
+VINTITLD 141.001E. MX 
+=molt 
+NI 
+VIII 119110 WNW UN 
+WIN ILOANN NW 
+ag i gf a 
+MAN 
+UN. MI 
+60/10.01/91 
+WW. 90041191. 
+MN 
+UVIILITFO 491104 MN 
+MI 4,031 
+imiN 
+1M -MT 
+M01(101911 
+NAN 
+UNJAT 
+Went10 MN 
+z.
+,A.,, 
+z ,, , 
+:4. 
+LIMMT 0 Wean N14 
+I‘ VP
+VP/s.:T
+il  
+MN 
+MN 
+WOW! g WOW WI 
+YM 
+NOW' 6 NNW 
+MN 
+911 '0131 
+li g 
+InT 
+NELSAGE Rcirsa-tVAL 
+UNWTIN ww40490 
+NIESSACt RET11WL 
+I 
+UMNTED %WM* MN 
+9N.0.elLEO Woul0 MN 
+POWCOMCNR 
+MN 
+tmum110 
+WIMUMEACH FL 
+MX 
+MWM,E0 NWICND MN 
+INCOMING 
+MN 
+WOVE° liWIIND ON 
+965 1031 
+916 1011 09370 
+937 .011 MOP 
+UN 'AHD 1.111(101API 
+UNWED WAND MN 
+11019.103EACH FL 
+MN 
+UNUICED WNW° SIN 
+AD TAIII,Z5131 
+MN 
+Idt
+iltpg/41w
+W9:1 ,1, 
+UMMTED wow/Duna 
+tiU‘afrorn. Rwrolg Pan 
+9151.1a4 
+1101110 
+Ft 
+WI 
+UMW TED 169/104 NW 
+LASE NOR 
+WI 
+111096015:14.11104 W. 
+au 
+umuutrE0 mat7677iN 
+39/4: .'..,•9•,' 
+45,kt 
+331 ;gal itt01 
+U.d.mr gq 109%10 MN 
+UNDATED %NOM MN 
+9)4 10,31 WASI 
+UtiatTED WW0i0 in 
+UNMaTIED 'MAW MN 
+940-$.4/10 
+MN 
+LIMINTE0 WianDIIIN 
+9/3 10,31 10.04 
+LANES/OR
+ 
+pr EL 
+IMF/KATI. FIL 
+WI 
+mu...lit° POMO INN 
+MN 
+MILMTED N.WMOMN 
+9it. 70/31 110) 
+NMI WI 
+L WORM /1. 
+MN 
+Witm T. 1) NW104? MN 
+*WM MN 
+En,
+9
+% 
+MN 
+maven morns 
+Id. 
+NFL 
+MN 
+uYiNflifnenn In 
+911
+4111 
+il l  
+NAW.N Nth 
+WOM.
+V.AL 
+Ilk 
+MN 
+MN 
+LWINITIM ?Win u•N 
+traW1710145ALN In 
+11 1 1f.1 
+a 
+UNMOTE0 SAW.NO in 
+MN 
+WEAVED 1/191610°  Mx 
+NM' VD PAN 
+61/7 
+itsms.:t kFTREwm. 
+941 11191 1.14 
+UNcivii Ea W‘wN0 Lin 
+tg2  Zn
+il
+umutirrEOHYAND ION 
+MN 
+LNuarrED ravatal INN 
+E 
+nit 03.3i 
+1119I 
+1.,N,Mtiti •Mv,e40 mu 
+ IS
+ VNUM 0.03. TO SOM. 
+WPM 
+•
+Wie1IFL 
+o MM 
+WILINTED ?WM° NIX 
+N4 1101 1041 
+W
+m=1
+001. 
+9000MMI 
+tin 
+1.941.1MTED !WAND in 
+IMF 
+15056431 IR L1NEVAL 
+OHM 16.13L TO WOK 
+WPAUMEACM FL 
+INN 
+Lauvrpo wimp MN 
+91$ HMI 1.147 
+NW 
+INCLUDE0 trmr99 
+iEv7 
+cwt.( 
+PETRFVµ 
+WPgaMantelHR 
+LIN 
+1919 
+N 
+W4UVIIID WW1 WI 
+WIUVITED NNW MS 
+WILINIE0 /01/101 MN 
+1123 3111,
+11/010. 
+WPM 
+910Y/COMOIR 
+in 
+InCLUOED inmfTES 
+I 
+tit 
+INCLUAD 90691, 
+WI 
+INCLUOID1/00.915 
+INCLUDED 1/01UTES 
+mittnimilE itn 
+,..riorrr /Wail; liaM 
+UNII•110 NANXPO MN 
+g? Wall 
+NMI 04 ) 
+MATTO 
+Q 
+M 
+:MOB arAtt 
+INPALAIMACI. FL 
+11191 
+1114UNTE0 PIANN11116 
+992 II/01 04 53 
+BOYNTON/KIM 
+MN 
+INCLUDED NVIJ7E1 
+ON.14 MACH FL 
+NPA1t4BE60.11 FL 
+HMI
+:li  
+WILINTED9N1017 NN 
+91411N
+tiwrg MAY491 WI 
+9)3 II/91 0447 
+nutat,srt 
+MA 
+.M1.110t,D War(' 
+WI 
+NAVA TES ORONO IA 1I 
+BOYNTON'S°. ft 
+ 
+9N 
+krWRI UP 
+910I 11/01 0111 
+i 
+I iii Ei: 
+MPALMR 
+M 
+= 
+ummiti Nen,440 MN 
+SOW° 
+a 
+titaverf0 coteK90 LP/
+L
+wnsanien
+ 
+R
+I 
+UMW! 
+St9/04 WI 
+ng:12
+UNIIIII$0 1.1910.1 NM 
+UNLAI WO WNW° NA 
+99611/01 M1SP 
+90WITONSCI4 IL 
+MN 
+UNANTED 969040w/ 
+00.0470faCtirt 
+MN 
+UNWED NAN010 Mx 
+PeCONIS9 
+UNINTED 06WIDID NH 
+109 I 1/1/1 C.189 
+90WITOMIcH Ft 
+MIN 
+umm Mt rilni[no MN 
+WPALWEACIM 
+INN 
+UMMITE0 MVO* VO4 
+roter01041491 
+MR 
+limply niWa4Q MIS 
+WM 
+UNR6110 NAVRIC WI 
+1030 HMI CP 1 
+1001 prtn 97.799 
+1037 11101 0931 
+40 $04,1 .9,2 ..04 p. 
+WI 
+UMW 0 kAMMO WI 
+Z8= 
+23004 
+MitIM:19 WWIlig 9/3I 
+VOICE USAGE FOR 
+Number 
+COO' 
+Oftry• 
+Chary. 
+Mrs Da* Thew CONS 
+Cate 
+Used Rate CesalMon 
+• Continuod 
+▪ 
+mama,' 0 3093%X04414
+CNNIN 
+EFTA01692769

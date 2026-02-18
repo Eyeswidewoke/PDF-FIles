@@ -1,0 +1,478 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p052_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 846
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.971237
+---
+
+Account Wobec 
+Account Name 
+Date of Invoice 
+May 13. 2005 
+Page 8 of 18 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+ DETAIL OF CURRENT ACTIVITY - CONTINUED 
+it 
+VOICE USAGE Fa 
+Conthmod 
+VOICE USAGE FOR 
+Commucal 
+Number 
+Men Elau Nom CNAM 
+47 OMA 07.134 
+44 04/14 10244 
+11 
+4; 04/14 IMAM 
+0441 urą 
+12 Wm 10 MA 
+510MA 1 
+4 
+SI OMA h 
+17
+p
+1 04/14 11 
+56 04/14 11 IA 
+11aM  
+ 
+g 111: 
+17
+5/ 004/1:4 0
+04114 
+23023P 
+204
+M: gr. 
+OP 
+$1 Mt 2112; 
+04/14 rtg 
+iffN 
+4 SNOOP 
+3184,9= 
+EWE
+M
+ te; nA 
+71 
+00MA 
+78 04/18 0112M 
+r79 irm
+4118i  v0t1
+O1 d 
+LIFM 01484 
+14 04f15 01/704 
+g ov i perl 
+O
+• 
+001$ 
+N 04/16 10,05.4 
+90 NM 10119.4 
+91 04/15 1MMA 
+92 ans MIN 
+AM1 Mt 
+06 04/18 MAGA 
+• 04/15 111964 
+'O) ON10150 
+ONly 
+Char 
+clory 
+chow
+Iksem 
+CAN To 
+Wed Nom elmalptIon 
+Charm . Mm MM Tint• GENI 
+IM•41 Nato Dosarlptlon 
+WPM/MACH FL 
+MV 
+WM SON TO WOAL 
+104 04/13 01.44P 
+NM 
+TN 409/4 MYT 
+NN 
+WPAMMEM:41 FL 
+IM 
+EYT 
+ 
+RENIA 
+I 105 01/101:55P 
+OK 
+k 
+FL 
+LIN 
+SIR 
+MYDŁ NN 
+wP/AMMAAN PL 
+W 
+l
+aMTRAVAL 
+NN 
+: 107 04/15 Oz 47P 
+IL 
+INN 
+MAN 
+XCI M2
+/00.81 AA
+NI TVIŁ LT. 
+INCOV/1„1 
+MN 
+MM 
+Mil 
+i li El Elf 
+zeart 
+iii. 
+303 
+COI MYMI LIN 
+1MN 
+MMML AMINE NM 
+WFAINKAIN FL 
+MV 
+EgEl" 
+CYT 
+CALL WNTINO 
+ll ir "TU: 
+004NTONOGN FL 
+„MN 
+WPM WS TO MOIL 
+WPAJANIEM). FL 
+MV 
+300 ACM MINIM MI 
+IMMING 
+W4 
+30541)01PNYTME MX 
+ZfMAN711 FL 
+1/1g 
+Mt= 
+; ',2t 
+ii Ringu; 
+w...R... Fl. 
+UNTIV Ag Ft: 
+INN 
+MILS VON TO II4)04 
+ION 
+NO 
+&NYTAN NM 
+.9„411:M:01:1 
+i/M 
+Z 2.81114:: 
+WPAIMNA04 FL 
+IW 
+310 ADM ANYT 
+1.4t4 
+M 
+t it 
+ 
+I.! 1liii 
+zw
+ 
+ 
+Ii111O.1O m
+70,014,2tiim
+wPAIAME404 FL 
+iw 
+MAN MON TO INNA. 
+Er 
+tIESSAGE RETREM. 
+[ 
+ile 04/15 18:14P 
+1110w/Ta41804 FL 
+IAN 
+moim 
+14M1(X17/ MIN 
+IMYNTENS04 FL 
+Ealei 
+UNIAMID WANNO NN 
+.M014 „Q 
+AIN 
+XOP0171.ANYME LIN 
+wp
+FCMit
+st 
+FL 
+INN 
+1.11111111TED AMIMIO/ 
+: lil SM li; 
+yerAtm#404 FL 
+bul 
+WPMA434401 FL 
+NN 
+3:: A:"V* n: 
+i ii El 
+M 
+WPALIANA04 FL 
+}MN 
+UMPAYE0 14M1(10 GM 
+R
+ 
+itg lz 
+i =
+k7 .1
+4
+r4 
+tiii4 
+unu 
+AMINOWY 
+11414 
+LAMM 
+AMIOM MN 
+„MN 
+Nr 
+AMIMIO MN 
+A 
+m 
+1.%49,241- 
+:. I oul 10AM 
+241.1L04 R 
+MN 
+Ma 40C/k NANIIE NN 
+W
+WPPtittniVA 
+R 
+MM 
+N SR/Amp:Et  t oll 
+IAN 
+II 1 NA WDA 
+1EVT 
+MESSiRETRIEVIL 
+WO Ulm' IW IL 
+IAN 
+IRs°Elifili 
+„MALT 
+NVOLND moi 
+IICY179-arliN/1 
+AIN 
+uMA414001.T014004 
+efairi 
+ą 
+mA 
+&MN. 
+mmmv. UN 
+WPALINSACH Fl. 
+IAN 
+X0 M0X.AX 
+IAN 
+IM 4601. 41177,1 0041 
+mm 
+NAPNIE() MIANO 51111 
+WPALIMEACI4 IL 
+MN 
+UNMATED IMMMO MAY 
+'; 111%.114:tre 
+„c
+NAOo
+F4 
+IW 
+CALL W/4111M 
+urimort.0 KAMM 1/74 
+WYWABEM-44 ft 
+MN 
+UNUFATE0 ANNA NIN 
+APRAMEA.01 W 
+MN 
+UNLAME01 AMIOM MN 
+MANNACH FL 
+IAN 
+UNLM MM TOMOM 
+WI 111/1102114 
+WI 
+UMMIEMAKIVININ 
+14,44 
+WAM ED mm( 
+sAN 
+AMANT 
+&WM MN 
+WPAMIEAMML 
+IAN 
+ICO ACM ANyT/46 im 
+il IN M: 2:/: 
+INN 
+winauT 
+&WV 
+IAN 
+NN 
+INLAOTED AMINO NN 
+reT 
+AINAS/934 RITNEYN. 
+rattrk
+Ń11 
+trl 
+1245=
+117.112' 
+INN 
+WW1' LDIONMADIAM 
+LVT 
+CALL W AIM] 
+50v1/70/5914 FL 
+IAN 
+X0 MOI /Ant thk 
+!; 31 11P1:13 r. 
+!am= int. 
+AMCNANG 
+INECUIAG 
+M 
+otou mos.10 MODŁ 
+IIAN 
+%O 4001 MONS MA 
+1" in 04/14 01NP 
+0 13t OM" 041/7P 
+11011CTON
+NCan4G8C411. 
+MN 
+VON C MMII MX 
+MM 
+LIMPAI
+D NMX/ MN 
+MV 
+MN 
+MM ‚  Ol NAVIN 
+VRAUFFEACH FL 
+W
+W 
+Ma ACOl. ANytioe NN 
+Erl 
+CAL 42
+1. Ligt.
+'N lAi
+lF0 pa  „.14 
+j 1g o g g tc),4 In• 
+80111TON$C4 FL 
+MN 
+MAM 
+NAT MM MN 
+WPAINtEAChl n 
+IXECIAN. 
+M 
+11 NI st mlii 
+3
+WPILAmid kn. 
+/Mi
+m  
+nuolvUitr
+i. 
+&Mgt; %a
+m 
+%WALI...60.0.1FL 
+MN 
+ZOINty/mt NIN 
+NN 
+'Alwyn Ntni 014.1 
+WPALIARA:7111 
+NM 
+V) AMYL MYTNE MN 
+11r) 
+) 4 
+i r 
+WIN 
+IMUMTED PONX/10 MX 
+w&WAFEArAI FL 
+IAN 
+NO MM WNYK lm 
+wpAttas404 Fi. 
+mm 
+uNiturED walom. 
+N 
+a  
+im
+ikINI 
+S Mot Army% iFel 
+MS 
+AebtAr4y1A45 mn 
+I. 
+..4 0:NM 
+E
+tt a 
+MIM 
+ulitigirr NIMM3M/4 
+1/01 
+WANE/ D WAIN MN 
+WPAUNIEA04 FL 
+im 
+305 AMYL ANY1W NN 
+FL 
+WIN 
+SM. WOOL TO a 
+EW 
+14455464 Ai rmayAl. 
+ii i zi Elli 
+P 
+IIIII 
+0111114115014Y/X/In LAN 
+uvuerriD NINOM MN 
+INLNITEO NIKON Am 
+Mln ANY/yrt sm 
+WP 
+VRL:1/2.,04 Pt 
+it; 4 
+M .18gt 'Llgra ren 
+NCOMM 
+11474 
+74/14mr,MY764$ mn 
+li 
+:N: 
+:r 
+i 174/14 re 
+N 
+li l 
+enstliMa
+irplers 
+E 
+LINIM140 NAVIMS MV 
+Yip/ENNICI4 FL 
+MM 
+xc mot Am17.0 MN 
+wo". 
+ain 
+tenser-co NINICN DWI 
+71$2.0i A CI I FL 
+M 
+0E:ST7'41414 
+II 
+Sii9; 
+LW 
+INLAIFED &WIND MN 
+WI 
+uNisrio WHOWOMOS 
+=ACM 
+FL 
+IINN 
+WONI; Myna V.:i, 
+us 
+w. 
+UNAMI WAM IAN 
+AC.0610/4 
+,MINI 
+$70 ADD.. ANTM/ MN 
+80 om 09706P 
+kW 
+Mn Mr 
+14Y/X1 MV 
+WPAIMBEACII Ft 
+ 
+NO MOI. MMMII MV 
+; 
+1 04/I r
+iori 
+MN 
+WINI' 
+WWI WV 
+mi 
+uNtrar 
+NIANNN my 
+E4rial§.11eFit 1..'4,9 Er4479114Ca'" 
+MFW( Mn 
+il' 
+lilii!! 
+LW= 
+MN 
+WILN' 
+NAVANO MA 
+WI 
+UNLAIMED &WOO IAN 
+VMI 
+UJM B WW)CtIDICI 
+•CONMG 
+MIN 
+340.41704 MYTNE IAN 
+IIMIIIIIIIIIIIIIIIIIIIIIIIIIIiIIIII 
+IliIIIIIIIIIIIIIIIIIIIIIIIII 
+j
+Charm 
+EFTA01692826

@@ -1,0 +1,167 @@
+---
+source_image: "affidavit+legal-filing+court-document+deposition-transcript__EFTA01337869_20260130_p023_i001.png"
+source_pdf: "EFTA01337869.pdf"
+method: pdf_text
+words: 548
+confidence: 1.00
+extracted: 2026-02-13T16:15:20.793296
+---
+
+V/SiMUSINESS CREDIT CARD A -MLICATION 
+CREDITOR: PALM BEACH NATIONAL BANK & TRUST CO. BRANCH II 
+REFERRED BY: 
+COMPANY APPLICANT 
+COMPANY NAME: 
+NATURE (TYPE) OF THE BUSINESS: 
+m
+int_ 
+CSM•14-7-
+INDICATE TITLE DESIRED ON THE CARD: (I IMITFD TO 24 SPACES) 
+CA-T 71 CI-ST.z-cc-r- 
+(\)s-u) iL t 
+N 
+TYPE OF ORGANIZATION (PLEASE CHECK): 
+, 
+DATE OUSINE S ESTABLISHED: 
+11CORPQRATION rIPARTNERSHIP P1PROCRIETORSHIP 
+NAMEeF CONTACT Pg0N: 
+BILLING ADDRESS: 
+STREET: 
+• 
+IT T: 
+ST ATE: 
+ZIP CODE: 
+/002 
+i 
+FEDERAL EIN NUMBER: 
+OWNER(S)/OFFICER(S)/PARTNER(S) WILL BE REQUIRED TO PERSONALLY GUARANTEE ACCOUNT(S). GUARANTOH(S) 
+MUST COMPLETE THIS SECTION AND SIGN AT THE BOTTOM OF THE REVERSE SIDE OF THIS APPLICATION. 
+GUARANTOR I: FIRST NAME 
+MIDDLE INITIAL LAST NAME 
+DATE F BIR H 
+SOCIAL SECURITY NUMBER 
+E- • 
+E- PSTM
+ iv 
+RESIDENTIAL ADO 
+SS: 
+STREET: 
+APT": 
+CITY: 
+STA E:
+ZIP CODE: 
+6-1- a.,, ,„ ,j04,1
+OWNERSHIP STATUS: 
+flOTHER: 
+POSITION WITH COMPANY: 
+JOTA. 
+-"re-)r5 
+W.4 11 3011-C-11-  Ft. 
+?3 
+IS 
+/ C)
+MONTHLY MORTGAGEJRENT7WMENT
+HOME TELEPHONE NUMBER 
+% OF r5N
+i eRSHIP 
+TIM WITH C0
+ti 
+rt.c)MpANY: 
+" 
+- 
+GUARANTOR 2: FIRST NAME 
+MIDDLE INITIAL LAST NAME 
+DATE OF BIRTH 
+SOCIAL SECURITY NUMBER 
+RESIDENTIAL ADDRESS: 
+STREET: 
+APT/7: 
+CITY: 
+STATE: 
+ZIP CODE: 
+YEARS AT ADDRESS 
+OWNERSHIP STATUS: 
+MONTHLY MORTGAGE/RENTAL PAYMENT 
+HOME TELEPHONE NUMBER 
+POSITION WITH COMPANY: 
+V. OF OWNERSHIP 
+TIME WITH COMPANY: 
+OFFICE TELEPHONE NUMBER 
+t. 
+BANKING & OTHER CREDIT CARD RELATIONSHIPS 
+PRIMARY BAN 
+BUSINE 
+OTHER ACCOUNTS 
+C' i \ AC C 
+A.. 4 C. 
+ 
+lb OAN OASAVINGS ACCT CICREDIT CARD 
+OTHERAANK: 
+TYPE(S) OF ACCOUNT(S): 4"cm-S cm, 4— 
+ti...0J)JTS erCD-0•44m7v.4., 
+.1'A ....t---• 
+teNC-A- --. 4.4k":3 L 
+OWECISINQACCOUNT 
+°LOAN _Old&YEDLACCOUNT 
+OrTworr CARD 
+AMERICAN EXPRESS 
+ACCOUNT NUMBER: 
+CORPORATE CARD? OYES ONO 
+VISA BUSINESS OR 
+ACCOUNT NUMBER: 
+CORPORATE CARD? OYES ONO 
+MASTERCARD BUSINESS OR 
+CORPORATE CARD? OYES ONO 
+.ACCOUNT NUMBER: 
+DATE OPENED: 
+DATE OPENED: 
+BALANCE: 
+DATE OPENED: 
+BALANCE: 
+BALANCE: 
+AUTHORIZED INDIVIDUAL CARDHOLDER(S) 
+LIST THE NAMES OF ALL EMPLOYEES TO WHOM CARDS ARE TO BE ISSUED FOR BUSINFSS PURPOSES: 
+NAME (PRINT) 
+SOCIAL SECURITY U 
+SIGNATURE 
+CASH ADVANCE ACCESS? 
+OYES kNO 
+OYES 
+TatIO 
+OYES *10 
+OYES 
+ONO 
+TOTAL CORPORATE CREDIT LIMIT REQUESTED: $ 
+CREDIT LIMIT 
+$ /0" OCCA On 
+$ 
+OO(9..a
+1-570a:Loo 
+1J ONE CONSOLIDATED MONTHLY STATEMENT 
+°INDIVIDUAL ACCOUNTS BILLED SEPARATELY EACH MONTH 
+0 STANDARD QUARTERLY REPORTS PACKAGE OENHANCED REPORTS PACKAGE OPTION (CALL US FOR DETAILS) 
+6. 
+SIGNATURE 
+App011ff natal met this Womiation Is Inn and compla and ilulhOrani and
+ lo wanly eN Womiellon and obtain addii&d Nionnation concealing Companys owe 
+swats} end lo.turnish such anal inlormalion to news. Company agrees to be bound by end obilgsead scoxdIng to Me creditor% VISA Business Card Reoulallons. 
+AppiklAt apemen% and warrants that the cradll card account will be used primarily (SO% or mom) for other than pimonal, family household or agricultural 
+ 
+ Applicant aidsnUnde aim this repressaidien Is io cannon nisi no diniesume are 'squired under the Smart' TrumerstAnding law. 
+Applicant 'moons esiablIshmeni d on account tot each 
+ad use 
+abom ix on the angled 1N, es mey be amended in maim Inim linty la doe by Appatani. 
+Each such designated person la an sulk/kid user 
+ham J 
+lo use Ma meow* dasiprosied lot such eulhortzed user Intl In canine Is notified to the 
+canary Inwilling by the Company.. 
+APPLICANT SIGNATURE: 
+ 
+DATE: e, /0/ 
+PRINT NAME: 
+CORPORATE TITLE: 
+Pilz -vv‘r 
+SDNY_GM_02771439 
+SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17 
+EFTA 00258247 
+EFTA01337891

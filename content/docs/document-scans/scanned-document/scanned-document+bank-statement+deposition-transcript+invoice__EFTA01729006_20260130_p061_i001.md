@@ -1,0 +1,312 @@
+---
+source_image: "scanned-document+bank-statement+deposition-transcript+invoice__EFTA01729006_20260130_p061_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 599
+confidence: 1.00
+extracted: 2026-02-13T17:18:19.681208
+---
+
+Page 
+12 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile User: 
+Total mobiles: 
+AIRTINR AND LONG DISTANCE CHARGES 
+CHARGES 
+Length 
+City 
+of 
+Mr 
+Long 
+Itm Date 
+Time 
+CL No. Called 
+Called 
+F P call Time 
+Dist. Total 
+385 02/26 09:53PM 
+386 02/26 10:16PM 
+387 02/26 10:23PM 
+388 02/26 10:38PN 
+389 02/26 11:26PM 
+390 02/26 11:30PM 
+391 02/26 11:48PM 
+392 02/27 12:16AM 
+393 02/27 09:11PM 
+394 02/27 09:13PM 
+395 02/27 09:14PM 
+'396 02/27 09:14PM 
+397 02/27 09:24PM 
+398 02/27 10:18PM 
+399 02/27 10:19PM 
+400 02/27 10:22PM 
+401 02/27 10:52PM 
+402 02/27 11:02PM 
+403 02/27 11:08PM 
+404 02/27 11:18P91 
+405 02/27 11:16PM 
+406 02/27 11:25PM 
+407 02/27 11:26PM 
+408 02/27 11128PM 
+400 02/27 11:29PM 
+410 02/27 11:33PM 
+411 02/27 11:44PM 
+412 02/27 11:47PM 
+413 02/28 12:01AM 
+414 02/28 12:06AM 
+415 02/26 01:56AM 
+416 02/28 02:05AM 
+417 02/28 11:21AM 
+418 02/28 11:22AM 
+419 02/28 11:39AM 
+420 02/28 11:40AM 
+421 02/28 12:10PM 
+422 02/28 12:53PM 
+423 02/28 12:55PM 
+424 02/28 01:191991 
+425 02/28 01:24PM 
+426 02/28 01:35PM 
+427 02/28 02:04PM. 
+420 02/28 06:13PM 
+429 02/28 06:16PX 
+430 02/28 08:26PM 
+431 02/28 08:35PM 
+432 02/18 09:06PM 
+433 02/28 09:08PM 
+434 02/28 09:19PM 
+435 02/28 09:28PM 
+436 02/28 09:45PM 
+437 02/28 09:57PM 
+438 02/28 10:04PM 
+439 02/28 10:07PM 
+440 02/28 10:08PM 
+W PALM FL N0 
+INCOMI CL N 0 
+INCON/ CL W 0 
+W PALM FL W 0 
+W PALM FL W 0 
+W PALM FL N0 
+NOTION FL W 0 
+INCOMI CL N 0 
+W PALM FL V N 
+N PALM FL N N 
+W PALM FL K N 
+N PALM FL NN 
+1NCOMI CL K 
+INCOMI a N )4 
+INCOMI a N N 
+DECCO4I a N N 
+INCOMI a N N 
+11100141 a W N 
+W PALM PL N N. 
+INCOMI CL N N 
+INCOMI a N N 
+K PALM FL N N 
+W PALM FL N N 
+BOTTOM FL W N 
+W PAIN MICR 
+N PALM FL N N' 
+W PALM PL K N 
+BOTTOM FL N N 
+W ➢ALM FL K N 
+W PALM FL N 
+W PALM FL M N 
+PALM FL W 
+PALM FL N N 
+PALM FL N N 
+PALM FL 11 N 
+PALM FL N N 
+INCOMI CL 
+N 
+INCOMI a K N 
+INCOMI a K 
+Imam CL N N 
+INCOMI CL W N 
+INCOME CL N N 
+INCOMI CL W N 
+PALM FL NN 
+INCOMI a W H 
+INCOMI CL W N 
+PALM FL W N 
+OICE awn 
+NCOMI CL W N 
+PALM FLWN 
+PALM 
+NCOMI 
+MOM 
+NOOMI 
+NOON! 
+MORI 
+2 
+0.00 
+2 
+0.00 
+4 
+0.00 
+4 
+0.00 
+5 
+0.00 
+1 
+0.00 
+2 
+0.00 
+4 
+0.00 
+2 
+0.00 
+1 
+0.00 
+1 
+0.00 
+1 
+0.00 
+4 
+0.00 
+1 
+0.00 
+2 
+0.00 
+2 
+0.00 
+1 
+0.00 
+2 
+0.0D 
+1 
+0.00 
+1 
+0.00 
+3 
+0.00 
+2, 0.00 
+1 
+0.00 
+'1 
+0.00 
+1 
+0.00 
+1 
+0.00 
+2 
+0.00 
+1 
+0.00 
+1 
+0.00 
+1 
+0.00 
+1 
+0.00 
+2 0.00 
+I 
+0.00 
+4 
+0.00 
+1 
+0.00 
+1 
+0.00 
+3 
+0.00 
+1 
+0.00 
+3 
+0.00 
+6 
+0.00 
+I 
+0.00 
+5 
+0.00 
+9 
+0.00 
+3 
+0.00 
+3 
+0.00 
+2 
+0.00 
+1 
+0.00 
+2 
+0.00 
+3 
+0.00 
+S 
+0.00 
+PL W N 
+2 0.00 
+CL N N 
+2 0.00 
+CL K N 
+6 0.00 
+a W N 
+1 
+0.00 
+CL W N 
+1 
+0.00 
+a N N 
+2 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+D.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+D.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.0D 
+EFTA01729066

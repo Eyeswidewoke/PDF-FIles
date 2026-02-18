@@ -1,0 +1,226 @@
+---
+source_image: "bank-statement+invoice+deposition-transcript__EFTA01707184_20260130_p015_i001.png"
+source_pdf: "EFTA01707184.pdf"
+method: pdf_text
+words: 568
+confidence: 1.00
+extracted: 2026-02-13T16:08:27.863225
+---
+
+Account Name 
+Account Number 
+Date of Invoice 
+October 15, 2004 
+AT&T Wireless 
+-
+Page 3 of 16 
+INTRODUCING THE TRAVEL PACKAGE FROM AT&T WIRELESS. THE 
+PACKAGE THAT ALLOWS YOU PEACE OF MIND WHILE ON THE GO. 
+COMBINING THE COMFORT OF ROADSIDE ASSISTANCE AND THE 
+CONVENIENCE OF 411 INFO AT YOUR FINGERTIPS, ALL FOR A 
+GREAT LOW RATE. TO FIND OUT MORE GO TO YOUR NEAREST 
+AT&T WIRELESS STORE TODAY. 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+ACCOUNT DETAILS 
+Detail of Payments - Thank You! 
+Item Description 
+Date Applied/Reversed Payment Amount 
+1 PAYMENT 
+09/24/04 
+-323.87 
+Total of Payments 
+Detail of Other Account Charges 
+Item Description 
+1 LATE PAYMENT CHARGE 
+Total of Other Account Charges 
+Detail of Account Taxes, Surcharges and Regulatory Fees 
+Item Description 
+1 FEDERAL TAX 
+Total Account Taxes, Surcharges and Regulatory Fees 
+Current Subscriber Monthly Charges and Credits 
+umber 
+Subscriber Name 
+Total Current Subscriber Monthly Char 
+Total Current Monthly Charges 
+Charge 
+-171 87 
+-323.87 
+Charge 
+2.0S 
+2.05 
+Charge 
+0.06 
+0.06 
+Charge 
+210 90 
+210.90 
+213.01 
+Monthly Service Charges - Continued 
+Item Description 
+10 CALL FORWARDING 
+11 THREE WAY CALLING 
+Total Monthly Service Charges 
+Monthly Usage Charges 
+Item Description 
+1 500 ADM ANYTME MIN 
+2 MESSAGE RETRIEVAL 
+3 1000 NIGHT/WKEND MIN 
+4 100 INCL MSGS SENT 
+6 DISC INTRt DIALING 
+7 INCLUDED MINUTES 
+8 411 INFO 
+9 DROP CALL CREDIT 
+10 ADDITIONAL MINUTES 
+Total Monthly Usage Charges 
+Taxes, Surcharges and Regulatory Fees 
+Item Description 
+1 UNIVERSAL CONNECTIVITY CHARGE 
+2 SALES TAX 
+3 STATE COMM SERVICE TAX 
+4 LOCAL COMM SERVICE TAX 
+5 COUNTY 911 TAX 
+6 FEDERAL TAX 
+Total Taxes, Surcharges and Regulatory Fees 
+TOTAL CHARGES FOi
+Service Dates 
+09/15/04 - 10/14/04 
+09/15/04 • 10/14/04 
+Only Used 
+500 MIN 
+71 EVT 
+1000 MIN 
+91 EVT 
+22 EVT 
+1 MIN 
+500 MIN 
+1 EVT 
+1 MIN 
+452 MIN 
+Charge 
+0.00 
+0.00
+59.96 
+Charge 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.65 
+0.00 
+1.50 
+0.00 
+113 00 
+115.15 
+Charge 
+4.71 
+0.30 
+16.00 
+9.13 
+0.50 
+5.15
+35.79 
+210.90 
+DETAIL OF CURRENT ACTIVITY 
+SUMMARY OF CURRENT ACTIVITY 
+Monthly Service Charges 
+Item Description 
+Service Dates 
+Charge 
+1 CALL WAITING 
+09/15/04 • 10/14/04 
+0.00 
+2 AT&T TEXT MESSAGING 
+09/15/04 • 10/14/04 
+4.99 
+3 CALLER ID 
+OW15104 • 10/14/04 
+0.00 
+4 WORLDCONNECT 
+09/15/04 • 10/14/04 
+0.00 
+5 COM EQP 1.99EW/3.COINS $4.99 
+09/15/04 -10/14/04 
+4.99 
+6 AT&T VOICEMAIL 
+09/15)04 • 10/14104 
+0.00 
+7 DETAIL BILLING 
+09/15/04 - 10/14104 
+0.00 
+8 $39.99 CHARTER OFFER 
+09/15/04 • 10/14/04 
+39.99 
+9 1000 NIGHT AND WEEKEND MINUTES 
+09/15104 - 10114/04 
+9.99 
+. 
+VOICE USAGE FOR 
+Number 
+Item Date Time 
+1 08/30 12:31P 
+2 09/05 09:43P 
+3 09/0510:13P 
+1 09/0612:56A 
+5 09/06 12:59A 
+6 09/07 06:16P 
+7 09/0706:20P 
+8 09/07 06:24P 
+9 09/07 06:27P 
+10 09/0812:12P 
+11 09/09 08:16P 
+12 09/09 08:21P 
+13 09109 08:24P 
+14 09/09 08:20P 
+Calls To 
+WPALMBEACH FL 
+HOLLYWOOD FL 
+WPALMBEACH FL 
+WPALMBEACH FL 
+DELRAY 8CH FL 
+WPALMBEACH FL 
+WPAUABEAC II FL 
+WPALMBEACH FL 
+WPALMBEACH FL 
+INCOMING 
+WPALMBEACH FL 
+WPALMBEACH FL 
+WPALMBEACH FL 
+WPALMBEACH FL 
+Onty 
+Charge 
+Used Rate Description 
+INN 
+500 ADM. ANYTME MIN 
+1 EVT 
+MESSAGE RETRIEVAL 
+2MIN 
+1000 NIGHT/WKEND MW 
+1 MIN 
+1000 NIGHT/WKEND MW 
+2MIN 
+1000 NIGHT/WKEND MW 
+1 EVT 
+MESSAGE RETRIEVAL 
+2MIN 
+1000 NIGHT/WKEND MW 
+1MIN 
+500 AWL ANYTME MIN 
+1MIN 
+500 ADM ANYTME MN 
+2PAIN 
+SOO ADDI ANYTME MIN 
+261114 
+SOO ADM. ANYTME MIN 
+1 MIN 
+SOO AMYL ANYTME MIN 
+2MIN 
+SCO ADM. ANYTME MIN 
+1 MIN 
+SOO ADD'L ANYTME MIN 
+1 MIN 
+500 ADDl. ANYTME MIN 
+2MIN 
+500 ADM. ANYTME PAIN 
+Charge 
+EFTA01707198

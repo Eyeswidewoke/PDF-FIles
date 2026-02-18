@@ -1,0 +1,226 @@
+---
+source_image: "bank-statement+invoice+court-document__EFTA01309735_20260130_p003_i001.png"
+source_pdf: "EFTA01309735.pdf"
+method: pdf_text
+words: 535
+confidence: 1.00
+extracted: 2026-02-13T16:08:17.410081
+---
+
+X cingtrilarthebtr 
+mbar 
+LATE PAYMENT CHARGE: 
+A 1.5% LATE PAYMENT CHARGE PER MONTH MAY BE APPLIED FOR 
+AMOUNTS UNPAID 20 DAYS AFTER THE DATE OF INVOICE 
+(AK 0.875%, AR 0.085%, NE 1.33%, WI 1.00%). 
+ACCOUNT DETAILS 
+Detail of Payments - Thank Yoti I
+Item Description 
+Date Applied, Reversed 
+1 PAYMENT 
+02/21106 
+Total of Payments 
+Current Subsc 
+`.'onthly Charges and Credits 
+Subscrter Number 
+Subscriber Name 
+Total Current Subscriber Monthly Charges and Credits 
+Total Current Monthly Charges 
+Payment Amount 
+-367.70 
+Charge 
+-367 70 
+-387.70 
+SUMMARY OF CURRENT ACTIVITY 
+Charge 
+484.10 
+82.21 
+808.07 
+606.07 
+FOR 
+Monthly Service Charges 
+Item Description 
+Service Dates 
+Charge 
+1 CALL WAITING 
+02,03/06 - 03/02/06 
+0.00 
+2 TEXT MESSAGING PLAN - 0 MSGS 
+02,03/06 - 03/02/06 
+0.00 
+3 CALLER ID 
+02/03/06 - 03/02/06 
+0.00 
+4 VOICEMAIL 
+02/03/06 - 03/02/06 
+0.00 
+5 DETAIL BILLING 
+02/03/06 - 03/02/06 
+0.00 
+6 REGULATORY PROGRAM CHARGE 
+02/03/06 - 03/02/06 
+1.75 
+7 CALL FORWARDING 
+02/03106 - 03/02/06 
+0.00 
+8 WORLDCONNECT 
+0203/06 - 03/02/06 
+0.00 
+9 THREE WAY CALUNG 
+02,03/06 - 03/02/06 
+0.00 
+10 BLACKBERRY $49.99 
+02/03106 - 03/02/06 
+49.99 
+11 NATIONAL PLAN $29.99 
+02/03106 - 03/02/06 
+29 99 
+Total Monthly Service Charges 
+81.73 
+Monthly Usage Charges 
+Item Description 
+1 100 ADM_ ANYTME MIN 
+2 UNLIMITED NANKND MIN 
+3 MESSAGE RETRIEVAL 
+Total Monthly Usage Charges 
+Onty Used 
+29 MIN 
+41 MIN 
+3 EVT 
+Charge 
+0.00 
+0.00 
+0 00 
+0.00 
+Account Name 
+JEFFREY E EPSTEIN 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+Date of Invoice 
+March 03, 2006 
+Page 3 of 12 
+Other Subscriber Charges 
+item Description 
+1 MCTD SURCHARGE 
+0.16 
+2 NY CITY UTILITY G.R. SUR 
+0.55 
+3 STATE TELECOM EXCISE SURCHARGE 
+0.71 
+4 FEDERAL UNIVERSAL SERVICE FUND SURCHARGE 
+Q21 
+Total Other Subscriber Charges 
+2.19 
+Charge 
+Other Subscriber Credits 
+Item Description 
+1 $5 MONTHLY CREDIT 
+Total Other Subscriber Credits 
+Subscriber Government Fees and Taxes 
+Item Description 
+1 SALES TAX 
+2 FEDERAL EXCISE TAX 
+Total Subscriber Government Fees and Taxes 
+TOTAL CURRENT CHARGES FOR 
+DETAIL OF CURRENT ACTIVITY 
+Charge 
+-5.00 
+Charge 
+2A2 
+116Z 
+3.29 
+82.21 
+VOICE USAGE 
+Item Date Time 
+FOR 
+Number 
+rsliod 
+Calls To 
+Onty 
+Charge 
+Used 
+ Rate Description 
+Charge 
+1 02/1011:17A 
+COLUMBUS OH 
+1 
+min
+100 AUDI_ ANVIL* MN 
+2 02/1011:16A 
+COLUMBUS OH 
+100 ADM ANYTME MN 
+3 02/12 12:52A 
+COLUMBUS OH 
+UNLIMITED NNVKND MIN 
+I AN 
+EVT 
+MESSAGE RETRIEVAL 
+4 02/12 10:42A 
+COLUMBUS OH 
+2MIN 
+UNLIMITED NNVIND MIN 
+5 02/12 10:53A 
+CANALWHSTR 0 
+22IAN 
+UNLIMITED NNVKND MIN 
+6 02/19 12:21P 
+7 02/19 1236P 
+8 0220 02:11P 
+INCOMNG 
+COLUMBUS OH 
+cotuteus OH 
+ILAN 
+/MAN 
+IAIN 
+UNLIMITED NNVKND MIN 
+UNLIMITED NNVKND MIN 
+100 ADM /MIME MN 
+9 02,21 12.31P 
+COLUMBUS OH 
+1 MN 
+100 ADM ANYTME IAN 
+10 0222 075M 
+INCOMNG 
+1 INN 
+100 ADM ANYTME MN 
+11 0222 07:56A 
+JOHNSTOWN OH 
+4IAN 
+100 ADM ANYTME MN 
+12 0222 0B:22A 
+DELAWARE OH 
+VAN 
+100 ADM ANYTME MN 
+13 02/22 11:37A 
+COLUMBUS OH 
+1MIN 
+100 ADM ANYTME TAN 
+1EVT 
+MESSAGE RETRIEVAL 
+14 02/22 06:19P 
+INCOMNG 
+2MN 
+100 ADD'L ANYTME MN 
+15 0223 11:24A 
+INCOMNG 
+1 MIN 
+100 ADD'L ANYTME MN 
+16 02/24 1152A 
+INCOMING 
+1 MIN 
+100 ADD'L ANYTME MN 
+17 03f02 09:15A 
+COLUMBUS OH 
+1 MIN 
+100 ADD'L ANYTME MIN 
+1 EVT 
+MESSAGE RETRIEVAL 
+16 03,02 1129A 
+INCOMING 
+8MIN 
+100 ADD'L ANYTME MIN 
+TOTAL VOICE USAGE FOR 
+CONFIDENTIAL 
+SDNY_GM_00333294 
+too 
+EFTA_00205998 
+EFTA01309737

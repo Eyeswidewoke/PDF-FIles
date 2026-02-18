@@ -1,0 +1,543 @@
+---
+source_image: "deposition-transcript__EFTA01692725_20260130_p038_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 910
+confidence: 1.00
+extracted: 2026-02-13T17:00:45.992587
+---
+
+Account Name 
+Account Number 
+Date of Invoke 
+Navarra:or 14. 20O4 
+AT&T Wireless 
+Page 9 of 20 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Number 
+Imo Cute Tent 
+Coils To 
+* 101 
+mot 
+201N 
+IV
+WPALMEEMN FL 
+101^M2 
+10112011 
+1011201:1
+3 
+1p1311S 
+1 
+13 
+cn 
+gt 
+Ft 
+110/1}02. 
+FL 
+33 10120031 
+901/77040304FL 
+21 WIT 
+NTOIMCIIFI.
+11 rig
+:
+in 
+r1S'Y
+S:Viril L.M.IX N a 
+41Ft 
+ii lig 
+4
+II 
+1g 
+wPAL1/ 
+WPMAIrE4 PE 
+M 
+‘411,TWra 
+F 
+WI 
+MN 
+31 W14 0301 
+80TILVAIRM FL 
+MN 
+li 10/10101 
+tai ev
+Y3a1CesA0.
+4SCH n.
+FL 
+MN 
+MN 
+1 i
+ 4 ,
+37 1 
+04 
+iO. 
+W0ALMERACII FL 
+w•Ame£404 FL 
+ROYNTON404 FL 
+IN 
+MM 
+IAN 
+]]
+3910'120101
+ 
+tiCOMMG 
+1,:i 
+E
+*31. -2:ggll 
+39 '0112 04 
+40 
+;VI g"
+ 
+INCCein
+ 
+MN 
+COCA RA 03 FL 
+MCA310/43 
+YR 
+ROAMS AS 
+WM 
+301 AWL ANY 
+MN 
+MN 
+X0 Atvn AM 
+MX 
+V in isi 
+L
+A
+NTOMICAR 
+}MN 
+340 4001. *INT.& INI 
+YNTON001 Ft 
+MN 
+3:0 AWL MIVTME MN 
+V 923; 
+44 10/1 07 1 
+1
+ALMIC.ACII FL 
+BOGS RATON Fl. 
+RATCN FL 
+WI 
+31:0 
+ARM* MX 
+MN 
+3)3 
+MN 
+300 
+ANYTMI MN 
+Mk 
+171011207 
+.04.1Iff
+YIP
+ACIIII.
+W1 
+300 
+7 
+1.1 1017201 
+10112023 
+Etr.ffiNt 
+MN 
+830 
+MN 
+0 
+MITTS% WI 
+MN 
+ANTWE MO 
+VW WI 
+9OCA RATON FL 
+MN 
+300 
+ANYlvt LIN 
+52 
+V/PALUROCI4 FL 
+MN 
+330 A001. /MTN( WI 
+11 
+WPALLIDCACH FL 
+MN 
+2004001 ANYT 
+MN 
+OB 
+IXCOMLO 
+WPAIMBFACII FL 
+INCOMVO 
+MN 
+300 ADDY OM 
+WI 
+MN 
+3004001 ANTI 
+MX 
+MN 
+300 AMYL 44F/114 'AN 
+511012 
+wPALAMEACH FL 
+MN 
+UNUM MODL TO 1.061. 
+MI 1012• 
+WPALAMEACH FL 
+MY 
+303/01:11 ASITTIIE 1.111 
+St 1012 Ol, 
+DIC011043 
+1131 
+300 
+ANTTME WrI 
+Ili* 10112 
+WPAIMMEA01 a 
+W4 
+LAILPATFON/11101011114 
+Eggig k. 
+19: 
+ezt. 
+4-szcz =I 
+MN 
+OIL 
+881010 UM 
+EVT 
+M455 
+RETRIEVAL 
+p
+in/ 
+wgr
+CIIAIOo ft.. 
+MN 
+WILM I 
+N. 
+IAN 
+vms47 
+i4MtN. MR 
+•:
+‘
+,1 1,01401FL 
+Continued 
+Omy 
+Cary 
+Uses Roe DoscnotIon 
+Imo 
+UNLIMITED 41/%11/40 MN 
+%OADULFNYNEWI
+NVYI11E WI 
+14t1 
+1•11 
+WI 
+NIS 41041 TO 
+3
+ 
+IO Dt ANYTW Yp 
+UNLW SOIL TO MOO. 
+MESSAGE RETRIEVAL 
+umw MOIL TO SO. 
+l AatAity
+A00% ANYTM MN 
+L Nand 
+1411 
+Muer soot ro 
+L
+oma/ WOO TO YOBL 
+1:14N 
+MN 
+MN 
+IAN 
+EV1 
+lel 
+Mel 
+IEN 
+mot 
+=NOM AIM 
+M 
+11711121,X4090a4/0.11k
+riaL
+L ANNTMI MN 
+303 AWL MYTME MN 
+UNUM ma TO al 
+MN 
+UU
+M-141- 
+/AWN MN 
+N14740 /4M14140mN 
+it 10/i 
+MN 
+IML MTV? 0/4110m mu 
+Litam74014M4t3o MN 
+71 ICJ 102 
+INC 
+119. 
+Ut4LIMILDN/M1101/1N 
+)0 = 
+• 
+WPALIF 
+ri 
+too 
+ue4LIKTCOIVI/K112 ens 
+72 1012 10479 
+9011ITCX4130314 FL 
+MN 
+LIMONITE° /4011040 MN 
+Chaos 
+VOICE USAGE FOR 
+miser 
+kom Doe Rim 
+73 W12 1051P 
+11
+73 F1011$ il0i1420 
+i 
+al di: 
+10r1 11,14P 
+41 IWO 11:34P 
+62 1012 MAW 
+CO Ion 1140 
+81 
+21102P 
+9$ +au 1102P 
+is 10115120?** 
+37 10113 In•A 
+II in 1p, 
+ce onsm,-.4 
+91 %VII 0900 
+11 fgl&4 
+E 114 O8.
+O4O4 
+FL 
+96 10I144•12P 
+n !0/14 PO,. 
+r: WI: 
+i(0 10/14 00.3441
+101 10/14 09.93? 
+102 10/16007M 
+FL 
+BOYNTONICH FL 
+aw 3 rE It iri I ti 
+, , mi. 
+1/0
+$181T48 
+80Y1170141101 FL 
+107 Ions Men 
+MN Ifn5 1106A 
+WPM
+, FL 
+S Y 
+ ;I. 
+11/ 1 
+111 
+toe 10n1 110/A 
+110 10/1 11-
+111 1E 11 
+WPINIMIK 
+ft 
+ZOO 
+'Pc 
+PIT011801 FL 
+1 43 110111 'lila 
+EIOT 
+FL 
+115 10115 1119A 
+COTNTLY1 
+R 
+118 10115 1119A 
+FL 
+111 10115 11ACM 
+BOY 
+1 1005 1111A 
+119 10115 1042A 
+ICE 
+St 
+120 Ions 1146A 
+K 
+L 
+121 10/11 12 31P 
+WPAIM 
+FL 
+4 101312.30 
+123 ions 01 
+IN 10115 011
+17/ 1001S cess 
+109 10/15 O115. 
+in 10115 0116P 
+1» 
+012 
+131 to
+ os 
+to tons 
+133 Ions sour 
+134 Ion*com! 
+135 1011313921a 
+- Condnued 
+pry 
+Chlrge 
+WPAUMEACH FL 
+WS Ras Dasorkaon 
+C.a. To 
+SIM 
+WH
+ACH FI L 
+1301
+▪ 
+11T01001 FL 
+801/1TEMOCH FL 
+80 
+11101YNT111031414FL 
+O'W 
+103 
+1 
+IL 
+/
+In 
+ils 5
+oot
+icasos
+• 
+I
+FL 
+NTONEION III 
+€ FL 
+WPALM 
+FL 
+wort-
+=tr.. FL 
+MN 
+LIM 
+ADO. Wald LW 
+AWL NOME MN 
+MN 
+300 AMYL ANYTME MN 
+MN 
+300/001 ANYT ri MIN 
+& 
+FE
+yE 
+MN 
+300 AO L ANY 
+MN 
+AO 
+t mu 
+MN 
+R 
+148 
+300 
+Ratgl 
+Ft 
+lZ1
+h.', 
+MN 
+WILMIED 1NOIN MN 
+MN 
+IIMMILD WM(N21001 
+MN 
+UM. FEZZITgra 
+MN 
+30.441t0 NWXN0 lax 
+MN 
+InilmTFO WNXIID MN 
+MN 
+UNLI/ITCONNINNO W4 
+MN 
+UNI.NOE0 NINXIID MIN 
+IAN 
+UM.44110 NAMIND MN 
+MN 
+IMIAIO WHIO4 MN 
+MN 
+OMAN OW/KM INN 
+MN 
+U141441 0 WHNN MN 
+MN 
+IM
+u Lair
+117 0 NMI( 
+YM 
+MN 
+LiNuLin i Atm 
+WI 
+104 
+LNLANT 
+MW10/ WI 
+MN 
+1 )0.0 MY 
+MIN 
+VNUm7ED ///W10.01/014 
+N 
+A00
+UNLWITED1WINND MN 
+MN 
+NO Am. ANYTMC MN 
+IX
+M
+Wi 
+300 
+1. 4)(175 WI 
+0 ;SR Zpq la(
+Mr4 
+WI 
+•. A00
+RM1. 030- 1/14N 
+Lamm 
+5 
+Sot
+ASM-11 
+TO 
+44 
+MILM7F0 /WAND WV 
+A 
+MK 
+MR 
+UNUVrED WAR( D WV 
+WI 
+111 
+WMIN 
+4 
+aW
+I 
+LW 
+OMAN 
+311.410; mr4 
+16
+RIME N. 
+SI 
+SWIM WE 
+WI 
+UNLMI (PH/MO %IN 
+WI 
+LIANITLO IWII(ND VIII 
+INI 
+WWII ID ?UMW WI 
+WI 
+330 
+= 
+ADO,. AM/TIMMS 
+1.01 
+E 
+ANIE 11
+E .0 =it ANYI 
+MEN 
+WI 
+INN 
+300 AWL /WU 
+IAN 
+WI 
+)30 Awl MITIME 524 
+MX 
+300,4001 ANYTWE MN 
+MN 
+300 POOL ANYTME MN 
+Mi. 
+L Ni171/t MIN 
+MN 
+L ANNISL laN 
+MN 
+MN 
+MN 
+MT 
+MY T II MN 
+WM. 14424 
+Mli 
+MOW 1101 
+mit 
+la 
+(VT 
+WIWI 94TO:it-VAL 
+MN 
+3:0 AWL MOW Mx 
+MN 
+9)0 ADM HOWE MN 
+Charge 
+EFTA01692762

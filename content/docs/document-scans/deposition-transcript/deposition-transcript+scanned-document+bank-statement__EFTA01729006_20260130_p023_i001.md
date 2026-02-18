@@ -1,0 +1,314 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01729006_20260130_p023_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 564
+confidence: 1.00
+extracted: 2026-02-13T16:53:14.547539
+---
+
+I 
+Page 
+• 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile User: 
+Total Mobiles: 
+AIRTIME AND LON3 DISTANCE CHARGES 
+Its Date 
+Tin 
+CL No. 
+Length 
+City 
+of 
+Called 
+Called 
+F P Call 
+ 
+CHARGES 
+Air 
+Long 
+Time 
+Dist. Total 
+49 02/08 02:55AN 
+W PALM PL W N 
+1 
+0.00 
+0.00 
+SO 02/00 21:2BAN 
+INCOMI CL N N 
+1 
+0.00 
+0.00 
+51 02/08 11:29AM 
+INCOMI CL N N 
+1 
+0.00 
+0.00 
+52' 02/08 11:51AM 
+INCOMI CL W N 
+7 
+0.00 
+0.00 
+53 02/08 03:10PM 
+N PALM FL NN 
+1 
+0.00 
+0.00 
+54 02/08 03:21PM 
+N PALM FL N N 
+4 
+0.00 
+0.00 
+INCOMI CL N 
+SS 03/08 06:34PM 
+1 
+0.00 
+0.00 
+56. 02/08 06:36PM 
+INCOMI CL N 
+3 
+0.00 
+0.00 
+57 02/08 08:06PM 
+INOONI CL N N 
+1 
+0.00 
+0.00 
+58 02/08 013:28PM 
+PALM FL N N 
+1 
+0.00 
+0.00 
+59 02/08 00:32PM 
+N PALM FL N N 
+1 
+0.00 
+0.00 
+60 02/08 08:33PM 
+INCOMI CL N N 
+1 
+0.00 
+0.00 
+61 02/08 08:41PM 
+INCOMI CL W N 
+1 
+0.00 
+0.00 
+62 02/08 08147PM 
+N PALM FL N N 
+2 
+0.00 
+0.00 
+63 02/08 09:S9PM 
+INCOMI CL N N 
+1 
+0.00 
+0.00 
+64 02/00 10:18PM 
+N PALM FL HN 
+1 
+0.00 
+0.00 
+65 02/09 03:02PH 
+N PALM FL 
+1 
+0.00 
+0.00 
+66 02/09 03:05PM 
+N PALM FL 
+1 
+0.00 
+0.00 
+67 02/09 08:50PM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+68 02/09 09:37PM 
+INCOMI CL W 
+2 
+0.00 
+0.00 
+69 02/10 04:55PM 
+N PALM FL 
+1 
+0.00 
+0.00 
+70 02/10.05:40PM 
+I om! CV 
+1 
+0.00 
+0.00 
+71 02/10 07:52PM 
+N PALM FL 
+1 
+0.00 
+0.00 
+72 02/10 07:52PM 
+N PAIN FL 
+1 
+0.00 
+0.00 
+73 02/10 07:53144 
+INNNI CL 
+1 
+0.00 
+0.00 
+74 02/10 08:27PM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+75 02/10 08:41PM 
+N PAIN FL 
+1 
+0.00 
+0.00 
+76 02/10 10:26PM 
+IIKOMI CL W 
+6 
+0.00 
+0.00 
+77 02/10 10:32PM 
+N PALM FL W 
+1 
+0.00 
+0.00 
+78 02/10 10:32PM 
+VOICE CL W 
+I 
+0.00 
+0.00 
+79 02/10 10:33PM 
+N PALM PL W 
+2 
+0.00 
+0.00 
+80 02/10 10:40PM 
+INCOMI CL W 
+1 
+0.00 
+0.00 
+81 02/11 03:18174 
+N PALM FL 
+1 
+0.00 
+0.00 
+82 02/11 03:20PM 
+VOICE CL 
+1 
+0.00 
+0.00 
+83 02/11 08:118W 
+N PALM FL 
+2 
+0.00 
+0.00 
+84 02/11 08:14PM 
+N PALM FL 
+3 
+0.00 
+0.00 
+85 02/11 08:28PM 
+VI PALM FL 
+3 
+0.00 
+0.00 
+86 02/11 08:54PM 
+W PALM FL 
+1 
+0.00 
+0.00 
+87 02/11 08:55PM 
+N PALM FL 
+2 
+0.00 
+0.00 
+88 02/11 00:000m 
+N PALM FL 
+1 
+0.00 
+0.00 
+99 02/11 08:59PM 
+VOICE CL 
+2 
+0.00 
+0.00 
+90 02/11 09:01PM 
+W PALM FL N 
+3 
+0.00 
+0.00 
+91 02/11 09:04PM 
+PALM FL N 
+7 
+0.00 
+0.00 
+92 02/11 09:11PM 
+W PALM FL W 
+1 
+0.00 
+0.00 
+93 02/11 09:11PM 
+W PALM FL N 
+3 
+0.00 
+0.00 
+94 02/11 09:14W 
+N PALM PL N 
+3 
+0.00 
+0.00 
+95 02/12 03:10PM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+96 02/12 05:18PM 
+INCOMI. CL 
+1 
+0.00 
+0.00 
+97 02/12 08:20PM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+98 02/12 09:05PK 
+N PALM FL N 
+1 
+0.00 
+0.00 
+99 02/12 09120PM 
+W PALM FL N 
+1 
+0.00 
+0.00 
+100 02/12 09:23PM 
+N PALM FL N 
+1 
+0.00 
+0.00 
+101 02/12 09125PM 
+N PALM FL N 
+1 
+0.00 
+0.00 
+102 02/12 09:27PM 
+W PALM. PL N 
+7 
+0.00 
+0.00 
+103 02/12 09:36PM 
+W PALM PL W 
+1 
+0.00 
+0.00 
+104 02/12 09:37PM 
+N PALM PL N 
+1 
+0.00 
+0.00 
+EFTA01729028

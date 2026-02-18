@@ -1,0 +1,255 @@
+---
+source_image: "affidavit+court-document+scanned-document__EFTA01328448_20260130_p155_i001.png"
+source_pdf: "EFTA01328448.pdf"
+method: pdf_text
+words: 672
+confidence: 1.00
+extracted: 2026-02-13T16:09:42.725601
+---
+
+Ram Apceoved 
+0 M 
+N 2120-0018 
+0
+ 
+APPLICATION FOR 
+. 
+DA Nommen 
+AIRWORTHINESS 
+ft Tewepouum 
+,....is " ey e 
+CERTIFICATE 
+Aca 
+INSTRUCTIONS —Primer TYPO. Do not Arne in shaded areas; than are for FAA 
+use my Sutott origknal only to an OuthCelled FAA Represtnlativ0. IT addstOnal 
+space Is required. use an attachment For special night parrot complete Sections 
+II and VI or VII AS appacable. 
+I. AIRCRAFT 
+DESCRIPTION 
+T. REGISTRATION MARX 
+N61161 
+2 mac
+- r minor RS NAME MMFM 
+Bell HeIICODIer Textron, A Division 
+of Textron Canada Limited. 
+1 AIRCRAFT MODEL DESIGNATION 
+407 
+4. YR. MFR 
+1999 
+FAA COD/1I3. 
+Hia2 
+40 IP 
+5. AIRCRAFT SERIAL NO. 
+53375 
+IL ENGINE OULDERS taME (Mako) 
+ALLISON 
+T. ENGINE MODEL DESIGNATION 
+250-C47B 
+70 3 05L 
+6 NUMBER OF ENGWES 
+1 
+5. PROPELLER BUILDERS NAME (Mks) 
+N/A 
+IQ pROPELLERNODEL DESIGNATION 
+I 
+AIRCRAFT ES Karst 
+) 
+WA 
+x I Manila 
+a 
+P
+, 
+G 
+APPLICATION IS HERESY MADE FOR (Corot 'Noma/ ems) 
+" 
+A 
+l 
+X STANDARD ARM:AT/MESS CERTIFICATE fmastar °AWN IX I NORMAL I 
+I UTILITY 1 
+JACROBATIC 
+J TRANSPORT I 
+I 
+GLIDER 
+I 
+I BALLOON 
+Ts 
+SPECIAL AIRWORTHINESS CERTIFICATE (Chock ancOefabAmm9 
+2 
+UNITED 
+1 
+CLASS I 
+5 
+PROIAMNAL anckaN cc3A/ 
+2 
+CLASS II 
+I 
+AGRICULTURE AND PEST CONTROLX. 
+2 
+PERM SURVEYING 
+3 
+AERIAL ADVERTI5843 
+a 
+RESTRICTED &cedar° °petard/OMo 
+by conatetc0 
+4 
+FOREST (m114 tonsealion) 
+5 
+PATROLLING 
+6 
+%SATHER CONTROL 
+CARRIAGE Cf CARGO 
+0 
+OTHER (SpeoW) 
+1 
+RESEARr-H AND DEVELOPMENT 
+2 
+AMATEUR BUILT 
+3 
+EXIIIBRION 
+4
+UPERIMEIRAL PokotoopeolroW) 
+to be concro240) 
+4 
+RACING 
+5 
+CREW TRAINING 
+ANT. SURVEY 
+0 
+TO SHOW COMPLY/ICE WHIC FAR 
+1 
+FERRY EUZOR FOR REPMR.S. ALTERATIONS. MANTENANCE OR STORAGE 
+SPECIAL EMIR PERMIT &Mame 
+2 
+EVACUATE FROM AREA OF WINDOM DANGER 
+5 
+Fieralco lo be conAmeect Alto 
+W*1 VT? 
+3 
+OPERATION DI EXCESS OF MAXNUM CERTIFICATED TAKE.OFFNEIGHT 
+=r
+i'
+4 
+DELNERING OR EWORT 
+IS
+I ama/cm/awn 
+Tunic 
+6 
+CUSTOMER DEMONSTRATION MGM 
+C is I 
+ARATIPLE AIRWORTHINESS CERTIFICATE ( (AerA MOVE Twisted OperallorIAMIMMAlanfer lemitect•snimleabIt) 
+€ 
+• 
+C 
+° 
+ll
+Id 
+A. REGISTERED OVMER Ms Van a/cep:4ra data:0 replemron) 
+W DEALER. CHECK Mit -Al 
+NAAR 
+BE
+ HELICOPTER TEXTRON INC. 
+ADoRESI3 
+P.O. BOX 482 
+FORT WORTH, TEXAS 76101-0482 
+B. MOW" CERTIFICATION BASIS (Chock saMarOM Vock• ad coorAere RYms m :n034.0) 
+x 
+AIRCRAFT SPECIFICATION OR TYPE CERTIFICATE DATA SHEET (Gibe Mx 
+en 1 R F.: s t i a No ) 
+H2SW REV. 37 
+X 
+AIRWORTHINESSDIRECTIVES 
+AD MoJ 
+FAA BI
+(Chock 
+-WEEKLY 
+0 al **Was /401 carp */ torn °WOW Mut 
+SUPPL ISSUE 99-12 
+AIRCRAFT USING (Gnome =stern 
+N)A 
+X 
+SUPPLEMENTAL TYPE CERTIFICATE 
+SH13228O 
+Wit Nankir Of each STChworprNo° 
+- SR00220DE 
+C. MRCRAFT OPERATION AND /441PRENANCE RECORDS 
+X 
+CHECICIF RECORDS IN 
+COMPLIANCE WIEN 
+FAR 91.417 
+TOTAL ARTRARE HOURS 
+5.6 
+a 
+ORPERIMEMAL 
+Issutew 
+ONLY (EM boors !Wien Axe Ltstomiratto 
+axed; 
+N/A 
+D
+to 
+- I lier actir
+r  into or: . retwornssa. incOrma=lial 
+bee araft 
+siren 
+is codAcato nquestol 
+denoted otto; out takral Isp?4.eriertd swill 5;24 Foss
+2da.A4Alko AdenWitroro, 
+es9bl IN 
+DATE 
+July 
+OF APPLICATION 
+02, 1999 
+MIRE AND TITLE Pin t ct type) 
+Joan Rona Premont - Agent 
+SIGNATURE 
+5 
+g 
+i i 5 
+PG
+5 4 la 
+i 
+V 
+A.1HE AIRCRAFT DESCRIBED ABOVE HAS BEEN INSPECTED AND FOUND AIRWORTHY BY: (Compare Ads sozoo Fay d FAR Et MOM) 
+7 
+2
+IMPART 121 OR 127 CERTIFICATE HOLDERRAN 
+Ceara°. NO) 
+3 
+CERTIFTCATE0 MECHANIC (GeeCedikats No.) 
+CERTIFICATE REPAIR STATION (Gmr Cerettoo*Na) 
+5 
+AIRCRAFT MANUFACTURER (Ova name MOW 
+' 
+DATE 
+TIRE 
+SIGNATURE 
+V. FAA 
+REPRESENTATIVE 
+CERT.:MATO.' 
+ I 
+(oftmotAEL **Ws Nock F In Most A ev4 IV 
+TIM CERTIFICATE REOUESTED 
+A. MAIM the MAMA desoto1M Sea*, I ce MO meets requbeceres Mr 
+4 
+AmEADNENT OR MODIFICATION OF CURRENT AIRWORININESSCERTIWATE 
+B. Ingtoico Ices pedal IRON pellet undo Stertn VII on 
+FM INSPECTOR 
+FAA DESIGNEE 
+conducted W 
+CERTIFICATE HOLDER UNDER. 
+FARES I 
+I FAR 121.127 or 135 I 
+I FAR 14$ 
+DATE 
+so_ al viqg 
+°WW1 OFFICE 
+sk) pbo-Aft . 
+DESIGNEES SIGNATURE AND NO 
+...,. 
+, 
+FM INSPECT 
+3 SIGNA7 
+FAA FORM 51304 into FVARGFtea MMUS COMO.. 
+SDNY_GIvl _02756564 
+SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17 
+EFTA_00243486 
+EFTA01328602

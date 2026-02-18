@@ -1,0 +1,419 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692725_20260130_p048_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 643
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.843395
+---
+
+Account Name 
+Account Number 
+Date of Invoice 
+November 14, 2C04 
+NC Wireless 
+P.. 19420 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Nan MI6 Thin 
+231 ,f1101210 
+ORS? 
+44 
+249 
+260 
+201 
+212 
+IM 
+Ill 
+11310 
+1 
+VIII l0L
+1„, 
+I 111 
+11111 AEA 
+1.111 122IA 
+VII 101)64 
+VII 11:1 
+./11 1 
+411 
+I1 
+1 3fA 
+111l1128* 
+VII 
+01 11. A 
+II';
+n, II: 
+34,11
+Al 11:39A 
+Al 12099 
+/1112E 
+IZ 
+/1101 
+• 
+/11 01 100 
+Al 01210 
+Al CO 211 
+Nl Cd.1Z 
+1.111 Of 340 
+1.11I 02 1:1P 
+VII 03:1)0 
+ti t 09:74? 
+VII 03215
+VII 1 1E. 
+1/11 102. 
+VII 1071 
+lief 3411127 
+TOTAL YpRIS 
+Cans To 
+INcom1P3 
+LAAE WI
+TH FL 
+OM 
+101. 
+LIE WHOORTH 
+FL 
+WOALMWc3I FL 
+LAW WORTH FL 
+1115A 02
+4; 
+3 
+FE 
+FL 
+FOTNTONE04 FL 
+I.SEP.2.1410. 
+WAN 1•01.4, 11 Ft 
+wretueaR. 
+FL 
+FE 
+WPALIEEACAI FL 
+TEXT/MULTIMEDIA MSGS FOR 
+S I 
+I 1004 
+10NOS 
+1006 
+II 10/1 
+li 
+14 
+Th1 
+0831*
+ta
+063SP 
+O% 
+WrOA
+1204A 
+ma 
+Otrilnuod 
+reef 
+Charge 
+Wel Rate Description 
+IMO 
+Iwo 
+IAN 
+UAN 
+AW 
+/AN 
+ffffffMN 
+4114 
+iMN 
+11491 
+'Mn 
+'MN 
+VAN 
+61/4/4 
+VAN 
+11N4 
+WE 
+11434 
+IAN 
+4-4 
+IMF 
+MN 
+MN 
+L
+M
+SN
+N
+'AN 
+MN 
+tYf 
+IM 
+YM 
+MN 
+si“ 
+UNMATED %WOO 1.74 
+UNLIE1113) NPAIENO NN 
+MIN 
+14WIC 
+MN 
+UN 
+IAN 
+imps! 
+. 
+DIEU 
+LINisnrkp WEAN IAN 
+LEXIAATt ilk Wpm IAN 
+UllIMITE0 WleVA IAN 
+810.41
+'i nl a = 
+Ca 
+1 
+UALWITE0 r4N001 MN 
+&Anna 1401
+." 101241144
+LINL•114041. TO WELL 
+Wu:0E 04400/TFS 
+INCLUDEDIA:101ES 
+4.044/00, IQ Mr 
+1542.1.00E0mmusTE 
+INCLUOEDWAJIE 
+INCLUDED lAntITES 
+1.14M. I(
+TO idOBL 
+.1.-.1'.4
+1  it tiffl
+UN 
+i 
+CML WAAING 
+elauo€O MNUTES 
+tR4LIIII1OBL TO WEIL 
+INCIAIDEO AINVTES 
+UMW 
+14711‘. 
+To NPR 
+plat/Wo 104v1 -'s 
+INCluDEO MNUIES
+Likt PA UM T 
+INCLUDED UM/TES 
+'Aran 
+11141Til 
+1.11,941100. 7 molt 
+AkeskAGE RET EVA. 
+WAJATE0 Niff<A01AN 
+101.154TED NAN.090 IAN 
+I.PAAITEDIAWAA0 UN 
+IPELIvITE0 NAVAHO /AN 
+Vre.m1E0 ANV040 MN 
+VIPAEFTWAV0,0 MN 
+NtNI 
+NAV
+u
+043 MN 
+Wag/ 
+NAVAN0 MN 
+Chirp D•scripikin 
+TEXTMESSAGES SENT 
+MESSAGES WET 
+MESS  
+AC
+$ 
+$ 
+NT 
+SAG 
+S SENT 
+SSAGES SENT 
+SSAGES SENT 
+ASA/AS ENT 
+NT 
+MESSED/5 SENT 
+Char6e 
+0.15 
+Ovum 
+0.10 
+0.10 
+ES 
+ES 
+TEXT/MULTIMEDIA MSGS FORS 
+Calkillid 
+tat Ons 
+Tine 
+Sri Tontred FraN 
+Chrel OncrIption 
+SSAGES SENT 
+II:141 
+14 SS 
+SINE 
+NT 
+il li c4: 
+TEXTMESSAGES
+ESSAGES SENT 
+M 
+SENT 
+12 10/16 
+II 10/16 
+IIIES 
+S la 
+TEXT MESSAGES SENT 
+Z4 1
+21 ion 
+T 
+WS 
+SENT 
+F Kr 
+S NT 
+XT 
+MESSAGES SENT 
+TEXT MESSAGES Stir 
+TEXT MESSAGES SENT 
+TEXT1055AM SENT 
+I XT IVESi 
+1 
+TEXT MESSAGES ET 
+AEA 
+K
+A
+T 
+a tssAcsi
+g  Stft 
+MESSAGES SENT 
+UESSAPAES WI. 
+5 
+ESAGEI SENT 
+tgZat NIT 
+NAT wcwLESSAGES 
+SENT 
+TnT 
+t 
+1221t MI 
+STAGES SENT 
+MESSAGES SENT 
+MESSAGES SEN
+MESSAGES 
+N; 
+IS 10/16 
+3 ,1 
+pl 
+10/1 
+111114 
+)2 1071 
+33 1015$ 
+)4 10111 
+IgtA 
+6 
+10/1i 
+39 tom 
+431030 
+50 
+Si 10122 
+231072 
+Se 
+0) 
+072 
+02
+2
+0101A 
+top 
+441$ 
+ten 
+077 47
+0 AAO 
+,7
+07.54P 
+WOW 
+02274 
+0229. 
+041.4 
+14.4 
+gt. 
+07 MA 
+0151A 
+07
+f
+lA
+07 PM 
+E, 
+A 
+0149* 
+06271 
+0624A 
+ROCA 
+I3. F 
+04209
+12:424 
+12:49A 
+aO 
+4 
+01,46A 
+0159A 
+(*CAA 
+490(.4. 
+02516A 
+09A 
+rm g.lre: 
+!41.
+S 
+T 
+ES SENT 
+NxXliMit.7.SACIES SENT 
+MESSAGES SENT 
+C
+T 
+MESSAGES SENT 
+%TYE 
+15 NT 
+ag. 
+..ai Lc 
+Xi bioaAras %ENT 
+mESSAWS SENT 
+MESSAGES SENT 
+T 
+MESSAGES SEAT 
+T XT MESSAGES SENT 
+T XT fief SAVA'S SENT 
+TE
+XT MESSAGES swr 
+iii 
+TEXT MESS 
+FT 
+;. 
+T XT MESSAGES SENT 
+T XT MESSAGES SENT 
+XT MESSAGES SENT 
+7 17 MESSAGES SENT 
+TI xt likssAGES SENT 
+Chap 
+0. 
+0.0 
+Op 
+070 
+070 9 
+IMO 
+0.10 
+012 
+a.4 
+010 
+0.10 
+030 
+0.10 
+0.10 
+0.10 
+070 
+010 
+010 
+0.
+070
+OLIO 
+10 
+070 
+818 
+070 
+0.10 
+0.10 
+0.10 
+0.10 
+070 
+010 
+0.
+10
+1 
+0. 
+010 
+070
+.10 
+0
+0.11 I 
+0.10 
+010 
+0 10 
+0 10 
+EFTA01692772

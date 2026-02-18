@@ -1,0 +1,564 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p017_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 874
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.017220
+---
+
+:".(cinguk 
+scnif 
+wireless /kai= Muuntaa 
+~omia. 
+Dato ot 'naulaa-
+1 
+January 12. 2005 
+Per 13 /af 22 
+DETAIL OF OURRENT ACTIVITV - CONTINUED 
+?Ula OSAGE FUR- 
+C04112111,4 
+No~et 
+12nly 
+~9. 
+1~ 0~ n~ 
+i ii 
+3Wg 
+414 
+Ceig 
+4 
+4}; 
+iLti
+4 
+476 
+4/9 
+555 
+4/3 102311:0145 
+01 2/2311,33A 
+V27 1224e 
+;,,,IF 
+t,-,g 
+?,,,..„,,.. 
+:I: 
+,;11114; 
+4/9 V2 1015M 
+tip 1223 02.~ 
+44i
+ig;
+44
+444 
+g 
+445 
+50111P 
+440 
+3 93:31e 
+1:1 kll ask,P; 
+449 203ø:31P 
+450 ~13 04,55P 
+451 IYt109.OIP 
+452 
+413 
+4 
+111 
+451 
+456 
+455 
+407 
+451 
+.18 
+444 
+461 
+446 
+40 
+:2 
+410 
+517
+tg 10
+IC14P
+4F
+41071P 
+I ggi 5.
+1
+16 44P 
+1015P 
+1 
+Fri 1 ii.149 
+0-21. 
+10.420 
+i
+l 11.2OP 
+4 
+11/4 
+4 011W 
+4 WIA 
+M1
+4 02 
+CO 031
+540 
+244 (001P 
+m4 øa1' 
+411 12)2 
+412 le 
+Ii! 
+478. I 
+12/2
+41. 
+477 124 
+475 1242 
+479 12/25 12707A 
+02010 
+03 V 
+05119 
+06rMO 
+0643P 
+r DElAIL OF CURRENT ACTIV1TY CONTIPJUED 
+•trACE ll$AGF. roli 
+14~~r 
+0~ Te 
+12~ Ra, Da~pile, 
+Cher 
+MM 0~ n~ 
+09~ 
+LAKE WORTH 11. 
+4 
+1. 
+1 
+WORTX FL 
+1M14 
+Ulli ler
+ial
+1M/4 
+LYSW 
+VNRINFL 
+1 MM 
+UNLMT 
+MMIUM41111 
+WILMT 
+~maata. 
+. 
+4 
+12 
+11.4 
+4 1 31 $ 1 
+21.11 
+WIMMT
+1IM10101411 
+BCNft 
+Nol,: 
+UNLIOrr 
+IIMILDI 
+U111.141 
+IMM(14 
+484 12/2$ 01 
+481 1242$ 0109A 
+ACH iL 
+1214 
+Zei WoTie 
+Nl 
+P 491 12/2$ 01 415 
+' 1 . 1ffii  ; 1'1 tt2 
+24 '1'4 ft  
+iti 
+11/111.4110131. 
+Ullt...1400. T 
+g; 1241)g Qlgr 
+Y11204 ..
+..VII
+Unia NOOL 10.1035 
+: 
+401 1245 oi Ilt 
+V / 42-11 
+11  'Fl. 2 81 1 
+4014 
+OM 
+"omaa 0 IMILMS 
+114Cl UOIE C1 strrE5 
+: 
+492 12115 011LP 
+'1= 
+1PAN 
+unia 1100. TOMOIL 
+baLO aRTI4 il 
+WPALIMEACH /I. 
+IlholriN 
+in0ACY, Tri,„. 
+WPAL~ACHFL 
+15414 
+15,400ED 44N 
+S 
+In12181.2AS 
+130.0410410040. 
+41,74 
+NCLU010 Mn
+WPALIACEACH il 
+VAN 
+11.ClUot 0 149,0TE5 
+WPALMIA= rik 
+MM 
+U111.14 /4091. TOM," 
+gr'
+WPArlai,j4
+A"'"  
+H 4. 
+i; g"  
+IU"'t W4L21
+("Mrh.".2r t OP%P.
+INTOMNG 
+IMPI 
+INCLUDEOMPILITCT 
+w""8"`"1-
+ 
+12,4 
+:91WOlt
+7T%Wit 
+INC011~C 
+903,0041104 11 
+gti 
+liMUgc8 ::: `,A/ 
+900170/0X11 il 
+Ipi pir 
+LOMA ICO 1~41105,4 
+114CC~G 
+aorniu~L 
+I 
+WILIATFONAA1010/A51 
+Uni. 54 TED 10,10101M 
+~~13EACHil 
+E,d 
+UW.~0 IMMINO /Mr 
+MESS/Gr R£15,04AL 
+544PALAIBEACHil 
+UMLIAIED11~~1~ 
+I41421. 
+I: 
+MILMICO ataxl
+mk 
+ll 
+ILIMMS140 MMK. 
+1.011.1.41FrIMI 
+KIMMO 
+IIM1(44 
+IW 
+Ulägt)14/%1041) MM 
+rL 
+IMI 
+LIWYMTED IMMOLD MM 
+MM 
+ILMLWITIM, 144,71.401.1 
+/I. 
+MM 
+WIUMTrI) «OM 1411 
+I- 
+Ml 
+`&10j).3;`,74 ff4 
+MI4 
+940.417 
+1414,32 
+90~2041904 it 
+IMI 
+Iowa 51005 TO 5104. 
+,,r,AwmFili. 
+1101 
+L94441410B4 T011095 
+MM 
+UNLY UM 2012091. 
+LvT 
+51253~ nflivAL 
+~~~A04 
+1'1 
+ta 
+1:009 rs i 4T4Ecrt 
+4824 
+UM.. /ATK T014081 
+EVT 
+MLSSACTE RtIMEVAL 
+WPAUMEACM Et 
+IMI 
+INCLIAOCOMMUTES 
+VIP4111= a 
+1~ 
+UN 1 ai MCOl TO 11094. 
+F
+eVXI
+r2ai 
+urr 
+U104114.120 1101K 
+MM 
+M.L.1 
+p4 ligik 
+ZAJ
+A-Tr ASIR 
+I in. 
+8urIELE:W
+.112 
+WPA-WEACH 01. 
+14414 
+u4mPaY 
+n ~1 
+WPALMBUDIFI. 
+I IV; 
+MISSACE 1,10, Al. 
+«MM 
+IMMOIO 1821 
+491 12n, 03.19P 
+. 
+401 ,V21 C8.400 
+40t 11401.70 
+498 1 
+09,01P 
+40/ 1 
+401 12/25=4'
+. 
+W 1V2'/ 051,10 
+/01 W12 09 
+lart/ 09,08 
+.14 
+P 
+P
+. lil 12M 1044 
+ug),;.42 
+104 12426 07M 
+51St 12"8:;ig 
+• 
+Mm iL 9720 
+w„, i t kii 
+,. „, 
+513 1244~4 
+! III 13:2 SIg 
+15 12/211 0914 
+I 1 
+Okti 
+1 
+46 
+111 
+11
+0,~ 
+Øi 
+& A
+2/21 03:1 
+2,2203:1 
+/t li
+a
+, 
+04 
+04~9 
+108231' 
+M
+VP 
+71,51;g: 
+2/27 44.340 
+E
+l 07 240 
+1 07,47i 
+2)2; i ti 
+2/2/ 0-449 
+1 
+21 
+114t 
+li jS IP 
+, 9 
+34 
+535 
+5311 
+0999 Te 
+.:04111110011 
+011451 
+12~~ 
+11~ Me9 ~~110n 
+IMN 
+ACII EI 
+MII 
+0.1. 
+040.41 
+ACM PL 
+NIN 
+UM WIT 
+M 
+INGOISTX.1 
+101:1
+"
+ 
+IIUI:ML-1.1%118 L#114 leIriN
+INCOMMQ 
+WIMAbiti
+ll EL 
+LOI 
+b11424 14/=:: 
+WPAMI 
+IT 
+WPAJni 
+k t 
+MN 
+J'11:21 
+:44;:"
+'wit.2 ,Ir,
+14211.244 
+11 
+4 *ME WORTM 1.4 
+MIN 
+ 
+ 
+NWOM MN 
+WINUMMACILIFL 
+1~ 
+Uhl 
+11W0.011A 
+EVT 
+IAESSAGE RETRIEVA. 
+174COraNG 
+ON 
+Uhla/BIED M/0~014IN 
+MN 
+Uni 
+IITMOID MII 
+1IFL 
+MM 
+UM 
+NWrI10 IIN 
+L 
+1824 
+4111.11.01ED ITWKWO IIN 
+WOIAMMACIIIk 
+1~ 
+MM 
+uN
+tiwbAilai 
+~OLD MN 
+WPAUMEACTIFL 
+M 
+UMMTE tM"r4010
+"3
+.4
+" 71 
+W•PAIX8rACHFL 
+UNLIMTE WrIOND IMI 
+NMMUMEACTIFL 
+MN 
+UhlitT ei ~ONO IMI 
+SgT204rMal 
+LAM WORTN FilLt  
+MW 
+VMAMTED ~040 MN 
+12 
+Effl
+, IE ..ä. 
+tirel 
+WPAIA,EACH it 
+1159 
+iNCOMM3 
+Mil 
+U.LIGTEIT MWKM) IMI 
+LAU WORTH il 
+Ml 
+1.151•An0 ~On) larl 
+H it 
+1494 
+UALMILP .41~010 1M. 
+£4.11.41 
+I ill. 
+MM 
+UIMM1 i ,....a1.44 
+127 
+Al 
+H g 
+M 
+1, 
+am 
+141, 
+1441 
+CVT 
+MIA416 RLIPIEW. 
+WPµMEACNFL 
+MW 
+UNLIWILD NIMOIO 181. 
+zffif
+...2:1 
+1N 
+1101LYITED ~no 
+5m 
+IIN 
+UNUIATED NVOJG) 4•1 
+I 1445 
+umulOrED NVIVA)4,4 
+9141.4 
+uN
+LIMULl
+u g131~~1444 
+DPWOID Ml. 
+L ' A71=11 
+m« 
+1/124.1.$020141711,1125 
+14,1 
+ZZ
+ILIntAcuri 
+= 
+i sk:ctiuluF
+a
+4
+niti eL
+WPA1434ACKFL 
+901NTQW.A. FL 
+41•4 
+MIC.ALI 
+014/01.4 S 
+MX 
+MCOMING 
+illp
+acY01111C44•04 01 
+MIN 
+i1AN 
+lia
+lj) 0 'MW ; 
+10.9 
+WIC.1..9 
+8 Ntfill 5. 
+WPALMIII4CMPL 
+IIN 
+'Nol. v 
+8.4 NAI 
+3. 
+INPAIVICACI4Ft 
+141 g
+u  14 
+Vilu"  Il.ekiti84.L''k 
+:.'"cvpm"%escHa 
+se'ricr'
+EN'ir:1:04M-11. 
+ei 
+UNla414051.20 4439L 
+11794 
+Ilitkil:49Klast 
+WPAL14110411FL 
+1~ 
+1454,9164, e< 
+4~ 
+WPWASLACK EL 
+1~ 
+141,144n0 II ~n) klm 
+1,-(1~41 
+MW 
+UMAATER 89~0 IAN 
+LA14 WORTH rt 
+V
+/AW 
+41
+1011/1220 ~DM 
+EVT 
+CALL WalTen3 
+F„frCO21: 4 
+Ft 
+M
+S.'  
+Ill'illll 
+Wall 
+WPALM 
+M:0111110 
+rt  
+Lir" 
+11
+1112tEL L'ireITOVAiDsBi 
+kvinLm 
+MOOMPAO 
+240~44e; 
+01,194 
+EFTA01692791

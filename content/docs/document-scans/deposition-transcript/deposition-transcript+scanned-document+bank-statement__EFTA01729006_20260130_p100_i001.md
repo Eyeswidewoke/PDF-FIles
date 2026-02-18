@@ -1,0 +1,312 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01729006_20260130_p100_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 519
+confidence: 1.00
+extracted: 2026-02-13T16:53:14.592185
+---
+
+Page 
+19 
+Account Number: 
+Billing Cote: 
+Mobile Number: 
+Mobile Oder: 
+Total Mobile*: 
+AIRTIME AND LONG DISTANCE CHARGES 
+Itm Date 
+Time 
+CL 
+ 
+MARGES 
+Length 
+City 
+of 
+Air 
+Long 
+No. Called 
+Called 
+P P Call Time 
+Diet. Total 
+1 04/07 10:27AN
+ICZ 
+1 
+0.00 
+0.00 
+2 04/07 02:24PM 
+PALM PL 
+1 
+0.00 
+0.00 
+3 04/07 02:25PN 
+PALM PL 
+1 
+0.00 
+0.00 
+4 04/07 02:26PN 
+PALM PL 
+1 
+0.00 
+0.00 
+5 04/07 03:12PN 
+PALM FL 
+1 
+0.00 
+0.00 
+6 04/07 06:28PN 
+PALM PL 
+1 
+0.00 
+0.00 
+7 04/07 08:46PM 
+PALM FL 
+1 
+0.00 
+0.00 
+8 04/07 08:55PM 
+PALM FL 
+1 
+0.00 
+0.00 
+9 04/09 12:12PM 
+NCGNI CL 
+8 
+0.00 
+D.00 
+10 04/10 01:05AN 
+ITTSB PA W 
+1 
+0.00 
+0.00 
+11 04/10 06:45PM 
+NCCMI CL N 
+2 
+0.00 
+0.00 
+12 04/10 06:47PM 
+PALM PL 11 
+1 
+0.00 ' 
+D.00 
+13 04/10 07:11PM 
+PALM PL N 
+1 
+0.00 
+0.00 
+14 04/10 07:13PM 
+PALM PL N 
+2 
+0.00 
+0.00 
+15 04/10 07:17PM 
+PALM PL W 
+1 
+0.00 
+0.00 
+16 04/10 07:27PM 
+NCOMI CL W 
+2 
+0.00 
+0.00 
+17 04/11 06:32PM • 
+PALM FL W 
+1 
+0.00 
+0.00 
+18 04/11 06:32PN 
+PALM FL W 
+1 
+0.00 
+0.00 
+19 04/11 06:33PN 
+PALM FL W 
+1 
+0.00 
+0.00 
+20 04/11 06:33PN 
+PALM FL W 
+1 
+0.00 
+0.00 
+21 04/11 06:34PN 
+PALM FL W 
+6 
+0.00 
+0.00 
+22 04/11 06:43F74 
+PALM PL W 
+1 
+0.00 
+0.00 
+23 04/11 06:51PN 
+PALM FL K 
+1 
+0.00 
+0.00 
+24 04/11 06:53PM 
+PALM FL' K 
+1 
+0.00 
+0.00 
+25 04/1; 07:13EN 
+PALM PL W 
+28 
+0.00 
+0.00 
+26 04/11 10:40PN 
+PALM FL W 
+7 
+0:00 
+0.00 
+27 04/11 10:48PN 
+PALM FL N 
+18 
+0.00 
+0.00 
+'28 04/11 11:06PN 
+PALM PL W 
+3 
+0.00 
+0.00 
+29 04/11 11:08PM 
+PALM PL W 
+4 
+0.00 
+0.00 
+30 04/11 11:12244 
+INCCMI CL N 
+10 
+0.00 
+0.00 
+31 04/11 11:22PM 
+PALM PL N 
+1 
+0.00 
+0.00 
+32 04/16 04:46PM 
+VOICE CL 
+2 
+0.00 
+0.00 
+33 04/16 04:50PM 
+PALM PL 
+1 
+0.00 
+0.00 
+34 04/16 04:51PM 
+PALM PL 
+2 
+0.00 
+0.00 
+35 04/16 05:11PM 
+PALM FL 
+2 
+0.00 
+.0.00 
+36 04/17 08:17PM 
+INOW CL W 
+2 • 0.00 
+0.00 
+17 04/17 11:14PM 
+ICE CL II 
+2 
+0.00 
+0.00 
+38 04/18 01:42PM 
+ICE CLW 
+3 
+0.00 
+0.00 
+39 04/18 05:53PM 
+PALM PL W 
+1 
+0.00 
+0.00 
+40 04/18 OS:57PN 
+PALM FL W 
+1 
+0.00 
+0.00 
+41 04/18 06:14141 
+PALM FL 
+1 
+0.00 
+0.00 
+42 04/19 04:36PN 
+PALM PL 
+1 
+0.00 
+0.00 
+43 04/19 04:37PM 
+PALM FL 
+1 
+0.00 
+0.00 
+44 04/19 04:41PN 
+PALM FL 
+• 
+4 
+0.00 
+0.00 
+45 04/19 09:15PM 
+INCOMI CL N 
+1 
+0.00 
+0.00 
+46 04/20 10:17ÁM 
+INCOMI CL 
+2 
+0.00 
+0.00 
+47 04/22 07:04PN 
+INCOMI CL 
+2 
+0.00 
+0.00 
+48 04/21 09:10PM 
+SYIRSV MD W 
+1 
+0.00 
+0.00 
+49 04/21 09:10PM 
+MD W 
+2 
+0.00 
+0.00 
+SO 04/22 08:33PM 
+INCOMI CL 
+2 
+0.00 
+0.00 
+51 04/23 10:07AM 
+=HSU ND 
+11 
+0.00 
+0.00 
+52 04/23 03:31PM 
+LOCO.« Ch 
+1 
+0.00 
+0.00 
+53 04/23 09:37PN 
+INCOMI CL W 
+2 
+0.00 
+0.00 
+54 04/25 12:11PM 
+ICE CL W 
+3 
+0.00 . 
+0.00 
+55 04/27 03:06PM 
+INCOMI CL 
+3 
+0.00 
+0.00 
+56 04/27 07:22244 
+INCOMI CL 
+1 
+0,00 
+0.00 
+EFTA01729105

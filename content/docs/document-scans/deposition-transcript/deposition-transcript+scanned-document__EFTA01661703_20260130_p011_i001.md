@@ -1,0 +1,285 @@
+---
+source_image: "deposition-transcript+scanned-document__EFTA01661703_20260130_p011_i001.png"
+source_pdf: "EFTA01661703.pdf"
+method: pdf_text
+words: 522
+confidence: 1.00
+extracted: 2026-02-13T16:56:10.513219
+---
+
+Page: 
+Billing Cycle Date: 
+Account Number: 
+17 of 21 
+iiiiiiiiiiiii6/05
+Wireless Data Detail Continued/ 
+User Rane: 
+Rate Code: SHO2m /SHOM GSM 600R Mel 
+Rate Period /Pd.): P-Peak, OmOff Peak, N-Nights 
+Feature: 8-Direct Pest Call Complete; C.Call Waiting; DmData Call; PmCall Forwarding; HmGroup Mobile to Mobile Calls; 
+ImInconing Call; K-Fax Call; MMMobile To Mobile Discount; P.Priority Access Service; 0...Roam with Hoes; 
+S-Shared Minutes; T-Three May Calling; W.Nights and Weekends 
+Item Day Date 
+Time 
+To/From 
+Type 
+Rate Rate Pea- 
+Meg/KB 
+Code Pd ture 
+Incoming/ 
+Outgoing 
+Total 
+Charge 
+13 
+02/09 03:05594 
+OTHER MOBILE 
+2 Meg SHG2 
+Out 
+0.10 
+11 
+02/09 03:06H4 
+OTHER MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+14 
+02/09 03:29PN 
+OTHER MOBILE 
+1 Meg SH02 
+Out 
+0.10 
+15 
+02/09 03:30PM 
+OTHER MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+16 
+02/09 03:34PM 
+CINGVWR MOB 
+1 Meg SHG2 
+Out 
+0.10 
+17 
+02/09 03:3610M 
+OTHER MOBILE 
+1 Meg SH02 
+In 
+0.10 
+18 
+02/09 03:37PN 
+CIRCULAR MOB 
+1 Meg SHG2 
+In 
+0.10 
+19 
+02/09 04:03PN 
+CIRCULAR MOB 
+1 Msg SHG2 
+Out 
+0.10 
+20 
+02/09 04:030/4 
+CINGULAR MOB 
+1 Meg SH02 
+Out 
+0.10 
+21 
+02/09 04:04P94 
+CINGULAR MOB 
+1 Msg SHG2 
+Out 
+0.10 
+22 
+02/09 04:06PN 
+CINGULAR MOB 
+1 Meg 51102 
+In 
+0.10 
+23 
+02/09 04:09PN 
+CIRCULAR MOB 
+1 Meg 51102 
+Out 
+0.10 
+24 
+02/09 04:11PM 
+CINGULAR MOB 
+1 Meg SHG2 
+In 
+0.10 
+35 
+02/09 04:16PM 
+CINGULAR NOB 
+1 Meg SHG2 
+Out 
+0.10 
+26 
+02/09 04:18PN 
+CINGULAR MOB 
+1 Meg SHG2 
+In 
+0.10 
+27 
+02/09 04:23PM 
+CINGULAR MOB 
+1 Meg SHG2 
+Out 
+0.10 
+28 
+02/09 04:24PM 
+CINGULAR MOB 
+1 Meg SHG2 
+In 
+0.10 
+29 
+02/09 06:57PM 
+CIRCULAR NOB 
+1 Meg SHG2 
+In 
+0.20 
+30 Sat 02/12 09:14PM 
+OTHER MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+31 
+02/12 11:36PM 
+OTHER MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+32 
+02/12 11:41PM 
+OTHER MOBILE 
+1 Meg M402 
+In 
+0.10 
+33 
+03/12 11:50PM 
+OTHER MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+34 
+02/12 11:51594 
+OTHER MOBILE 
+1 Meg SH02 
+Out 
+0.10 
+35 Sun 02/13 12:35AM 
+OTHER MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+36 
+02/13 03:2014 
+OTHER MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+37 Tue 02/15 11:01AM 
+CINGULAR MOB 
+1 Nag SHG2 
+In 
+0.10 
+38 
+02/15 11:04AM 
+CIRCULAR MOB 
+1 Meg 51102 
+Out 
+0.10 
+39 
+02/15 11:05AM 
+CINGULAR NOB 
+1 Meg SHG2 
+Out 
+0.10 
+40 
+02/15 11:06AM 
+CIRCULAR MOB 
+1 Nag SHG2 
+In 
+0.10 
+41 
+02/15 11:16AM 
+CIRCULAR NOB 
+1 Meg SH02 
+Out 
+0.10 
+42 
+02/15 11:20AM 
+CIRCULAR ROB 
+1 Msg SH02 
+In 
+0.10 
+43 Thu 02/17 08:23AM 
+CIRCULAR NOS 
+1 Meg SHG2 
+Out 
+0.10 
+44 
+02/17 09:49AM 
+CIRCULAR MOB 
+1 Nog SH02 
+Out 
+0.20 
+45 
+02/17 04:41PM 
+OTHER MOBILE 
+1 Nag SH02 
+Out 
+0.10 
+46 
+02/17 05:10914 
+OTHER MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+47 
+02/17 06:04PM 
+OTHER MOBILE 
+1 Msg SHG2 
+Out 
+0.10 
+48 
+02/17 06:25PM 
+OTHER MOBILE 
+1 Nag SH02 
+In 
+0.10 
+49 Fri 02/18 04:59PM 
+OTHER MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+50 Mon 02/28 01:059)4 
+CIRCULAR ea 
+1 Meg SHG2 
+In 
+0.10 
+51 
+02/28 01:21PM 
+CIRCULAR NOB 
+1 Msg SHG2 
+In 
+0.10 
+52 
+02/28 01:27PM 
+CIRCULAR NOB 
+1 Meg SHG2 
+In 
+0.10 
+53 
+02/28 01:39914 
+CIRCULAR MOB 
+1 Meg SH02 
+Out 
+0.10 
+54 
+02/28 02:12PM 
+CIRCULAR MOB 
+1 Meg SHG2 
+Out 
+0.10 
+EFTA01661713

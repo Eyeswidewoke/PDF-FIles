@@ -1,0 +1,454 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692526_20260130_p023_i001.png"
+source_pdf: "EFTA01692526.pdf"
+method: pdf_text
+words: 717
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.764217
+---
+
+oraXtingular 
+../.4104164: 
+SS -
+Date of Invoice 
+August 18. 2005 
+Page 6 of 8 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+IL 
+ON 
+liwn DM4 Thee 
+II 07/21 01440 
+22 0027 Ola 
+2101m 01:40P 
+xI elm OIEHP 
+07/Z7 01470 
+Da; 44/13 nJIR 
+It 
+01/21 06-LP 
+30 0707 0701e 
+2101m 07.0. 
+la UP 
+O 0,— 
+Ens;a 0°i 29°An 
+0 3:3 'Mt 
+II 0. 
+04230 
+42 07129 Eta 
+4 
+.51 
+46 112/05 440P
+47 742. 0599P 
+• 000? 06143P 
+C 87,% C12; 
+,50 
+SI
+!GA* 
+52 OHM IQ 444 
+6) 07630 10.144 
+64 OHM 101464 
+SS Ono 1
+1Q 1A 
+014.4 
+Oa 
+03 00)0 COMP 
+61 0103 1205P 
+62 0601 12070 
+• 0601 12.0IP 
+64 Cal 12.13P 
+05 MI 0131P 
+66 Ce.01 02. 
+417 CsOl 
+3I 
+a cat .3615P
+69 04/310:190 
+rWe
+ll
+Continued 
+lay 
+Charge 
+Calla TO 
+U. 
+Raw 04.1pc. 
+VIRALIK/FACH 
+VIM{IlFACN FL 
+WM 
+5744 
+}VT 130 'I 
+Mg 
+1J. 
+I 
+if 
+ail 
+ION 
+ANTE. 
+2re N 
+1EVT 
+14f 
+"113528.
+all03ES/CH FL 
+Da 
+IEV1 
+SAGE 
+TRIVAL 
+=SEIM 
+HZ! 
+k3;18 CM18 a 
+WPAUMIT FL 
+woo 
+444174148 
+mr.. 
+11.01 
+~vac 
+fs Ft 
+I. 
+WPALAME 
+II P 
+21/II. 
+1vPAWEEACH FL 
+1. 
+514/ART 1 
+214% 
+IMP. 
+Mil 
+1 UM 
+S. 
+I—
+el' 
+r
+£₹
+AlS 
+Roes." 
+;Ayr uf vi 
+Aram; LLE,i 
+MIT ME vr< 
+1MPEDAUTNE V:13 
+514MNf 
+t
+R II1E/ A. 
+F. l; 
+TO UM 
+?Pa i
+Fix 
+Mag
+i
+6.144.0 
+ideall'AVFAM/0 
+SHARED 16041TAVEEICE1/C 
+SHWA 
+7/WEEKENC 
+SHARED mGHTAVELIENO 
+iflÄt854U•71(5N/42 
+giliggi 
+...hi 
+TI 
+E<EraD 
+SHARED IIGKW01£4.04) 
+MESSAGE RETRIEVAL 
+WE 
+C 
+Al 
+SPARED it T Iva 
+1.10 
+NR o AN 
+W 
+NW 
+110e5.1.9.fitAvir
+.
+SIMKO A>. 
+WINS 
+Aw(
+Aw Z 
+Lea TOMOIL 
+WM VAL 
+5 
+AKE-1mr: 
+//‘ 
+Av04 
+r4=152,1k 
+nuNeACH FL 
+wets 
+1'/OA{2aNASN FL 
+VAW7.711 ACM FL 
+MART 
+WPAJAh 401 Fl. 
+IN
+wP
+ALUD 
+T 
+EACH FL 
+40114 FL 
+FAL 
+FL 
+.AUDIESCH 0. 
+SWART FL 
+Vil~k 
+FL 
+NEW VORA HY 
+J1.1.13 41 
+%flaw 
+F4 
+faigg 
+s!...48p, 11,81_214,101.. 
+DAN 
+SpAwu 4/1109.0 
+3/414
+MM 
+° AMYT
+n
+a 
+1.112 
+as 
+y e( 
+MIN 
+UPI 
+LN 
+,24g' 
+IaN 
+tN 
+IAN 
+MIN 
+EVT 
+6101 
+IAN 
+101 
+MN 
+leall 
+ENT 
+1. 
+LAM 
+lea 
+ggWM.t
+5111621/110Eit 70 14001 
+SHARED ROE. TO I4064. 
+II fill IF 
+R 
+'ll'IlF111111111111111111111 
+VOICE USAGE FOR 
+11.170/ 
+Charge 
+Il440 DM* ThT0 
+36 0/101 04/4.IP 
+77 0104 06134 
+78 0004 02344 
+79 
+/013
+06004 12040 
+04 JEW 
+e 00134 16041,
+12 ot414 110.0 
+55 0004 0653P 
+36 05/0/ 01:540 
+47 C46.4 01.430 
+0.01 103:4 
+g 
+8lfg; 
+91 0M25 07.40P 
+:041 c0r0å5 
+E5 bee 125a 
+36 
+E/C6 012'0 
+97 60 601.15 
+ 9B
+0
+0mai 
+1E 
+10t 
+101 1021 
+1 
+ova 
+IC4 024 81
+71 
+; 
+g
+7.4 lP 
+103 WAX 0653P 
+10. 003 05.120 
+113 066 01,16P 
+Wang/1
+78P'
+4! gig gE 
+OE 6. 
+III 0 
+04410 
+116 0001 01920 
+III Ma 01116P 
+720 GMCG 01:00 
+17,2: 0444
+008 02
+,:n06P 
+;i: Ö0w 241F. 
+la. 0501 91646 
+12/ 00ai 04.146 
+=8:111 
+1ii 
+04.2•P 
+n: own 04 >10 
+111 UBC/9 0141P 
+g in 
+m0441  07 140 
+Cononued 
+anti 
+C.$29 
+C. 
+To 
+Und Rau laerlpilon 
+WPAUM124044 
+5144RED 
+»8 
+tfå 
+1=8 
+EVT 
+MES
+ 
+Mn 
+6 
+SAGE 
+WPAfflEFL 
+WM 
+I 
+140 
+IVP 
+R
+te▪ l 
+EvT 
+INN 
+LM 
+MM 
+raja,
+ na 
+241
+t
+iMat
+un
+.9.1111365,CH FL 
+WWI 
+START FL 
+Nan 
+WPAIJIBLICH FL 
+41414 
+/an 
+Hart 
+2Uti
+10E
+3411:
+14
+23=1.171
+LIN 
+MP/ 
+1114 
+11.111 
+4040 
+NR 
+Had 
+41.10 
+4Un 
+WPMJ4 
+14 FL 
+31Iii 
+414/4 
+1EVT 
+11111 
+N'IpAUMp/CNR 
+'WI 
+LVI 
+WO 
+111/1
+VIP 
+14 FL 
+HAW 
+WPALM0N-14 FL 
+IAN 
+~ 
+åk PI 
+WPAUI 
+II FL 
+iliN 
+~ALI. 
+n. 
+tun 
+p
+WPAUlligH FL 
+un 
+fl 
+sun 
+WNW. 
+Kn. 
+UM 
+1LVI 
+Wei 
+p
+111 
+1621 
+TrIel= 
+Toll Few 2. 
+Toll Fl99 
+STUART Pi. 
+WPAUl 
+WPAU1 
+I/ EL 
+IPICC1ANG 
+=0' 
+5 
+SI. 
+DAYYMIC 404 
+EWA I) AJP/TPAI nals 
+SHAR OMJDI.T IC& 
+405546E RETRIEVAL 
+SHAREI11428. L TO 1.1001 
+knut o/ 4.52 
+rapeLYTIV 
+fo ' inäilgeol
+W • 
+,),.
+sbiagitufirr‘r8
+5."“5:55
+sPAR 
+WE 
+4, 
+5HAR 
+IT/An 
+v3 
+5144/45.0 SCHEME FAE1/5 
+SHARED 
+SFIARFr
+NRIGHTZIE4E2 
+IMF 
+5.di 
+415G 
+Kr
+1C7/,,..t4 
+2. 
+14 
+/// 
+M 
+C4[\0 
+=ER KIrgärii2 
+al WM 
+ERI1 
+Lim) 
+ND 
+14044 
+SHARED INCI.UCCO 
+CA/LW/1TM 
+/‘)tI
+ri".8 
+(1,= 
+mckis YE irk  UREL TO ma 
+LAMES! RE mvAl. 
+ti127,2 :1,202 .:32 
+~EC 
+ISCUJEFO hi 7IS 
+SHARI 0 IWOJCED 41/55 
+:MARL D wet To %Kt 
+SMARM' 
+ISCLUCEEEDD 1/ N5 
+5444PE2 IWUJ 
+SHAPED P41.6700 
+7P3 
+'MAPS 
+11/41:105y 0 UN% 
+HESIDMWEAL 
+bag E3311611 
+EFTA01692548

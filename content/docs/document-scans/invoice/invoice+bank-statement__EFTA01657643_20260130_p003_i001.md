@@ -1,0 +1,214 @@
+---
+source_image: "invoice+bank-statement__EFTA01657643_20260130_p003_i001.png"
+source_pdf: "EFTA01657643.pdf"
+method: pdf_text
+words: 502
+confidence: 1.00
+extracted: 2026-02-13T17:12:48.349390
+---
+
+cingrailar
+wi  m,
+n N mber 
+Account Name 
+JEFFREY E EPSTEIN 
+Date of Invoice 
+November 05. 2005 
+Page 3 of 16 
+LATE PAYMENT CHARGE: 
+A 1.5% LATE PAYMENT CHARGE PER MONTH MAY BE APPLIED FOR 
+AMOUNTS UNPAID 20 DAYS AFTER THE DATE OF INVOICE 
+(AK 0.875%, AR 0.085%, NE 1.33%, WI 1.00%). 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+ACCOUNT DETAILS 
+Detail of n rments - Thank You! 
+item Description 
+Date Applied/Reversed Payment Amount 
+1 PAYMENT 
+10/29/05 
+429.23 
+Total of Payments 
+Current 
+r Monthly Charges and Credits 
+SUbSCriber Number
+Subscriber Name 
+Total Current Subscriber Monthly Charges and Credits 
+Total Current Monthly Charges 
+Charge 
+-629.23
+429.23 
+Charge 
+268.35 
+62.12 
+39.67
+388.14 
+388.14 
+Other Subscriber Charges 
+Item Description 
+Charge 
+1 MCTD SURCHARGE 
+0.16 
+2 NY CITY UTILITY G.R. SUR 
+0.52 
+3 STATE TELECOM EXCISE TAX 
+0.71 
+4 FEDERAL UNIVERSAL SERVICE FUND SURCHARGE 
+0.72 
+Total Other Subscriber Charges 
+2.11 
+Other Subscriber Credits 
+Item Description 
+1 $5 MONTHLY CREDIT 
+Total Other Subscriber Credits 
+Subscriber Government Fees and Taxes 
+Item Description 
+Charge 
+1 SALES TAX 
+2.41 
+2 FEDERAL EXCISE TAX 
+0.87 
+Total Subscriber Government Fees and Taxes 
+3.28 
+TOTAL CURRENT CHARGES FOR 
+82.12 
+Charge 
+500
+-5.00 
+SUMMARY OF CURRENT ACTIVITY 
+DETAIL OF CURRENT ACTIVITY 
+FOR 
+Monthly Service Charges 
+Item Description 
+Service Dates 
+Charge 
+1 CALL WAITING 
+10/03/05 • 11/02/05 
+0.00 
+2 TEXT MESSAGING PLAN • 0 MSGS 
+10/03/05 • 11/02/05 
+0.00 
+3 CALLER ID 
+10/03/05 • 11/02/05 
+0.00 
+4 VOICEMAIL 
+10/03/05 • 11/02/05 
+0.00 
+5 DETAIL BILLING 
+10/03/05 • 11/02/05 
+0.00 
+6 REGULATORY PROGRAM CHARGE 
+10/03/05 • 11/02/05 
+1.75 
+7 CALL FORWARDING 
+10/03/05 • 11/02/05 
+0.00 
+8 WORLDCONNECT 
+10/03/05 • 11/02/05 
+0.00 
+9 THREE WAY CALLING 
+10/03/05 • 11/02/05 
+0.00 
+10 BLACKBERRY $49.99 
+10/03/05 • 11/02/05 
+4919 
+11 NATIONAL PLAN $29.99 
+10/03/05 - 11/02/05 
+2999 
+Total Monthly Service Charges 
+81.73 
+Monthly Usage Charges 
+Item Description 
+1 100 ADM_ ANYTME MIN 
+2 UNLIMITED NANKND MIN 
+3 MESSAGE RETRIEVAL 
+Total Monthly Usage Charges 
+Onty Used 
+22 MIN 
+10 MIN 
+3 EVT 
+Charge 
+0.00 
+0.00 
+000
+0.00 
+VOICE USAGE FOR 
+Number 
+Onty 
+Charge 
+Item Date Time Called 
+Calls To 
+Used Rate Description 
+Charge 
+10/05 09:46P 
+INCOMING 
+I MIN 
+UNLIMITED WWKND MIN 
+2 10/12 10:11A 
+COLUMBUS OH 
+INN 
+100 ADM. ANYTME MIN 
+3 10/14 01:51P 
+INCOMING 
+8MIN 
+100 ADM. ANYTME MIN 
+4 10/15 12:07A 
+COLUMBUS OH 
+SMIN 
+UNLIMITED WWKND MIN 
+5 10/22 07:04P 
+COLUMBUS OH 
+MIN 
+UNLIMITED WWKND MIN 
+6 10/22 07:05P 
+■ 
+TR
+CANALWHS 
+0 
+MIN 
+UNLIMITED NNVKND MIN 
+7 10/22 07:55P 
+CANALWHSTR 0 
+MN 
+UNLIMITED WWKND MIN 
+8 10/23 03:45P 
+INCOMING 
+MN 
+UNLIMITED WWKND MIN 
+9 10/25 09:36A 
+COLUMBUS OH 
+MIN 
+100 ADD'L ANYTME MIN 
+EVT 
+MESSAGE RETRIEVAL 
+10 10/25 09:40A 
+COLUMBUS OH 
+MIN 
+ICO ADM. ANYTIME MIN 
+EVT 
+MESSAGE RETRIEVAL 
+11 ions 01:21P 
+INCOMING 
+PAIN 
+100 ADM. ANYTME MIN 
+12 ions 01S6P 
+NEW YORK NY 
+PAIN 
+100 ADM. ANYTME MIN 
+13 10/25 01:59P 
+INCOMING 
+PAIN 
+100 ADM. ANYTME MIN 
+14 10/27 0627P 
+CANALWHSTR 0 
+MIN 
+100 ADM. ANYTME MN 
+IS 10/31 01:13P 
+COLUMBUS OH 
+100 ADM. ANYTME MIN 
+I
+MIN 
+EVT 
+MESSAGE RETRIEVAL 
+TOTAL VOICE USAGE FOR 
+0.00 
+EFTA01657645

@@ -1,0 +1,55 @@
+---
+source_image: "deposition-transcript__EFTA02430080_20260210_p001_i001.png"
+source_pdf: "EFTA02430080.pdf"
+method: pdf_text
+words: 524
+confidence: 1.00
+extracted: 2026-02-13T17:05:11.381674
+---
+
+To: 
+JE Jail 'eevacation 
+mail.com) 
+From: 
+Sent 
+Fri 2/19/2010 3:17:55 PM 
+Subject Re: 
+Ball-e and 1 baby girl are coming home now. 
+Sent via portable phone 
+From: Jeffrey Epstein <jeevacation®gmail.com> 
+Dat 
+To: 
+Subject: Re: 
+I love you, lets move on 
+On Fri, Feb 19, 2010 at 8:23 AM, N E M •=a 
+wrote: 
+it is simple..you were leaving on thursday. She couldn't travel commercial and she could not travel 
+with you on thursday anymore because it was her due date. ( You didn't even know this as you told 
+me you thought the due date was was my birthday which would have made it ok to travel) I had this 
+confirmed by a great vet who has been seeing her since I got her, loves her and has her best interest 
+in mind and you called some office and asked a stranger who told you it could be ok if she flies. I 
+chose to do what was safer for her. Then last night you asked me to come to NYC with you and leave 
+her here for the day.. I decided not to go and be here in case it started during the day. It did. I 
+followed the vet's directions and brought her to the ER he recommended, he spoke to the doctors in 
+the middle of the night, they did an ultrasound and we decided it was best to keep her there as the 
+puppies might get stuck and i wouldn't know what to do. I only left her for 3 hours, went back and she 
+delivered the pups under my vet's supervision, with the other doctors help and me in the office to 
+comfort her. She is doing well.. 
+From: Jeffre E stein < eva abon@arnall.com>
+To: 
+Sent: Fri, February 19, 2010 3:19:08 AM 
+Subject: Re: 
+I had asked you repeatedly to let me bring her to new york , where there is staff, fcailities the 
+best animal medical care , i told you the animal medical center was on 61 and the river, I had 
+called them and they said no problem flying privately with belle. you had repeated over and 
+over no, you would not travel because you wanted to stay with her. Knowing your love for 
+that dog, i let you do as you pleased. you take it to an emergency facility in west palm, 
+without knowing anything about the place or people. after weeks of talking about this , you 
+tell me that sarah and you, sarah who told you she knows nothing about these things , and as is 
+your right you change your mind and leave the dog with strangers. it is your right to do as 
+you please with your dog. I had asked that you come with me to new york , you told me you 
+couldnx when i asked merely asked what happened , you kept saying why do you want to 
+know, why did i want to know that after weeks of planning , and caring for the most important 
+living thing in your life,  you decide to leave it in a facility you know nothing about with 
+EFTA_R1_01499912 
+EFTA02430080

@@ -1,0 +1,527 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p015_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 827
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.889532
+---
+
+cingv la r • pm  wireless 
+Account Number 
+DETAIL OF CURREW ACTIVITY - CONTINUED 
+VOICE USAGE TN. 
+Nunn 
+x.114004 new 
+T WA 
+14 
+I-
+lp 
+In 
+la 
+110 
+192 
+114
+161 
+197 
+101 
+HO 
+201 
+ZDI 
+302/ 
+20) 
+2/4 
+210 
+212 
+16
+20 
+31. 
+219 
+29) 
+122 
+132 
+223 
+ig 
+211 
+316 
+214 
+214 
+I11
+nkl,„, 
+ITA 
+MCA:: 
+109 0411A 
+NI WM 
+MI 037)10 
+1 $05
+Ples:41 
+naesco 
+nee:ow 
+ma 03:129 
+00104119 
+2/1001239 
+roil & l,
+illit 
+tiniiPIP
+inglr: 
+31140218P 
+21
+211409 40
+w,
+211/044/9 
+j
+/18 MAID 
+09033 P 
+114 ;COOP 
+,le 
+161616 
+110410
+2,19 10 49! 
+EINNVO 
+Alliirp 
+A,,, 11610 
+2/18 11 14P 
+208 11:14P 
+208 11:2017
+2/19 142 1P 
+me lint. 
+919 142,9
+WO 1124/1
+! 
+1-a
+1
+i j1,526. 
+8 11 39. 
+N2
+/10l 
+a14ilt740 
+sk 1.t01A 
+NI lin 
+2119 12.11A 
+2091240 
+COITUOICKI 
+anty 
+Charge 
+Cas To 
+Used Ra. O.scrlpdon 
+VON...MACH FL 
+\VflIYNF/CN FL 
+PCOYNL 
+iMOVIA5 
+SOYNT091101 FL 
+aorironeog 
+80Y47179001 Ft 
+1VPALLIMA04 FL 
+WP 
+1VP 
+FL 
+w0 
+9.0Y11 
+IWPNOWNG 
+CFLIMEACII FI 
+WPM WifACN 
+rICCAING 
+VAIMAMEACII Ft 
+1&511,4j2.131GEA0, Ft
+BOYNTONDOM FL 
+WPAIMICA01 FL 
+w n4g,m
+. 
+FL 
+We
+rt
+=AM PC 
+WPMM30.01n. 
+SOVNT011904 FIL 
+BOYMTONGC14 M 
+04W/CION904 FL 
+1WALIMEACI1 FL 
+FR 
+IAN 
+MN 
+MN 
+MN 
+MN 
+slae 
+MN 
+MN 
+MN 
+MN 
+PAN 
+MN 
+MN 
+MN 
+IMI 
+MN 
+MN 
+MN 
+191▪ 1 
+IAN 
+911 
+IM 
+4414 
+MN 
+MN 
+MN 
+MN 
+MN 
+1•11 
+MN 
+MN 
+MN 
+MN 
+MN 
+1 EFT 
+UYLMi 
+MI 
+UM mil 
+Me/10/1M4 
+PA LMY 
+MUM PM 
+1141Mtt MUM PA, 
+U ill MUD 111/MMO MN 
+UNUMTP AVOW  MN 
+LeIUMFFG AVOW MN 
+inUIATFD WOW MP 
+WW1* Pt Ti
+I
+PEVAL 
+MIMI 9 W*1049111 
+UNL MY 9 101010110 MN 
+101LIAT 
+WIMP MN 
+i 
+tivuurt 
+AvenTel 
+MAW 
+W ane MN 
+MIMI 
+Wane Au 
+WILIIAT 
+WW101 MM 
+W041201)191000 MN 
+LNUINED RAIT10/01/91 
+Una/7W 910111101 MN 
+IMMO 0. WIMI/DM4 
+1 
+WIWI D. WIWI 
+O4 OA 0 17 WOXII MN 
+UMAAT D. 1011914 MN 
+WWMITED IINT01 MY 
+UMUNITFO KNOW
+LIM9 
+WI 
+1 
+WI
+0 110001 MN 
+014910119 WMW ow 
+tbll MUD WW101 109 
+UM WM 151MINDIAN 
+UM IA 7 ED 101450 WI 
+UMMTED AMIGO'S 
+lUZ.MliDA5111(11D1n1 
+Fo TRICVAL 
+WIUMI nA71019 MN 
+MOW D W01010 MN 
+MUM? Co 11/401119 WI 
+UNIMIT 
+NAM(90 MN 
+UNLM10)109910:1194 
+LIM M441114/541(111) IAN 
+UNLMTKO NATICND MN 
+LINUATE9 WM011) WI 
+1.444MTIO IMOKII
+ WI 
+wi ts41 3 KAMM M4 
+UMW 23 MY0011 MN 
+UV LW 0)1100111 W1 
+UN
+TED tuna, W4 
+MU
+LISTED 90411110 W1 
+WANTED AWK110 M4 
+W SW 20 11011WU MN 
+LMAIITIO MOKNO MN 
+UNINATFO AW11110 MK 
+UNUI/1440 MYMND 1114 
+UNUMI90 riM11040 MY 
+WILIMIT4 NAN1410144 
+NMI
+1 =BM 
+WILM1T 
+141M0001714 
+inIUMIT 
+re. en wo am 
+utprevV
+148 MI 
+Ltri 
+IMMOM MN 
+UMMT 
+IWAInu WI 
+UMW 
+MAR191.1141 
+1911.001 
+RMOW MN 
+WMW 11M100.114 
+CALL WAITING 
+Account Name 
+Date of Involcen 
+January 12, 2005 
+Page 11 of 22 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+Chow 
+VOCE 
+Imo Dee 
+240 
+ill
+220
+342 
+243 
+ill A3U,Z
+244 
+USAGE na 
+CREMEINS 
+Number 
+GAY 
+Ilse Cued 
+ems To 
+Used 
+NICC:91 
+YIP 
+NFL 
+fl
+III 1:1 
+KIT 
+Nit 
+A:1422
+6WAIJAKACIA 
+2/10013M 
+Mel 
+TN FL 
+MINJI9EACI4 FL 
+Chow 
+Rao 0099921109 
+MN 
+011 
+:z.vszrorstn 
+I
+F
+M
+MN 
+rip 
+NWOO
+o  trt:
+nil 
+A. 
+mai 
+Wiwi w, 
+Mot 
+MN 
+San L1,1,14);12 
+Charge 
+CV 
+8 
+02.00 
+PC Rein 
+r eaS00 Ft 
+IMUMTE0 NWOCK1 IAN 
+UMWITFO NVOUNI MA 
+NT 
+nO 91409264 
+441 
+/4/. 
+VOL LTWOOD Fl. 
+INCOMIn 
+P
+aValtelli t
+i 
+UN 
+MN 
+WONTED 1W0010 WI 
+UMP/C
+i f 
+MAW/401AM 
+UMPA 
+9W94 271101 
+UMW( 
+NAVOW IM 
+i32/ 
+t!
+2„,11W 
+„,":11:21 
+, MN 
+MN 
+MN 
+UMW 
+PIA 
+MN 
+UM1 
+N1V440 MN 
+t itan 
+110 
+NOTAMOG"
+ 
+OF= 
+217 2/19113.119 
+Mai 
+254 2/1006:109 
+61.1=1.16
+1L 
+tWi 
+1.1 
+MVO° UN 
+ME 
+AGE RETRIEVAL 
+20 2/1006:09 
+WIVAMMACIOL 
+L1EvT 
+ENS
+Itaktitign
+rjA. 
+260 V194400 
+WPALIMEACH IL 
+IlNN
+241 209 M239 
+WIWI/MACH FL 
+INT 
+11 
+tit 
+PPPINC0/66. 
+241 209 C4415P 
+WPAIMSEACH el 
+EM 
+0536 MY:kr9At" 
+26) 1^ 100x259 
+WPAMMEACH FL 
+LINLIATC0 Awe() km 
+294 2/I9 0/12P 
+WPALINEACSI IL 
+L
+M
+V
+N
+EVT 
+MESSAGE RITAIEVA1 
+INOWTED NWOO MN 
+FASSAGI RE INIEM. 
+241 LID 0/920 
+wpwastAcma 
+4I•4 
+91/0940 IAN 
+lei
+4. IRA 013e• 
+IRO weir 
+r mAtALACci il R:
+Sig 
+ANN 
+R766IMMIN 
+WNW" um 
+251 209 MN. 
+49
+996 Ct
+ICKO
+ISP
+%SUMACH FL 
+14, A=Fet
+MN 
+1 1 .11
+ IAN 
+IitaNg =UM 
+r i E 1&47,,P 
+1th
+var„:3 
+/AN 
+AIN 
+MN 
+P/W4 
+9WK 
+MN 
+52
+111/ 
+919 11:
+664.14141.94104 
+/AM 
+11191/100 
+PIWK
+MN 
+VAC MN 
+274 2/19 11: P 
+MCCAW* 
+AO/ 
+NC
+UM 
+Mx 
+EAR 
+CALL 
+210 242006,12* 
+INVALIMEACIOL 
+INCOMMG 
+MN 
+MN 
+UNUATE0 9W010Mx 
+MANI. ANYWE MI 
+274 
+200 2/200134 
+2/2007117A 
+INCOMING 
+IMPAUMEACII IL 
+MN 
+AIN 
+300  /DOT Artruse
+DOI. UNTIE 
+MN
+30) / 
+0/ VW 
+3041 
+MIMI/MACH FL 
+MN 
+An /DIA 0011/2 MN 
+. . I 
+370 
+iii. 
+Ng 
+PICOMNIG 
+en= 
+AL;4:111: 
+Alm 
+Alm 
+um 
+Ern 
+NO' WE MN 
+/01.214TIL MN 
+9 
+1.For 
+UM NOM I 
+30) 400% mann In4 
+297 
+ill 
+I 
+02.1E 
+~
+A
+A 
+Ep.a.gra 
+41004. 
+EV( 
+IIESSAOF 001 FAM. 
+E 
+MUM 
+02470 
+:PUP
+S 
+02628 
+W
+om 1ft 
+rnwm
+siAci, a
+WM 
+MN 
+2MM 
+".° 
+:RI
+141
+ MN 
+00 
+=LIN 
+A 
+EFTA01692789

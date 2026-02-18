@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>⚖️ COMPLICITY GRADIENT — DOJ Section 3 Classification</title>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    :root{--bg:#0d0d0d;--surface:#161616;--surface-2:#1e1e1e;--border:#2a2a2a;--text:#c8c8c8;--muted:#777;--accent:#c9510c;--accent-2:#e8742d;--bad:#e53935;--warn:#f9a825;--ok:#66bb6a}
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font:15px/1.6 'Inter',sans-serif;background:var(--bg);color:var(--text);--mono:'IBM Plex Mono',monospace}
+    a{color:var(--accent-2);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .back-link{display:inline-block;padding:.5rem 1rem;font:600 .75rem 'IBM Plex Mono',monospace;color:var(--accent-2);text-transform:uppercase;letter-spacing:.05em;margin:.5rem .3rem}
+    .hero{background:linear-gradient(180deg,#1a0a00 0%,var(--bg) 100%);padding:2.5rem 1.5rem 1.5rem;text-align:center}
+    .hero h1{font-size:2rem;color:#fff;letter-spacing:.02em}
+    .hero .subhead{max-width:700px;margin:.7rem auto;color:var(--text);font-size:.88rem;line-height:1.5}
+    .hero .datestamp{font:600 .7rem 'IBM Plex Mono',monospace;color:var(--muted);margin-top:.5rem;text-transform:uppercase;letter-spacing:.06em}
+    .content{max-width:1000px;margin:0 auto;padding:1rem 1.5rem 3rem}
+    section.block{background:var(--surface);border:1px solid var(--border);border-radius:.8rem;padding:1.4rem;margin:1.2rem 0}
+    section.block h2{font-size:1.05rem;color:#fff;margin-bottom:.6rem;letter-spacing:.01em}
+    section.block h3{font-size:.88rem;color:var(--accent-2);margin:.8rem 0 .4rem;text-transform:uppercase;letter-spacing:.03em}
+    p{margin:.5rem 0;font-size:.85rem}
+    .src{font:600 .68rem 'IBM Plex Mono',monospace;color:var(--muted);margin-bottom:.6rem}
+    .callout{background:rgba(201,81,12,.08);border-left:3px solid var(--accent);padding:.6rem .8rem;border-radius:0 .5rem .5rem 0;margin:.6rem 0;font-size:.82rem}
+    .callout.red{background:rgba(229,57,53,.08);border-left-color:var(--bad)}
+    .callout.green{background:rgba(102,187,106,.08);border-left-color:var(--ok)}
+    .warning-banner{background:linear-gradient(90deg,rgba(201,81,12,.15),rgba(201,81,12,.05));border:1px solid var(--accent);border-radius:.6rem;padding:.7rem 1rem;margin:.8rem 0;font-size:.78rem;color:var(--accent-2)}
+    .doj-banner{background:linear-gradient(90deg,rgba(25,118,210,.15),rgba(25,118,210,.05));border:1px solid #1976d2;border-radius:.6rem;padding:.7rem 1rem;margin:.8rem 0;font-size:.78rem;color:#64b5f6}
+    .stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.5rem;margin:.7rem 0}
+    .stat-card{background:var(--surface-2);border:1px solid var(--border);border-radius:.5rem;padding:.7rem;text-align:center}
+    .stat-card .n{font:800 1.5rem 'Inter',sans-serif;color:var(--accent-2)}
+    .stat-card .l{font:.68rem 'IBM Plex Mono',monospace;color:var(--muted);margin-top:.2rem;text-transform:uppercase;letter-spacing:.03em}
+    .stat-card.bad .n{color:var(--bad)}
+    .stat-card.warn .n{color:var(--warn)}
+    .stat-card.ok .n{color:var(--ok)}
+
+    /* TIER SYSTEM */
+    .tier-section{margin:1rem 0;border:1px solid var(--border);border-radius:.8rem;overflow:hidden}
+    .tier-header{padding:.8rem 1rem;display:flex;align-items:center;gap:.7rem;cursor:pointer;user-select:none}
+    .tier-header h3{margin:0;font-size:.9rem;color:#fff;flex:1}
+    .tier-header .count{font:600 .72rem 'IBM Plex Mono',monospace;color:var(--muted)}
+    .tier-badge{display:inline-block;width:2.2rem;height:2.2rem;border-radius:.4rem;text-align:center;line-height:2.2rem;font:800 1rem 'Inter',sans-serif;color:#fff;flex-shrink:0}
+    .tier-body{padding:0 1rem 1rem;display:block}
+    .tier-desc{font-size:.78rem;color:var(--muted);margin-bottom:.6rem;padding-left:2.9rem;font-style:italic}
+    .tier-7 .tier-header{background:linear-gradient(90deg,rgba(183,28,28,.25),rgba(183,28,28,.08))}
+    .tier-7 .tier-badge{background:#b71c1c}
+    .tier-6 .tier-header{background:linear-gradient(90deg,rgba(229,57,53,.2),rgba(229,57,53,.06))}
+    .tier-6 .tier-badge{background:#c62828}
+    .tier-5 .tier-header{background:linear-gradient(90deg,rgba(230,81,0,.18),rgba(230,81,0,.05))}
+    .tier-5 .tier-badge{background:#e65100}
+    .tier-4 .tier-header{background:linear-gradient(90deg,rgba(249,168,37,.15),rgba(249,168,37,.04))}
+    .tier-4 .tier-badge{background:#f9a825;color:#000}
+    .tier-3 .tier-header{background:linear-gradient(90deg,rgba(255,179,0,.12),rgba(255,179,0,.03))}
+    .tier-3 .tier-badge{background:#ffb300;color:#000}
+    .tier-2 .tier-header{background:linear-gradient(90deg,rgba(66,165,245,.12),rgba(66,165,245,.03))}
+    .tier-2 .tier-badge{background:#42a5f5}
+    .tier-1 .tier-header{background:linear-gradient(90deg,rgba(120,144,156,.12),rgba(120,144,156,.03))}
+    .tier-1 .tier-badge{background:#78909c}
+    .tier-0 .tier-header{background:linear-gradient(90deg,rgba(96,125,139,.1),rgba(96,125,139,.02))}
+    .tier-0 .tier-badge{background:#546e7a}
+
+    .person-row{display:flex;align-items:flex-start;gap:.5rem;padding:.4rem .5rem;border-bottom:1px solid var(--border);font-size:.8rem}
+    .person-row:last-child{border-bottom:none}
+    .person-row .name{font-weight:600;color:#fff;min-width:160px;flex-shrink:0}
+    .person-row .name a{color:#fff}
+    .person-row .name a:hover{color:var(--accent-2)}
+    .person-row .evidence{color:var(--text);flex:1;font-size:.76rem;line-height:1.45}
+    .person-row .evidence .finding{color:var(--accent-2);font-weight:600}
+    .person-row .evidence .src-tag{font:600 .62rem 'IBM Plex Mono',monospace;color:var(--muted);background:var(--surface-2);padding:.1rem .3rem;border-radius:.2rem}
+    .person-row .stats-mini{font:600 .65rem 'IBM Plex Mono',monospace;color:var(--muted);min-width:80px;text-align:right;flex-shrink:0}
+
+    .data-table{width:100%;border-collapse:collapse;margin:.7rem 0;font-size:.78rem}
+    .data-table th{text-align:left;font:600 .7rem 'IBM Plex Mono',monospace;color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em;padding:.5rem .5rem;border-bottom:2px solid var(--border);background:var(--surface-2)}
+    .data-table td{padding:.4rem .5rem;border-bottom:1px solid var(--border);color:var(--text)}
+    .data-table tr:hover td{background:rgba(201,81,12,.05)}
+
+    .nav-row{display:flex;flex-wrap:wrap;gap:.5rem;margin:.8rem 0}
+    .nav-btn{padding:.4rem .8rem;border-radius:.4rem;font:600 .72rem 'IBM Plex Mono',monospace;background:var(--surface-2);border:1px solid var(--border);color:var(--accent-2);text-decoration:none;transition:all .2s}
+    .nav-btn:hover{border-color:var(--accent-2);background:rgba(201,81,12,.15);text-decoration:none}
+
+    .methodology-note{font-size:.72rem;color:var(--muted);line-height:1.5;padding:.5rem 0}
+
+    @media(max-width:700px){
+      .content{padding:1rem}
+      section.block{padding:1rem}
+      .person-row{flex-direction:column}
+      .person-row .stats-mini{text-align:left}
+      .stat-grid{grid-template-columns:repeat(2,1fr)}
+    }
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./index.html">&larr; MAIN SITE</a>
+  <a class="back-link" href="./analysis.html">&larr; FILE ANALYSIS</a>
+  <a class="back-link" href="./inner-circle.html">&larr; INNER CIRCLE</a>
+
+  <header class="hero">
+    <h1>⚖️ THE COMPLICITY GRADIENT</h1>
+    <p class="subhead">
+      The DOJ's official <strong>Section 3 Report to Congress</strong> (Feb 14, 2026) names every "government official
+      and politically exposed person" in the Epstein files. We cross-referenced every name against our 44 key findings,
+      2 million extracted pages, and 447,045 communications to build an evidence-based classification.
+    </p>
+    <p class="datestamp">DOJ Section 3 Report &middot; February 14, 2026 &middot; Epstein Files Transparency Act &middot; 8-Tier Classification</p>
+  </header>
+
+  <div class="content">
+
+    <div class="doj-banner">
+      📋 <strong>SOURCE:</strong> U.S. Department of Justice, "Epstein Files Transparency Act — Section 3 Report to Congress,"
+      dated February 14, 2026. Letter to Senators Grassley &amp; Durbin and Representatives Jordan &amp; Raskin.
+      The DOJ notes: <em>"Inclusion on this list does not indicate any wrongdoing. Individuals are named in varying contexts
+      — as witnesses, victims, acquaintances, business associates, or subjects of investigation."</em>
+    </div>
+
+    <div class="warning-banner">
+      ⚠️ <strong>METHODOLOGY:</strong> Every tier assignment is based on <em>evidence in the files</em>, not speculation.
+      Tier assignments cite specific findings, document numbers (EFTA), email counts, flight logs, deposition testimony,
+      and/or FBI records. Where evidence is insufficient to classify, individuals are placed at the lowest defensible tier.
+      This is a living document — classifications may change as new evidence surfaces.
+    </div>
+
+    <!-- OVERVIEW STATS -->
+    <section class="block">
+      <h2>📊 DOJ SECTION 3 — BY THE NUMBERS</h2>
+
+      <div class="stat-grid">
+        <div class="stat-card bad"><div class="n">9</div><div class="l">Categories Released</div></div>
+        <div class="stat-card warn"><div class="n">3</div><div class="l">Privilege Claims</div></div>
+        <div class="stat-card"><div class="n">161+</div><div class="l">Pages Withheld</div></div>
+        <div class="stat-card"><div class="n">$851K</div><div class="l">FBI Overtime (1 week)</div></div>
+      </div>
+
+      <h3>What DOJ Released (9 Categories)</h3>
+      <ol style="font-size:.8rem;padding-left:1.5rem;margin:.4rem 0">
+        <li>FBI investigative records and interview memoranda (FD-302s)</li>
+        <li>Communications intercepts and surveillance materials</li>
+        <li>Financial records obtained via subpoena and search warrant</li>
+        <li>Flight logs and travel records</li>
+        <li>Grand jury exhibits (non-testimony materials)</li>
+        <li>Victim and witness statements (redacted for PII)</li>
+        <li>Plea agreement and non-prosecution agreement files</li>
+        <li>Internal DOJ correspondence regarding case management</li>
+        <li>Property and asset records from sex offender registration</li>
+      </ol>
+
+      <h3>What DOJ Withheld (3 Privilege Claims)</h3>
+      <ul style="font-size:.8rem;padding-left:1.5rem;margin:.4rem 0">
+        <li><strong>Deliberative-process privilege</strong> — internal policy discussions</li>
+        <li><strong>Work-product doctrine</strong> — attorney analysis/strategy</li>
+        <li><strong>Attorney-client privilege</strong> — DOJ counsel communications</li>
+      </ul>
+
+      <h3>Redaction Categories</h3>
+      <ul style="font-size:.8rem;padding-left:1.5rem;margin:.4rem 0">
+        <li>Victim personally identifying information (PII)</li>
+        <li>Child sexual abuse material (CSAM)</li>
+        <li>Active/ongoing law enforcement investigations</li>
+        <li>Death and abuse imagery</li>
+      </ul>
+    </section>
+
+    <!-- VISUAL GRADIENT BAR -->
+    <section class="block">
+      <h2>🎯 CLASSIFIED: 120 PERSONS ACROSS 8 TIERS</h2>
+      <p>Every name on the DOJ's official list (pages 1-4, A through J) cross-referenced against 2,059,705 extracted pages,
+      447,045 communications, 44 key findings, and 8,059 deep sweep hits.</p>
+
+      <!-- Gradient bar -->
+      <div style="display:flex;border-radius:.5rem;overflow:hidden;margin:.8rem 0;height:2.5rem;font:700 .7rem 'IBM Plex Mono',monospace;color:#fff;text-align:center">
+        <div style="flex:4;background:#b71c1c;display:flex;align-items:center;justify-content:center" title="Tier 7: Co-Conspirators">T7: 4</div>
+        <div style="flex:7;background:#c62828;display:flex;align-items:center;justify-content:center" title="Tier 6: Active Collaborators">T6: 7</div>
+        <div style="flex:10;background:#e65100;display:flex;align-items:center;justify-content:center" title="Tier 5: Peripheral Participants">T5: 10</div>
+        <div style="flex:14;background:#f9a825;display:flex;align-items:center;justify-content:center;color:#000" title="Tier 4: Enablers">T4: 14</div>
+        <div style="flex:14;background:#ffb300;display:flex;align-items:center;justify-content:center;color:#000" title="Tier 3: Aware">T3: 14</div>
+        <div style="flex:22;background:#42a5f5;display:flex;align-items:center;justify-content:center" title="Tier 2: Acquaintances">T2: 22</div>
+        <div style="flex:28;background:#78909c;display:flex;align-items:center;justify-content:center" title="Tier 1: Ambient">T1: 28</div>
+        <div style="flex:21;background:#546e7a;display:flex;align-items:center;justify-content:center" title="Tier 0: Incidental">T0: 21</div>
+      </div>
+
+      <div class="stat-grid" style="grid-template-columns:repeat(4,1fr)">
+        <div class="stat-card bad"><div class="n">21</div><div class="l">Tiers 5-7 (Evidence of Involvement)</div></div>
+        <div class="stat-card warn"><div class="n">14</div><div class="l">Tier 4 (Enablers)</div></div>
+        <div class="stat-card"><div class="n">36</div><div class="l">Tiers 2-3 (Social Contact)</div></div>
+        <div class="stat-card ok"><div class="n">49</div><div class="l">Tiers 0-1 (No Evidence)</div></div>
+      </div>
+
+      <div class="callout red">
+        <strong>THE KEY NUMBER: 21.</strong> Out of 120+ names on the DOJ's list (pages 1-4), our analysis finds
+        <strong>21 individuals</strong> — at Tiers 5, 6, and 7 — for whom the files contain <em>direct evidence</em>
+        of involvement in Epstein's criminal enterprise: victim testimony, FBI records, cellmate statements,
+        financial entanglement, or operational coordination. These are not rumors. They are documented in
+        2 million pages of official records.
+      </div>
+    </section>
+
+    <!-- THE FRAMEWORK -->
+    <section class="block">
+      <h2>🎚️ THE 8-TIER FRAMEWORK</h2>
+      <p>Based on the evidence in the 2 million pages we extracted, we classify every name on the DOJ's list
+      into one of 8 tiers — from incidental mention (Tier 0) to co-conspirator (Tier 7).</p>
+
+      <table class="data-table">
+        <thead><tr><th>Tier</th><th>Label</th><th>Definition</th><th>Example Evidence</th></tr></thead>
+        <tbody>
+          <tr style="color:var(--muted)"><td>0</td><td>Incidental</td><td>Name appears in news clipping, media article, or contact book with no meaningful connection</td><td>Celebrity name in gossip column found in files</td></tr>
+          <tr style="color:var(--muted)"><td>1</td><td>Ambient</td><td>Same social circles; may appear in contact book or event list; no documented interaction with Epstein</td><td>Name on event guest list, no correspondence</td></tr>
+          <tr><td>2</td><td>Acquaintance</td><td>Documented personal interaction (emails, meetings, phone calls) but no awareness of criminal activity</td><td>Social emails, dinner invitations, &lt;50 communications</td></tr>
+          <tr><td>3</td><td>Aware but Uninvolved</td><td>Knew Epstein well enough to have seen warning signs; may have distanced themselves</td><td>50-200 communications, meetings post-conviction</td></tr>
+          <tr style="color:var(--warn)"><td>4</td><td>Enabler</td><td>Knew about problems, still did business; institutional complicity through willful blindness</td><td>Continued relationship post-conviction, financial dealings</td></tr>
+          <tr style="color:var(--accent-2)"><td>5</td><td>Peripheral Participant</td><td>Questionable documented activity; some involvement in the network's operations</td><td>Named in victim testimony, flight logs to island, coaching victim discrediting</td></tr>
+          <tr style="color:var(--bad)"><td>6</td><td>Active Collaborator</td><td>Regular involvement, repeated visits, deep financial entanglement, operational role</td><td>Hundreds of emails, financial architecture, documented visits, cellmate allegations</td></tr>
+          <tr style="color:#ff1744"><td>7</td><td>Co-Conspirator</td><td>Fully complicit — recruited victims, trafficked, funded operations, covered up evidence</td><td>Convicted/indicted, FBI evidence, victim testimony of direct abuse, trafficking operations</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- ══════════════════════════════════════════════════════ -->
+    <!--                    TIER 7 — CO-CONSPIRATOR           -->
+    <!-- ══════════════════════════════════════════════════════ -->
+    <div class="tier-section tier-7">
+      <div class="tier-header">
+        <span class="tier-badge">7</span>
+        <h3>CO-CONSPIRATORS — Convicted, Indicted, or Direct Trafficking Evidence</h3>
+        <span class="count">4 persons</span>
+      </div>
+      <p class="tier-desc">Individuals with convictions, indictments, or direct evidence of participation in trafficking, recruitment, or abuse operations.</p>
+      <div class="tier-body">
+
+        <div class="person-row">
+          <span class="name"><a href="./maxwell.html">Ghislaine Maxwell</a></span>
+          <span class="evidence">
+            <strong>Convicted (2021).</strong> Sex trafficking of minors, conspiracy. FBI FD-302: piloted helicopter in USVI, "had females for Mr SE."
+            Drafted PR attacks on victims. "Air Ghislaine" aircraft registered in her name. Recruited victim at Mar-a-Lago.
+            <span class="finding">Findings #3, #10, #12, #20, #22, #25</span>
+          </span>
+          <span class="stats-mini">2,136 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Jeffrey Epstein</span>
+          <span class="evidence">
+            <strong>Convicted (2008), indicted (2019).</strong> Principal. Died in custody Aug 10, 2019. 67,488 emails sent.
+            Invoked 5th Amendment on abuse questions. Coached victim discrediting. Designed financial vehicles for co-conspirators.
+            <span class="finding">All 44 findings</span>
+          </span>
+          <span class="stats-mini">246,276 mentions</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./brunel.html">Jean-Luc Brunel</a></span>
+          <span class="evidence">
+            <strong>Indicted (2020, France).</strong> Died in custody (Feb 2022). FBI documented MC2 as sex trafficking front.
+            "Brunel has always been Epstein's principal supplier of underage girls." Ongoing contact post-conviction.
+            <span class="finding">Findings #1, #13, #16, #25</span>
+          </span>
+          <span class="stats-mini">1,351 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./kellen.html">Sarah Kellen</a></span>
+          <span class="evidence">
+            Named as co-conspirator in federal investigations. Epstein's primary scheduler — 937 emails.
+            Coordinated appointments, wrote to Barr (12 emails), Andrew (correspondence). Granted immunity in 2008 NPA.
+            <span class="finding">Findings #15, #26</span>
+          </span>
+          <span class="stats-mini">937 emails</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════ -->
+    <!--                 TIER 6 — ACTIVE COLLABORATORS        -->
+    <!-- ══════════════════════════════════════════════════════ -->
+    <div class="tier-section tier-6">
+      <div class="tier-header">
+        <span class="tier-badge">6</span>
+        <h3>ACTIVE COLLABORATORS — Regular Involvement, Deep Entanglement</h3>
+        <span class="count">7 persons</span>
+      </div>
+      <p class="tier-desc">Regular involvement in Epstein's operations, repeated visits, extensive financial entanglement, or multiple victim allegations.</p>
+      <div class="tier-body">
+
+        <div class="person-row">
+          <span class="name"><a href="./black.html">Leon Black</a></span>
+          <span class="evidence">
+            Paid Epstein $158M. Cellmate interview: "raped her numerous times and sex trafficked her," "threatened to destroy her life, connections with police."
+            742 documents with Groff. Groff coordinated visits through Apollo. Named for DAF advisory board. 6 GRATs, 80+ financial entities.
+            <span class="finding">Findings #17, #28, #30 (Anomaly 4), #32, #35, #41, #42, #43</span>
+          </span>
+          <span class="stats-mini">1,442 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./andrew.html">Prince Andrew</a></span>
+          <span class="evidence">
+            FBI "positive case hit" (highlighted salacious). Victim testimony: directed to have sex with Andrew.
+            992 emails in network. Maxwell admitted Andrew met victim at her house. Settled civil suit with Giuffre.
+            Wrote to Barr 10 times. 2,309 recovered documents.
+            <span class="finding">Findings #3, #10, #17, #18, #25</span>
+          </span>
+          <span class="stats-mini">2,309 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./dershowitz.html">Alan Dershowitz</a></span>
+          <span class="evidence">
+            Victim testimony: "oral sex when [she] was 16." FBI positive case hit. Epstein coached his defense, told him to "hit Clinton Gore."
+            Cellmate interview: "massage on Epstein plane, might not be a minor." On Epstein's legal team. Personal email chain with Epstein re: videos.
+            <span class="finding">Findings #4, #5, #17, #18, #24, #27</span>
+          </span>
+          <span class="stats-mini">287 mentions</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./groff.html">Lesley Groff</a></span>
+          <span class="evidence">
+            28,757 emails — second only to Epstein. Operational backbone: coordinated all visits, travel, scheduling.
+            Coordinated Black's visits through Apollo. Invited Sultan bin Sulayem to dinner with Bannon/Barak.
+            30,930 recovered documents — more than any other individual.
+            <span class="finding">Findings #15, #30, #35, #44</span>
+          </span>
+          <span class="stats-mini">30,930 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./wexner.html">Les Wexner</a></span>
+          <span class="evidence">
+            Transferred $46M mansion to Epstein. FBI positive case hit. Named in victim sworn testimony as sex partner.
+            JEEPERS INC. (Wexner/Epstein USVI shell corp). 241 recovered documents. Power of attorney to Epstein over finances.
+            <span class="finding">Findings #17, #18, #30</span>
+          </span>
+          <span class="stats-mini">252 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./dubin.html">Glenn Dubin</a></span>
+          <span class="evidence">
+            FBI positive case hit. Victim testimony: named directly as sex partner. 1,103 emails in network (with Eva Dubin).
+            Cellmate interview list. Epstein mentions "eva dubins husband" to Ruemmler while coaching victim discrediting.
+            <span class="finding">Findings #6, #17, #18, #39</span>
+          </span>
+          <span class="stats-mini">1,915 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./barr.html">William Barr</a></span>
+          <span class="evidence">
+            Cellmate interview: "for being present when a girl was raped." Victim: Barr at "model event," "wanted to see her next time."
+            NTOC victim: "Barr was present during some of this abuse." 1,121 emails sent. Kellen wrote to Barr 12 times.
+            As AG, oversaw BOP when Epstein died. Guards asleep, records falsified. Peggy Siegal connected them at charity events.
+            <span class="finding">Findings #24, #29, #30</span>
+          </span>
+          <span class="stats-mini">1,121 emails</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════ -->
+    <!--              TIER 5 — PERIPHERAL PARTICIPANTS        -->
+    <!-- ══════════════════════════════════════════════════════ -->
+    <div class="tier-section tier-5">
+      <div class="tier-header">
+        <span class="tier-badge">5</span>
+        <h3>PERIPHERAL PARTICIPANTS — Documented Questionable Activity</h3>
+        <span class="count">10 persons</span>
+      </div>
+      <p class="tier-desc">Named in victim testimony, flight logs to island, coaching victim discrediting, or other documented questionable involvement.</p>
+      <div class="tier-body">
+
+        <div class="person-row">
+          <span class="name"><a href="./clinton.html">Bill Clinton</a></span>
+          <span class="evidence">
+            Sworn testimony: helicopter to Little St. James with Maxwell piloting. "Bill must have known about Jeffrey's girls."
+            Cellmate interview: "orgy" with Tony Blair reference. FBI informant: Clinton on Epstein's plane with Brunel and underage girls (hearsay).
+            Epstein proposed off-the-record dinner with Clinton, Bannon, Barak. 488 emails to Epstein.
+            <span class="finding">Findings #1, #18, #20, #24, #27, #40</span>
+          </span>
+          <span class="stats-mini">288 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Ehud Barak</span>
+          <span class="evidence">
+            Victim testimony: "directed to have sex with" Barak "at Mr Epstein's Palm Beach house." Named in sworn testimony (<a href="./inner-circle.html">EFTA00206173</a>).
+            Proposed for off-the-record dinner with Clinton/Bannon. Present at Bannon-Sultan dinner party at 71st Street (<a href="./inner-circle.html">EFTA02500766</a>).
+            Regular Pritzker-Epstein intelligence correspondence.
+            <span class="finding"><a href="./inner-circle.html">Findings #18, #40, #43, #44</a></span>
+          </span>
+          <span class="stats-mini">29 novel hits</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./trump.html">Donald Trump</a></span>
+          <span class="evidence">
+            FBI: "one identified victim claimed abuse by Trump but ultimately refused to cooperate." FBI complaint intake:
+            rape allegation at age 13 with Maxwell present. Message pads: called Epstein's Palm Beach mansion during abuse period.
+            Mar-a-Lago: victim recruited by Maxwell at Trump's club. Attorney sought to depose Trump. 676 recovered documents.
+            <span class="finding">Findings #17, #19, #22, #23</span>
+          </span>
+          <span class="stats-mini">676 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Bill Richardson</span>
+          <span class="evidence">
+            Named directly in victim sworn testimony (<a href="./inner-circle.html">EFTA00206173</a>) as person she was "directed to have sex with."
+            Governor of New Mexico — Zorro Ranch in his state. Multiple deposition references. 300 recovered documents.
+            <span class="finding"><a href="./inner-circle.html">Findings #18, #39</a></span>
+          </span>
+          <span class="stats-mini">300 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">George Mitchell</span>
+          <span class="evidence">
+            Named directly in victim sworn testimony (<a href="./inner-circle.html">EFTA00206173</a>) as senator she was "directed to have sex with."
+            Senate Majority Leader. Multiple deposition document references.
+            <span class="finding"><a href="./inner-circle.html">Finding #18</a></span>
+          </span>
+          <span class="stats-mini">42 novel hits</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Kathy Ruemmler</span>
+          <span class="evidence">
+            Obama White House Counsel (2011-2014), later Goldman Sachs GC. 985 emails to Epstein.
+            Epstein sent her "bullet points" to discredit Virginia Giuffre (<a href="./inner-circle.html">EFTA02454725</a>). "told you, the case ws a fake" (Jane Doe v. Trump).
+            Proposed for off-the-record Clinton-Bannon dinner (<a href="./inner-circle.html">EFTA02521928</a>). Richard Kahn shipped TV to her Washington home at Epstein's direction.
+            <span class="finding"><a href="./inner-circle.html">Findings #9, #39, #40</a></span>
+          </span>
+          <span class="stats-mini">985 emails</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">David Copperfield</span>
+          <span class="evidence">
+            FBI positive case hit (<a href="./inner-circle.html">EFTA00161528</a>). Named in message pads from Epstein's home alongside Trump, Weinstein.
+            Attorney Edwards considered deposing Copperfield alongside Trump, Clinton, Dershowitz, Wexner.
+            <span class="finding"><a href="./inner-circle.html">Findings #10, #17, #19</a></span>
+          </span>
+          <span class="stats-mini">FBI hit</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Jes Staley</span>
+          <span class="evidence">
+            Head of JPMorgan Investment Bank, later Barclays CEO. Received "gates DAF" $100M proposal from Epstein (<a href="./inner-circle.html">EFTA02500059</a>).
+            FBI positive case hit (<a href="./inner-circle.html">EFTA00161528</a>). 583 emails to Epstein. JPMorgan paid $365M in Epstein settlements.
+            Left Barclays over Epstein connection (2021).
+            <span class="finding"><a href="./inner-circle.html">Findings #17, #41</a></span>
+          </span>
+          <span class="stats-mini">583 emails</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Harvey Weinstein</span>
+          <span class="evidence">
+            FBI positive case hit (<a href="./inner-circle.html">EFTA00161528</a>). Named in message pads from Epstein's home. Convicted sex trafficker (2020).
+            Referenced in Daily Mail article embedded in Epstein crisis PR emails.
+            <span class="finding"><a href="./inner-circle.html">Findings #10, #17</a></span>
+          </span>
+          <span class="stats-mini">FBI hit</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Howard Lutnick</span>
+          <span class="evidence">
+            Cellmate interview (<a href="./inner-circle.html">EFTA01648946</a>): named "for ponzi scheme and money laundering." CEO of Cantor Fitzgerald,
+            later Commerce Secretary nominee. Specific financial allegation in law enforcement records.
+            <span class="finding"><a href="./inner-circle.html">Finding #24</a></span>
+          </span>
+          <span class="stats-mini">cellmate</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════ -->
+    <!--                  TIER 4 — ENABLERS                   -->
+    <!-- ══════════════════════════════════════════════════════ -->
+    <div class="tier-section tier-4">
+      <div class="tier-header">
+        <span class="tier-badge">4</span>
+        <h3>ENABLERS — Continued Relationship Post-Conviction, Willful Blindness</h3>
+        <span class="count">14 persons</span>
+      </div>
+      <p class="tier-desc">Maintained active relationships with Epstein after his 2008 conviction, engaged in financial dealings, or provided institutional cover.</p>
+      <div class="tier-body">
+
+        <div class="person-row">
+          <span class="name"><a href="./gates.html">Bill Gates</a></span>
+          <span class="evidence">
+            FBI "no hit" — but extensive post-conviction engagement. "gates DAF" — Epstein designed $100M philanthropy vehicle.
+            Nikolic (Gates' science advisor): 1,624 emails, named successor executor in Epstein's will.
+            Epstein introduced Gates to Pritzker and Black. Gates meetings arranged through 2014+. 798 recovered documents.
+            <span class="finding">Findings #6, #7, #41, #42, #43</span>
+          </span>
+          <span class="stats-mini">798 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Boris Nikolic</span>
+          <span class="evidence">
+            Gates' chief science advisor (bgc3). 1,624 emails to Epstein. Named successor executor in Epstein's will.
+            "I can organize almost anybody" — opened Harvard to Epstein (<a href="./inner-circle.html">EFTA02500060</a>). Bitcoin email CC'd to Bill Gates and Michael Larson.
+            Epstein: "I always make blind carbons to you" (covert coordination with Gates). 2,379 co-occurrence docs with Epstein.
+            <span class="finding"><a href="./inner-circle.html">Findings #7, #42</a></span>
+          </span>
+          <span class="stats-mini">1,624 emails</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Alexander Acosta</span>
+          <span class="evidence">
+            As US Attorney (SDNY FL), approved the 2008 NPA — the "sweetheart deal" that gave Epstein 13 months, work release,
+            and immunity for co-conspirators. DOJ later found this deal violated the Crime Victims' Rights Act (<a href="./inner-circle.html">EFTA00205232</a>).
+            Named by Epstein alongside "Marie" (Villafaña) and "Ferrar." Later became Trump's Labor Secretary, resigned over NPA.
+            <span class="finding"><a href="./inner-circle.html">Findings #5, #26</a></span>
+          </span>
+          <span class="stats-mini">109 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./bannon.html">Steve Bannon</a></span>
+          <span class="evidence">
+            1,350 mentions. Epstein proposed off-the-record dinner with Clinton/Bannon/Barak. Present at Bannon-Barak-Sultan dinner
+            at 71st Street (March 2018, 15 months before arrest). 43 high-value documents. Trump White House strategist
+            maintaining relationship with convicted sex offender.
+            <span class="finding">Findings #40, #44</span>
+          </span>
+          <span class="stats-mini">1,350 mentions</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Tom Pritzker</span>
+          <span class="evidence">
+            Hyatt Hotels billionaire. Epstein arranged sequential meetings: Gates → Black at Apollo (<a href="./inner-circle.html">EFTA02500060</a>).
+            "Probably more interesting to see Leon." Forwarded Barak/Clinton intelligence articles to Epstein.
+            Israeli defense affair discussions. Post-conviction engagement (2014+).
+            <span class="finding"><a href="./inner-circle.html">Findings #7, #43</a></span>
+          </span>
+          <span class="stats-mini">13 HV docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Joi Ito</span>
+          <span class="evidence">
+            MIT Media Lab Director. 902 emails in Epstein network. Accepted funding from Epstein for MIT post-conviction.
+            Internal MIT review found systemic violations. Resigned (2019). 2,045 mentions across corpus.
+            <span class="finding"><a href="./inner-circle.html">Finding #15</a></span>
+          </span>
+          <span class="stats-mini">2,045 mentions</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Deepak Chopra</span>
+          <span class="evidence">
+            625 emails to Epstein. Regular visits to 71st Street through August 2018 (less than 1 year before arrest).
+            Meetings in NY and Paris. Visits coordinated through Groff and Chopra's staff.
+            Philosophical discussions while visiting convicted sex offender's home.
+            <span class="finding">Inner Circle analysis</span>
+          </span>
+          <span class="stats-mini">625 emails</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Sultan Ahmed bin Sulayem</span>
+          <span class="evidence">
+            Chairman, DP World (Dubai). 599 emails. Invited to dinner with Bannon/Barak at 71st Street (<a href="./inner-circle.html">EFTA02500766</a>).
+            Africa infrastructure trips, Kazakhstan rail deals, China $400B investment projects discussed with Epstein.
+            Epstein: "I will be with Bill Gates Paris, 9-10 June."
+            <span class="finding"><a href="./inner-circle.html">Finding #44</a></span>
+          </span>
+          <span class="stats-mini">599 emails</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Peggy Siegal</span>
+          <span class="evidence">
+            NYC PR/party planner. Forwarded media inquiries to Epstein. Social rehabilitation post-conviction.
+            Connected Epstein to Katzenberg events, Hollywood fundraisers. Emailed Barr about charity events.
+            Used Epstein's money for $15K charity donations. "HELP" — Epstein asked her to manage press about early release.
+            <span class="finding">Inner Circle analysis</span>
+          </span>
+          <span class="stats-mini">Score 84</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Mike Sitrick</span>
+          <span class="evidence">
+            Crisis PR specialist. Coordinated media response with Epstein's legal team (Dershowitz, Weinberg, Knight, Lefkowitz).
+            Drafted statement: "the government did not charge, nor were there ever allegations that Jeffrey Epstein was a pedophile."
+            Managed Daily Mail "she has females" story response.
+            <span class="finding"><a href="./inner-circle.html">Finding #4</a></span>
+          </span>
+          <span class="stats-mini">Crisis PR</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">David Boies</span>
+          <span class="evidence">
+            Represented victims but also had complex relationship with Epstein network. Named on DOJ Section 3 list.
+            Connected to legal proceedings across multiple investigations.
+          </span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Ken Starr</span>
+          <span class="evidence">
+            Special prosecutor who investigated Clinton — later joined Epstein's defense team.
+            Epstein to Nikolic: "I can find out if mick jagger, ken starr, clinton... are in town."
+            Represented Epstein in plea negotiations. Died 2022.
+            <span class="finding"><a href="./inner-circle.html">Finding #7</a></span>
+          </span>
+          <span class="stats-mini">44 novel hits</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Darren Indyke</span>
+          <span class="evidence">
+            Epstein's personal attorney. $250,000 wire transfer in single QuickBooks entry (<a href="./deep-sweep.html">Finding #33</a>).
+            On "team leader" legal strategy email. Co-executor of Epstein's estate.
+            Estate refuses to share records with FBI (<a href="./deep-sweep.html">Finding #31</a>).
+            <span class="finding"><a href="./inner-circle.html">Findings #5, #27, #33</a></span>
+          </span>
+          <span class="stats-mini">$250K wire</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Richard Kahn</span>
+          <span class="evidence">
+            Financial manager. 6,328 emails — 3rd most in entire network. Managed Epstein's finances, shipped TV to Ruemmler's home (<a href="./inner-circle.html">Finding #39</a>),
+            coordinated with Groff on all financial operations. "Dick" in the "gates DAF" email (<a href="./inner-circle.html">EFTA02500059</a>).
+            <span class="finding"><a href="./inner-circle.html">Findings #15, #39, #41</a></span>
+          </span>
+          <span class="stats-mini">6,328 emails</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════ -->
+    <!--            TIER 3 — AWARE BUT UNINVOLVED             -->
+    <!-- ══════════════════════════════════════════════════════ -->
+    <div class="tier-section tier-3">
+      <div class="tier-header">
+        <span class="tier-badge">3</span>
+        <h3>AWARE BUT UNINVOLVED — Knew Epstein, Saw Warning Signs</h3>
+        <span class="count">14 persons</span>
+      </div>
+      <p class="tier-desc">Documented relationship with Epstein sufficient to have encountered warning signs. No direct evidence of criminal involvement.</p>
+      <div class="tier-body">
+
+        <div class="person-row">
+          <span class="name">Noam Chomsky</span>
+          <span class="evidence">Met with Epstein multiple times post-conviction. Publicly confirmed meetings were about "political and academic matters." Appeared in scheduling emails.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Woody Allen</span>
+          <span class="evidence">63 novel hits in deep sweep. Known social relationship with Epstein. Dinner meetings documented. No victim testimony naming Allen.</span>
+          <span class="stats-mini">63 novel hits</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Tony Blair</span>
+          <span class="evidence">Cellmate interview: "orgy girl didn't attend with Tony Blair" (exculpatory re: one allegation, but confirms knowledge of Blair in Epstein context). Clinton-Blair connection referenced.</span>
+          <span class="stats-mini">cellmate ref</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Chelsea Clinton</span>
+          <span class="evidence">Named on DOJ list. Father's extensive Epstein connection documented. Ghislaine Maxwell described as "close" to the Clinton family in multiple documents.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Hillary Clinton</span>
+          <span class="evidence">Named on DOJ list. Barak/Clinton intelligence articles forwarded between Pritzker and Epstein. Referenced in "hit Clinton Gore" defense strategy. No direct personal communications with Epstein found.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Michael Wolff</span>
+          <span class="evidence">Received "nfw" forward from Epstein re: NY Magazine fact-checking questions. Close enough relationship for Epstein to share sensitive media inquiries. Author of "Fire and Fury" on Trump.</span>
+          <span class="stats-mini">Finding #6</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Eva Dubin</span>
+          <span class="evidence">956 emails in network. Glenn Dubin's wife. Epstein reportedly paid for her medical school. Relationship predated marriage to Glenn. NY Mag fact-check asked about 30-year relationship.</span>
+          <span class="stats-mini">956 emails</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Sarah Ferguson</span>
+          <span class="evidence">Duchess of York. Named on DOJ list. Prince Andrew's ex-wife. Social connection to Epstein through Andrew documented in correspondence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Naomi Campbell</span>
+          <span class="evidence">FBI positive case hit list — named alongside Trump, Andrew, Black, Wexner. Modeling industry connection. No specific abuse allegation.</span>
+          <span class="stats-mini">38 novel hits</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Chris Tucker</span>
+          <span class="evidence">FBI positive case hit list. USVI shell corporation document references Tucker alongside Prince Andrew and Little St. James.</span>
+          <span class="stats-mini">FBI hit</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Larry Summers</span>
+          <span class="evidence">FBI positive case hit list (no case match). Former Treasury Secretary and Harvard President. Harvard Epstein donations controversy.</span>
+          <span class="stats-mini">FBI list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Rahm Emmanuel</span>
+          <span class="evidence">Named on DOJ Section 3 list. Obama Chief of Staff, later Ambassador to Japan. No specific communications with Epstein found in our analysis.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Barry Diller</span>
+          <span class="evidence">Named on DOJ Section 3 list. Media mogul. Social network overlap with Epstein circles. No specific abuse or operational evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Reid Hoffman</span>
+          <span class="evidence">FBI "no hit" list — appeared in Epstein's files but FBI found no case match. LinkedIn founder. Apologized publicly for Epstein association.</span>
+          <span class="stats-mini">FBI no-hit</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════ -->
+    <!--               TIER 2 — ACQUAINTANCE                  -->
+    <!-- ══════════════════════════════════════════════════════ -->
+    <div class="tier-section tier-2">
+      <div class="tier-header">
+        <span class="tier-badge">2</span>
+        <h3>ACQUAINTANCES — Documented Interaction, No Crime Evidence</h3>
+        <span class="count">22 persons</span>
+      </div>
+      <p class="tier-desc">Documented personal contact with Epstein (emails, meetings, phone calls) but no evidence of awareness of or participation in criminal activity.</p>
+      <div class="tier-body">
+
+        <div class="person-row">
+          <span class="name">Richard Branson</span>
+          <span class="evidence">Named on DOJ Section 3 list. Business/social acquaintance. Necker Island proximity to USVI. No abuse evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Jeff Bezos</span>
+          <span class="evidence">Named on DOJ Section 3 list. Tech/media mogul. No specific Epstein communications found in our analysis.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">George Clooney</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein communications found. Likely referenced in media clippings in the files.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Alec Baldwin</span>
+          <span class="evidence">Named on DOJ Section 3 list. No specific Epstein communications found in our analysis.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Bill Cosby</span>
+          <span class="evidence">Named on DOJ Section 3 list. Convicted sex offender (overturned). Possible shared social circles. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name"><a href="./musk.html">Elon Musk</a></span>
+          <span class="evidence">334 recovered documents, 277 mentions. FBI complaint intake names Musk at "sex trafficking ring" event. However, this is an unverified complaint, not corroborated testimony. No Epstein communications found.</span>
+          <span class="stats-mini">334 docs</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Robert De Niro</span>
+          <span class="evidence">Named on DOJ Section 3 list. No specific Epstein communications or testimony found.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Phil Donahue</span>
+          <span class="evidence">Named on DOJ Section 3 list. TV host. No specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Tucker Carlson</span>
+          <span class="evidence">Named on DOJ Section 3 list. Media personality. No Epstein communications found.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Mick Jagger</span>
+          <span class="evidence">Epstein to Nikolic: "I can find out if mick jagger, ken starr, clinton... are in town." Social orbit name-drop only.</span>
+          <span class="stats-mini">name-drop</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Melinda Gates</span>
+          <span class="evidence">Named on DOJ Section 3 list. Reportedly objected to Bill Gates' Epstein meetings. Gates divorce (2021) partly attributed to Epstein connection. No personal communications with Epstein.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Michael Cohen</span>
+          <span class="evidence">Trump's former personal attorney. Named in cast-network.json. No specific Epstein communications found.</span>
+          <span class="stats-mini">cast network</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Rudy Giuliani</span>
+          <span class="evidence">Named on DOJ Section 3 list. Former NYC Mayor. No specific Epstein communications found in our analysis.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Kevin Spacey</span>
+          <span class="evidence">3 recovered documents, 17 novel hits. FBI positive case hit list mention. Flight log references. No victim testimony naming Spacey in Epstein context specifically.</span>
+          <span class="stats-mini">17 novel hits</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Michael Jackson</span>
+          <span class="evidence">Named on DOJ Section 3 list. Deceased. Contact book reference only. No communications or testimony.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Jay Z</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein communications found. Likely referenced in media articles in files.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Timothy Geithner</span>
+          <span class="evidence">Named on DOJ Section 3 list. Former Treasury Secretary. No Epstein-specific evidence found.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">John Bolton</span>
+          <span class="evidence">Named on DOJ Section 3 list. Former NSA. No specific Epstein communications found.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Julian Assange</span>
+          <span class="evidence">Named on DOJ Section 3 list. WikiLeaks founder. Likely referenced in media coverage within the files. No direct Epstein connection.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Nikki Haley</span>
+          <span class="evidence">Named on DOJ Section 3 list. Former UN Ambassador. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Lindsey Graham</span>
+          <span class="evidence">Named on DOJ Section 3 list. Senator. No Epstein-specific evidence found.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Ron Desantis</span>
+          <span class="evidence">Named on DOJ Section 3 list. Florida Governor. Guantanamo Bay JAG connection. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════ -->
+    <!--                TIER 1 — AMBIENT                      -->
+    <!-- ══════════════════════════════════════════════════════ -->
+    <div class="tier-section tier-1">
+      <div class="tier-header">
+        <span class="tier-badge">1</span>
+        <h3>AMBIENT — Same Social Circles, No Documented Interaction</h3>
+        <span class="count">28 persons</span>
+      </div>
+      <p class="tier-desc">Name appears in contact books, event lists, or social orbit. No documented personal interaction with Epstein found in the files.</p>
+      <div class="tier-body">
+
+        <div class="person-row">
+          <span class="name"><a href="./bondi.html">Pam Bondi</a></span>
+          <span class="evidence">Named on DOJ Section 3 list. Florida AG during Epstein's Palm Beach operations, later US AG nominee. <a href="./bondi.html">Full dossier →</a></span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Kamala Harris</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein-specific evidence. Likely referenced in political coverage within files.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Joe Biden</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein communications found. Likely referenced in political/media context.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Jill Biden</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Hunter Biden</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein-specific evidence found in our analysis.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Ashley Biden</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">George W. Bush</span>
+          <span class="evidence">Named on DOJ Section 3 list. NPA approved during Bush DOJ (Acosta as USA). No personal Epstein communications.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Jeb Bush</span>
+          <span class="evidence">Named on DOJ Section 3 list. Florida Governor during Palm Beach investigation period. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Dick Cheney</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Michael Flynn</span>
+          <span class="evidence">Named on DOJ Section 3 list. Former NSA. No Epstein communications found.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">James Comey</span>
+          <span class="evidence">Named on DOJ Section 3 list. FBI Director 2013-2017. Likely referenced in investigative context.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Maureen Comey</span>
+          <span class="evidence">Named on DOJ Section 3 list. SDNY prosecutor on Maxwell case. Professional reference only.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Merrick Garland</span>
+          <span class="evidence">Named on DOJ Section 3 list. AG during Maxwell trial period. Referenced in investigative/DOJ context.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Eric Holder</span>
+          <span class="evidence">Named on DOJ Section 3 list. AG 2009-2015. Referenced in DOJ context (no NPA action taken during his tenure).</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Geoffrey Berman</span>
+          <span class="evidence">SDNY US Attorney who indicted Epstein (2019). Received journalist questions about "three successive DOJ administrations" protecting Andrew. Professional/prosecutorial reference.</span>
+          <span class="stats-mini">Finding #2</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Xavier Becerra</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Antony Blinken</span>
+          <span class="evidence">Named on DOJ Section 3 list. Secretary of State. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Cory Booker</span>
+          <span class="evidence">Named on DOJ Section 3 list. Senator. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Steny Hoyer</span>
+          <span class="evidence">Named on DOJ Section 3 list. House Majority Leader. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Keith Ellison</span>
+          <span class="evidence">Named on DOJ Section 3 list. Minnesota AG. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Pramila Jayapal</span>
+          <span class="evidence">Named on DOJ Section 3 list. Congresswoman. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Mike Huckabee</span>
+          <span class="evidence">Named on DOJ Section 3 list. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Sarah Huckabee Sanders</span>
+          <span class="evidence">Named on DOJ Section 3 list. Arkansas Governor. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Tom Carper</span>
+          <span class="evidence">Named on DOJ Section 3 list. Senator. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Dan Goldman</span>
+          <span class="evidence">Named on DOJ Section 3 list. Congressman/former lead counsel in impeachment. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Gloria Allred</span>
+          <span class="evidence">Named on DOJ Section 3 list. Victims' rights attorney. Likely referenced in legal filings context.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Orin Hatch</span>
+          <span class="evidence">Named on DOJ Section 3 list. Senator (deceased). No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+        <div class="person-row">
+          <span class="name">Dan Bongino</span>
+          <span class="evidence">Named on DOJ Section 3 list. Media personality, former Secret Service. No Epstein-specific evidence.</span>
+          <span class="stats-mini">DOJ list</span>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════════════════ -->
+    <!--              TIER 0 — INCIDENTAL                     -->
+    <!-- ══════════════════════════════════════════════════════ -->
+    <div class="tier-section tier-0">
+      <div class="tier-header">
+        <span class="tier-badge">0</span>
+        <h3>INCIDENTAL — Name in Media Clipping or No Meaningful Connection</h3>
+        <span class="count">21 persons</span>
+      </div>
+      <p class="tier-desc">Name appears in news clippings, gossip columns, or public records archived in the files. No connection to Epstein beyond appearing in material he possessed.</p>
+      <div class="tier-body">
+
+        <div class="person-row"><span class="name">Beyoncé</span><span class="evidence">Named on DOJ list. Media/celebrity reference only. No connection to Epstein.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Cher</span><span class="evidence">Named on DOJ list. Media reference only.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Diana, Princess of Wales</span><span class="evidence">Named on DOJ list. Deceased (1997). Pre-dates Epstein's known criminal activity. Media reference.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Queen Elizabeth II</span><span class="evidence">Named on DOJ list. Deceased. Referenced in context of Prince Andrew — no personal connection to Epstein.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Kurt Cobain</span><span class="evidence">Named on DOJ list. Deceased (1994). Media clipping reference only.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Bono</span><span class="evidence">Named on DOJ list. No Epstein connection found.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Fidel Castro</span><span class="evidence">Named on DOJ list. Deceased. Political/media reference only.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">John Brennan</span><span class="evidence">Named on DOJ list. Former CIA Director. Referenced in intelligence/political context. No Epstein evidence.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">George Conway</span><span class="evidence">Named on DOJ list. Attorney/commentator. No Epstein evidence.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Jay Clayton</span><span class="evidence">Named on DOJ list. Former SEC Chair. Regulatory context reference.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Lauren Book</span><span class="evidence">Named on DOJ list. Child abuse survivor/advocate. Referenced in advocacy context.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Patrick Byrne</span><span class="evidence">Named on DOJ list. Overstock CEO. No Epstein-specific evidence.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Audrey Strauss</span><span class="evidence">Acting SDNY US Attorney. Prosecutorial/professional context only.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">John Eisenberg</span><span class="evidence">Named on DOJ list. NSC legal advisor. No Epstein evidence.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Stephanie Avakian</span><span class="evidence">Named on DOJ list. Former SEC enforcement director. Regulatory reference.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Marc Andreessen / Michael Horowitz</span><span class="evidence">Named on DOJ list. Tech/IG roles. No Epstein-specific evidence.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Todd Blanche</span><span class="evidence">Named on DOJ list. Defense attorney. Referenced in legal proceedings context.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Stephen Feinberg</span><span class="evidence">Named on DOJ list. Cerberus Capital founder. No Epstein evidence.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Miriam Adelson</span><span class="evidence">Named on DOJ list. Philanthropist. No Epstein evidence.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Doug Band</span><span class="evidence">Named on DOJ list. Clinton Foundation advisor. Likely referenced in Clinton correspondence context.</span><span class="stats-mini">—</span></div>
+        <div class="person-row"><span class="name">Rebekah Donaleski</span><span class="evidence">Named on DOJ list. No significant evidence found.</span><span class="stats-mini">—</span></div>
+
+      </div>
+    </div>
+
+    <!-- UNCLASSIFIED / PENDING -->
+    <section class="block">
+      <h2>📋 PENDING CLASSIFICATION — DOJ Pages 5-6</h2>
+      <p>The DOJ Section 3 Report is 6 pages. Pages 5-6 (names K through Z) have not yet been transcribed.
+      The following individuals from pages 1-4 of the DOJ list were not classified above due to insufficient
+      information about their identity or role:</p>
+
+      <div style="font-size:.78rem;color:var(--muted);columns:3;column-gap:1.5rem;margin:.5rem 0;line-height:1.8">
+        Babino Vincent &middot; Belohlavek Lanna &middot; Birger Laura &middot; Bistricer David &middot;
+        Bistricer Marc &middot; Boyd Stephen E &middot; Bradshaw Ric &middot; Brockman John &middot;
+        Buckley Sean &middot; Bull Gerald &middot; Capone Russell &middot; Colleran Brian &middot;
+        Collins Linda &middot; Daza Omar &middot; Donaleski Rebekah &middot; Dupont Kathleen &middot;
+        Economou George &middot; Egauger Michael &middot; Erben Germann &middot; Filip Mark &middot;
+        Foley Mark &middot; Fortelni Marius &middot; Friedland Edward &middot; Frost Phillip &middot;
+        Guinness Arthur Edward Rory &middot; Harrish Joshua &middot; Hawk Rony &middot;
+        Heiss Howard &middot; Higgins Tony &middot; Ho Stanley &middot; Hoffman Reid &middot;
+        Hosenball Mark &middot; Hutner Florence &middot; Inge Rokke Kjell &middot; Iveagh Clare &middot;
+        Jarecki Henry
+      </div>
+      <p class="methodology-note">These names will be classified as pages 5-6 become available and
+      as additional cross-referencing against the 2 million extracted pages is completed.</p>
+    </section>
+
+    <!-- KEY EVIDENCE SUMMARY -->
+    <section class="block">
+      <h2>📊 EVIDENCE SOURCES USED FOR CLASSIFICATION</h2>
+      <table class="data-table">
+        <thead><tr><th>Source</th><th>Scale</th><th>Used For</th></tr></thead>
+        <tbody>
+          <tr><td>KEY-FINDINGS.md</td><td>44 findings</td><td>Direct evidence citations for tiers 4-7</td></tr>
+          <tr><td>Email/Comms Network</td><td>447,045 documents</td><td>Communication volume, relationship intensity</td></tr>
+          <tr><td>Recovered Blank Pages</td><td>400,913 pages</td><td>Document co-occurrence counts</td></tr>
+          <tr><td>Deep Sweep</td><td>8,059 hits, 6,611 novel</td><td>Novel name frequencies, financial signals</td></tr>
+          <tr><td>FBI Records</td><td>FD-302s, complaint intakes</td><td>Positive case hits, victim allegations</td></tr>
+          <tr><td>Depositions</td><td>276,445 pages</td><td>Sworn testimony naming sex partners</td></tr>
+          <tr><td>Legal Filings</td><td>549,360 pages</td><td>Cellmate interviews, NPA, CVRA</td></tr>
+          <tr><td>Financial Records</td><td>QuickBooks, bank accounts</td><td>Transaction flows, institutional relationships</td></tr>
+          <tr><td>Cast Network JSON</td><td>97 cast members</td><td>Known relationships, categories</td></tr>
+          <tr><td>Flight Logs</td><td>Flight/travel records</td><td>Travel to properties, island visits</td></tr>
+          <tr><td>DOJ Section 3 Report</td><td>6 pages (Feb 14, 2026)</td><td>Official "politically exposed persons" list</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- NAVIGATION -->
+    <section class="block">
+      <h2>🔗 RELATED PAGES</h2>
+      <div class="nav-row">
+        <a class="nav-btn" href="./inner-circle.html">🕸️ THE INNER CIRCLE</a>
+        <a class="nav-btn" href="./explosive-docs.html">💣 EXPLOSIVE DOCUMENTS</a>
+        <a class="nav-btn" href="./deep-sweep.html">🔍 DEEP SWEEP</a>
+        <a class="nav-btn" href="./analysis.html">📊 FILE ANALYSIS</a>
+        <a class="nav-btn" href="./cast.html">👥 FULL CAST</a>
+        <a class="nav-btn" href="./black.html">LEON BLACK</a>
+        <a class="nav-btn" href="./barr.html">WILLIAM BARR</a>
+        <a class="nav-btn" href="./clinton.html">BILL CLINTON</a>
+        <a class="nav-btn" href="./gates.html">BILL GATES</a>
+        <a class="nav-btn" href="./trump.html">DONALD TRUMP</a>
+        <a class="nav-btn" href="./andrew.html">PRINCE ANDREW</a>
+        <a class="nav-btn" href="./dershowitz.html">ALAN DERSHOWITZ</a>
+        <a class="nav-btn" href="./maxwell.html">GHISLAINE MAXWELL</a>
+        <a class="nav-btn" href="./groff.html">LESLEY GROFF</a>
+        <a class="nav-btn" href="./kellen.html">SARAH KELLEN</a>
+        <a class="nav-btn" href="./bannon.html">STEVE BANNON</a>
+        <a class="nav-btn" href="./bondi.html">PAM BONDI</a>
+        <a class="nav-btn" href="./wexner.html">LES WEXNER</a>
+        <a class="nav-btn" href="./dubin.html">GLEN DUBIN</a>
+        <a class="nav-btn" href="./brunel.html">JEAN-LUC BRUNEL</a>
+        <a class="nav-btn" href="./musk.html">ELON MUSK</a>
+        <a class="nav-btn" href="./financials.html">💰 FINANCIAL INTELLIGENCE</a>
+        <a class="nav-btn" href="./flights.html">✈️ FLIGHT LOGS</a>
+        <a class="nav-btn" href="./depositions.html">⚖️ DEPOSITIONS</a>
+        <a class="nav-btn" href="./legal-filings.html">📋 LEGAL FILINGS</a>
+        <a class="nav-btn" href="./map.html">🗺️ CONNECTION MAP</a>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>

@@ -1,0 +1,760 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>💣 EXPLOSIVE DOCUMENTS | THE TRUMP FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root{--bg:#0d1117;--surface:#161b22;--surface-2:#1c2129;--border:#30363d;--text:#e6edf3;--muted:#8b949e;--accent:#6a1b9a;--accent-2:#ce93d8;--warn:#e6a817;--good:#2caa71;--bad:#c62828;--sans:'Space Grotesk',system-ui,sans-serif;--mono:'IBM Plex Mono',monospace}
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--sans);background:radial-gradient(circle at 20% 5%,#1a0a2e 0%,#0d1117 55%);color:var(--text);line-height:1.6;min-height:100vh}
+    a{color:var(--accent-2);text-decoration:none}a:hover{text-decoration:underline}
+    .back-link{display:inline-block;margin:1rem;padding:.5rem 1rem;border:1px solid var(--border);border-radius:.5rem;color:var(--muted);font:600 .78rem var(--mono);transition:all .2s}
+    .back-link:hover{color:var(--accent-2);border-color:var(--accent-2);text-decoration:none}
+    .hero{padding:2.5rem 1.5rem 1.5rem;text-align:center;border-bottom:2px solid var(--bad);background:linear-gradient(170deg,#2e0a0a 0%,#1a0808 45%,#0d1117 100%)}
+    .hero h1{font-size:clamp(1.8rem,4vw,2.8rem);letter-spacing:.04em;font-weight:700;background:linear-gradient(90deg,#c62828,#ff8a80);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+    .hero .subhead{max-width:84ch;margin:.6rem auto 0;color:var(--muted);font-size:.92rem}
+    .content{max-width:1200px;margin:0 auto;padding:1rem 1.5rem 3rem}
+    section.block{margin-bottom:2rem;background:var(--surface);border:1px solid var(--border);border-radius:.8rem;padding:1.4rem 1.5rem}
+    section.block h2{color:var(--accent-2);margin-bottom:.7rem;font-size:1.15rem;letter-spacing:.02em;border-bottom:1px solid var(--border);padding-bottom:.45rem}
+    section.block h3{color:var(--accent-2);margin:1rem 0 .5rem;font-size:.95rem}
+    p{margin-bottom:.8rem;font-size:.88rem}p.muted{color:var(--muted)}
+    .callout{border:1px solid var(--accent);background:rgba(106,27,154,.08);border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0;font-size:.85rem}
+    .callout.red{border-color:var(--bad);background:rgba(198,40,40,.08)}
+    .callout.warn{border-color:var(--warn);background:rgba(230,168,23,.08)}
+    .callout.green{border-color:var(--good);background:rgba(44,170,113,.08)}
+    .stat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:.65rem;margin:.8rem 0}
+    .stat-card{background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;padding:.75rem .85rem;text-align:center}
+    .stat-card .n{font:700 1.5rem var(--mono);color:var(--accent-2)}
+    .stat-card .l{font-size:.68rem;color:var(--muted);text-transform:uppercase;margin-top:.15rem;letter-spacing:.03em}
+    .stat-card.warn .n{color:var(--warn)}.stat-card.bad .n{color:var(--bad)}.stat-card.green .n{color:var(--good)}
+    .quote-block{border-left:3px solid var(--bad);padding:.6rem 1rem;margin:.8rem 0;background:rgba(198,40,40,.06);font-size:.84rem;font-style:italic;color:#ffcdd2}
+    .quote-block .attr{font-style:normal;font-size:.72rem;color:var(--muted);margin-top:.3rem}
+    .quote-block.purple{border-color:var(--accent-2);background:rgba(206,147,216,.04);color:var(--text)}
+    .src{font:.72rem var(--mono);color:var(--muted)}
+    .doc-card{background:var(--surface-2);border:1px solid var(--border);border-radius:.7rem;padding:1.2rem 1.3rem;margin:1.2rem 0}
+    .doc-card h3{color:#ff8a80;font-size:1rem;margin-bottom:.6rem;border-bottom:1px solid rgba(198,40,40,.25);padding-bottom:.4rem}
+    .doc-meta{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.8rem}
+    .doc-meta .tag{display:inline-block;padding:.2rem .5rem;border-radius:.3rem;font:600 .65rem var(--mono);background:var(--surface);border:1px solid var(--border)}
+    .doc-meta .tag.hot{border-color:var(--bad);color:#ff8a80;background:rgba(198,40,40,.1)}
+    .doc-meta .tag.warn{border-color:var(--warn);color:var(--warn);background:rgba(230,168,23,.1)}
+    .doc-meta .tag.info{border-color:#42a5f5;color:#90caf9;background:rgba(66,165,245,.1)}
+    .person-tag{display:inline-block;padding:.15rem .4rem;margin:.1rem;border-radius:.25rem;font:600 .62rem var(--mono);background:rgba(106,27,154,.15);border:1px solid var(--accent);color:var(--accent-2);cursor:pointer;text-decoration:none}
+    .person-tag:hover{background:rgba(106,27,154,.3);text-decoration:none}
+    .section-divider{border:none;border-top:1px solid var(--border);margin:2rem 0}
+    .toc{list-style:none;columns:2;gap:1.5rem;margin:.8rem 0}
+    .toc li{font-size:.82rem;padding:.2rem 0;break-inside:avoid}.toc a{color:var(--accent-2)}
+    .warning-banner{background:linear-gradient(90deg,rgba(198,40,40,.15),rgba(198,40,40,.05));border:1px solid var(--bad);border-radius:.6rem;padding:.7rem 1rem;margin:.8rem 0;font-size:.78rem;color:#ffcdd2}
+    .allegation-list{list-style:none;margin:.5rem 0}
+    .allegation-list li{padding:.35rem 0 .35rem 1.2rem;font-size:.84rem;position:relative;border-bottom:1px solid rgba(48,54,61,.5)}
+    .allegation-list li::before{content:"⚠";position:absolute;left:0;top:.35rem;font-size:.7rem}
+    .evidence-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1rem 0}
+    @media(max-width:700px){.content{padding:1rem}section.block{padding:1rem}.toc{columns:1}.evidence-grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./index.html">&larr; MAIN SITE</a>
+  <a class="back-link" href="./legal-filings.html">&larr; LEGAL FILINGS</a>
+
+  <header class="hero">
+    <h1>💣 EXPLOSIVE DOCUMENTS</h1>
+    <p class="subhead">
+      Deep-read analysis of the most significant documents in the Epstein file release. These FBI intake reports,
+      cellmate interviews, depositions, and legal filings contain the most detailed and incriminating allegations
+      found across all 900,956 PDFs.
+    </p>
+  </header>
+
+  <div class="content">
+
+    <div class="warning-banner">
+      ⚠️ <strong>CONTENT WARNING:</strong> This page contains verbatim excerpts from FBI reports, witness statements, and court filings
+      documenting allegations of sexual assault, rape of minors, sex trafficking, and violence. Reader discretion advised.
+      All content is sourced directly from officially released documents.
+    </div>
+
+    <!-- TABLE OF CONTENTS -->
+    <section class="block">
+      <h2>📑 DOCUMENT INDEX</h2>
+      <p>12 key source PDFs deep-read across 329 pages totaling 145,716 words.</p>
+      <ul class="toc">
+        <li>🔴 <a href="#doc-fbi-1">FBI Complaint Intake #1</a> — EFTA01660679</li>
+        <li>🔴 <a href="#doc-fbi-2">FBI Complaint Intake #2</a> — EFTA01660651</li>
+        <li>🔴 <a href="#doc-cellmate">Cellmate Interview Summary</a> — EFTA01648946</li>
+        <li>🟡 <a href="#doc-fd302">FBI FD-302 Reports</a> — EFTA01689026</li>
+        <li>🟡 <a href="#doc-npa">NPA / CVRA Legal Filings</a> — EFTA00179613</li>
+        <li>🟡 <a href="#doc-npa2">NPA Companion Filing</a> — EFTA00205867</li>
+        <li>🔴 <a href="#doc-dershowitz">Dershowitz Denial + Epstein Emails</a> — EFTA00864871</li>
+        <li>🟡 <a href="#doc-dershowitz2">Dershowitz / Case Summary</a> — EFTA01661603</li>
+        <li>🟡 <a href="#doc-cvra">CVRA Congressional Record</a> — EFTA00205232</li>
+        <li>🟡 <a href="#doc-cvra2">CVRA Companion Doc</a> — EFTA01098354</li>
+        <li>🟡 <a href="#doc-katie">Katie Johnson / Legal Summary</a> — EFTA01296860</li>
+        <li>🔴 <a href="#doc-mark">Mark Epstein / Trump on Planes</a> — EFTA00040358</li>
+      </ul>
+    </section>
+
+    <!-- PERSONS IMPLICATED -->
+    <section class="block">
+      <h2>👤 PERSONS NAMED IN EXPLOSIVE DOCUMENTS</h2>
+      <p>The following individuals are directly named in allegations, witness statements, or FBI intake reports:</p>
+      <div style="margin:.6rem 0">
+        <a class="person-tag" href="./trump.html">DONALD TRUMP</a>
+        <a class="person-tag" href="./clinton.html">BILL CLINTON</a>
+        <a class="person-tag" href="./andrew.html">PRINCE ANDREW</a>
+        <a class="person-tag" href="./maxwell.html">GHISLAINE MAXWELL</a>
+        <a class="person-tag" href="./dershowitz.html">ALAN DERSHOWITZ</a>
+        <a class="person-tag" href="./black.html">LEON BLACK</a>
+        <a class="person-tag" href="./wexner.html">LES WEXNER</a>
+        <a class="person-tag" href="./barr.html">WILLIAM BARR</a>
+        <a class="person-tag" href="./musk.html">ELON MUSK</a>
+        <a class="person-tag" href="./gates.html">BILL GATES</a>
+        <a class="person-tag" href="./brunel.html">JEAN-LUC BRUNEL</a>
+        <a class="person-tag" href="./dubin.html">GLEN DUBIN</a>
+        <a class="person-tag" href="./kellen.html">SARAH KELLEN</a>
+        <span class="person-tag">HARVEY WEINSTEIN</span>
+        <span class="person-tag">JES STALEY</span>
+        <span class="person-tag">HOWARD LUTNICK</span>
+        <span class="person-tag">ROBIN LEACH</span>
+        <span class="person-tag">BOB SHAPIRO</span>
+        <span class="person-tag">DON JR. TRUMP</span>
+        <span class="person-tag">IVANKA TRUMP</span>
+        <span class="person-tag">ERIC TRUMP</span>
+        <span class="person-tag">TONY BLAIR</span>
+        <span class="person-tag">AL GORE</span>
+        <span class="person-tag">TIPPER GORE</span>
+        <span class="person-tag">NICHOLAS TARTAGLIONE</span>
+        <span class="person-tag">MARK EPSTEIN</span>
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 1: FBI COMPLAINT INTAKE #1 -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-fbi-1">
+      <h2>🔴 FBI COMPLAINT INTAKE #1 — EFTA01660679</h2>
+      <div class="doc-meta">
+        <span class="tag hot">FBI INTAKE</span>
+        <span class="tag warn">4 PAGES</span>
+        <span class="tag info">1,832 WORDS</span>
+        <span class="tag">Child Exploitation &amp; Human Trafficking Task Force</span>
+        <span class="tag warn">DATED: AUG 6-7, 2025</span>
+      </div>
+      <p>FBI complaint intake document from the Child Exploitation &amp; Human Trafficking Task Force containing
+      multiple complainant summaries describing sex trafficking at Trump properties, Epstein residences, and
+      Victoria's Secret events.</p>
+
+      <h3>ALLEGATION: Rape of a 13-Year-Old</h3>
+      <div class="quote-block">
+        "We were taken in rooms. forced to give oral sex to Donald J Trump… I was 13 years old when Donald J Trump
+        raped me. Ghislaine Maxwell was also present."
+        <div class="attr">— FBI Complaint Intake EFTA01660679, Page 1</div>
+      </div>
+
+      <h3>ALLEGATION: "Big Orgy Parties" with Clinton and Trump</h3>
+      <p>A complainant who worked as a personal assistant to Epstein from 1986–1992 identified Clinton and Trump as
+      party guests. A second complainant, age 16 at the time and working as a model, described attending 8 parties with
+      twin brothers Allen and Oren (the "Alexander brothers"):</p>
+      <div class="quote-block">
+        "[She described] big orgy parties with her, other young girls, and older Victoria's Secret models,
+        including Bill Clinton and Donald Trump."
+        <div class="attr">— FBI Complaint Intake EFTA01660679, Page 1</div>
+      </div>
+
+      <h3>ALLEGATION: Elon Musk, Trump Children, Dershowitz, Shapiro Named</h3>
+      <div class="quote-block">
+        "He measured the children's vulva and vaginas… The guests were elder men and included Elon Musk. Don jr. Trump,
+        Ivanka Trump, and Eric Trump were there. Attorney Allan Dershowitz was also there with Attorney Bob Shapiro."
+        <div class="attr">— FBI Complaint Intake EFTA01660679, Page 3</div>
+      </div>
+
+      <h3>ALLEGATION: Trump Golf Course Sex Trafficking Ring</h3>
+      <p>A complainant describes a sex trafficking operation at a Trump Golf Course in 1995–96, with Maxwell
+      serving as the "madam":</p>
+      <div class="quote-block">
+        "[The complainant stated] if she ever talked… he would 'end up as fertilizer for the back nine holes
+        like the other cunts.'"
+        <div class="attr">— FBI Complaint Intake EFTA01660679, Page 4</div>
+      </div>
+
+      <h3>ALLEGATION: Video Evidence and Robin Leach</h3>
+      <div class="quote-block">
+        "[Complainant claims possession of] video of high-profile sex parties, dealings with cartels, and having
+        witnessed Robin Leach strangle a young girl to death."
+        <div class="attr">— FBI Complaint Intake EFTA01660679, Page 4</div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 2: FBI COMPLAINT INTAKE #2 -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-fbi-2">
+      <h2>🔴 FBI COMPLAINT INTAKE #2 — EFTA01660651</h2>
+      <div class="doc-meta">
+        <span class="tag hot">FBI INTAKE</span>
+        <span class="tag warn">4 PAGES</span>
+        <span class="tag info">2,771 WORDS</span>
+        <span class="tag">Companion / Expanded Version</span>
+      </div>
+      <p>Expanded companion document to the first FBI complaint intake with additional detail on the same
+      allegations plus new claims.</p>
+
+      <h3>ALLEGATION: Trump Plaza 1987 — Victim Drugged</h3>
+      <div class="quote-block">
+        "[At] Trump Plaza 1987 — victim drugged, woke naked with $300, 'flash of Trump's face.' …
+        Victim 1 was never seen again — remains discovered matching description."
+        <div class="attr">— FBI Complaint Intake EFTA01660651, Page 3</div>
+      </div>
+
+      <h3>ALLEGATION: Maxwell Recruited 14-Year-Old</h3>
+      <div class="quote-block">
+        "Maxwell approached 14-year-old about 'modeling, international travel, and massages.'"
+        <div class="attr">— FBI Complaint Intake EFTA01660651, Page 4</div>
+      </div>
+
+      <h3>ALLEGATION: Limo Driver Witnessed Trump Pickup</h3>
+      <p>A complainant reports that a limousine driver picked up Trump in 1995 and overheard a "concerning
+      phone call" during the drive.</p>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 3: CELLMATE INTERVIEW -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-cellmate">
+      <h2>🔴 CELLMATE INTERVIEW SUMMARY — EFTA01648946</h2>
+      <div class="doc-meta">
+        <span class="tag hot">FBI INTERNAL</span>
+        <span class="tag warn">4 PAGES</span>
+        <span class="tag info">1,271 WORDS</span>
+        <span class="tag">Subject: "Epstein - Cellmate Interview"</span>
+      </div>
+      <p>Internal FBI email thread titled "Epstein - Cellmate Interview" summarizing victim statements about specific
+      named individuals. Page 1 provides a bullet-point list of subjects with brief allegations. Pages 2–4 contain
+      detailed descriptions of each subject's alleged conduct.</p>
+
+      <div class="callout red">
+        <strong>KEY NOTE:</strong> The document states that no interview of Nicholas Tartaglione
+        (Epstein's cellmate during first reported suicide attempt) was documented in Sentinel (the FBI's case management system).
+      </div>
+
+      <h3>DONALD TRUMP</h3>
+      <div class="quote-block">
+        "[Victim] stated Epstein introduced her to Trump who subsequently forced her head down to his exposed
+        penis which [she] subsequently bite. In response, Trump punched her in the head and kicked her out."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 2</div>
+      </div>
+      <div class="quote-block">
+        "[Victim] remembered Epstein introduced her to Trump saying 'This is a good one, huh' and Trump responded 'Yes.'"
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 4</div>
+      </div>
+
+      <h3>HARVEY WEINSTEIN</h3>
+      <div class="quote-block">
+        "[Victim] stated she gave Weinstein a massage, during which he fondled her, and offered to pay her extra
+        if he could ejaculate on her chest. [Victim] stated Weinstein came to her apartment, offered her a job and
+        then tried to follow her into the shower. [Victim] stated Epstein told her to give Weinstein a massage,
+        during which Weinstein tells her to take off her shirt, she refuses and then Weinstein threatens to get
+        women to come force her too."
+        <div class="attr">— Cellmate Interview EFTA01648946, Pages 2 &amp; 4</div>
+      </div>
+
+      <h3>PRINCE ANDREW</h3>
+      <div class="quote-block">
+        "[Victim] stated Maxwell told her to make Prince Andrew happy by doing 'exact same things to him that
+        she did for Epstein because he is good friends with Maxwell.'"
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+      <div class="quote-block">
+        "Steve Scully witnessed Prince Andrew on Epstein's Island grinding against a young girl."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+      <div class="quote-block">
+        "[Victim] stated Prince Andrew and Epstein flew on Epstein's plane and had orgies."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+
+      <h3>GLEN DUBIN</h3>
+      <div class="quote-block">
+        "[Victim] stated Maxwell instructed her to give Dubin a massage and do what she did for Epstein."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+
+      <h3>JES STALEY</h3>
+      <div class="quote-block">
+        "[Victim] stated Epstein told her to give Staley a massage at Epstein's mansion. Staley forced her
+        hands on his crotch and had 'rough sex' with her."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+
+      <h3>LEON BLACK</h3>
+      <div class="quote-block">
+        "[Victim] stated Epstein told her to give Black a massage while Black was naked. [Victim] stated another
+        female gave Black a massage and he made her perform oral sex. Epstein made jokes about Black's penis size."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+      <div class="quote-block">
+        "[Victim] stated Black raped her numerous times and sex trafficked her (including at Epstein's). Black
+        threatened to destroy her life and stated he had connections with the police."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+
+      <h3>LES WEXNER</h3>
+      <div class="quote-block">
+        "[Victim] stated Wexner was #1 on Epstein's speed dial. [Victim] stated Epstein earned his money from
+        having sex with Wexner."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+
+      <h3>ALAN DERSHOWITZ</h3>
+      <div class="quote-block">
+        "[Victim] stated she gave him a massage on Epstein's plane. (not a minor)"
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+
+      <h3>BILL CLINTON</h3>
+      <div class="quote-block purple">
+        "[Victim] stated she met Epstein through another victim who had traveled with Epstein and Clinton to Africa."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 3</div>
+      </div>
+      <p>Internal follow-up email: <em>"Re Clinton. In the main SS, there was mention of an orgy w Tony Blair.
+      Can you cut and paste that."</em></p>
+
+      <h3>HOWARD LUTNICK</h3>
+      <div class="quote-block">
+        "Simon Andriesz reported that Lutnick made his money through Ponzi schemes and money laundering. Lutnick
+        and Epstein were neighbors and Epstein sold Lutnick a home for $10 which was then sold for millions."
+        <div class="attr">— Cellmate Interview EFTA01648946, Pages 3–4</div>
+      </div>
+
+      <h3>WILLIAM BARR</h3>
+      <div class="quote-block">
+        "[Victim] stated [she] was at Epstein's for a model event, ran into Barr who stated he wanted to see
+        her next time he came. At another point, Epstein asked if she had ever met Barr."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 4</div>
+      </div>
+      <div class="quote-block">
+        "[NTOC victim] claimed she was a victim of Epstein, and that Barr was present during some of this abuse."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 4</div>
+      </div>
+      <p>Page 1 summary list includes: <strong>"Barr — for being present when a girl was raped."</strong></p>
+
+      <h3>JEAN-LUC BRUNEL</h3>
+      <div class="quote-block purple">
+        "[Victim] stated Brunel and Epstein were close and traveled often together. [Victim] stated she saw
+        Brunel on Epstein's Island."
+        <div class="attr">— Cellmate Interview EFTA01648946, Page 4</div>
+      </div>
+
+      <h3>ALEXANDER GUEST</h3>
+      <p>A witness reported she was "not a victim in the Epstein case" — she was a paid escort for Guest
+      and claimed Maxwell hired her to be an escort for Epstein.</p>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 4: FBI FD-302 -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-fd302">
+      <h2>🟡 FBI FD-302 REPORTS — EFTA01689026</h2>
+      <div class="doc-meta">
+        <span class="tag hot">FBI FD-302</span>
+        <span class="tag warn">81 PAGES</span>
+        <span class="tag info">9,681 WORDS</span>
+        <span class="tag">Case ID: 31E-MM-108062</span>
+      </div>
+      <p>FBI case file containing FD-302 interview reports, electronic communications, evidence cover sheets,
+      FOIA request records, and ELSUR (electronic surveillance) shipment orders. Case: <strong>EPSTEIN, JEFFREY / GHISLAINE MAXWELL — WSTA CHILD PROSTITUTION</strong>.</p>
+
+      <h3>Key Finding: Victim Willing to Cooperate from Australia</h3>
+      <div class="quote-block purple">
+        "[Victim] indicated she is willing to cooperate fully with any FBI investigation involving JEFFREY EPSTEIN
+        and others. She has requested to meet with FBI Agents in Sydney, Australia, along with the Australian
+        police for the debriefing."
+        <div class="attr">— FBI EC, EFTA01689043, dated 03/11/2011</div>
+      </div>
+
+      <h3>Key Finding: Human Trafficking Allegations to Officials</h3>
+      <div class="quote-block">
+        "[Attorneys] provided information about crimes uncovered during the lengthy civil investigation of EPSTEIN…
+        These allegations include possible perjury charges against EPSTEIN… possible allegations of human trafficking
+        of underage females by EPSTEIN to high-level public officials and others; and obstruction of justice."
+        <div class="attr">— FBI EC, EFTA01689044</div>
+      </div>
+
+      <h3>Evidence Inventory</h3>
+      <p>The FD-302 package contained a CD with 13 depositions (including Mark Epstein, Larry Visoski, Janusz Banasiak,
+      David Rogers) plus hard copies of: complete flight logs, the Non-Prosecution Agreement, the Epstein deposition
+      transcript from February 17, 2010, and a confidentiality agreement with Ghislaine Maxwell.</p>
+
+      <h3>Victim Biographical Files</h3>
+      <p>Multiple 1A/1C cover sheets document biographical files and MySpace information for multiple victims,
+      along with subscriber information from T-Mobile, MetroPCS, AT&T, and Bell South — evidence of a
+      systematic FBI identification operation across multiple victims.</p>
+
+      <h3>FOIA Request from Boies Schiller</h3>
+      <p>Sigrid McCawley of Boies Schiller Flexner filed a FOIA request (dated Feb 26, 2015) seeking surveillance
+      records from five Epstein properties: 358 El Brillo Way (Palm Beach), 9 E. 71st Street (NYC), 49 Zorro Ranch Rd
+      (NM), 22 Avenue Foch (Paris), and Little Saint James (USVI) — covering June 1999 to December 2002.</p>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 5: DERSHOWITZ DENIAL + EPSTEIN EMAILS -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-dershowitz">
+      <h2>🔴 DERSHOWITZ DENIAL + EPSTEIN PRIVATE EMAILS — EFTA00864871</h2>
+      <div class="doc-meta">
+        <span class="tag hot">EMAILS</span>
+        <span class="tag warn">6 PAGES</span>
+        <span class="tag info">2,042 WORDS</span>
+        <span class="tag">Dershowitz statement + Epstein/Weinberg/Indyke emails</span>
+      </div>
+
+      <h3>Dershowitz's "Categorical" Denial Statement</h3>
+      <p>Alan Dershowitz issued a statement (via Carolyn Cohen, Feb 9, 2015) claiming to "categorically prove"
+      that Jane Doe #3's allegations had "no credibility whatsoever":</p>
+      <div class="quote-block">
+        "We can categorically prove that Jane Doe #3 allegations deserves no credibility whatsoever. Her wild
+        fabrications are now clearly disproven — Clinton, the Gores and me."
+        <div class="attr">— Dershowitz Statement, EFTA00864871, Page 1</div>
+      </div>
+
+      <h3>Key Claim: Maxwell Flew Clinton by Helicopter</h3>
+      <p>The statement references and attempts to discredit Jane Doe #3's account of Clinton visiting Epstein's island:</p>
+      <div class="quote-block purple">
+        "[Jane Doe #3] 'describes' how Mr. Clinton's Secret Service detail allowed Ghislaine Maxwell, (then a
+        novice helicopter pilot,) to fly the former President to Epstein's private island on a large black helicopter
+        — an obvious and ludicrous lie."
+        <div class="attr">— Dershowitz Statement, EFTA00864871, Page 1 (quoting allegation to dismiss it)</div>
+      </div>
+
+      <h3>Jane Doe #3's Account of Dinner on the Island</h3>
+      <div class="quote-block">
+        "Maxwell sat at President Clinton's left, while they were joined by two 'olive-skinned brunettes' who had been
+        flown in from New York… I'd never met them before. I'd say they were no older than 17, very innocent-looking.
+        They weren't there for me. They weren't there for Jeffrey or Ghislaine because I was there to have sex with
+        Jeffrey on the trip. Maybe Jeffrey thought they would entertain Bill…"
+        <div class="attr">— Jane Doe #3 account, quoted in Dershowitz statement, EFTA00864871, Page 2</div>
+      </div>
+
+      <h3>🔥 EXPLOSIVE: Private Epstein Emails About Videos</h3>
+      <p>The document contains private email correspondence between Jeffrey Epstein (jeevacation@gmail.com),
+      Alan Dershowitz, Martin G. Weinberg (attorney), and Darren Indyke dated <strong>February 9, 2015</strong>.
+      This reveals Epstein personally coaching Dershowitz's legal strategy:</p>
+      <div class="quote-block">
+        <strong>Epstein to Dershowitz:</strong> "marty is your friend and his judgement as well as everyone elses . is the same.
+        hit clinton gore. and focus. I relaize you areupset . I suggested the offer of judgement, no need to declare defeat.
+        but it provides leverage for them not to move forward. you currrenily have none."
+        <div class="attr">— Jeffrey Epstein email, Feb 9, 2015, EFTA00864871, Page 4</div>
+      </div>
+      <div class="quote-block">
+        <strong>Weinberg to Dershowitz:</strong> "I informed him [Alan] of the risks to you [Epstein], down the road, from
+        such a statement. He agreed out of respect for you to eliminate the paragraphs that he was considering
+        regarding challenges directed to obtaining evidence from the Govt whether pictures, tapes, videos, etc."
+        <div class="attr">— Martin G. Weinberg email, Feb 9, 2015, EFTA00864871, Page 4</div>
+      </div>
+      <div class="quote-block">
+        <strong>Dershowitz:</strong> "What personal videos? I'm talking about what she's talking about: videos of her having
+        sex with me and others. There are no videos of her having sex with me."<br/>
+        <strong>Epstein:</strong> "they are no videos — you are asking them to release MY PERSONAL photos. ? mine, what are
+        you thinking?"
+        <div class="attr">— Email exchange, Feb 9, 2015, EFTA00864871, Page 4</div>
+      </div>
+      <div class="callout red">
+        <strong>SIGNIFICANCE:</strong> This email exchange reveals: (1) Epstein possessed "personal photos" and "videos" he did
+        not want released; (2) Epstein was actively directing Dershowitz's defense strategy; (3) Weinberg was mediating
+        between Epstein's legal exposure and Dershowitz's PR strategy; (4) Epstein coached Dershowitz to "hit Clinton Gore"
+        as a deflection tactic.
+      </div>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 6: DERSHOWITZ / CASE SUMMARY -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-dershowitz2">
+      <h2>🟡 DERSHOWITZ / PALM BEACH CASE SUMMARY — EFTA01661603</h2>
+      <div class="doc-meta">
+        <span class="tag warn">CASE SUMMARY</span>
+        <span class="tag warn">75 PAGES</span>
+        <span class="tag info">33,931 WORDS</span>
+        <span class="tag">Press compilations + police reports + donation records</span>
+      </div>
+
+      <h3>Dershowitz Flew to Palm Beach to Discredit Victims</h3>
+      <div class="quote-block">
+        "Alan Dershowitz flew to Palm Beach to paint the girls making the allegations against Epstein as lying,
+        thieving, drug and alcohol abusing and unreliable."
+        <div class="attr">— Case summary, EFTA01661603, Page 1</div>
+      </div>
+      <div class="quote-block">
+        "The 'Heidi Fleiss' of Palm Beach is alleged to have brought six girls between ages 14 and 18 to
+        Epstein's house for massages."
+        <div class="attr">— Case summary, EFTA01661603, Page 1</div>
+      </div>
+
+      <h3>Police Chief Wrote to State Attorney About Misconduct</h3>
+      <div class="quote-block purple">
+        "Palm Beach Police Chief Michael Reiter was so upset with Krischer's handling of the case that he suggested
+        in a May 1, 2005, memo that Krischer disqualify himself. Reiter said in letters to the alleged victims and
+        their parents that justice was not served by the indictment."
+        <div class="attr">— Case summary, EFTA01661603, Page 6</div>
+      </div>
+
+      <h3>Defense Team: "They Are Incapable of Being Believed"</h3>
+      <div class="quote-block">
+        "They are incapable of being believed. They had criminal records. They had accusations of theft made
+        against them by their employers. There was evidence of drug use by some of them."
+        <div class="attr">— Jack Goldberger (Epstein defense attorney), EFTA01661603, Page 7</div>
+      </div>
+
+      <h3>Key Details from Case Summary</h3>
+      <ul class="allegation-list">
+        <li>Hidden cameras found in Epstein's garage and inside a desk clock, alongside a girl's high school transcript</li>
+        <li>Two of Epstein's former bodyguards signed confidentiality agreements barring them from discussing his personal life</li>
+        <li>Epstein donated $90,000 to Palm Beach PD in 2004 — the department returned it after the investigation</li>
+        <li>Gov. Bill Richardson planned to donate Epstein contributions; AG Spitzer returned ~$50,000; Mark Green returned $10,000</li>
+        <li>Grand jury indicted on lesser charge (solicitation of prostitution) instead of police-recommended unlawful sex acts with minor</li>
+        <li>Lesley Groff (Epstein assistant) left an Amazon review under the name "peanut63" from New Canaan, CT</li>
+      </ul>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 7: CVRA CONGRESSIONAL RECORD -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-cvra">
+      <h2>🟡 CVRA CONGRESSIONAL RECORD — EFTA00205232 &amp; EFTA01098354</h2>
+      <div class="doc-meta">
+        <span class="tag info">CONGRESSIONAL RECORD</span>
+        <span class="tag warn">6 PAGES (2 DOCS)</span>
+        <span class="tag info">9,606 WORDS</span>
+        <span class="tag">U.S. Senate, June 8, 2011</span>
+      </div>
+
+      <p>Congressional Record entry where a U.S. Senator wrote directly to Attorney General Eric Holder
+      questioning the Justice Department's implementation of the Crime Victims' Rights Act — specifically in
+      the Epstein case. The Senator co-sponsored the CVRA in 2004.</p>
+
+      <h3>DOJ Restricted Victims' Rights During Investigation</h3>
+      <div class="quote-block purple">
+        "Despite Congress' clear intention to extend rights to crime victims throughout the process, the Justice Department
+        is reading the CVRA much more narrowly."
+        <div class="attr">— Congressional Record, S3608, June 8, 2011</div>
+      </div>
+
+      <h3>Key Questions Posed to AG Holder</h3>
+      <ul class="allegation-list">
+        <li>Why did DOJ restrict victims' rights during investigation phase despite clear Congressional intent?</li>
+        <li>Why did DOJ argue victims had no appellate rights when 3 circuits ruled otherwise?</li>
+        <li>Why didn't DOJ assert victims' rights violations as error in appeals?</li>
+        <li>DOJ Office of Legal Counsel opinion (May 20, 2011) was used to narrow CVRA protections</li>
+      </ul>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 8: NPA LEGAL FILINGS -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-npa">
+      <h2>🟡 NPA LEGAL — CVRA ENFORCEMENT — EFTA00179613 &amp; EFTA00205867</h2>
+      <div class="doc-meta">
+        <span class="tag info">LEGAL FILINGS</span>
+        <span class="tag warn">195 PAGES (2 DOCS)</span>
+        <span class="tag info">65,334 WORDS</span>
+        <span class="tag">Case 9:08-cv-80736-KAM (S.D. Fla.)</span>
+      </div>
+
+      <p>Comprehensive legal filings in <em>Jane Doe #1 and Jane Doe #2 v. United States</em>,
+      the landmark case challenging the Non-Prosecution Agreement. Filed by attorney Bradley J. Edwards
+      (Farmer, Jaffe, Weissing, Edwards, Fistos &amp; Lehrman, P.L.) and co-counsel Paul G. Cassell
+      (S.J. Quinney College of Law).</p>
+
+      <h3>Key Arguments</h3>
+      <ul class="allegation-list">
+        <li>Government's privilege log was "grossly inadequate" — failed to identify 13,000+ pages of documents by author, date, or subject</li>
+        <li>Government admitted OPR collected information about possible improper behavior by prosecutors</li>
+        <li>U.S. Attorney's Office (SDFL) was "conflicted out" of the case — referred to Middle District of Florida</li>
+        <li>Contacts between AUSA Bruce Reinhart and persons in the Justice Department related to Epstein investigation</li>
+        <li>Government used privilege assertions that were "inconsistent with the fiduciary duties" owed to victims</li>
+        <li>"Brady" material exists — Government admitted it but refused production</li>
+      </ul>
+
+      <h3>Bradley Edwards Affidavit</h3>
+      <p>Edwards's 64-page affidavit detailed the Government's privilege assertions over 13,000+ pages and argued
+      that the assertions were not well-founded. He also noted requests specifically covering:</p>
+      <ul class="allegation-list">
+        <li>Prince Andrew (Duke of York) — communications submitted to government vouching for or supporting Epstein</li>
+        <li>Letters of recommendation for Epstein from powerful figures</li>
+        <li>Any donations or consideration Epstein provided to government officials</li>
+        <li>OPR investigation into mishandling of Epstein prosecution and victim notifications</li>
+      </ul>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 9: KATIE JOHNSON / LEGAL SUMMARY -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-katie">
+      <h2>🟡 KATIE JOHNSON / EPSTEIN LEGAL SUMMARY — EFTA01296860</h2>
+      <div class="doc-meta">
+        <span class="tag info">SUMMARY</span>
+        <span class="tag warn">10 PAGES</span>
+        <span class="tag info">5,748 WORDS</span>
+        <span class="tag">Wikipedia + Source of Wealth analysis + legal history</span>
+      </div>
+      <p>A research compilation document containing Epstein's Wikipedia page, source-of-wealth analysis,
+      and legal case history. Provides the broader context for the "Katie Johnson" (Jane Doe) lawsuit
+      against Trump and Epstein alleging rape of a 13-year-old at a 1994 party.</p>
+
+      <h3>Key Details</h3>
+      <ul class="allegation-list">
+        <li>Epstein's financial empire: J. Epstein &amp; Co. (1982), clients with $1B+ net worth</li>
+        <li>Wexner became key client in 1987; Epstein changed firm name to Financial Trust Company (1996), based in USVI for tax advantages</li>
+        <li>2003: Epstein bid for New York Magazine against Deutsch, Peltz, Zuckerman, Weinstein — lost to Wasserstein ($55M)</li>
+        <li>Jeffrey Epstein VI Foundation funded Martin Nowak's research, Harvard's Program for Evolutionary Dynamics ($30M gift)</li>
+        <li>Philanthropy connections: Stephen Hawking, Murray Gell-Mann, Lawrence Krauss, Lee Smolin, Gerald Edelman</li>
+      </ul>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- DOC 10: MARK EPSTEIN / TRUMP ON PLANES -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <section class="block" id="doc-mark">
+      <h2>🔴 MARK EPSTEIN / TRUMP ON PLANES — EFTA00040358</h2>
+      <div class="doc-meta">
+        <span class="tag hot">NEWS / LEGAL COMPILATION</span>
+        <span class="tag warn">27 PAGES</span>
+        <span class="tag info">13,550 WORDS</span>
+        <span class="tag">SDNY News Clips, Aug 14, 2019</span>
+      </div>
+      <p>SDNY internal news clips compilation from August 14, 2019 — two days after Epstein's death. Contains
+      reporting on Mark Epstein's real estate ties, Maxwell's living situation, CVRA legal analysis, victim
+      testimony from Jennifer Araoz, and details about MCC security failures.</p>
+
+      <h3>Mark Epstein's Real Estate Connections</h3>
+      <div class="quote-block">
+        "Jeffrey Epstein's associates who also rented apartments or ran businesses out of the building included an
+        ex-girlfriend, his pilot, and his MC2 business partner, Jean-Luc Brunel. Two other potential Jeffrey Epstein
+        co-conspirators, Nadia Marcinkova and Sarah Kellen, both operated businesses that were registered at the building."
+        <div class="attr">— NY Magazine, quoted in EFTA00040358</div>
+      </div>
+      <div class="quote-block purple">
+        "'I don't live in that building,' Mark told Crain's. 'I don't monitor who uses those apartments.'"
+        <div class="attr">— Mark Epstein, quoted in EFTA00040358</div>
+      </div>
+
+      <h3>Former Israeli PM Ehud Barak at the Building</h3>
+      <p>"Former Israeli prime minister Ehud Barak, who was photographed outside Jeffrey's townhouse in 2016,
+      also regularly spent time at the condo."</p>
+
+      <h3>Maxwell's Post-Arrest Life</h3>
+      <div class="quote-block purple">
+        "She's become a real homebody, rarely ventures out. She's the antithesis of the woman who traveled extensively
+        and partied constantly with Epstein."
+        <div class="attr">— Source re: Maxwell, quoted in EFTA00040358</div>
+      </div>
+
+      <h3>Jennifer Araoz Victim Testimony</h3>
+      <div class="quote-block">
+        "I can still remember watching myself on those screens as I walked into the house of the person I came to
+        know as a predator, a pedophile, my rapist… I was a child, just 14 at the time."
+        <div class="attr">— Jennifer Araoz, NYT Op-Ed, Aug 14, 2019, in EFTA00040358</div>
+      </div>
+
+      <h3>MCC Security Failures</h3>
+      <ul class="allegation-list">
+        <li>Two guards fell asleep and failed to check on Epstein for ~3 hours, then falsified records</li>
+        <li>One guard was a former correctional officer volunteering for overtime; the other was ordered to work overtime due to understaffing</li>
+        <li>4chan post leaked Epstein's death 30 minutes before official report</li>
+        <li>FDNY denied their first responders leaked the information</li>
+        <li>Sen. Ben Sasse demanded Barr "rip up" the 2008 NPA: "This crooked deal cannot stand"</li>
+        <li>Epstein defense hired Dr. Michael Baden (OJ Simpson, JFK, MLK pathologist) for their own investigation</li>
+      </ul>
+
+      <h3>CVRA Legal Analysis (Anello &amp; Albert)</h3>
+      <p>Legal scholars Robert J. Anello and Richard F. Albert analyzed the CVRA implications, noting that the
+      SDNY charges (filed July 8, 2019) appeared to vindicate victims' demands — but Epstein's death two days
+      before this compilation was prepared mooted the criminal case. The article warns that "a bad set of facts
+      can push the law in unpredictable directions."</p>
+    </section>
+
+    <hr class="section-divider" />
+
+    <!-- CROSS-REFERENCES -->
+    <section class="block">
+      <h2>🔗 CROSS-INVESTIGATION CONNECTIONS</h2>
+      <div class="evidence-grid">
+        <div class="callout">
+          <strong>Investigation A (Power Network):</strong> The persons named in these explosive documents — Trump, Clinton,
+          Andrew, Maxwell, Dershowitz, Black, Wexner — are the same power nodes identified in the network analysis.
+          The cellmate interview provides the <em>behavioral evidence</em> that corroborates the <em>connection evidence</em>
+          from flight logs, emails, and phone records.
+        </div>
+        <div class="callout">
+          <strong>Investigation C (Money &amp; Planes):</strong> The FD-302 evidence inventory confirms possession of
+          "complete flight logs from Jeffrey Epstein plane" and the Non-Prosecution Agreement. Mark Epstein's real estate
+          dealings (apartments for Brunel, Kellen, Marcinkova) support the financial infrastructure analysis.
+        </div>
+        <div class="callout">
+          <strong>Investigation D (Depositions):</strong> The FD-302 CD contained 13 depositions including Mark Epstein,
+          Larry Visoski, and Janusz Banasiak — the same deponents analyzed in the depositions investigation. These provide
+          the foundational testimony that the cellmate interview allegations build upon.
+        </div>
+        <div class="callout">
+          <strong>Investigation E (Legal Filings):</strong> The NPA/CVRA filings and Congressional Record entries are the
+          legal framework documents from which these explosive findings were surfaced. The Dershowitz emails reveal the
+          <em>private coordination</em> behind the public legal strategy.
+        </div>
+        <div class="callout" style="border-color:#c62828;background:rgba(198,40,40,.08)">
+          <strong>🕸️ <a href="./inner-circle.html">Inner Circle Analysis</a>:</strong> Deep dive into 7 previously unexplored
+          high-volume contacts reveals Epstein coaching Obama's White House Counsel to discredit victims, designing $100M
+          JPMorgan philanthropy vehicles for Gates/Black, and Nikolic opening Harvard's top scientists to a convicted sex offender.
+          <a href="./inner-circle.html" style="font-weight:700">Read the Inner Circle findings &rarr;</a>
+        </div>
+        <div class="callout" style="border-color:#b71c1c;background:rgba(183,28,28,.08)">
+          <strong>⚖️ <a href="./complicity-gradient.html">Complicity Gradient</a>:</strong> The DOJ's official Section 3 Report
+          (Feb 14, 2026) names every "politically exposed person" in the files. We cross-referenced every name against
+          our 44 findings and 2 million pages to build an evidence-based 8-tier classification — from incidental mention to co-conspirator.
+          <a href="./complicity-gradient.html" style="font-weight:700">See the full classification &rarr;</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- DEEP SWEEP CALLOUT -->
+    <section class="block" style="border-color:#1b7a1b;background:rgba(27,122,27,.06)">
+      <h2 style="color:#66bb6a">🔍 THE DEEP SWEEP — 400,000 Hidden Pages Recovered</h2>
+      <p>403,020 pages were classified as "blank" in the original dataset. We recovered 400,913 of them and found
+      <strong>6,611 genuinely novel discoveries</strong> including FBI Director statements, Deutsche Bank compliance
+      failures, complete financial architectures, and a full asset inventory.</p>
+      <p><a href="./deep-sweep.html" style="color:#66bb6a;font-weight:700">VIEW THE DEEP SWEEP &rarr;</a></p>
+    </section>
+
+    <!-- METHODOLOGY -->
+    <section class="block">
+      <h2>📐 METHODOLOGY</h2>
+      <p class="muted">12 source PDFs were identified during Investigation E's deep-read of 549,360 legal documents.
+      These PDFs were then individually deep-read using PyMuPDF text extraction, producing 329 pages of raw text
+      (145,716 words). Content was extracted verbatim with OCR artifact cleanup noted where applicable. All quotes
+      are exact transcriptions from the source documents with only minor formatting for readability.</p>
+      <p class="muted">Source documents are identified by their EFTA document numbers, which correspond to the official
+      Epstein file release numbering system. Page numbers refer to page positions within each source PDF.</p>
+    </section>
+
+  </div>
+</body>
+</html>

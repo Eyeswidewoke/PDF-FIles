@@ -1,0 +1,396 @@
+---
+source_image: "bank-statement+contact-list+deposition-transcript+scanned-document__EFTA01423636_20260130_p001_i001.png"
+source_pdf: "EFTA01423636.pdf"
+method: pdf_text
+words: 642
+confidence: 1.00
+extracted: 2026-02-13T16:07:36.895352
+---
+
+Oldfield Pipeline_6.29.16 
+Relationship 
+Customer Name 
+Opportunity Name 
+Deals 
+e Date Stage 
+Probability (8) Keep? 
+SOUTHERN FINANCIAL RELATIONSHIP Epstein, Jeffrey 
+ISG 
+2=250000 
+12/31/2016 
+Prospecting 
+75 
+Y 
+54 MADISON PARTNERS RELATIONSHIP 
+54 Madison Partners 
+quisition 
+500 
+100000000 
+(E3/10000)*F3=5000000 
+Y 
+ELYSIUM MANAGEMENT RELATIONSHIP Black Family Partners, L.P. 
+0000 
+(E4/10000)*F4=100000 
+12/31/2016 
+Prospecting 
+ORIX RELATIONSHIP 
+ORIX Americas 
+KCP Private Markets 
+10000)*F5=750000 
+12/31/2016 
+Active 50 
+Y 
+ORIX RELATIONSHIP 
+ORIX Americas 
+IB 
+REIT REFI 
+6=2500000 
+12/31/2016 
+Active 
+PARAMI CAPITAL MANAGEMENT RELATIONSHIP 
+(E7/10000)*F7=375000 
+12/31/2016 
+SK FAMILY OFFICE RELATIONSHIP 
+Falcon 
+10000)*F8=100000 
+12/31/2016 
+SK FAMILY OFFICE RELATIONSHIP 
+Falcon Trail Capital, LLC 
+ISG 
+100 
+10000000 
+10000)*F9=100000 
+12/31/2016 
+Prospecting 
+50 
+Y 
+THE NATIONAL ORGANIZATION OF THE NEW APOSTOLIC CHURCH OF NORTH AMERICA RELATIONSHIP 
+The National 
+Organization of the New Apostolic Church of North America 
+ISG 
+100 
+10000000 
+(E10 
+/10000)*F10=100000 
+12/31/2016 
+Prospecting 
+50 
+Y 
+THIRD LAKE CAPITAL RELATIONSHIP Wanek Family 
+CRE Loan 
+200 
+25000000 
+(E11/10000)* 
+F11=500000 
+12/31/2016 
+Active 50 
+Y 
+THIRD LAKE CAPITAL RELATIONSHIP Wanek Family 
+KCP Private Markets 
+200 
+/10000)*F12=500000 
+12/31/2016 
+Prospecting 
+50 
+Y 
+ELLIN, HOWARD RELATIONSHIP 
+Ellin, Howard 
+ISG 
+General ISG 
+100 
+F13=50000 
+12/31/2016 
+Prospecting 
+25 
+Y 
+ELYSIUM MANAGEMENT RELATIONSHIP Black Family Partners, L.P. 
+Deposits 
+100000000 
+(E14/10000)*F14=500000 12/31/2016 
+Prospecting 
+25 
+ELYSIUM MANAGEMENT RELATIONSHIP Black Family Partners, L.P. 
+KCP Private 
+20000000 
+(E15/10000)*F15=400000 12/31/2016 
+Prospecting 
+25 
+Y 
+ELYSIUM MANAGEMENT RELATIONSHIP Black Family Partners, L.P. 
+Direct Investment (Borrowing) 
+500 
+50000000 
+(E16/10000)*F16=2500000 12/31/2016 
+Prospecting 
+25 
+Y 
+ELYSIUM MANAGEMENT RELATIONSHIP Black Family Partners, L.P. 
+Art Loan 
+Lending 200 
+00000 
+(E17/10000)*F17=5000000 12/31/2016 
+Prospecting 
+25 
+Y 
+JL SQUARED GROUP RELATIONSHIP 
+JL Squared Group 
+HF Secondaries 200 
+10000000 
+/10000)*F18=200000 
+12/31/2016 
+Prospecting 
+25 
+Y 
+KIM, STEVEN RELATIONSHIP 
+Kim, Steven 
+Structured Credit 
+100 
+50000000 
+/10000)*F19=500000 
+12/31/2016 
+Prospecting 
+25 
+Y 
+MARRON, DONALD B. RELATIONSHIP Marron, Donald B. 
+Lending 100 
+25000000 
+(E20/10000)* 
+F20=250000 
+12/31/2016 
+Prospecting 
+25 
+Y 
+ORIX RELATIONSHIP 
+ORIX Ventures 
+IB 
+Leverage Line 
+250 
+200000000 
+(E21/10000)* 
+F21=5000000 
+12/31/2016 
+Active 25 
+Y 
+PARAMI CAPITAL MANAGEMENT RELATIONSHIP Crestline 
+KCP Private Markets 
+200 
+25000000 
+(E22/10000)*F22=500000 12/31/2016 
+Prospecting 
+25 
+Y 
+SCHMIDT, ERIC RELATIONSHIP 
+Hillspire LLC 
+CRE 
+200 
+50000000 
+(E23/10000)*F23=1000 
+000 
+12/31/2016 
+Prospecting 
+25 
+Y 
+SCHMIDT, ERIC RELATIONSHIP 
+Hillspire LLC 
+KCP Private Markets 
+200 
+50000000 
+(E24 
+/10000)*F24=1000000 
+3/31/2016 
+Prospecting 
+25 
+Y 
+SHAMROCK RELATIONSHIP 
+Martin, Greg 
+KCP Private Markets 
+F25=500000 
+12/31/2016 
+Prospecting 
+25 
+Y 
+SLOME, IAN RELATIONSHIP Slome, Ian 
+HF Secondaries 
+00 
+12/31/2016 
+Prospecting 
+25 
+Y 
+SPRUCE PRIVATE INVESTORS LLC RELATIONSHIP 
+Spruce 
+50000000 
+(E27/10000)*F27=500000 12/31/2016 
+THIRD LAKE CAPITAL RELATIONSHIP Wanek Family 
+ISG 
+00 
+12/31/2016 
+Prospecting 
+25 
+TISCH FAMILY RELATIONSHIP 
+TFMG, LLC 
+F29=400000 
+12/31/2016 
+Prospecting 
+GENERAL ATLANTIC FAMILY OFFICE RELATIONSHIP 
+5000000 (E30/10000)*F30=50000 
+12/31/2016 
+GENERAL ATLANTIC FAMILY OFFICE RELATIONSHIP 
+BPS 
+Total Assets 
+PnL 
+Clos 
+50 
+50000000 
+(E2/10000)*F 
+Real Estate Opportunity Financing Ac 
+9/30/2016 
+Prospecting 
+50 
+ISG 
+50 
+AMP 
+100 
+General ISG 
+50 
+2000 
+Y 
+300 
+25000000 
+(E5/ 
+250000000 
+(E6/10000)*F 
+50 
+Y 
+Crestline 
+Structured Credit 
+Prospecting 
+50 
+Y 
+Trail Capital, LLC 
+CLO 
+100 
+Prospecting 
+50 
+Y 
+150 
+25000000 
+10000000 
+Deposits 
+Y 
+Markets 
+(ES/ 
+(E9/ 
+25000000 
+(E12 
+5000000 (E13/10000)* 
+50 
+KCP 
+200 
+IB 
+2500 
+(E18 
+(E19 
+200 
+25000000 
+(E25/10000)* 
+200 
+25000000 
+(E26/10000)*F26=5000 
+Investment Advisors, LLC 
+Prospecting 
+25 
+50 
+25000000 
+Prime Brokerage 100 
+Y 
+(E28/10000)*F28=1250 
+Y 
+HF Secondaries 200 
+20000000 
+25 
+Y 
+General Atlantic Family Off 
+Prospecting 
+20 
+Y 
+General Atlantic Family Off 
+200 
+20000000 
+(E31/10000)*F31=400000 12/31/2016 
+Prospecting 
+54 MADISON PARTNERS RELATIONSHIP 
+54 Madison Partners 
+KCP Private 
+25000000 
+(E32/10000)*F32=750000 9/30/2016 
+Prospecting 
+10 
+ASPEN GROVE CAPITAL RELATIONSHIP 
+Aspen Grove Capital, LLC 
+KCP 
+ctured Notes 
+50 
+10000000 
+(E33/10000)*F33=50000 
+9/30/2016 
+Y 
+BLUESTEM LLC RELATIONSHIP 
+Bluestem LLC 
+HF Secondaries 
+(E34/10000)*F34=100000 9/30/2016 
+Prospecting 
+10 
+BRIGHT GROUP RELATIONSHIP 
+Bright Group 
+HF Secondaries 
+(E35/10000)*F35=100000 9/30/2016 
+Prospecting 
+10 
+Y 
+CFM RELATIONSHIP 
+Comprehensive Financial Management 
+Real Estate 
+10000000 
+(E36/10000)*F36=300000 9/30/2016 
+Prospecting 
+10 
+COLLIS, CHARLES RELATIONSHIP 
+EverWatch Financial 
+KCP/ Private Market 
+10000000 
+(E37/10000)*F37=200000 9/30/2016 
+Prospecting 
+10 
+COLLIS, CHARLES RELATIONSHIP 
+EverWatch Financial 
+CRE 
+Direct RE 
+(E29/10000)* 
+ice CLO 
+CLO 
+100 
+ice KCP Private Markets 
+20 
+Markets 
+AMP 
+300 
+Y 
+Private Markets 
+Stru 
+Prospecting 
+10 
+HF Secondaries 
+Y 
+HF Secondaries 
+100 
+10000000 
+100 
+10000000 
+AMP, Direct RE 300 
+Y 
+s 
+Private Markets 200 
+Y 
+200 
+10000000 
+EFTA01423636

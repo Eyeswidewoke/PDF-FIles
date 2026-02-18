@@ -1,0 +1,489 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p085_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 825
+confidence: 1.00
+extracted: 2026-02-13T16:57:01.037730
+---
+
+:LT :rit:n 
+412 0621%N 
+443 062606u 
+£4.11 gE: 
+ OY.Ynut; 
+446 WM 09 OP 
+07 0626 09 Its,
+4411 0626 091/9
+4 Q 024 07116 
+:51 MI rt 
+472 06504 04516 
+:R=111 
+415 062$ II 
+454 0624 11
+471
+171 
+Is OW 011 
+ig 
+811 
+4&? 0677 01 
+414 0127 09917A 
+465 oira 111M 
+in rim 
+co 
+I BOA 
+401 ve./77 II MA 
+492 0647 12 
+461 Ad Il 1 
+7
+.104 FAT 10 
+495 
+7 1 141 
+66.5 09/270115? 
+491 0621 32171 
+MS 06121=1V 
+a 
+419 04/27 021CO 
+• 
+• • 
+F 
+• 
+X angular 
+Ac
+.ig`i 
+ober 
+Account Name 
+Date of Invoice 
+July 12.2006 
+Page 12 elle 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE 
+Kumber 
+%sans Time Called 
+ul Offlt 04i 
+4.44 06260i 
+445 06=
+7601 
+444 0624 04 
+til 
+81 
+450 0404044 
+411 06/260@ 
+41206^5 CC 4IP 
+al SIT. gur• 
+ILI Wit KI: 
+VaLitikg ft 
+01 0626 06 4SP 
+114(644.2 
+011 06126 04•46 
+WPAINOCACI4 FL 
+00 0624 OBXP 
+INZCIACC 
+Vi244.14SACH IL 
+OC:coes.c 
+DOT/LT >MOM 
+141115.213FACH FL 
+;:',Z4f181;1 
+Wi•AMIIFACHFL 
+PoiC61.05 
+VaiM_143EACH FL 
+=42 
+5614.5.01.101 PI 
+166.04150.04 FL 
+VIVI:VE€AC14 FL 
+vnMve 
+Nn 
+wrdli it 
+EMS 
+FL 
+• COE: !NUM 
+any 
+Can 
+cons To 
+Mod Ns Omorlpilen 
+MP CiNIC•01 FL 
+4 
+LIMONTED IN0084)1•01 
+5CCO/MG 
+211511 
+UNMATED ICAVICMI III 
+IMN 
+4M1 
+INWINT 
+5/16410)104 
+MRD NMAC 
+IAN 
+IIM 
+MN 
+IIM
+ 
+re WI
+L all  IRE Va
+I 
+1110.11ATED NANKND Sal
+CALL VINT 
+UN MC/ 
+tiALIENWIC240 NM 
+ION 
+uNUINTED NAM. E 
+141/1 
+1641.1.42ED NANO. NM 
+NN 
+L610443 Fl 
+LAWTv
+1 rA 
+MIIFIRNOWIND MN 
+2M6 
+UNLI
+MIrTCO n„„„, .., 
+14.414 
+utimalb NAM4)4 MN 
+INN 
+UINVMTFO 
+INTED = 
+MIN 
+M
+ MN 
+1 LVT 
+KZ/a 
+Rum 
+1MN 
+11
+".6
+11Y.T
+M
+ MC
+ENNONX 
+111641 
+:MN 
+61%6441LO NeWNIN 
+!mg 
+ustiV1111 WOW MN 
+IMII 
+LNUINTED AMMO IM 
+MAN 
+ELM 
+IMION/r MC XN MN 
+I
+WI 
+UM Miff 
+XN
+IIII 
+LF4LiN
+c„rirL
+IWW
+ONSNO 1114 
+ISV1
+N 
+t.I.10,,, I6a2 
+Mc 
+I EVI 
+VI SSICE REITertvAL 
+41.11 
+UNUIATFO /4210 MN 
+Om 
+1.1 Uuld0 Warn MN 
+14.1n 
+1.141.441'40 Wed10. mei 
+514w 
+6 ,4434/44Ww040 mg 
+341.46 
+'60 IN TFO WAX 
+IAN 
+/.51,13 
+nalleite &elWI m 
+IMF 
+1.110.10CD NAY 
+WI 
+1 tv r 
+4499SM.4.11.14211.4
+1 mg 
+ovulATCD NN.6246 
+nes 
+um MITFONeeon, lee 
+nom 
+intimate V10010 IAN 
+I IAN 
+300 OCR ANYTME 
+IS' 
+I . 
+gi M 
+4001.Awrnd MN 
+URN 
+34040:11. MY174 IAN 
+MN 
+30) ADD). ANTIC% Mel 
+ei 
+034 IAN 
+IAN 
+0) 
+AM 
+MI1 
+) A4 A:Tr
+yr
+i 
+PAN 
+Ab Z /94 
+. 
+Mn 
+MN 
+MAN 
+14471 
+aft 6091 AWYTMF MN 
+tall 
+U115•4 MCIF TO NOEL 
+INN 
+X0 NOS PLOIME MN 
+INN 
+1114114 14001. TO 41043L 
+WahallEACM FL 
+VitMailEACI4 
+FL 
+1 
+1 
+5/CCMI1G 
+▪ 
+CH010 
+03571TOXICII FL 
+94.:(.04040 
+IIICIIIIIIIIIIIIIIIIIII 
+SIN 
+III JIIIIIIIIIIIIIIIIIIIIIIRIII 
+amp 
+tr 
+ciF 
+{E? 
+1
+ 
+527 0427 Oa I1 
+539 F621 042 
+lip !FE; 
+tE
+,. $35 4927014+ 
+5. S350627 Ot 4 
+198 5647 0451 
+• 
+177 ereQ7 
+tm In; Es 
+5401 
+fl 541 
+544 CU: 091 
+SO 
+till 
+• 
+Li 54 C6/2 ce 1 
+61 
+0011 
+!Ii6 
+1
+55056^ 5000
+551 092 I021 
+it1Cf
+ri4
+110 
+53405: 
+70 
+117%^3 II .2 
+519 064 CI 
+II SKI 0629 01 64 
+INNER 
+VOICI: USAGE FOR 
+ante 
+Mom IAN Time 
+al 44/1)07
+101 06!70245 
+50.2 006/)WS4 
+501 612 
+WI7 01 
+MI 
+/ 0 
+505 
+04 
+0527 04 
+1 OA 4 
+51) 0617 C4 • 
+512 
+511 
+00627 
+62704 14 
+04 
+Ii) 06a/ 04)' 
+114 0441 04 ' 
+MS 040704 
+SIG 02706 
+5
+17 06/27 060. 
+51304270607
+120 0627 C414 
+Ccalmed 
+OM 
+Cheep 
+Cats To 
+MOS Nam Dmiedpition 
+2/0.4.51441EACI4 IL 
+/MN 
+E MI NOME IN 
+1WP
+,N
+11080.
+04
+"61:6
+0EACH a  
+IM .  
+I
+• 
+C thRTIPAII
+WcA. 
+:WM% 
+1111 
+El 
+'ED 
+Mt 
+wei942414
+7 
+aR 
+at 
+m
+BOYNTO 
+FL 
+MO:FING 
+NV64.004MAC
+isttril an 
+Ne
+w
+ELIO 
+FL 
+6th 
+MN 
+MN 
+WC 
+Mil 
+IMI 
+WI 
+VW 
+%rug 
+6024010 
+60064/41 
+\to'  Ma
+rdi 
+Matt° 
+NCO W40 
+W9MMEISACH FL 
+IN
+INA 
+14 
+AL 
+505 at 24N1:: 
+REIM to 
+...mar - 
+tagi 
+2 
+INNS 
+INN 
+UN 
+%TO Met 
+‘491 
+▪ r 
+v=8;2: r,.. 
+...wrAo.,-,. 
+MN 
+th/01.690 
+MN 
+EVT 
+viPALMSCAO4 FL 
+MN 
+WcAWMA04 FL 
+MN 
+YPALNIBLACH FL 
+MN 
+IMX44.44 
+MN 
+14141 
+la Y411 
+FL 
+LIZ 
+MN 
+MN 
+UNUMITECI Wi4104C MI. 
+EV7 
+CAI 1 WAT940 
+Ig:CMAG 
+MN 
+MAT 
+1/4.6/104C NM 
+MN 
+theme 0 WOW MN 
+WP
+WYMMe
+nte“.
+CAOIR
+FL 
+MN 
+Mandl D WICK IAN 
+IWP
+wovN
+AIMRGFACH Ft 
+2 MN 
+WIIIIIIT611 VOMNO MN 
+I MN 
+WAVED VAVINC MN 
+VICOMMLI604 FL 
+I MN 
+1.410.641 to Wan; MN 
+INIMING 
+4MN 
+UMW o W444/40 MN 
+rorla 
+INN 
+1 B =gm 
+INCOMNG 
+MIN 
+LIMMITCD Itt, 
+MN 
+tr,c114
+0 1014B
+4L,M4 FL 
+!um 
+ummir1E 111004 NM 
+0.4144 
+'ION 
+IMUINT6 
+WWX/4 INN 
+1MN 
+Ar
+a l 
+144=81.4441 
+Ve•MA40 
+11. 
+NUN 
+iii=42 
+CODYCTOIMOIR 
+1514 
+;AI, E  MN 
+IEW 
+CA.I. WArrde 
+MN 
+IN:CitYG 
+WIN 
+WAITED 11/40(140 MN 
+W1ALMMAC31 FL 
+HIM 
+WWINTEI) VIIRNI) IAN 
+%%Wad:NACU ii. 
+1M14 
+SIMUNTO) WOW MN 
+Nw 
+RAM 
+L in z 
+NOTI/ MN 
+Yd 
+/MTV Non 
+None WI 
+ANYWE Ma 
+Aflll r.di tE 104 
+467544
+=MEM 
+MYTWE hall 
+arc. 
+EFTA01692859

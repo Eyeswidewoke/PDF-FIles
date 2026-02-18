@@ -1,0 +1,372 @@
+---
+source_image: "contact-list+bank-statement__EFTA01433023_20260130_p001_i001.png"
+source_pdf: "EFTA01433023.pdf"
+method: pdf_text
+words: 672
+confidence: 1.00
+extracted: 2026-02-13T16:04:39.409629
+---
+
+2018 
+GCIS Customer Number 
+Customer Name 
+Risk 
+Type 
+Latest KYC Case I 
+Trust Client 
+Clie 
+nt Since Date 
+Relationship Customer Number 
+Relationship 
+Office Customer Owner YTD Revenue 
+Sept 2017 
+Avg CBV Jan - Sept 2017 Due Date Month End / Year 
+442098 Lindemann, Adam M. 
+H 
+Individual 
+1809779 2/1/2010 
+427075 LINDEMANN FA 
+MILY RELATIONSHIP 
+- 
+Stewart Oldfield 
+160940.03 
+1.3999999989222221E7 
+June 
+-18 
+409100 Black, Leon D. H 
+Individual 
+1822196 4/17/2014 
+483288 ELYSIUM MANAGEMENT R 
+ELATIONSHIP 
+- 
+Stewart Oldfield 
+0 
+124724.59001888888 
+July-18 
+483289 Epstein, Jeffrey E. 
+H 
+Individual 
+1790655 9/12/2013 
+483290 SOUTHERN FIN 
+ANCIAL RELATIONSHIP 
+- 
+Stewart Oldfield 
+20037.23 
+3145379.6052355557 
+Augu 
+st-18 
+489505 
+ANCIAL RELATIONSHIP 
+-
+483883 Southern Trust Company, 
+HERN FINANCIAL RELATIONSHIP 
+st-18 
+550331 Zorro Management, LLC 
+H 
+Organization 
+ANCIAL RELATIONSHIP 
+- 
+Stewart Oldfield 
+486427 J. Epstein Virgin Islands Foundation, Inc 
+483290 SOUTHERN FINANCIAL RELATIONSHIP - 
+Stewart 
+August-18 
+487225 Hyperion Air, LLC 
+H 
+Organization 
+ANCIAL RELATIONSHIP 
+- 
+Stewart Oldfield 
+486426 Butterfly Trust H 
+Organization 
+1790739 
+ELATIONSHIP 
+- 
+Stewart Oldfield 
+0 
+487216 JEGE, LLC 
+H 
+Organization 
+1790820 
+ELATIONSHIP 
+- 
+Stewart Oldfield 
+2625 
+487264 Neptune, LLC 
+ELATIONSHIP 
+Stewart 
+499760 Gratitude America Ltd 
+ANCIAL RELATIONSHIP 
+H 
+Organization 
+Stewart Oldfield 
+1790739 3/3/2015 
+483290 SOUTHERN FIN 
+8178 
+945578.2744622222 
+August-18 
+487266 Mort, Inc 
+Organization 
+1790820 2/6/2015 
+483290 SOUTHERN FINANCIAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+16 
+2714.2316144444444 
+August-18 
+499733 LSJE, LLC 
+Organization 
+1790820 2/25/2015 
+483290 SOUTHERN FINANCIAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+2430 
+297525.59192333336 
+August-18 
+483882 Southern Financial LLC H 
+Organization 
+1790655 8/19/2013 
+483290 SOUTHERN FIN 
+ANCIAL RELATIONSHIP 
+st-18 
+Stewart Oldfield 
+70710.32 
+1. 1875368258953333E8 
+Augu 
+487199 The 2007 Jeffrey E. Epstein Insurance Trust #3 H 
+Organization 
+483290 SOUTHERN FINANCIAL RELATIONSHIP - 
+Stewart Oldfield 
+0 
+August-18 
+1791049 11/1/2013 
+259.05195444444445 
+487265 NES, LLC 
+H 
+Organization 
+1790739 11/8/2013 
+483290 SOUTHERN FINANCIAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+3214 
+353887.2841933333 
+August-18 
+487219 Plan D, LLC 
+H 
+Organization 
+1790820 10/18/2013 
+483290 SOUTHERN FINANCIAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+22710 
+2923323.614014445 
+August-18 
+486428 The Haze Trust H 
+Organization 
+1790739 9/19/2013 
+483290 SOUTHERN FINANCIAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+99089.50 
+2.815910555655889E7 
+August-18 
+487244 JEGE, Inc 
+H 
+Organization 
+1790820 10/18/2013 
+483290 SOUTHERN FINANCIAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+9151 
+857787.1045522222 
+August-18 
+486423 Jeepers, Inc 
+H 
+Organization 
+1790820 9/19/2013 
+483290 SOUTHERN FINANCIAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+0 
+3171091.126626667 
+August-18 
+550868 Prytanee, LLC 
+H 
+Organization 
+1704382 1/20/2017 
+483290 SOUTHERN FINANCIAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+5965 
+659797.2197544444 
+August-18 
+487220 Darren K. Indyke PLLC 
+L 
+Organization 
+ANCIAL RELATIONSHIP 
+Stewart Oldfield 
+495598 Wanek, Todd R. M 
+Individual 
+n/a 
+1808466 11/1/2013 
+483290 SOUTHERN FIN 
+4108 
+365611.2899833333 
+August-18 
+10/6/2014 
+490359 THIRD LAKE CAPITAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+8492 
+99.998592857 14287 
+October-18 
+495400 KWF 2007 LLC 
+Organization 
+1751337 11/6/2014 
+490359 THIRD LAKE CAPITAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+15945 
+99.998592857 14287 
+October-18 
+495399 SSW 2007 LLC 
+M 
+Organization 
+1508010 11/14/2014 
+490359 THIRD LAKE CAPITAL R 
+ELATIONSHIP 
+Stewart Oldfield 
+1322 
+99.998592857 14287 
+October-18 
+520549 CRW 2007 LLC 
+M 
+Organization 
+n/a 
+12/9/2015 
+490359 THIRD LAKE CAPITAL R 
+ELATIONSHIP 
+- 
+Stewart Oldfield 
+1348 
+139144.11308 11111 
+October-18 
+423157 TFMG, LLC 
+M 
+Organization 
+1201544 8/28/2008 
+409409 TISCH FAMILY RELATIO 
+NSHIP 
+- 
+Stewart Oldfield 
+0 
+-
+May-18 
+474262 Boles, Christopher 
+M 
+Individual 
+RELATIONSHIP 
+- 
+Stewart Oldfield 
+7477.82 
+1233644 11/2 7/2013 
+1539717.5978 588893 
+474263 BOIES FAMILY 
+October-18 
+520582 Kati Forsythe 2014 GRAT M 
+Organization 
+n/a 
+Trus t Client 
+12/3/2015 
+4903 
+59 
+THIRD LAKE CAPITAL RELATIONSHIP - 
+Stewart Oldfield 
+6838 
+99.99859285714287 
+October-18 
+560091 Todd R. Wanek 2015 GRAT M 
+Organization 
+1759745 Trust Client 
+4/27/2017 
+4903 
+59 
+THIRD LAKE CAPITAL RELATIONSHIP - 
+Stewart Oldfield 
+347 
+1.5000241146230001E7 
+October-18 
+495397 WANEK TRUST OF 2000 
+M 
+Organization 
+1287786 Trust Client 
+10/9/2014 
+4903 
+59 
+THIRD LAKE CAPITAL RELATIONSHIP - 
+Stewart Oldfield 
+10123 
+2.5026422270445712E7 
+October-18 
+520546 GEW 2007 LLC 
+M 
+Organization 
+n/a 
+12/9/2015 
+490359 THIRD LAKE CAPITAL R 
+ELATIONSHIP 
+- 
+Stewart Oldfield 
+1863 
+250500.97321333332 
+October-18 
+Organization 
+1790739 
+Oldfield 
+1793 
+H 
+Individual 
+1790724 
+Stewart Oldfield 
+67 
+Inc. 
+H 
+Organization 
+Stewart Oldfield 
+12/13/2013 
+483290 SOUTHERN FIN 
+7542.388753333333 
+August-18 
+1790655 8/19/2013 
+483290 SOUT 
+103646 1.119337703983E7 
+Augu 
+1790820 12/20/2016 
+483290 SOUTHERN FIN 
+3057 
+330533.0928277777 
+August-18 
+H 
+Organization 
+1790655 9/24/2013 
+Oldfield 
+722 
+823584.2235511111 
+1790820 10/18/2013 
+483290 SOUTHERN FIN 
+960 
+93202.95724222221 
+August-18 
+1/24/2014 
+483290 SOUTHERN FINANCIAL R 
+2.9940999999999995 
+August-18 
+10/18/2013 
+483290 SOUTHERN FINANCIAL R 
+354883.31767 
+August-18 
+10/18/2013 
+483290 SOUTHERN FINANCIAL R 
+173460.50448333332 
+August-18 
+EFTA01433023

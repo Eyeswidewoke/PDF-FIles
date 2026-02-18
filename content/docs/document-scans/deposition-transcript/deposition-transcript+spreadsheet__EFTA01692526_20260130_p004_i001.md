@@ -1,0 +1,457 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692526_20260130_p004_i001.png"
+source_pdf: "EFTA01692526.pdf"
+method: pdf_text
+words: 770
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.738301
+---
+
+FACitigUlar 
+•jag w ireless
+MIuuM 
+Account Number 
+Account Name 
+Pats of Invoice 
+January 18. 2005 
+Page 6 of 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+alwabor 
+µ.y 
+Gliarg4 
+14444 DM* TWO C 
+CAB TO 
+UMW 
+RAW Dowlption 
+45 2/2205:00 
+46 2/23 10:011/1 
+47 
+49 
+50 
+52
+51
+63 
+54 
+V 
+65 
+14 
+49 
+70 
+71 
+72 
+TS 
+94 
+1.5 
+20 
+77 
+OD
+79
+P5 
+99 
+93 
+45 
+PS 
+47 
+Continued 
+D73 1*(64
+• 
+tt 4S0 
+M MI; 
+rg pW 
+• 
+03,21P 
+2/2111 031:64. 
+WO MOP 
+blP 
+CITA
+18: 
+Y24 Milt 
+2/2 0411t2 
+H
+4 
+2/25. 4111 
+2•71 C1 SIP 
+D24 MS4P 
+gl; 
+bHI 
+0A
+ %QOM 
+2/2I 
+VW  
+WA 04. 
+?W 10PM
+2124 04•10 
+UZI CO/30P 
+Wil GI 410 
+2/24 0129P 
+a 04.10P 
+210 01 41P 
+2121 MOP 
+11 
+020 ae1R 
+2/30ote 
+E1 ;tat 
+11:414 
+V3I 
+pp  
+WI 01 
+it 
+a
+WAIP 
+n 04640 
+2/31 09.364 
+RsACK n. 
+2,412 
+FL 
+VITI 
+NIL 
+V/PALM 
+FL 
+WPALM 
+FL 
+Fl 
+WPALANI 4/14 
+WPAump 
+Ft 
+WOWS 
+WOMMDEACM R 
+4444 
+WPALMBEFOIFI 
+WIN 
+1EVT 
+E SO& 
+RJR Au  1940 
+WWWW401 Pt 
+WM 
+51.664E3 NOWA 1465 
+WIL10444401 Ft e. 
+WOW WOK TO AWN 
+AM 
+MESSAGE REV 
+2it oli8 MST 
+MI 
+1.1 
+WOOL 
+(VT 
+1.4f5tA/M0 •%ei.
+ra 
+AN
+WIt terktorw 
+am 
+otivink Wm 
+104411
+Val 
+HARM MOM TO MOM 
+=1 
+HIED 4.
+PAYTWE
+i SINSri
+Ii
+01.011e. TO MOM 
+BM i8:1811 
+g;r4TRifiirido 
+winttisTACH FL 
+MIll 
+WW WW ACH FL 
+1,10a 
+2 1.4002 
+4A
+MIstl i /lila 
+SHARED ANYTIME 04115 
+I 
+vst 
+WPALVEFACH Ft. 
+MIN 
+2 
+8 ,,sk,Tarj ti 
+DICOMPOS 
+14/6 
+WiLIWOLAGN Ft. 
+Ina 
+SPARED OJWIWIE IOW 
+mpAtiarACl/ Ft 
+1/1/1 
+2.. gIif o ; ka-0:04: 
+wPROWL OW FL 
+111/1 
+DAT 
+II 
+ER
+ROML 
+CV? 
+it 
+IlineltIT?41714 FL 
+1 1141 
+INGSLID.G. 
+MCCAW* 
+MV 
+POSED AO& TG VC' 
+1411 
+.... 
+8 r...,,,,isal,,,
+Hk 1, 
+VW 416496 tat FL 
+WI 
+SHAW014791 It NOM 
+ENT 
+V.ESSAGE /MYREN/Co 
+WPAW 
+ACP FL 
+WV 
+WACO PAWL TO MOIR. 
+WPAunt 
+WPA 
+Wil 
+rag 
+=1
+WPALI 
+Mil 
+Mft 
+WO4 
+NNE 
+f /Hag 
+INV 
+TOII. 
+WI 
+LIESSME RE FeEvAL 
+MN 
+WANED Win/ A:1 
+0411 
+Waif MGM- IV MD 
+0411 
+SINK At /./ ;04 In 
+L 
+(VT 
+NESS/6F OFTWW. 
+MN 
+WARE/ ARYTIVE MSS 
+• 
+SNARL/ MAINE Mai 
+ill% 
+SEM 
+FIR
+I  t
+MN 
+SHARED MYTIE V1445 
+144 
+1404 
+VT 
+ANI
+via
+144 
+MN 
+INCE 
+0 
+t3M.11:21R 
+W0411.4p Ft 
+WPALLt 
+FL 
+Yi/OVT 
+wPAI II6/104 FL 
+Wan 46/001I1 
+SW
+ II 
+wont/at/01Ft 
+1,183T12 
+idt 
+EVT 
+NWAINMACH FL 
+MM 
+WFWYMACII Ft 
+2 
+W/40164 /CH St 
+WOOW/6 
+WV 
+NDtWaint 
+WI 
+lutAgftl 
+R.  
+MN
+MN 
+WPALVSEACII FL 
+MN 
+WPALVMACM FL 
+M/ 
+f 
+1
+ Ft 
+I • 
+VOi it 
+101 01410. µ1.94.P 
+104 01612 ODD, 
+106 01.02 04.47P 
+LOG 01/04 I
+I OSA 
+MI am 
+tS0 
+ES 0002 
+83P 
+109 01/03 Pt
+01COP 
+III gm RS 
+112 0/00 
+O4,
+1130102 OICOP 
+114 OW) OR 4/P 
+III OMIT 0444P 
+116 OM otp± 
+in (11,06 05/ Wit 
+110 0104 05.VP 
+IF Silt air 
+1 
+01.001.04P 
+02 0405 01:229 
+123 01.94 Oi 319 
+TM Opt 01:349 
+IA SIZ grl; 
+127 01.05 01449 
+• IN OW:40747P 
+129 0194 OiltP 
+1)0 OLDS OMNI 
+Ill 02.1% II WA 
+IP 0/09 
+2.W 
+144 alw 
+44v 
+Olte 
+LIP 
+Ill 01/64 ill. 
+11$ 01.06 05/41P 
+1110402 1741P 
+11/1 01.0/ It 
+118 PA! St 
+101 4 
+I., 01.00 11-2111 
+III OWe 11219 
+146 MOM 12949 
+It:. 01/94 ai ap 
+o 01,11• 01 No 
+147 01/04 µ244P 
+WO 01/04 06449 
+lit 01004 Ote 
+• 
+8L1 gait 
+n17z 0.0, Olt SIP 
+1
+ 94110 03P 
+IN 0N0µ1:449 
+WS gl;g: 
+mum. At. 91. 
+POLYPI ACK FL 
+MONA/ 
+WPAIWOCACH Fl. 
+1::3
+1*.4 
+ac.Alica Kit 
+INICIVA
+II
+ FL
+WP44610040/ FL 
+Want/0 Art Ft 
+WPALAACCA616 FL 
+WPALM61406 FL 
+WPALMOCACII FL 
+PLIAISCA04 Ft 
+SCOlitsi 
+WPALOWEAC11 FL 
+STUMW TT 
+WPALLIMPOI FL 
+WPOI WWI ACM FL 
+MCOWYA 
+Ossiwo 
+11446 0/44 Tine 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR MMI- 
+Continued 
+tuner 
+tletv 
+curie 
+CS To 
+/hal 
+Rs. Osoorlption 
+1q 
+T/WiF
+INN 
+IM 
+1144 
+NW
+VIM 
+10 
+21.14 
+I I/ 
+4941 
+MN 
+WOOING 
+WPA141600/ Ft 
+WPAIAWFA.76 FL 
+WPALMSZAW FL 
+WPALIAWACI4 FL 
+WPALMSEA.01 FL 
+.11,11111.1t 
+WIIAMmtp.rti 21. 
+WPA1mm Its FL 
+WPALMEACI, FL 
+IPALIIMAt4+ FL 
+WPHMRF MX FL 
+WPAI)1111C Act FL 
+WPALM4/601 FL 
+WPALMPFACII FL 
+WM/AIM/CH Fl. 
+IttLIIIIt ACM FL 
+Vt/lCMITtftcs 
+Win11441404 FL 
+WPALMITEACK FL 
+10/06/A, 
+wPALWICA/N Fl 
+WPALIN(404 FL 
+WPALueemil Ft 
+WOOMIKACH Ft 
+tc,041/./ 
+sin/404R 
+IEy
+MYn 
+227 
+HI Doi plug 
+31401
+ 
+mra tbl tilg 
+fri 
+r3,D.V12
+NIN 
+INN 
+PAO L TOMO. 
+NW 
+544510 Da 1.100) VIM 
+1114 
+L1122 143116N olitA 
+MN 
+51460(0 NCIMLUDES NHS 
+144 
+5144410 
+WNCDESMO. 
+WPM 
+Wo l4 74/1416. 
+IMO 
+NW 
+SNARED Wet TO
+144 
+EVE 
+MM 
+MM 
+MM
+NW 
+MM 
+MM 
+SINNED M3X TO 
+SHWED Awn( MKS 
+0
+ANYTIME WS 
+MS
+cS
+WAS 
+0 WM 
+MOM 
+WO WM TO MOM 
+RETWENAL 
+EFTA01692529

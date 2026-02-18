@@ -1,0 +1,284 @@
+---
+source_image: "deposition-transcript+scanned-document__EFTA01715442_20260130_p027_i001.png"
+source_pdf: "EFTA01715442.pdf"
+method: pdf_text
+words: 521
+confidence: 1.00
+extracted: 2026-02-13T16:56:14.143192
+---
+
+Page: 
+40 of 46 
+Billing Cycle Date: 
+01/24/05 - 02/23/05 
+Account Number; 
+Wireless Data Detail (Continued) 
+User Name: 
+Rate Code: NA44.FT9 NATP 850RUMMONW 
+Rate Period (Pd.): P-Peak, 0-Off Peak, n-Nights 
+Feature: 0.0ireet Asst. Call Complete; CvCall Wait:ng; DvDsta Call; P-Call Forwarding; HvGroup Mobile to Mobile Calla; 
+IvIncoming Call; XvFax Call; N-Mobile To Mobile D:scount; F.-Priority Access Service; R.Roam with Nome; 
+5-Shared Minutes; TaThree Way Calling; Nallights and Weekends 
+Item Day Date 
+Time 
+To/From 
+19 
+01/37 11:54AM 
+20 
+01/27 05:31PM 
+21 
+01/27 06:55PM 
+22 
+01/27 09:10PM 
+23 
+01/27 09:10944 
+24 
+01/27 09:11PM 
+25 Fri 01/28 10:48AM 
+26 
+01/28 11:28AM 
+27 
+01/28 11:29AM 
+28 
+01/28 11:39AM 
+29 
+01/28 11:30AM 
+30 
+01/28 11:30AM 
+31 
+01/28 11:30AM 
+32 
+01/28 11:31AM 
+33 
+01/28 11:2IAN 
+34 
+01/28 11:33AM 
+35 
+01/28 11:33AM 
+36 
+01/28 11:45AM 
+37 sat 01/29 10:26PM 
+38 Sun 01/30 07:20PN 
+39 
+01/30 08:20PM 
+40 Mon 01/31 07:27AM 
+41 
+01/31 07:47AM 
+42 
+01/31 07:48AM 
+43 
+01/31 10:06AM 
+44 
+01/31 22:11PM 
+45 
+01/31 05:08PM 
+46 
+01/31 05:10PM 
+47 
+01/31 05:14PM 
+00 
+01/31 05:15914 
+49 
+01/31 08:13PN 
+50 
+01/31 05:55PN 
+51 
+01/31 10:33PN 
+52 Tue 02/01 11:51AM 
+53 
+02/01 11:58AN 
+54 
+02/01 12,00914 
+55 
+02/01 12:06PM 
+56 
+02/01 13:12PN 
+57 
+02/01 12:12PN 
+58 
+02/01 12:13PM 
+59 
+02/01 12:31PM 
+60 
+02/01 12:421,14 
+61 
+02/01 12:43PO4 
+Rate Rate Pea- Incoming/ 
+Total 
+Type 
+Nsg/NB 
+Code Pd tore Outgoing 
+Charge 
+CINGULAR MOB 
+1 Msg NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nog NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Keg NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+CINGULAR MOB 
+1 Nag NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+Out 
+0.10 
+CINGULAR MOB 
+1 Nag NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Meg NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Meg NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+Out 
+0.10 
+CINGULAR NOB 
+I Nag NA44 
+In 
+0.10 
+PREM TXT 
+1 Meg NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+CIRCULAR MOB 
+1 Nag NA44 
+In 
+0.10 
+CINGULAR MOB 
+1 Nag NA44 
+Out 
+0.10 
+CINGULAR MOB 
+1 Meg NA44 
+In 
+0.10 
+CIRCULAR MOB 
+1 Meg NA44 
+Out 
+0.10 
+CIRCULAR NOB 
+1 Nag NA44 
+In 
+0.10 
+CINGULAR MOB 
+1 Nsg NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nog NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Nog NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+CINGULAR NOB 
+1 Nag NA44 
+In 
+0.10 
+CINGULAR MOB 
+1 Nsg NA44 
+Out 
+0.10 
+CINGULAR MOB 
+1 Nag NA44 
+In 
+0.10 
+CINGULAR MOB 
+1 meg NA44 
+Out 
+0.10 
+CINGULAR MOB 
+1 Nag NA44 
+In 
+0.10 
+CIRCULAR NCB 
+1 Nag NA44 
+Out 
+0.10 
+CINGULAR MOB 
+1 May NA44 
+In 
+0.10 
+CINGULAR MOB 
+1 Nag NA44 
+In 
+0.10 
+CINGULAR MOB 
+1 Mag NA44 
+Out 
+0.10 
+OTHER MOBILE 
+1 Nag NA44 
+In 
+0.10 
+EFTA01715468

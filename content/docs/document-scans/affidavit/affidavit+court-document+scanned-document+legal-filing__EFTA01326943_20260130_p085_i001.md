@@ -1,0 +1,293 @@
+---
+source_image: "affidavit+court-document+scanned-document+legal-filing__EFTA01326943_20260130_p085_i001.png"
+source_pdf: "EFTA01326943.pdf"
+method: pdf_text
+words: 780
+confidence: 1.00
+extracted: 2026-02-13T16:09:40.714599
+---
+
+FAA FORM 8130-6, APPLICATION 
+FOR U.S. AIRWORTHINESS 
+CERTIFICATE 
+FONT AWOMONI OM O. No. 21204015 
+Fapimian DOW 02228/2013 
+0
+ 
+APPLICATION FOR 
+LIS OeNrIMAI 
+U.S. AIRWORTHINESS 
+orNammteben 
+Faleal A.I•Ilon 
+CERTIFICATE 
+A/Mmunlion 
+INSTRUCTOONS • PrAmon)90. DO rat wills In sno0•1 sew t.,. woe FAA 
+mI4 MN SANT, 6•60 40; Oar le oft sulhalle1FAA RACOMAINIrtt N sikklovl 
+Wows mound. msonschAwIl Ftie &pedal Nolv pones Ample, Socha 
+I. N. and VII es ocolcale 
+L AIROtAFT 
+ousoupnow 
+I AMSTRAD:IN MARK 
+N493LX 
+2 AIRCRAFT BOXERS NAME Rua 
+Raytheon Aircraft Co 
+3 AIRCRAFT IACJOEL DESIGNATION 
+400A 
+4. YR MFR. 
+1999 
+FM COD NG 
+S ARCRAFT SERIAL NO. 
+RK-244 
+6 ENDRE WADERS NAME plow 
+Williams Intemational 
+7. OGRE /ACOEL DESIGNATION 
+FJ44-3AP 
+9 KAMER OF INGRES 
+2 
+9 PROPELLER WADERS MK me, 
+N/A 
+W. PROPOSER 1100EL OFFIGNATION 
+II. AIRCRAFT 6 rim dowoutt
+NIA 
+I MAORI 
+P 
+!3 
+; g 
+R 
+V 
+t 
+a 
+S 
+ARAM...TON IS HERM MACE VCR p.ss roses* Assl 
+I 
+A I 
+.1 STAIOAROAWACRTHNESS CERT/MATE Omamewmf 
+1
+1 5.55+ i 1.40" 
+I I acsay I (hassle 
+i 
+I eosin' I 1•W0,' 
+I 1 PAD 
+a 
+SPECIAL NRAORGINEES CERTIFICATE Os emwoN 'NW 
+7 
+PRIMARY 
+9 
+LIGHT
+I 
+I MS* I 
+1 PoseAPanchvia I I valp-955Custi I
+I Sew 
+I 
+I
+ 
+At 
+2 
+-SPORT ...mar 
+UNITED 
+ran 
+S 
+PROVISIONAL 
+d 
+I 
+CUS i 
+pms. m/ 
+2 
+35 • 
+CUS 
+I 
+MORCIATIAE MOPES! WAWA 
+2 
+Nam. SURVEY 
+1 
+WEAL AOYERTERNO 
+3 
+RESTRICTED
+eN 
+mops eraufe 
+4 
+FCREST amok 
+N3 
+PATROLU 
+5 
+%%RATHER CCHTROL 
+pie 
+RON) 
+0 
+fares.; 
+ODER MAW 
+I 
+RESEARCH ANDOEVELOFIENT 
+2 
+AMATEUR MALT 
+3I 
+6304EITICA4 
+• 
+AIR RACING 
+5 
+DEW MOOG 
+6 
+NAFMET SURVEY 
+0 
+TO WOW CCMPLIANCE WITH DE CFR 
+7 
+OPERATING PIANDOWWN MT SALT AIRCRAFT 
+EXPERIMENTAL 
+M 
+OdolrumnINAT.M an marnows anion 4 Mow me4I 9 I03.1 
+4 
+Miss •••••00/ 
+a* co.Scle. 
+0 
+OPERATING 
+II3 
+OvensaNUOIScal Kean 
+LIGHT-SPORT 
+SC 
+OWEN "MOM MA 
+93W* MAXI IWICIO ROMPPI MO9Ory 9.wworm4 
+calks& Labe 5 21.'
+• 
+UNMANNED 
+OA 
+RESIAROI MD CEMELCONIENT I IC i [CREW TRAINING 
+ARCRAFT 
+te 
+MARKET SURVEY 
+1 
+FERRY FLIGHT FOR REHIRE N.TERATICNE IMMTENNICE. OR STORAGE 
+SPECIAL FLIGHT PERMIT MONO 
+2 
+EVACUATE IRCIA AREA CV RAPEICING DANGER 
+a 
+or04 
+CO•Mist 11,44 
+OS 
+ a. rano:am S 
+mil 
+3 
+OPERAT Cod IN EXCESS OF MAXIMUM CERTIFICATED TAKEOFF WOW! 
+• 
+MARINO OR EXPORTS] 
+i 9 1 . I PRODUCTION NOR TEEMS 
+6 
+CUSTOMER 00A3MYRATION FUMES 
+ci 6 
+WA ME AIRWORTAMESS aRTWICATE tOve SW *bar e °prawn tees 
+tileatalegiaMal 
+M. OMER'S CEA TIT ICATIOM 
+A REOSTERED OWNER 04 ~An mom issammtam 
+IF MAUR POCK NERIS-
+• 
+I 
+i 
+NAME 
+ThorAir LLC 
+ACCRUE 
+PO Box 2218, Sandusky. OH 448/1 
+ARCM,' CERTIRCATADN BADS M•P IMAM NNW essmwor ten. b*
+AIRCRAFT sseCSICANCea CR TYPE CERTIFICATE DATA WEFT town. m 
+I 
+gess./ • i 
+A18SW Rev 26 
+1 
+AiRwORTM Ness DRECTNESICANIOMMMIMOI •••••••••••••••••••••••••• 
+~an 
+0 !WS° a wawa. Ise •.*** ow • • a II ens tlegialso 
+Bi Weekly 2014 2/10/2014 - 07/23/2014 
+AIRCRAFT USTM3 Km Pe Im/IPM 
+N/A 
+SUPPLEST& TYPE CERTIACATE me /ewes ems ETC
+See Attached Sheet 
+C AIRCRAFT OPERATON NO IINNIVAICE RECORDS 
+CHECK IF MOCKS IN 
+1 
+U  
+cououracevam
+0
+M 
+sociwoO 4
+TOTAL AIRFRAME MAWS 
+8816.1 TTAF 
+3
+EXPERIMENTAL CM, itanoa bon Sas I a lainedadDlini 
+...NM
+N/A 
+0. Clanne5n 5NN• I MY, / oar/ 1700 I 4.6
+lososans en Thy to e vs I.$5 NNI Seem 
+n-1/MIS cswa nailed 
+DADDOWOROMO NINE Awn° of FR haS eiscrees mow ow ow non 
+Cob NAM Ells Ned Mite* F•Seml AMROI ROMPONI. and OM Do 
+is mond Am VS own man Aemvsnom v. 
+NUM Ms Wm niptoso AMR /MTh RN EOM 92/ 
+DATE OF APPLICADCA: 
+03/06/2014 
+NAVE AND mu ••••• MN 
+Anton Kcarivnik Agent 
+SIGNATungtc..
+.0.1,z
+I 
+§ 
+I i 1 
+i 
+A OE ARCRAFT DESCRIBED ABOVE KM OF EN INSPECTED NO FOUND NRW3RMY BY: grump. rm. 5v, a cams P. Pad 
+1 
+"cm  fr , '?' Conr an racer may 
+CERTOICATEOAIECAMIC RNA UMW, AM 
+3 i 
+I
+6
+CERTIFICATED REPAOSTION //vn comm. 
+-I 
+5 
+AIRCRAFT MUNI AMMER IN,.. mob.. 
+DATE 
+TILE 
+SIGNATURE 
+V. MA REPRESENTATVE 
+CERMICATION 
+Osamtargasmosi 4 /411 
+el i NE CERTIFICATE nova Teo 
+A I Ito ow re atm* butted P Swami M Wiesen imams la 
+4 
+AMENDMENT CR NOCIFKATICN OF CURRENT MMORIWNESS CERTMCATE 
+B. inglocia,  to VINS5VOWNIN ARAM SKIS' NI 
+RN ONONININ 
+FM DEFECTOR 
+FM nourusE 
+CERTIFICATE MIXER LACER 
+m CFR pal 66 I J 14 06401121Cit OS I I 14CFR PIN IM 
+OATS 
+03/08/2014 
+AUCOC*300 
+CFFICE 
+GL-25 
+4
+FM
+SA
+ =COI 
+A Odovell 
+3 
+1
+r 
+TYRE 
+REVIEW 
+, 
+OART833943Cal. 
+a 
+k • 
+• E 
+AST 
+FM Fan elan (4/11)A4 Promos Comm Sulermwo 
+EYLMOncF 
+-PDF 
+RECE 
+MAR 1 U 2014 
+CLE-021. 
+SDNY_GM_02 754987 
+SUBJECT TO PROTECTIVE ORDER PARAGRAPHS 7, 8, 9, 10, 15, and 17 
+0 
+0 
+a 
+EFTA_0024I909 
+EFTA01327027

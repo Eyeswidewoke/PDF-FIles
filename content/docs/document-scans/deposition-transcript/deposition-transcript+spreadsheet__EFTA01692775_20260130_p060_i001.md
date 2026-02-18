@@ -1,0 +1,502 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p060_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 753
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.980259
+---
+
+503 05/1 
+• 
+05/1 
+• 
+03/1 
+• 
+05/1 
+• 
+03/1 
+• 
+05/I 
+1.13 23: 
+giv2 
+va 
+10» 05/I 
+1004 07/I 
+nos 0431 
+1040. 
+1007 
+151.0 W
+06nI 
+0141 
+1010 osn 
+Ól
+COG
+(W. 
+1019 415/1 
+3014 WI 
+op) owl 
+014 0 
+01) 
+013 
+Olt 05/1 
+OM OM 
+MI OM 
+<in ot.n 
+op o 
+0.4 
+.0.31 
+os am 
+027 01/1 
+7.231 091 
+D29 OW 
+Mu Col 
+331 CM 
+1019 WI
+CM 
+1033 
+10.34 05/ 
+1035 OM 
+1036 05/1 
+1037 OM 
+IOU 091 
+/033 
+1040 OSI 
+M 
+1041 OM 
+• 
+"042 OM 
+• 
+1g43 con 
+z 
+04 grit 
+:: cingular 
+ACCoUt Number 
+Amount Many 
+Date of Invoke 
+May 13.2005 
+Page 16 of le 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+I:DETAIL OF CURRENT ACTIVITY • CONTINUED 
+VOICE USAGE Poll- 
+Cootoutut 
+VOICE WAG! 
+ul~Conitaxil 
+Kun4MT 
+O.*y 
+MUM
+Munber 
+EIMM 
+Ming* 
+lbw 0444 TIm• C•0•0 
+EST* 
+11019 RS 13•441941fran 
+RI 
+I. uitiar4 FL 
+1121 
+elikiknig 9/421/4" %.  1.2 
+r/TONICJ4 FL 
+WM 
+LIMMITTO Nano. BM 
+10.14A 
+INPA.9001GH FL 
+MN 
+Evr 
+103M 
+DM 
+1033A 
+150 
+10419 
+MN 
+1 
+1 
+O 
+MNg 
+1441 
+lilt 
+W9 
+fL 
+WI 
+MN 
+11299 
+MN 
+12ACP 
+WO 
+El 
+MN 
+(VT 
+124194 
+MN 
+t 
+n. 
+an 
+Y
+WJ 
+n. 
+Ian 
+FL 
+MI 
+MN 
+01 
+MI 
+81 
+4041 
+4104 
+01670 
+2 '4 
+020EP 
+1M11. 
+TM I W 
+1MN 
+a410 
+FL
+ IAN 
+L 
+HAM 
+FL 
+11011 
+01 
+FL 
+»AN 
+1 FVT 
+O 
+WPAUMEAEN Fl 
+1MN 
+1EY1 
+801 
+FL 
+214N 
+1MM 
+021 
+FL
+!MN 
+03 
+IAN 
+04.4 
+MN 
+EV7 
+OE 
+MN 
+0201 
+I. 
+/AN 
+224 
+a 
+n. 
+MN 
+104 
+eat 
+error 
+El 
+MnI 
+CE41 4 
+VA 
+P. 
+laN4 
+AM 
+0921 
+001/CON1304 11. 
+NUT 
+0" 
+INCOAING 
+UN 
+0321 
+114EM7433 
+lam 
+MX 
+?<ME 
+UM 
+Cal 
+WOUNG
+NG 
+sisi 
+0541 
+WCONING 
+LVt i 
+05.0 
+WEAMMEACH FL 
+MIN 
+054; 
+rcatno 
+gt 
+gn 
+me Acm Ft 
+In 
+W 
+W. 
+>I TT 
+Pliti
+WOW. 
+Fl. 
+10:4 
+1.110 
+/I 
+.NM 
+Mal 14004. TO 
+11 1050 W1193520 
+I 
+.1 
+MNVTES 
+th 
+:WU 
+ri 1043 MI 1125/4
+MESSAGE METRE-VAL 
+1051 OV11 11:010 
+WEL1/030 WINUTES 
+1052 06n1 11:250 
+INCUMErtr70 
+;.: 12014 2..„i iii. 
+to& uott :142. 
+: I 
+own il 
+IMELLIDED LI 
+MOM MBE 9'1M3. 
+WM 0591 1134W 
+1.143114191. TO 44031. 
+FETRIWAL 
+1 toe.osnt its. 
+TOTAL VOICE 
+INELMED IMOTES 
+12,82
+.`"??1E'
+Zi `jdicros,
+",4+ 
+.ti TE XI all ii f tii.
+DIA MSC.S MD 
+owed113k TO MO& 
+. km EIS 
+Tim 
+Mod ‘100(.1..a a
+ 
+OrTelier
+11N11141Mist To 
+lEi 
+EE 
+TO MO& 
+. 
+g 041r
+112 
+00.039 
+r41.3%18tgro1r4;
+i .
+13.0.UKO &MUMS 
+!WI 
+03101.1. 
+la 
+CC 
+r11•41.1rarOat { `E'3 
+gig 
+le41.1400.1. TO" 
+13 
+1110
+1/41
+4114 
+01. 
+0353. 
+512218 rIrrl 
+urNsm.sr RE TRIMAI. 
+r
+1
+20AP
+MSSAGL NE 'RENAL 
+14 
+1304/11 
+19.41.14114001. TO MOO. 
+MILISZ iléP111 
+IMEMOCO UMW 
+INC.WDEONMUT 
+INEW)F0 WM 
+1.4
+ll 
+14 04/1 
+, 
+IIE 
+I MOO 
+1904M 
+31
+11344. 
+1199.4 
+13140 
+5414004 TO 
+20 04/23 
+01104 
+I 
+2 21 04,  , n01 
+19 ZZA 
+ij
+23
+04M3 
+24 WM 
+8) 
+g rg 
+21 0412t 
+31 
+it gig 
+3ilai 
+23
+32 ,x
+01179 
+34 
+35 
+XI 0490 
+/9= 
+40
+19 NM
+"»
+. 
+i; 221 
+2= 
+I 
+MD swig 
+r
+E'ddi
+a °°11
+WW 
+ad g EIS ty 
+9710.44049 uu;
+INCI EOM MM.11TS 
+UNLIM MOCK IQ NMI 
+MUM MOS. To. Met 
+194111.4 SEMI TO N06í 
+ING.L0E0 mINIM-ST 
+1110.uOrn m/MTE 
+MCI.E041)MikolVE 
+EAU 14/411C 
+untie~ 
+Yo WM. 
+340.97Mkott) 
+GVL 
+m
+1.
+e B. wM,01
+,  11.
+mt0110 WEN 
+:2=49
+191712/7111 
+OMLOnT
+uNWr 
+74,1
+99/04,191 .4 
+TIMM 
+34/3•40340 
+iIIIIIIIIIIIIIIIIIIINIiIIIIlIIIIIIIIIIIIII 
+Marge 
+• km OS Thm Ennui 
+CANT Te 
+~CI 
+RM. Onedpilen 
+i • 104 OW 101215 
+VVOMWMACM 01 
+W 
+144MATIO )4~0 LIM 
+I. sUmTED NSVEM) WI 
+SNUMTILD 14M1VEND M14 
+loW, 1.
+4TECITIMEN3 /9/1 
+TO NMAND MN 
+WauMITIO NWT 
+WWI T 41/444/14/4 NM 
+110 
+191;:t.19T 814/1
+991% "
+410 
+ALN 
+Mll 
+N 
+UNIMTW HAV,NC, MN 
+Vita 
+14 Ft 
+Ma 
+UNWATIO NAMNO MN 
+IM 
+1711.3470) WHOP 1414 
+EVE 
+MU 1.11/0000 
+MN 
+11441.113 11014/4115M3 4474 
+:' xce °sal 1113214 
+WPALIMEACM El 
+M' 
+MESSAGE ~EVA 
+10/440WBEACN FL 
+BM 
+WPATUMACH FL 
+MIN 
+ING01/140 
+MN 
+LAKE WORM FL 
+MN 
+AXE WORM FL 
+MN 
+05020 
+04:110 
+84
+.0V.RE
+1227A 
+I> 14 
+314
+CC° 
+MOM Ft 
+Cigna Desuiption 
+il gto4~11 
+MESSAMS 
+Nile) 
+MESSAG.S 
+T 
+MESSAGES 
+Z 
+XI MESSAGES 
+NT 
+TEXT MESSAGES SEC 
+KPH!: 
+XT 5n2 
+N: 
+T DIMESSA 
+TkiT 
+141 
+C 
+N7
+40 
+T 
+nit.../342 in 
+T MC $.4.41CS S NT 
+ietasa.445, 3. 04 r 
+9144E55.50ESS 14-
+T liESSAGESS 
+TEXT mESSAGES SEC 
+T MESSµi 
+147. 
+TMESSAG
+S1AGE
+SCISOOT 
+KT
+ig;gg11.04 
+1914 
+.AC.4 
+ri,;:2
+1/EssrA
+SSAgi 
+TEXT Vir sMats 
+TEXTMESSAGES 
+NT 
+NT 
+NT 
+MT 
+NT 
+000 
+Chap 
+0.10 
+0.10 
+0.10 
+10 
+611 
+410 
+gio
+118 
+18 
+p 
+too 
+a10 
+0.10 
+010 
+EFTA01692834

@@ -1,0 +1,73 @@
+---
+source_image: "deposition-transcript+legal-filing+scanned-document+court-document__EFTA02727007_20260210_p090_i001.png"
+source_pdf: "EFTA02727007.pdf"
+method: pdf_text
+words: 503
+confidence: 1.00
+extracted: 2026-02-13T16:51:42.035811
+---
+
+Bureau of Prisons 
+Psychology Services 
+Suicide Risk Assessment 
+"SENSITIVE BUT UNCLASSIFIED—
+Inmate Name: 
+EPSTEIN, JEFFREY EDWARD 
+Date of Birth: 
+01/20/1953 
+Sex: M 
+Date: 
+07/09/2019 08:41 
+Provider: 
+Facility: NYM 
+Reg #: 
+76318-054 
+Unit Team: A&O 
+Psychologist 
+Type of Housing: 
+Other Psychological Observation 
+Cell Accommodation: Single Cell 
+FINDINGS
+This assessment and the resulting recommendations are based on the following sources of information: 
+Medical Record, Clinical Interview 
+Inmate Epstein was placed on psychological observation when he returned from court yesterday evening 7/6/19 for 
+precautionary reasons. He is not on a suicide watch at this time. He was seen this morning for a psychologcal observation 
+contact and suicide risk assessment this morning, 7/9/19, at 7:30 a.m. as it was determined he possessed some at-risk 
+factors for suicidality. 
+Reason for Referral 
+Inmate Epstein is being seen for suicide risk assessment today for precautionary reasons. Inmate Epstein has various 
+risk factors for suicidality at this time including a high profile case with media attention, sex offense/trafficking charges, 
+pre-trial status, and he had a court proceeding yesterday which could have given him bad news regarding his legal 
+situation. As such, this writer instructed R&D staff, as well as the Lieutenants Office, to immediately notify the 
+psychology department when he returned from court. Inmate Epstein returned from court after duty hours and denied 
+suicidality. The aforementioned staff notified the on-call psychologist and inmate Epstein was placed on a precautionary 
+psychological observation status until psychology could interview him this morning to conduct a suicide risk assessment. 
+Pnvelopmental History 
+Inmate Epstein denied any history of being the victim and/or perpetrator of physical or sexual abuse. 
+gducational History/Cognitive Impairment 
+Inmate Epstein reported he obtained his high school diploma and attended some graduate classes in the area of 
+mathematics. 
+AffeattitatozzaarlExpgrienr&sflacarceration 
+Inmate Epstein reported he has served time in Palm Beach County jail on sex offense charges (soliciting prostitution) in 
+the past. He is now being charged with sex trafficking, on a federal level. 
+Mental ieglothiStOry 
+Inmate Epstein denied any history of mental health treatment, either on an inpatient or outpatient basis. Inmate Epstein 
+denied any treatment in the past or present with psychotropic medication. He also denied any acute mental health 
+symptoms at this time. 
+Self-Harm History 
+Inmate Epstein denied any past or present suicidal ideation, intention or plan. He denied ever engaging ill any suicide 
+attempts or self-injurious behavior in the past. 
+Substance Abuse History 
+Inmate Epstein denied any alcohol or substance abuse. He said it is well-known that he does not even d nk alcohol. 
+Medical Concerns 
+Inmate Epstein denied any significant medical problems, other than a history of high triglycerides. He reported feeling 
+constipated at this time. 
+Current Problem 
+Inmate Epstein is currently on psychological observation due to his having multiple risk factors asscciatec with 
+suicidality. He denies any suicidality at this time and has no mental health or suicide history. He is being seen for a 
+suicide risk assessment in an abundance of caution. 
+Current Mental Status 
+Generated 07/10/2019 09:20 by 
+Bureau of Prisons - NYM 
+Pao 1 of 3 
+EFTA02727096

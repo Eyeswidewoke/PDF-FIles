@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>INVESTIGATION C — MONEY &amp; PLANES | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --bg:#0f1218;--surface:#171c24;--surface-2:#1f2631;--border:#2d3643;
+      --text:#e8edf4;--muted:#92a0b4;--accent:#bf360c;--accent-2:#ff6d00;
+      --warn:#e6a817;--good:#2caa71;--bad:#c62828;
+      --sans:'Space Grotesk',system-ui,sans-serif;--mono:'IBM Plex Mono',monospace;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--sans);background:radial-gradient(circle at 10% 0%,#181210 0%,#0f1218 55%);color:var(--text);line-height:1.6;min-height:100vh}
+    a{color:var(--accent-2);text-decoration:none}a:hover{text-decoration:underline}
+    .back-link{display:inline-block;margin:1rem;padding:.5rem 1rem;border:1px solid var(--border);border-radius:.5rem;color:var(--muted);font:600 .78rem var(--mono);transition:all .2s}
+    .back-link:hover{color:var(--accent-2);border-color:var(--accent-2);text-decoration:none}
+    .hero{padding:2.5rem 1.5rem 1.5rem;text-align:center;border-bottom:2px solid var(--accent);background:linear-gradient(170deg,#150e0a 0%,#1a1410 45%,#0f1218 100%)}
+    .hero h1{font-size:clamp(1.8rem,4vw,2.8rem);letter-spacing:.04em;font-weight:700;background:linear-gradient(90deg,var(--accent),var(--accent-2));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+    .hero .subhead{max-width:84ch;margin:.6rem auto 0;color:var(--muted);font-size:.92rem}
+    .hero .datestamp{margin-top:.5rem;font:.72rem var(--mono);color:var(--muted)}
+    .content{max-width:1200px;margin:0 auto;padding:1rem 1.5rem 3rem}
+    section.block{margin-bottom:2rem;background:var(--surface);border:1px solid var(--border);border-radius:.8rem;padding:1.4rem 1.5rem}
+    section.block h2{color:var(--accent-2);margin-bottom:.7rem;font-size:1.15rem;letter-spacing:.02em;border-bottom:1px solid var(--border);padding-bottom:.45rem}
+    section.block h3{color:var(--accent-2);margin:1rem 0 .5rem;font-size:.95rem}
+    p{margin-bottom:.8rem;font-size:.88rem}p.muted{color:var(--muted)}
+    .callout{border:1px solid var(--warn);background:rgba(230,168,23,.08);border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0;font-size:.85rem}
+    .callout.red{border-color:var(--bad);background:rgba(198,40,40,.08)}
+    .callout.green{border-color:var(--good);background:rgba(44,170,113,.08)}
+    .stat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:.65rem;margin:.8rem 0}
+    .stat-card{background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;padding:.75rem .85rem;text-align:center}
+    .stat-card .n{font:700 1.5rem var(--mono);color:var(--accent-2)}
+    .stat-card .l{font-size:.68rem;color:var(--muted);text-transform:uppercase;margin-top:.15rem;letter-spacing:.03em}
+    .stat-card.warn .n{color:var(--warn)}
+    .stat-card.bad .n{color:var(--bad)}
+    .data-table{width:100%;border-collapse:collapse;margin:.7rem 0;font-size:.8rem}
+    .data-table th{text-align:left;font:600 .72rem var(--mono);color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em;padding:.5rem .6rem;border-bottom:2px solid var(--border);background:var(--surface-2)}
+    .data-table td{padding:.45rem .6rem;border-bottom:1px solid var(--border);color:var(--text)}
+    .data-table tr:hover td{background:rgba(191,54,12,.05)}
+    .data-table .num{text-align:right;font-family:var(--mono);font-size:.78rem}
+    .bar-section{display:flex;flex-direction:column;gap:.45rem;margin:.7rem 0}
+    .bar-row{display:grid;grid-template-columns:180px 1fr 70px;align-items:center;gap:.6rem}
+    .bar-label{font:600 .74rem var(--mono);color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .bar-track{height:12px;background:var(--border);border-radius:999px;overflow:hidden}
+    .bar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--accent-2))}
+    .bar-fill.blue{background:linear-gradient(90deg,#0277bd,#4fc3f7)}
+    .bar-fill.green{background:linear-gradient(90deg,#1b5e20,#66bb6a)}
+    .bar-fill.gold{background:linear-gradient(90deg,#b8860b,#e6a817)}
+    .bar-fill.red{background:linear-gradient(90deg,#8e0000,#c62828)}
+    .bar-count{text-align:right;font:600 .72rem var(--mono);color:var(--muted)}
+    .nav-pills{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0}
+    .nav-pills a{display:inline-block;padding:.4rem .9rem;border:1px solid var(--border);border-radius:2rem;font:.75rem var(--mono);color:var(--muted);transition:all .2s}
+    .nav-pills a:hover,.nav-pills a.active{color:var(--accent-2);border-color:var(--accent-2);background:rgba(191,54,12,.1);text-decoration:none}
+    .card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;margin:1rem 0}
+    .card{background:var(--surface-2);border:1px solid var(--border);border-radius:.7rem;padding:1.1rem 1.2rem;transition:all .2s;text-decoration:none;color:var(--text);display:block}
+    .card:hover{border-color:var(--accent-2);transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.3);text-decoration:none}
+    .card .icon{font-size:2rem;margin-bottom:.4rem}
+    .card h3{font-size:.95rem;color:var(--accent-2);margin-bottom:.3rem}
+    .card p{font-size:.78rem;color:var(--muted);margin:0}
+    .card .card-stat{font:700 1.1rem var(--mono);color:var(--accent-2);margin-top:.4rem}
+    .person-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:.5rem;margin:.7rem 0}
+    .person-chip{background:var(--surface-2);border:1px solid var(--border);border-radius:.5rem;padding:.5rem .6rem;text-align:center}
+    .person-chip .name{font:700 .72rem var(--mono);color:var(--text);display:block}
+    .person-chip .count{font:600 .68rem var(--mono);color:var(--accent-2)}
+    .person-chip.red{border-color:var(--bad)}.person-chip.red .count{color:var(--bad)}
+    @media(max-width:700px){.bar-row{grid-template-columns:120px 1fr 55px}.content{padding:1rem}section.block{padding:1rem}}
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./index.html">&larr; MAIN SITE</a>
+  <a class="back-link" href="./analysis.html">&larr; FILE ANALYSIS</a>
+
+  <header class="hero">
+    <h1>🔍 INVESTIGATION C</h1>
+    <h1 style="font-size:clamp(1.2rem,3vw,2rem);margin-top:-.3rem">FOLLOW THE MONEY &amp; THE PLANES</h1>
+    <p class="subhead">
+      Deep analysis of flight records, financial documents, contact lists, and case evidence
+      across all 12 DOJ datasets. 114,039 files scanned &middot; 26,128 high-value documents identified.
+    </p>
+    <p class="datestamp">Generated February 15, 2026 &middot; Automated Deep Analysis Agent</p>
+  </header>
+
+  <div class="content">
+
+    <nav class="nav-pills">
+      <a href="./investigation-c.html" class="active">Investigation C Hub</a>
+      <a href="./flights-intel.html">✈️ Flight Intelligence</a>
+      <a href="./financials.html">💰 Financial Intelligence</a>
+      <a href="./analysis.html">File Analysis</a>
+      <a href="./index.html">Main Site</a>
+    </nav>
+
+    <!-- ─── OVERVIEW ─── -->
+    <section class="block">
+      <h2>EXECUTIVE SUMMARY</h2>
+      <p>While Investigations A and B focused on communications and emails (455K files), Investigation C covers the <strong>physical evidence trail</strong> — the documents that can corroborate or contradict public statements and testimony: flight manifests, bank statements, wire transfers, contact directories, and case-specific evidence.</p>
+
+      <div class="stat-grid">
+        <div class="stat-card"><div class="n">114,039</div><div class="l">Total Files Scanned</div></div>
+        <div class="stat-card warn"><div class="n">26,128</div><div class="l">High-Value Documents</div></div>
+        <div class="stat-card"><div class="n">4,347</div><div class="l">Flight &amp; Travel Files</div></div>
+        <div class="stat-card"><div class="n">86,060</div><div class="l">Financial Files</div></div>
+        <div class="stat-card"><div class="n">16,022</div><div class="l">Contact Files</div></div>
+        <div class="stat-card bad"><div class="n">7,610</div><div class="l">Case Evidence Files</div></div>
+        <div class="stat-card"><div class="n">24 sec</div><div class="l">Total Scan Time</div></div>
+        <div class="stat-card"><div class="n">27</div><div class="l">Persons Tracked</div></div>
+      </div>
+    </section>
+
+    <!-- ─── DEEP DIVE PAGES ─── -->
+    <section class="block">
+      <h2>DEEP DIVE REPORTS</h2>
+      <div class="card-grid">
+        <a class="card" href="./flights-intel.html">
+          <div class="icon">✈️</div>
+          <h3>Flight Intelligence</h3>
+          <p>Aircraft fleet, routes, named passengers, FBI pilot testimony, manifest analysis, ground transport &amp; island operations.</p>
+          <div class="card-stat">4,347 files &middot; 10+ aircraft</div>
+        </a>
+        <a class="card" href="./financials.html">
+          <div class="icon">💰</div>
+          <h3>Financial Intelligence</h3>
+          <p>Banking relationships (JPMorgan, Deutsche Bank, UBS), wire transfers, shell companies, trusts, property records, key payment documents.</p>
+          <div class="card-stat">86,060 files &middot; 5 major banks</div>
+        </a>
+      </div>
+    </section>
+
+    <!-- ─── SCAN PHASES ─── -->
+    <section class="block">
+      <h2>5-PHASE SCAN METHODOLOGY</h2>
+
+      <h3>Phase 1: Flight &amp; Travel Records (4,347 files)</h3>
+      <div class="bar-section">
+        <div class="bar-row"><span class="bar-label">Flight Logs</span><div class="bar-track"><div class="bar-fill blue" style="width:100%"></div></div><span class="bar-count">2,151</span></div>
+        <div class="bar-row"><span class="bar-label">General Travel</span><div class="bar-track"><div class="bar-fill blue" style="width:47%"></div></div><span class="bar-count">1,013</span></div>
+        <div class="bar-row"><span class="bar-label">Passenger Manifests</span><div class="bar-track"><div class="bar-fill blue" style="width:32%"></div></div><span class="bar-count">699</span></div>
+        <div class="bar-row"><span class="bar-label">Hotel / Travel</span><div class="bar-track"><div class="bar-fill blue" style="width:10%"></div></div><span class="bar-count">217</span></div>
+        <div class="bar-row"><span class="bar-label">Ground Transport</span><div class="bar-track"><div class="bar-fill blue" style="width:12%"></div></div><span class="bar-count">267</span></div>
+      </div>
+
+      <h3>Phase 2: Targeted Financial (17,166 files)</h3>
+      <p>Wire transfers (1,347), checks (1,215), credit cards (786), bank statements by institution — JPMorgan (784), Deutsche Bank (270), Citibank (103), Bank of America (21).</p>
+
+      <h3>Phase 3: Contacts &amp; Directories (16,022 files)</h3>
+      <p>Address books, contact lists, phone records, rolodex entries. 942 high-value documents containing named persons of interest.</p>
+
+      <h3>Phase 4: Case Evidence (7,610 files)</h3>
+      <p>Location-specific evidence: Palm Beach (458), New York (161), St. James (38), Virgin Islands (35), Paris (16), Zorro Ranch (14), London (7).</p>
+
+      <h3>Phase 5: Broad Financial (68,894 files)</h3>
+      <p>General financial documents, invoices (35,040), trusts &amp; estates (7,792), property records (4,848).</p>
+    </section>
+
+    <!-- ─── PERSON MATRIX ─── -->
+    <section class="block">
+      <h2>CROSS-REFERENCE PERSON MATRIX</h2>
+      <p>Total document references per person across all 5 evidence categories (flights, targeted financial, contacts, case evidence, broad financial):</p>
+
+      <table class="data-table">
+        <thead><tr><th>Person</th><th class="num">Flights</th><th class="num">Financial</th><th class="num">Contacts</th><th class="num">Evidence</th><th class="num">Total</th></tr></thead>
+        <tbody>
+          <tr><td><strong style="color:var(--bad)">MAXWELL</strong></td><td class="num">1,206</td><td class="num">18,621</td><td class="num">1,675</td><td class="num">411</td><td class="num"><strong>21,913</strong></td></tr>
+          <tr><td><strong>EPSTEIN</strong></td><td class="num">300</td><td class="num">4,016</td><td class="num">1,495</td><td class="num">4,478</td><td class="num"><strong>10,289</strong></td></tr>
+          <tr><td><strong style="color:var(--bad)">BLACK (Leon)</strong></td><td class="num">58</td><td class="num">2,705</td><td class="num">515</td><td class="num">—</td><td class="num"><strong>3,278</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">TRUMP</strong></td><td class="num">13</td><td class="num">313</td><td class="num">357</td><td class="num">—</td><td class="num"><strong>683</strong></td></tr>
+          <tr><td><strong>VISOSKI</strong></td><td class="num">330</td><td class="num">60</td><td class="num">37</td><td class="num">—</td><td class="num"><strong>427</strong></td></tr>
+          <tr><td><strong>MARCINKOVA</strong></td><td class="num">47</td><td class="num">341</td><td class="num">92</td><td class="num">—</td><td class="num"><strong>480</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">WEXNER</strong></td><td class="num">11</td><td class="num">309</td><td class="num">31</td><td class="num">9</td><td class="num"><strong>360</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">ANDREW</strong></td><td class="num">6</td><td class="num">297</td><td class="num">293</td><td class="num">—</td><td class="num"><strong>596</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">CLINTON</strong></td><td class="num">34</td><td class="num">79</td><td class="num">84</td><td class="num">—</td><td class="num"><strong>197</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">GATES</strong></td><td class="num">23</td><td class="num">114</td><td class="num">140</td><td class="num">—</td><td class="num"><strong>277</strong></td></tr>
+          <tr><td><strong>RODRIGUEZ</strong></td><td class="num">3</td><td class="num">247</td><td class="num">54</td><td class="num">—</td><td class="num"><strong>304</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">RICHARDSON</strong></td><td class="num">—</td><td class="num">74</td><td class="num">28</td><td class="num">—</td><td class="num"><strong>102</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">BARAK</strong></td><td class="num">—</td><td class="num">69</td><td class="num">20</td><td class="num">—</td><td class="num"><strong>89</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">DERSHOWITZ</strong></td><td class="num">2</td><td class="num">46</td><td class="num">36</td><td class="num">—</td><td class="num"><strong>84</strong></td></tr>
+          <tr><td><strong style="color:var(--warn)">SUMMERS</strong></td><td class="num">1</td><td class="num">64</td><td class="num">12</td><td class="num">—</td><td class="num"><strong>77</strong></td></tr>
+          <tr><td><strong>MITCHELL</strong></td><td class="num">—</td><td class="num">96</td><td class="num">34</td><td class="num">—</td><td class="num"><strong>130</strong></td></tr>
+          <tr><td><strong>DUBIN</strong></td><td class="num">—</td><td class="num">49</td><td class="num">25</td><td class="num">—</td><td class="num"><strong>74</strong></td></tr>
+          <tr><td><strong>STALEY</strong></td><td class="num">—</td><td class="num">13</td><td class="num">13</td><td class="num">—</td><td class="num"><strong>26</strong></td></tr>
+          <tr><td><strong>MUSK</strong></td><td class="num">1</td><td class="num">69</td><td class="num">35</td><td class="num">—</td><td class="num"><strong>105</strong></td></tr>
+          <tr><td><strong>BANNON</strong></td><td class="num">2</td><td class="num">45</td><td class="num">12</td><td class="num">—</td><td class="num"><strong>59</strong></td></tr>
+          <tr><td><strong>GROFF</strong></td><td class="num">7</td><td class="num">31</td><td class="num">124</td><td class="num">—</td><td class="num"><strong>162</strong></td></tr>
+          <tr><td><strong>KELLEN</strong></td><td class="num">1</td><td class="num">48</td><td class="num">—</td><td class="num">10</td><td class="num"><strong>59</strong></td></tr>
+          <tr><td><strong>ACOSTA</strong></td><td class="num">1</td><td class="num">52</td><td class="num">48</td><td class="num">—</td><td class="num"><strong>101</strong></td></tr>
+          <tr><td><strong>BRUNEL</strong></td><td class="num">—</td><td class="num">14</td><td class="num">—</td><td class="num">9</td><td class="num"><strong>23</strong></td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- ─── KEY FINDINGS ─── -->
+    <section class="block">
+      <h2>🔴 KEY FINDINGS FROM INVESTIGATION C</h2>
+
+      <div class="callout red">
+        <strong>Finding 1: Dershowitz Payment</strong><br />
+        Financial record documenting payment to &ldquo;Alan Dershowitz Consulting LLC&rdquo; from Epstein accounts. Dershowitz has been accused in civil lawsuits of engaging in sex acts with Epstein&rsquo;s underage victims.<br />
+        <span style="font:.72rem var(--mono);color:var(--muted)">Source: EFTA01681865.pdf (DS10)</span>
+      </div>
+
+      <div class="callout red">
+        <strong>Finding 2: Gratitude America / Trump Connection</strong><br />
+        Three payments of $50,000 each to &ldquo;Gratitude America, Ltd.&rdquo; — officials referred to Dr. Moskowitz in emails as &ldquo;a POTUS friend/doctor&rdquo; and as &ldquo;the [Doctor] from W Palm that is connected to Trump.&rdquo;<br />
+        <span style="font:.72rem var(--mono);color:var(--muted)">Source: EFTA01681865.pdf (DS10)</span>
+      </div>
+
+      <div class="callout red">
+        <strong>Finding 3: JPMorgan Relationship Document</strong><br />
+        JPMorgan client relationship list includes Gates Foundation, Larry Gagosian, Jamie Dinan, Charles Ergen, and other HNW clients managed alongside Epstein accounts.<br />
+        <span style="font:.72rem var(--mono);color:var(--muted)">Source: EFTA01475567.pdf (DS10)</span>
+      </div>
+
+      <div class="callout">
+        <strong>Finding 4: Staley-Richardson-Summers Calendar</strong><br />
+        Social calendar showing Epstein meetings with Gov. Richardson, JPMorgan exec Jes Staley, Eva Andersson-Dubin, and Larry Summers — all within the same week. Woody Allen dress rehearsal also referenced.<br />
+        <span style="font:.72rem var(--mono);color:var(--muted)">Source: EFTA00428025.pdf (DS9)</span>
+      </div>
+
+      <div class="callout">
+        <strong>Finding 5: Apollo / Avioneta Holdings</strong><br />
+        Email from Thomas Turrin to Epstein regarding Avioneta Holdings LLC — references &ldquo;Apollo payment statements&rdquo; for calculating business vs. personal flight hours at $9,110/hour.<br />
+        <span style="font:.72rem var(--mono);color:var(--muted)">Source: EFTA01189346.pdf (DS9)</span>
+      </div>
+
+      <div class="callout">
+        <strong>Finding 6: Leon Black / Elysium Management</strong><br />
+        UBS relationship document for &ldquo;Elysium Management&rdquo; — Leon Black&rsquo;s family office. References Apollo Global Management, CEO Barry Cohen (former Apollo partner), and Leon&rsquo;s son Josh.<br />
+        <span style="font:.72rem var(--mono);color:var(--muted)">Source: EFTA01433476.pdf (DS10)</span>
+      </div>
+
+      <div class="callout">
+        <strong>Finding 7: Wexner Foundation Donation</strong><br />
+        Record of $185,000 donation from Wexner Foundation, classified as &ldquo;Epstein Lodge&rdquo; — single donation dated 07/25/1994.<br />
+        <span style="font:.72rem var(--mono);color:var(--muted)">Source: EFTA01265496.pdf (DS10)</span>
+      </div>
+
+      <div class="callout red">
+        <strong>Finding 8: FBI Pilot Testimony (FD-302)</strong><br />
+        FBI interview with chief pilot David Rodgers: confirms $165K salary, JEGE Inc. aircraft ownership, Visoski and Hammond as co-pilots, passenger manifest procedures, and that manifests were faxed to Epstein&rsquo;s office. Rodgers flew DERSHOWITZ to Bedford; Maxwell flew while Epstein was on the Boeing. Multiple versions in DS9 and DS10.<br />
+        <span style="font:.72rem var(--mono);color:var(--muted)">Sources: EFTA00269585.pdf, EFTA01688746.pdf, EFTA00159180.pdf</span>
+      </div>
+
+      <div class="callout">
+        <strong>Finding 9: Maxwell Financial Dominance</strong><br />
+        Ghislaine Maxwell appears in <strong>24,089 total documents</strong> across all Investigation C categories — more than any other person including Epstein. She appears in 18,621 financial documents alone, including 296 JPMorgan statements and 226 Deutsche Bank statements.<br />
+      </div>
+
+      <div class="callout">
+        <strong>Finding 10: Palm Beach Evidence Concentration</strong><br />
+        458 case evidence files specifically tagged to Palm Beach — the highest concentration of any location. NY follows with 161. Combined with 437+ financial references to Palm Beach properties, this is the densest evidence cluster in the entire dataset.<br />
+      </div>
+    </section>
+
+    <!-- ─── EVIDENCE BY LOCATION ─── -->
+    <section class="block">
+      <h2>CASE EVIDENCE BY LOCATION</h2>
+      <div class="bar-section">
+        <div class="bar-row"><span class="bar-label">Palm Beach</span><div class="bar-track"><div class="bar-fill red" style="width:100%"></div></div><span class="bar-count">458</span></div>
+        <div class="bar-row"><span class="bar-label">New York</span><div class="bar-track"><div class="bar-fill red" style="width:35%"></div></div><span class="bar-count">161</span></div>
+        <div class="bar-row"><span class="bar-label">St. James (USVI)</span><div class="bar-track"><div class="bar-fill red" style="width:8%"></div></div><span class="bar-count">38</span></div>
+        <div class="bar-row"><span class="bar-label">Virgin Islands</span><div class="bar-track"><div class="bar-fill red" style="width:8%"></div></div><span class="bar-count">35</span></div>
+        <div class="bar-row"><span class="bar-label">Paris</span><div class="bar-track"><div class="bar-fill red" style="width:3%"></div></div><span class="bar-count">16</span></div>
+        <div class="bar-row"><span class="bar-label">Zorro Ranch (NM)</span><div class="bar-track"><div class="bar-fill red" style="width:3%"></div></div><span class="bar-count">14</span></div>
+        <div class="bar-row"><span class="bar-label">London</span><div class="bar-track"><div class="bar-fill red" style="width:2%"></div></div><span class="bar-count">7</span></div>
+        <div class="bar-row"><span class="bar-label">New Mexico</span><div class="bar-track"><div class="bar-fill red" style="width:1%"></div></div><span class="bar-count">4</span></div>
+      </div>
+
+      <h3>Evidence by Subject</h3>
+      <div class="bar-section">
+        <div class="bar-row"><span class="bar-label">EPSTEIN</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-count">4,478</span></div>
+        <div class="bar-row"><span class="bar-label">Multiple Subjects</span><div class="bar-track"><div class="bar-fill" style="width:23%"></div></div><span class="bar-count">1,025</span></div>
+        <div class="bar-row"><span class="bar-label">MAXWELL</span><div class="bar-track"><div class="bar-fill" style="width:9%"></div></div><span class="bar-count">411</span></div>
+        <div class="bar-row"><span class="bar-label">GIUFFRE</span><div class="bar-track"><div class="bar-fill" style="width:1%"></div></div><span class="bar-count">24</span></div>
+        <div class="bar-row"><span class="bar-label">KELLEN</span><div class="bar-track"><div class="bar-fill" style="width:1%"></div></div><span class="bar-count">10</span></div>
+        <div class="bar-row"><span class="bar-label">WEXNER</span><div class="bar-track"><div class="bar-fill" style="width:1%"></div></div><span class="bar-count">9</span></div>
+        <div class="bar-row"><span class="bar-label">BRUNEL</span><div class="bar-track"><div class="bar-fill" style="width:1%"></div></div><span class="bar-count">9</span></div>
+      </div>
+    </section>
+
+    <!-- ─── SOURCE MATERIAL ─── -->
+    <section class="block">
+      <h2>SOURCE MATERIAL &amp; METHODOLOGY</h2>
+      <p>Investigation C queried the <strong>text_extract_state.sqlite</strong> database (3.8 GB) containing 1,490,063 organized document pages extracted from 900,956 original PDFs.</p>
+
+      <h3>Categories Analyzed</h3>
+      <table class="data-table">
+        <thead><tr><th>Category</th><th class="num">Files</th><th>Description</th></tr></thead>
+        <tbody>
+          <tr><td>05-Flight-Travel</td><td class="num">4,347</td><td>Flight logs, manifests, travel itineraries, ground transport</td></tr>
+          <tr><td>04-Financial (targeted)</td><td class="num">17,166</td><td>Wire transfers, checks, credit cards, bank statements</td></tr>
+          <tr><td>04-Financial (broad)</td><td class="num">68,894</td><td>Invoices, trusts, estates, property, general financial</td></tr>
+          <tr><td>09-Contacts</td><td class="num">16,022</td><td>Address books, phone records, directories</td></tr>
+          <tr><td>11-Case-Evidence</td><td class="num">7,610</td><td>Location-tagged physical evidence</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Keyword Patterns Used</h3>
+      <p class="muted">
+        <strong>Aircraft:</strong> N212JE, N908JE, N909JE, N120JE, N722JE, N331JE, N491GM, + 13 more tail numbers<br />
+        <strong>Routes:</strong> Palm Beach, New York, Paris, London, St. Thomas, Teterboro, Santa Fe, JFK<br />
+        <strong>Banks:</strong> JPMorgan, Chase, Deutsche Bank, UBS, Citibank, Bank of America<br />
+        <strong>Properties:</strong> Palm Beach, East 71st, El Brillo, Little St James, Zorro Ranch, Avenue Foch<br />
+        <strong>Entities:</strong> TRUST, LLC, INC, Management, Holdings, Capital, Partners, Corp<br />
+        <strong>Persons:</strong> 27 tracked targets across all categories
+      </p>
+
+      <p><strong>Full report:</strong> <a href="javascript:void(0)">INVESTIGATION-C-MONEY-AND-PLANES.md</a> (1,160 lines)</p>
+      <p><strong>Data file:</strong> <a href="./data/investigation-c-data.json">investigation-c-data.json</a></p>
+    </section>
+
+    <!-- ─── FOOTER ─── -->
+    <section class="block" style="text-align:center;border-color:var(--accent)">
+      <p style="color:var(--accent-2);font:700 .9rem var(--sans);margin-bottom:.4rem">THE PDF FILES — INVESTIGATION C</p>
+      <p class="muted" style="font-size:.78rem">
+        114,039 files scanned across 5 evidence categories from 12 DOJ datasets.<br />
+        26,128 high-value documents &middot; 27 persons tracked &middot; All source PDFs referenced by EFTA number.
+      </p>
+      <div class="nav-pills" style="justify-content:center;margin-top:.8rem">
+        <a href="./flights-intel.html">✈️ Flight Intelligence</a>
+        <a href="./financials.html">💰 Financial Intelligence</a>
+        <a href="./analysis.html">File Analysis</a>
+        <a href="./index.html">Main Site</a>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>

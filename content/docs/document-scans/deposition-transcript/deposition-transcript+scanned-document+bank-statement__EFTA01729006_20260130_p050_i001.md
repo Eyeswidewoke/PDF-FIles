@@ -1,0 +1,339 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01729006_20260130_p050_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 574
+confidence: 1.00
+extracted: 2026-02-13T16:53:14.565089
+---
+
+Page 
+28 
+Account NUmber: 
+Rilling Date: 
+Mobile Momber: 
+Mobile Ogen: 
+Total Mobiles: 
+AIRTINE AND LONG DISTANCE CHARGES 
+Itn Date 
+Tine 
+City 
+CL No. Called 
+Celled 
+P P 
+Length 
+of 
+Call 
+ 
+~GES 
+Air 
+Long 
+Time 
+Dist. Total 
+58 03/23 12:11AN 
+ITTSB PA W 0 
+1 
+0.00 
+0.00 
+59 03/23 12:12AN 
+ITTSB PA It 0 
+77 
+0.00 
+0.00 
+60 03/23 01:29AN 
+ITTSB PA M 0 
+44 
+0.00 
+0.00 
+61 03/24 12:56PN 
+PALM PL 
+P 
+1 
+0.00 
+0.00 
+62 03/24 12:57PN 
+PALN PL 
+P 
+3 0.00 
+0.00 
+63 03/24 06:38PN 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+64 03/24 06:39PN 
+PAIN FL 
+P 
+4 
+0.00 
+0.00 
+65 03/24 08:22PN 
+PALM PL 
+P 
+7 
+0.00 
+0.00 
+66 03/34 09:06PN 
+MCOMI CL 14 0 
+4 
+0.00 
+0.00 
+67 03/24 09:14214 
+MCOMI CL N 0 
+5 
+0.00 
+0.00 
+68 03/24 09:19PN 
+PALM FL M 0 
+2 
+0.00 
+0.00 
+69 03/24 09:23PN 
+PALM FL W 0 
+1 
+0.00 
+0.00 
+70 03/24 09:46PN 
+PALM PL W 0 
+2 
+0.40 
+0.00 
+71 03/25 11:20AN 
+PALM PL 
+P 
+2 
+0.00 
+0.00 
+72 03/25 11:35AN 
+HOONT CL 
+P 
+1 
+0.00 
+0.00 
+73 03/25 12:08PM 
+PAIN FL 
+P 
+1 
+0.00 
+0.00 
+74 03/25 12:09PN 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+75 03/25 12:09PM 
+PALM FL 
+P 
+5 
+0.00 
+0.00 
+76 03/25 12:34214 
+NCOMII CL 
+P 
+1 
+0.00 
+0.00 
+77 03/25 04:29PN 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+78 03/25 04:30PN 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+79 03/25 04:34PN 
+PALM PL 
+P 
+4 
+0.00 
+0.00 
+80 03/25 05:20PN 
+PALM PL 
+P 
+4 
+0.00 
+0.00 
+81 03/25 05:23PN 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+82 03/26 11:16AN 
+BOOMT CL 
+P 
+4 
+0.00 
+0.00 
+83 03/26 12:36PN 
+NCOMI CL 
+8 
+0.00 
+0.00 
+84 03/26 12:47PN 
+.2 
+PALM FL 
+P 
+2 
+0.00 
+0.00 
+85 03/26 01:39PN 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+86 03/26 01,44PM 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+87 03/26 03:23PM 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+88 03/36 05:21PM 
+PALM FL 
+P 
+2 
+0.00 
+0.00 
+89 03/26 08:43PM 
+NCONI CL 
+P 
+2 
+0.00 
+0.00 
+90 03/26 09:14PM 
+PALM PL N N 
+2 
+0.00 
+0.00 
+91 03/26 10:09PM 
+PALM PL N N 
+2 
+0.00 
+0.00 
+92 03/26 10:29PM 
+PALM FL N N 
+1 
+0.00 
+0.00 
+93 03/26 10:35PM 
+NCOMI CL W N 
+1 
+0.00 
+0.00 
+94 03/27 10:53AM 
+ITTSB PA N N 
+7 
+0.00 
+0.00 
+95 03/27 10:59AM 
+ITTSB PA N N 
+15 
+0.00 
+0.00 
+96 03/27 11:15AN 
+ITTSB PA N N 
+3 
+0.00 
+0.00 
+97 03/27 11:18AN 
+ITTSB PA N N 
+1 
+0.00 
+0.00 
+98 03/27 11:19AM 
+ITTSB PA N N 
+1 
+0.00 
+0.00 
+99 03/27 11:24API 
+ITTSB PA N N 
+1 
+0.00 
+0.00 
+100 03/27 01:49PM 
+'ITTSB PA W N 
+1 
+0.00 
+0.00 
+101 03/27 01:50PM 
+'ITTSB PA W N 
+1 
+0.00 
+0.00 
+102 03/27 01:52PM 
+ITTSB PA N N 
+13 
+0.00 
+0.00 
+103 03/27 02:06PM 
+ITTSB PA N N 
+64 
+0.00 
+0.00 
+104 03/28 12:07PN 
+1TTSB PA N N 
+1 
+0.00 
+0.00 
+105 03/28 12:09234 
+ITTSB PA N N 
+1 
+0.00 
+0.00 
+106 03/28 12:10PM 
+'ITTSB PA M N 
+1 
+0.00 
+0.00 
+107 03/28 12:12PM 
+ITTSB PA N N 
+3 
+0.00 
+0.00 
+108 03/28 12:19PM 
+YKS4V MD lt N 
+2 
+0.00 
+0.00 
+109 03/28 06:17PM 
+ITTSB PA N N 
+1 
+0.00 
+0.00 
+110 03/28 06:20PM 
+ITTSB PA N N 
+5 
+0.00 
+0.00 
+111 03/28 06:26PM 
+ITTSB PA W N 
+2 
+0.00 
+0.00 
+112 03/28 OP:28PN 
+'ITTSB PA N N 
+28 
+0.00 
+0.00 
+113 03/29 11:01AM 
+CONI CL 
+P 
+2 
+0.00 
+0.00 
+• 
+fl
+EFTA01729055

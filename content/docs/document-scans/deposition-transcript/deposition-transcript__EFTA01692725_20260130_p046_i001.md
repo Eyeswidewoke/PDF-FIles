@@ -1,0 +1,533 @@
+---
+source_image: "deposition-transcript__EFTA01692725_20260130_p046_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 742
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.001042
+---
+
+;Account Name 
+Account Number 
+Date of Invoke 
+November 14. 20O4 
+• AT&T Wireless 
+Page 17 of 20 
+DETAIL OF CURRENT ACTIVITY CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Numbs' 
+11:•40 Dam two 
+1203 1.010930 
+1007 
+1003 
+111421 
+1010 
+1011 
+1012 
+1013 
+1014 
+1015 
+1011 
+121 
+1020 
+1021 
+6021 
+1021 
+OM 
+031 
+017 
+OM 
+030 
+040 
+04 1
+04 
+1014 
+liJ 
+gr 
+ffi
+.2f 
+101 1
+SO 
+NO1 1130P 
+002 1204A 
+UM 0939A 
+UM 1012A 
+L02 1106A 
+LO2 1101A 
+Lite W:110 
+1732 12:10 
+102 01:19P 
+04:10 
+W
+004:100 
+3
+1401 04W
+UO2 
+litg OR 
+Ur OAS 
+Al CitalP 
+• 
+11-10 
+I/O) 10.1140 
+w011m 
+1070 
+.03 OR 107 
+010017P 
+83.3; 
+• 
+µ
+vO4 
+O3:1
+.04 EOM 
+20 04:1 
+UM 04 • 
+tt 4i P 
+04 0411,
+104 0410P 
+1.0i4E 
+MN 01.5SP 
+01.100
+IAN 012,0 
+140 10] 
+101 
+UM 
+i 
+C42410111.1043 
+Orgy 
+Outgo 
+Cali TO 
+1001 Riga Omalplion 
+WPALIMEACH FL 
+MA 
+ONLIWT£0241040113104 
+it 
+VW 
+210 
+RETMEVAL 
+m„ . 
+M4 
+FL 
+1 MN 
+IAN 
+1.0,1A 
+IL411/114 
+124LINITED AMICK NM 
+MOWED I1/40024 MN 
+WPAUMEACH FL 
+MN 
+UMPATE0 KNIOIL1MN 
+t.40,00,== 
+Ptc 
+41414 
+MN 
+INCIAMEMEMITES 
+UNLOANCOL TOMO. 
+EVT 
+MESSAGE IETNEV 
+WPM/SAC/4 It 
+Lie 
+EVIL 
+IZA 
+WPALMKAMI EL 
+tam 
+4214
+M
+02 
+EV! 
+lassACA NJ 
+µ 
+WPMASEACN FL 
+MI 
+MN MON. TO MOM. 
+EVT 
+KE55AOE RE TNEVAL 
+WPALMINACI4 FL 
+Mil 
+INCALOWAINUTES 
+MN 
+INCLUO 
+WANES 
+A014 FL 
+1404 
+Pam 
+0214 FL 
+MN 
+II 
+44/1u 
+MIN 
+n 
+MNV 
+=BEACH FL 
+MN 
+MN 
+WU 
+MINUTES 
+NOLUIXO 1ANU 
+9 
+NO 
+Ft 
+m.. 
+...... 
+ri 
+ri 
+4.04,TES 
+1.4NVTES 
+NFL 
+104 
+W 
+MI 
+Iwo 5000, 
+_ 
+EMMA-
+WPALIMEACH FL 
+101 
+UNLACED NN/1010 MN 
+ILTAMER IAL 
+..m. 
+MN 
+unUIVIT1 NNIXND MN 
+LAW/NED N.N.A0401404 
+MN 
+Fl. 
+MN 
+MIN 
+MN 
+IAN 
+OM 
+FL 
+0 M 
+MN 
+VA U0 D MVO 
+FL 
+MN 
+MUM/ M. 
+FL 
+MN 
+NCLUOE0 MUTES 
+MN 
+NCLUOEOMMITES 
+R 
+mi. 
+MN 
+MN 
+Naar, 
+*.r mmit 
+... 
+EW 
+Wilta
+littr ".  ASS
+gia
+n
+W 
+FL 
+MN 
+M74 
+M 
+mot Tili, souw. 
+24CLUOED AM 
+INCLUIXO MUTES 
+IRES 
+W.Er4 
+is 
+101 
+NOV
+(
+EF
+2
+' . 
+up 
+1•14 
+ININ 
+N 
+11114 
+an 
+COU010 
+MN 
+wPLka A04 Ft 
+IAN 
+WPAAIM60.04 it 
+ISN 
+NC01090 
+MN 
+WPµWREACN Ft 
+MIN 
+INC
+AIM 401
+OME 
+WP 
+A 
+FL 
+MN 
+MN 
+W P ALM .A.CH FL 
+mut 
+ricoiaiii 
+WPM.Pa ACM A 
+INCOM 
+MN 
+is 
+110 
+Chap 
+VOICE USAGE FOR 
+ranter 
+Rem CM. Tim• Camd 
+012 110404 07P 
+g/3 ;;Nggart 
+7111W5(011P 
+OS 1201C0120 
+067 I UN ON))19
+069 11,409.739
+099 1105 01079 
+107S 
+1076 
+10)7 
+TOM 
+79 
+0E0 
+001 
+0 
+OM 
+0117 
+107$ 
+1091/ 
+9197 
+102 
+103 
+104 
+107 
+II 
+114 
+11 
+II
+11 
+120 
+• Continued 
+On 
+crania 
+CMIS To 
+Used Rae oneripoon 
+wPMIABEACH FL 
+WIN 
+. 
+ii 
+id, 
+us 
+LW 
+WPALMBFA01 FL 
+MN 
+Lel 
+EVT 
+MESSAGE RETFIEVAL 
+MN 
+Ve4
+tml6051 
+=IR= 
+MN 
+MN 
+UNUNIT 
+Ntmu4610/1 
+Mal 
+MN 
+MOAT 
+WINTIM 
+OM 
+UM M . 
+NNIKN MN 
+02, 
+UMW 
+IVA024 MN 
+FS 0995
+"CS
+t/6 Oki 
+IL 
+MN 
+UMNIT4 NANO* MN 
+MN 
+UMW 
+/0/009) MN 
+ft 
+MN 
+UNUM 
+ww00
+9/9/0109191,64
+1636 09
+121 
+WPMAMEACH FL 
+MIN 
+U 
+COMNO 
+NM 
+U 
+IMI 0902 
+e,, 
+RTTWIrdAr 
+1406 Cr. 
+WPALIMOCII rt 
+NEW YORK IN 
+5174 
+U 
+RETRIEVAL 
+N.W040 NM 
+MN 
+D NVII(NO MN 
+MIN 
+1132 0,
+04141 
+IND WO 
+IZALIPO2A01 Ft 
+MN 
+la WO 
+=VICK 
+FL 
+1 WI 
+acme, 
+166
+i7c.
+"
+ io
+"  
+INCOMNO 
+INCC411110 
+ZI M
+EVII 
+UORMITEDNAVICAD 4/11, 
+15/1 
+UNARM 44/WKN 1.0 
+INN 
+1211:3117 
+*AWN mm 
+WI 10 
+W 
+Ft 
+MAN 
+UMJM1 
+NhWJ. MN 
+1MN 
+UNUMT 
+WHIM MN 
+3
+I 
+1MN 
+WANT 
+WINOIDM11 
+„ 
+KR 
+)MN 
+UMWTO NIMMO MN 
+1 
+11AN 
+LINJWIE0 INA1040 MN 
+UM 11E6 
+SPAN 
+UNNATt10 WAND MN 
+1M11:1 
+DM 
+UNLMTED NAM= MN 
+104 iv 
+a; 
+11:1 
+W 
+FL 
+ 
+lia4 
+NI 
+4M 
+UNLIVIT/ 12% 
+MN 
+um 
+1 11 
+ONbIR 
+171
+N 
+LW 
+1/0 1 
+1 
+NAN 
+UN 
+;MN 
+UNWED) NV.104015/11 
+WM 
+UutluUng 
+hbi
+r
+so ri ti 
+. 
+UNL 
+g 
+104 
+10/02 .1t , 
+FL 
+IS 
+I/O? I 
+1 /03 1 
+107 1 
+M 
+A
+M ;FE 
+I; 
+Arinrit"t14: 
+MN 
+iiiii 
+tact 
+AWliNeVel 
+Vr 
+sr 
+RMD
+AtIN 
+t% 1 
+FL 
+MN 
+UNLMTED ?AVM° 
+MN 
+FL 
+MN 
+WiLMTED WNW MN 
+11
+1°7 kJ; 
+WEAL 
+FL 
+MN 
+UNLM7E014WW4 MN 
+IAN ei 
+FL 
+MN 
+1.4LNITE0 WW1(110 MN 
+MN 
+3,1122.11811531 Iti 
+WPALIMEACN FL 
+MN 
+UM/ANTED WV00IQ MN 
+al g/ 
+NM 
+M
+s
+FL 
+/AN 
+MN 
+MN 
+UNUMTE0 NAMPO MN 
+ti=18.....".7.00341 
+107 011 
+107 
+MN 
+UNIANTE0 JeW040 %IN 
+NM 
+FL 
+MN 
+UMNITN9 WAN 
+IM4 
+407 
+MN 
+UNLIETE0 1971 MN 
+a? 
+MN 
+UNI.NATCP X(W 
+MN 
+LIKPAITED %WINO) MN 
+LO7 CO 
+040020805 
+601 
+ONJATE010.12040 WV 
+Chair 
+EFTA01692770

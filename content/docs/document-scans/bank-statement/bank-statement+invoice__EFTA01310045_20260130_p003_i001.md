@@ -1,0 +1,255 @@
+---
+source_image: "bank-statement+invoice__EFTA01310045_20260130_p003_i001.png"
+source_pdf: "EFTA01310045.pdf"
+method: pdf_text
+words: 590
+confidence: 1.00
+extracted: 2026-02-13T16:08:36.826914
+---
+
+X cingular 
+ralskrg lne bfr 
+ACCOUNT DETAILS 
+Detail of Payments - Thank You,
+Item Description 
+Dale Applied Reversed 
+1 PAYMENT 
+01/29106 
+Total of Payments 
+Current Subsc, '`' 
+Monthly Charges and Creb 
+Subscriber Number 
+Subscriber Name 
+Total Current Subscriber Monthly Charges and Credits 
+Total Current Monthly Charges 
+Payment Amount 
+604.66 
+SUMMARY OF CURRENT ACTIVITY 
+FOR (614)284-1783 
+Monthly Service Charges 
+Item Description 
+1 CALL WAITING 
+01433/06 
+2 TEXT MESSAGING PLAN - 0 MSGS 
+01103/06 
+3 CALLER ID 
+01103/06 
+4 VOICEMAIL 
+01103,06 
+5 DETAIL BILLING 
+01,03,06 
+6 REGULATORY PROGRAM CHARGE 
+01,03,06 
+7 CALL FORWARDING 
+01)03,06 
+8 WORLOCONNECT 
+01,03/06 
+9 THREE WAY CALUNG 
+01,03/06 
+10 BLACKBERRY $49.99 
+01,03/06 
+11 NATIONAL PLAN $29.99 
+01/03/06 
+Total Monthly Service Charges 
+Monthly Usage Charges 
+Item Description 
+1 100 ADD'L ANYTME MIN 
+2 MESSAGE RETRIEVAL 
+Total Monthly Usage Charges 
+Other Subscriber Charges 
+Item Description 
+1 MCTD SURCHARGE 
+2 NY CITY UTILITY G.R. SUR 
+3 STATE TELECOM EXCISE SURCHARGE 
+4 FEDERAL UNIVERSAL SERVICE FUND SURCHARGE 
+Total Other Subscriber Charges 
+Service Dates 
+-02102106 
+- 02/02/06 
+- 02/02/06 
+- 02/02/06 
+- 02/02/06 
+- 02/02/06 
+- 02/02/06 
+- 02/02/06 
+- 02/02/06 
+- 02/02/06 
+- 02/02/06 
+Only Used 
+77 MIN 
+2 EVT 
+tuber 
+Charge 
+-644 66 
+-694.66 
+Charge 
+245.79 
+82.18 
+Set 73 
+367.70 
+367.70 
+Account Name 
+JEFFREY E EPSTEIN 
+February 03. 2006 
+Date of Invoice 
+Page 3 of 12 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+Charge 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+1.75 
+0.00 
+0.00 
+0.00 
+49.99 
+22.11 
+81.73 
+Charge 
+0.00 
+WA 
+0.00 
+Charge 
+0.16 
+0.52 
+0.71 
+Qat 
+2.18 
+Other Subscriber Credits 
+Item Description 
+1 $5 MONTHLY CREDIT 
+Total Other Subscriber Credits 
+Subscriber Government Fees and Taxes 
+Item Description 
+1 SALES TAX 
+2.42 
+2 FEDERAL EXCISE TAX 
+0 87 
+Total Subscriber Government Fees and Taxes 
+3.29 
+TOTAL CURRENT CHARGES FOR (614)284-1783 
+82.18 
+DETAIL OF CURRENT ACTIVITY 
+VOICE USAGE FOR (614)284-1783 
+Number 
+Only 
+Charge 
+Item Date Time Called 
+Calls To 
+Used Rate Description 
+Charge 
+1 01112 10:32A (610939-3013 
+NEW ALBANY OH 
+2MIN 
+100 AMYL ANYTML MIN 
+2 01/12 05:16P 
+ENCOMiNG 
+II MIN 
+100 ADLYL ANYTME MIN 
+3 01112 05:59P 
+INCOMING 
+MN 
+100 ADLYL ANYTME MN 
+4 01(1310:58A (614)284.1783 
+COLUMBUS OH 
+IAN 
+100 ADLYL ANYTME MN 
+EVT 
+MESSAGE RETRIEVAL 
+5 01113 04.00P 
+INCOMING 
+MN 
+100 ADD1 ANYTME Mci 
+6 01120 0206P (614)306-9685 
+cameos OH 
+MN 
+100 ADIYL ANYTME MN 
+7 0112003:19P 
+INCOMING 
+MN 
+100 ADO'L ANYTME MN 
+8 01/20 0526P 
+INCOMING 
+MN 
+100 A001_ ANYTME MN 
+9 01120 06.04P (614)284.1783 
+COLUMBUS OH 
+MN 
+100 ADD'L ANYTME 1AiN 
+EVT 
+MESSAGE RETRIEVAL 
+10 01124 0856A 614 207-9068 
+cameos OH 
+MN 
+100 ADCeL ANYTME IAN 
+11 01/24 1152A 614 419.0372 
+COLUMBUS OH 
+I IAN 
+100 AMYL ANIIME MN 
+12 012411:56A 614 
+I 
+NEW ALBANY OH 
+I IAN 
+100 ADIYL ANYTME MN 
+13 01/26 09:51A 614306-9685 
+COLUMBUS OH 
+1 LIN 
+1,30 ADD1 ANYTIME MIN 
+14 01/26 09:57A 614 542-4117 
+COLUMBUS OH 
+4MIN 
+100 ADM ANYTME MIN 
+15 01126 05:10P 
+INCOANG 
+21 MIN 
+100 ADD'L ANYTME MIN 
+16 01127 11:18A 614)939-3[03 
+NEW ALBANY OH 
+1 MIN 
+100 AMYL ANYT ME MIN 
+17 our 11:20A 614)419-0372 
+COLUMBUS OH 
+2MIN 
+100 ADD'L ANYTME MIN 
+18 02/02 0156P 614)419-0372 
+COLUMBUS OH 
+2MIN 
+100 ADM. ANYTME MIN 
+TOTAL VOICE USAGE FOR (814)284-1789 
+Charge 
+-5 00 
+-5.00 
+Charge 
+0.00 
+SUMMARY OF CURRENT ACTIVITY 
+FOR 
+Monthly Service Charges 
+Item Description 
+Service Dates 
+Charge 
+1 CALL WAITING 
+01/03106 - 02/02/06 
+0.00 
+r.". 
+2 TEXT MESSAGING PLAN - 0 MSGS 
+01;03/06 - 02/02/06 
+4.99 
+3 CALLER ID 
+01;03/06 - 02/02/06 
+0.00 
+4 EARLY EVENING 
+01/03106 - 02/02/06 
+0.00 
+5 ENH DISCOUNT INTL DIAL 
+01/03/06 - 02/02/06 
+3.99 
+6 MULTIMEDIA MESSAGING $2.99 
+01/03/06 - 02/02/06 
+2.99 
+g 
+CONFIDENTIAL 
+SDNY_GM_00334079 
+EFTA_00206783 
+EFTA01310047

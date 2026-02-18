@@ -1,0 +1,494 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692725_20260130_p042_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 800
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.826294
+---
+
+AcCount Name 
+Account Number 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+Date of Invoice 
+November 14. 2004 
+AraT VVireless 
+P 
+13o120 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+WNW. 
+N91. 0•14 TUN, 
+Cathued 
+OM 
+Clay94
+Casio 
+Ins 
+Rato DONNIMIOn 
+Charge 
+535 MI5 1ROM 
+06 MIA IROM 
+07 W15 MOM. 
+MAJ0M 
+ft 
+I.111 1 
+u.M1145,* 
+IFNI 
+WI 
+IL 
+UV 107$ II 21A 
+109 1025 023.91 
+Di
+relib.01
+"  FL 
+WI 
+Z U 
+41E 
+14,4 
+UMIN14914. - 014081. 
+FM' 
+WIsAwr WIREVa 
+tr . ;0031 r. 
+;ION 
+IRRIV WM. 1Q140111. 
+ION 
+R30 AO"; _ANMIlt PAN 
+513 
+$13 0/2$ 03.II
+W9 
+n 
+1/11. 
+UNIMINDIR Tg 
+MN 
+514 00$ 0341 
+W9NJIBELCXn 
+MN 
+LNUN WEIL TO 
+515 025 03A 
+YNMMBFACMn 
+MN 
+XRIPA001,ANYTIMIIN 
+M 
+m5i OR 
+0/2 01 
+300 MR ANYTIK MN 
+MN 
+A 
+NM 
+03 A00 I. MM.& lel 
+04 
+MIMI WOK TO WOOL 
+Ili 
+174 44 
+04M 
+4 
+=MIMI AMINE LIN 
+MN 
+MO A001 aNYTIII Wo 
+521 045 O. 
+MN 
+MO/ NON lova& 
+522 00
+5
+505 
+MN 
+30) ADM ANYT W WI 
+521 0050521 
+MN 
+330 FOOL ANYTINE WI 
+N 
+MI" I177171 - PROM. 
+M 
+52-6 MTI
+WPALYRACMIL 
+MN 
+AWL MIYMOt WI 
+MN 
+AOCri. WertmE1,04 
+521 0,15 Cs 
+MN 
+X10 ACIC/L ANYTWE WY 
+529 
+ti/ 
+0.2556, 
+0/29 07 
+MN 
+IRO AMYL MIMI; WI 
+MN 
+MRS/ RCM - C7IN50. 
+BI 
+M 
+534 
+'AU ,
+ins coos 
+025 07 
+042507 
+VA 
+R 
+MN 
+MORON, UMW NU 
+MN 
+Mt V MAIL 
+TOW
+UM IA NO 1600
+ vow 
+MM
+303 ACCrl 
+ve WI 
+MN 
+WIN YON TOWEL 
+76 042507. 
+M4 
+UMW MOM TOMS 
+MAMA FUME WI 
+F
+R1yL
+MS; • 
+NM 
+MIRA VOGL TO1/019. 
+W.) 
+1111
+Mil
+ 
+ 
+excLII WILMS 
+M 
+PicAti 
+INN) 1 5 
+to &It 831 
+artMe/4 
+FL 
+MN 
+INCLu 
+wan 5 
+MN 
+NCLUDED INAS 
+542 0475 07. 
+BOYNTON:X/4 FL 
+1•14 
+oICLUOLO ma/TES 
+543 MI5 OR 
+BOYIVICReCRI Ft 
+WI 
+INCLUDE pIMIUTES 
+N4 MOM 
+4400weG 
+M I 
+NCUJOEUWWTES 
+SU 
+SO 
+Si7 
+544 
+Ot04 
+PEA PZrii 
+OUrn WWI. ft 
+Nemirow:414FL 
+MN 
+MN 
+M
+ 
+rm.-Tag. 
+:mg ritql 
+NOW 
+WO 
+549 625 011.05P 
+BOYYTCONCHFL 
+MM 
+INC0J0E01INUTES 
+WI 00504 OW 
+OW 0409,
+BOTNTOMKNFI. 
+orvioriNEL 
+1,1111 
+NaUDEO 'MUTES 
+II 
+64040 
+uNvT 5 
+113
+ 
+th
+/IP 
+/ IP 
+nap 
+NFL 
+VI 
+NFL 
+99 
+1 
+NFL 
+MI: 
+ELIJ 
+61NUT ' 
+U 
+ilNUT 
+WI 
+L, 
+Won 
+•09/41 
+lift 
+MN 
+INCLLIOCOso40T 
+556 
+IMYNTONSCH FL 
+La 
+rictuorompiums 
+P/CONNG 
+NAM 
+WU TES 
+VI 811Z 
+011 0924P 
+WPAMISFACA4 Ft 
+%L
+it 
+MN 
+N 
+is 
+%ENT 
+INN 
+•47.4.5. 1 
+IL 
+it al OW 
+it. 
+PAW 
+" 
+L
+S.C.
+lair 
+ENT
+EVT 
+5.40SAGE RET [VAL 
+MI WS 0103SP 
+WPWAIMA01 FL 
+MN 
+564 CFM OW 
+909470140CH FL 
+EVT 
+mow at 
+ji 404 tj At
+al 
+44,04N2 
+955 
+566 
+04-0. 01M 
+az 
+IST:;22g1Pc 
+WI 
+ITNIM.8 
+UM 
+MN 
+UNWIRED 14W1040 MN 
+VOICE USAGE FOR 
+Number 
+kw Wm Time 
+SIP 
+son 
+SG 
+5 77 
+115 
+571 
+5/7 1070 MOM 
+578 1026 44274. 
+57910175 1q
+563 :02610 
+544 1026 10 
+551 W2401 
+5M 1060501 
+509 1026 09 OlP 
+1
+.450 
+ 
+waini 
+OziP 
+014 
+os 1 19 
+594 WZ6 05 170 
+555 1026 05 15P 
+5% 011ie 
+793 614
+66
+040
+1p
+.111 
+Me OW 
+21P 
+041)
+KO 
+601 
+012646 
+06005sP
+Yp 01606121 
+604 0.606141 
+4 ,11; 
+011 
+W. molf4P 
+pfl
+=Nal; 
+610 060607,0 
+III 0607011 
+II? 026071 
+613 024071 
+414 024075 
+BM 02507 
+07607
+616 
+83'001626052W
+410 !
+6131 
+l gr2.4. A 
+634 102/ 00 
+635 10e77 0551
+194A 
+'OS2   
+005107$ 
+18111 
+077 M2/17
+0K11
+ar03 AP 
+10,1114 
+Continued 
+ONO 
+ChswM 
+Cols To 
+Used Rote Oncdpeon 
+MALMBEr  p. 
+MN 
+MIfflarW1(14 MN 
+MN 
+LIKUD 
+MN 
+MN 
+1,440/11 D (SWAN NM 
+MN 
+Lewin 0-16W100 MN 
+= 
+UN; m T DRAWN MN 
+MN 
+WI 
+WWw4 MN 
+MN 
+WLMT 
+W004 MN 
+4. 4;047 
+PUNS/ MN 
+MN 
+ONLIu Wel TOI.DEL 
+LW 
+LESSA0E RETRIEVAL 
+MN 
+INQUO 0 liNUTE 
+M . 
+0MNIIC471. TO Wel 
+wSSAGE RE:TR CV. 
+MN 
+'NCI 
+' klistnes 
+NM 
+Witte 
+TO wm 
+PI. 
+t: 
+WI 
+Well NON, TO PAM 
+UNW 
+TOW& 
+INCAUOMLIPIUTES 
+E 42gark,Tan't 
+itStgl r,' 
+WI 
+ifel 
+UMW, *cot TO 1•08L 
+Val = 
+1.8 ;Int 
+IWINT0t41101 FL 
+IM 
+INCLUDED MMITES 
+1•4 
+IE.,/ 
+WW1°. 
+It11 
+I 
+L. 
+ROOM 
+tirl 
+INCL 
+(WHOM'S 
+I/Or /smirk"
+MIN 
+/AN 
+NCLUD031400TES 
+MN 
+NO.1.00)14110.1TES 
+11•1 
+NO.I.,10E0INWTES 
+FL 
+MINI 
+O,7, 1...31118 Z8SE 
+R. 
+MN 
+IAN 
+rviraq 
+.41hVW 
+FL 
+Ill 
+A% Mt ti At 
+MN 
+LINUN 
+L 101/0B1. 
+FL 
+MN 
+mom 
+L 1,01,141 
+FL 
+MN 
+ektINNON To 
+WM 
+41041. EQ vittJri 
+NM 
+uletmuo MNJT6 
+M 
+INO.UEO 14/43TES 
+1.10.11,40 41.43TES 
+IIII 
+INOLWE0 MWTES 
+MN 
+UMW LEM TO 1406L 
+ISM 
+1.00.11.1110% TO WOOL 
+(VT 
+c'tlumm'"?
+MN 
+MI 
+MI 
+4? 44004. 
+M 
+WOO NUR To NOV. 
+UNMA140 
+TO Wet 
+ENT 
+MESSAGE RETREvAL 
+El. I, Ait7.1.tcVat 
+CALL 
+oil 
+WI 
+E0 MN/TW6 
+MI 
+MOANED /IMMO WA 
+W1LIAlE561 E1 
+FA 
+ij.ttlgg 'A' 32 "j: 
+uNuirro leWl(NO 1/ 44 
+BOYSITON901 a 
+IM 
+itiatoro ilkUTES 
+MUM 1.109: TO 1/004 
+BOYS. TliggIONFL 
+UNI 
+Nat X0 7.1m/TES 
+WPALiasm
+, FL 
+11•104 
+UNUIIN3f0.10 MON. 
+IEVT 
+/IMAGE RETREvAL 
+Charge 
+EFTA01692766

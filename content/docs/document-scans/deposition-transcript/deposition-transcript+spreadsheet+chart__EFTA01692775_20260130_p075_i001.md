@@ -1,0 +1,558 @@
+---
+source_image: "deposition-transcript+spreadsheet+chart__EFTA01692775_20260130_p075_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 990
+confidence: 1.00
+extracted: 2026-02-13T16:56:53.982235
+---
+
+cingtItt: .3.
+Amain 
+Number 
+Account Name 
+Date of InvoicTI 
+Jury 12, 2005 
+Page 11 of 16 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOP 
+,:ouun no 
+Only 
+Clued* 
+Pal 90 
+MINI Rao OnerrAMIOn 
+Mom 
+M 
+r.kiiii21;L 
+LAN 
+Mini 
+LC ItAkIVIAN 
+LEVI  
+NESSAOC FCRIEVAL 
+VgAlti
+cH
+417. 
+IMP, 
+Malmin) VAN/LB 6444 
+L 
+VAN 
+LMMM
+U
+O %WOW MPS 
+wPALMISACHPL 
+Jun 
+~Am° 
+%AMO) an 
+KCMN 
+1MM 
+liMuM7ED WAWA° II k 
+A 
+ACM fl 
+;al 
+ISANIVOPYAMC PM 
+WPM 
+ACP. H. 
+'MN 
+Win 
+NAMOtt 944,
+norm 
+)04(1. 
+MAN 
+Umwer p MAMOL,P FAM 
+VOICE. USAGE FOR 
+Ones 
+Mai Dm Tem MIS 
+: 
+sm
+ovr/
+81235 rim 
+21
+30I Os
+PaSIS 
+wi
+ll') zit 
+ram. 
+iene Deb Timm 
+m um; 
+334 01/13 10 11113
+0643 MAW 
+M W23 102ZP 
+327 0923 10150 
+374 06123 1021P 
+In 0023 1621113
+3/0 
+3 IP IP 
+3 Mr
+DO P4T0409- I4 FL 
+,IAN 
+umottr 0 LeMtm: MN 
+A32 Walt0e 
+3 Kt P 
+Kor4TONRCH FL 
+1MN 
+Up-WM LOANI(99 UN 
+393 0017111 }P 
+2 0
+31 
+/413°.
+3 II23P 
+.3.40P240 
+p.COUNO 
+OAF WORTH FL 
+L1/4 2ALPABFACH ft
+2MN 
+1 IAN 
+1MM 
+1MM 
+iltumTE0 LiAVALc MN 
+LeaMTED SAMOA) Mkt 
+UNLACTE0 LAMM Mei 
+LNLJA140 .4M%31319AN 
+I: 
+0440
+03471 12101
+144
+13
+396 OW6 12MP 
+MI
+1;4: 
+337 
+3 II 2113
+isCOUNG 
+PAM 
+VLILA49(0 WAWA) MN 
+rept 
+311524 12 17A 
+IMI 
+MOM 
+044.473 0 PAVO-40 UP 
+PALMA AGRA. 
+31404 
+ULAWIMPOMIL mu 
+LI Wil &Tit 
+ALJALM0 FOOL 
+214311 
+LAMM) 
+XAMMQ MN 
+in Z i g 81E: 
+Dv:DPW,
+1MM 
+Lawn 
+%/wpm mh 
+pcOver. 
+Mad 
+Manna AWKI40 UN 
+401 0624 02018 
+341!:
+' 
+4c1 
+4 06/ 4 Cl SZA 
+24 
+4 0/07A 
+IACOPtiG 
+IZALZiAcH FL 
+10.04 
+itat 
+~APED AMP 
+LIN 
+gums ;:2a,
+K2 WM 0203A 
+0. rig syn2 
+LI glal 
+pry
+348 0624 03 13P 
+WPALMBEACH FL 
+INCOMPIO 
+wriummemn. 
+, nu 
+211114 
+IMP4 
+maviburg, YN 
+UMW MOB, TO 
+u 
+MOP 70 al 
+la 
+oC6250
+,e 31 8 i Sti 
+407 =t 
+349 0674 04 Qv 
+INCOMAIG 
+a 
+a A Ra Yali 
+330 0624 al m14
+BOYNTOrecH FL 
+MN 
+41 0M.
+M1OFSA 
+311 01424 0390P 
+wPAI mallE•AHFL 
+}MM 
+ut
+Ularmilj a =V 
+it 
+312 0624 10040 
+BOYNTONECH R 
+2M/4 
+UM MIMEO 'SWAM PM 
+:3 =OR 
+333 0624 
+LAM WORTH FL 
+1MM 
+MILANI f 0 MINIM MN 
+Iiip 
+334 064 1 
+SP
+0
+BO 
+L
+YMTC.4004 F 
+20014 
+OM LA4730 31AVAMO MN 
+i: Sa 
+A 
+3SS OPAL
+2  11 4 
+(MAW 
+WOWED IMMO() MN 
+316 0624 114. 
+MI 002301434 
+) 
+MA
+N 062302 
+14 211
+2 
+tV4)3224442H FL 
+BOYMIOMOCH FL 
+04042 
+P4C0LIN 
+WOAL 
+AGN it 
+IMM 
+IMM 
+12 24
+MN 
+IMMO 
+PAPAW M M 
+WHOM 
+MAYA 
+MIN 
+8z
+IMISMT 
+ktY1 
+aii ;iN 
+1 HIE 
+:I Jig 0 54* 
+1E SIM al M
+)01 0623 
+M 
+%%PA 
+AcH FL 
+UMW 
+P4MK100 MN 
+1 
+WM 04.24A 
+AO regs. 0 %..
+‘ 
+44COMP4C. 
+PPM 
+UNUM730 NAM000 IAN 
+}n 
+rdifi
+gestal la
+.4 , jug 
+SHIM 
+umeaue NMSOfQ Uri 
+WWI t 0 NAM(*) MN 
+11
+411h699 lig
+OLFZ
+a'
+q ,!/ :TrIP 
+$0YraCteetai IL 
+LiMuM110 WWI° MN 
+426 04/29 024W 
+HI 
+80234TOPLum FL 
+bal 
+UNLISATED AMMO MN 
+UNMATED MAVIC41) M PI 
+427 06/26 01I1P 
+Pik 
+WALVEACH FL 
+IMM 
+LAMPATEB .4424010 PIN 
+BOYHTONBCH FL 
+1 MP 
+UNUM7C0 ANLIMO MN 
+in OTTO.  glg 
+in (m421 g1irP 
+VAMOSALPH FL 
+NM 
+MAW) 4r) luvo040 itla 
+6301I
+n
+430 C0/26 0325P
+ALMMACH FL 
+MUI.
+S5V:01Z R1ta Litl 
+431 Wit OW/ 
+3;114112,O5,t 
+00 MT 
+BCH FL 
+2 ule4 
+LINUmTC0 Linvpm mm 
+323 0625 0.933P 
+324 08.2$ 04,021. 
+3,, ow, Oa 22P 
+WA 
+ACH FL 
+Acp n 
+Fi n
+Mbn5 
+=I 
+tit 
+e' gr 
+primtVAM
+L "
+13 Fi 
+r
+MP 
+: gran N.; 
+El) 0623 0124.44
+L&(&102TH F L 
+MAN 
+MM. 
+1...MITI' 0 'MOLY° M Di 
+LIPILMIILD Prves.vp
+ II 
+433 Mr16 OS OP 
+434. WS Of 440 
+370 otgat: 
+WYNTONOCH CL 
+PAM 
+Mann L43 WOMMOIMPI 
+333 Oen. 06 460 
+319015 020SP 
+OCCOMNG 
+21M4 
+UMIPAITO wonc9o4mx 
+IMO 
+PM 0625 (3912P 
+WOMAMEACH FL 
+2MW 
+UNLISTED WHIVID NM 
+El; 
+331 0345 VAMP 
+SO+NTONNGN.I. 
+3MN 
+WIL/mitt) NUPOIDMN 
+442 04M3 
+l 
+Continued 
+One, 
+auser 
+Used Rale Ossalrelon 
+CasTe 
+,F.OEFIR 
+Oa 
+PAM 
+IMIPM7119 PPALAAL my 
+lai
+l illaeal FL 
+("WU"
+ "X"'
+ yin
+pi, 
+UMW 0 64.99401A9 
+^MUD 
+AMMO Mr. 
+Emit its 
+unvigEp nvouno, 
+AW 
+CALL W AP n4 
+LARAMTED 14PAKNOMN 
+WIANAMFACTIFL 
+MA! 
+Umm3E0 KAMM p mI4 
+WILMT69 MAYAN D MA 
+1/4040(0 
+IDOL 
+LIMMIEp •ASIM D m A 
+A163 
+in ....... kM104 MN 
+MCOMMIG 
+MCOMMG 
+MN 
+IIMMTED WPM MM 
+MAMIE,. ItAYM4 MN 
+14COPING 
+PAM 
+UMAVITH MAIM 44.0 
+IMII 
+PALMY 
+MOO MA 
+=112 
+I %Yr 
+MYlAVIOrla
+l %%At 
+ACH FL 
+lull 
+Mr, 
+%MAN IAN 
+,X2134,0433 
+PAN 
+UMMTED MMICNOMN 
+W904.1.43EACH EL 
+Na 
+'MN 
+CROP CALL CREW 
+MAMIE D 11M10101A, 
+WPALIMEACHFL 
+MN 
+IMAMTIO AMIPRO API 
+WE WORN FL 
+MN 
+MAMIE° AMIPRO u m 
+,,„..r  Het 
+MN 
+MAMMY LimvALL am 
+MM 
+MIAMI ED ILAMOMIA4 
+WAVING 
+MN 
+UNtORTED (MUD MN 
+UAL VAMT14 FL 
+MN 
+INLM7E0 IMPL440 MN 
+w.O
+LA
+X 
+w  o
+w r
+W 9 41 Tr 14HI m
+an. 
+W. 
+W.0,419 NWT. 
+MN 
+'ALM! 0 ,LAvem my 
+virMAPAACH FL 
+INCCAM40 
+VIPAMMFACI4 FL 
+MN 
+UM PA 
+AMU MN 
+JAZZWORTH FL
+tNit MAIN FL 
+MN 
+UMW' D kmk
+NaM1(
+442NMitmai
+n 
+WI 
+MOAT 
+WPM MN 
+MN 
+WAWA() Am1040 mm 
+MN 
+toAPAT rMILA 
+PAN 
+t 
+MI 
+R 
+OM 
+UN 
+a 
+WORTH FL 
+MX 
+IMLIA7 O AMICK IAN 
+M 
+U
+M 
+POP 
+KAMM MN 
+WPM IMMACII7L 
+2MN 
+ko
+ktgeg rdinN 
+CF 
+i41442MI
+NCONINO 
+71 
+131
+TOOY
+4com
+NTOPOCIl
+x,  
+Ft 
+low 
+B lit ...
+LA ii,
+UM 
+MCOMICM 
+IMP 
+IMII 
+UMW 
+IIN(Kk MN 
+10811 
+IMAM 
+MM 
+Mri 
+20414 
+Wet 
+0 Pi 
+24004411443 
+PLW4 
+IMF
+M.
+Y/P 
+FOL
+ACHFL 
+MAN 
+UM 
+0 ILMICA LW 
+MESSI1RITRItAL 
+344224.044AACHIL 
+mcom 
+iyil 
+(VT 
+C
+UVAL
+L4LAW14 
+kkArai:
+VM 
+lyatr
+ucACHR. 
+MAN 
+4 Mt4 
+ume4 0 AANK 
+MA 
+D ANAMOIM4 
+INN 
+MAIM 8 War. MS 
+Mr4 
+O. 
+D vs; v. 
+WOMMMACHIL 
+80.11 
+UN
+g 33.1,8,.. 
+WPM unarm Si. 
+FL 
+MN 
+UMMTED IMAIMI) IAM 
+1: 4130:
+101:ACH 
+VIPALMOFACH FL 
+MP 
+IMAM! 0 AMPS MN 
+MM 
+UMW.,  
+it 
+4474 
+YV{ANOCA0411. 
+U 
+NM 
+yaw 
+MW
+EFTA01692849

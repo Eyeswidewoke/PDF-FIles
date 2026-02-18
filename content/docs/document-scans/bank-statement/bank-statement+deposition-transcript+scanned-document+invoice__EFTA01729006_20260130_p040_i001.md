@@ -1,0 +1,311 @@
+---
+source_image: "bank-statement+deposition-transcript+scanned-document+invoice__EFTA01729006_20260130_p040_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 531
+confidence: 1.00
+extracted: 2026-02-13T16:08:04.205877
+---
+
+, 
+Page 
+AIRTIME AND LONG DISTANCE CHARGES 
+Its Date 
+Time 
+CL 
+162 03/18 10:24PM 
+163 03/18 10:25PM 
+164 03/18 10:27)44 
+165 03/10 10:28PM 
+166 03/18 10:31PM 
+167 03/18 10:36PM 
+168 03/18 11:01PM 
+169 03/18 11:56PM 
+170 03/18 11:58PM 
+171 03/18 11:59PM 
+172 03/19 12:02AM 
+173 03/19 12:03AM 
+174 03/19 12:17AM 
+175 03/19 12:62AM 
+176 03/19 12:54AM 
+177 03/19 12:59AM 
+178 03/19 01:08AM 
+179 03/19 10:18AM 
+100 03/19 01.44141 
+181 03/19 02:27PM 
+182 03/19 04:13PM 
+183 03/19 04:50PM 
+184 03/19 04:53PM 
+105 03/19 04:54PM 
+106 03/19 04:56P/4 
+187 03/19 05:05164 
+188 03/19 06:56PM 
+189 03/19 07:02PM 
+190 03/19 09:09PM 
+191 01/20 12:21AN 
+192 01/20 12:24AM 
+193 03/20 12:25AM 
+194 03/20 12:25AM 
+195 03/20 12:27AM 
+196 03/20 12:211AM 
+197 03/20 12:36AM 
+198 03/20 12:57AM 
+199 03/20 03:15AM 
+200 03/20 03:17AM 
+201 03/20 03:50AM 
+202 03/20 00:56AN 
+203 03/20 08:57AM 
+204 03/20 11:12AM 
+205 03/20 11:18.414 
+206 03/20 12.533014 
+207 03/20 02:07PM 
+208 03/2D 01:39PM 
+209 03/20 05:20PN 
+210 03/20 05:21P54 • 
+211 03/20 05:23➢! 
+212 03/20 05:24PM 
+213 03/20 05:25PM 
+214 03/20 05:28PM 
+215 03/20 05:29PM 
+216 03/20 05:31PM 
+217 03/20 05:54144 
+Account Ember: 
+Billing Date: 
+mobile Number: 
+Mobile User: 
+Total Mobiles: 
+CHARGES 
+Length 
+City 
+of 
+Air 
+Long 
+No. Called 
+Called 
+P P Call Time 
+Diet. Total 
+PALM FL W 
+I CL W 
+NCOMT CL W 
+NCOMI CL W 
+NCOMI CL W 
+PALM FL W 
+PALM FL W 
+PALM FL W 
+PALM FL 41 
+NCOMI CL W 
+PALM FL N 
+PALM FL M 
+NCOMI CL 
+PALM PL W 
+PALM FL W 
+PALM FL M 
+YTON FL 14 
+PALM FL 
+NCOMI CL 
+NCOMI CL 
+PALM FL 
+PALN FL 
+NCOMI CL 
+NCOHI CL 
+NCOMI CL 
+I CL 
+PALM FL 
+NCOMI CL 
+I CL W 
+CE CL W 
+ICE CL W 
+' PALM FL W 
+NCOMI CL W 
+PALM PL W 
+PALM FL W 
+PALM PL W 
+PALM FL M 
+NCMI CL 14 
+NCOMI CL V 
+NCOMI CL H 
+PALM FL W 
+PALM FL W 
+ROAM CL R 
+NCOMI CL R 
+°AMER CL R 
+NCOMI CL R 
+NCOMI CL R 
+OAMER CL R 
+°AMER CL R 
+2R CL R 
+NCOMI CL R 
+GAMER CL R 
+GAMER CL R 
+NCOMI CL R 
+OAMER CL R 
+°AMER CL R 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+2 
+0:00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0:00 
+2 
+0;00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+EFTA01729045

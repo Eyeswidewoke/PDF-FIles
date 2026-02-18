@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CONNECTION MAP | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260213-datasetlinks" />
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header class="hero">
+    <h1>CONNECTION MAP</h1>
+    <p class="subhead" style="margin:0.5rem auto 0;color:#6f665f;max-width:70ch;text-align:center">
+      Dedicated relationship map workspace with timeline, cast, file explorer, and in-page file viewer.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+    <nav class="hero-nav" aria-label="Map page links">
+      <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#5e4732,#3f2d1f);box-shadow:0 4px 14px rgba(94,71,50,0.32)">HOME &rarr;</a>
+      <a class="hero-nav-btn" href="./search.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900);box-shadow:0 4px 14px rgba(125,77,0,0.32)">ADVANCED SEARCH &rarr;</a>
+      <a class="hero-nav-btn" href="./cast.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916);box-shadow:0 4px 14px rgba(211,93,44,0.3)">CAST HUB &rarr;</a>
+      <a class="hero-nav-btn" href="./timeline.html" style="background:linear-gradient(125deg,#546e7a,#37474f);box-shadow:0 4px 14px rgba(84,110,122,0.3)">⏱️ CASE TIMELINE &rarr;</a>
+      <a class="hero-nav-btn" href="./navigator.html" style="background:linear-gradient(125deg,#1a237e,#0d1452);box-shadow:0 4px 14px rgba(26,35,126,0.3)">🧠 MIND MAP &rarr;</a>
+    </nav>
+  </header>
+
+  <main class="grid">
+    <section class="panel mindmap-panel">
+      <div class="mindmap-head">
+        <h2>Connection Map</h2>
+        <button id="clearMapBtn" class="ghost-btn" type="button">Clear Map Focus</button>
+      </div>
+      <p class="hint">Click a node to filter related artifacts below.</p>
+      <div class="mindmap-and-sidebar">
+        <div class="mindmap-wrap">
+          <svg id="mindmapSvg" aria-label="Connection map"></svg>
+        </div>
+        <div id="mapSidebar" class="map-sidebar">
+          <div class="map-sidebar-empty">
+            <p>👈 Click a node on the map to see connected items here</p>
+          </div>
+        </div>
+      </div>
+      <p id="mindmapMeta" class="result-meta">-</p>
+    </section>
+
+    <section class="panel explorer-panel">
+      <div class="explorer-head">
+        <h2>FILE EXPLORER</h2>
+        <div class="filters">
+          <input id="searchInput" type="search" placeholder="Search path, label, note..." />
+          <select id="collectionFilter"></select>
+          <select id="sourceFilter"></select>
+          <select id="sortField">
+            <option value="modified">Sort: Date</option>
+            <option value="label">Sort: Name</option>
+            <option value="category">Sort: Category</option>
+            <option value="size">Sort: Size</option>
+          </select>
+          <select id="sortDir">
+            <option value="desc">Desc</option>
+            <option value="asc">Asc</option>
+          </select>
+        </div>
+      </div>
+      <p id="resultMeta" class="result-meta">-</p>
+      <div id="artifactList" class="artifact-list"></div>
+    </section>
+
+    <section class="panel timeline-panel">
+      <div class="timeline-head">
+        <h2>Timeline Viewer</h2>
+        <div class="filters timeline-filters">
+          <input id="timelineSearch" type="search" placeholder="Search timeline events..." />
+          <select id="timelineYearFilter"></select>
+        </div>
+      </div>
+      <p class="hint">Chronology parsed from timeline markdown files.</p>
+      <p id="timelineMeta" class="result-meta">-</p>
+      <div id="timelineList" class="timeline-list"></div>
+    </section>
+
+    <section class="panel characters-panel">
+      <div class="timeline-head">
+        <h2>Cast Viewer</h2>
+        <div class="filters timeline-filters">
+          <input id="characterSearch" type="search" placeholder="Search cast..." />
+        </div>
+      </div>
+      <p id="characterMeta" class="result-meta">-</p>
+      <div id="characterList" class="timeline-list"></div>
+    </section>
+
+    <section class="panel detail-panel">
+      <h2>Selection</h2>
+      <p class="hint">Select an artifact to inspect metadata and open the file in the viewer.</p>
+      <dl class="kv-list detail-kv">
+        <div><dt>Label</dt><dd id="detailLabel">-</dd></div>
+        <div><dt>Path</dt><dd id="detailPath">-</dd></div>
+        <div><dt>Category</dt><dd id="detailCategory">-</dd></div>
+        <div><dt>Source</dt><dd id="detailSource">-</dd></div>
+        <div><dt>Size</dt><dd id="detailSize">-</dd></div>
+        <div><dt>Modified</dt><dd id="detailModified">-</dd></div>
+        <div><dt>Note</dt><dd id="detailNote">-</dd></div>
+      </dl>
+      <div class="detail-actions">
+        <button id="copyPathBtn" class="action-btn" disabled>Copy Path</button>
+        <button id="openPathBtn" class="action-btn secondary-btn" disabled>Open In Viewer</button>
+      </div>
+    </section>
+
+    <section id="viewerPanel" class="panel viewer-panel" hidden>
+      <div class="viewer-head">
+        <h2 id="viewerTitle">File Viewer</h2>
+        <button id="closeViewerBtn" class="ghost-btn" type="button">Close Viewer</button>
+      </div>
+      <p id="viewerMeta" class="result-meta">-</p>
+      <article id="viewerMarkdown" class="viewer-markdown" hidden></article>
+      <pre id="viewerText" class="viewer-text" hidden></pre>
+      <img id="viewerImage" class="viewer-image" alt="Viewer image content" hidden />
+      <iframe id="viewerFrame" class="viewer-frame" title="Embedded file viewer" hidden></iframe>
+    </section>
+  </main>
+
+  <script src="./app.js?v=20260213-navroutes" defer></script>
+</body>
+</html>

@@ -1,0 +1,401 @@
+---
+source_image: "deposition-transcript+invoice+bank-statement__EFTA01692476_20260130_p048_i001.png"
+source_pdf: "EFTA01692476.pdf"
+method: pdf_text
+words: 749
+confidence: 1.00
+extracted: 2026-02-13T16:47:03.497650
+---
+
+Date of Invoice 
+November 18. 2004 
+Account Number 
+7 
+AT&T Wireless 
+Page 6 of 6 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+Monthly Usage Charges • Generate' 
+Ites baseseckin 
+7 SNARED INCLUDED MINS 
+(I ill INFO 
+Total thembly Map Chimps 
+le24 aloft, One " anaemia One 
+Taxes, 5:r/charges and Regulatory Fees 
+term Chmeripleen 
+I UMW/15AL CONNECTIVITY CHARGE 
+2 FEDERAL TAY 
+3 LOCAL COM/A SERVICE TAX 
+4 COUNTY 911 TAX 
+5 STATE COMM SERVICE TAX 
+Total Taxes. Swahili, Old brief wry Fen 
+TOTAL CMAINIES FOR 
+Ont. Used 
+11.1 MIN 
+2 ENT 
+a -v. 
+000 
+lmt 
+Ito 
+Charge 
+0.78 
+0.78 
+0.30 
+0.60 
+—212 
+4.117 
+39.41 
+DETAIL OF CURRENT ACTIVITY 
+VOICE USAGE FOR 
+Number 
+Um OMR IMO 
+1 10110931* 
+1011039Y 
+1 v0/10 0251 
+rono 04320P 
+5 '0720 7115P 
+'0/21 02 110 
+7 'OD 0734P 
+It 10/73 031477
+4 1075 7201P 
+I) 40/25 07 3. 
+it 70775 72 Ile 
+Ii :02912 X0 
+73 10/260607P 
+74 '09107114 
+15 '07/ 12 7147
+'0001 471 
+'407211 110. 
+L 
+rcy.ty 7474 
+17 1071 74134 
+i?12;11 
+:cr., 
+anon 
+73 7070 3706* 
+74 1
+0 73:3144 
+25 IM
+07
+O 110M 
+25 PW9 17407
+21 IMP 013 WP 
+Calls To 
+WPMAI 
+WPAM 
+FL 
+WPALM 
+3.01FL 
+WPA74146EACI4 FL 
+WPAMMA04 FL 
+WPA,MPEACH 71. 
+Only 
+Chi, 
+Used Rate oesaipuon 
+mama 
+MN 
+=COV
+VT 
+EN TOMOS% 
+MN 
+SMARM ANY/ Mr MNS 
+MN 
+SHARED ANYTME 1045 
+MN 
+SWAM, MLNSL 72 0901. 
+ME”
+S"MOliajeirVT:A "
+NPA7.78EACH ft 
+f1ii 
+samati Vick ?blear. 
+EVT 
+mESS.441 p7 Oaf on.
+M
+niece... K.' 
+MN 
+SWAM Wnalf/WEEKE140 
+INCOMP/54 
+INN 
+SmActrO sveThit AI 
+iliCartIt. 
+MN 
+5/444/8)1403L TO 61051 
+14:07174 
+MN 
+SHARED AWT14( MKS 
+WPALIPSEACH Cl. 
+MN 
+90.06177.0747.19 700L 
+EVT 
+PASSAGE 17- 11753VAL 
+WPW4BEACI4 FL 
+MN 
+SNARED/KAM 1p113b. 
+wP A, i Winn. IL 
+MN 
+a tare"..W4?Itt111. 
+CPT 
+"WSW( InTMCV41. 
+WPALMOIA04 fL 
+MN 
+'SPEND MAL, IV M.14:4. 
+EVT 
+WESSACC INTRIEVAL 
+MCCINAG 
+MN 
+9741171.4/47TMF NAM 
+v=
+ifia cii a  
+MN 
+SNARED WINE LOG 
+IAN 
+SHAR 0 37441 00 MN 
+37441M MN 
+PIS 
+Ft 
+Mt 
+WP 
+FL 
+MN 
+1 
+WPAMOMAC14 n. 
+WPALMBEA01 
+EVT 
+Ear
+rt 
+aim 
+VOICE USAGE FOR 
+Number 
+Nem Dam Timm Called 
+26 1044 71 42P 
+n 131779 07.11P 
+PO 53430 02000 
+r arra meta 
+10101(7756 
+371 1000 17607, 
+24 1077 WO* 
+35 477147 02 MP 
+IA 1070 021440 
+37 130
+1 1
+3 03.6j. 
+M 137
+177.44. 
+30 1041111,31* 
+40 10'3112230 
+4! 10/31 12:4M 
+2 1001 12.424. 
+44
+10131 125SP 
+1071 1210 
+a 
+Wig 
+11 11/01 11MA 
+a 11/01 I 1MA 
+4011001 02710 
+SO 11/01 Sine 
+SI 11/01 067305
+$211/01 MTV 
+U nk1
+410 
+55 11/41 Ea; o 
+66 1171 044 SIP 
+S1 11/60 01140 
+M 1VM 01130 
+SI 1702 04:140 
+II 114010t020
+03:220
+11/04 0104P 
+SI 1004 OP210 
+04 11/05 WMA 
+ist 
+nw 
+44 11105 01.54P 
+a lie al4 
+70 Da 04 be 
+113 
+T1 1110111041M 
+1M3 
+11 NAM 1174A 
+PS 11a 12.090 
+70 110, (24:44, 
+77 Wm 03079 
+70 11/0102005
+11/03 OLIO; 
+le 11M, 02.14P 
+13 RIF 
+I 
+p 
+- Continued 
+Oat' 
+Charge 
+Calls Te 
+Wed Pa Dineell° 0  
+<Paige 
+WPM,. 
+MN 
+SHA35077111141/45 
+PAP a8 10C441, 74t raa47 
+1.41
+,44  i 
+1, Tig,'FiK tr rNI 
+5.41.44310C7ITAITTKENO 
+UMESVILTOEF2 
+44650/1SE RET91EVAL 
+UM 38.1CODIN3 
+xil
+tir)MaTtlf M 
+Vit
+ ‘,3„„M„G ;811830
+ED ........ TO MOM. 
+SUSE RITPEVAL 
+5477/147.01717( WM 
+F
+CALL tcp
+Wonn
+a lic7, fit  wimp.,
+Cig 
+Ann rim; 
+Rea , norm Leg 
+/30.311 MO. 
+460,577.96 OtTNEVAL 
+SNARED 1400L4ral 
+fl ea& AS% M. 
+VD NY1 
+hens 
+SNARED NO& T 
+WOOL 
+SNARED no454 TO MOIL 
+SMARFD NM. TO VOX 
+SK41117 ANTIML MM 
+51M° 7.71371.44 MUM 
+p.PER NOV 1000001 
+WS.S.44E REPRILVAL 
+11144777 44943; i 9 mat 
+114547474 nit 
+1VAL 
+SHA 
+i NOMA'
+"2 
+/NTT 
+:4 
+ANYM4 667 
+MESSAGE PSTOIVAL 
+ItrAn3:sk 
+.417PMM
+AUTOi
+li 
+MN 
+MN 
+12 
+WPAIC 
+MN 
+NPALM 
+NP 
+f t 
+tan 
+nPALAIR 
+n 
+MN 
+WPPWMMLiL
+MN 
+MN
+MN 
+MN 
+040000E 
+MN 
+MN 
+Ft 
+FL 
+MN 
+FL 
+1 1674 
+OMINGL 
+MN 
+MN 
+VT 
+WPM*4IFAOI FL 
+NI 
+INCOU010 
+MN 
+EvT 
+zt5
+4701)4XLI4
+N4
+MN 
+WOMMS 
+-41. 
+WPALMSEACI FL 
+MIN 
+WP/MWEAC4 ft. 
+WPIJ IIAOi EL 
+MN 
+W171741446074 
+WPAUABIA04 fL 
+LPN 
+WPAIIASEA‘l 11. 
+Ifs 
+CAP1104HTS 44D 
+1M4 
+WPAPOPEAC4 Ft 
+MI 
+yr 
+WPAUMPAQI Fl 
+1654 
+W•
+3
+0:V 
+R
+ual 
+EY( 
+M
+e.r.4t 
+en 
+SN 
+WPALNIMACJi IL 
+1447 
+VI 
+WPAINSELDN FI. 
+1 UN 
+MN 
+rt 
+Mel 
+FL
+ 
+MN 
+vwAL.
+A417.01Ac
+ACP4 
+. oit 
+MN 
+id 
+WPALIMICACV fL 
+MN 
+WPAL14067.04 Ft 
+MN 
+WPALMOTACH IL 
+MN 
+WP4740474Cm 
+CmFL 
+MN 
+ONAS 
+ALMMACX FL 
+VW 
+70 MM. 
+TO 7/001 
+*PAM; h!GifTHIECPCNO 
+MI %MCI RtIMIVII 
+yN4PS,tt  MAIM 1ANS 
+MM 
+:44R6 
+1.1010 14415 
+51 
+SW.EEON IUD 132 
+SNARE 
+S 
+SHARED MOS-TOW& 
+FEB 
+ig.012DIA 
+I
+544440 MOM TO MOOL 
+EFTA01692523

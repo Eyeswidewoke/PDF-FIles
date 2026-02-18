@@ -1,0 +1,560 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p030_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 970
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.918241
+---
+
+riCingukr 
+Ala Wireless 
+Account MS 
+AeonsNem 
+Date of invoice 
+Fabwary 12. 7005 
+Page 10 of 16 
+DETAIL OF CURRENT ACTIVITv CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE_ I CP 
+Mater 
+Ilan On. TMs Called 
+201•107/0211/4 
+303 01020116P 
+gi
+NO Ol09 00 
+OWE. 
+rn ow, oz4r 
+M 2Si !in; 
+2101 01/22 03201
+M OIM 
+no 01/23 042 
+999 01/2Z 04 MP 
+c6p0 Fin it
+A4 tinz 05170 
+A6 01/22 OSAIP 
+AI 010.2 000.2P 
+307 Own 0414p 
+301
+8
+011 Amp 
+r
+I1
+I 
+0 IP 
+t 1.100 30 
+01 
+313 01/22 002TP 
+311 01/22 0017P 
+31$ 0102 0647P 
+1 
+irtsf, 
+ato 
+1 n 
+1 
+0904P 
+141 01/ 
+I no* 
+091CP 
+fli 0M
+A  
+2O: 
+S 
+El IM 3;11'
+326 CI 
+091.0/ 
+III 
+7 01/72 00700 
+0102 • `IP 
+9 01 
+I 
+41P 
+311 01/72 1 1"
+331 0102 1E
+lit 8E3i RE: 
+1,1 mill,lg 
+S El Si lir; 
+; El 0143 0237P 
+frti 
+t 
+st 
+• Coat:mai 
+II VOICE USAGE FOR 
+Only 
+ChM* 
+0 
+.. 
+Maim 
+CM To 
+UM 
+Rate 040401pden 
+awry 
+, lime DM Time 
+91CON/001 
+1110044.4 
+USN 
+OMANI' CO tele4M)M1,4 
+SAN 
+ALthinD thYrIAD mt. 
+VI 
+WSS500 
+RETRIEVAL 
+II 111Ell 
+. 
+WPAIMEACH11. 
+IAN 
+UMAITEDAVM401.0. 
+04 
+GOYNTOI• FICH Ft 
+I MN 
+WAFTED N.W.V01.41/ 
+1. 
+1S2 OM 056CO 
+MAIM 
+61/1 
+MAIM NWOO IAN 
+it 313 01/2306119 
+NvinoMii Pl. 
+WI
+ 
+ULUMTEO AMMO UM 
+. 
+3511 01•23 OIMP 
+WPAME4C1IFL 
+MN 
+.0.• Avi ON 
+DOVNTIAMI• A. 
+IIPPI 
+IMAITLONhnin 
+1 la il 
+Is  i t; 
+DT 
+YALSAGE Fcentrak. 
+li A3 01Z3
+ 
+MN 
+UMW M4 11/01149 MP 
+IN:CMG 
+MANIA 
+1.4•1 
+Wilma° %we. MP. 
+I. 
+360 =TOP 
+MAKING 
+WM 
+UMAMITEp P4/Welp la 
+LO1 
+MUM( u ?WPM° Mb 
+ 30 60.111:1 
+EVT 
+Cat YeAliNG 
+ri„,•041,11PL 
+a 
+ummIPONAV4,601A. 
+KreNToN 
+NFL 
+a 
+MIMES 11,=. 
+erS NI OR 
+NFL 
+WM 
+!i 
+311 i,v2,1 ill 
+01o0NPA 
+,N0004040 
+MN 
+IMMO IWO* MP 
+WM 
+LIWIATrn N.W043114. 
+p X4 01124 01 141
+0101/A 
+WIN 
+LAMM 0 NA1.0100 AP 
+PO WO/4KM FL 
+1 WI 
+l/ALIM11014MMNUMh 
+I! oryttz 
+APAtinEACK a 
+AN 
+104/VIICO *MVO Mn 
+EVT 
+liFsSAGLIATAEVAL 
+197 01/t4 04310 
+APAMBEACIMPL 
+WI
+EtIT 
+leitra
+Plicniirat"
+ 
+1 
+366 OWl 0.1.10 
+I. 
+0SSrg ISS 
+/401 
+IMMIED 11.W010 140 
+II 3/1 0122. 1101P 
+IAN 
+MAIN 0 NW0y0 IAN 
+AM 
+UhlINITF 0 N.WC401.116 
+AN 
+I; M 81.22: Mg 
+374 01.04 11:11P 
+. 
+FliginTS:=2:Z 
+MN 
+UMMTEO N.W04) MN 
+1 
+375 01.01 11:1PP 
+MN 
+1044/11E 0 KW4/40 WI 
+4I 
+W4 
+ukuraTE0 AwOMAN 
+.1 376 01/34 11 
+'12 
+filtliE811=EZ 
+: 
+SM
+' ii 
+°in' 
+• i 
+MN 
+IntIM I% 4, NW 
+Is I 
+11 
+i 
+WI 
+UMW, MO N. 
+IAN 
+1.71. 
+WI 
+01.1w0C et 
+IA 
+WI 
+UALM11, NW 
+M 
+il 
+MN 
+uhumit N.Y.• 
+>UM 
+MIN 
+tIMMITED NMI< 
+Mk 
+MN 
+W.W.II-EC N.WMD UM 
+WIN 
+UX10/1111)NMM/01/1h 
+I ' I bE 
+MN 
+LAMMED MM.KPID UM 
+.' 30$ V21. 
+AZP 
+VIN 
+trAWITEONAV010 AN 
+IAN 
+UNLINITION,V3 LIN 
+MN 
+ORMOLU NM 
+IMn
+INN 
+IMO IIIMCI, NW 
+IA 
+:.:. 1
+ 
+25
+V2;1116P
+ri : 
+MIN 
+UMMITTEM4M/4
+/11. 
+.! i 
+Wt is
+MN 
+undlit0101/m /a 
+IN 
+W.L.M.Ttl. I.11.10ip MN 
+r. 
+"26
+W6 r,.. 
+01 
+INIUM 4 rWCHIN MX 
+Ft 
+WI 
+UNLAIMED IWIPOI Mk 
+4 
+MIA 
+IIIII1Mli 
+WW1. 
+1141/04 NM 
+'1 18E2IiI 
+ft 
+MS 
+UMWTED WNXPO Nth 
+.1 
+? Ola. - 3. P 
+NM 
+Mum , WAWA l/P• 
+MIN 
+UtitillITENN000110 
+MN 
+uniumar WIIKAI)Mik 
+' Z SI& glig,' 
+'. A3 Q!M 
+034SP 
+1414 
+UtILIMTE0 IIINXIIk mt. 
+• 
+MESSAGE REIRCVA 
+• 
+AI 01/11. 10APP 
+MN 
+0NtILIPEC MM/O%) AN 
+.; ex OUP II AP 
+U
+MI 
+MATE C 6900,70 in 
+, 
+403 01/24 11.610
+0.114 
+Ntilli120. KAMM) AN 
+MN FL 
+PM 
+i.114.1012C NM/040 Ito 
+• 
+404 Oltii 170)A 
+f, 
+ADS 01/71 07:1IA 
+WPANIBEACI. 
+POYNTOWC11 FL 
+ger
+FL
+in .4V rtFL 
+30911100304 ft 
+OEIRAT IAN FL 
+BOYM
+CAtt ONOCII FL 
+11
+a
+iNk j.
+WP/1! 
+MAN 
+Ha 
+11006•6•0109 Pt 
+110010VOICH FL 
+M.RAT PCHfk 
+WPAIMIELCN It 
+11/PALVB ACK Ft. 
+INC CM 
+!gnarl. 
+A 
+'WFµMBEACNEt 
+WPM %OMAGH FL 
+MAPPLIMACH EL 
+ONO.; 
+INCONING 
+01C014040 
+INCOIIMG
+0
+m
+00.4 
+ON, 
+no m 
+C000000 
+Cas 
+they 
+Gap 
+To 
+Used Rote 0•60•IPMca 
+NFL 
+1.0 
+IAN 
+I. NulaTI 4610041 MN 
+t 
+1
+N 
+1.011MT 
+MAIN MN 
+RIAN 
+LIIVI41 
+NAMM Ns. 
+=a 
+INN 
+I. AMU unA040 MN 
+1 klut 
+Ultimit MAUL MN 
+ES= 
+It. 
+INN 
+I. ••10.11 0 NMXIC MN 
+INN 
+LIAM 0 NAY101C 11111 
+TNTO119411FL 
+INN 
+LNIA130/0600•10/.414 
+0.04 
+t KNATE0 0.00040 MN 
+MAL 11=1 f I. 
+INN 
+80arier AlIZTLUIVLIN 
+10/1 
+614.11604
+94 R. 
+',MN 
+wan 
+NAACNIAAN 
+FL 
+INN
+al4 r c 
+Nn 
+inn 
+NE SAOL emisvm: 
+WO ALIMACH F.. 
+INN 
+3606001. anntE MN
+&pawn: 
+MN 
+XOPOIOt MINE PIN 
+WPALIOWACH FL 
+MN 
+V11.16 We. TO Ineolt 
+131 71 
+X06001. /NAVE ION 
+414121Z'at 
+ht "
+WPAUMEACIM. 
+AM lid 
+vsA . :LT% ul
+Aii
+til 
+No• 
+T 
+Ma 
+ACOLING 
+MAN 
+306001. MAW NM 
+• COPANG 
+MN 
+MINTED 14/WMIO MN 
+ex...00A M.. 
+2M.14 
+°Nano wisp MN 
+WPANIICACH Ft 
+MN 
+UN I.e.010 PAIMA MN 
+Wea
+r ONIANFL 
+MN 
+UN.INTFO vItY1M MN 
+NG 
+MN 
+ARMED TAFRND MN 
+MAFIA 
+MN 
+call 
+vataWMnio 90: 
+WWK/I0 MN 
+1CYT 
+MOPING 
+714/4 
+io 
+tler
+CILLwth9 AMMO MN 
+ING 
+VNTONOCHFL 
+10I NN
+in  
+I.Ia
+UN
+TtO Mit0.0 NM 
+P00AMPA 
+11611 
+XON)01.ftlYTME IAA 
+APPUNEACI4 FL 
+11101 
+MLA Ida TO VOIR 
+INT 
+MMAGE PE •ALTAL 
+WPAUMfAcI.I Fl. 
+I MN 
+WPMMOIL TO 0016. 
+:19
+"O1111 
+l 'ag 
+2 120j1.° 111781641 1,491 
+11.4 
+/6.1/11.0 diOMO/ 
+'2 4211V HP 
+INN 
+tg V: . ziG, ia
+vn,Volreita l t 
+241111 
+AM 
+31•M 
+9332K ftiTir 
+WP
+IKarttEACH Ft 
+AM 
+ALLUDED MATES 
+WPANBEACHFL 
+MN 
+101503.418T p.2 st
+MOPING 
+MN 
+MANIRACH FL 
+INN 
+°AIM 
+1490.1705 
+wall ACM Pt 
+MN 
+INFIII 
+1100.01 
+&CPA 
+00.000119CN FL 
+10141/4 
+OLIN 
+Mt 
+141,41 .1f 
+WPAINEACH Ft 
+AM/ 
+tti 
+111/40'61 
+MN 
+11001 MIMS 
+1131117011901FL 
+21.111 
+MOND 
+III 
+111414111$ 
+WPMMITIP401 IL 
+INN 
+I. haw ma To scot 
+INCOIAM 
+PEW 
+14FSSAOt PETRAM 
+WPALIFOLACII FL 
+rpc040003 
+l"
+ 
+:V8/8 
+1391 
+IMPILIAREACNA. 
+MN
+1'244 
+Itta 'affitti4011.4•4 
+INCOMA 
+IMP 
+t AIMED MANIMN 
+WIT 
+MESSAGE PETRIFY/1 
+WPAIMEACII EL 
+I140. 
+1. YUMTCO INONO MN 
+WPMUW.1CH Ft 
+101.09 
+I. 9111,371E0 MOND API 
+BANTONFICIIFL 
+Ills 
+L NUN Mit TO %KAI 
+aline 
+EFTA01692804

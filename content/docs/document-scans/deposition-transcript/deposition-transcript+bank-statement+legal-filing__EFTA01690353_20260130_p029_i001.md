@@ -1,0 +1,440 @@
+---
+source_image: "deposition-transcript+bank-statement+legal-filing__EFTA01690353_20260130_p029_i001.png"
+source_pdf: "EFTA01690353.pdf"
+method: pdf_text
+words: 534
+confidence: 1.00
+extracted: 2026-02-13T16:20:18.267384
+---
+
+MIAMI 
+cingular 
+WIRELESS 
+Page: 
+28 of 43 
+Billing Cycle Date: 
+12/1 
+.01t14105 
+Account Numbor: 
+Wireless Data Detail 
+Continued) 
+User Name: 
+Rate Coda RSDI-RONP 600 UMM morw 
+Rate Paled (IlcLp P-Peak,O-Off Peak, N-Nights 
+Ponta: BaDireci Atti Call Complete; CwCall Ming; DeData Call; FCall Pow..ding; fleOroup Mobile to Mobile Calls; 
+Isilmeomiag Call: K0Fax Call: MisMobilc To Mobile Mk-0mM PwPriority Amass Service: R
+oom With Home; 
+SuShsecd Minims; TwIlecc Way Calling; WeNights and Weekends 
+item 
+101 
+Day 
+ Date 
+01/04 
+ Time 
+To/Fr• 
+01,20YM 
+Type 
+M 
+OTHER MORILII 
+g/KB 
+Mug 
+Rate 
+Rate 
+Fea- 
+Code 
+Pd 
+two 
+140121 
+Incoming/ 
+Total 
+Dutgoing Charge 
+Out 
+0.10 
+102 
+01/04 
+01:231M 
+OTHER MOBILE 
+Meg 
+2001 
+Out 
+0.10 
+1.2 
+01/04 
+01.149M 
+01DEN MOBILE 
+Mg 
+ROD1 
+Out 
+0.10 
+104 
+01/04 
+01,13111 
+OTTER MOBIL)! 
+Mao 
+2601 
+Out 
+0.10 
+166 
+01/04 
+02:109M 
+OTHER M00112 
+Keg 
+R8171 
+In 
+0.10 
+106 
+01/04 
+01.11114 
+OTHER NOZZLE 
+Msg 
+2301 
+In 
+0.10 
+107 
+01/04 
+02:11PM 
+OTHER MOB118 
+Mn 
+2301 
+in 
+0.10 
+100 
+01/01 
+02/04 
+02,22114 
+02,49PM 
+OTHRR MOBIL1 
+Mug 
+2501 
+in 
+0.10 
+109 
+grill 
+100202 
+hag 
+8501 
+Out 
+0.10 
+19D 
+01/04 
+01/04 
+01.48PM 
+04.05VX 
+OTHER MOBILE 
+2301
+In 
+0.10 
+191 
+OTHER MOSIL2 
+Mug 
+REDS 
+Out 
+0.10 
+192 
+01/04 
+05.3331 
+mom MOBILE 
+Meg 
+8501 
+In 
+0.10 
+103 
+01/04 
+00,24PM 
+CIRCULAR NOR 
+Mag 
+2501 
+Out 
+0.10 
+194 
+01/04 
+00:157X 
+CIRCULAR NOR 
+Meg 
+RSD1 
+In 
+0.10 
+19S 
+01/04 
+00,20PM 
+CIRCULAR MOB 
+Nog 
+2201 
+Out 
+0.10 
+296 
+01/04 
+00,27)M 
+CINGOLAR HOB 
+Mg 
+2501 
+In 
+0.10 
+297 
+01/04 
+05,19114 
+CIRCULAR MOB 
+Mg 
+RSD1 
+Out 
+0.10 
+198 
+01/01 
+08,40PM 
+CIRCOL.IR MOB 
+Mg 
+8501 
+In 
+0.10 
+299 
+01/04 
+09,13110 
+CIRO:71AR MOB 
+Mg 
+2501 
+Out 
+0.20 
+200 
+01/04 
+04,141M 
+CIRCULAR MOB 
+Mug 
+RSD1 
+In 
+0.10 
+201 
+01/04 
+09,15PM 
+CIRCULAR MOB 
+Rag 
+2501 
+Out 
+0.10 
+202 
+01/04 
+09:10PM 
+CINOUIAR MOB 
+Meg 
+AS01 
+In 
+0.20 
+203 
+01/04 
+09,27PM 
+OTNER MORILit 
+Mg 
+RSO1 
+in 
+0.10 
+204 
+gad 
+01/05 
+01:53AM 
+OTRZR MOBILE 
+May 
+AS01 
+In 
+0.10 
+205 
+01/02 
+01,59AX 
+OTHER MOBILE 
+Mg 
+2501 
+Out 
+0.10 
+206 
+01/OS 
+02:00AM 
+OTHER MOBILE 
+Mug 
+2501 
+In 
+0.10 
+207 
+02/05 
+01109AM 
+CIRCULAR MOB 
+Mpg 
+RS01 
+Out 
+040 
+208 
+01/05 
+02,05AM 
+CIRCULAR MOB 
+Meg 
+RSD1 
+in 
+0.10 
+209 
+01/05 
+02:06mat 
+CIRCULAR MOB 
+Rag 
+R801 
+Out 
+0.10 
+220 
+01/05 
+02307AM 
+CIRCULAR MOB 
+Mg 
+RSD1 
+In 
+0.20 
+211 
+01/05 
+02T5SAM 
+OTERR MOBIL. 
+Rag 
+8801 
+In 
+0.10 
+212 
+01/05 
+01.47PM 
+OTHER MOBILE 
+Meg 
+ABDI 
+In 
+0.10 
+213 
+01/05 
+01t51146 
+OTHRR MOBILE 
+Rag 
+2301 
+In 
+0.10 
+214 
+01/05 
+02:247M 
+OTHER MOSILE 
+Nag 
+RSD1 
+In 
+0.10 
+215 
+01/05 
+04,56PM 
+OTHER MOBILE 
+Rag 
+2801 
+In 
+0.10 
+216 
+Thu 
+01/06 
+01:55AM 
+OTNER MOBILE 
+Mpg 
+1501 
+in 
+0.10 
+217 
+01/06 
+02:07AX 
+OTHER MOBILE 
+Mac 
+2801 
+Out 
+0.10 
+218 
+01/06 
+02:08AM 
+OTNER MOBILE 
+Mug 
+2501 
+in 
+0.10 
+219 
+01/06 
+02:05AM 
+OTHER MOBILE 
+Nog 
+2801 
+Out 
+0.10 
+220 
+01/06 
+02,13AM 
+OTHER MOBILE 
+Mg 
+2501 
+Out 
+0.10 
+221 
+01/06 
+02:14AX 
+OTNER 102511 
+Reg 
+RSD1 
+In 
+0.10 
+222 
+01/06 
+02:11AM 
+Oral. MOBILE 
+M9 
+1801 
+Out 
+0.10 
+223 
+01/06 
+02318AX 
+02212 MOBILE 
+Meg 
+R8D1 
+In 
+0.10 
+224 
+01/06 
+05;01A24 
+02:08AX 
+05-201U4 
+OTH/gt MOBIL2 
+Keg 
+1501 
+Out 
+0.10 
+225 
+01/06 
+01/06 
+OTaltst MOBILE 
+HIM 
+2501 
+Out 
+0.10 
+226 
+OTHER MOBILE 
+Mau 
+2501 
+Out 
+0.10 
+227 
+01/06 
+03,12AM 
+OTHER 1OBILE 
+Hag 
+RSD1 
+Out 
+0.10 
+220 
+01/06 
+03,133,14 
+03:17AM 
+OTHER MOBILE 
+Meg 
+2401 
+Out 
+0.10 
+229 
+01/06 
+OTHER MOBILE 
+Meg 
+05501 
+In 
+0.10 
+OST X261440011001) 
+EFTA01690381

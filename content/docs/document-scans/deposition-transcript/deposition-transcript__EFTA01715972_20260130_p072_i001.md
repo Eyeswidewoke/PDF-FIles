@@ -1,0 +1,292 @@
+---
+source_image: "deposition-transcript__EFTA01715972_20260130_p072_i001.png"
+source_pdf: "EFTA01715972.pdf"
+method: pdf_text
+words: 543
+confidence: 1.00
+extracted: 2026-02-13T17:00:48.609863
+---
+
+Wireless Data Detail 
+User Name: 
+Rate Code: SRH1=/Bundle 400 R 
+Rate Period (Pd.): P-Peak, 0.0ff Peak, N-Nights 
+Feature: B-Direct Asst Call Complete; C.Call Waiting; D.Data Call/ F-Call Forwarding; H.Croup Mobile to Mobile Calls; 
+I-Incoming Call; Karam Call; M.Mobile To Mobile Discount; P-Priority Access Service; R-Roam with Home; 
+SsEhared Minutes: v-Three Way Calling; N-Nights and WeekendS 
+Rate Rate Pea- Incoming/ 
+Total 
+Item Day Dato 
+Time 
+To/From 
+Type 
+Nag/KB 
+Code Pd turn Outgoing 
+Charge 
+1 Non 10/18 09:30AM 
+OTHER MOBILE 
+1 Nag SRH1 
+In 
+0.10 
+2 Tile 10/19 09:14AM 
+OTHER MOBILE 
+1 Nag SRH1 
+Out 
+0.10 
+3 
+10/19 09:17AM 
+OTHER MOBILE 
+1 Nag SRH1 
+Out 
+0.10 
+4 
+10/19 10:14AM 
+OTHER MOBILE 
+1 Nag SRH1 
+In 
+0.10 
+5 
+10/19 08:15PM 
+OTHER MOBILE 
+1 Msg SRM1 
+In 
+0.10 
+6 Thu 10/21 10:25AN 
+CINGULAR MOB 
+1 Msg SRH1 
+Out 
+0.10 
+7 
+10/21 10:22AM 
+CINGULAR MOB 
+1 Hag SRH1 
+In 
+0.10 
+8 
+10/21 10:27AM 
+CINCULAR MOB 
+1 Nag SRH1 
+Out 
+0.10 
+9 
+10/21 10:31AM 
+CIRCULAR MOB 
+1 Meg SRH1 
+In 
+0.10 
+10 Fri 10/22 09:20AM 
+OTHER MOBILE 
+1 Nag SRH1 
+Out 
+0.10 
+11 Sun 10/24 12:40AM 
+OTHER MOBILE 
+1 Msg SRH1 
+In 
+0.10 
+12 Fri 10/29 09:32AM 
+OTHER MOBILE 
+1 Hag SRH1 
+Out 
+0.10 
+13 
+10/29 09:55AM 
+OTHER MOBILE 
+1 Msg SRH1 
+In 
+0.10 
+14 
+10/29 10:11AM 
+OTHER MOBILE 
+1 Msg SRH1 
+Out 
+0.10 
+15 Mon 11/01 07:13PM 
+1 Msg Skill 
+In 
+0.10 
+OTHER MOBILE 
+16 
+11/01 07:13PM 
+OTHER MOBILE 
+1 Mag SRH1 
+In 
+0.10 
+17 Tue 11/02 10:08AM 
+OTHER MOBILE 
+1 Nag SRH1 
+Out 
+0.10 
+18 
+11/02 04:2710M 
+OTHER MOBILE 
+1 Msg SRH1 
+In 
+0.10 
+19 Fri 11/05 08:10AM 
+OTHER MOBILE 
+1 Msg SRM1 
+Out 
+0.10 
+20 
+11/05 08:14AN 
+OTHER MOBILE 
+1 Meg Skill 
+Out 
+0.10 
+21 
+11/05 08:15AM 
+OTHER MOBILE 
+1 Nag SRH1 
+Out 
+0.10 
+22 
+11/05 12:36PM 
+OTHER MOBILE 
+1 Msg EMU 
+In 
+0.10 
+23 
+11/05 01:20PM 
+OTHER MOBILE 
+1 Hag Skill 
+In 
+0.10 
+24 
+11/05 02:31PM 
+OTHER MOBILE 
+1 Nag SRH1 
+Out 
+0.10 
+25 
+11/05 02:34PM 
+OTHER MOBILE 
+1 Nag $1011 
+Out 
+0.10 
+26 
+11/05 02:35PM 
+OTHER MOBILE 
+1 Msg SRH1 
+In 
+0.10 
+27 
+11/05 02:37PM 
+OTHER MOBILE 
+1 Msg Skill 
+In 
+0.10 
+28 
+11/05 02:44PM 
+OTHER MOBILE 
+1 Msg SRH1 
+Out 
+0.10 
+29 
+11/05 02:45PM 
+OTHER MOBILE 
+1 Msg WW1 
+In 
+0.10 
+30 
+11/05 02:51PM 
+OTHER MOBILE 
+1 Msg SRH1 
+Out 
+0.10 
+31 
+11/05 02:56PM 
+OTHER MOBILE 
+1 Meg ERNI 
+In 
+0.10 
+32 
+11/05 03:00PM 
+OTHER MOBILE 
+1 Msg SRH1 
+Out 
+0.10 
+33 
+11/05 03:04PM 
+OTHER MOBILE 
+1 Nag SRH1 
+In 
+0.10 
+34 
+11/05 03:07PM 
+OTHER MOBILE 
+1 Meg ERNI 
+Out 
+0.10 
+35 
+11/05 03:10PM 
+OTHER MOBILE 
+1 Msg SRH1 
+In 
+0.10 
+36 
+11/05 03:22PM 
+OTHER MOBILE 
+1 Msg SRH1 
+Out 
+0.10 
+37 
+11/05 03:2315/1 
+OTHER MOBILE 
+1 Nag SRH1 
+In 
+0.10 
+38 Sun 11/07 12:56P14 
+OTHER MOBILE 
+1 Nag SARI 
+In 
+0.10 
+39 
+11/07 01:01PM 
+OTHER MOBILE 
+1 Nag SRH1 
+Out 
+0.10 
+40 
+11/07 01:04PM 
+OTHER MOBILE 
+1 Nag SRH1 
+In 
+0.10 
+41 
+11/07 01:04PM 
+OTHER MOBILE 
+1 Nag SRH1 
+Out 
+0.10 
+42 
+11/07 01:05PM 
+OTHER MOBILE 
+1 Nag SRM1 
+In 
+0.10 
+43 
+11/07 01:05PM 
+OTHER MOBILE 
+1 Msg SRH1 
+Out 
+0.10 
+44 
+11/07 01:08PM 
+OTHER MOBILE 
+1 Msg SRH1 
+Out 
+0.10 
+45 
+11/07 01:15PM 
+OTHER MOBILE 
+1 Msg Mil 
+Out 
+0.10 
+46 
+11/07 01:20PM 
+OTHER MOBILE 
+1 Msg SRH1 
+In 
+0.10 
+EFTA01716043

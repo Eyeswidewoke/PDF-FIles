@@ -1,0 +1,297 @@
+---
+source_image: "legal-filing+deposition-transcript+affidavit__EFTA01710352_20260130_p021_i001.png"
+source_pdf: "EFTA01710352.pdf"
+method: pdf_text
+words: 614
+confidence: 1.00
+extracted: 2026-02-13T17:08:07.784561
+---
+
+THE SCHOOL DISTRICT OF PALM BEACH COUNTY - NEW/RETURNING STUDENTS REGISTRATION 
+BACK 
+fr
+, 
+(31) STUDENT LIVES WITH (CHECK ONE) 
+0 BOTH PARENTS 
+0 
+MOTHER 
+i 
+li 
+FATHER 
+0 
+SHARED CUSTODY 
+i 
+OTHER 
+,. 
+-
+•• 
+.(32) TRANSPORTED BY: SloeIsm will two tionsportod to/Itow school lirldimo if oilier ihsa Parsed 
+WIS 
+0 
+G El 
+CONTACTING THE STUDENT DURING THE SCHOOL DAY] 
+0 
+YES 0 NO 
+IF YES, PLEASE PROVIDE THE SCHOOL WITH A COPY OF 
+THE MART ORDER 
+. 
+4 FATHER/ 
+DOES FATHER HAVE CUSTODY? 
+OYES 
+ONO 
+YES 
+(3:51 MO
+DOES MOTHER HAVE OUSTCOTT 
+AYES 
+0 NO 
+YES 
+Mint 
+FliiiiiIIIIIIIIIII 
+ROYAL PALM BEACH
+FL 
+33411 
+Off
+alli 
+MOM 
+ROYAL PALM BEACH
+FL 
+33411 
+WI
+• 
+Ml[ 
+nCC0( 
+CCCOATOr 
+occwavon 
+• 
+• 
+RALF OF WP101.1440 
+Heal OF DiPiontrriT 
+NOM /One 
+MS= NIOVt 
+HOW Mai 
+MUMS. 1.40/4 
+(361 HIGHEST LEVEL OF EOUCATKAN COMPLETED (OPTIONAL) 
+CM SCSOOL 
+AO 
+unitsar
+"°°1 
+B 0 " 6" ""
+CS to ;.,sr, 
+C 0 latra•ATO 
+D 0 
+ser.2,":7,:"" 
+E 0 71""r4".?:,,vo 
+(37) HIGHEST LEVEL Of LDUCATION COMPLETED (OPT 
+L1 
+AO 
+il"UnsIAR•al 11 °.31 
+Bn 
+SOW /OW SO•1001. 
+'6-1 MANS 9-1.1 
+C El'=„4": 
+D D f,0:4( 10ST•SICOODAAV 
+E n Tiornsucousix 
+1-J IGRAZUMS w. MOM 
+(381 LEGAL GUARDIAN (IF ANT) 
+DOES LEGAL GUARDIAN HAVE CUSTODY? 
+0 
+YES 
+K 
+NO 
+,as. 1.44 
+WOOL( 
+IAD 
+.064g ^Witt, 
+WV 
+fTAfs. 
+it coot 
+FM
+. 
+S 
+ 
+0,0.4VF
+S
+PART I: 
+PERSONS) OTHER THAN PARENT AUTHORIZED TO PICK UP STUDENT 
+. 
+(39) PASSWORD: ROM 10 CHARACTERS) W. 0#1,0:02/0 
+Ng 
+C.MOKOICY 
+MCP/ 
+ADDRESS 
+RCLATIONSITP 
+SOTHER
+itr 
+• 
+El 
+YES
+NO 
+1421 
+ADDRESS 
+PHONE 
+RELATIONSHIP 
+A h
+• 
+YES
+0 NO 
+(43) 
+ADDRESS 
+PHONE 
+RELATIONSHIP 
+n 
+U 
+YES 
+0 NO 
+(44) NAME 
+ADDRESS 
+PHONE 
+RELATIONSHIP 
+n LJ YES 
+(3 N° 
+(45) NAVE 
+ADDRESS 
+PHONE 
+FtELATIONSTOP 
+n 
+u 
+YES 
+0 NO 
+(46) PART IL IF SCHOOL PERSONNEL ARE UNABLE TO CONTACT YOU IN CASE OF ILLNESS OR ACCIDENT. MAY WE HAVE YOUR PERMISSION TO CALL YOUR 
+DOCTOR OR EMERGENCY SERVICES (911) FOR TRANSPORT TO THE HOSPITAL? 
+n YES 0 NO 
+(47( FAMILY DOCTOR 
+(48) PHONE HAWED 
+491 HOSPITAL PREFERENCE
+(50) LIST YOUR CHAD'S ILLINESSES, BEHAVORAT HEALTH ISSUES, ALLERGIES. 
+MEDICATIONS TAKEN, OR OTHER PHYSICAL LIMITATIONS: 
+(59 DOES YOUR CHILD CURRENTLY HAVE HEALTH INSDRANCE? 
+OYES  0
+ NO
+II hiss, Oman isdkato--...
+0 
+Mmlinid 
+CI Flabby Kids/KM Cue 
+0 
+Pthesto 
+0 
+Lowdoss4 a witoiving Ommokis 
+raWIFOA.
+13
+fit) 
+OM 
+P H
+: 
+' 
+"'"".''' 
+(62) NAME OF CHILD 
+SCHOOL ATTENDING 
+STUDENT NO. (OPTIONAL) 
+GRADE 
+BIRTH DATE 
+S i ' 
+(531 NAME OF CHILD 
+SCHOOL ATTENDING 
+STUDENT NO. (OPTIONAL] 
+GRADE 
+BIRTH DATE 
+• 
+4. 
+(541 NAME Of CHILD 
+SCHOOL ATTENDING 
+STUDENT NO. (OPTIONAL) 
+GRADE 
+BIRTH DATE 
+, 
+' 
+'..:. 
+455) NAME OF CHILD 
+SCHOOL ATTENDING 
+STUDENTNO. (OPTIONAL) 
+CR.40€ 
+BMW DATE . 
+. • • 
+• 
+(56) NAME OF CHILD 
+SCHOOL ATTENDING 
+STUD-TIT NO. (OPT.ONAL) 
+GRADE 
+BIRTH DATE 
+*1 
+I
+.
+. 
+(57) I VERIFY THAT THE INFORMATION GIVEN IS TRUE
+AND ACCURATE TO THE BEST DE MT KNOWLEDGE. 
+5?L.  (,- 
+6) a
+NA U E 9F F 
+EIPL GUARDIAN 
+DATE 
+FOR OFFICE USE ONLY: 
+(:. 
+,cii.:LL ..0. ,,, STL'EliNT !.L'I.',3fil 
+. 
+.,61: 
+II 7.1.1" I. 
+UACL ' 
+EN 
+71; CU.; 
+.: 
+E01 
+i ;41.‘
+BILE 
+08/16/00 
+I 
+1060 
+. ., 
+1091). 
+..; 
+t6b,„.PAH NT,/ kaint;i : r,,:,..,cu,Lci 
+t. 
+EN . 
+I 
+(C
+': CHt.1 
+US 
+j 
+OF. 
+1 
+IL/I LAiCIJ1H 
+01 
+1'HI TrAC,grt 210. 
+r /;•-. PF.Y.SICNWP,- C 
+Li> r•C'.• 
+DC,•(5C 
+al.} SU: 
+0.•.1.•'S 
+•3( 
+lt:SSVcW,U,Vt:•, 
+11,1 dS 
+11 NN 
+" a N 
+! 
+: 
+I 
+f„ 
+E 
+i 
+: 
+I II 
+()•2! , 
+•-•'. ' UK ;!.,Ps1A- :,: .. 
+? 
+3 
+: 
+f, 
+, 
+• 
+' • 
+- in. 
+0 
+vli. r 
+to 
+) 
+1, 1:".1.: ciur CL!...?“7ED Bu 
+P650 0636 
+(REV. 4/001 
+EFTA01710372

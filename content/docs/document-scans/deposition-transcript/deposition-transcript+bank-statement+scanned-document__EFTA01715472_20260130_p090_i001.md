@@ -1,0 +1,313 @@
+---
+source_image: "deposition-transcript+bank-statement+scanned-document__EFTA01715472_20260130_p090_i001.png"
+source_pdf: "EFTA01715472.pdf"
+method: pdf_text
+words: 543
+confidence: 1.00
+extracted: 2026-02-13T16:20:20.679667
+---
+
+• 
+• 
+Page 
+6 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile User: 
+Total Nbbilee: 
+AIRTIME AND LONG DISTANCE CHARGES 
+ 
+CHARGES 
+Length 
+City 
+of 
+Air 
+Long 
+Itm Date 
+Time 
+CL No. Celled 
+Called 
+F P Call Time 
+Dist. Total 
+49 02/08 02:55AM 
+50 02/08 11:28AM 
+51 02/08 11:29AM 
+52 02/08 11:51AM 
+53 02/08 03:10PM 
+54 02/08 03:21PM 
+55 02/08 06:34PM 
+56 0210$ 06:36PM 
+57 02/08 08:06014 
+58 02/08 08:28PM 
+59 02/08 00:32PM 
+60 02/08 08:33PM 
+61 02/08 08:41PM 
+62 02/08 08:47PM 
+63 02/08 09:59014 
+64 02/08 10:18PM 
+65 02/09 03:02PM 
+66 02/09 03:05PM 
+67 02/09 08:50PM 
+68 02/09 09:17014 
+69 02/10 04sS5PM 
+70 02/10 05:40PM 
+71 02/10 07:52PM 
+72 02/10 07:52PM 
+73 02/10 07:63PM 
+74 02/10 08:27P01 
+75 02/10 08:41PM 
+76 02/10 10:26PM 
+77 02/10 10:32PM 
+78 02/10 10:32PM 
+79 02/10 10:33PM 
+80 02/10 10:40PM 
+81 02/11 03:18PM 
+82 02/11 03:20PM 
+83 02/11 08:21PM 
+84 02/11 00:14PM 
+85 02/11 08:28PM 
+86 02/11 08:54PM 
+87 02/11 08:66PM 
+88 02/11 08:58PM 
+89 02/11 00:59PM 
+90 02/11 09:01PM 
+91 02/11 09:04PM 
+92 02/11 09:11PM 
+93 02/11 09:11PM 
+94 02/11 09:14PM 
+95 02/12 03:10PM 
+96 02/12 05:18PM 
+97 02/12 08:20PM 
+98 02/12 09:06PM 
+99 02/12 09120PM 
+100 02/12 09:23PM 
+101 02/12 09:25PM 
+102 02/12 09:27PM 
+103 02/12 09:36PM 
+104 02/12 09:37PM 
+PALM FL K 
+NCOMI CL 14 
+NCOMI CL W 
+NCOMI CL W 
+' PALM PL N 
+PALM PL W 
+NCOMI CL W 
+=OKI CL W 
+NCONI CL W 
+PALM FL K 
+PALM FL N 
+NCOMI CL M 
+NCOMI CL W 
+' PALM FL K 
+NCOMT CL w 
+PALM FL M 
+PALM FL 
+PALM FL 
+HOOKE CL 
+INCOMI CL W 
+PALM FL 
+INCOMI CL 
+PAIN FL 
+PALM FL 
+INCOMI CL 
+INCOMI CL 
+PALM FL 
+INCOMI CL N 
+' PALM FL N 
+ICE CL W 
+PALM FL W 
+INCOMI CL W 
+N PALM FL 
+VOICE CL 
+M PALM FL 
+W PALM FL 
+K PALM FL 
+W PALM PL 
+W PALM FL 
+W PALM FL 
+VOICE CL 
+W PALM FL K 
+SI PALM FL K 
+N PALM PL W 
+K PALM FL W 
+M PALM FL W 
+INCOMI CL 
+INCOMI CL 
+INCOMI CL 
+N PALM FL N 
+W PALM FL M 
+W PALM FL K 
+N PALM Ph 
+N PALM FL N 
+M PALM FL N 
+K PALM FL N 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.0D 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+D.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+I 
+0.00 
+0.0D 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3. 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+MIM 
+EFTA01715561

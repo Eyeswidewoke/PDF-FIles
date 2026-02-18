@@ -1,0 +1,467 @@
+---
+source_image: "spreadsheet+contact-list+deposition-transcript__EFTA02726027_20260210_p003_i001.png"
+source_pdf: "EFTA02726027.pdf"
+method: pdf_text
+words: 540
+confidence: 1.00
+extracted: 2026-02-13T17:15:15.043954
+---
+
+Materials Report 
+Part Type 
+Work Type 
+Aircraft Part 
+NRC 
+I CATI 
+Part Number 
+I
+499552 
+A 
+4174-24 
+499552 
+A 
+BACB3ONN3K12 
+499552 
+A 
+BACB3ONN3K8 
+499552 
+A 
+RA51149003614 
+499552 
+A 
+NAS514P1032-12 
+499552 
+A 
+Ambersil M494-50G (56M494) 
+499553 
+A 
+305 
+499560 
+A 
+85-763-020A 
+499563 
+A 
+10-60754-313 
+499571 
+A 
+BACR15884ADBC 
+499571 
+A 
+M529513-124 
+499571 
+A 
+M529513-223 
+499571 
+A 
+AMBERKLENEFE10-400 
+499571 
+A 
+FfTV106-TUBE 
+499572 
+A 
+P586061/6-SKIT 
+499572 
+A 
+8M513-60701C01G018 
+499572 
+A 
+0436-37 
+499572 
+A 
+NAS1801-3-14 
+499572 
+A 
+PLT1.5S-M 
+499572 
+A 
+PLT2MM 
+499572 
+A 
+PLT2S-M 
+499575 
+A 
+SKYDROLSOOB4-QT 
+Total in 
+USO 
+Work Type 
+NRC 
+I
+ 
+CAT' 
+Pan Number 
+I 
+499555 
+C 
+ASG33-CART 
+499558 
+C 
+P4-01-1003-001 
+499562 
+C 
+011157-015.24 
+499562 
+C 
+M529513-028 
+499569 
+C 
+BACR15CE6AD4 
+499569 
+C 
+AMBEIMENEFE10-400 
+499569 
+C 
+PS87001/2 SKIT 
+Total in 
+USD 
+Work guitanati, 
+11Z27.8snti
+- 
+mithlts 
+Invoiced In 
+USD 
+Defect Rectification from Routine Inspection 
+Description 
+I
+ 
+thy 
+Rs 
+I Units' 
+GIN 
+$ 
+I Unit 
+Prim 
+Price 
+$ 
+Unfit 
+I 
+S Part 
+I Charge 
+I Handling 
+ 
+% 
+Handling 
+I 
+Charge 
+LAMP 
+1 
+EA 
+• Q106706 
+5.97 
+0.00 
+5.97 
+15.00 
+0.00 
+SCREW 10/32 C/SK 
+2 
+EA 
+• 1208001289 
+0.65 
+0.00 
+1.30 
+15.00 
+0.00 
+SCREW 10/32 C/SK 
+2 
+EA 
+• 1207001109 
+0.54 
+0.00 
+1.09 
+15.00 
+0.00 
+WASHER 
+16 
+EA 
+• 1203002042 
+0.32 
+0.00 
+5.13 
+15.00 
+OW 
+SCREW C/SK ALL THRO 
+2 
+EA 
+• 1206002570 
+0.15 
+0.00 
+0.29 
+15.00 
+000 
+ATC1030 
+1 
+EA 
+1112001152 
+6.60 
+CILIO 
+6.60 
+15.00 
+0.99 
+LAMP 
+1 
+EA 
+• 1103001275 
+0.36 
+0.00 
+0.36 
+15.00 
+0.00 
+BATTERY 
+1 
+EA 
+• 1210000304 
+103.39 
+0.00 
+103.39 
+15.00 
+0.00 
+SEAL IN FEET 
+2 
+FT 
+• 100/002277 
+15.66 
+0.00 
+31.31 
+15.00 
+4.70 
+RIVET 
+6 
+EA 
+• Q15432 
+0.03 
+0.00 
+0.16 
+15.00 
+0.00 
+SEAL 
+2 
+EA 
+• Q110151 
+0.13 
+0.00 
+0.26 
+15.00 
+0.00 
+PACKING
+2 
+EA 
+• 0909001557 
+0.19 
+0.00 
+0.37 
+15.00 
+0.00 
+ATC1029 
+2 
+EA 
+1209001465 
+6.25 
+0.00 
+12.09 
+15.00 
+127 
+ATC1216 
+2 
+EA 
+1208001406 
+7.20 
+0.00 
+14.41 
+15.00 
+2.16 
+ATC12O2 
+2 
+EA 
+1209000710 
+40.31 
+0.00 
+80.63 
+15.00 
+12.09 
+CABLE IN FEET 
+19 
+FT 
+• Q63609-1 
+0.13 
+0.00 
+2-55 
+15.00 
+0.38 
+SPUCE 
+5 
+EA 
+• 1209003291 
+2.17 
+0.00 
+10.87 
+15.00 
+0.00 
+SCREW 10/32 HEX HD POZI 
+1 
+EA 
+• 1203001564 
+0-32 
+0.00 
+0-32 
+15.00 
+0.00 
+CABLE TIE 
+40 
+EA 
+• 1205000014 
+0.04 
+0.00 
+1-50 
+15.00 
+0.00 
+CABLE TIE 
+25 
+EA 
+• 1206003146 
+0.03 
+0.00 
+0.76 
+15.00 
+0.00 
+CABLE TIE 
+30 
+EA 
+• 1206001208 
+0.05 
+0.00 
+1.36 
+15.00 
+0.00 
+ATC1238 
+3 
+EA 
+1201002251 
+28.80 
+0.00 
+86.39 
+15.00 
+12.96 
+Defect Rectification from Routine Inspection 
+Aircraft Part 
+Customer Request 
+Descri ion 
+pt
+I 
+Qty
+Rs 
+I
+ 
+Units' 
+GIN
+I Unit $ I 
+Priaa
+Sunk
+Price 
+ I $ Part I 
+Charge "San  I 
+% 
+Hand 
+ling
+Charge 
+ATC1051 
+1 
+EA 
+12070%1879 
+16.14 
+0.00 
+16.14 
+15.00 
+2.42 
+BATTERY 
+3 
+EA 
+• 1209002626 
+89.20 
+0.00 
+267.60 
+15.00 
+0.00 
+GASKET 
+2 
+EA 
+• 5602746 
+9.98 
+0.00 
+19.95 
+15.00 
+0.00 
+PACKING 
+2 
+EA 
+• S614305 
+0.05 
+0.00 
+0.10 
+15.00 
+0.00 
+RIVET 
+4 
+EA 
+• 0106852 
+0.01 
+0.00 
+0.03 
+15.00 
+0.00 
+ATC1029 
+1 
+EA 
+1209001465 
+6.25 
+0.00 
+6.25 
+15.00 
+0.94 
+ATC1294 
+2 
+EA 
+1209001465 
+28.39 
+0.00 
+56.78 
+15.00 
+8.52 
+Customer Request 
+Aircraft Part 
+Tot Cig I 
+in USD 
+5.97 
+1.30 
+1.09 
+5.13 
+0.29 
+7.59 
+0.36 
+103.39 
+36.01 
+0.16 
+0.26 
+0.37 
+14.37 
+16.57 
+92.72 
+2.93 
+10-87 
+0.32 
+1.50 
+0.76 
+1.36 
+99-35 
+402.66 
+Tot Chg 
+in USD
+18.56 
+267.60 
+19.95 
+0.10 
+0.03 
+7.18 
+65.30 
+372.73 
+1 o12 
+EFTA_R1_02213608 
+EFTA02726029

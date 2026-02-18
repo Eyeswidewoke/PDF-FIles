@@ -1,0 +1,152 @@
+---
+source_image: "book-page+legal-filing__EFTA01451174_20260130_p001_i001.png"
+source_pdf: "EFTA01451174.pdf"
+method: pdf_text
+words: 634
+confidence: 1.00
+extracted: 2026-02-13T16:03:46.901868
+---
+
+9 January 2014 
+FX Blueprint Thin end of the wedge 
+▪ 
+Norges bank to continue to balance falling house 
+prices vs. sticky CPI. 
+• 
+NOK cheap, but investors wary of jumping back in 
+unless/until Norges Bank and/or crude provide 
+support supportive. 
+In Norway, the mainland economy has been growing 
+around 2.0-2.5% YoY for most of the last couple of 
+years, with the recent PMI and manufacturing output 
+suggestive of continuing improvement going forward. 
+Norges Bank's focus is balancing the declining housing 
+market against sticky inflation at the consumer level. 
+With house prices having slowed to largely flat on the 
+year, representing a 3-3.5% drop from the peak in Q3 
+last year, and headline CPI back in line with the Bank's 
+2.5% target (from 3.2% YoY in August), Norges Bank is 
+erring on the dovish side, arguing that the rise in (core] 
+inflation is transitory. Indeed, according to the Bank's 
+projections, core inflation is expected to drift back up 
+over the next few months, reaching a peak just above 
+the inflation target of 2.6% in April/May, before 
+dropping down and remaining just below 2% up until 
+the end of 2015. House prices meanwhile, are seen 
+slowing further, to -2.5% to -3.0% YoY in HI 2014, 
+before returning to positive YoY growth in early 2015. 
+The risk to Norges Banks's finely balanced outlook for 
+inflation and housing is twofold. First is a scenario in 
+which past and current FX weakness feeds through to 
+imported 
+inflation, 
+thus 
+preventing 
+core 
+from 
+moderating in line with Norges forecasts. If the Bank 
+then feels compelled to hike rates at a time when 
+house prices already are declining, that would 
+exacerbate the decline and not be currency supportive. 
+An alternative risk scenario is if the house price falls 
+feeds on themselves. With policy rates already as low 
+as 1.50%, and with core CPI projected at or above 
+target over the next 3.6 months, there would be limited 
+scope for policy to provide a stopgap. While the above 
+scenarios are not our baseline, they will continue to be 
+a key factor in the Norges Bank's decision-making 
+process, with monetary policy likely to be stuck 
+between a fear of adding to the decline in house prices 
+on one hand and sticky inflation on the other. 
+Meanwhile crude is likely to continue to flatline in the 
+relatively tight $90 to $110 range of the past few years. 
+Monetary policy and crude are therefore unlikely to 
+provide much in terms of direction in the NOK. 
+However, 
+given 
+recent 
+depreciation 
+cannot 
+be 
+explained by fundamentals, with the Norwegian unit 
+arguably oversold even when taking into account the 
+market's now very dovish outlook for Norges Bank 
+policy and flat oil prices, we are cautiously constructive. 
+On balance we anticipate very gradual downside in 
+EUR/NOK from current levels. A 3m EUR/NOK put @ 
+8.25 costs an indicative 76bp. Alternatively, finance it 
+by selling a 3m EUR/NOK 8.65 call. 
+Figure 4: Norway. Real Estate Prices, 
+Residential 
+Buildings, Total & YoY 
+-10 
+21131 
+2003 2005 
+2007 2000 2011 
+Source DOUCIOPM el( xv 
+35000 
+30000 
+25000 
+20000g 
+150002, 
+10000 
+5000 
+0 
+2013 20 5 
+Figure 5: EUR!NOK and Crude oil 
+10 
+9.5 
+g  9.0 
+115 
+110 
+75 
+7D 
+JMS 
+J M SJMS.EMSJIASJ 
+2000 
+2010 
+2011 
+2012 
+2013 
+—Crude Ot. Brent, Close. USD, ma •— EURSOK adult Is 
+Sans. arum,. Bert basnbrg Franc* LP 
+30 
+40 
+502 
+50q 
+701 
+SO 
+901 
+100S 
+11O2
+120 
+130 
+Figure 6: Core inflation - actual and Norges Bank's 
+projection 
+3.5 
+3D 
+25 
+20 
+I5 
+10 
+0.5 
+JIASJMSJIASJMSJIA
+III JMSJM 
+2009 
+2000 
+2010 
+2011 
+2012 
+2013 
+2014 
+— CPI-ATE (aolusteeior taxes and eating energy). YoY 
+— Nome Bank's pqedon 
+Scan* Onse• ant akar:item Finnan LP 
+Henrik Gullbmg. London. 
+Deutsche Bank AG/London 
+Page 13 
+CONFIDENTIAL — PURSUANT TO FED. R. CRIM. P. 6(e) 
+DB-SDNY-0 107451 
+CONFIDENTIAL 
+SDNY_GM_00253635 
+EFTA01451174

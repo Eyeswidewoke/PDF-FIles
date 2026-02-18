@@ -1,0 +1,326 @@
+---
+source_image: "scanned-document+deposition-transcript+bank-statement__EFTA01729006_20260130_p060_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 579
+confidence: 1.00
+extracted: 2026-02-13T17:19:04.926098
+---
+
+Page 
+11 
+AIRTIME AND LOM DISTANCE CHARGES 
+City 
+Ito Date 
+Time 
+CL No. Called 
+Called 
+329 02/21 11:31PM 
+330 02/21 11:32PN 
+331 02/22 09:40AN 
+332 02/22 11:56AM 
+333 02/22 11:58AM 
+334 02/22 12:00PM 
+324 02/22 12:32PM 
+336 02/22 12:19PM 
+337 02/22 12:20PM 
+338 02/22 01:28PH 
+339 02/22 01:29PN 
+340 02/22 01:29PH 
+341 02/22 01:31PM 
+342 02/22 03:31PM 
+343 02/22 10:44PM 
+344 02/22 10:44PM 
+344 02/22 10:49PM 
+346 02/22 10:52PM 
+347 02/22 10:53PM 
+348 02/22 11:10PM 
+349 02/23 03:21PH 
+350 02/23 03:22PM 
+351 02/23 03:33PM 
+352 02/23 05:27PM 
+353 02/23 07:40PM 
+354 02/21 09:07PM 
+355 02/23 10:31PM 
+236 02/23 11:02PM 
+357 02/23 11:04PM 
+348 02/24 08:14PM 
+349 02/24 08:25PM 
+360 02/24 11:07PM 
+.361 02/24 11:24PM 
+362 02/24 11:24PM 
+363'02/24 11:30PM 
+364 02/24 11:35PM 
+365 02/24 11:40PM 
+366 02/24 11:43PM 
+367 02/25 03:15PM 
+368 02/25 09:46PM 
+369 02/25 10:31PM 
+370 02/24 10:34PM 
+371 02/25 10:38PM 
+372 02/25 11:43PM 
+373 02/26 07:20AM 
+374 02/26 12:18PM 
+375 02/26 12:36PM 
+376 02/26 12:37PM 
+377 02/26 01:01PM 
+378 02/26 01:10PX 
+379 02/26 02:33PM 
+380 02/26 09136PM 
+381 02/26 09:36PM 
+382 02/26 09:37PM 
+303 02/26 09:39PM 
+384 02/26 09:46PM 
+F P 
+BOYTON FL N N 
+INCOMI CL W N 
+OrCE CL W N 
+INCOMI CL H N 
+CL W N 
+INCOKI CL W N 
+PALM PL W N 
+PALM FL W N 
+ETON FL W N 
+PALM PL H N 
+ICE CL W N 
+PALM FL W N 
+NCOMI CL W N 
+NCOMI CL W N 
+ICE CL 
+.N N 
+ICE CL W N 
+:DICE CL N N 
+PALM FL W'N 
+NCOMI CL N N 
+NCOMI CL N N 
+ICE C.L. 
+P 
+PALM FL 
+P 
+NCOMI CL 
+P 
+NCOMI CL 
+P 
+NCONI CL 
+P 
+NCOMI CL N 0 
+NCOMI CL N 0 
+NCOMI CL N 0 
+NCOMI CL N 0 
+NCOMI CL 
+P 
+PALM FL 
+P 
+ICE CL W 0 
+PALM FL W 0 
+OICE CL N 0 
+NCOMI CL W 0 
+COMI CL N 0 
+NCOMI CL N 0 
+COMI CL W 0 
+NCOMI CL 
+P 
+NCOMI CL N 0 
+PALM FL W 0 
+PALM FL N 0 
+NCOMI CL W 0 
+NCOMI CL W 0 
+PALM FL 
+P. 
+COMP CL 
+P 
+PALM PL 
+P 
+NCOMI CL 
+P 
+NCOMI CL 
+P 
+PALM FL 
+P 
+NCOMI CL 
+P 
+PALM FL N 0 
+OICE CL N 0 
+PALM FL N 0 
+PALM FL R 0 
+PALM FL N 0 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile Door: 
+Total Mobile0: 
+CHARGES 
+Length 
+of 
+Call 
+Air 
+Long 
+Time 
+Dist. Total' 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0:00 
+4 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0,00 
+0.00 
+1 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.0D 
+0.00 
+2 
+0.00 
+0.0D 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+3 0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+EFTA01729065

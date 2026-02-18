@@ -1,0 +1,309 @@
+---
+source_image: "deposition-transcript+bank-statement+scanned-document+invoice__EFTA01729006_20260130_p008_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 567
+confidence: 1.00
+extracted: 2026-02-13T16:20:18.997889
+---
+
+' 00'0 
+pz 
+M M 13 IWODMI 
+NdL£:ZL LT/TO Ces 
+00'0 
+00'0 
+I 
+N M id Alled 
+AILE:ti Lt/TO 215 
+00'0 
+' 00'0 
+Z 
+A X AD IKOONI 
+AdOC:ZT LT/TO ti5 
+00'0 
+00'0 
+Z 
+0 X AD INODHI 
+NdPI:CT LT/TO OP5 
+00'0 
+00'0 
+T 
+N 0414 wies m 
+NdIO:Zi LI/X0 SES 
+00'0 
+00*0 
+L 
+4 m RA. orlYa 
+AVeS:TI LT/TO 8C5 
+00'0 
+00'0 
+T 
+N A 12 MOIXOS 
+Warn LI/TO LES 
+00'0 
+00'0 
+Z 
+N A Ad NAVd M 
+AVIS:it 42/TO SCS 
+00'0 
+00'0 
+T 
+H A Ad NAVd 
+NVOS:n LT/TO SES 
+00'0 
+00'0 
+E. 
+N M AD EDLEM 
+KALe:IT CE/TO. ‚ES 
+00'0 
+00'0 
+ET 
+N M AD IWOONI 
+mitt:Tz LT/TO ris 
+00'0 
+00'0 
+6 
+N M AD INODNI 
+AVit:T1 Lt/TO ZES 
+00'0 
+00'0 
+L 
+A M Id NINA 
+NATZ:I1 LT/TO TES 
+00'0 
+00'0 
+t 
+H A Ad WNd * 
+AVOZ:TT LI/I0 025 
+00'0 
+00'0 
+C 
+H M 1d WIAd M 
+AVLI:TX 41/TO 6Z5 
+00'0 
+00'0 
+I 
+H M.AD 11400((I 
+Nd8C:II 9I/10 8Z5 
+00'0 
+00'0 
+T 
+N M 1d kilVd 
+9T/TO LZ5 
+.00'0 
+00'0 
+I 
+N M ID IWOONI 
+NdIE:II 9T/TO 9Z5 
+00'0 
+00'0 
+I 
+M M la irrem m 
+NIZEUT 91/10 SCS 
+00'0 
+Oro 
+T 
+H M AD INODNI 
+Mitt:11 91/10 eZ5 
+00'0 
+00'0 
+Z 
+H 10 AD INODHI 
+Ad9UTT 9%/t0 EZ5 
+00'0 
+00'0 
+r 
+A A AD I1400Hi 
+9T/TO 125 
+00'0 
+00'0 
+Z 
+H 
+Ad AgAd 
+14450:T1 9T/TO zzs 
+00'0 
+00'0 
+I 
+N M 13 INCONI 
+mazsgot 91/10 OZ5 
+00'0 
+00'0 
+C 
+N M Ad AlAd 
+Ad6T:OI 9T/I0 615 
+'00'0 
+00'0 
+Z 
+H m Ad NTAd 
+WILT:OT 9Z/10 815 
+00'0 
+00'0 
+T 
+N M 1d NAVd 
+NdZ240T 91/10 LT5 
+00'0 
+00'0 
+L 
+A A la kelvd m 
+lid11:01 91/10 9T5 
+00'0 
+oro 
+E 
+m 13 IKODNI 
+14440:0T 9I/TO 515 
+00'0 
+00'0 
+2 
+A 13 IKODNI 
+Ad91:60 91/t0 915 
+00'0 
+00'0 
+E 
+M 12 NRW A 
+NdL0:60 91/10 £I5 
+00'0 
+00'0 
+I 
+A Rd NIVd 
+14290:60 9%/TO Z15 
+00'0 
+00'0 
+Z 
+la INOONI 
+NdEZ:20 9t/I0 TIS 
+00'0 
+00'0 
+£ 
+12 WINd 
+WdZO:50 91/20 015 
+00'0 
+00'0 
+C 
+AD INOONI 
+NVLI:40 9T/I0 605 
+00'0 
+00'0 
+L 
+Ad ATIVd 
+NV9I:LO 91/20 005 
+00'0 
+00'0 
+t 
+N 1D INODUI 
+NVZ5:90 9T/10 40S 
+00'0 
+00'0 
+Z 
+A AD EDIOA 
+AVLO:ZI 91/10 905 
+00'0 
+C 
+A Ad HIAd'A 
+PidOt:TT ST/TO SOS 
+00'0 
+00'0 
+T 
+N 1d leAd A 
+Nd80:TI 51/I0 905 
+00'0 
+00'0 
+E 
+A 1d WM A 
+Ne180:TT SI/I0 EOS ' 
+. 00'0 
+00'0 
+T 
+A Ad NAVd 
+10150:II ST/TO ZO5 
+00'0 
+00'0 
+I 
+A AD IHOONI 
+NdISIOT 21/TO t05 
+00'0 
+00'0 
+T 
+A Id AlVd 
+wirmloT oz/zo 005 
+00'0 
+00'0 
+2 
+A Id AlVd M 
+Ad6I:01 ST/TO 661 
+00'0 
+00'0 
+T 
+M 73 /NOONI 
+Hd51:60 ST/TO 861 
+00'0 
+00'0 
+L 
+e Ad NAVd 
+AdET:60 ST/TO 261 
+00'0 
+00'0 
+I 
+Ad HANd 
+m46):00 ST/TO 96e 
+00'0 
+00'0 
+I 
+AD INCKNII 
+NdI0:10 ST/TO so) 
+00'0 
+00'0 
+C 
+A Ad MAYCH 
+NX8E:ZI 51/20 t6P 
+00'0 
+00'0 
+1 
+1d :MW N 
+le151:40 9L/TO £64 
+00'0 
+00'0 
+E 
+A Ad NAVd'A 
+kideZ:OZ ET/i0 zse 
+00'0 
+00'0 
+E 
+m Id IKIVd 
+Nd9T:01 Et/TO 161. 
+00'0 
+00'0 
+Z 
+ID INODAI 
+AdITIOI EI/I0 06, 
+00'0 
+00'0 
+I 
+A Ad :MIM A 
+Ndet:01 ET/TO 601 
+00'0 
+00'0 
+Z 
+14 AD 1NODUI 
+wdzz:0Z £I/t0 See 
+T1201 '28TC 
+UNTI 1/03 d A 
+PHIIHD 
+PAII8D 'ON 
+feO/ 
+xrv 
+10 
+AZTO 
+12 
+IMITZ 
+p2Va W2X 
+KpAuml 
+ 
+SZOXV180 
+'SZMILD SDNALSIG Et401. CNY 8WILUTY 
+:00214:994 
+usem ofictom 
+:aagginti ezzgow 
+:m2ma 6aTITIU 
+:20q00N zunOOem 
+EFTA01729013

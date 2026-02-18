@@ -1,0 +1,505 @@
+{
+  "extracted_total": 2096983,
+  "extracted_done": 2059705,
+  "extracted_not_done": 37278,
+  "triage_total": 2059705,
+  "done_minus_triage": 0,
+  "extracted_status_breakdown": {
+    "done": 2059705,
+    "empty": 30375,
+    "no_pdf": 1,
+    "no_text": 6902
+  },
+  "documents": {
+    "md_total": 802988,
+    "png_total": 403695,
+    "paired": 398592,
+    "md_missing_png": 404396,
+    "png_missing_md": 5103,
+    "top_md_missing_png": [
+      {
+        "category": "email-screenshot",
+        "md": 246077,
+        "png": 75641,
+        "paired": 75619,
+        "md_missing_png": 170458,
+        "png_missing_md": 22
+      },
+      {
+        "category": "deposition-transcript",
+        "md": 328901,
+        "png": 191355,
+        "paired": 190878,
+        "md_missing_png": 138023,
+        "png_missing_md": 477
+      },
+      {
+        "category": "contact-list",
+        "md": 29054,
+        "png": 4976,
+        "paired": 4919,
+        "md_missing_png": 24135,
+        "png_missing_md": 57
+      },
+      {
+        "category": "typed-page",
+        "md": 22897,
+        "png": 4187,
+        "paired": 4162,
+        "md_missing_png": 18735,
+        "png_missing_md": 25
+      },
+      {
+        "category": "invoice",
+        "md": 43213,
+        "png": 27907,
+        "paired": 27756,
+        "md_missing_png": 15457,
+        "png_missing_md": 151
+      },
+      {
+        "category": "bank-statement",
+        "md": 16658,
+        "png": 8358,
+        "paired": 8358,
+        "md_missing_png": 8300,
+        "png_missing_md": 0
+      },
+      {
+        "category": "affidavit",
+        "md": 15561,
+        "png": 7671,
+        "paired": 7539,
+        "md_missing_png": 8022,
+        "png_missing_md": 132
+      },
+      {
+        "category": "legal-filing",
+        "md": 24920,
+        "png": 17932,
+        "paired": 17694,
+        "md_missing_png": 7226,
+        "png_missing_md": 238
+      },
+      {
+        "category": "court-document",
+        "md": 16209,
+        "png": 9403,
+        "paired": 9315,
+        "md_missing_png": 6894,
+        "png_missing_md": 88
+      },
+      {
+        "category": "text-message-screenshot",
+        "md": 14143,
+        "png": 11373,
+        "paired": 10968,
+        "md_missing_png": 3175,
+        "png_missing_md": 405
+      },
+      {
+        "category": "spreadsheet",
+        "md": 4746,
+        "png": 3651,
+        "paired": 3040,
+        "md_missing_png": 1706,
+        "png_missing_md": 611
+      },
+      {
+        "category": "_email-screenshot-partial",
+        "md": 7584,
+        "png": 6122,
+        "paired": 6121,
+        "md_missing_png": 1463,
+        "png_missing_md": 1
+      },
+      {
+        "category": "letter",
+        "md": 795,
+        "png": 518,
+        "paired": 482,
+        "md_missing_png": 313,
+        "png_missing_md": 36
+      },
+      {
+        "category": "signature",
+        "md": 568,
+        "png": 584,
+        "paired": 358,
+        "md_missing_png": 210,
+        "png_missing_md": 226
+      },
+      {
+        "category": "scanned-document",
+        "md": 24477,
+        "png": 25129,
+        "paired": 24342,
+        "md_missing_png": 135,
+        "png_missing_md": 787
+      }
+    ]
+  },
+  "needs_ocr": {
+    "png": 403020,
+    "md": 401913,
+    "png_without_md": 1107
+  },
+  "ledger": {
+    "rows": 802988,
+    "decision_counts": {
+      "exclude": 76216,
+      "review": 696031,
+      "include": 30741
+    },
+    "top_include_categories": [
+      [
+        "deposition-transcript",
+        12229
+      ],
+      [
+        "legal-filing",
+        8070
+      ],
+      [
+        "scanned-document",
+        3782
+      ],
+      [
+        "email-screenshot",
+        2071
+      ],
+      [
+        "court-document",
+        1221
+      ],
+      [
+        "affidavit",
+        742
+      ],
+      [
+        "bank-statement",
+        616
+      ],
+      [
+        "invoice",
+        500
+      ],
+      [
+        "typed-page",
+        383
+      ],
+      [
+        "spreadsheet",
+        359
+      ],
+      [
+        "contact-list",
+        325
+      ],
+      [
+        "_email-screenshot-partial",
+        235
+      ],
+      [
+        "chart",
+        71
+      ],
+      [
+        "letter",
+        58
+      ],
+      [
+        "timeline",
+        24
+      ]
+    ]
+  },
+  "site_document_scans": {
+    "md_count": 30742,
+    "png_count": 30741,
+    "index_json_bytes": 19616092
+  },
+  "public_data_stats": {
+    "included_collections": 16,
+    "included_artifacts": 58992,
+    "indexed_timeline_events": 2593,
+    "included_email_files": 27615,
+    "included_image_files": 2059705,
+    "included_cast_profiles": 99,
+    "included_cast_pages": 13,
+    "included_sources": 12,
+    "total_pdfs": 900956,
+    "total_pages_extracted": 2059705,
+    "total_words_extracted": 343294733,
+    "total_organized_files": 1490063,
+    "person_scan_matches": 168365,
+    "persons_tracked": 26,
+    "investigation_reports": 5,
+    "investigation_findings": 16,
+    "investigation_index": "content/docs/investigations/_INDEX.md",
+    "investigation_page": "investigations.html",
+    "investigation_supplements": 2,
+    "document_scans_items": 30743,
+    "document_scans_index": "content/docs/document-scans/_INDEX.md"
+  },
+  "public_data_collection_counts": {
+    "core-docs": 0,
+    "document-scans": 30743,
+    "investigation-findings": 25,
+    "epstein-indexes": 0,
+    "topic-extracts": 71,
+    "email-indexes": 3,
+    "email-barr": 1,
+    "email-cast-flagged": 12413,
+    "email-flagged": 15000,
+    "image-selection": 0,
+    "cast-profiles": 99,
+    "timeline-docs": 23,
+    "cast-pages": 13,
+    "people-email-buckets": 99,
+    "dataset-pages": 0,
+    "victim-minor-read-queue-ds9-ds10": 502
+  },
+  "public_data_missing_paths": 0,
+  "anomaly": {
+    "duplicate_multi_category": 7584,
+    "noisy_high_word": 81,
+    "ocr_source_high_word": 0,
+    "duplicate_top10": [
+      {
+        "key": "EFTA01279595_p083",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing__EFTA01279595_20260130_p083_i001"
+      },
+      {
+        "key": "EFTA01283540_p011",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing__EFTA01283540_20260130_p011_i001"
+      },
+      {
+        "key": "EFTA01283602_p013",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing+invoice__EFTA01283602_20260130_p013_i001"
+      },
+      {
+        "key": "EFTA01283772_p013",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing__EFTA01283772_20260130_p013_i001"
+      },
+      {
+        "key": "EFTA01296105_p001",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing__EFTA01296105_20260130_p001_i001"
+      },
+      {
+        "key": "EFTA01300383_p002",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing__EFTA01300383_20260130_p002_i001"
+      },
+      {
+        "key": "EFTA01301206_p001",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing__EFTA01301206_20260130_p001_i001"
+      },
+      {
+        "key": "EFTA01352809_p006",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing__EFTA01352809_20260130_p006_i001"
+      },
+      {
+        "key": "EFTA01358072_p001",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing+letter__EFTA01358072_20260130_p001_i001"
+      },
+      {
+        "key": "EFTA01359282_p001",
+        "categories": [
+          "_email-screenshot-partial",
+          "email-screenshot",
+          "email-screenshot_OLD"
+        ],
+        "n_categories": 3,
+        "example_stem": "email-screenshot+court-document+legal-filing__EFTA01359282_20260130_p001_i001"
+      }
+    ],
+    "noisy_top10": [
+      {
+        "category": "phone-screen",
+        "words": 8867,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01305104.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/phone-screen/phone-screen__EFTA01305104_20260130_p001_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/phone-screen/phone-screen__EFTA01305104_20260130_p001_i001.png"
+      },
+      {
+        "category": "computer-screen",
+        "words": 8389,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01305106.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+phone-screen+vehicle__EFTA01305106_20260130_p001_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+phone-screen+vehicle__EFTA01305106_20260130_p001_i001.png"
+      },
+      {
+        "category": "computer-screen",
+        "words": 1617,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01626170.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+phone-screen+spreadsheet__EFTA01626170_20260130_p013_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+phone-screen+spreadsheet__EFTA01626170_20260130_p013_i001.png"
+      },
+      {
+        "category": "computer-screen",
+        "words": 1420,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01325494.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+spreadsheet+deposition-transcript+contact-list__EFTA01325494_20260130_p177_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+spreadsheet+deposition-transcript+contact-list__EFTA01325494_20260130_p177_i001.png"
+      },
+      {
+        "category": "passport",
+        "words": 1031,
+        "confidence": 1.0,
+        "source_pdf": "EFTA00008527.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport+letter__EFTA00008527_20251219_p001_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport+letter__EFTA00008527_20251219_p001_i001.png"
+      },
+      {
+        "category": "passport",
+        "words": 788,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01340554.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport+invoice+receipt__EFTA01340554_20260130_p001_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport+invoice+receipt__EFTA01340554_20260130_p001_i001.png"
+      },
+      {
+        "category": "computer-screen",
+        "words": 708,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01744059.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+spreadsheet+book-page__EFTA01744059_20260130_p007_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+spreadsheet+book-page__EFTA01744059_20260130_p007_i001.png"
+      },
+      {
+        "category": "phone-screen",
+        "words": 674,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01746963.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/phone-screen/phone-screen+email-screenshot+text-message-screenshot__EFTA01746963_20260130_p002_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/phone-screen/phone-screen+email-screenshot+text-message-screenshot__EFTA01746963_20260130_p002_i001.png"
+      },
+      {
+        "category": "passport",
+        "words": 594,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01599561.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport__EFTA01599561_20260130_p001_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport__EFTA01599561_20260130_p001_i001.png"
+      },
+      {
+        "category": "business-card",
+        "words": 591,
+        "confidence": 1.0,
+        "source_pdf": "EFTA01643470.pdf",
+        "method": "pdf_text",
+        "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/business-card/business-card__EFTA01643470_20260130_p063_i001.md",
+        "png_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/business-card/business-card__EFTA01643470_20260130_p063_i001.png"
+      }
+    ]
+  },
+  "cast_hits": {
+    "person_hit_totals": {
+      "ghislaine-maxwell": 14,
+      "glenn-eva-dubin": 5
+    },
+    "files_by_person": {
+      "ghislaine-maxwell": [
+        {
+          "hits": 4,
+          "category": "passport",
+          "words": 447,
+          "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport+id-card__EFTA01263148_20260130_p004_i001.md"
+        },
+        {
+          "hits": 4,
+          "category": "passport",
+          "words": 434,
+          "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport+legal-filing__EFTA01263148_20260130_p001_i001.md"
+        },
+        {
+          "hits": 4,
+          "category": "passport",
+          "words": 288,
+          "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/passport/passport+id-card__EFTA01306402_20260130_p004_i001.md"
+        },
+        {
+          "hits": 2,
+          "category": "computer-screen",
+          "words": 294,
+          "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/computer-screen/computer-screen+timeline+text-message-screenshot__EFTA01652016_20260130_p009_i001.md"
+        }
+      ],
+      "glenn-eva-dubin": [
+        {
+          "hits": 5,
+          "category": "business-card",
+          "words": 273,
+          "md_path": "_CLIP_OUTPUT/ALL_CLASSIFIED/_DOCUMENTS/business-card/business-card__EFTA01733932_20260130_p001_i001.md"
+        }
+      ]
+    }
+  }
+}

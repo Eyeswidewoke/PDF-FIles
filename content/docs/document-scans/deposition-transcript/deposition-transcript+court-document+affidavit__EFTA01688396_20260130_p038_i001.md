@@ -1,0 +1,67 @@
+---
+source_image: "deposition-transcript+court-document+affidavit__EFTA01688396_20260130_p038_i001.png"
+source_pdf: "EFTA01688396.pdf"
+method: pdf_text
+words: 634
+confidence: 1.00
+extracted: 2026-02-13T16:21:21.854798
+---
+
+•bable Cause Affidavit 
+• 
+Palm Beach Police Department 
+Agency ORI# FLO 500600 
+During the course of the investigation a search warrant was executed at Jeffrey Epstein's home located at 
+358 El Brillo Way in Palm Beach. While in the home I observed the pink and green couch within the master 
+bedroom area just as the girls previously mentioned. The stairway, which is located from the kitchen area to the 
+master bedroom area, is lined with photos of naked young girls. Additionally, numerous photographs of naked 
+young females, some of which appeared to be the girls I previously interviewed, were on display throughout the 
+house. Also located in the house were various phone message books. The telephone message books have a 
+duplicate copy (Carbon Copy) which, once a phone message is written into the book, the top copy is then torn 
+on the perforated edge and the carbon copy is left in the book. First names of girls, dates and telephone numbers 
+were on the copy of the messages. I recognized various numbers and names of girls that had already been 
+interviewed. The body of the messages were time of the day that they called for confirmation of "work." Other 
+names and telephone numbers were located in which the body of the messages were, "I have girls for him" or "I 
+have 2 girls for him." These messages were taken by 
+who signed the bottom of the messages. 
+During the execution of the warrant, I located a 
+transcript for
+ in Epstein's 
+bedroom desk. This desk had stationary marked Jeffrey E Epstein. I located a wood colored armoire beside 
+Epstein's bed that contained a bottle of "Joy Jelly," which is used to provide a warm massage. Several ma gesage 
+tables were located throughout the second floor of the residence, including a massage table found in Epstein's 
+bedroom. On the first floor of the residence I found two covert cameras hidden within clocks. One was located 
+in the garage and the other located in the library area on a shelf behind Epstein's desk. A computer was located 
+which was believed to contain the ima es from the covert cameras. The computer's hard drive was reviewed 
+which showed several images o 
+and other witnesses that have been interviewed. All of these 
+images appeared to come from the camera positioned behind Epstein's desk. 
+On December 13, 2005, Det. 
+and I met with'. dob 
+During a sworn taped
+statement,stated that when she was 
+years old she was taken to Epstein's house to provide a massage 
+for money. 
+stated it was before Christmas last year (2004) when an associate, 
+approached her and 
+asked if she needed to make money for Christmas. • 
+made arrangements to take 
+to the house and drove 
+al to the house to "work." They were encountered by a white female with long and hair. is was unable to 
+remember the name of the white female with blond hair but knew she was Epstein's assistant.Thte was led 
+upstairs by the white female who explained that there would be lotions out already and Epstein would choose the 
+lotion he wanted her to use. She was led through a spiral staircase which led to a master bedroom and 
+bathroom. The massage table was already set up in the bathroom.. described the bathroom as a large 
+spacious bathroom with a steam room and shower beside it.. 
+was introduced to Epstein who was on the 
+phone when she entered the room. Epstein was wearing a white towel and laid on his stomach so that. may 
+The foregoing instrument was sworn to or affirmed 
+before me this 1" day of May, 2006 by 
+Det Joe Recarey, who is personally known to me. 
+State of Florida 
+County of Palm Beach 
+Signature/Arresting Officer 
+Signature of Police Officer (F.S.S. 117.10) 
+Date: 05/01/2006 
+Page of 22 
+EFTA01688433

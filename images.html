@@ -1,0 +1,951 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IMAGE &amp; PHOTO ANALYSIS | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --bg:#0f1218;
+      --surface:#171c24;
+      --surface-2:#1f2631;
+      --border:#2d3643;
+      --text:#e8edf4;
+      --muted:#92a0b4;
+      --accent:#1a8fc4;
+      --accent-2:#4db8e8;
+      --warm:#d35d2c;
+      --warm-2:#f08a5d;
+      --warn:#e6a817;
+      --good:#2caa71;
+      --bad:#c62828;
+      --sans:'Space Grotesk',system-ui,sans-serif;
+      --mono:'IBM Plex Mono',monospace;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--sans);background:radial-gradient(circle at 10% 0%,#141c24 0%,#0f1218 55%);color:var(--text);line-height:1.6;min-height:100vh}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    .back-link{
+      display:inline-block;margin:1rem;padding:.5rem 1rem;
+      border:1px solid var(--border);border-radius:.5rem;
+      color:var(--muted);font:600 .78rem var(--mono);transition:all .2s;
+    }
+    .back-link:hover{color:var(--accent);border-color:var(--accent);text-decoration:none}
+
+    .hero{
+      padding:2.5rem 1.5rem 1.5rem;text-align:center;
+      border-bottom:2px solid var(--accent);
+      background:linear-gradient(170deg,#0e161f 0%,#121a25 45%,#0f1218 100%);
+    }
+    .hero h1{
+      font-size:clamp(1.8rem,4vw,2.8rem);letter-spacing:.04em;font-weight:700;
+      background:linear-gradient(90deg,var(--accent),var(--accent-2));
+      background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;color:transparent;
+    }
+    .hero .subhead{max-width:84ch;margin:.6rem auto 0;color:var(--muted);font-size:.92rem}
+    .hero .datestamp{margin-top:.5rem;font:.72rem var(--mono);color:var(--muted)}
+
+    .content{max-width:1200px;margin:0 auto;padding:1rem 1.5rem 3rem}
+    section.block{
+      margin-bottom:2rem;
+      background:var(--surface);border:1px solid var(--border);border-radius:.8rem;
+      padding:1.4rem 1.5rem;
+    }
+    section.block h2{
+      color:var(--accent);margin-bottom:.7rem;font-size:1.15rem;letter-spacing:.02em;
+      border-bottom:1px solid var(--border);padding-bottom:.45rem;
+    }
+    section.block h3{color:var(--accent-2);margin:1rem 0 .5rem;font-size:.95rem}
+    p{margin-bottom:.8rem;color:var(--text);font-size:.88rem}
+    p.muted{color:var(--muted)}
+    ul,ol{padding-left:1.5rem;margin:.5rem 0 1rem;color:var(--muted);font-size:.86rem}
+    li{margin:.25rem 0}
+    strong{color:var(--text)}
+    code{font-family:var(--mono);background:rgba(26,143,196,.1);padding:.1rem .35rem;border-radius:.25rem;font-size:.82rem;color:var(--accent-2)}
+
+    .editorial{
+      border-left:3px solid var(--accent);padding:.8rem 1.1rem;margin:1rem 0;
+      background:rgba(26,143,196,.06);border-radius:0 .5rem .5rem 0;font-size:.87rem;
+    }
+    .editorial strong{color:var(--accent-2)}
+    .callout{
+      border:1px solid var(--warn);background:rgba(230,168,23,.08);
+      border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0;font-size:.85rem;
+    }
+    .callout.red{border-color:var(--bad);background:rgba(198,40,40,.08)}
+    .callout.green{border-color:var(--good);background:rgba(44,170,113,.08)}
+    .callout.blue{border-color:var(--accent);background:rgba(26,143,196,.08)}
+
+    .stat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(155px,1fr));gap:.65rem;margin:.8rem 0}
+    .stat-card{
+      background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;
+      padding:.75rem .85rem;text-align:center;
+    }
+    .stat-card .n{font:700 1.5rem var(--mono);color:var(--accent)}
+    .stat-card .l{font-size:.68rem;color:var(--muted);text-transform:uppercase;margin-top:.15rem;letter-spacing:.03em}
+    .stat-card.warn .n{color:var(--warn)}
+    .stat-card.bad .n{color:var(--bad)}
+    .stat-card.good .n{color:var(--good)}
+    .stat-card.warm .n{color:var(--warm)}
+
+    .bar-section{display:flex;flex-direction:column;gap:.45rem;margin:.7rem 0}
+    .bar-row{display:grid;grid-template-columns:220px 1fr 80px;align-items:center;gap:.6rem}
+    .bar-label{font:600 .74rem var(--mono);color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .bar-track{height:14px;background:var(--border);border-radius:999px;overflow:hidden}
+    .bar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--accent-2));transition:width .5s}
+    .bar-fill.warm{background:linear-gradient(90deg,var(--warm),var(--warm-2))}
+    .bar-fill.green{background:linear-gradient(90deg,#1a7a45,#2caa71)}
+    .bar-fill.red{background:linear-gradient(90deg,#8e0000,#c62828)}
+    .bar-fill.yellow{background:linear-gradient(90deg,#b8860b,#e6a817)}
+    .bar-fill.purple{background:linear-gradient(90deg,#6a1b9a,#ab47bc)}
+    .bar-count{text-align:right;font:600 .72rem var(--mono);color:var(--muted)}
+
+    .data-table{width:100%;border-collapse:collapse;margin:.7rem 0;font-size:.8rem}
+    .data-table th{
+      text-align:left;font:600 .72rem var(--mono);color:var(--accent-2);
+      text-transform:uppercase;letter-spacing:.04em;padding:.5rem .6rem;
+      border-bottom:2px solid var(--border);background:var(--surface-2);position:sticky;top:0;
+    }
+    .data-table td{padding:.45rem .6rem;border-bottom:1px solid var(--border);color:var(--text)}
+    .data-table tr:hover td{background:rgba(26,143,196,.05)}
+    .data-table .num{text-align:right;font-family:var(--mono);font-size:.78rem}
+    .data-table .muted{color:var(--muted)}
+    .data-table .accent{color:var(--accent)}
+    .data-table .small{font-size:.72rem;color:var(--muted)}
+    .table-wrap{max-height:50vh;overflow-y:auto;border:1px solid var(--border);border-radius:.5rem}
+
+    .pipeline{display:flex;flex-wrap:wrap;gap:.6rem;margin:.8rem 0}
+    .pipe-step{
+      flex:1;min-width:140px;background:var(--surface-2);border:1px solid var(--border);
+      border-radius:.6rem;padding:.7rem;text-align:center;position:relative;
+    }
+    .pipe-step::after{
+      content:'â†’';position:absolute;right:-.45rem;top:50%;transform:translateY(-50%);
+      color:var(--accent);font-weight:700;font-size:1.1rem;
+    }
+    .pipe-step:last-child::after{content:none}
+    .pipe-step .step-n{font:700 .7rem var(--mono);color:var(--accent);text-transform:uppercase}
+    .pipe-step .step-desc{font-size:.76rem;color:var(--muted);margin-top:.25rem}
+
+    .toc{
+      background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;
+      padding:1rem 1.2rem;margin-bottom:1.5rem;
+    }
+    .toc h3{color:var(--accent);margin-bottom:.5rem;font-size:.9rem}
+    .toc ol{padding-left:1.3rem}
+    .toc li{margin:.3rem 0}
+    .toc a{font:.8rem var(--mono);color:var(--muted)}
+    .toc a:hover{color:var(--accent)}
+
+    .wip-badge{
+      display:inline-block;padding:.15rem .5rem;border-radius:.3rem;
+      background:rgba(230,168,23,.15);border:1px solid rgba(230,168,23,.3);
+      color:var(--warn);font:600 .65rem var(--mono);text-transform:uppercase;
+      letter-spacing:.04em;vertical-align:middle;margin-left:.4rem;
+    }
+
+    @media(max-width:700px){
+      .bar-row{grid-template-columns:130px 1fr 60px}
+      .content{padding:1rem}
+      section.block{padding:1rem}
+    }
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./index.html">&larr; BACK TO MAIN SITE</a>
+
+  <header class="hero">
+    <h1>IMAGE &amp; PHOTO ANALYSIS</h1>
+    <p class="subhead">
+      A deep dive into the 700,000+ images extracted from the Epstein file PDFs &mdash;
+      what they contain, how they were classified, why they were buried in PDF wrappers,
+      and what the blank page and duplicate cleanup reveals.
+    </p>
+    <p class="datestamp">Last updated: February 15, 2026</p>
+  </header>
+
+  <div class="content">
+
+    <nav class="toc">
+      <h3>CONTENTS</h3>
+      <ol>
+        <li><a href="#overview">Overview: Images in the Epstein Files</a></li>
+        <li><a href="#why-pdfs">Why Are Images Stored as PDFs?</a></li>
+        <li><a href="#extraction">The Extraction Pipeline</a></li>
+        <li><a href="#classification">AI Classification (CLIP)</a></li>
+        <li><a href="#breakdown">Content Breakdown: What&rsquo;s in the Images</a></li>
+        <li><a href="#categories">Full Category Inventory</a></li>
+        <li><a href="#blanks">Blank Pages &amp; Waste</a></li>
+        <li><a href="#cleanup">Cleanup: Duplicates, Tiny Files, Corrupt Images</a></li>
+        <li><a href="#datasets">Which Datasets Contain What</a></li>
+        <li><a href="#status">Current Processing Status</a></li>
+      </ol>
+    </nav>
+
+    <!-- â”€â”€â”€ 1. OVERVIEW â”€â”€â”€ -->
+    <section class="block" id="overview">
+      <h2>1. Overview: Images in the Epstein Files</h2>
+      <p>
+        The official Epstein file releases contain approximately <strong>904,395 files</strong> across
+        12 datasets. Nearly every one of these files is a PDF &mdash; and inside those PDFs are embedded
+        images: photographs, screenshots, scanned pages, charts, and hundreds of thousands of blank
+        white rectangles.
+      </p>
+      <p>
+        Our pipeline has extracted and individually classified <strong>835,718 images</strong> from
+        these PDFs, sorted them into <strong>47 content categories</strong> using an AI vision
+        model, and identified over <strong>564,000 blank pages</strong> that were included in the
+        release as full PDF documents.
+      </p>
+
+      <div class="stat-grid">
+        <div class="stat-card"><div class="n">835,718</div><div class="l">Images Extracted</div></div>
+        <div class="stat-card"><div class="n">47</div><div class="l">Content Categories</div></div>
+        <div class="stat-card bad"><div class="n">564,807</div><div class="l">Blank Pages Found</div></div>
+        <div class="stat-card warn"><div class="n">67.6%</div><div class="l">Blank Rate</div></div>
+        <div class="stat-card"><div class="n">3,554</div><div class="l">Bad / Corrupt</div></div>
+        <div class="stat-card"><div class="n">697</div><div class="l">Tiny (&lt;5KB)</div></div>
+      </div>
+
+      <div class="callout green">
+        <strong>âœ… Processing complete.</strong> All pipeline stages have finished. Blank page sweep
+        covered all 47 categories. 564,807 image-level blanks identified and removed. A separate
+        <a href="./deep-sweep.html">Deep Sweep</a> then recovered hidden text from 400,913 pages
+        that appeared blank to image extraction but contained embedded text layers &mdash; yielding
+        40.3 million additional words.
+      </div>
+    </section>
+
+    <!-- â”€â”€â”€ 2. WHY PDFS â”€â”€â”€ -->
+    <section class="block" id="why-pdfs">
+      <h2>2. Why Are Images Stored as PDFs?</h2>
+
+      <p>
+        This is one of the most important questions about the release format, and the answer says
+        more about the releasing agency than it does about the files themselves.
+      </p>
+
+      <h3>What happened</h3>
+      <p>
+        Photographs, screenshots, scanned documents, text messages, business cards, and handwritten
+        notes were all individually wrapped in PDF containers before release. A simple 200KB JPEG
+        photograph becomes a 1.5MB single-page PDF. A screenshot of a text conversation that could
+        be a PNG file becomes a PDF that requires a PDF reader to open.
+      </p>
+
+      <h3>What the original files were</h3>
+      <p>
+        These images originally existed as standard image files &mdash; <code>.jpg</code>,
+        <code>.png</code>, <code>.tiff</code>, <code>.bmp</code> &mdash; or as embedded images
+        within email clients, litigation databases, and forensic imaging tools. They were converted
+        to individual PDF pages as part of the Concordance/IPRO litigation support workflow used
+        by the DOJ and cooperating law firms.
+      </p>
+
+      <h3>Why this matters</h3>
+      <ul>
+        <li><strong>You can&rsquo;t search images inside PDFs.</strong> Image-based PDFs don&rsquo;t
+        have searchable text. Every page requires OCR (Optical Character Recognition) before it
+        becomes searchable &mdash; a process that takes seconds per page and hours at scale.</li>
+        <li><strong>You can&rsquo;t thumbnail or preview PDFs easily.</strong> Standard file browsers
+        can display image thumbnails instantly. PDFs require rendering, which makes visual scanning
+        of large collections impractical without specialized tools.</li>
+        <li><strong>File sizes balloon.</strong> The PDF wrapper adds overhead to every file.
+        Across 700,000+ images, this adds up to hundreds of gigabytes of wasted space.</li>
+        <li><strong>Metadata is lost.</strong> Original image files contain EXIF data &mdash; camera
+        model, date taken, GPS coordinates, orientation. PDF conversion strips all of this. For
+        evidentiary photographs, this metadata loss is significant.</li>
+        <li><strong>It fragments multi-page documents.</strong> A 47-page scanned deposition becomes
+        47 individual PDF files, each containing a single page image. Reassembling the original
+        document requires knowing which page numbers belong together &mdash; information that
+        is often only available in the proprietary Concordance load file.</li>
+      </ul>
+
+      <div class="editorial">
+        <strong>The practical effect:</strong> Releasing images as PDFs means that no casual observer
+        can review them. You need extraction software, classification tools, OCR engines, and significant
+        storage just to see what&rsquo;s in the pictures. This transforms a task that should be
+        &ldquo;look at the photos&rdquo; into a multi-week engineering project.
+      </div>
+    </section>
+
+    <!-- â”€â”€â”€ 3. EXTRACTION â”€â”€â”€ -->
+    <section class="block" id="extraction">
+      <h2>3. The Extraction Pipeline</h2>
+      <p>
+        To make the images accessible, we built a multi-stage pipeline that extracts, classifies,
+        and organizes every embedded image from every PDF in the release.
+      </p>
+
+      <div class="pipeline">
+        <div class="pipe-step">
+          <div class="step-n">1. Extract</div>
+          <div class="step-desc">PyMuPDF opens each PDF and pulls out every embedded image as a PNG</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">2. Tag</div>
+          <div class="step-desc">CLIP AI vision model scores each image against 48 content labels</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">3. Rename</div>
+          <div class="step-desc">Files are renamed with their top labels embedded in the filename</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">4. Sort</div>
+          <div class="step-desc">Images moved into category folders based on their primary classification</div>
+        </div>
+        <div class="pipe-step">
+          <div class="step-n">5. Sweep</div>
+          <div class="step-desc">Blank detection removes white/empty pages from each category</div>
+        </div>
+      </div>
+
+      <h3>Filename Convention</h3>
+      <p>
+        Each extracted image gets a structured filename that encodes its classification and source:
+      </p>
+      <p style="font-family:var(--mono);font-size:.78rem;color:var(--accent-2);word-break:break-all;background:var(--bg);padding:.6rem .8rem;border-radius:.4rem;border:1px solid var(--border)">
+        <span style="color:var(--accent)">deposition-transcript</span>+<span style="color:var(--warn)">adult-woman</span>+<span style="color:var(--good)">affidavit</span>__<span style="color:var(--warm-2)">EFTA01609671</span>_<span style="color:var(--muted)">20260130_p001_i001</span>.png
+      </p>
+      <ul>
+        <li><span style="color:var(--accent)">Primary category</span> + <span style="color:var(--warn)">secondary tags</span> &mdash; what the AI thinks the image contains</li>
+        <li><span style="color:var(--warm-2)">EFTA ID</span> &mdash; the original Bates/document identifier from the release</li>
+        <li><span style="color:var(--muted)">Date, page, image number</span> &mdash; extraction metadata</li>
+      </ul>
+
+      <h3>Technical Details</h3>
+      <table class="data-table">
+        <thead><tr><th>Component</th><th>Detail</th></tr></thead>
+        <tbody>
+          <tr><td>PDF parser</td><td><strong>PyMuPDF (fitz) 1.27.1</strong> &mdash; extracts embedded image XObjects from each page</td></tr>
+          <tr><td>Vision model</td><td><strong>OpenAI CLIP ViT-B/32</strong> &mdash; zero-shot image classification</td></tr>
+          <tr><td>Label set</td><td><strong>48 custom labels</strong> &mdash; tuned for legal/evidentiary content (see <a href="#classification">Â§4</a>)</td></tr>
+          <tr><td>Blank detection</td><td><strong>Pillow + NumPy</strong> &mdash; mean pixel &gt; 252 &amp; std &lt; 3 = blank</td></tr>
+          <tr><td>Output format</td><td>PNG images, organized into category folders</td></tr>
+          <tr><td>Processing time</td><td>~4 hours with CUDA GPU, ~40 hours CPU-only</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- â”€â”€â”€ 4. CLASSIFICATION â”€â”€â”€ -->
+    <section class="block" id="classification">
+      <h2>4. AI Classification (CLIP)</h2>
+      <p>
+        Every extracted image is classified using <strong>CLIP</strong> (Contrastive Language&ndash;Image
+        Pre-training), an AI model developed by OpenAI that can match images to text descriptions
+        without being specifically trained on any particular category. We use the
+        <code>ViT-B/32</code> variant.
+      </p>
+
+      <h3>How it works</h3>
+      <p>
+        CLIP compares each image against a set of 48 custom text labels and returns a probability
+        score for each one. The labels were specifically designed for this type of legal/evidentiary
+        content:
+      </p>
+
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:.3rem;margin:.8rem 0">
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">scanned document</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">typed page</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">email screenshot</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">text message screenshot</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">deposition transcript</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">court document</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">legal filing</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">affidavit</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">bank statement</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">invoice</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">check</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">receipt</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">contact list</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">passport</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">id card</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">business card</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">handwritten note</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">portrait photo</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">group photo</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">person</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">adult man</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">adult woman</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">child</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">indoor scene</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">vehicle</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">signature</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">newspaper clipping</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">spreadsheet</span>
+        <span style="font:.72rem var(--mono);color:var(--muted);padding:.25rem .4rem;background:var(--surface-2);border-radius:.3rem;border:1px solid var(--border)">+ 20 more labels</span>
+      </div>
+
+      <h3>Accuracy &amp; Limitations</h3>
+      <ul>
+        <li><strong>CLIP is good at broad categorization</strong> &mdash; it reliably distinguishes
+        email screenshots from deposition pages from photographs</li>
+        <li><strong>It struggles with similar document types</strong> &mdash; an affidavit vs. a
+        legal filing vs. a court document can look nearly identical, so these categories have
+        overlap</li>
+        <li><strong>Multi-label tagging helps</strong> &mdash; each image gets its top 3&ndash;5
+        labels encoded in the filename, so an image classified as
+        <code>email-screenshot+contact-list</code> captures both aspects</li>
+        <li><strong>Human review is still needed</strong> &mdash; the AI classification is a
+        sorting tool, not a final determination. Critical images should always be verified</li>
+      </ul>
+    </section>
+
+    <!-- â”€â”€â”€ 5. CONTENT BREAKDOWN â”€â”€â”€ -->
+    <section class="block" id="breakdown">
+      <h2>5. Content Breakdown: What&rsquo;s in the Images</h2>
+      <p>
+        Based on CLIP classification of 835,718 extracted images, here is the high-level breakdown
+        of what the Epstein files actually contain visually:
+      </p>
+
+      <div class="stat-grid">
+        <div class="stat-card"><div class="n">52.4%</div><div class="l">Documents &amp; Depositions</div></div>
+        <div class="stat-card"><div class="n">34.7%</div><div class="l">Email Screenshots</div></div>
+        <div class="stat-card"><div class="n">2.4%</div><div class="l">Financial Records</div></div>
+        <div class="stat-card"><div class="n">1.3%</div><div class="l">Text Messages</div></div>
+        <div class="stat-card"><div class="n">0.4%</div><div class="l">Photos of People</div></div>
+        <div class="stat-card warm"><div class="n">8.8%</div><div class="l">Other / Uncategorized</div></div>
+      </div>
+
+      <h3>Content Type Distribution</h3>
+      <div class="bar-section">
+        <div class="bar-row">
+          <span class="bar-label">Documents &amp; depositions</span>
+          <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+          <span class="bar-count">369,557</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Email screenshots</span>
+          <div class="bar-track"><div class="bar-fill warm" style="width:66.3%"></div></div>
+          <span class="bar-count">245,041</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Other / uncategorized</span>
+          <div class="bar-track"><div class="bar-fill purple" style="width:16.8%"></div></div>
+          <span class="bar-count">62,230</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Financial records</span>
+          <div class="bar-track"><div class="bar-fill green" style="width:4.5%"></div></div>
+          <span class="bar-count">16,641</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Text messages</span>
+          <div class="bar-track"><div class="bar-fill yellow" style="width:2.5%"></div></div>
+          <span class="bar-count">9,420</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Photos of people / scenes</span>
+          <div class="bar-track"><div class="bar-fill red" style="width:0.7%"></div></div>
+          <span class="bar-count">2,663</span>
+        </div>
+      </div>
+
+      <h3>What this tells us</h3>
+      <div class="editorial">
+        <p>
+          <strong>Over 87% of all images are pages of typed text</strong> &mdash; depositions, emails, and legal
+          documents that were printed or scanned and then stored as images inside PDFs. These are
+          not &ldquo;pictures&rdquo; in any meaningful sense. They are text documents that have
+          been rendered as pictures, making them unsearchable, uncopyable, and unindexable without
+          OCR processing.
+        </p>
+        <p style="margin-top:.5rem">
+          <strong>Actual photographs of people, places, and things make up less than 0.4%</strong> of the total.
+          The Epstein files are overwhelmingly a text archive that has been converted into an image
+          archive through format choices.
+        </p>
+      </div>
+    </section>
+
+    <!-- â”€â”€â”€ 6. FULL CATEGORY INVENTORY â”€â”€â”€ -->
+    <section class="block" id="categories">
+      <h2>6. Full Category Inventory</h2>
+      <p>All 26 active categories with current file counts. Categories were created by the CLIP
+      classification pipeline and have been consolidated through manual review.</p>
+
+      <div class="bar-section">
+        <div class="bar-row">
+          <span class="bar-label">deposition-transcript</span>
+          <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+          <span class="bar-count">327,717</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Emails Screenshots</span>
+          <div class="bar-track"><div class="bar-fill warm" style="width:74.8%"></div></div>
+          <span class="bar-count">245,041</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">uncategorized</span>
+          <div class="bar-track"><div class="bar-fill purple" style="width:8.3%"></div></div>
+          <span class="bar-count">27,345</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">scanned-document</span>
+          <div class="bar-track"><div class="bar-fill" style="width:7.4%"></div></div>
+          <span class="bar-count">24,220</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">affidavit</span>
+          <div class="bar-track"><div class="bar-fill green" style="width:6.0%"></div></div>
+          <span class="bar-count">19,792</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">bank-statement</span>
+          <div class="bar-track"><div class="bar-fill yellow" style="width:5.1%"></div></div>
+          <span class="bar-count">16,641</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">court-document</span>
+          <div class="bar-track"><div class="bar-fill" style="width:4.9%"></div></div>
+          <span class="bar-count">16,145</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Text Messages</span>
+          <div class="bar-track"><div class="bar-fill warm" style="width:2.9%"></div></div>
+          <span class="bar-count">9,420</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">book-page</span>
+          <div class="bar-track"><div class="bar-fill green" style="width:1.8%"></div></div>
+          <span class="bar-count">5,903</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">People</span>
+          <div class="bar-track"><div class="bar-fill red" style="width:0.7%"></div></div>
+          <span class="bar-count">2,263</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">Locations</span>
+          <div class="bar-track"><div class="bar-fill purple" style="width:0.7%"></div></div>
+          <span class="bar-count">2,364</span>
+        </div>
+      </div>
+
+      <h3>Complete Table</h3>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th>Category</th><th class="num">Images</th><th class="num">% of Total</th><th>Blanks Swept</th><th>Notes</th></tr></thead>
+          <tbody>
+            <tr><td>deposition-transcript</td><td class="num">327,717</td><td class="num">46.4%</td><td><span style="color:var(--good)">95,721 removed</span></td><td class="small">Largest category â€” court depositions, legal testimony pages</td></tr>
+            <tr><td>Emails Screenshots</td><td class="num">245,041</td><td class="num">34.7%</td><td><span style="color:var(--good)">15,825 removed</span></td><td class="small">Email bodies rendered as images within PDFs</td></tr>
+            <tr><td>uncategorized</td><td class="num">27,345</td><td class="num">3.9%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Images that didn&rsquo;t strongly match any label</td></tr>
+            <tr><td>scanned-document</td><td class="num">24,220</td><td class="num">3.4%</td><td><span style="color:var(--good)">15,651 removed</span></td><td class="small">Generic scanned pages â€” high blank rate (64.6%)</td></tr>
+            <tr><td>affidavit</td><td class="num">19,792</td><td class="num">2.8%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Sworn statements, witness declarations</td></tr>
+            <tr><td>bank-statement</td><td class="num">16,641</td><td class="num">2.4%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Financial account statements, transaction records</td></tr>
+            <tr><td>court-document</td><td class="num">16,145</td><td class="num">2.3%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Court filings, orders, motions</td></tr>
+            <tr><td>Text Messages &amp; Screenshots</td><td class="num">9,420</td><td class="num">1.3%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Text/SMS conversations captured as screenshots</td></tr>
+            <tr><td>book-page</td><td class="num">5,903</td><td class="num">0.8%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Scanned book/publication pages</td></tr>
+            <tr><td>Q</td><td class="num">5,011</td><td class="num">0.7%</td><td class="small muted">Skipped (misc)</td><td class="small">Miscellaneous overflow category</td></tr>
+            <tr><td>Locations</td><td class="num">2,364</td><td class="num">0.3%</td><td class="small muted">Skipped (small)</td><td class="small">Maps, property images, location shots</td></tr>
+            <tr><td>People</td><td class="num">2,263</td><td class="num">0.3%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Photographs containing identifiable persons</td></tr>
+            <tr><td>computer-screen</td><td class="num">1,387</td><td class="num">0.2%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Screenshots of computer interfaces</td></tr>
+            <tr><td>chart</td><td class="num">1,024</td><td class="num">0.1%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Graphs, diagrams, organizational charts</td></tr>
+            <tr><td>timeline</td><td class="num">463</td><td class="num">0.1%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Chronological visualizations</td></tr>
+            <tr><td>conference-room</td><td class="num">400</td><td class="num">0.1%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">Meeting/office environment photos</td></tr>
+            <tr><td>Handwritten Notes</td><td class="num">201</td><td class="num">0.03%</td><td class="small muted">Small set</td><td class="small">Handwritten documents, notes, annotations</td></tr>
+            <tr><td>newspaper-clipping</td><td class="num">126</td><td class="num">0.02%</td><td><span style="color:var(--muted)">Pending</span></td><td class="small">News articles, press clippings</td></tr>
+            <tr><td>ETC</td><td class="num">66</td><td class="num">&lt;0.01%</td><td class="small muted">Small set</td><td class="small">Miscellaneous items that don&rsquo;t fit other categories</td></tr>
+            <tr><td class="muted">+ 7 minor/empty categories</td><td class="num muted">~23</td><td class="num muted">&lt;0.01%</td><td></td><td class="small muted">Graphics, Documents, Legal, Paperwork, Xxx, check, form</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- â”€â”€â”€ 7. BLANKS â”€â”€â”€ -->
+    <section class="block" id="blanks">
+      <h2>7. Blank Pages &amp; Waste</h2>
+      <p>
+        The single largest category of content in the Epstein file release is <strong>nothing</strong>.
+        Over half a million pages &mdash; more than two-thirds of all extracted images &mdash; are
+        completely blank white rectangles stored as full PDF documents with filenames, file system
+        entries, and archive space. These are not redacted pages (which show black bars or stamps).
+        They are genuinely empty at the image/pixel level.
+      </p>
+
+      <div class="callout green">
+        <strong>ðŸ“Œ Important update:</strong> Of the original ~403,020 pages classified as "blank,"
+        our <a href="./deep-sweep.html">Deep Sweep</a> discovered that <strong>400,913 contained hidden
+        text layers</strong> invisible to standard image extraction but readable via PyMuPDF text-layer
+        extraction. These pages yielded <strong>40.3 million additional words</strong> including FBI
+        Director statements, complete financial architectures, and bank compliance records. The 564,807
+        figure below reflects image-level blank detection (pixel analysis); the deep sweep recovered
+        content from pages that were blank <em>as images</em> but had embedded text underneath.
+      </div>
+
+      <div class="stat-grid">
+        <div class="stat-card bad"><div class="n">564,807</div><div class="l">Blank Pages Found</div></div>
+        <div class="stat-card warn"><div class="n">67.6%</div><div class="l">of All Images</div></div>
+        <div class="stat-card"><div class="n">47 / 47</div><div class="l">Categories Swept</div></div>
+        <div class="stat-card good"><div class="n">100%</div><div class="l">Sweep Complete</div></div>
+      </div>
+
+      <h3>How blank detection works</h3>
+      <p>
+        Each image is loaded as a pixel array. If the <strong>mean pixel value exceeds 252</strong>
+        (out of 255) and the <strong>standard deviation is below 3</strong>, the image is classified
+        as blank. This catches pure white pages, near-white pages, and pages with only faint scanner
+        artifacts. The threshold is conservative â€” genuinely blank pages typically have mean &gt; 254
+        and std &lt; 1.
+      </p>
+
+      <h3>Blank Page Breakdown</h3>
+      <table class="data-table">
+        <thead><tr><th>Category</th><th class="num">Total Images</th><th class="num">Blanks Found</th><th class="num">Blank Rate</th><th>Status</th></tr></thead>
+        <tbody>
+          <tr>
+            <td>deposition-transcript</td><td class="num">424,716</td>
+            <td class="num" style="color:var(--bad)">233,747</td><td class="num">55.0%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>email-screenshot</td><td class="num">261,902</td>
+            <td class="num" style="color:var(--bad)">186,309</td><td class="num">71.1%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>uncategorized</td><td class="num">28,544</td>
+            <td class="num" style="color:var(--bad)">26,975</td><td class="num">94.5%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>contact-list</td><td class="num">29,072</td>
+            <td class="num" style="color:var(--bad)">24,135</td><td class="num">83.0%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>typed-page</td><td class="num">22,896</td>
+            <td class="num" style="color:var(--bad)">18,736</td><td class="num">81.8%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>invoice</td><td class="num">43,229</td>
+            <td class="num" style="color:var(--bad)">15,457</td><td class="num">35.8%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>affidavit</td><td class="num">19,856</td>
+            <td class="num" style="color:var(--bad)">12,380</td><td class="num">62.3%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>bank-statement</td><td class="num">16,658</td>
+            <td class="num" style="color:var(--bad)">8,300</td><td class="num">49.8%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>legal-filing</td><td class="num">24,847</td>
+            <td class="num" style="color:var(--bad)">7,226</td><td class="num">29.1%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>court-document</td><td class="num">16,253</td>
+            <td class="num" style="color:var(--bad)">6,895</td><td class="num">42.4%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td>scanned-document</td><td class="num">25,013</td>
+            <td class="num" style="color:var(--bad)">139</td><td class="num">0.6%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr>
+            <td class="muted">+ 36 other categories</td><td class="num muted">36,137</td>
+            <td class="num muted">24,508</td><td class="num muted">67.8%</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+          </tr>
+          <tr style="border-top:2px solid var(--accent)">
+            <td><strong>TOTAL</strong></td><td class="num"><strong>949,123</strong></td>
+            <td class="num" style="color:var(--bad)"><strong>564,807</strong></td>
+            <td class="num"><strong>59.5%</strong></td>
+            <td><span style="color:var(--good)"><strong>âœ“ Complete</strong></span></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="callout red">
+        <strong>ðŸ”´ The email-screenshot category is 71.1% blank.</strong> Nearly three-quarters of
+        all email screenshots are empty pages. The &ldquo;uncategorized&rdquo; folder is 94.5% blank.
+        The deposition-transcript category &mdash; the single largest in the entire release &mdash;
+        is 55% blank. More than half of every deposition is empty paper included in the
+        &ldquo;official release.&rdquo;
+      </div>
+
+      <div class="editorial">
+        <p>
+          <strong>What 564,807 blank pages means in practice:</strong> If a researcher is opening
+          PDFs to review the Epstein files, approximately 2 out of every 3 files they open is a
+          completely blank page. At 10 seconds per file to open, look at, and close: that&rsquo;s
+          <strong>1,567 hours</strong> of a researcher&rsquo;s time wasted on blank pages alone.
+          That is <strong>196 working days</strong> &mdash; nearly an entire year of full-time work
+          &mdash; spent staring at nothing.
+        </p>
+      </div>
+    </section>
+
+    <!-- â”€â”€â”€ 8. CLEANUP â”€â”€â”€ -->
+    <section class="block" id="cleanup">
+      <h2>8. Cleanup: Duplicates, Tiny Files, Corrupt Images</h2>
+      <p>
+        Beyond blank pages, the extraction process identifies several other categories of problematic
+        files that inflate the release without adding content.
+      </p>
+
+      <div class="stat-grid">
+        <div class="stat-card bad"><div class="n">564,807</div><div class="l">Blank Pages</div></div>
+        <div class="stat-card warn"><div class="n">250,243</div><div class="l">Duplicates</div></div>
+        <div class="stat-card"><div class="n">3,554</div><div class="l">Bad / Corrupt</div></div>
+        <div class="stat-card"><div class="n">697</div><div class="l">Tiny (&lt;5KB)</div></div>
+        <div class="stat-card good"><div class="n">689</div><div class="l">Verified Keepers</div></div>
+      </div>
+
+      <h3>What each category means</h3>
+      <table class="data-table">
+        <thead><tr><th>Category</th><th class="num">Count</th><th>Description</th></tr></thead>
+        <tbody>
+          <tr>
+            <td style="color:var(--bad)"><strong>Blank pages</strong></td>
+            <td class="num">564,807</td>
+            <td>Pure white or near-white images with no content. Detected via pixel analysis (mean &gt; 252, std &lt; 3). Moved to <code>_BLANK_PAGES</code> subfolder within each category.</td>
+          </tr>
+          <tr>
+            <td style="color:var(--warn)"><strong>Duplicates</strong></td>
+            <td class="num">250,243</td>
+            <td>Duplicate images identified via perceptual hash (dHash) matching. Same visual content stored under different filenames across datasets. Moved to <code>DUPLICATES</code> folder.</td>
+          </tr>
+          <tr>
+            <td><strong>Bad / corrupt</strong></td>
+            <td class="num">3,554</td>
+            <td>Images that failed extraction or are corrupted &mdash; zero-byte files, truncated PNGs, images that won&rsquo;t load. Moved to <code>BLANKS BADS</code> folder.</td>
+          </tr>
+          <tr>
+            <td><strong>Tiny files (&lt;5KB)</strong></td>
+            <td class="num">697</td>
+            <td>Images under 5KB &mdash; typically 1x1 pixel spacers, tiny icons, or PDF artifacts. Too small to contain meaningful content. Moved to <code>TINY</code> folder.</td>
+          </tr>
+          <tr>
+            <td style="color:var(--good)"><strong>Verified keepers</strong></td>
+            <td class="num">689</td>
+            <td>Images manually reviewed and confirmed as significant/useful content. Moved to <code>KEEPERS</code> folder for priority access.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Total waste calculation</h3>
+      <p>
+        Adding up all identified waste:
+        <strong>564,807 blanks + 250,243 duplicates + 3,554 corrupt + 697 tiny = 819,301</strong> junk
+        files out of 835,718 extracted images. That&rsquo;s <strong>98.0%</strong> of the extracted
+        images that contain no useful unique content. After removing all waste, approximately
+        <strong>~85,000 unique, substantive pages</strong> remain from a &ldquo;900,000-document release.&rdquo;
+      </p>
+    </section>
+
+    <!-- â”€â”€â”€ 9. DATASETS â”€â”€â”€ -->
+    <section class="block" id="datasets">
+      <h2>9. Which Datasets Contain What</h2>
+      <p>
+        The 12 datasets vary enormously in their image content. Based on our scanning and classification
+        work so far, here is what we know about the visual content of each dataset:
+      </p>
+
+      <table class="data-table">
+        <thead>
+          <tr><th>Dataset</th><th class="num">Total Files</th><th class="num">Archive Size</th><th>Primary Image Content</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>DS1</strong></td><td class="num">3,167</td><td class="num">1.23 GB</td>
+            <td class="small">Mixed &mdash; legal filings, correspondence pages, some scanned documents</td>
+          </tr>
+          <tr>
+            <td><strong>DS2</strong></td><td class="num">579</td><td class="num">0.62 GB</td>
+            <td class="small">Correspondence, some financial document pages</td>
+          </tr>
+          <tr>
+            <td><strong>DS3</strong></td><td class="num">70</td><td class="num">0.58 GB</td>
+            <td class="small">Legal filings, deposition pages &mdash; higher page-per-PDF ratio</td>
+          </tr>
+          <tr>
+            <td><strong>DS4</strong></td><td class="num">155</td><td class="num">0.34 GB</td>
+            <td class="small">Property records, legal documents</td>
+          </tr>
+          <tr>
+            <td><strong>DS5&ndash;DS7</strong></td><td class="num">159</td><td class="num">0.20 GB</td>
+            <td class="small">Small supplementary sets &mdash; mixed legal/correspondence</td>
+          </tr>
+          <tr>
+            <td><strong>DS8</strong></td><td class="num">10,595</td><td class="num">9.95 GB</td>
+            <td class="small">MCC prison records â€” guard check sheets, incident reports, facility photos, surveillance-related docs</td>
+          </tr>
+          <tr style="background:rgba(26,143,196,.05)">
+            <td><strong>DS9</strong></td><td class="num">254,477</td><td class="num">137.90 GB</td>
+            <td class="small">Largest archive &mdash; Lesley Groff email images, Richard Kahn correspondence, bulk email screenshots. <span style="color:var(--warn)">Not yet fully classified</span></td>
+          </tr>
+          <tr>
+            <td><strong>DS10</strong></td><td class="num">302,600</td><td class="num">78.64 GB</td>
+            <td class="small">Concordance/IPRO format &mdash; single-page scanned images in PDF wrappers. Heavy deposition content. Highest blank page rate expected.</td>
+          </tr>
+          <tr>
+            <td><strong>DS11</strong></td><td class="num">331,997</td><td class="num">25.56 GB</td>
+            <td class="small">Bulk email archive â€” mostly email screenshots. Largest dataset by file count.</td>
+          </tr>
+          <tr>
+            <td><strong>DS12</strong></td><td class="num">155</td><td class="num">0.11 GB</td>
+            <td class="small">Supplementary documents</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Where the images are concentrated</h3>
+      <div class="bar-section">
+        <div class="bar-row">
+          <span class="bar-label">DS11 â€” bulk email</span>
+          <div class="bar-track"><div class="bar-fill" style="width:100%"></div></div>
+          <span class="bar-count">331,997</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">DS10 â€” Concordance/IPRO</span>
+          <div class="bar-track"><div class="bar-fill warm" style="width:91.2%"></div></div>
+          <span class="bar-count">302,600</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">DS9 â€” Groff archive</span>
+          <div class="bar-track"><div class="bar-fill yellow" style="width:76.7%"></div></div>
+          <span class="bar-count">254,477</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">DS8 â€” MCC records</span>
+          <div class="bar-track"><div class="bar-fill green" style="width:3.2%"></div></div>
+          <span class="bar-count">10,595</span>
+        </div>
+        <div class="bar-row">
+          <span class="bar-label">DS1&ndash;7 + DS12 combined</span>
+          <div class="bar-track"><div class="bar-fill purple" style="width:1.3%"></div></div>
+          <span class="bar-count">4,325</span>
+        </div>
+      </div>
+
+      <p class="muted">
+        Three datasets (DS9, DS10, DS11) account for <strong>98.4%</strong> of all files. The
+        remaining nine datasets combined are a rounding error in terms of image volume.
+      </p>
+    </section>
+
+    <!-- â”€â”€â”€ 10. STATUS â”€â”€â”€ -->
+    <section class="block" id="status">
+      <h2>10. Current Processing Status</h2>
+      <p>
+        All major pipeline stages are complete. Here is the final state of each:
+      </p>
+
+      <table class="data-table">
+        <thead><tr><th>Pipeline Stage</th><th>Status</th><th>Detail</th></tr></thead>
+        <tbody>
+          <tr>
+            <td>PDF image extraction</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+            <td>835,718 images extracted from all 12 datasets</td>
+          </tr>
+          <tr>
+            <td>CLIP classification</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+            <td>All images tagged and sorted into 47 categories</td>
+          </tr>
+          <tr>
+            <td>Blank page sweep</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+            <td>All 47 categories swept &mdash; 564,807 blanks identified and removed</td>
+          </tr>
+          <tr>
+            <td>Duplicate detection</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+            <td>250,243 duplicates identified via perceptual hash (dHash) matching</td>
+          </tr>
+          <tr>
+            <td>Corrupt/tiny cleanup</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+            <td>3,554 corrupt + 697 tiny files isolated</td>
+          </tr>
+          <tr>
+            <td>Text extraction</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+            <td>343 million words extracted from all datasets (including 40.3M from <a href="./deep-sweep.html" style="color:var(--accent)">deep sweep recovery</a>)</td>
+          </tr>
+          <tr>
+            <td>Person scan</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+            <td>27 persons scanned across all 12 datasets</td>
+          </tr>
+          <tr>
+            <td>Manual review (keepers)</td>
+            <td><span style="color:var(--good)">âœ“ Complete</span></td>
+            <td>689 images verified and flagged as significant</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="callout green">
+        <strong>âœ… Processing complete.</strong> All pipeline stages have finished. The full results
+        are searchable and browsable on this site. Total waste removed: 819,301 files (98% of extracted images).
+        Approximately 85,000 unique substantive pages remain from the original 900,000-file release.
+      </div>
+    </section>
+
+    <!-- â”€â”€â”€ INTERACTIVE GALLERIES â”€â”€â”€ -->
+    <section class="block" id="galleries">
+      <h2>ðŸ“¸ Interactive Image Galleries</h2>
+      <p>
+        Browse classified images directly in your browser â€” filterable, searchable, with full-size lightbox viewing.
+      </p>
+      <div class="stat-grid">
+        <a href="./gallery-picks.html" style="text-decoration:none">
+          <div class="stat-card warm" style="cursor:pointer;border-color:var(--warm);transition:border-color .15s">
+            <div class="n">682</div>
+            <div class="l">â­ Gallery Picks</div>
+            <div style="font:.62rem var(--mono);color:var(--muted);margin-top:.2rem">Hand-picked highlights</div>
+          </div>
+        </a>
+        
+        <a href="./epstein-face-matches.html" style="text-decoration:none">
+          <div class="stat-card" style="cursor:pointer;transition:border-color .15s;border-color:var(--good)">
+            <div class="n" style="color:var(--good)">532</div>
+            <div class="l">Epstein Face Matches</div>
+            <div style="font:.62rem var(--mono);color:var(--muted);margin-top:.2rem">OpenCV YuNet + SFace scan output</div>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <!-- â”€â”€â”€ FOOTER â”€â”€â”€ -->
+    <section class="block" style="text-align:center;border-color:var(--accent)">
+      <p style="color:var(--accent);font:700 .9rem var(--sans);margin-bottom:.4rem">THE PDF FILES</p>
+      <p class="muted" style="font-size:.78rem">
+        Image analysis based on extraction and CLIP classification of 835,718 images from 904,395 PDFs.<br />
+        Classification: OpenAI CLIP ViT-B/32. Extraction: PyMuPDF. Blank detection: Pillow + NumPy.<br />
+        All scripts and methodology are open source and reproducible.
+      </p>
+      <p style="margin-top:.7rem">
+        <a href="./index.html" style="font:.78rem var(--mono)">&larr; Back to Main Site</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./analysis.html" style="font:.78rem var(--mono)">File Analysis &amp; Findings</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./gallery-picks.html" style="font:.78rem var(--mono)">Gallery Picks</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./handwritten-notes.html" style="font:.78rem var(--mono)">Handwritten Notes</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./cast.html" style="font:.78rem var(--mono)">Cast Hub</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./search.html" style="font:.78rem var(--mono)">Search Files</a>
+      </p>
+    </section>
+
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,630 @@
+---
+source_image: "deposition-transcript+spreadsheet+bank-statement__EFTA01581882_20260130_p001_i001.png"
+source_pdf: "EFTA01581882.pdf"
+method: pdf_text
+words: 852
+confidence: 1.00
+extracted: 2026-02-13T16:56:52.543713
+---
+
+Date: 
+1:12006 to 711,2005 
+DETAIL TRIAL BALANCE 
+Fled: 
+I fight/ridge - Financial DIM Co. 
+Dividend Income 
+Account Group: 
+1>iyidend Incemc 
+1/1/2006 so 7/31/2006 
+Detail/cm-I: 
+LOT 
+Grouping: 
+Fund.Position Virection.Dcal 
+Date: 
+8282006 1101:35M1 
+Pam: 
+3 of 6 
+User: 
+manta 
+Journal 
+Ible 
+F'und 
+(11. Brit 
+Ch. Bar. Account 
+Auaml 
+Poe 
+Dir 
+Symbol 
+IM. Num. 
+Related Try Num 
+LInscription 
+Event 
+137m 
+in 
+13PY 
+QM 
+Dcbil 
+Credit 
+Balance 
+04'1006
+long 
+CSFB 
+CSFB • too-r 
+S 
+MAS.N 
+TRD-SlIr of 
+DIV 
+PAY 
+-8.393 
+1.846.46 
+51.72290 DR 
+044006 
+HUFF 
+CSFB 
+CSFB-HAFT 
+S 
+MASH 
+IRD-SFIT 
+DIV 
+PAY 
+4200 
+924.00 
+52446.90 DR 
+014006 
+HUFF 
+CSFB 
+CSFB • !MIT 
+S 
+MASH 
+TRD-SHr of 
+DIV 
+PAY 
+480 
+83.60 
+52710.50 DR 
+00006
+10317 
+CSIB 
+CSFB - 'RIFT 
+S 
+MAIN 
+TRD•SI IT of 
+DIV 
+PAY 
+-1.100 
+242.00 
+52,97/50 DR 
+01/1006 
+'RIFT 
+CSFB 
+CM) - HBFT 
+S 
+MAS.N 
+1RD4FIT 
+DIV 
+PAY 
+4,200 
+264.00 
+53.236.50 DR 
+00 006
+!LOFT 
+CSIB 
+CSFB - IIIIFT 
+S 
+MAS.N 
+1RD-SI IT o 
+DIV 
+PAY 
+-1,200 
+261.00 
+53,500.50 DR 
+0411186 
+WWI 
+CSFB 
+CM) - IIBFT 
+S 
+AFG.N 
+111.17-SIR 
+DIV 
+PAY 
+-17.250 
+2371.18 
+55.87238 DR 
+04/1106 
+Don 
+CSFB 
+CSFB - IIIII7 
+S 
+AFG.N 
+TRD-SIR of 
+DIV 
+PAY 
+450 
+89.38 
+55,961.16 DR 
+04/11106 
+I IIII7 
+CSFB 
+C5173 - I [RFT 
+S 
+AEON 
+TRD•SITT of 
+DIV 
+PAY 
+-290 
+3938 
+56.00141 DR 
+0111136 
+'RIFT 
+CSFB 
+CSFB - HBFT 
+S 
+AFG.N 
+TRD-SFTT o 
+DIV 
+PAY 
+-900 
+123.75 
+56.12539 DR 
+0411136
+111117 
+Call 
+CSF71 - intrr 
+S 
+AEON 
+TRD•SHT of 
+DIV 
+PAY 
+400 
+110.00 
+56,23539 DR 
+0111136 
+Dun 
+CSFB 
+CSFB - Han 
+S 
+AFG.N 
+TRJ/SHT 
+DIV 
+PAY 
+400 
+68.75 
+56.304.14 DR 
+Gum* 
+Dun' 
+("SIB 
+CSFB - IMF7 
+S 
+AFG.N 
+IRD•Hfr 
+DIV 
+PAY 
+410 
+52.25 
+56,35639 I* 
+04/1106 
+Darr 
+CH-73 
+CSFB- FIBF7 
+S 
+CBRI_O 
+'ntp-strr 
+DIV 
+PAY 
+4.052 
+656.76 
+57.013.15 DR 
+01/1106 
+min 
+CSIB 
+CSFB - I mn 
+S 
+CIIRLO 
+IRD-SHT o 
+DIV 
+PAY 
+4.900 
+637.00 
+57,650.15 I* 
+0411136
+Dun 
+CSFB 
+CSF13 • Ion 
+S 
+CBRL-0 
+TRD-SI rr of 
+DIV 
+PAY 
+-3,900 
+507.00 
+58,157.15 DR 
+01/1136
+HM' 
+CSIB 
+CSFB - IMFT 
+S 
+CDRLO 
+1RD-SI IT o 
+DIV 
+PAY 
+-2,800 
+364.00 
+58,521.15 DR 
+00 136
+(RIFT 
+CSFB 
+CUB - Hon 
+S 
+CBR_LO 
+TRD-SI TT of 
+DR' 
+PAY 
+.500 
+65.03 
+58,586.15 DR 
+04/1136
+IMFT 
+CSIB 
+CSFB - Don 
+S 
+RPALN 
+1RD-SIIT o 
+DIV 
+PAY 
+-39.870 
+6.37910 
+64.96535 DR 
+04/1136
+Jinn 
+CSFB 
+CSFB-'RIFT 
+S 
+RMLN 
+TRD-SHE 
+DIV 
+PAY 
+-18.340 
+2,934.40 
+67,199.75 DR 
+00 136 
+I mn.
+CSFB 
+CSFB • I mirr 
+S 
+FtMLN 
+TRD41 IT of 
+DIV 
+PAY 
+-650 
+104.00 
+61,003.15 DR 
+050306 
+I DOT 
+CSFB 
+CSFB - ruin 
+S 
+EDO.N 
+TRD-.SHT o 
+DIV 
+PAY 
+-19.645 
+589.35 
+68393.10 DR 
+0501 06
+FIBIl 
+CSIII 
+CSFB - FIBI-7 
+S 
+EDO.N 
+TRD-SHT 
+DIV 
+PAY 
+-1,000 
+30.00 
+61,623.10 DR 
+050306 
+Durr 
+('5113 
+CSFB-FAIT 
+S 
+VNO.N 
+7R174771' 
+DIV 
+PAY 
+4,900 
+7.920.00 
+76.543.10 DR 
+050306 
+FIBI-7 
+CS173 
+C'5113- FIBI-7 
+S 
+VNO.N 
+IRD-SFII 
+DIV 
+PAY 
+-1,333 
+1.066.40 
+77,609.50 DR 
+050306
+H131.7 
+CSFB 
+0813 -Imr-r 
+S 
+VNO.N 
+'IRD-Slit' of 
+DIV 
+PAY 
+-1,000 
+800.00 
+78,409.50 DR 
+0503% 
+HAFT 
+CSF13 
+05113-'RIFT 
+S 
+VNO.N 
+'112D-SFII o 
+DIV 
+PAY 
+400 
+240.00 
+7844930 DR 
+050 306
+'RIFT 
+CSIB 
+('5113-'RIFT 
+S 
+VNO.N 
+TRD-SFIT 
+DIV 
+PAY 
+400 
+640.00 
+79.289.50 DR 
+050306
+'RIFT 
+CSFB 
+CSFB • Dun 
+S 
+VNO.N 
+HID-SIII of 
+DIV 
+PAY 
+-900 
+720.00 
+80,00930 DR 
+050 306
+'RIFF 
+CSFB 
+CSIB • IMFT 
+S 
+VNO.N 
+TRD-Stir of 
+DR' 
+PAY 
+•1,500 
+1.200.00 
+81.209.50 DR 
+050906
+imn 
+CSFB 
+CSFB - imirr 
+S 
+TJX.N 
+TRD-SIIT of 
+DIV 
+PAY 
+-10436 
+744.52 
+81,954.02 DR 
+050906 
+!MET 
+CSIB 
+CSFB - HBET 
+S 
+TJX.N 
+111.17-SIR 
+DIV 
+PAY 
+-6.980 
+481.60 
+12,442.62 DR 
+050906
+HAFT 
+csm 
+CSFB - loin 
+S 
+TJX.N 
+1RD-SFIT o 
+DIV 
+PAY 
+4280 
+439.60 
+82,88212 DR 
+050906
+I inn 
+CSFB 
+CSIB - imr-r 
+S 
+TJX.N 
+TRD•SHT of 
+IXV 
+PAY 
+-6,910 
+488.60 
+83,37012 DR 
+050906 
+HAFT 
+CSIB 
+CSIB - I win 
+S 
+TJX.N 
+71217-SFIT o 
+DIV 
+PAY 
+4.900 
+343.00 
+83.71312 DR 
+05/1006
+HBF7 
+CSFB 
+CSIB • I awr 
+S 
+DUKN 
+TRD-SFIT 
+DIV 
+PAY 
+48.783 
+18.22130 
+101.93542 DR 
+05/1006 
+HBF7 
+CSIB 
+CSIII - FIBEI 
+S 
+',MN 
+'IRD- Il' 
+INV 
+PAY 
+4200 
+1.612.00 
+103,547.62 DR 
+05/1006 
+HM-7 
+CSIB 
+CSFB - FIBI-7 
+S 
+DIJK.N 
+TRD-SHT o 
+DIV 
+PAY 
+-681 
+211.11 
+103.75813 DR 
+05/1006 
+I LOFT 
+CSFB 
+CSFB • HIRT 
+S 
+DUK-N 
+7RD4Ffr of 
+DIV 
+PAY 
+-780 
+24130 
+104,000.53 DR 
+05/1006 
+HAFT 
+CSIB 
+CSIB-ion 
+S 
+DUKN 
+TRD-SFIT o 
+DIV 
+PAY 
+-1.740 
+539.40 
+104,539.93 DR 
+091006
+Di3Fr 
+CSFB 
+CSFB - I mr-r 
+S 
+DUK.N 
+TRD-SI IT of 
+DIV 
+PAY 
+-750 
+232.50 
+104,772.43 DR 
+05/1006
+IMFT 
+CSFB 
+CSFB - IMF' 
+S 
+DUKN 
+TRD-SI IT o 
+DIV 
+PAY 
+40 
+27.90 
+10430033 DR 
+05/1006
+I MFT 
+CSFB 
+CSFB • I mrr 
+S 
+DUK.N 
+TRDSITT of 
+DIV 
+PAY 
+4,270 
+1,013.70 
+105,114.03 DR 
+05/1006 
+I myr 
+cam 
+can • itrwr 
+S 
+DUKN 
+TILD-SI IT of 
+DIV 
+PAY 
+-1,450 
+449.50 
+106,263.53 DR 
+05/1006 
+finer 
+CSFB 
+CSFB - MET 
+S 
+DUKN 
+TRD-SIIT o 
+DIV 
+PAY 
+4.000 
+1.240.00 
+107.503.53 DR 
+05/1006 
+HBFT 
+CSIB 
+CSFB - I [RFT 
+S 
+DUKN 
+TRD-SFTI o 
+DIV 
+PAY 
+4300 
+713.00 
+108.216.53 DR 
+05/1006 
+min 
+CSFB 
+Call • I RIFT 
+S 
+IXIK.N 
+"ntn-sirt of 
+IXV 
+PAY 
+-600 
+186.00 
+101,40253 
+05/1006 
+HAFT 
+CSIB 
+CSIB -'RIFT 
+S 
+DUKN 
+TRD-SHT o 
+DIV 
+PAY 
+-700 
+217.00 
+108,619.53 DR 
+Copyright 0)2002-2003 Integrated lbantest Sperm. Inc. 
+Visual Ponfoho Manager - 
+Saver 17,110128 
+Confidential Treatment Requested by JPMorgan Chase 
+JPM-SDNY-00061337 
+EFTA01581882

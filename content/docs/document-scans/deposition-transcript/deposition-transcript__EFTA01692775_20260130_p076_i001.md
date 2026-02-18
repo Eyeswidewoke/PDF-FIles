@@ -1,0 +1,521 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p076_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 915
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.073163
+---
+
+• • • 
+EX. ciilgufar 
+Account Number 
+Account Na,,,, 
+Date of Invoke 
+July 12, 2005 
+Page 12 of 16 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE TOD 
+• COI1111114.11 
+Waren 
+Orgy 
+Chmem 
+Alm Dais Tam 
+CM3 To 
+Um0 Rao Ornalption 
+Comm 
+MI 0926 Mir 
+WPAUMEACII FL 
+611111 
+MIMI 
+NWKND 141k 
+NI C446 00 
+21/III 
+VNU)111 14,1100 MN 
+44 ore:. m lte 
+JAMAITACN rt. 
+ome 
+. /4•04•4 Vat 
+444 Memos 9* 
+covAosiir 
+WPAMMEACH FL 
+NVALIAMACI1 FL 
+.0.111T 
+maw 
+OMAN • i r /00•411F0 Mk 
+:WIN 
+LIINUNINEE NVIVID MA 
+446 0606 COMP 
+NCONNG 
+MN 
+UNLOCK NVONO MA 
+441 OWN OAP 
+r100.4740 
+MN 
+UNUMIE01010470 Ms 
+'.{04.14
+i=„2
+Fa 
+512TE 202 I2
+werr 140 
+152 06/260•41P 
+MOOMMO 
+MN 
+umnaike td.W(ND NA 
+(VT 
+GAL WANK: 
+0) Off260010 
+SCroacroma rt 
+flail 
+LIMININ I; b14µ) UM 
+134 OVA, 0•1414
+MOWING 
+NM 
+MU N
+NN
+INPOINA 
+C
+OW* 
+EVT 
+ALL WAnI 
+gMgLI 
+UMMait 0 WM/0 Mk 
+MM
+UNUMIL0 NV (NJ MI 
+IML 
+.11(0401:4 
+150 0914 olt5OF 
+El 
+.4 
+MN 
+SW 
+u 
+Mammy //w3 
+IAN 
+mattn n rem 
+n 
+r4 
+vituanTr NW(ND MN 
+CALL WAIII1r4 
+400 0.4260451? 
+WPM/OUCH II. 
+NM 
+LINUlt TEC ItYI)(10 Mk 
+461 ofris 06112P 
+!KOVNO 
+IN 
+UNUNTEr IFIANNNIN 
+462 006 WSW 
+4W MAI4 01434F 
+we
+ll0ENT
+AA
+AB4241144 
+UM 
+ummirrEl; WeiNti) MI4 
+INN 
+LIMN RD WOW) UM 
+VT 
+NEMAC4 PL 11•1 (VAL 
+ON 044 OMI 
+40 otos ONOSPF
+464 ottie0t07P 
+yVA t t ra 
+Ft
+WPAUMFACH R 
+UONIMIID NY/0010. 
+omen -0 memo Nu 
+my 
+LIMIMTEL NV/111J MA 
+l 
+467 01/14 ONION 
+INN 
+MAIM 
+VW/0W MA 
+l 
+16'
+470 0&S 0511? 
+01•59P 
+A 
+FL 
+4.4:048 
+WPAIMBEACA Et 
+NM 
+UM114 
+15101(040110. 
+ukUill 
+ii retrOli)Mh 
+vitulal C Wenuatm• 
+IRV 
+LINUNITEC WINN) Mk 
+1EVT 
+IIESTAGE RIMIEVAL 
+452 OWN COMP 
+IMMUI04/04 P. 
+10/A 
+Nitor FALL cR4 or 
+1 Orr 
+MLAtAct. M. IMAVAL 
+WP 
+R 
+UMNINEF / AW1411)10111 
+:UM 
+;T:3 
+VIP 
+MILIIIITEC NYAND MN 
+415 
+IA 
+TR 
+IL 
+UNIMMEE NWAN) MA 
+IN 0501 11:3* 
+INCOMNG 
+JIMISTEC AMONG NM 
+421 Ora 11:170 
+NG 
+40170
+Sit 11
+44 05127 1292A 
+51
+.4
+•INEFIC/4 FL 
+NAN 
+UMAWIEC 14V000 /401 
+400 gia; ;UN 
+VONAME/C14 EL 
+WFAMINEKH Ft 
+34PAII 
+MillttlEC NW00144N 
+raduunt0 NO/IN) ION 
+1E..* 
+NESSAGL SLOOLVAL 
+4111 OWN 01:13A 
+VIPALVCE/CI4 r t
+1.6•1 
+;mumiTE0 NYViu0 HIS 
+OGNI 01:244 
+tiOnativEGN n 
+UNLACE° NAVIN, 14111 
+VIPALIABEACH EL 
+MEP 
+GNOMON NAVOIO MN 
+w04123 nit:. 
+la
+‘OING 
+INN 
+12011001 ANTOM MN 
+Ills C627 MI A 
+MACI1 Ft 
+VD ADO. ANTON' MN 
+MA CNN 11
+WONall•Irm Ft 
+Lre 
+11. 
+A 
+4011 04.4 11MA 
+WPM)* It?, pl. 
+60ThimbLa It 
+WPAIMBEAC0 ft 
+1•14 
+SI
+PA% riga 
+Il t"
+mut ANY 
+MA 
+INN 
+103POCR ANTTIM MN 
+,4 Elf 
+ig
+r,  gam/ ir 
+*RIVINOI 
+FL 
+wPAIM 
+/, 
+FL 
+WEANS ar0 FL 
+WPM 
+mil F 
+WPAMMIL Arm IN 
+INN 
+ZOMBI NV" t.."4 
+INN 
+App AT"' .12 .1
+11514 
+UM 
+g 
+l AM. MO IAN 
+YN 
+MINN MN 
+Iii 
+INN 
+300 ADOLitM 
+imi 
+rn 002014 
+Narv
+MiIR 
+130YNTONMO f 
+ytjto0 
+I,T 
+DI 
+PI 
+SC 
+Max 
+ON rel MOM TOMS 
+II DETAIL OF CURRENT ACTIVITY - CONTINUED 
+1111111111111 
+11111111111111111 
+II 111111111111 
+11 
+III 
+VOICE USAGE FOR 
+Damn 
+Rom Mu Tom 
+5000612. CC JP 
+501 C412. 01-n0 
+bl O
+Ctc g;ger• 
+304 C[27 aw0P 
+SOS Ottf210. i4P 
+403 0647 04 In ,
+alt; 
+0443P 
+04309 
+045415
+MVP 
+DIII? 
+129 
+g•24415
+MOM 
+4164015
+0i110 
+0515F 
+05 2N•
+114
+i
+01 16F 
+GLOP 
+05221' 
+agr• 
+0316P 
+gin 
+I2F 
+m,4515
+MAIN 
+035515
+IR 
+E0092 
+III„I. 
+OW 
+SIS OW 
+in M 
+a 
+{II 
+Sri 066 
+ cr°4 
+QN 
+IN 
+MI oirt 
+13 
+IS  
+SE 
+m s 
+1 O
+C.116 ?II& i.
+11: 
+i Clai gnr
+,
+Orilit CO 16? 
+5 Ma/ 09:19. 
+iFe lli
+1 
+w4lw 
+7 144059 
+102IF 
+1 192115
+1 K2 mv 
+1 11 0114
+1 11 01.0 
+1021P 
+11 
+1;
+Ili 
+01. A 
+1. 
+1 
+0 i 
+Coils To 
+NG 
+WPALPMEACH Ft 
+DOYNKVIDEM 
+V
+n 
+AITO R 
+MCONINO 
+WPAIMINACM FL 
+tSAAA.2 
+it 
+MOONING 
+1NCOMNG 
+WPALMNAEN Ft 
+WOALIMEADI FL 
+INCOU
+NOTNTONGCN
+NG 
+EL 
+70%10140CHFt
+=22 21 Ft 
+KOMPIQ _ 
+WPAUMukcIl 
+N 
+NO 
+DOYNT014004 ft 
+ACHFL 
+PALI. 
+ACHIl 
+°Minted 
+Qr.), 
+ammo 
+Ursa Ram Cosamoon 
+] MK 
+m, 
+Mn
+o 
+4411;
+1
+'a MM
+n
+r, 
+_ ANTI 
+M 
+16 
+TO 
+' A
+ST 
+1 
+AMA ANYTME MN
+311111 
+500 A001 MON 
+MT 
+NUN 
+XI) AM. MINIM
+NE MN 
+Mi4 
+i 
+3033Af/".. INMAN API 
+NMATTal
+".4
+- - 2 
+MA 
+AM NMI. ^rod 
+ANN 
+ilu. 
+)00 AMA 41.711.40 MN 
+Ilk 
+MOW u00). 10 Wet 
+MN 
+700 ADD% 61134E MN 
+WM 
+XMA02%. MilTmC *AN 
+MN
+NO /My- *WYNN IAN 
+MX 
+Mk 
+UM 
+MM 
+is 
+EVT 
+LM 
+MANDL. ENTINE mr4 
+MK 
+200 ADD'_ mirrilE um 
+Inn 
+00 ACMAwnWE MN 
+rl. 
+UMW u6n
+MI to mat 
+:WAND, 
+MIC Uri 
+Will 
+NAM NO& 10 1/004 
+MN 
+:MAIM AMINE MN 
+1111( 
+IIM 
+NIX 
+t
+1.
+CALL 'NAMING 
+MX
+00A2cf,. 
+M 
+AnYTM1 on 
+MIN' 
+Aro, Ato- rtic ad 
+ADO; Mr 1 Mt sin 
+ADM AM-WE Ur4 
+MN 
+3:0 A“n.MYTUE MO 
+11114 
+ICOA504 AMINE VW 
+YC 
+2R ICLIE 
+14%. 
+UNNAMED NINKM) 
+CALL 
+NN 
+UNUlaTM NJW11140 IN 
+YN 
+uniMato Wig/ID MN 
+MN 
+UNLIMIEDNNIKIIONW
+MN 
+41/11MITEDNAMMD INN 
+MN 
+WOWED µWENN IAN 
+MN 
+UNLPMEILINATEND MN 
+NN 
+MARCO MAYA NO MN 
+Mk 
+urn nar 40•44/0140 MN 
+MS 
+WIIINTIONWIN11) MT 
+Atik 
+MOM IL OWNING MN 
+NA 
+untimito •41,0010 
+614 
+umoverf n IV/Min UM 
+4514 
+wouvil0 WW)00 toi 
+•104 
+reknorf0 Wool p •AN 
+MN 
+VINIVITLO WMINO 
+44
+14 
+UPAINTEDNAVIOID 
+u 
+'mow, to/mo 
+ENT 
+CALL wenn(' o:to UM
+IM 
+UNINATED MANN() MI 
+Yk 
+UNtIMITUD ?IWO* MN 
+IM 
+untwatonwoutp 
+,'2%: 
+Oot1r 22-
+P,,0,42.24 
+Am 
+MV 
+MYNA tr1 
+100 
+- ANrom 
+CALL WAnIlt 
+c,°28--17,11.11:( t% 
+io8cAocr7 ANY 71.0 
+500M/P. AN VINE MV 
+Clwo• 
+EFTA01692850

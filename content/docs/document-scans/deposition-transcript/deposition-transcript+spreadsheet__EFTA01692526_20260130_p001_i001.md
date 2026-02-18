@@ -1,0 +1,454 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692526_20260130_p001_i001.png"
+source_pdf: "EFTA01692526.pdf"
+method: pdf_text
+words: 686
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.725321
+---
+
+rkci ngu la r 
+Æra Wireless 
+Account Number 
+Dato of Invoice 
+December 18. 2004 
+Page 8 of 8 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+ILNU Dale lime CMIni 
+83 
+04 CH! 
+84 151 11: 
+E 
+101 
+102 
+103 
+ICI 
+107 
+100 
+110 
+111 
+112 
+113 
+IiE 
+116 
+11 
+lit 
+IÅ 
+I20 
+111 
+111 
+Iss 
+126 
+127 
+121 
+13 
+lit 
+• Continued 
+CIMY 
+Crum. 
+1.14•1 Rat* Ommlption 
+»AN 
+51442»13 WW1» INNS 
+IMP 
+SNARED 1/04714/TOLEXCI 
+I EW 
+MESSAGE RETFILIVAL 
+VAN 
+8111203 /4G8TW EXCNO 
+11414 
+m1MMO LIGIM 
+EMT» 
+ICVT 
+Nt53MsEiET 
+A 
+TZ;FRRE 
+XTWEENENB 
+WAVECXEND 
+SIN
+KE 
+3I 
+WES 
+1A M.0 ANYTM/11111$ 
+»Vat° MNTNT 
+1 OW 113 Ill larn 
+MAN 
+stupbbabristre MIS 
+WIN 
+214.11110 /WYTNE MPS 
+213M51 
+SHAPED ~TYNE WM 
+LIN 
+MI 
+1.1
+,,,Ts.n 
+MIN 
+44111011411 
+Inn 
+14111•11 »paid ea.im.. 
+nix 
+51603e0 mmr3,w mo» 
+WM 
+SHAW) ANYTHE 
+TWIN 
+$unset) ANYTHE MPS 
+511.413“) .29M 
+5/118413 
+3411ø13ANY7 
+SHAN») MOM T 
+1g.&15, 11,9*" ..:16 
+511111£0 ~ME 
+WINS 
+MAPED 1/061.1128610F1 
+WESSAGT RE1R1VM 
+klitAlAngAI
+A= 
+~ESAVYTNEMVK 
+Utppli 
+1161 
+11001MOOL 
+3nurt 
+LIC11.4 C 
+VM. 
+aim» ANYT114(MNS 
+s1.4=ESZIY, Z11.12 
+10•111 
+slum It MCKIM° *MS 
+• 
+WER:1213818:2 
+lim
+n'
+ 
+€:tro lu 
+wea 
+LN 
+0111 
+SNILIZZO IMCW 
+116 
+CLU 
+1241 
+Pp
+pip
+WES 
+MN 
+5.11.21LD Wet 72 11001. 
+MN 
+~FT 
+WM "0 MOW 
+IAN 
+;HAM 1.011$ 
+8.011-
+fig 
+SltS
+rMni.W ALIITIS 
+IAN 
+NM 
+14011. TO NO» 
+511AM 4108.1 T9•1081. 
+t=
+r2VOSMIY1i0e.L 
+MESSAGE RETMILYA3 
+FL
+FL 
+FL 
+FL 
+*MN 
+INN 
+FL 
+»1.1AN11
+1
+1 ENT 
+2MN 
+WP 
+FL 
+Fl. 
+‘LatialffL 
+WNW 
+H 
+MAN 
+IMN 
+11811 
+11411 
+1-11 
+INN 
+Typi 
+IMP 
+I g 
+INN 
+IAN 
+MAN 
+WPALL1 
+1 FL 
+VAN 
+MOTH 
+FL 
+MIN 
+WPM» 
+/Cm FL 
+MN 
+IIICON1 
+OM 
+WPM/1 KM I'l 
+2M11 
+1 tV7 
+WPMMPIACH n 
+IMP! 
+VIPMJA(61411 FL 
+1.1111 
+STUART FL 
+541 
+VMALMIMACS1 FL 
+WPAM
+n i 
+WPM14 
+FL 
+WPOLIA 
+FL 
+FL 
+ 
+ FL 
+=L 12111: 
+~aria FL 
+WPAUMEAO. FL 
+VOICE USAGE FOR 
+—or 
+CDarge 
+lloaL DM* »rim Collod 
+131 LOT Ill 
+111 
+131 
+110 
+142 
+14I 
+144 
+AS 
+146 
+DIT 
+1 
+LW II: 
+//32 
+1: 
+4112 11: 
+1 
+»MI 
+Ø01:
+2X4.
+N 
+0q1: 
+2201 
+01 
+Ct. 
+%. 
+DO. own 
+N0112314 
+Ø 
+DOI <6.26. 
+2/14 052 
+2/04 
+M 1 
+VOL 
+21.4 1111 
+2.436 114 
+DOI It. 
+81; 
+2N6@ 
+WON 
+tet 0214 
+le,S 06 11 
+2X 
+205
+1  063.12 
+JOG 
+2AA223 
+.116 0307 
+2104 
+2/06 0411 
+207 
+åi 1
+ace en 
+Continued 
+Only 
+awe. 
+Calk To 
+WWI Ps 
+Dol.44 1.8m 
+Cow.. 
+11P4W0E4C11» 
+MIDI 
+5111.610 1.6361. TOM)» 
+I VT 
+SAGE RETIPEYA 
+Wir1/431,03.101 FL 
+»al 
+SIMKO 14011. 3O MO» 
+WN.I.1413(404» 
+ZMNI 
+511/529 110.1.1/[110.10». 
+WPALMR401 
+11.14:1:::M R 
+i t= 
+k1A3Mbo
+T?? ,21'h 
+1» 
+?R;z1N `Zthnr
+‘
+%Mix. 
+rt 1E 
+FMZS:UMW 
+WPAL.1104401 Ft 
+KMMD T4C-LPOED WM 
+VAM.LVIMACH R. 
+1 
+SIMPED /18.41/12,6_011116 
+'sziel,cm k 
+MN 
+SHARER i1f4911. I clor 
+11ZZ-1r11
+'t 
+IZSUI cid 
+wax 
+ani 
+MUM 
+rpta51M514t IN 
+Ult3 LIP 
+vote 818 
+0 INCWW0 IINS 
+moat 
+P.C3MinC 
+MN 
+SPAM DIGNTILMEXEND 
+111C,UNG 
+MC LING 
+MN 
+k111Iff wskt,2 
+1:, 5Z.., 
+MN 
+MI: 
+LNAPF011COITVerflA 
+WIMIO1m10111 FL 
+MN 
+TMILRED NGSPLVE»<END 
+WP11.11PC406 FL 
+MN 
+..p6PRE0 /46341WEEKETIO 
+WPM110001 n. 
+MN 
+'LP», 11».1711£0.0.0 
+w181141MACI1 FL 
+g 
+Vim/SLEIGH FL 
+2MN 
+INCI2103
+iirmps., 
+MM 
+wARTTWEIVND 
+1.5503 
+4TM6 4NO 
+ilzp 
+END
+IT 
+/1 
+g 
+/*STAGE RETRIEVAL 
+PALMMACH FL 
+51.A.SW MGIIINVELNEND 
+WILMMCZACII FL 
+!JIN 
+i Es.z. 8 . _ 
+V,1 Tr  9 
+R P g
+WNW:rel.FL 
+WPMMt KO FL 
+LIM 
+ARLO m...W6 EII ND 
+irdig
+ 
+MN 
+LIM 
+kr..rig =Iv
+rttglKig 
+NV/WMT.ai lleillY1 FL 
+a l 
+?Ztp° /11WITZFIRO 
+EVT 
+MT1 i46t IMIVIEVAL 
+MN 
+»I. To mCwWw4 IMIM 
+F12 
+i' llT -Zi, 111k8 
+. ,.. 
+L
+.M.-  PT 
+WAR' 
+1212111: 
+STUART A 
+WILALVIEACH FL 
+WPAL1116101 FL 
+ACNFL
+wno..n
+WIMITAIM 
+If Ft 
+LVP4.416 
+NFL 
+WPM»: 
+wiLLI.Vet4C11 EL 
+»<CND» 
+WPWILE4C11 it 
+WPM» ACM FL 
+WIML:q1CH F. 1 
+rwc4/1 
+%TPA:3111<PQ, FL 
+LApri
+p/G 
+wool-W/44CP rl. 
+44 
+MN 
+Taal1F0 13(.41144 
+X DO 
+MN 
+51.51E013C4TMIETMENO 
+MN 
+51.1.11COMGIMVENE/10 
+1 MN 
+SI-A10 /1»-ITM6OKEND 
+MN 
+situt a 
+(iittrEitEria 
+MN 
+...»11 u 
+'101 >M14 
+ism 
+6mA13801 
+T 
+m018L 
+MN 
+.,...*C1)11011. 7 /net. 
+MN 
+SPARED IACTLDEDN114 
+PVT 130411 11 FO 
+MN 
+SIMKO INCLUO(2111.1 
+MN 
+510.11<01/10.1.10(0 MNS 
+MN 
+SPAI1201001L TO WOOL 
+MN 
+MN 
+? ,..1.11f0 820.13 14,13 
+MN 
+SARti) 21.1. 2 M 
+NU 
+Evil 
+MN 
+3259201 
+LT MOM 
+6Vr 
+tensebp. 
+: 
+oft 
+it tEriu.Za 
+mu 
+suarico Wet 70 matt 
+353 
+EFTA01692526

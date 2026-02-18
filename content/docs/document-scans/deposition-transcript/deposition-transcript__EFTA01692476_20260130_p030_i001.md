@@ -1,0 +1,435 @@
+---
+source_image: "deposition-transcript__EFTA01692476_20260130_p030_i001.png"
+source_pdf: "EFTA01692476.pdf"
+method: pdf_text
+words: 786
+confidence: 1.00
+extracted: 2026-02-13T17:00:45.937537
+---
+
+unt Name 
+Account Number 
+Date of Invoice 
+March it 2004 
+S 
+PIC Wireless 
+Page S of 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Name 
+amp 01116 TM* caged 
+24 0209 MOP 
+21 03119 DielOP 
+it arbi 0I.I.aP 
+02123 0114P 
+29 02M3 OkISP 
+10 02M1 03.21P 
+11 go sLE
+0201 (LOP 
+34 002101:4 
+3$ MI 01.49 
+41
+(12/1 (1 39P 
+40 0022 012.4 
+41 
+11
+0022 I IRMA 
+1422 II KIM 
+41 0202 11:45A 
+44 WM 11.464, 
+▪ 0-0211•.42* 
+45 0.172 0111P 
+4/ 01in 011214
+3 St; gii3 
+4 Win 0113P 
+510222 09-3SA 
+32 02711 01/134
+51 02,03 01210 
+44 0223 03 2n. 
+3S 011101 lip 
+31
+C0-03 03.3M 
+▪ (0/13 %ITO 
+33 02/2, wait 
+52 037; 0113P 
+CIY24 10 SM 
+;1E: rark 
+63 (0'2412010 
+0204 02-5143
+- Continued 
+any 
+a.F d9 
+care re 
+U900 
+R6141 Oner0000 
+EISINW 
+WPMNeEMJIR 
+IYN
+yar, 
+4
+ 
+Flmiacuin 
+40S.24c4 Ha 
+WPALINWACH 
+WPALtar r
+WPA 
+WPAUJO 
+Hit 
+WP 
+11R 
+MN 
+It 
+MN 
+NC<YNfi 
+illiN 
+R 
+MN 
+MN 
+MIN 
+MIN
+P
+2 
+313AREOM
+L 
+1 ig 
+24.43/ 
+irVit 
+2M.4( 
+INT 
+IM)4 
+MN 
+(VT 
+Ion a 
+WPALINIEACH FL 
+INCOM3.1, 
+V41610116 0034 FL 
+IgMler„ -1, FL. 
+0PALI4r1Z4( KL 
+WPALIMEACH FL 
+V004109404 
+&:)g 
+4lairac. 
+Ft 
+. 10014 04 VP 
+26 0$ 404:4W 
+00-43 3445440
+OPOip 
+0301 
+a 049410P
+0203 0400 
+74 0203 
+OIP 
+IS 0215 04.104
+WPM LaR[Arthi ft 
+v.1004911 
+FL 
+VePAL(48(A 
+FL 
+wpm.400404 FL 
+.01110 
+InPmiabtACH Et 
+.0P.TER FL 
+VO7AUJINACH FL 
+WPAINWEACH FL 
+linillitnliOkiffila 
+SHARKJ)AhY9114 MRS 
+SHARE01.00(4
+ 00031. 
+MESSAGE PEI 
+Va 
+S' 
+n 
+VAR VAL 
+µMOE MIS 
+MA 
+/0140/WEEKENO 
+SnAREOMONTAVEEKEND 
+ra
+AEOCA FT
+HTIVEtIEWC1 
+304300 m0KrAvE 
+mays n 9.
+4014(1 171 
+SitArif 0 
+HTAVE KEN 
+SNARED 
+1413WE w4 
+SHARED NIC91413WEEKE/0 
+E:Ere-aro 
+401440SVE 
+END 
+1503430 NIGHT AMMO* 
+Eil AtR53 
+▪ it4
+NAMfMYT
+ 
+w"a,
+.48 ta,:nrritg 
+SHAPER (0334T 
+SIMPEONIORTN4 
+PEI 
+Erita 
+g 8 
+m(55A0E RETRIEW1 
+93039044044TNettKFie 
+SNARED 1.10434. TO WOK 
+544000 MCKIM MIR 
+34%is ral. .48 ok 
+tau, WAIINE 
+yi.04 0 AK( nit 40345 
+SH.4.40.04YTBEE MRS 
+SIVR ()way TO MOW-
+AESSAGC PE REVAK 
+TARED AnYMPE Mu3 
+AKDANYTM MN( 
+rir4 1 Irai
+l:TS VI: 
+Jura 11001. rOMOir, 
+NESSAGF It -REVAL 
+SHAREDNealw IMO 
+2n4RFOmixt, 
+f BRIO 
+. AR 
+KOK 3 
+lthrerAg 
+u(SO4( gtinKvA... 
+<HARI o AmisiF woe( 
+940K913 MOIR ra WOOL 
+xmmt0A4040.0 N10.1 
+IKAPt 44.v700 NEM 
+RAVINE 1161S 
+71091. 10 MAL 
+LIES 
+RETREVAL 
+=181;,4,11:1".1 
+SNARED AW71114 16135 
+VOICE USAGE FOR 
+Numbor 
+tem Oats Tim 
+v
+3, 
+02/ 243 04
+1  2,
+10 
+63 eerie t z la 
+el 0206 1234P 
+92 COM 310P 
+(029 01000
+Os (Ma 01 03P 
+41 nix 03004
+91 C2M.01-06P 
+• 
+02)260111P 
+102.0201P 
+CO 0205 02010 
+1'31; 
+92 1,06 Oz21P 
+99 4C 21/21 Oa Z.' 2.717 P?
+Ogg; 
+Pi *an 092.449
+03 0323070SP 
+S9 020/ 0101P 
+KO 022/ 0120 
+1{il Mir r 
+lax [Cal 0234ap 
+101 (10) 
+P 
+104 02/28 
+43P 
+gg g2134
+401 Inn 35 3/6 
+10) W24 07.13P 
+110 OM 70 
+11I ZI; 
+In tem cam+ 
+II'
+114 (WM 03 a p 
+117 9001 03204
+in
+34w 
+In %POI 0354P 
+722 (LIM 033SP 
+I. 4101 033.9
+124 OEM OGAIP 
+'a, 0101OG 44P 
+'0? 0301 
+010 
+tam 021M 
+:31 tow 4)9 
+.1) 0302 34210 
+0032 03010 
+In (102 3304P 
+222 4032 0310A 
+ILI (SW 0316P 
+34 PM 0320 
+- Continued 
+any 
+can. 
+U1011 REM DeScrgalen 
+tWAUAREAC11 
+WPA1367E401n. 
+44.300.0s4n4 
+WPM/WELCH 71 
+WRAY/WWII FL 
+JUPITER FL 
+AJMER 
+INIt PEI 
+WPAil161421 EL 
+W1WAtsELLH IL 
+wPALM3EsCH 
+WPALMSEK671 
+WPM
+R. 
+nt 
+w04.0.0.9 404 it 
+WPAIM3E4404 L 
+WINUMLET
+ IL 
+wrAuAkk 
+It 
+wytorm A 
+n 
+WPALINEACH It 
+=it 
+JUPOERFL 
+WP° 2=4.04 
+24004040 
+VAN 
+2MN 
+1.1•111 
+YN 
+2MN 
+NAN 
+M 
+12 N 
+MN 
+EV7 
+LIN 
+U;14
+MN 
+MN 
+MN 
+tit 
+MN
+MN 
+M▪ N 
+EYT 
+MN 
+MN 
+IMN 
+!CRT 
+21•N
+1AN
+1. W
+Nal 
+2MN 
+31AN 
+3Mil 
+YN 
+: UN 
+244N 
+(VT 
+44414 
+' MN 
+MN 
+NAN 
+1MN 
+Inn 
+1CVT 
+V
+VAN 
+AN 
+.M ai cyy 
+no i 
+W6 ARVIN 
+ARE3A401WEI4N3 
+$ ARRE, 1.13, 1WE UN 
+iliAra ,, NOM. WWI:. 
+§:OARS? AIPTIVE a11 
+NESS of REY REM. 
+*la 
+44945 
+S 
+0 003170 MOBL 
+.4% 
+am(RiwE 94945 
+SHARED AWYKNE Wri 
+611 
+4‘44
+"841 
+PED.AKYTIVE UNS 
+ NS
+SHARD MrTIVE MS 
+SHAR92644!4 MN 
+Aw(109E (4492 
+JH
+MR1A)AVDV Oita 
+0 NW1111E WO 
+SHRED AN
+ANnw
+s761cEm
+Mulli 
+RE  
+i 
+SINS 
+0 rA MNY 
+SIMPFOL/41,11q %INS 
+SNARED ANY7ME UM 
+Mfg 
+%TIFF 
+R 0 N 
+IT/Ye 
+K ND 
+.0 NIC0TAV 900) 
+50) NIC0TPNCEKE/ 40 
+nir lIWNWIIEW 
+ittnOtWi. 
+MI 
+1:48gMi:}: 4 g 
+3100r0 11/ENTAV EREND 
+SNAR
+MeMie
+dlORGM
+aPe
+ANVE4L
+EXEND 
+rtais,1M 
+MW 
+11:43
+se
+l tfg. VOA L112 
+ura 
+" 
+sm..' :Tr
+ 
+att boat 53ang 
+WEE 
+WOOL 
+MESSAGE PETS:EWE 
+SNARED NCLUDED MSS 
+ErAl ',XV 
+ann 
+R Nal 
+0 LENS 
+Warn 00.24(0 WS 
+ME 
+r a( RL1 
+E.
+F
+M A rt
+ss 
+ai iii ;r 
+RE
+SIN 
+NEE
+R 
+ADED MIPS 
+FF 
+0 MRS 
+III. 
+43 *4 
+EWE 
+DM/75 
+Chirp 
+EFTA01692505

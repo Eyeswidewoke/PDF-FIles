@@ -1,0 +1,459 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01350687_20260130_p004_i001.png"
+source_pdf: "EFTA01350687.pdf"
+method: pdf_text
+words: 629
+confidence: 1.00
+extracted: 2026-02-13T16:56:58.995739
+---
+
+JPM 
+Account Number Description 
+Ticker Cusip 
+As-of Date 
+Local CCY 
+Base CCY 
+Trad 
+e Date Quantity Settlement Date Quantity 
+Local Price 
+Base Price 
+Pricing Date 
+Loca 
+1 Trade Date Cost 
+Base Trade Date Cost 
+Local Settlement Date Cost 
+Base Settlement Date 
+Cost 
+Local Trade Date Market Value 
+Base Trade Date Market Value 
+Local Settlement Date Market 
+Value Base Settlement Date Market Value 
+Local Accrued Income 
+Base Accrued Income 
+Loca 
+1 Est. Annual Income 
+Base Est. Annual Income Local Unrealized G/L 
+Base Unrealized G/L 
+Mark 
+et Spot Rate 
+Maturity/Contract Expiry Date 
+Coupon/Interest rate 
+SZE, Rating 
+Moody Rating 
+Accrued Interest 
+Limit 
+Available 
+DM ECI ECI 
+Region of Risk Implementation Vehic 
+le 
+JPMS ADP 
+ISIN 
+Trade Type 
+Original Face Amount 
+Price with Sinking Bond Fact 
+or included 
+il eire
+it 
+GBP 
+USD 
+291000.0 
+291000.0 
+0.774 
+17.26 
+343600.28 
+222817.26 
+343600.28 
+225117.555 
+358736.07 
+0.0 
+0.0 
+0.0 
+0.0 
+2300.29 15135.79 
+NA 
+NA 
+0.0 
+0.0 
+0.0 
+9710670708 
+0241499376 
+LLOYDS BANKING GROUP PLC ISIN 
+SEDOL 
+LLOY LN G91101108 
+1.233 
+16/09/2013 
+2228 
+358736.07 
+225117.555 
+1.593549 
+0.0 
+Benchmark Aware 
+0.0 
+0.0 
+EUR 
+USD 
+8750.0 8750.0 31.215 41.68 
+16/09/2013 
+253565.291111397612. 
+ACCOR SA ISIN 
+SEDOL 
+AC FP 
+65.27 
+337612.87 
+273131.252 
+364698.5 
+273131.252 
+364698.5 
+0.0 
+0.0 
+19565.98 
+27085.63 
+1.335249 
+0.0 
+NA 
+0.0 
+0.0 
+9710670708 
+0241499376 
+Benchmark Aware 
+0.0 
+0.0 
+BNP PARIBAS ISIN 
+SEDOL 
+BNP FP 
+USD 
+5000.0 5000.0 50.59 
+67.55 
+16/09/2013 
+247180.01 
+329132. 
+329132.36 
+252949.998 
+337751.48 
+252949.998 
+337751.48 
+9/2013 EUR 
+247262.16 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+.0 
+4000.0 4000.0 59.55 
+79.514 16/09/2013 
+238727.9 
+317870.23 
+2387 
+27.9 
+317870.23 
+238199.996 
+318056.54 
+238199.996 
+318056.54 
+0.0 
+0.0 
+0.0 
+0.0 
+-527.9 186.31 1.335249 
+0.0 
+9710670708 
+0241499376 
+Benchmark Aware 
+0.0 
+0.0 
+AUTOGRILL SA ISIN 
+SEDOL 
+AGL IM 
+16/09/2013 
+EUR 
+USD 
+21400.0 21400.0 11.91 
+15.903 16/09/2013 
+250714.59 
+333823.48 
+2507 
+14.59 
+333823.48 
+254873.997 
+340320.5 
+254873.997 
+340320.5 
+0.0 
+0.0 
+0.0 
+0.0 
+4159.41 6497.02 1.335249 
+0.0 
+NA 
+NA 
+0.0 
+0.0 
+0.0 
+9710670708 
+0241499376 
+Benchmark Aware 
+0.0 
+0.0 
+ADECCO SA-REG ISIN 
+EUR 
+80.01 
+0.0 
+0.0 
+5769.99 8619.12 1.335249 
+0.0 
+9710670708 
+0241499376 
+Benchmark Aware 
+CARREFOUR SUPERMARCHE ISIN 
+SEDOL 
+CA FP 
+USD 
+10500.0 10500.0 25.455 33.989 16/09/2013 
+247262.16 
+329196.98 
+329196.98 
+267277.494 
+356882.27 
+267277.494 
+356882.27 
+0.0 
+0.0 
+20015.33 
+27685.29 
+1.335249 
+0.0 
+NA 
+NA 
+0.0 
+9710670708 
+0241499376 
+Benchmark Aware 
+16/09/2013 
+87 
+2535 
+0.0 
+0.0 
+NA 
+0.0 
+16/09/2013 
+36 
+2471 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+16/0 
+RENAULT SA ISIN 'SEDOL 
+RENA 
+16/09/2013 
+NA 
+NA 
+0.0 
+0.0 
+0.0 
+CHF 
+USD 
+66.58 
+339220 
+0.0 
+0.0 
+9710670708 
+9/2013 EUR 
+246317.45 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+SEDOL 
+ADEN
+ 
+16/09/2013 
+4900.0 4900.0 64.05 
+69.21 
+16/09/2013 
+313066.58 
+339220.24 
+3130 
+.24 
+313844.999 
+339126.91 
+313844.999 
+339126.91 
+0.0 
+0.0 
+778.42 -93.32 1.080555 
+0.0 
+NA 
+NA 
+0.0 
+0.0 
+0.0 
+0241499376 
+Benchmark Aware 
+0.0 
+0.0 
+JC DECAUX INTERNATIONAL ISIN 
+SEDOL 
+DEC FP 
+USD 
+10000.0 10000.0 26.8 
+6/09/2013 
+246317. 
+327986.8 
+268799.996 
+358915.19 
+268799.996 
+0.0 
+22482.55 
+30928.39 
+1.335249 
+0.0 
+9710670708 
+0241499376 
+Benchmark Aware 
+0.0 
+FRAPORT AG ISIN 
+SEDOL 
+FRA GR 
+EUR 
+USD 
+5000.0 5000.0 
+. 14 69.852 16/09/2013 
+246524.86 
+24.86 
+327646.17 
+261570.001 
+349261.34 
+261570.001 
+349261. 
+0.0 
+0.0 
+15045.14 
+21615.17 
+1.335249 
+0.0 
+0.0 
+0.0 
+9710670708 
+0241499376 
+Benchmark Aware 
+0.0 
+0.0 
+9/2013 EUR 
+VOLKSWAGEN AG PFD ISIN
+ SEDOL 
+VOWS 
+IW 
+USD 
+1400.0 1400.0 
+. 
+.137 1
+255882.59 
+340287.6 
+16/0 
+255882.59 
+340287.6 
+255976.0 
+341791.95 
+255976.0 
+341791.95 
+0.0 
+0.0 
+0.0 
+0.0 
+93.41 
+1504.36 1.335249 
+0.0 
+NA 
+NA 
+0.0 
+0.0 
+0.0 
+9710670708 
+0241499376 
+Benchmark Aware 
+0.0 
+0.0 
+COMPAGNIE DE SAINT-GOBAIN ISIN 
+16/09/2013 
+EUR 
+67.65 
+240317.53 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+° 
+0.0 
+KINDRED 
+16/09/2013 
+USD 
+250.0 
+1966250.0 
+2120000.0 
+48582.0 
+USD 
+6750.0 6750.0 36.9 
+319967.65 
+249075.0 
+0.0 
+8757.47 12609.74 
+9710670708 
+0241499376 
+16/0 
+45 
+327986.8 
+358915.19 
+0.0 
+0.0 
+NA 
+NA 
+16/09/2013 
+327646.17 
+2465 
+34 
+0.0 
+0.0 
+NA 
+NA 
+0.0 
+SEDOL IMMIMIR 
+SGO FP 
+49.271 16/09/2013 
+240317.53 
+3199 
+332577.39 
+249075.0 
+332577.39 
+1.335249 
+0.0 
+NA 
+NA 
+Benchmark Aware 
+HEALTHCARE INC 8 1/4% JUN 01 2019 DTD 06/01/2011 
+KND 
+USD 
+2000000.0 
+2000000.0 
+0.0 
+106.0 
+16/09/2013 
+1966 
+1966250.0 
+1966250.0 
+2120000.0 
+2120000.0 
+2120000.0 
+48582.0 165000.0 
+165000.0 
+153750.0 
+153750.0 
+1.0 
+EFTA01350690

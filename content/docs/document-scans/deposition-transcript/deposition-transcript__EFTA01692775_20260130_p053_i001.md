@@ -1,0 +1,515 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p053_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 815
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.048464
+---
+
+cingular 
+Amount tartar 
+Account 
+ino 
+i 
+Date of Invoke 
+May 13, 2005 
+Payee( 
+11 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOCE I ISAGE rot
+ C011111111C2 
+Member 
+grey 
+Owes 
+Mn Date Dm* Called 
+Casio 
+Dead Rate Omeriptlen 
+tt 0114 MIS 
+WP 
+ACK FL 
+WM 
+NM 
+13::11ttlig 
+ttg 
+fe 044111 Ota/P 
+sa 04414 etUP 
+INL
+NW 
+VW 
+1101441119141001 
+1m4 
+LeMsemo 
+TAN 
+1 MI ittlf 
+;TVS 1
+.401FL 
+t 
+L MINIM NAVIN 1p
+INIMITIDNAYMY MIN 
+: 0442 1004P 
+144 nrhTA a9C/104.1 
+Milt 
+MAAMEDNA/004 WI 
+7 OMR 1021P 
+WYN
+ALtg011 Nt
+FL 
+t. 
+111.11 
+MN 
+VALSATIONMAN9 Nag 
+i sti: Mg: 
+IACONING 
+Mel 
+MAIM L U TONAMp MIN 
+1.141.MTL2NM04110 IAN 
+t CII itrOP 
+wiNAINNAcial 
+0311112/111914/1 
+so. 
+1414 
+LecA10.314.0.04H2 44•14 
+UN.WITION0AND MA 
+rj g/ ILE 
+WPALIIKACHIL 
+WPALMMACK IL 
+INC01.11/0 
+111.9 
+MIT 
+MA 
+thourrcowersoi UN 
+LediaL I 1.0.41/11114 VA 
+1.441.14TCDIVNIW UN 
+1 04/12 111TA 
+INOOMNC 
+MN 
+INLIMITID MYRNA AM 
+42 CW17 01:1M 
+V/PALMBEACHIL 
+NM 
+LINUMITE0/4001142141N 
+W 
+Fl 
+M 
+Nowt 
+RITFOEVAL 
+MN 
+11 0114
+NC/NA 
+AC 
+1. 
+MN 
+LINIMT 0 rthWN MA 
+WA 
+ONAVIIMIT 
+14 gni Rat 
+=4.1.un
+i..0 
+r t  
+IAN 
+MN 
+MN 
+WM 11411 /4/141.0 MN 
+UMMT 0 tWaN0 MN 
+41141M/ 9201104110 MN 
+Mull 
+0 /021040 MN 
+SS Mi Stitt 
+WAS= 
+R 
+. MN 
+nu.nwnhvia, mr, 
+100.WILONNA940 IAN 
+EN 
+NESSE* KTREVAL 
+II 04/1201:40A 
+ECYNTOTOCHFL 
+MI 
+VALIMT IMINI(110 MN 
+J WI' gilt): 
+WPM. 
+LAM WORTH FL 
+MN 
+1/111 
+WON. 01.1MLN MN 
+tt ON 9.  _
+Witt: 
+P 
+ft 
+MA 
+MN 
+WW1/a ran 
+MN 
+1.4111,1AT 
+/4M111/4 MN 
+OMNI 
+rya
+_ 
+MN 
+01 C4 101 1 n ' 
+2 
+WPAIMBEACH FL 
+514 
+Ell 
+LNNITEOHN/104 14111 
+W
+IILIM
+PFS1°4MMAN
+31) 04/1102:04A 
+MN 
+41111.1002041401AN 
+09 04 14 Odit l 
+WP 
+WPM. 
+R 
+Mc 
+MOAT r4/104/40 MN 
+2T1 0401 0.3313A 
+WP 
+n 
+uN 
+uns
+sir2 
+NMI" PAN 
+ 
+OAT ONN.101 MN 
+II IN 
+UNLI4 
+NANDI MN 
+I'VT 
+la 
+RITATCY.1 
+EVE. 
+M
+ir 
+IN I 1 
+MN 
+4.4141MTICONMAMO MN 
+FE 
+tt 
+SItili07421B St 
+CAT 
+MASA& RETREVAL 
+206 OM] 11A0A 
+WPALIMEADMI 
+1 MN 
+1.0419ATICNNAMID MN 
+20104f17 11:14A 
+PI 04/1! kW. 
+/ Iii ii 
+WA= 
+a 
+WIRACHFL 
++AN 
+WPMANCACHFL 
+VAN 
+heN 
+MN 
+ist41190 WAY/41 MN 
+MM 
+WRAMICIIMNI4 MN 
+UMAKTte //WM Mid 
+40.1.11.0213N/MIA MN 
+0 NhY109) MN 
+91 444 i 4.4.; 
+92010014904M 
+Pk 
+MN 
+MN 
+MN 
+leculAT(F044mrin MN 
+IMINATIONAY040 MN 
+lE 
+QYIic 
+P 
+me 
+Fk 
+FL 
+MN 
+MA 
+NM 
+11/044M141/44.414NY m/4 
+.440MT 
+NM14140 MN 
+LN1 SA 
+NINO* IAN 
+LPN MT 
+1494/1/41) MN 
+yq 
+I/MACE RE TAMA/ 
+232 ONO 04110 
+1 C401 
+1%:.== 
+FL 
+I'M: 
+okuaTto wifio, .,.. 
+UNOMTED INWARD IAN 
+Sit 
+EMIE IE. 
+°Mal 
+KWYNI NiX 
+ONtAir 
+WNW. MN 
+0414.9 
+WNW/ 
+N 
+no 0421 04:41P 
+VA4ALIMEACH FL 
+UM 
+VNUMTED1411/2049 MN 
+LA 04/11 04:41P 
+NPAUMWACH IL 
+nail 
+UNMATED NINAND MM 
+22$ 0417 0421P 
+DONTONBCH FL 
+11/1/1 
+OMMeICINMAND MM 
+ 
+I DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE OSAGE inamcvseil 
+0.10' 
+°WM 
+Charge 
+tam DMA Time 
+Celia To 
+/Mad Rale diefiptklo 
+PA Wag; 
+$121413 =PI 
+SIM Stit 
+LIN=Mv‘ 
+MN 
+UN 
+INWitle) 
+1 011/1P 
+1015411 
+UtaTED HAYDN) MN 
+YN 
+UNUVITLO WW1° AN 
+37 06141P 
+Mal 
+UNMATED .W1U4D 
+234 
+/ 0331P 
+C•11 01 31P 
+FL 
+2 
+uN 
+D 
+Vs4 
+Fl 
+D WHIM 1N 
+0417 07 21P 
+0 20; 8;1$ 
+0 WI %re 
+240 WI 1120P 
+241 0C111111. 
+242 on 
+243 0/19 1217 
+24404/0440* 
+• 
+345 OM $0 
+04.19 
+20 pan* 10
+10/4A1
+in  Mt 11 
+210 04/11112 
+210 0419114 
+y1 
+129301'1 M.1 
+W14002.4
+Stle 
+1
+1
+2500911109 
+015 
+l 
+7W Mir
+01
+I/ Si 
+11 
+0 101 
+Mk 0409 0? 
+256 04/19 
+267 0419102 
+27I in 04 
+0409 
+174 
+MONO 
+717 OM101 
+2/9 0420 0021 
+220 04120 023 
+/1 212 0 420 OS 
+ZI1 0420414 
+tarT
+,1 
+,,,A4 Aye n 
+NALLN 
+/MR 
+01110M0424 
+1/1PALNBE 
+NC CM NO 
+me 
+FL 
+MN 
+MUM ce.B0* WV 
+IL 
+Na
+UNUMT 
+NINX 
+Um 
+ihCONNG  
+NM 
+Witilla 
+NM/ND NM 
+WPAUMEAMI. FL 
+MK 
+UNUMTEDN/MUMNIN 
+APALMSTACH FL 
+MN 
+;MAIM WMIND MI 
+INCOLINO 
+Mk 
+VP/1MM rilmND Mgt 
+WO 
+VAMUMEACH n. 
+Fl. 
+N 
+am, ...,.. 
+WOJINVANO MN 
+UMM 
+et TOMO% 
+NE 
+RETREVAL 
+P 
+p 
+rt 
+MN 
+wmcno in 
+WPAMMEACNIL 
+MI. 
+t ANTTNEMN 
+!Way, 
+FL 
+Mg I tr.asm,
+v"147=gat 
+MN 
+ker
+o  ael 
+a 
+Mn 
+NM 
+MN 
+IV' 
+infiN
+nriRP 
+al 
+leVel 
+MN 
+K0 
+1.. =* 
+ha
+WPALIMEACH Ft 
+FL 
+Mk 
+FL 
+MN 
+UNJAI itoo..c. wet 
+-.11CNFL 
+lab 
+XCADDLNVIVE MN 
+MN 
+0MM:a 
+M
+,
+MN 
+Ft 
+MN 
+UNJurrE NiVeMO NS 
+VIP 
+MN 
+man 
+We, 
+INN 
+MP 
+n 
+M 
+VAT 
+all 
+Alen 
+VrP/OMfteMn. 
+UN...• 
+NAHUM MN 
+SOYhTmma. Ft 
+MIN 
+UN.MT 
+loWSNO MN 
+WPM milli
+ n 
+MN 
+UN-MTEONAMCNOMN 
+'Koran° 
+1210/ 
+UNSIEDMVEYONIN 
+VrtmtVinkral FL 
+INN 
+MA.N.M2I6.14MONL 
+venom-944in 
+llig 
+Mt 
+=OM 
+WI= VAC Ft a IE 
+VA's  mi,,an, 
+VIPALVOIA;N Ft 
+vii.ALVB,A..Fin 
+=Et 
+mmg NM 
+3:0 
+LANYI/MOM 
+WP ALM,' ICHR 
+tlIN 
+0 Zgy ArtYlla MN 
+ISONAPA 
+INN
+ MI 
+VOALWEVain 
+PAN 
+UN TIM3.5k.ngli WE 
+EVT 
+MESSAGE RE-ritEVN. 
+vePu.vBEA:un 
+MM 
+X0 ADO,. ANYTIM tMt 
+UM-VIM Pall40 MN 
+WPAYMENZHF1. 
+MN 
+UNIMTED Num* MN 
+WPAMMEACHFL 
+INN 
+UW.IATIONWp. MN 
+rat
+irtSEVAt. 
+2;„4 
+V 
+UN 
+EVT 
+tUnt 
+TREY ' M
+WPALLMEAC.HFL 
+IAN 
+ONLM a,..;% 
+L 
+thCOMNO 
+W 
+I
+TS4aZi
+.
+...IT 
+'4i.tritom. 
+= 
+rearairo 
+wit 
+Chirps 
+1 
+EFTA01692827

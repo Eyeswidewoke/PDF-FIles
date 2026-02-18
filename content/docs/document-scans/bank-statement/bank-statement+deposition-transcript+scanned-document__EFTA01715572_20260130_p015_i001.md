@@ -1,0 +1,335 @@
+---
+source_image: "bank-statement+deposition-transcript+scanned-document__EFTA01715572_20260130_p015_i001.png"
+source_pdf: "EFTA01715572.pdf"
+method: pdf_text
+words: 574
+confidence: 1.00
+extracted: 2026-02-13T16:08:05.994403
+---
+
+Page 
+17 
+Account Number: 
+Billing Date: 
+AIRTIME AND IWO DISTANCE CHARGES 
+City 
+Its Date 
+Time 
+CL No. Called 
+Called 
+F P 
+Length 
+Of 
+Call 
+Mobile Number: 
+Mobile User: 
+Total Mobiles: 
+ 
+CHARGES 
+Air 
+Long 
+Time 
+Dist. Total 
+2 01/07 02:58PN 
+ITTSB PA W N 
+21 
+0.00 
+0.00 
+3 03/07 03:20PM 
+ITTSB PA W N 
+6 
+0.00 
+0.00 
+4 03/07 03:27PM 
+ITTSB PA W H 
+18 
+0.00 
+0.00 
+5 03/07 03:45PM 
+ITTSB PA W N 
+14 
+0.00 
+0.00 
+6 03/08. 04:04PM 
+ICE CL 
+P 
+1 
+0.00 
+0.00 
+7 03/08 08:14PM 
+ITTSB PA 
+P 
+1 
+0.00 
+0.00 
+8 03/08 08:19PM 
+ITTSB PA 
+P 
+1 
+0.00 
+0.00 
+9 03/08 08:21PM 
+ITTSB PA 
+P 
+14 
+0.00 
+0.00 
+10 03/08 09:25PM 
+ICE CL N 0 
+1 
+0.00 
+D.00 
+11 03/08 09:26PM 
+Irma PA N 0 
+3 
+0.00 
+0.00 
+12 03/09 12:57PN 
+ICE CL 
+P 
+2 
+0.00 
+0.00 
+13 03/09 12:59PM 
+ITTSB PA 
+P 
+16 
+0.00 
+0.00 
+14 03/09 01:15PN 
+ITTSB PA 
+P 
+3 
+0.00 
+0.00 
+15 03/09 07:07PN 
+YKESV MD 
+P 
+1 
+0.00 
+0.00 
+16 03/09 07:46PI4 
+NCOMI CL 
+P 
+5 
+0.00 
+0.00 
+17 03/11 11:37AN 
+ICE CL. 
+P 
+2 
+0.00 
+0.00 
+18 03/12 04:33PM 
+ICE CL 
+P 
+2 
+0.00 
+0.00 
+19 03/12 06:55PM 
+HCOMI CL 
+P 
+1 
+0.00 
+0.00 
+20 03/12 10:13PM 
+YKESV MD N N 
+1 
+0.00 
+0.00 
+21 03/12 10:15PM 
+SYKESV MOWN 
+1 
+0.00 
+0.00 
+22 03/12 11:05PM 
+INCOMI CL H N 
+1 
+0.00 
+0.00 
+23 03/13 03:15PM 
+N PALM FL W N 
+2 
+0.00 
+0.00 
+24 03/13 03:19PN 
+INCOMI CL N N 
+6 
+0.00 
+0.00 
+25 03/14 10:48AM 
+PIT7S8 PA H N 
+4 
+0.00 
+0.00 
+26 03/14 10:51AM 
+ITTSB PA N N 
+118 
+0.00 
+0.00 
+27 03/14 05:35PM 
+ITTSB PA N N 
+3 
+0.00 
+0.00 
+28 03/14 05:38PN 
+PIT758 PA H N 
+1 
+0.00 
+0.00 
+29 03/14 05:39PN 
+P1T759 PA N H 
+35 
+0.00 
+0.00 
+30 03/15 08:12AN 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+31 03/16 12:40PN 
+VOICE CL 
+P 
+2 
+0.00 
+0.00 
+32 03/16 04:07PN 
+PALM PL 
+P 
+2 
+0.00 
+0.00 
+33 03/16 04:27PM 
+H PALM FL 
+P 
+1 
+0.00 
+0.00 
+34 03/16 04:28PM 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+35 03/16 04:35PM 
+PALM FL 
+P 
+1 
+0.00 
+0.00 
+36 03/16 05:49PM 
+INCOMI CL 
+P 
+13 
+0.00 
+0.00 
+37 03/17 05:02PM 
+INCOMI CL 
+P 
+2 
+0.00 
+0.00 
+38 03/17 10:15PM 
+PITTED PA W 0 
+2 
+0.00 
+0.00 
+39 03/19 11:39AM 
+INCOMI CL 
+P 
+1 
+0.00 
+0.00 
+4D 03/19 12:53PM 
+PITTSB PA 
+P 
+1 
+0.00 
+0.00 
+41 03/19 12:54PM 
+PITTS8 PA 
+P 
+45 
+0.00 
+0.00 
+42 01/20 08:57AM 
+INCOMI CL W N 
+2 
+0.00 
+0.00 
+43 03/20 09:45AM 
+SYKESV ND H N 
+1 
+0.00 
+0.00 
+44 03/20 09:46AM 
+SYKESV ND W N 
+1 
+0.00 
+0.00 
+45 03/20 12:22PM 
+INCONI CL W N 
+1 
+0.00 
+0.00 
+46 03/20 05:19PM 
+SYKESV MD H N 
+1 
+0.00 
+0.00 
+47 03/20 06121PM 
+INCONI CL H N 
+1 
+0.00 
+0.00 
+48 03/20 05:25PM 
+INCOMI CL W N 
+2 0.00 
+0.00 
+49 03/20 05:29PM 
+W PALM FL W N 
+2 0.00 
+0.00 
+50 03/20 06:40PM 
+INCOMI CI: N N 
+1 
+0.00 
+0.00 
+51 03/20 06:41PM 
+INCOMI CL H N 
+16 
+0.00 
+0.00 
+52 03/20 08,18PM 
+PITTSB PA W N 
+2 
+0.00 
+0.00 
+53 03/20 08:19PM 
+PITTSB PA W N 
+67 
+0.00 
+0.00 
+54 03/21 08:03PM 
+PITTSB PA N N 
+22 
+0.00 
+0.00 
+55 03/21 08:26PM 
+PITTSB PA W N 
+1 
+0.00 
+0.00 
+56 03/21 08:37PM 
+INCOMI CL W N 
+1 
+0.00 
+0.00 
+57 03/22 08,43PN 
+PITTSB PA 
+P 
+3 
+0.00 
+0.00 
+EFTA01715586

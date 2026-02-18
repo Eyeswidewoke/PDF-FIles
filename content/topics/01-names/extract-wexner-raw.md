@@ -1,0 +1,94 @@
+# 👤 Wexner-Raw
+> **Category:** Key Individuals
+> **Source:** `01-NAMES/extract-wexner-raw.txt`
+> **Lines:** 63
+> **Generated:** 2026-02-12T11:11:59
+
+## 🏷️ Tags
+`people` · `wexner-raw` · `trump` · `clinton` · `epstein` · `maxwell` · `wexner`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Wexner](../cast/profiles/wexner.md) | 73 |
+| [Epstein](../cast/profiles/epstein.md) | 33 |
+| [Clinton](../cast/profiles/clinton.md) | 3 |
+| [Maxwell](../cast/profiles/maxwell.md) | 3 |
+| [Trump](../cast/profiles/trump.md) | 2 |
+
+## 🔑 Keywords
+
+`London` · `New York` · `investigation`
+
+## Full Extract
+
+```
+Leslie Wexner, The Limited Inc, CEO's, plane had arrived in West Palm 
+*%. NM Wexner 
+Wexner of the Limited, socialite Ghislaine Maxwell, even Donald Trump. 
+Leslie Wexner, his client list is a closely held secret. A 
+Leslie Wexner, founder and chairman of the Columbus, Ohio—based Limited chain of 
+women's-clothing stores. Wexner, who is said to be worth more than $2.5 billion by 
+Wexner-Epstein relationship is indeed a multifaceted one. 
+Given the secrecy that envelops Epstein's client list, some have speculated that Wexner is 
+you: Jeffrey Epstein has other clients besides Wexner. I know because some of them are 
+East 71st Street -- was originally bought by Wexner for $13 million in 1989. Wexner 
+Epstein also owned a grand house (he has since sold it) near Wexner's opulent manse at 
+New Albany was a lush spraw] of farmland on the outskirts of Columbus that Wexner, 
+financed largely by Wexner himself. Epstein was a general partner in the real-estate 
+investigative journalist who has written extensively on Wexner and his finances. "Epstein 
+cleaned everything up, as well as serving Wexner in other capacities -- such as 
+facilitating visits to Wexner's home of the crew from Cats and organizing a Tony Randall 
+song-and-dance show put on in Columbus." Wexner declines to talk about his 
+Epstein in any way to land Clinton. Wexner is a staunch Republican donor, and Epstein, 
+https://www.bloomberg.com/news/articles/2019-07-13/a-billionaire-and-a-sex-offender-the-wexner-and-epstein-ties 
+like the mansion, the Boeing 727, on which Epstein shuttled famous friends including Bill Clinton, was also a hand-me-down from Wexner, 
+Epstein used the jet on at least one occasion in the 1990s to travel to Abigail Plantation in Georgia, a quail-hunting preserve Wexner named 
+names. Dozens of phone numbers are listed for Wexner -- for his home, the plantation, residences in London and Aspen as well as for 
+various vehicles and staff associated with each property, plus more for executives at Wexner’s companies. 
+These former ties could be liabilities for Wexner, who in a 2003 Vanity Fair article praised Epstein for his “combination of excellent 
+judgment and unusually high standards.” What’s more, Wexner said, “he is always a most loyal friend.” 
+lingerie retailer. He explained that he was friends with Les Wexner, the chief executive of 
+Epstein was a money manager. He managed Les Wexner’s money and possibly 
+Wexner: Epstein investigation 
+billionaire Les Wexner 
+Subject: CNBC; Jeffrey Epstein used $46 million charitable donation to keep alive his ties with billionaire Les Wexner 
+https://www.cnbc.com/2019/07/11/epstein-donated-46-million-to-les-wexners-private-foundation-in-2008.html? 
+billionaire Les Wexner 
+e Accused child molester Jeff Epstein in 2008 essentially bankrolled one of Les Wexner’s first nonprofit 
+e Despite the massive donation, the Wexners tried to distance themselves from Epstein. 
+e While Wexner appeared to shun Epstein after his first arrest in Florida, many politicians and companies 
+billionaire L Brands founder and Chairman Les Wexner was trying to distance himself from the 
+That didn’t stop Epstein in 2008 from essentially bankrolling one of Wexner’s first nonprofit 
+Some of the alleged crimes took place in a New York townhouse once owned by Wexner. He is 
+currently being held without bail. Wexner was known to be one of the money manager’s few 
+Epstein provided initial financing to Wexner’s YLK Charitable Fund more than 10 years ago, 
+even as Wexner and his wife started to break away from the financier after the initial accusations 
+person refused to comment. It is unclear whether the Wexners will give the money away. 
+$46 million plus to YLK , according to a 2008 990 disclosure form. Wexner became YLK’s 
+It was the only contribution the Wexners received that year. In 2009 and 2010, YLK did not 
+Epstein first financed the Wexner nonprofit with $33 million worth of Applestock and $5.4 
+The assets Epstein gave the Wexners’ nonprofit helped it have at least $10 million in short-term 
+In late 2010, YLK announced it would transfer all of its assets to The Wexner Family Charitable 
+show. Since 2010 the Wexner fund has been actively contributing to a variety of causes. 
+group: The Wexner Foundation. 
+A spokeswoman for Wexner only noted he had “severed ties” with Epstein over a decade ago and 
+Calls to the Wexner Foundation, where The Wexner Family Charitable Fund is *located*, along 
+with an email to Les Wexner’s attorney, were not returned. The treasurer of Epstein’s current 
+Before his massive stock distribution to the Wexner group, Epstein told The New York Times that a 
+Manhattan mansion Wexner bought for $13.2 million was now his. “Les never spent more than two 
+In an interview with Vanity Fair in 2003, Wexner praised Epstein for his understanding of politics 
+“T think we both possess the skill of seeing patterns,” Wexner said. “But Jeffrey sees patterns in 
+While Wexner appeared to move way from Epstein after his initial arrest, many politicians and 
+I do not know about Ohio contacting Wexner. 
+This is interesting. The mansion was the home of a school until Leslie Wexner bought it in 1989 — at least according to a 
+number of public reports. He remodeled it, and it was featured (as Wexner’s house) in Architectural Digest in 1995. As 
+transfers title to another Epstein entity. So did he own it that entire time, rather than Wexner, as had been 
+advertised?? Or did Wexner own it through a corporation for which Epstein was the president until 2012? 
+Leslie Wexner, IJ (Ohio) 
+```
+
+---
+
+*Full extract: `01-NAMES/extract-wexner-raw.txt`*

@@ -1,0 +1,555 @@
+---
+source_image: "deposition-transcript__EFTA01692725_20260130_p021_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 972
+confidence: 1.00
+extracted: 2026-02-13T17:00:45.975151
+---
+
+I 
+Account Name 
+Account Number 
+Date of Invoice 
+Sagember 12.2004 
+w. 
+• 
+AT&T Wireless 
+Page 8 of 14 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Nab,* 
+qav Dae Tine 
+010 NA 
+0403  
+10 
+053 
+01172 07015 
+gll" 
+Ii MR31111 
+14 0604 MAI 
+AI 0624 IIA7 
+I 
+AWN 02. 
+I MN 02. 
+1It 0110 
+MU4 02 
+02 
+g..., 
+63 I .4 041 
+4 Ell 
+26 C41/2 
+.114 etv2 
+h 
+)0 I 
+(MI 
+11 OWS 061 
+04/2 0423P 
+gn 
+M4 
+r. 
+36 OWN 04.44/P 
+34 0404 ORIMP 
+37 04/24 
+MW 
+03 
+3# Ern. 
+79 
+4 3,r
+II 0221 06:31: 
+S311411:3 
+.us 441 
+01/16 
+17 0105 12395
+• (0^S 11,16: 
+49 0445 11.41P 
+SD 0425 012. 
+51 0405 WOW 
+52 0615 0104P 
+13 0425 01130 
+Si 07
+min 
+41 12 24: 
+54P 
+0405 05 
+04 op 
+21.1 
+00 
+04.05 07/31P 
+61 W25 0116P 
+62 344750734P 
+f0 OW160040 
+• 
+03126 IPMA 
+85 WM 02 RP 
+641 04 60504) 
+WPALMIGGR 
+WPALMBEACll 
+i FL 
+WWWWEACI4 FL 
+MIN 
+WPAUMEMM FL 
+W
+,41 ,4 a 
+41
+ 
+ R. 
+IAN 
+FVT 
+ifirPNAM14404F1. 
+• Continued 
+ebier 
+Charge 
+Cans To 
+Used RPM 040alpilea 
+WPAUMEACH Ft 
+WWI 
+IYCOMNO 
+11414 
+WPALAMTACH Fl. 
+WP wpasiiiii 
+441109010 
+M
+.
+WPALAIBEACII FL 
+MIN 
+WPµMIFACN FL 
+WI 
+WPALMWACH Ft 
+WI 
+3WAL /MUCH Ft 
+MN 
+30314TONOC1411. 
+1.4N 
+'IAN:
+MN
+wwititisiA04 Ft 
+MN 
+NCOmmi 
+MN 
+MCIONMACH FL 
+MN 
+TICOW0.NO3; 
+N
+MN 
+i
+C4 
+N 
+I
+CrANG 
+MN 
+42= 
+MN 
+ii 
+v.PAOMFACH Ft 
+MN 
+INCLAING 
+MN 
+WPALAM£4414 Ft 
+MN 
+WPALPANWN FL 
+WIN 
+51/1904m Lo. 
+ 
+MIN 
+WPA049ZACI1 FL 
+Mn 
+114011-14 
+MY4 
+WONNMAGN FL 
+MN 
+WPALIM 
+Ft 
+604 
+WPALM 
+WHAM 
+MN 
+WHAM inteil LI  
+MN 
+104 
+MIN 
+wftwear... n. 
+MIN 
+Wiwi*, 4048 
+F. 
+P.O0I414C 
+Wwitial AC11 Ft 
+WPM/136AD. Fl. 
+BOYNTONTICH ft pa, 
+WPALM£404 Fl. 
+oiN 
+WA/ANN...CH n. 
+MN 
+DOWTON904 FL 
+MN 
+ViPtava4604 FL 
+MN 
+WOAD/WAG. Fl. 
+MN 
+IEVT 
+WPMIRWA014 FL 
+14111 
+1.10CWINO 
+MN 
+VON'
+ 
+MN 
+MN 
+WPALMPlACH Ft 
+MN 
+INC014136 
+16101 
+SI 
+300 A.01. INYT/0 111/ 
+)(10 AD01. MINTS MN 
+ketEa
+0).091.
+TRIM 
+Firan
+ANTYM mit 
+HAvA7.0 MN 
+365041E PETRIE vat 
+363 4001.ANYTNE Mr. 
+xa spat men LC MN 
+UMW IICOL 701.10BL 
+303 ALATt NITTME 101 
+IAN M WOOL TO MOC. 
+Wit IA NUM. TO MAIL 
+2.0.41 NOW Tot 
+VNIFr MOW. Tot 
+mai uOM TO 
+300 4,301. ANATNE V 
+300 *001ANYTut MN 
+333.4001. NWT 
+MM 
+trk 
+ANTI 
+Vr4 
+,50 
+N 
+val 
+=NOM NIYTVF MN 
+.W34 1,004. TO NOW 
+LWAI meet TO MOM 
+N13 ANA AttrimE IAN 
+=own 
+wirTNIT426 
+ALL THE mt. 
+303 ADD: ANTTME MN 
+mum Witi. TO 51041 
+re /kept ANTTME PAH 
+le2§12,1,174;2:1 
+UNLIN MOM 70 9400' 
+440554C4 MAR 
+CROP CALL CPECAT 
+WriV iat SOR ra
+t
+UNtM 03‘/A 1018S 
+303 
+L 
+41301. A 
+):0 Met NMI 
+AWL 
+T 
+MN 
+MN 
+MAW% A 
+MNT- PIE MN 
+UNA 
+L•300 
+30) ACOl ANYT
+7010
+WE
+N
+M
+.  
+581 
+MILIA14047. TO MOIL 
+UMW WOOL TO MON. 
+MESSAGE RE'MEVµ 
+300 
+I 
+NOM Atrini; Nix 
+300 ADM NN% IAN 
+AWL 
+TM 
+ON 
+mon 
+W 
+Imam sin 
+30) 44:01. AMCNIE ma 
+.m.••• 
+AOOIt ANY
+YTM 
+a ,  
+L Mtn. 
+01100
+00  
+CALL CREDIT MN
+303 4001.ANTIMC AM 
+260 4301. ANr7W Fm. 
+EIMPA- LO PINMOMMAI 
+Fm AMA mini* MN 
+WeLid POW TO MOM 
+IMISAGC RITRIEV 
+300 Apo. *MON M 
+A4N 
+Chorea 
+VOICE USAGE FOR 
+Number 
+item NM Time 
+67 A606 030W 
+69 CA0603070 
+% 444 aft
+,
+IL Van 0350 
+1i 2274a3; 
+74 whoa 470 
+73 0/26 
+38 03626 06
+0..31
+COP
+11
+37 CtV26061$16
+Mewl PIS 
+70 an, tit 
+V 
+r
+i  Pl"
+ti 
+7P 
+IA OVA 01 P 
+SS ir*M1 
+= 
+0 MP 
+* 0004 0 
+4117 
+ gt P 
+080606 CM14111 
+90 040 0002P 
+91 0074 093MP 
+12 c(112* 39010 
+97 0304 a
+!:= 
+RI:: 
+95 C13126 03111P 
+96 C4126 Oti2P 
+1BE 
+53141; 
+101 0106 0949P 
+101 
+ Dk
+103 
+1CO 
+1%00101$161934) 
+1 
+8 I
+14 
+ill:11: 
+109 
+.8 11 110 
+1'0 03618 11:190 
+III 03061121P 
+In taaa 1 Iste 
+113 certe 114 30 
+III alin 11440 
+115 p@6 1145P 
+156 Carte 1147P 
+10 OM 11 44P 
+Nil= 
+iii; 
+170 (140 17
+i li
+1.4 
+SI 1[11 
+1.4 01127 07.12A 
+125 CS477 12 
+IN El i 
+1242i en 
+Cable 
+Continued 
+Only 
+Charge 
+Used Rea Oncrip6on 
+FL 
+INN 
+MO MD1. ANYTIAt MN 
+FL 
+MP 
+polar
+tMLAN 
+it E E 
+T 
+ill 
+mN 
+11111 
+N 
+W
+Itli 
+PAN 
+N 
+MIN ra 
+-I 
+1101 
+1101 
+3D) 
+"MI  
+5 
+kra
+.
+* 
+IIII 
+1: 
+UMW --
+A TO MOBL 
+303 ACCn. ANTIV1 NM 
+MN 
+360 9001.10011391 MA 
+1:11 
+1/. .V,V VSM MN
+9.4)4 
+tiniumwo %Wow MN 
+AU/ 
+ACH Ft 
+IAN 
+tar.MTA0 NMICM0 MN 
+WPAJOGEW.01 Ft 
+Pal 
+UMIATtO %Yew MN
+INP4.1013EACHFI 
+1.1 
+Wir,44710 WOW MN 
+WINPASIFI. 
+MN 
+win 
+FL 
+Mx 
+UNLWIE NAMEND /MI 
+WPAAI 
+A. 
+MN 
+u WW1 Wreck NM 
+1901 
+WWI E SWAM) WI 
+UN.MT/9 •4439IN MI6 
+WPALN00441 ft 
+104 
+10.1.114710 MYRON/101 
+INCOIRNM 
+2101 
+VMPATED WPM) INN 
+WPA1910514 FL 
+2101 
+:11Ntrallg N45060
+A  If ej 
+WPALANN 
+14 Ft 
+1101 
+WPALVM 
+NR 
+I: 
+UWIMTIO WWW01.411 
+VMMOIMACH R
+011.114110 ILLVLND WI 
+WPAIMMACH FL 
+VM 
+LIWAVITED 11/61010 MN 
+WPAINILEAGN N. 
+14N 
+1V.PATED WAWA° MN 
+WPAIAMEACH IL 
+MN 
+.W4mTE0
+.R4T11) liNviwo FAN 
+WPALIMEACH IL 
+MN 
+31 
+ii4Wico rAN 
+INPALWEAC14 R. 
+MN 
+41,191110 NAMO) MN 
+WPALVINACA4 Pt 
+MN 
+JIN1MTED1100610 6•11 
+WPAL110/414 FL 
+IAN 
+4N.Mcl 
+NNW 
+MN 
+WPALEMEACH Fl. 
+MN 
+JS.FAT 0 Mx 
+Me 
+3MN 
+41(.150118 NMI 
+PAN
+INOOMN6 
+L., 
+WORTH FL 
+MN 
+AWL MT 0 NNW 1.13101 
+ION 
+J11.01 WI 
+MN 
+UWE WORTH FL 
+WPALHOCE FL 
+MN 
+AWARE *WA 
+PAPS 
+WOMNPA 
+a 
+MN 
+JMNAT 
+VAVE 
+MN 
+WPAL1a
+, 
+MN 
+JMN4 
+MVO-0 MN 
+W 
+‘11i8P191 FL 
+AC11 FL 
+MN 
+WV 
+NM111.19 
+101 
+010.11 
+"MVO' PAN 
+MN 
+UMW' 
+NAW 
+Mn 
+&ACM FL 
+MN 
+INNIMTED NNAIL110 MN 
+WPAL5MEWN FL 
+MN 
+ILNU*APAt.123 Nti?et 
+FVT 
+iitiiwolpii
+"'Gt  't iinT64YALli 
+WP
+1104"egVic 
+itt.
+ 
+umim a 
+TO MOIL 
+NOYNT0110Ck FL 
+MN 
+Xio ADOI WM* MM 
+wPALMIENCH Ft 
+MN 
+31 .0
+0 
+Z 4 = 
+olin 
+wiNmem mi. It 
+MN 
+ISOYNTONWN FL 
+MN 
+UNLIM 
+TO MOE* 
+Charge 
+EFTA01692745

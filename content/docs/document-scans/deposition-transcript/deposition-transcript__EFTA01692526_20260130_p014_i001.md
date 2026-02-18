@@ -1,0 +1,386 @@
+---
+source_image: "deposition-transcript__EFTA01692526_20260130_p014_i001.png"
+source_pdf: "EFTA01692526.pdf"
+method: pdf_text
+words: 670
+confidence: 1.00
+extracted: 2026-02-13T17:00:45.959776
+---
+
+x ctngular 
+owe-near 
+Der 
+Account Name 
+Date Of Invoke 
+May 18. 2005 
+Page 6 of 8 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+lumber 
+urn one Imo 
+gagi
+'S 
+20 0020 MOP 
+21 UM OR1IP 
+g Sgg star 
+30 04/2I 04:451. 
+31 0021 07471,
+32 00V 1212F 
+34 0
+3 
+0022022i 
+12n2P
+:4
+3
+0P
+13 0077 12 45, 
+3f ova onflo•
+Il Ov41 00704 
+141te
+ms04.92SicaOliwIle 
+MP
+pist5BE 
+0921 *MP 
+gust
+33 
+54 OW/ MAILA 
+SS 0142/ 1L4SP 
+01,F 7 a
+411,;1
+IMO? 
+Oa
+90 0477 0197P 
+BRIT; 
+03 0477 01:1&P 
+114 (WV 03 SOF 
+tl 
+'S tl77P
+47 
+7 
+g
+OS 
+gi3 
+74 043061'00
+/5 0029 01:26P 
+16 ORM 04:VP 
+o not otuo 
+fe 0499 097/9 
+79 0419 UAW 
+Untrue:I 
+0047 
+Marge 
+7444 To 
+thud Rau DeurIpcIon 
+PAP 
+AV'YrelE v
+VHS 
+FL 
+:2=01 
+FL 
+WISAUSEACII FL 
+11 
+wPAC
+WPM 
+Ft
+.44/1/ 
+I/t7/4Cn Pt 
+PIC01/1171 
+WICOM NO 
+120104103
+19/Yµ31 /AM1 
+ 
+FL
+iiIYAL
+AVIlar i PI 
+i4.41:14161=FL 
+2t 0
+H
+AVII 
+WPALMIMMIM Fl 
+sou
+BOCA PATON FL 
+RATON FL 
+MPAL1113001 FL 
+INCC*A 
+NG 
+WPAU/ISFACH 11 
+11111 
+III 
+MOP 
+461/1 
+2Mild 
+31111 
+Ma 
+221 
+16.4 
+211F1 
+1EVT 
+lYM 
+1080I 
+24 UPI 
+EVT 
+I lin 
+MT 
+lIAll 
+IMN 
+IMN 
+I EVT 
+r aft
+1915
+25.15 
+441424 
+119.6 
+}RARE& /4410 
+aiiica
+litilT/ 14 .
+SHAPED loCC51. rows. 
+SHARED MO.M. TOMO& 
+SIMPED 54066 TOMO& 
+Pg'rer!-;VAT-
+v MY: PAC Nun 
+a
+ ‘4575 
+D
+/4574iTn51
+mcL 
+e TO 
+W6SSROE RETRJEvA5 
+VZE8MIt T8
+ac 
+INYINEY 
+t
+SNAREDANY44/ 
+SHAPED AMINE WS 
+SHARD &cam NM 
+E
+at AVY/W414057 
+SMAB
+C P4 GRTM EE 
+C MYOPIA MI& 
+C ASV/WE IA 
+YES 
+E11;1149A.. 
+k
+t1;g al
+i
+E RC 
+VA: 
+SV. 
+/WIT 
+uivs 
+.146 11 007 
+ANTrei LIM 
+StalpEC ANYTAIE 14106. 
+StiARED 60444 TO M
+64 
+OBL 
+MESSAGE RETI47
+marl) VIM TO I00' 
+AYYTIY
+tri,1[3:a 
+cAtorr 
+mom.% 5.0a 
+TO 
+SNAP 
+Rana WAS 
+ARY ex MRS 
+AAT.994 Palo 
+r
+i,,,, D Nit /011.6 
+HAR o4.4065 T U0a. 
+AR 2 A4.4 14 00., 
+RI wax ,  1.41/6 
+SI AS Ll I AC 5 l .0 E 0 NWT 
+E REPREVAL 
+vnAR4 4745.-7touiNs 
+544.070 m7. TO 5064 
+SIOATO Al LC OM% 
+SHARED/11./LOG 0 IAVS 
+SIMBE01/5.100 0 MIK 
+SHARE0114-LJOED WM 
+SNARED 1/1O6.1O MOM 
+VOICE USAGE FOR 
+*Amber 
+Oyer 
+Kam DM* Thin 
+53 OW1 01.<0. 
+0$91 
+M 
+52 MI 04
+QU21IP 
+14 05010421P 
+46431 
+93 gg 11 
+A 
+es 
+11 
+Is/ 0503 1200P 
+a 0503 12119 
+sT
+en 0s
+058 I nop
+LISP 
+SI C603 12;2IP 
+0%
+1  O6
+46
+11 ifF,4 A 
+N 050 1, 4.. 
+40 0600 
+'50 0301616A 
+0; C606 0751P 
+;Si MI 
+CR 067 105IA 
+105  
+11:6 C67
+06
+7 1064A 
+07 122W 
+IN 4607 47204 
+lea 0707 447-w 
+100 060 311310 
+1 /0 0907 022/P 
+III 06127 01-011
+112 0607 0901P 
+/13 06'07 OkOW 
+114 0643743407P 
+ill M3 
+00011p 
+111 
+119 06.07 0641P 
+140 060/ 04CP 
+th
+l ren:1
+O6O6 sti;
+0201. 
+lit Nan; 
+;gongs 
+729sat t,:in 
+70 0.430 01.37P 
+III OEM 076514 
+132 0600 (7:OX4
+133 0909 02,011)
+114 06090:334 
+I1S MOO O2!PIP 
+116 0609 O722P 
+Continued 
+()My 
+awry 
+7•30 TO 
+U.S fists OneriRtien 
+WIIMOIKA034 FL 
+ION 
+LIAM NCNTMCE anti 
+WPAIII 
+M
+int % 
+IM 
+MErterV/%3W 
+19/M 
+SHAFtED KGHT/I 
+mzuGHTmtem
+1HAICLUWOre.1046 
+11775Acit R 
+2
+0L
+1111/i 
+5/1410. MI 
+CHAR 
+al= 
+Sit4REC 4571,474 MNS 
+DROP CAL CREPT 
+SHARED 15.CLUMO vrIS 
+SWAR 
+f5S4‘ 44c5.0 VNS 
+S 
+NAR/L 
+NARL 
+1.T YG4L
+ra
+uget t45.7.MNS 
+11Rbalt.9Ai 
+Mrkgt.."3 f? ;„,c't 
+SHARED liC-LqO V115 
+SHAMO 31024. 
+1/021. 
+MESSCCE 9ETRCYM 
+IHAKO 
+SHAKO NORTMEE1740 
+SHARED NZTINIEEI40 
+YESSMi 
+ag,17,1114:18 
+n
+OT 
+oloatate
+T/Iit0,. 
+SMARM>: RTMEEXEVO 
+4.7.
+40 
+SSARIEINGFITMEEXERO 
+$R404745GhTMEERE‘o 
+SHARED NGNT/NEEAENO 
+SHAREONGHTMIEre.0 
+SHAKO tIGKTN/EEXENO 
+ociaterincto 
+K.G17/1444 cENO 
+ITINI14
+148 
+gate  
+WRAL•664O14Z. 
+WAAL/MEAD. FL 
+FL 
+Main 
+la 
+MCC 
+1/1C0110113 
+WPM:EUFt 
+VA? 
+WPALMO
+EA
+LOGII
+CHFL 
+FL 
+WPALMB 
+DICOIMIG 
+TW#PO
+WPA = U°4 R
+==foi
+scrut 
+WPAUABTACA 
+venostitA04 It 
+Airirtk FL 
+WP
+USIR 
+wP 
+WP LOA 
+WO 
+WP 
+614 
+WO 
+TN 
+TM 
+CL 
+1031ACH Ft 
+Yea 
+IliliiiiiiihildffamitinoTaiffil 
+'AL 
+P. 
+VIESO 
+`11V1)18 
+WIN tfit 
+HT/ 
+Ex0i0 
+0 1...1417 
+DliHT/I/ 
+TMA 
+xo 
+// 
+40 
+SNARE
+ °0605
+SPORED 344,11/0 
+MNS 
+SIO.0.5161,4084 TC5I•70. 
+SHARED tIC.UCE0 6015 
+EFTA01692539

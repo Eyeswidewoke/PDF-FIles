@@ -1,0 +1,280 @@
+---
+source_image: "deposition-transcript+invoice+bank-statement__EFTA01692725_20260130_p037_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 550
+confidence: 1.00
+extracted: 2026-02-13T16:47:03.536655
+---
+
+TOTAL VOICE 
+ACcount Name 
+Account Number 
+Dale Of Invoice 
+November 14, 2004 
+zr= AT&T Wireless 
+Page 8 of 20 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+mist 
+Item DAM Elms 
+St  {Igglirip 
+sea nno IIIIP 
+1160 1110P 
+'Inc 11VP 
+11111 ClOsA 
+11/11 
+MP 
+illii 
+MP 
+5 4 11111 
+AAP 
+53} 11111 CkSIP 
+STS 11/i 1 OSAP 
+s77 1161 064/P 
+PS 11/11 Cfc5IP 
+1
+1 
+11111 070SP 
+Dm 0709P 
+DM 0721P 
+'i
+n;074g: 
+11 =‘, 
+I12;UD Mr.S.IP 
+1121 1:48 
+IIIII tame 
+not 11160 
+Dal 111.5P 
+131 URI ll.:Itigu
+i
+`.;'411.1etc.,I. 
+DATA USAGE FOR 
+Item MN 
+004 Used 
+TOTAL DATA UMOE F 
+TEXT/MULTIMEDIA MSGS FOR—
+item 0 
+um. 
+Sent ToIllcvd tram 
+11025 
+04:10P 
+210225 
+46:102 
+TOTAL TEXTS/JAMMU 
+CESMIDUIld 
+Doty 
+Mar 
+Galls To 
+Used Rate Description 
+PALM BEACH EL 
+IV 
+IMUMITE010W1010 MN 
+M.C=
+Acm F, 
+it 
+icima
+MA:TEO
+Tto Key
+sttruigt MN 
+MI 
+iiiit.:Eff Sgal Mg 
+Pt 
+'673 
+‘." 
+El 
+ra 
+ig 11 U T 
+gi. 
+INCLCOLDIAlscl 
+Oti
+li
+ EP
+R 
+Am 
+INCLUDED silliUTES 
+IMN 
+INCWOM WIVES 
+al 
+SiCtLOED MINUTES 
+WM/MEADS ft 
+31111 
+INGUJOIDIRWTES 
+OPOOLOnG 
+MN 
+&ROMEO MIMES 
+PICVANG 
+MIN 
+INCLUDE WOJTES 
+soPQMOSAGH FL 
+itl 
+INCD/06 MI011 
+o/CCAINO 
+3SM 
+INCLUDED 16%1 
+;WOUND 
+ticcums MOUT 
+ItsCA ISATON FL
+itkul04 laws 
+OCOADIG 
+WM 
+WAPATE0 wAVANDIAN 
+ISV.Vass 
+MEN 
+(swims Els PAVAN MN 
+OM 
+moms to taws ariN 
+wPAIAMFACH FL 
+/Ws 
+NI SPE° NAMOI MN 
+iNC06.60 
+41016 
+lartAITEDkNOCII MN 
+wPWAKAGH FL 
+NM 
+UHL AcTED MVO MM 
+2154 
+LOAPATE0 PAMMOIEN 
+1 iv 
+owitarran WAV 0 solv 
+Grump 
+Charge Desatticm 
+Ma IN PLAN 0ATA 
+Mt M PLAN DATA 
+Charge DesolpOon 
+TEST MESSAGES SENT 
+TEXT MESSAGES SENT 
+000 
+Otsego 
+OAD 
+Chars,* 
+0.10 
+020 
+Monthly Service Charges 
+Mm Dasonelke 
+1 CALL WAIMIG 
+2 AT&T TEXT AESSA01110 
+3 CALLER PO 
+4 WAIVED TOU,FREE NA11011WCENIO SVC CHG 
+S AT&T VOCEMML 
+• PSS3OVDATA SERVICE PM 
+7 GSM ANEW. A LOCAL 13923 
+a DETAIL 9tWNG 
+9 THREE WAY GALLI% 
+10 WORLDCOIMECT 
+II CALL FORWARDING 
+Total Monthly Swaim Chases 
+Monthly Usage Charges 
+Item Dascription 
+1 300 ADM ANYTWE Mill 
+2 MESSAGE RETRIEVAL 
+3 UNMATED NAWND 
+4 TEXT MESSAGES SENT 
+S UNIM MORI. TO MOSE 
+6 CALL V/A1TING 
+7 INCLUDE) immiTES 
+TaalMonthlyUsage Ourgra 
+Taxes, Stscharges and Fteculatcry Fees 
+Iv 
+Description 
+I COUNTY 011 TAX 
+2 FEDERAL TAX 
+3 LOCAL COMM SERVICE TAX 
+4 STATE COEDS SERVICE TAX 
+5 LVVLICSAL CONNECTIVITY CHARGE 
+Taal Tams, Smchargas and Regulatory Fees 
+TOTAL CHARGES FOR 
+Sento* Oates 
+1011101-11111/04 
+1012/01 • 11/11104 
+10/12KM - 11/11104 
+10/1204 11/11/01 
+1011104.11/11/04 
+10/161/11 • 10/2904 
+10112.04.11/11404 
+10/12CM -11/11104 
+11/1204.11111104 
+10/11/04.11111104 
+102504.11/11104 
+QMUSW 
+300 LON 
+5306 (191 
+SO (VT 
+161 EVY 
+241 MN 
+12 EVT 
+302 MN 
+Charge 
+0.00 
+0.00 
+000 
+000 
+000 
+331 
+3919 
+000 
+000 
+000 
+4110
+4110 
+Charge 
+GOO 
+0.00 
+0.00 
+16.10 
+0.00 
+0.00 
+ri m
+14.10 
+Charge 
+0.50 
+100 
+2.63 
+4.54 
+19
+9.99 
+61.70 
+SUMMARY OF CURRENT ACTIVITY 
+DETAIL OF CURRENT ACTIVITY 
+Detail of Subscriber Adjustmeris 
+Nat Desccraort 
+Dale Apple! 
+1 PROMOS DEALER (CREDIT) 
+1092504 
+Total of SubScr.bn Adjustments 
+VOICE USAGE FOR 
+Numbar 
+Nat Dar, Tme 
+1 100504 /V 
+117A 
+4 10/13 12.136 
+S Ma/ 12 ISA 
+t ;gilt ;cm. 
+S 1012 1230A 
+OMY 
+Gimps 
+Calls To 
+Used 
+Rasa Otatcriptir 
+SY 6.001. Neal& ton 
+zgatoitaltrtiN 
+MAO 0 SIVACia MN 
+IPIT/WEE0 SAVA 
+1.441 
+UNLACE° W40.0 
+IltSSATAE RETRIEVAL 
+WIJILTEO VAIENI) IAN 
+UN,MJEO %AV= MN 
+MELTED ILIWELOAATI 
+WONAMEAGN 01 
+BV0Pniati
+l: 
+Ft 
+=LON 
+FL 
+INCOM03 
+154
+MN 
+Charge 
+EFTA01692761

@@ -1,0 +1,273 @@
+---
+source_image: "bank-statement+deposition-transcript+invoice+court-document__EFTA01707184_20260130_p081_i001.png"
+source_pdf: "EFTA01707184.pdf"
+method: pdf_text
+words: 614
+confidence: 1.00
+extracted: 2026-02-13T16:07:52.037408
+---
+
+cingular 
+ra:s-s3Nss 
+Ac • unt Number 
+Account Name 
+Date of Inv-oice
+l 
+March 16, 2005 
+Page 3 of 12 
+ACCOUNT DETAILS 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+Detail of Payments Thank You! 
+Item Description 
+1 PAYMENT 
+Total of Payments 
+Detail of Other Account Charges 
+Item Description 
+1 LATE PAYMENT CHARGE 
+Total of Other Account Charges 
+Detail of Account Government Fees and Taxes 
+Item Description 
+1 FEDERAL TAX 
+Total Account Government Fees and Taxes 
+Date Applied1Reversed Payment Amount 
+02/22/05 
+-135.08 
+Current Subscriber Monthly Charges and Credits 
+Subscriber Number 
+Subscriber Name 
+Total Current Subscriber Monthly Charges and Credits 
+Total Current Monthly Charges 
+Charge 
+-135.08
+-135.08 
+Charge 
+1 17 
+1.32 
+Charge 
+0.04 
+0.04 
+Charge 
+77.80
+77.80 
+79.16 
+SUMMARY OF CURRENT ACTIVITY 
+Monthly Usage Charges - Continued 
+Item Description 
+5 411 INFO 
+6 MESSAGE RETRIEVAL 
+7 INCLUDED MINUTES 
+Total Monthly Usage Charges 
+Other Subscriber Charges 
+Item Description 
+1 UNIVERSAL CONNECTIVITY CHARGE 
+Total Other Subscriber Charges 
+Subscriber Government Fees and Taxes 
+Item Description 
+1 911 SURCHARGE 
+2 SALES TAX 
+3 STATE COMM SERVICE TAX 
+4 LOCAL COMM SERVICE TAX 
+5 FEDERAL TAX 
+Total Subscriber Government Fees and Taxes 
+TOTAL CHARGES FOR 
+Qnty Used 
+3 EVT 
+9 EVT 
+380 MIN 
+Charge 
+4.50 
+0.00 
+0.0Q
+4.50 
+Charge 
+1.81 
+1.81 
+Charge 
+0.50 
+0.32 
+5.62 
+3.38 
+1.71 
+11.53 
+77.80 
+FOR 
+Monthly Service Charges 
+kern Description 
+1 CALL WAITING 
+2 TEXT MESSAGING PLAN - 0 MSGS 
+3 CALLER ID 
+4 VOICEMAIL 
+Service Dates 
+02/15/05 - 03/14/05 
+02/15105 - 03/14/05 
+02/15/05 • 03/14/05 
+02/15/05 - 03/14/05 
+Charge 
+0.00 
+4.99 
+0.00 
+0.00 
+5 DETAIL BILLING 
+02/15/05.03/14/05 
+0.00 
+6 COM EQP 1.99EW/3.0QNS $4.99 
+02/15/05 • 03/14/05 
+4.99 
+7 CALL FORWARDING 
+02/15/05 • 0311405 
+0.00 
+8 WORLDCONNECT 
+02/15/05 - 03/14/05 
+0.00 
+9 THREE WAY CALLING 
+02/15/05 - 03/14/05 
+0.00 
+10 539.99 CHARTER OFFER 
+02/15/05 • 03/14/05 
+39.99 
+11 1000 NIGHT AND WEEKEND MINUTES 
+02/15105.03/14/05 
+9 99 
+Total Monthly Service Charges 
+59.96 
+Monthly Usage Charges 
+item Description 
+1 1000 NIGHT/WK END MIN 
+2 500 ANYTIME MINUTES 
+3 100 INCL. MSGS SENT 
+4 CALL WAITING 
+Qnty Used 
+568 MIN 
+500 MIN 
+30 EVT 
+19 EVT 
+Charge 
+0.00 
+0.00 
+0.00 
+0.00 
+DETAIL OF CURRENT ACTIVITY 
+VOICE USAGE FOR 
+Number 
+Item Date Time 
+1 02/15 03:56 
+2 02/15 06:3 
+3 02/15 06:33 
+4 02/15 06:42 
+5 02/15 06:43 
+6 02/15 06:47 
+7 02/15 06:54 
+8 02/15 07:07 
+9 02/15 07:25 
+10 02/15 07:32 
+11 02/15 09-.10 
+12 02/15 09:10 
+13 02/15 11:36 
+14 02/15 11:53 
+15 02/15 11:56A 
+16 02115 11:59A 
+17 02/15 12:02P 
+18 02/15 1202P 
+19 0211512:03P 
+20 02/15 1206P 
+21 02/15 12:44P 
+22 02/15 12:48P 
+23 02/15 01:16P 
+24 02/15 01:17P 
+25 02/15 01:19P 
+26 02/15 02:40P 
+27 02/15 03:43P 
+28 02/15 03:44P 
+ails To 
+WPAUABEACH FL 
+INCOMING 
+WPALMBEACH FL 
+WPALMBEACH FL 
+WPALMBEACH FL 
+INCOMING 
+WPAUABEACH FL 
+INCOMING 
+WPALMBEACH FL 
+INCOMING 
+WPAUABEACH FL 
+WPAUABEACH FL 
+INCOMING 
+WPAUABEACH FL 
+WPAUABEACH FL 
+DELRAY BCH FL 
+DELRAY BCH Ft. 
+WPAUABEACH FL 
+WPAUABEACH FL 
+WPAUABEACH FL 
+WPAUABEACH FL 
+WPAUABEACH FL 
+NEW YORK NY 
+WPAUABEACH FL 
+INCOMING 
+INCOMING 
+NEW YORK NY 
+PALMBEACH FL 
+Qnty 
+Charge 
+Used Rate Description 
+3MIN 
+1000 NIGHT/WKEND MN 
+VAN 
+500 ANY f IME MNUTES 
+IMAN 
+500 ANYTIME MINUTES 
+1MIN 
+500 ANYTIME MANTES 
+1MIN 
+500 ANYTIME MNUTES 
+1MIN 
+500 ANYTIME MNUTES 
+.2MIN 
+1MIN 
+2MIN 
+1MIN 
+1MIN 
+I MN 
+MAN 
+3MIN 
+1MIN 
+1MIN 
+2M 
+0NIN 
+39
+1997 
+1 sun 
+AMIN 
+1 MIN 
+3MIN 
+VAN 
+1hON 
+1MIN 
+659N 
+500 ANYTIME MNUTES 
+500 ANYTIME MINUTES 
+500 ANYTIME MNUTES 
+500 ANYTIME MINUTES 
+500 ANYTIME MINUTES 
+500 ANYTIME MINUTES 
+500 ANYTIME MINUTES 
+500 ANYTIME MINUTES 
+500 ANYTIME MINUTES 
+500 ANYTIME MINUTES 
+500 ANYTIME 
+MNUTES 
+590 
+ANYTIME MINUTES 
+500
+0  
+ANYTIAE MINUTES 
+56 ANYTIME MINUTES 
+500 ANYTIME MINUTES 
+SOO ANYTIME MINUTES 
+5111 ANYTIME MINUTES 
+500 ANYTIME MNUTES 
+500ANYTIME MNUTES 
+500 ANYTIME MNUTES 
+500 ANYTIME MINUTES 
+Charge 
+EFTA01707264

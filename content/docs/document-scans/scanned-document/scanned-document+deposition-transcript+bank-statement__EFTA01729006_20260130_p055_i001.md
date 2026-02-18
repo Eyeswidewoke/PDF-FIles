@@ -1,0 +1,332 @@
+---
+source_image: "scanned-document+deposition-transcript+bank-statement__EFTA01729006_20260130_p055_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 568
+confidence: 1.00
+extracted: 2026-02-13T17:19:04.919085
+---
+
+Page 
+6 
+Account Nutter: 
+Billing Date: 
+Mobile Number: 
+Mobile User: 
+Total Mobiles: 
+AIRTIME AND LONG DISTANCE CHARGES 
+CHARGES 
+City 
+Ito Date 
+Time 
+GL No. Called 
+Called 
+F P 
+49 02/08 02:55AN 
+50 02/08 11:28AM 
+51 02/02 12:29AM 
+52' 02/08 11:51AM 
+53 02/08 03:20PM 
+54 02/00 03:21PM 
+55 02/08 06:34PM 
+56 02/08 06:36PM 
+57 02/08 00:06PM 
+50 02/08 08:28PM 
+59 02/00 0I:32PM 
+60 02/08 DO:33PM 
+61 02/08 08:41PM 
+62 02/08 08147PM 
+63 02/08 09:592M 
+64 02/00 10:18PM 
+65 02/09 03:02PM 
+66 02/09 03:05PM 
+67 02/09 08:50PM 
+68 02/09 09:37PM 
+69 02/10 04:55PM 
+70 02/10.05:40PM 
+11 02/10 07:52PM 
+72 02/10 07:52PM 
+73 02/10 07:53PM 
+74 02/10 08:27M4 
+75 02/10 08:41PM 
+76 02/10 10:26PM 
+77 02/10 10:32PM 
+78 02/10 10:32PM 
+79 02/20 10:33PM 
+GO 02/10 10:40PM 
+81 02/11 03:18PM 
+82 02/11 03:20PM 
+83 02/11 08:11914 
+84 02/11 08:14PM 
+85 02/11 08:28PM 
+06 02/11 08:S4PM 
+87 02/11 00:55PM 
+80 02/11 08:58PM 
+89 02/11 09:591:14 
+90 02/11 09:019N 
+91 02/11 09:04PM 
+92 02/11 09:11PM 
+93 02/11 09:11PM 
+94 02/11 09:14PM 
+95 02/12 03:10PM 
+96 02/12 05:18PM 
+97 02/12 08:20PM 
+98 02/12 09:05PM 
+99 02/12 09:20PM 
+100 02/12 09:23914 
+202 02/12 09:25PM 
+102 02/12 09:27FM 
+103 02/12 09:36PM 
+• 104 02/12 09,37PM 
+PALM PL W N 
+NCOMI CL W N 
+I CL N N 
+NCOMICLWN 
+PALM FL W N 
+PAIS4 FL.W N 
+COMI CL A N 
+NOM! CL N N 
+NCOMI CL W N 
+PALM FL W N 
+PALM FL W N 
+NCOMI CL N N 
+CCMI CL W V 
+PALM FL N R 
+NCOMI CL W y 
+PALM PL W 
+PALM FL 
+P 
+PALM FL 
+P 
+COMI CL 
+P 
+CO/II CL WO 
+PALM FL 
+P 
+COMI cr.; 
+P 
+PALM FL 
+P 
+PALM FL 
+P 
+COMI CL 
+P 
+COMI CL 
+P 
+PALM FL 
+P 
+I CL W 0 
+PALM PL W 0 
+ICE CL W 0 
+PALM FL W 0 
+1 CL.N 0 
+PALM FL 
+P 
+ICE CL 
+P 
+PALM FL P 
+PALM FL 
+P 
+PALM FL 
+P 
+PALM FL P 
+PALM FL 
+P 
+PALM FL 
+P 
+ICE CL 
+P 
+PALM FL W 0 
+PALM FL W 0 
+PALM FL W 0 
+PALM FL W 0 
+PALM FL W 0 
+I CL 
+P 
+L CL 
+P 
+I CL 
+P 
+ALM FL W 0 
+ALM FL W 0 
+ALM FL W 0 
+ALM FL W 0 
+ALM. PL W 0 
+ALM FL W 0 
+ALM FL W 0 
+Length 
+of 
+Call 
+Air 
+Long 
+Timm 
+Dist. Total 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00. 
+0.00 
+6 
+0.00. 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+D.00 
+0.00 
+3 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0:00 
+0.00-
+i 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+EFTA01729060

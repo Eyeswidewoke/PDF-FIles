@@ -1,0 +1,60 @@
+---
+source_image: "deposition-transcript__EFTA02540080_20260210_p001_i001.png"
+source_pdf: "EFTA02540080.pdf"
+method: pdf_text
+words: 584
+confidence: 1.00
+extracted: 2026-02-13T17:05:47.113294
+---
+
+From: 
+GMAX < 
+Sent: 
+Thursday, June 9, 2011 521 PM 
+To: 
+Jlep 
+Subject: 
+FW: Vanity Fair - I have something else to add I just want to make sure you thinks its 
+ok and then it will go - the add and change are in red plse advise 
+photo? If not, who did? 
+MS MAXWELL HAS NO RECOLECTION OF THE PHOTO BEING TAKEN AND GIVEN WE ARE TAL=ING AN EVENT THAT 
+ALLEDGEDLY TOOK PLACE OVER 10 YEARS AGO IT WOULD BE SURPR=SING 
+3. According to 
+Ghislaine Maxwell recruited her as Epstein's "sex slave" when she was 15 years old and 
+arran=ed for her to see Andrew three times—at Jeffrey Epstein's homes in London =nd New York and on his private 
+Caribbean island, Little Saint James—where, 
+said, she'd been "sexually exploited by Epstein'= adult male peers, 
+including royalty." Would Ghislaine please comment on this assertion by 
+MS MAXWELL MET MS 
+WHEN SHE BELIEVES SHE WAS 17 AND SHE WAS LIVING &=bsp;WITH HER FIANCE. MS 
+WAS HIRED BY MR EPSTEIN AS A MASSUSE. =MS 
+HAD A PRIOR SEXUAL HASSARASSMENT SUIT 
+AGAINST OTHER INDIVIDUALS =HAT WAS THROWN OUT FOR LACK OF HER CREDABILITY PRIOR TO HER FILING A CIVIL 
+=ASE AGAINST MR EPSTEIN.that It Should be noted thatc/=ONT> MS II
+, PRIOR TO FILING HER SUIT, HAD FLED 
+THE US TO AVOID BEING =RRESTED and possibly put in jail FOR grand THEFT. I THINK GIVEN THIS AND OTHER HIGHLY 
+INDICAT=VE EVENTS IN HER LIFE (IT IS ) one should view what s=e says and her stories with more than just a healthy 
+dose of sckepisim (IMPOSSIBLE TO BELIEVE ONE WORD OUT OF HER MOUTH). FURTHER THE INCENTIVE =F A LARGE 
+AMOUNT OF MONEY PAID BY A NEWSPAPER AND OTHERS NO DOUBT ADDED TO =ER COLOURFUL AND UNTURE 
+STORIES WHICH IN FACT ARE LAREGELY NOTHING BUT MALI=IOUS FOR HIRE MADE UP STORIES. In addition it i= clear 
+that the US lawyers are trying to exploit her to sensationalize thei= profiles and to keep interest in an otherwise old 
+story in an attempt to g=me the system as anyone can file a civil suit for anything with a view to t=ying to make a quick 
+buck whether their is merit or not in the case. It sho=ld also be noted that at least one of the "lawyers" involved in=this 
+unattractive scheme was a partner to a man recently arrested and hasti=y jailed for 50 years for amongst other things 
+creating and promoting false=cases and selling them and stealing millions and millions of dollars by sel=ing them to 
+unsuspecting investors..he did this by using ex policeman=to create fake cases and faked judges signatures to sign off 
+on them amongs= other corrupt illegal and shameless schemes and demonstrated an exploitati=n of the US legal system 
+that also used and created fake tvictimsR=7; to promote his illegal and and life destroying fantastical fake untrue s=its. 
+4. The Mail on Sunday and other newspapers ran the story about Andrew's rendezvous with 
+in Ghislaine 
+Maxwell'= London home. These reports said that Jeffrey Epstein and Ghislaine Maxwell left the Duke of York and 
+alone for several hours, and that the next morning Ghislaine Maxwell told 
+that the Duke had a 
+good time. Would Ghislaine please comment on this story. What did the Duke tell Ghislaine about his rendezvous with 
+SEE ABOVE 
+5. The Mail on Sunday said it had evidence to support 
+story—flight logs from Jeffrey Epstein's 
+Boeing=727 and Gulfstream jet. Was Ghislaine Maxwell on these airplanes and who else was onboard? 
+1 
+EFTA_R1_01688792 
+EFTA02540080

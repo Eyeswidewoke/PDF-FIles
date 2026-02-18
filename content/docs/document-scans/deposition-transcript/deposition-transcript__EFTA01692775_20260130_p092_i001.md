@@ -1,0 +1,501 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p092_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 822
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.080716
+---
+
+Men D•l• TM. tiled 
+22? 
+113% 
+201 On p9/1 
+r
+if 
+1N 
+w; 
+„ 
+01 
+215 
+ii7 0101 
+211 07/17 01:17 
+211 07/17 0231A 
+211 07/17 02.35A 
+211 07017 02.12A 
+221 07417 012M 
+234 ow? 07.197 
+2.35 01/170719 
+WM 024 
+/1/ Mi
+aP
+aP 
+49 0217~ 
+/
+4, 1 0n) 090V 
+Ai 011.11+ÁíA.
+*, 
+ll 'n8 
+roars 
+g /car 
+2;121
+.4 
+MI 07/18 
+g? 
+:VW: 
+23. our, 04,m: 
+Mil OEM «MP 
+155 CTN.040W 
+g? 
+na; 
+11 ronvottm 
+.">": cingular 
+ACCOU111 Naftla 
+Dale of Invoice 
+August 12. 2005 
+Page 10 of 18 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+./C4CE &SAG:. I carmalucti 
+Only 
+ekno. 
+Calls To 
+IIMO Ibis Description 
+NCO= 
+ECOMMILIC11 
+rigNI 
+F
+FL 
+FÈ 
+Mal 
+IAN 
+WI 
+:I 
+MIN 
+a
+l
+ 
+WI 
+NOTNTOXECTI FL 
+Sr. 
+WPAUEkACIIR
+m 
+Mn 
+N 
+LAXE 1MMIN 
+WI 
+IVENAIXACX ri 
+tor 
+.vr 
+WPALM12401 FL 
+Mil 
+WEN.M3EACH FL 
+1154 
+1/491.1.113€101 FL 
+MIN 
+VIMALMBEACH FL 
+MIN 
+vv1
+O
+ID 
+HIM 
+4543/401 pl. 
+NMI 
+~LIAM Abi FL 
+IINN 
+eiCCIMICI 
+/MN 
+iLl?Si'eg:
+°" ?'1 
+, :d.,..;.:
+Aéo„ „, 
+ANN 
+5VPADMEAMI FL 
+OM 
+'CCU IIG 
+1EVT 
+35"1041801 FL Iv: 
+wPAIM nig 
+it•Ii?t,SDN 
+4.114 
+OM/ M‘i ALMIR 
+E
+ 
+!
+i
+f
+ 
+O
+ 
+‘
+1
+1
+ 
+>
+1
+ 
+C
+ 
+I
+S
+ 
+NCOUIng 
+MN 
+WPAIMMACI4 FL 
+a 
+WPAIMPEACH FL 
+MI 
+EVT 
+1?.$2,rinilal D. a 
+INPAintistA01 ft  
+W
+UMI 
+NTMTON11001 
+ 
+YI 
+WI 
+0094,9411101 
+IN
+rCO
+"' 
+vM  
+o
+o 
+/I21
+INEOUN2 
+MN 
+vI 
+b•MALM1t 4CM FL 
+MN 
+WPALMSFACII EL 
+MN 
+MN 
+LASE 92971.115, 
+MN 
+WPISkuurs01 is. 
+Mil 
+..m.exitoarm 0.
+MN 
+5rcanto 
+...eLL5 V/ DILTli FA 
+E 
+.4,-;,;,—„rrzek Iffi 
+WIMMBEACMfL 
+IIMY 
+WPN wirscii 42 
+IMN 
+]MN 
+IIIIIIIIIIIIIIII 
+MOM TE3 %MEND Am 
+UNIATTED EMEND MN 
+UNINI:1971094110 MN 
+WILIMTED 10414/113 MN 
+1/1919112.4139 
+1=8
+MN
+PATIOi WI 
+LIN 
+1/4/41 MN 
+MUM D hmoro ear 
+uourarri. a5O010 
+IMULGT.SD 9.010491101 
+UNSTE2101400:0 
+1/14210 1202M7012 MN 
+tiNtIVITE27MMOICOM 
+3,112.34 p(E1145/2úi
+LINLIMMO NM/X1M 
+LMLMtlk:014MMIC 
+tuzz
+MIY
+li1111111g2=14M99=1/41 
+MEET NANOM 
+LW 
+:I UN% MHO WI 
+1M 
+NWT 
+VI 
+. 0 2211 
+UN' 
+LIMM 
+mr. 
+WMYTE ILM X 
+MI 
+mESIMM 
+MVO. 
+UNLICED14.11/19.0 MN 
+UNLIMITED NNW° VW 
+; 
+LNUUTED 
+IMIZITEDILMINMD VN 
+330 A001 SNYTWE RW 
+WIN w9í TO VOX 
+NESSIDE 1391790.0. 
+Úl:21g'
+/g"1 -ie
+MEOlr 
+NL 5 
+RE. SOVAS 
+»ova 
+ourf Da MN 
+ANY MN MN 
+NEMPIT I4N 
+/10 A001 ANTTILZ IAN 
+xoanm motor 3111 
+c10,3.,93,45/1.
+Ani1. 443YTME MN 
+ill) 9021. 5.911+014N 
+051139101.211101404 
+14255.44.3 RETREVAL 
+VN.MTED:101/41.1 
+VI/Joesp erivni 
+UN.MTFDMX1yy 
+UMM TE m/t391 
+ip
+Mp 
+itm TT 2 1991010 TM 
+U
+CAMI U YTFM311‘
+14PLSMM) YIN 
+:^4.,2 tr. 
+rojtran.r., 
+U1151/1110 ISM)0101411 
+IIIIIIIIIIIIIIIIIIIIIIi 
+IIIIIII 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+V2 0- 1 0SAGI I :I 
+Nurnem 
+Mums 
+Men Oats TM» Caleb 
+IIIIIIIIIIIIIII IIIIIII 
+P
+ML 
+29 0/51301.43g 
+263 0/18 COMP 
+29 OEM 0114P 
+'A 
+8128 git 
+2» 021190í1Y 
+i 
+11. 
+1 
+91 8.7%1M 
+91 09/02101. 
+27274 07r:9022SP 
+5 0219 .49 
+216 01/19 09.
+09329 
+2:"I/I? 8 1,
+073n 8;243t: 
+837i; r 
+2le 0]17910:11P 
+251 0 111021 
+SQ? 
+2?/201gIg. 
+201 ormainsr. 
+fao CiTSCOMA 
+211 01/200714A 
+¡ 
+21C 022097119 
+g :Ogg 
+ZiÓ?fg W4g 
+07/3011E 
+203 07/20 II 
+: 
+227,9Z3;115. 
+18{08§X 
+8M 4, 3'4 
+; xo 076 
+rif  
+ca5a. 
+NM o/no caI2
+0a10 02a 
+? 8338 V. Ir. 
+• 312 07/33 0029 
+; 
+315 OUZO 0121P 
+r 
+); [
+IL? 8°
+° 
+373 07/10 11241 
+• 322 07423 11a19 
+• MI tom nay 
+ITC= 14 
+COTÉRILIED 
+EOM 
+Chine 
+CansTo 
+NC011•4 
+Mule Rire Description 
+ll 412/11F 3 /NOME MIN 
+TICOMTG 
+MN 
+Li 11131TED /1V/010 101 
+40411. 
+u N 
+IDRAIITED /19810101.411 
+MN 
+wital 
+IMMMQ&J...4.
+Eitim
+tt,r9 
+rdusi%"'',,,m.
+8.,,,, 
+ki,az,--r,,nai.,9:-., 
+InLiii NO& TO 1409. 
+30,105'. 
+E IT 
+IMI 
+)20 4491. MORK IAN 
+!MN 
+X.O.uoVI ANYTME Lin 
+1 
+IIM 
+1.110.1117ED VaND III31 
+941.21153191/EN 19 
+IIIIN 
+W41.3.110 Nrintir NM 
+FL 
+1111.4 
+UntMli 3: NV/Iter VIN 
+34 
+°tray 
+vox* MN 
+UVIIIII »MIMI MN 
+Dim 
+1.111.1ATED NIMWDMIN 
+IEV1 
+CAL V/NTINO 
+ION 
+UM.3.11ED 13/1/1942 MN 
+Z,,,,,!,7wo  pl. 
+IMN
+,
+ 
+,pit, ,IE r,,, ,, T4g r,,,
+001111CO201 EL 
+IMN 
+UNLIAT 0 111311099 MN 
+tiNrCACM71/3tsççFAOID. 
+MN 
+~ill 
+vaxvomm 
+ laem
+J.N
+ura.m 
+no, MN 
+WA 
+li 
+EN 
+MIN.M3E/421 Ft 
+IMN 
+191 
+WID11.134/01 FL 
+1MN 
+INCOMING 
+IMN 
+MIN 
+El 
+IOU 
+2MN 
+I
+48=2 
+,,,WAPA:AlitaCH 
+FL 
+Au.FL 
+IN .40 0
+IVCNOVInG3/404 ILL 
+INCENIIM 
+OXEN» 
+EWC4
+11ra l
+r i
+3‘"? ..Ep
+t 
+1193100.0 
+TPA M3FACM FL 
+LAKE WORTH R. 
+INCOMING 
+VPA-143EACII FL 
+39.4:213001 FL 
+INCOMING 
+lt.CA.
+M.412 
+wo 
+AcHn.
+2•111 
+FMN 
+1U 
+VPA-143EA04 FL 
+IM
+EVT
+N 
+VriirE
+AC
+4 
+_LP" 
+W
+rvectffiscri
+p.
+a., 
+r 
+6
+,4 
+ggg2A04 FL 
+VIP 
+Fl. 
+WP 
+FL 
+WI 
+FL 
+3M14 
+ILyMMFFN 
+dMNM 
+IMN 
+IMN 
+IMN 
+U35.39 FaM.WMIIDMN 
+MPSIMIC RETRIEVAL 
+213tIATED 11/4/210 MN 
+377 AC:01.MYTIM MIN 
+MM 
+MN 
+313 
+urns 
+X0 MVIL A 
+1/111 
+300 
+DI A 
+DIN 
+303 A4.2stiL 
+. 
+300 ADO I. AWITTIE II 
+1/192.114.2a. To 
+YIX 
+388 t 881: t1 
+uic..940«,T MM. 
+303 *Mt AYYM£ MIN 
+UNLM iffiet TO MOB. 
+X0 4301.4119/2 MIN 
+»ADO% AYYTM£ MIN 
+X0 5101. AVYTME MN 
+303 001 AVYTME MIS 
+Úú:Mtn. ACYI 
+m004 TO MOM. 
+MESSMETIETRIEVAL 
+UNe7.~11.39010 MN 
+Wents MN 
+UmL MI 
+kNIMII 
+UNL 
+M MT 
+WEN MN 
+OM 
+II 
+MN 
+O 
+ka„.„ 
+LINLIATE2 ~MO MN 
+WILMICID liM7010 MN 
+UM.MTED EMM140 MN 
+Cheep* 
+EFTA01692866

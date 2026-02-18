@@ -1,0 +1,561 @@
+---
+source_image: "scanned-document+deposition-transcript+court-document__EFTA01693496_20260130_p038_i001.png"
+source_pdf: "EFTA01693496.pdf"
+method: pdf_text
+words: 952
+confidence: 1.00
+extracted: 2026-02-13T17:19:12.521992
+---
+
+Xcingular 
+AT&T Wi reless 
+141401:41 
+Account Number 
+Amount Mame 
+DeIre of brake 
+February 12. 2005 
+Page a or 10 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR
+1146111414
+Conklin() 
+060 
+Gave 
+two rat lbw 
+mgr. 
+used Na OesaNµon 
+Cbanle 
+QM ®L}%
+6  40025 
+* 
+Mg 
+Et 44.
+M“ 
+41,;V: 
+41
+7Zi cri li t  
+bbar r
+igins
+ievrjri: 
+NE 'TY!  ;xi 
+cvo AlEi4 otos. 
+.. ttiCT1211•111426,0 
+AU M 
+Pew 
+woRni rt 
+;MA 
+UMW,' 0 nen10/1.1614 
+61.11 0 
+grsult 
+It 
+11041 
+WNW 
+INN 
+MU' 
+0 1560.4144144 
+1154140141.11 
+1.0034010AW 
+NA. 
+MX 
+tlik441T 0 iimivan min 
+44 
+064141. 
+14.2 12a GIII 
+VONOIxrACH It 
+WM 
+UPturt 
+11141.1140171 
+0 10614.0.54. 
+4411106.0 6e4 
+CA3 OM Carr 
+INCOMING 
+ANN 
+Llia.411(0 (01114.40 614 
+(4q 020SCICST 
+NO 0D16 µ11) 
+tap 0201 C4110
+6 0614411E5CHEI. 
+Nam 
+Ulasig. 44 40660 tAv 
+Mt ttglIATI rtAt  
+1"  " 
+uto ra 
+0 14. 4.4040 MN 
+1614 
+UMArr 9 AMON MX 
+(4) 024454340.114
+0 4744.14164211n. 
+%MX 
+USIlve 0 NAT4040 Pali 
+644 002600 
+wneolge.,in. 
+MN 
+W
+l
+PM 4 0 PrAN601/144, 
+fAl 0.116 MA19 
+W 
+W>44110004111. 
+MN 
+11111140(01465141,46 
+MONK 54,15 
+It =tap-
+M)0014µ401 
+wPALLystp:m Fc 
+WIN 
+(6111417016741444141A 
+V/INANINAtH ft 
+)MN 
+1.61544" 0 14401440146
+=1.11 0,04
+137.1CNft 
+?a 
+wove 0 166110 Vla 
+a 
+MIN' 
+0 NMICA111411 
+VA ma 44:4' 
+(PS 010400342 
+El re. 04079 
+SW ODOR
+artitilf
+"  ri
+or  
+K fl. 
+al 
+S "; 
+1 5,4521:... 
+= 
+** W
+I  928 
+' 
+OK 
+4 
+141 
+DM 
+104 
+UN DINED Wroth° IN-. 
+HAN won, 
+/4:woo UM 
+menu 
+ir4 
+I 
+VCG 
+41410216 Cell• 
+542101. 
+IN 
+'pawl 
+1145110 III 
+tt? SW04141 
+%AIN 
+IN IL 
+MN 
+11417ATE 47044101•44 
+(IN 
+(It ant, aiuP 
+tti OR Pr3S 
+VeSP2 
+bli 
+=
+11)2Virk 
+PSPTA 
+SS 
+Sfatt; 
+rartr; 
+444 Otlh triAllt 
+tp 
+Avogyx IL 
+MR 
+WILIAIrt ...ao 
+at 
+0 (490111101111 
+144 0060 VIP 
+WEMPINVC. VI 
+AN 
+MONO Dietta406611 
+AM 
+07211 
+04-014041 
+1.11 
+9 NW10401401 
+46) 0206 CS 
+WISAIA 0 f )411fl 
+UNNSI II 44616014111 
+111 040604 IP 
+6161/014,6401 
+UP421111 0 Ng/NW 1454 
+410 OM 01X0 
+wIw.utAzi n. 
+MON 0 WAN1410 Nei 
+01 02XX MECO 
+140 07.96 ,C1W 
+VO5pA
+' Iligf 231 a 
+Lull 
+UNZ 
+0 WW0401414 
+AO OVC4 143444
+444PAU4165:11P1 
+MN 
+MVO 
+=SIB US 
+04 02.0010470 
+IVE01.016 
+1541 
+umuor III (17•VHIG la. 
+OS 010011(0, 
+010244 611pcx 
+NA 05111 I VI* 
+An MS 11:11P 
+WPAL111111(214 Ft 
+INC04411G 
+WPAPIrCifil 
+NE314444-. 
+1•21 
+OPINE 0 NAls410 IMI 
+UM 
+t41145.4.1 
+1414/001141 
+S %AVM' 
+14194.01444 
+1.1114140 10545410.1404 
+Ng (604 11629 
+141 0207 52 XIA 
+OF
+it
+c461
+6m..
+48:4CAIR 
+M 
+1114L161E016111101411 
+1.5012•120144111601/111 
+1413 
+AM 001 
+NtA 
+(414 04010 4)* r
+weALAN:4460‘ 
+144&1X1.6 
+. 
+;MNo 
+it 
+MI 
+tip 4.17:40061114144 
+NM 
+MAW 0 µWAND NN 
+1101 
+MINI 
+0 WN10.0140 
+1141N
+ CNWMNOYX 
+142 3507 agg 
+WPAJIWACHR 
+NCOMIIP. 
+1011 
+VF1t041 0 44•4404014,44 
+MM
+VP 0207 010141 
+IN '4:4;RM 
+Wr/P111171404 FL 
+wee... 
+OICN.6/4 
+1:1Iii74 a VA AS NW 
+(RN 
+auratier tiztvir MN' 
+NO 0701 M.11p 
+NI
+St141; 
+50010 11 
+r4C4NAlit 
+MN CuNi MIMI INVOICE 
+IAN 04). 4410/4 7 0111:41 
+?)31 
+111 MN 04.15P 
+1Wat t.tgPT I4 k 
+ziv suataltaaafg 
+591 02:02 01101
+WS 01107 Ot019 
+NM .1404 0 INV 
+NO 0202 0 44714 
+zz ritar4zik 
+11124 r 
+WAS SZSP 
+wviat f  A6s 1 t 
+wromm6 
+troll iiErwart/ ral 
+2? 
+144 
+0
+014
+01 
+VOICE USAGE FOR 
+We Oil. Tine Called 
+571 W0111105 
+----mg um 
+174 
+150J41 
+ns tote Unit 
+No OM 1101A 
+111 C14)
+OW 1 
+1017:11A 
+4.24 
+11
+ 
+14 GU 
+i 
+MP 1t32A 
+M7 
+OA 
+(01 VAN It NM 
+02.10101 
+S.) 
+AVIA 
+SPA 
+am 
+ra 
+=01J3>, 
+ws 0Eq 01.1.5 
+C4 510 
+V11 
+0210P 
+01,222 
+WI 
+a 310 
+I NAM 01 
+$14 
+Yr? 0a17. 1:0 HP 
+r01 0001 MM. 
+WI CM DJ 11P 
+141 006 Ott IV 
+WI WO (11.431. 
+tot MOS CEO* 
+(41141Etet4P 
+Ns 
+01115 
+WI 
+(104P 
+XX 02(01 1005 
+101 12/411.1 
+410 024514 
+14141 
+411 OPOS 11114 
+µ6S OP% 11 lip 
+DU (6011111A 
+• 
+1pµ 11114 
+.°16 WAS 
+,4 
+11 
+41? µO1914
+1
+11.114 
+ate ONTS 11,12A 
+5114 020111 ZIA 
+IN 0Lµ OW* 
+oi (0µ 11144 
+01020S 1111* 
+•44 OWl 
+pas 
+(744 
+1101A 
+iggia1112: 
+• 
+tn.
+"'  Mot ;;144 
+• 
+OM
+MP 
+I 
+lit &I "  p 045 
+g 
+611 6006 6 A& 
+Canlinied 
+Cat To 
+MOS 
+• 
+=
+Nn 
+NE 
+NOOYIO
+t4 
+25146UtikEll II 
+W>10 PAVAN It 
+.0
+ 
+it
+.21 IL 
+thVigral 
+I% 
+W•A•10 
+r • 
+t 
+SPMT 
+ilMat:2144 
+%WA. 
+(1 
+lap 
+1.51614119/4414060 MN 
+MC014tlet 
+MN 
+MILIMICOW24110164 
+C.CEN 
+vp6 tia4411FL MN 155-1141404316 4061 
+MN 
+witivutownvxmpw. 
+1.1.04t4 
+WAIN illi4,1 1.1111.461IONwto ono 
+Doccmic 
+Mort° 
+lawxil p we 
+LIPII*.
+ 
+INN =70 
+44•00019 WA 
+10 
+1•044010 Nil 
+4144004454 
+PAIN 
+RMIStrggrIt
+il 
+21C06149 
+a TiarAornil 
+Ai batraaatra 
+074AJ4 
+IL 
+MN 
+UPUIATAINVWX 
+1414 
+Wap.0 
+WA JI 
+pc 
+PM 
+0.1itim, (o maxi) yr. 
+NM 
+14.41,111170 MAW MN 
+PC Ora 
+AM 
+WINN L0 604/60 MN 
+n. 
+ow 
+WINLIT(01154041401411 
+lT.440.44. 10401 41 
+ow 
+j4 .1.1.1 
+1512
+*11 
+trar 
+F
+AO 
+PSI 
+LAWN 04416040140 
+tirCV.7.2O1
+ t} AIN (WNW 
+0 
+4.1004214.44 
+vi7S4011k 
+V4144 
+4O1 1.  
+AN 
+01111(1640 NWOMONN 
+ION 
+MST 
+hIVAAO AA 
+AMC 
+TX 71 
+illiti 
+10415,11 51.41/001/111 
+WALVAMA tt 
+Mg 
+.110-MI 
+NAN( 
+J111.251 
+AlwItca 
+VV
+wvArcn. 
+. 
+T f k 
+52 
+us wawa,. 
+1/2amtv 
+IAN 
+100.44.(0 xreiNN 
+/nano 
+wwx/.0vr. 
+VASSZI.
+`k 
+41.4 
+15(06102146411115M 
+MN 
+AN ILO (0414VAL61 
+;:ar,z 
+Mh 
+uraiw r co laVra0 MY 
+Ail in 
+VON( tO taV4 
+1411 
+411004 
+MO 
+MOW 0 taVa01 MN 
+NLY( YE 
+IN 
+MX 
+WOW ONION IAN 
+zz.lat ;t .., 
+MAW 0 laW01 114•1 
+MN 
+1•11.547 0 tvWc111044.1 
+W54041/1 
+Ft NW LIN.11460 11.6•211) MN 
+eft
+" M& 
+rc al Pr 
+" 
+Only 
+CANN, 
+6014 
+ea1> 004.01411e• 
+YN 
+11/40.1.TFO 
+rI TI 
+EA* 944
+314.4
+* II 
+AZI 
+u411
+M
+ 
+Mita 
+M I 
+14111118"12:241%1 
+4.41v 
+LeM4441(0614/10. 1101 
+AM 
+VINA4r2414110 Vet 
+(IN 
+MUNN 
+NVE40101*4 
+lan 
+MSC 
+ani0641114 
+an 
+1114.1141(01M1V411/01510 
+EVT 
+11 
+1.1=1:1 . = 
+vac 
+a 
+IAN 
+=SP 
+=urn, 
+X 
+1 
+MO4 
+UM 
+11166110)11.61601451 
+MN 
+OVUM/ 
+01.44601414 
+ST09010881 XY3 S0:80 S00MW2T 
+KlVd 153II dV1ADNI3 
+EFTA01693533

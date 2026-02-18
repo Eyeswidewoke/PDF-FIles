@@ -1,0 +1,373 @@
+---
+source_image: "bank-statement+contact-list+deposition-transcript+scanned-document__EFTA01413017_20260130_p033_i001.png"
+source_pdf: "EFTA01413017.pdf"
+method: pdf_text
+words: 519
+confidence: 1.00
+extracted: 2026-02-13T16:07:36.877320
+---
+
+Oct-yw 
+Number Rule Code 
+ew Oper Review Date 
+48153 
+Dormant dormant 
+353247 dormant 11 
+48436 
+Dormant dormant 
+819944 hrc4 
+12 
+0004 
+2 
+48288 
+Dormant dormant 
+584108 hubspoke 
+30 
+1 
+48435 
+Dormant dormant 330533 
+852039 repetitive 
+32 
+3.20 
+3 
+48438 
+Dormant dormant 654008 
+velocity 
+15 
+0.10 
+48152 
+Dormant dormant 248863 
+41541 
+Grand Total 
+83 
+48437 
+Dormant dormant 236964 
+235965 
+48434 
+Dormant dormant 248294 
+981577 
+48561 
+Dormant dormant 
+48440 
+Dormant dormant 
+451248925211246 
+48417 
+Dormant 
+34585533154658 
+48185 
+HRC4 
+70307956871508 
+48203 
+HRC4 
+48687692541806 
+48462 
+HRC4 
+2711615898646 
+48463 
+HRC4 
+88402830206023 
+48478 
+HRC4 
+25626950073849 
+48468 
+HRC4 
+60036696285428 
+48007 
+HRC4 
+518462019820085 
+48481 
+HRC4 
+hrc4 
+250315171019157 
+48008 
+HRC4 
+hrc4 
+796343403934006 
+48472 
+HRC4 
+hrc4 
+683836748220621 
+48491 
+HRC4Neg hrc4 
+293044453363116 
+48323 
+HRC4 
+hrc4 
+4.0000023143E10 10/22/2013 
+74054967506543 approved 
+48126 
+HubMBenLo 
+hubspoke 
+99955009 
+10/8/2013 
+7:45 
+0.9775753622548029 
+approved 
+48119 
+HubMultBen 
+hubspoke 
+1.0000213914E10 10/8/2013 
+7:53 
+0.9459041209018031 
+48116 
+HubMultBen 
+hubspoke 
+7:38 
+0.9368182538867229 
+48140 
+HubMultOrg 
+hubspoke 
+2:49 
+0.48689248693631804 
+48118 
+HubMultBen 
+hubspoke 
+7:10 
+0.44971174461105745 
+48106 
+HubMultBen 
+hubspoke 
+6:40 
+0.4421437228365941 
+48120 
+HubMultBen 
+hubspoke 
+2:47 
+0.4342925366400836 
+48137 
+HubMultOrg 
+hubspoke 
+006638505096014 
+48108 
+HubMultBen 
+hubspoke 
+0.2544280624486235 
+HubMultBen 
+hubspoke 
+0.21271647663143156 
+HubMBenLo 
+hubspoke 
+0.18720424737683938 
+HubMultBen 
+hubspoke 
+0.12077182790490792 
+HubMBenLo 
+hubspoke 
+0.05876448239397902 
+RepTranln 
+repetitive 
+1.0000438957E10 10/8/2013 
+0.9680881297865236 
+approved 
+rule group 
+Customer ID 
+Account Create Date 
+Review State 
+Revi 
+random 2nd review 
+Row Labels 
+Count of Rule Code 
+% 
+► 
+250040 10/16/2013 4:17 Waived WANGY 
+12/20/2013 16:59 
+0.8234778193 
+0.10 
+GETPIVOTDATA("Rule Code",$O$1,"rule group","dormant")*Q2=1.1 
+1 
+653771 10/25/2013 4:12 Waived WANGY 
+12/30/2013 13:35 
+0.7668959564 
+0.20 
+GETPIVOTDATA("Rule Code",$O$1,"rule group","hrc4")*Q3=2.400000000000 
+247427 10/19/2013 4:41 Waived WANGY 
+12/20/2013 17:54 
+0.7562435279 
+13 
+0.10 
+GETPIVOTDATA("Rule Code",$O$1,"rule group","hubspoke")*Q4=1. 
+10/25/2013 4:12 Waived WANGY 
+12/30/2013 13:29 
+0.7141761916 
+0.10 
+GETPIVOTDATA("Rule Code",$O$1,"rule group","repetitive")*Q5= 
+10/26/2013 4:11 Waived WANGY 
+GETPIVOTDATA("Rule Code",$O$1, 
+10/16/2013 4:17 Waived WANGY 
+SUM(R2:R6)=9.50 SUM(S2:56)=9 
+10/26/2013 4:11 Waived WANGY 
+10/25/2013 4:12 Waived WANGY 
+341738 10/31/2013 4:21 Waived WANGY 
+44105584 
+10/29/2013 5:11 Waived 
+dormant 42930521 
+approved 
+hrc4 
+4.0000407758E10 
+approved 
+hrc4 
+4.0000478707E10 
+hrc4 
+hrc4 
+hrc4 
+hrc4 
+hrc4 
+4.0000023084E10 
+4.0000023143E10 
+4.0000440224E10 
+4.0000406995E10 
+4.0000023569E10 
+4.0000449906E10 
+4.0000406995E10 
+4.0000420368E10 
+4.0000440224E10 
+48121 
+7:46 
+48133 
+0:56 
+48107 
+7:12 
+48125 
+7:34 
+48067 
+3:57 
+10/23/2013 
+10/16/2013 
+10/16/2013 
+10/29/2013 
+10/29/2013 
+10/29/2013 
+10/29/2013 
+4:12 Waived 
+4:17 Waived 
+4:17 Waived 
+5:11 Waived 
+5:11 Waived 
+5:11 Waived 
+5:11 Waived 
+10/8/2013 6:05 Waived 
+10/29/2013 5:11 Waived 
+10/8/2013 6:05 Waived 
+10/29/2013 5:11 Waived 
+10/29/2013 5:11 Waived 
+4:12 Waived 
+99955009 
+10/8/2013 
+1.0000464551E10 10/8/2013 
+1.0000471993E10 10/8/2013 
+99955009 
+10/8/2013 
+1.0000464551E10 10/8/2013 
+1/7/2014 17:10 0.7025767732114465 
+"rule group","velocity")*Q6=1.50 2 
+12/20/2013 16:14 
+0.5842390413 
+12/30/2013 13:58 
+12/30/2013 12:56 
+0.4717577197 
+0.3005817755 
+1/8/2014 13:48 0.2708155465669764 
+WANGY 
+12/30/2013 14:43 
+0.01 
+WANGY 
+12/30/2013 12:46 
+WANGY 
+11/19/2013 11:30 
+WANGY 
+11/19/2013 11:17 
+WANGY 
+11/15/2013 15:00 
+WANGY 
+11/15/2013 15:04 
+WANGY 
+11/15/2013 17:05 
+WANGY 
+11/15/2013 15:47 
+WANGY 
+12/26/2013 18:53 
+WANGY 
+11/15/2013 17:13 
+WANGY 
+11/15/2013 16:34 
+WANGY 
+11/15/2013 16:44 
+WANGY 
+11/15/2013 17:38 
+WANGY 
+11/21/2013 15:12 
+6:05 
+6:05 
+6:05 
+6:05 
+6:05 
+6:05 
+6:05 
+Waived 
+Waived 
+Waived 
+Waived 
+Waived 
+Waived 
+Waived 
+WANGY 
+WANGY 
+WANGY 
+WANGY 
+WANGY 
+WANGY 
+WANGY 
+0.90 
+0.89 
+0.89 
+0.82 
+0.77 
+0.76 
+0.49 
+0.47 
+0.14 
+0.11 
+0.10 
+0.05 
+0.98 
+12/27/2013 1 
+11/20/2013 1 
+11/20/2013 1 
+11/20/2013 2 
+12/27/2013 1 
+11/20/2013 1 
+11/20/2013 2 
+10/8/2013 6:05 Waived WANGY 
+11/20/2013 23:07 
+0.26 
+99955009 
+10/8/2013 
+1.0000239448E10 10/8/2013 
+1.0000212002E10 10/8/2013 
+99955009 
+99955009 
+6:05 
+6:05 
+6:05 
+10/8/2013 6:05 
+10/8/2013 6:05 
+6:05 
+Waived 
+Waived 
+Waived 
+Waived 
+Waived 
+Waived 
+WANGY 
+WANGY 
+WANGY 
+WANGY 
+WANGY 
+WANGY 
+11/20/2013 1 
+11/20/2013 1 
+11/21/2013 1 
+11/20/2013 1 
+12/27/2013 1 
+11/19/2013 2 
+EFTA01413049

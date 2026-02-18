@@ -1,0 +1,308 @@
+---
+source_image: "scanned-document+deposition-transcript+bank-statement__EFTA01729006_20260130_p066_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 508
+confidence: 1.00
+extracted: 2026-02-13T17:19:04.928098
+---
+
+Page 
+17 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile Deer: 
+Total Mobiles, 
+AIRTIME AND LONG DISTANCE CHARGES 
+CHARGES 
+City 
+Length 
+of 
+Air 
+Long 
+Itm Date 
+Tina 
+CL No. Called 
+Called 
+F P Cell* Time 
+Dist. 'Total 
+2 02/07 11:32AM 
+3 02/07 11:34AM 
+4 02/07 11:35AM 
+5 02/07 11:37AM 
+6 02/07 11:39AM 
+7 02/07 12:29PM 
+8 02/08 12:26PM 
+9 02/08 12:28PM 
+10 02/08 12:39PM 
+11 02/08 01:50PM 
+12 02/13 10:53AM 
+13 02/13 10:54AM 
+14 02/13 11:57AM 
+15 02/14 06:50PM 
+16 02/15 03:39PM 
+17 02/15 03:46PM 
+18 02/15 03:53PM 
+19 02/15 09:52W 
+20 02/15 10:22PM 
+21 02/15 10:39PM 
+22 02/16 09:58AM 
+23 02/17 02:36PM 
+24 02/17 75125PM 
+25 02/17 05:45PM 
+26 02/18 04:29PM 
+27 02/19'01:49W 
+28 02/20 03:02PM 
+29 02/20 03107PM 
+30 02/20 03:18PM 
+31 02/20 05:40PM 
+32 02/20 05:49PM 
+33 02/20 05:50PM 
+34 02/20 05:57PM 
+35 02/20 05:57PM 
+36 02/20 05:58PM 
+37 02/20 06:04PM 
+38 02/20 06:06PM 
+39 02/20 06:08YM 
+40 02/20 06:12PM 
+41 02/20 06:20141 
+42 02/20 06:28PM 
+43 02/20 09:07PM 
+44 02/22 08,25PM 
+45 02/22 OB:29PM 
+46 02/23 08:28AM 
+47 02/25 05:35PM 
+48 02/26 11:00AM 
+49 02/26 .08117081 
+50 02/26 08:20104 
+51 02/29 02:29PM 
+52 02/29 02:33PM 
+53 02/29 03:129M 
+54 02/29 03147PM 
+55 02/39 05:29PM 
+56 02/29 05:32PM 
+.57 D2/29 05:48PM 
+1775 PA W 
+I7T8 PA W 
+I7IS PA W 
+MS 
+PA W 
+ITTS PA H 
+I7I5 
+PA W 
+1778 
+PA W 
+I78 
+PAN 
+NCOM CL W 
+IlmrS PA W 
+YlaiS MD 
+YKES MD 
+NOM CL 
+PALM FL 
+ITTSB PA M 
+I7IS8 PA H 
+ITTSB PA H 
+ITTS9 PA H 
+ITT88 PA 
+1TTSB PA H 
+YKESV MD 
+NCOMI CL 
+PALM FL 
+NCOMI CL 
+NCOMI CL 
+NCOMI CL 
+PALM FL 
+PALM FL 
+PALM FL 
+NCOMI CL 
+ICE CL 
+PALM FL 
+OICE CL 
+PALM FL 
+PALM PL 
+PALM PL 
+PALM FL 
+01-70S PL 
+PALM PL 
+PALM FL 
+INCOMI CL 
+INCOMI CL 
+PITTE:. PA N 
+PITTS9 PA N 
+INCOMI CL 
+INCOMI CL 
+YKESV MD 
+ICE CL 
+P1TT58 PA 
+PITTSB PA W 
+PITTSB PA H 
+PITTSB PA H 
+INCOMI CL. W 
+PITTS8 PA N 
+PITTSB PA W 
+P1TT5B PA H 
+2 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1. 0.00 
+0.00 
+2 0.00 
+0.00 
+50 
+0.00 
+0.00 
+14 
+0:00 
+0.00 
+2 
+0.00 
+0.00 
+2 0.00 
+0.00 
+6 
+0.00 
+0.00 
+56 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+I 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+7 
+0.00 
+0.00 
+18 
+0.00 
+0.00 
+29 
+0.00 
+0.00 
+17 
+0.00 
+0.00 
+30 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+I 
+8.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00. 
+3 
+0.00 
+0.00 
+8 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+80 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+14 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+39 
+0.00 
+0.00 
+34 
+0.00 
+0.00 
+• 1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+16 
+0.00 
+0.00 
+7 0.00 
+0.00 
+EFTA01729071

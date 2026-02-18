@@ -1,0 +1,313 @@
+---
+source_image: "deposition-transcript+bank-statement+scanned-document+invoice__EFTA01729006_20260130_p070_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 592
+confidence: 1.00
+extracted: 2026-02-13T16:20:19.003890
+---
+
+•Page 
+6 
+AccOlint Nalbert 
+Billing Date: 
+Mobil* Romberg 
+Mobile Users 
+Total Mobiles: 
+AIRTIME AND LONG DISTANCE CHARGES 
+Itn Date 
+City 
+Tito 
+CL No. Called 
+Called 
+F P 
+Length 
+of 
+Call 
+ 
+CRAMS 
+Air 
+Long 
+Tine 
+Dist. Total 
+50 03/11 09:39PM 
+CC CL M 0 
+1 
+0.00 
+0.00 
+51 03/11 09:52PM 
+INC0/4/ CL N 0 
+4 
+0.00 
+0.00 
+52 03/11 09:59PN 
+INCOME CL M 0 
+3 
+0.00 
+'0.00 
+53 01/11 10101PM 
+N PALM FL N0 
+1 
+0.00 
+0.00 
+54 03/11 10:02PM 
+MOM/ CL N 0 
+2 
+0;00 
+0.00 
+55 03/11 10:09PM 
+INCONI CL N 0 
+4 
+0.00 
+0.00 
+56 03/31'11:22PM 
+INCONI CL N 0 
+2 
+0.00 
+0.00 
+57 03/11 11:38PM 
+INCOMI CL N 0 
+11 
+0.00 
+0.00 
+58 03/12 09:38Pm 
+IN OKI CL N 
+3 
+0.00 
+0.00 
+S9 01/12 09:44PM 
+W PALM FL M N 
+11 
+0.00 
+0.00 
+60 01/12 09159PM 
+INCOME CL M N 
+2 
+0.00 
+0.00 
+61 03/12 tololom 
+N PALM FL N N 
+1 
+0.00 
+0.00 
+62 03/12 10:03PM 
+INCOMI. CL M N 
+1 
+0.00 
+0.00 
+63 03/12 10:05PM 
+W PALM FL NN 
+1 
+0.00 
+0.00 
+64 03/12 11:04PM 
+I'Oemi CL N N 
+3.
+0.00 
+0.00 
+65 03/12 11118PM 
+W PALM FL N N 
+1 
+0.00 
+0.00 
+66 03/12 11:30PM 
+VOICE CL N N 
+2 
+0.00 
+0.00 
+67 03/12 11:44PM . 
+INCCMI CL N N 
+3 
+0.00 
+0.00 
+6803/13 11:55PV. 
+INCCMI CL 
+2 
+0.00 
+0.00 
+69 03/12 11:57PM 
+W PALM FL NN 
+1 
+0.00 
+0.00 
+70 03/13.12:02AM 
+INCCMI CL N N 
+2 
+0.00 
+0.00 
+71 03/13 12:39AM 
+N PALM FL N N 
+2 
+0.00 
+0.00 
+72 03/13 02:43AM 
+N PALM FL NN 
+1 
+0.00 
+0.00 
+73 03/13 02:50AM 
+INCOME CL N N 
+1 
+0.00 
+0.00 
+74 03/13 0311SAM 
+INCOMI CL N N 
+2 
+0.00 
+0.00 
+75 03/13 03:33Am 
+ICE CL N N 
+2 
+0.00 
+0.00 
+76 03/13 09:53AM 
+INCOME CL N N 
+2' 0.00 
+0.00 
+77 03/13 09:56AM 
+N PALM'FL N N 
+1 
+0.00 
+0.00 
+78 03/13 10:46AM 
+PALM PL W 
+1 
+0.00 
+0.00 
+79 03/13 11:02AM 
+W PALM -PL W N 
+1 
+Coo 
+0.00 
+BO 03/13 11:08AM 
+W PALM FL NN 
+1 
+0.00 
+0.00 
+02 03/13 11:09AM 
+PALM FL N N 
+1 
+0.00 
+0.00 
+02 03/13 11:10AM 
+N PALM FL N N 
+6 
+0.00 
+0.00 
+83' 03/13 11:45AM' 
+INCCMI CL N N 
+2 
+0.00 
+0.00 
+84 03/13 11:47AM 
+INCCMI CI. N 
+2 
+0.00 
+0.00 
+85 03/13 11:52AM 
+INCCMI CL N 
+2 
+0.00 
+0.00 
+86 03/13 11:08PM 
+INCOME CL N N 
+2 
+0.00 
+0.00 
+87 03/13 12:34PM 
+INCOME CL N N 
+3 
+0.00 
+0.00 
+88 03/13 12:36PM-
+INCOME CL W N 
+1 
+0.00 
+0.00 
+. 89 03/13 12:38PM 
+PALM PL 
+N 
+2 
+0.00 
+0.00 
+90 03/11 01:10PM 
+PALM FL W N 
+1 
+0.00 
+0.00 
+91 03/13 01:30PM 
+PALM FL W N 
+4 
+0.00 
+0.00 
+92 03/13 02:25Pm 
+PALM FL W N 
+1 
+0.00 
+0.00 
+93 03/13 03:45PM 
+PALM PL N N 
+1 
+0.00 
+0.00 
+94 03/13 05:06W 
+INCOME CL N N 
+5 
+0.00 
+0.00 
+9$ 03/13 05:10PM 
+PALM FL N N 
+2 
+0.00 
+0.00 
+96 03/%9 06:32PM 
+PALM FL NN 
+1 
+0.00 
+0.00 
+97 03/13 06:36PM 
+PALM FL NN 
+1 
+0.00 
+0.00 
+919 03/13 10:31PM 
+BOTTOM PL N N 
+1 
+0.00' 
+0.00 
+99 03/13 10:42PM 
+NCCMI CL N N 
+1 
+0.00 
+0.00 
+100 03/13 10:51PM 
+PALM FL NN 
+1 
+0.00 
+0.00 
+101 03/13 10:56PM 
+M PALM FL NN 
+1 
+0.00 
+0.00 
+102 03/13 34:14pM 
+PALM FL W N 
+1 
+0.00 
+0.00 
+103 03/13 11:18PM 
+PALM PL W N 
+1 
+0.00 
+0.00 
+104 03/13 11:41PM 
+NCOMI CL N 
+1 
+0.00 
+0.00 
+105 03/13 11:47PM 
+BOTTON FL N N 
+1 
+0.00 
+0.00 
+EFTA01729075

@@ -1,0 +1,584 @@
+---
+source_image: "spreadsheet+bank-statement__EFTA02711356_20260210_p008_i001.png"
+source_pdf: "EFTA02711356.pdf"
+method: pdf_text
+words: 912
+confidence: 1.00
+extracted: 2026-02-13T17:15:09.717207
+---
+
+TRUSTS 2014 LOB LLC 
+UNREALIZED to TO HI 
+JULY 2014 SOTHEBY'S 
+Sotheby's 
+Fair Value (% 
+CUMULATIVE 
+(PLEDGED) 
+Appraised 
+Ownership) or 
+GROSS 
+GIFT, NAME OF 
+Total Paid (in 
+Value (July 
+Cost (if not on 
+UNREALIZED 
+UNREALIZED 
+OWNERS 
+DONEE 
+Artist 
+USD) 
+2014)
+Item Description 
+AppraIsal) 
+GAIN (LOSS) 
+GAIN (LOSS) 
+INCREMENTAL 
+HIP % 
+INSTITUTION 
+462.769 
+3.889.293
+NARROWS 
+PRUDHON. PIERRE-PAIStudy for an Allegory of the Rhine River 
+600.000 
+600,000 
+137,231 
+100%.
+NARROWS 
+SCHAUFELEIN THE ELDA Landsknecht Turned to the Left Carrying a Halber 
+354.290 
+500
+ 
+150,000
+500.000
+500,000
+145.710  
+4.035.003 
+150,000 
+4,185,003  
+100% 
+150.000 
+NARROWS 
+AVERY, MILTON 
+Man. Rocks and Sea 
+. 
+100.000 
+150,000 
+100% 
+NARROWS 
+GIACOMETTI, ALBERTO Autoponrad 
+250.000 
+175.000
+4.335,003  
+100% 
+NARROWS 
+KLIMT, GUSTAV 
+Femme nue 
+25.000 • 
+250
+175..00
+00g 
+150,000  
+4.485.003 
+3,059.023 . 
+100%, 
+NARROWS 
+KIRCHNER. ERNST LUDStehendes Madchen. Karyaude 11 (50% interest) 
+1.349.076 
+3,000.000 
+1,500.000 
+150.924 . 
+4.635.927 
+50%.
+NARROWS 
+COROT. JEAN-BAPTIST1Le Ragout. Forel de Fontainebleau 
+686.500 
+850,000 , 
+650.000 
+188
+65388
+500 
+4.799.427  
+100% 
+NARROWS 
+KANDINSICY, VASSLY 
+Improvisation 8 
+27.331.834 
+27.500000  
+27.500,000 
+4.967,793 . 
+100% 
+NARROWS 
+DELACROIX. EUGENE ,Tigre se lechant la patte 
+225.000 
+44 05,001 
+400,000 
+175000 : 
+5.142.793 
+103%.
+NARROWS 
+GIACOMETTI, DIEGO 
+,TaNe bane aux caryatides 
+175000 
+1758:280
+000 , 
+5.317.793 
+100%, 
+NARROWS 
+.GERICAULT, THEODOR Black Stallion in a Stable 
+324.750  
+500,000  
+5.493.043 . 
+100% 
+NARROWS 
+BLAKE. WILLIAM 
+God Blessing the Seventh Day 
+2.316.008  
+2.500.000 
+500000 
+183.992 
+5.677.034 
+100% 
+2.500.000 
+NARROWS 
+•DORER. ALBRECHT 
+,St. Jerome in his Study (Mader 59. a: Bartsch 60) 
+1,001,650 
+1,200,000  
+1.200,000 
+198.350 , 
+5,875.384  
+100%, 
+NARROWS 
+BONNARD, PIERRE 
+Marthe sur un divan 
+300.000 
+500.000 
+500.000 
+2130.000 : 
+8.075.384 
+100%. 
+NARROWS 
+DE GOVA. FRANCISCO Los Proverb's (or Los Disparates) 
+200.000  
+200.000 
+200.000 
+6275,384 
+200,000 
+6.475.384  
+100% 
+NARROWS 
+GIACOMETTI, DIEGO 
+Console table with shelf, model with frogs 
+100% 
+NARROWS 
+GIACOMETTI. DIEGO 
+ Console table with shed. model with frogs 
+• 
+- 
+200,000
+200°°0 
+2- 00.000 . 
+6.675.384 
+103%, 
+NARROWS 
+NOLDE, EMIL 
+Mohn and Ritterspoon 
+50000 
+250.000 
+200,000  
+15 08785 384
+384 . 
+100%, 
+NARROWS 
+TOURNAI 
+Falcorvy Tapestry 
+500.000 
+250.000 
+200,000 
+100% 
+NARROWS 
+GORMLEY. ANTONY 
+Landing 
+300.000 
+98.532 
+300.000 
+300.000
+5°°.000 
+2- 01.469 
+100% 
+7276.853 
+NARROWS 
+LIOTARD. JEAN ET1ENN JACQUES DE CHAPEAUROUGE (1744 - 1805) 
+789.180 • 
+1.000.000 
+1,000,000 
+210.820  
+7,487.672 . 
+100%.
+NARROWS 
+FRAGONARD. JEAN-HO Vile Tarnow - la late a Ramboineet 
+3.000.000 
+3,000.000 
+214,223 . 
+7.701.896 
+100%, 
+2.7 
+NARROWS 
+REDON. ODILON 
+Satyre 
+18085:000 
+777 
+400.000
+79.368  
+400.000 
+220.000 
+7.921,896 . 
+100% 
+NARROWS 
+GORMLEY, ANTONY 
+Together and Apart 
+300.000 i 
+220.632 
+8.142.528 
+100% 
+NARROWS 
+DE TOULOUSE4AUTRELa coiffure 
+1.020.420 
+1.250.000 
+1.500.000 
+1,250
+3°°..00
+000 
+2- 29,580 . 
+8,372.108 
+103%.
+NARROWS 
+GRAF, URS 
+The Bearer of the Banner of the Canton Glanin (5E 
+515.969 
+750,000 
+234,031  
+8.806,139 
+50%Met 
+NARROWS 
+KLEE. PAUL 
+Konigsburg 
+1.265.000  
+1,500.000  
+1,500.000 
+235.000 
+100% 
+NARROWS 
+GIACOMETTI. DIEGO 
+Console a plateaux. models aux grin:bales 
+250.000  
+250.000 
+250.000 
+98..09
+841.139 . 
+100% 
+NARROWS 
+HARTLEY. MARSDEN 
+Casa Lakes 
+140.000 • 
+400.000
+780000 
+4080,000 
+280,000 . 
+9,351.139 . 
+100%.
+NARROWS 
+PRUDHON. PIERRE-PAIFemme assts. tenant une quenoullle (Clotho la film; 
+750.000 
+260.073 , 
+9.611.212 
+100%. 
+NARROWS 
+PICASSO. PABLO 
+Tate de taureau 
+489.927 
+627.029 
+25.000  
+900.000 
+300 000  
+900.000 
+272.971 
+9.884.183  
+100% 
+NARROWS 
+RODIN. AUGUSTE 
+The Age of Bronze 
+275.000 
+10.159.183 
+100% 
+NARROWS 
+DAVIS, STUART 
+Mist in Search of a Model 
+74.151 
+350.000 
+400.000 
+880
+300.00
+000 
+275849 , 
+10,435,032 ' 
+ 
+100%, 
+NARROWS 
+GRIS. JUAN 
+Nature motto au cafebere 
+400.000 
+276,109 
+_10.711.111 
+10.711.141 
+ 8,376,138 : 
+100%.
+123.891 
+119075  
+400000 
+NARROWS 
+.THIEBAUD. WAYNE 
+Pink Swirl 
+280.925 , 
+10.992.066  
+ 
+100% 
+NARROWS 
+MOREAU. GUSTAVE 
+Galatea 
+215.930  
+500.000 
+400000 
+500.000 
+284.070 
+11276.136  
+ 
+100% 
+NARROWS 
+RUBENS, SIR PETER PNicodemus 
+963.010 
+1.250.000 • 
+1,250,000 
+450.000 
+286,990  
+11,563.126 
+ 
+100%.
+NARROWS 
+REDON. ODILON 
+,Satan dominant le monde 
+161.151 
+1.000
+450:001 
+268.849  
+11.851.975 
+ 
+100% 
+NARROWS 
+SEUFtAT, GEORGES 
+Rayons 
+702.049 , 
+1.000000 
+297.951 
+12.149.926  
+ 
+100% 
+73°00 . ' 0 
+NARROWS 
+GIACOMETTI. ALBERTO Pair of torcheres 
+0°°: 
+300,000 
+300.000 
+12,449,926  
+ 
+100% 
+NARROWS 
+GIACOMETTI. DIEGO 
+Chienneypiece 
+400.000 
+00
+185.000 
+700,000 
+300,000 
+12,749,926 
+100%, 
+NARROWS 
+TIEPOLO. GIOVANNI BA:Chnst Calling the Fishermen 
+500.000 
+500.000 
+315.000 
+13.064.926 
+100% 
+NARROWS 
+'PICASSO. PABLO 
+Taureau et cheval 
+470.271 
+453.000 
+800.000 
+800.000
+329.729 
+13,394.655 
+100%.
+NARROWS 
+REDON, ODILON 
+La trite noyee 
+800000 
+800.000 
+347.000 
+13.741.655 
+100% 
+NARROWS 
+KELLY. ELLSWORTH 
+Untitled 
+3.650.750 
+4.000.000 • 
+4,000,000 
+400 000 
+349,250 
+14,090.905 
+100%.
+NARROWS 
+:TANSEY, MARK 
+Homage to Susan Sontag 
+50.000 
+100%, 
+1,143,188 
+1300.000 
+1,500,000
+400,000 
+350.000 , 
+14.440.905 
+NARROWS 
+RORER, ALBRECHT 
+Saint Eustace
+356,813 
+14.797.717 
+100% 
+NARROWS 
+GELLEE, CLAUDE CALL An Extensive Landscape 
+893.0621 
+1.250.000' 
+1,250,000 
+700.000 
+356,938 
+15.154,655 : 
+100% 
+NARROWS 
+KLEE, PAUL 
+Hexen-scene 
+1.500.000
+364,425 , 
+15,519.080 
+100% 
+NARROWS 
+FRIEDRICH. CASPAR Di View of the Island of Rugen with a Shepard and his 
+37358:000
+575 
+750.000
+71"®0 
+3- 75.000  
+15.894.080 
+ 
+ 
+50% Mel 
+NARROWS 
+INGRES, JEAN-AUGUSTRaphael and The Fomanna 
+1.623'50  
+2,000.000  
+2,000.000 
+413,875 
+800 000 
+376250 
+16270.330 
+100% 
+NARROWS 
+WATTEAU. JEAN-ANTO1Profile of a Man with a Study of a Hand 
+750.000  
+386.125 
+16.656.455 
+100% 
+NARROWS 
+PICASSO. PABLO 
+Le singe et le masque 
+360.159 
+1,500 000 
+800.000 
+750,000 
+389,841 . 
+17046.298  
+ 
+103%.
+NARROWS 
+PICASSO. PABLO 
+Etude pour Isacteur and deux ixofils de Fernando , 
+1.104.150 
+400,000  
+1,500.000 
+395,850  
+17,442.146 
+ 
+100%, 
+NARROWS 
+RICKEY. GEORGE 
+Triple L Excentric Gyratory Gyratory
+400.000 
+17.842.146  
+ 
+100% 
+NARROWS 
+GRIS, JUAN 
+Nature mono 
+391.000 
+800.000 , 
+1.000.000 
+4110.000 
+1,000
+8C13:00
+°°0 
+409.000 
+18251,146 
+ 
+100% 
+NARROWS 
+DE GOYA, FRANCISCO ,Los Caprichos 
+579.880 
+4- 20120  
+18,671.266 
+1312.500 
+1.750.000 
+1,750,000
+100%, 
+NARROWS 
+CEZANNE. PAUL 
+Groups earbres 
+450.000 . 
+450,000 
+437,500  
+19.108.766 
+100%.
+NARROWS 
+DE GOYA. FRANCISCO Los desastres de la guerre 
+450.000 
+19358.766 
+100% 
+NARROWS 
+MIRO. JOAN 
+Composition 
+541,250 
+1,000.000 
+1,000,000 
+458.750 
+20,017,516  
+100% 
+NARROWS 
+MATISSE. HENRI 
+Femme se reposer' 
+341.000 
+800.000  
+800,000 
+459.000 
+20,476,516 , 
+100% 
+Page 8 of 10 
+EFTA_R1_02125032 
+EFTA02711363

@@ -1,0 +1,56 @@
+---
+source_image: "deposition-transcript+bank-statement+invoice__EFTA02730274_20260131_p113_i001.png"
+source_pdf: "EFTA02730274.pdf"
+method: pdf_text
+words: 705
+confidence: 1.00
+extracted: 2026-02-13T16:20:17.870395
+---
+
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - 4PM P2-1A\ BOX MM 05_ITEM 2 2 OF 3 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - 4PM P2-1A \ BOX MM 05_ITEM 2 3 OF 3 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005\3.12.2025 - 4PM P2-1A \ BOX MM 05_ITEM 2 BOOK 1 OF 3 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - 4PM P2-1A \ BOX MM 05_MESSAGE PADS 001 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - 4PM P2-1A \ BOX MM 05_MESSAGE PADS 002 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFs\Wave005\3.12.2025 - 4PM P2-1A \ BOX MM 05_MESSAGE PADS 003 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - 4PM P2-1A \ BOX MM 05_MESSAGE PADS COPIEL 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - 4PM P2-1A \ BOX MM 05 
+3-08-04 TO E 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - 4PM P2-1A \ BOX MM 05 
+03-05 TO 04-0 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - 4PM P2-1A \ BOX MM 05 
+1-04 TO 3-05 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_7378 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14 EPSTEIN 001 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_EPSTEIN 002 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_EPSTEIN ACCURINT 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 14_FGJ PRESENTATION 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 14_FOLDER 001 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_FOLDER 002 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_FOLDER 003 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_FOLDER 004 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_FOLDER 005 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_GIRLS INVOLVED 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_GRAND JURY EXHIBITS 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_INDICTMENT-CHART-TESTIM 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 10 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 12-13 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 14 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 15 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 16 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 18 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 2 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 3 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 7 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOE NO 9 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JANE DOES 1-19 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_JEFFREY EPSTEIN 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 14_PBPD-INCIDENT REPORT 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 14_PBPD-PROBABLE CAUSE 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 14_PBPD-PROPERTY RECEIPTS 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_PHOTOGRAPHS AND MP JAN 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A \ BOX MM 14_RAW DATA 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 144 
+Wds-fs-prod \ prod \ DCU \THE BIG E\3-TIFAWave005 ‘3.12.2025 - P2-1A \ BOX MM 14_USDC SOUTHERN DISTRICT C 
+Wds-fs-prod \ prod \ DCWHE BIG E\3-TIFs\Wave005\3.12.2025 - P2-1A\BOX MM 14_USDC SOUTHERN DISTRICT C 
+EFTA02730386

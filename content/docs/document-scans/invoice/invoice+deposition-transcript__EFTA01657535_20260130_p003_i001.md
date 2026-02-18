@@ -1,0 +1,191 @@
+---
+source_image: "invoice+deposition-transcript__EFTA01657535_20260130_p003_i001.png"
+source_pdf: "EFTA01657535.pdf"
+method: pdf_text
+words: 502
+confidence: 1.00
+extracted: 2026-02-13T17:13:33.600293
+---
+
+cingular 
+Account Number 
+STARTING AUGUST 1, YOUR ACCOUNT NAME AND WIRELESS 
+NUMBER WILL DISPLAY ON CALLER ID WHEN YOU MAKE 
+WIRELESS-TO-LANDLINE CALLS. BEFORE. ONLY YOUR WIRELESS 
+NUMBER WAS DISPLAYED. BLOCK YOUR NAME FROM APPEARING 
+TO LANDLINE CUSTOMERS BY ENABLING CINGULAR'S WCAL 
+FEATURE. LOG IN OR REGISTER TO MY ACCOUNT ON 
+CINGULAR.COM. GO TO MY FEATURES, CHOOSE AVAILABLE 
+FEATURES, AND THEN SELECT CALLING NAME BLOCK. 
+LATE PAYMENT CHARGE: 
+A 1.5% LATE PAYMENT CHARGE PER MONTH MAY BE APPLIED FOR 
+AMOUNTS UNPAID 20 DAYS AFTER THE DATE OF INVOICE 
+(AK 0.875%, AR 0.085%, NE 1.33%, WI 1.00%). 
+ACCOUNT DETAILS 
+Detail of Payments - Thank You!
+Item Description 
+Date Applied/Reversed 
+1 PAYMENT 
+06/22/06 
+Total of Payments 
+Current Subscriber Monthly Charges and Credits 
+iiiimaima
+Subscriber Number 
+Subscriber Name 
+Total Current Monthly Charges 
+573.51 
+SUMMARY OF CURRENT ACTIVITY 
+FOR 
+Monthly Service Charges 
+item Description 
+Service Dates 
+Charge 
+t CALL WAITING 
+06103,06 - 07/02/06 
+0.00 
+2 TEXT MESSAGING PLAN - 0 MSGS 
+06103;06 - 07/02/06 
+0.00 
+3 CALLER ID 
+06103,06 - 07/02/06 
+0.00 
+4 VOICEAAAIL 
+06103106 - 07/02/06 
+0.00 
+5 DETAIL BILLING 
+06103106 - 07/02/06 
+0.00 
+6 REGULATORY PROGRAM CHARGE 
+06103/06 - 07/02/06 
+1.75 
+7 CALL FORWARDING 
+06103/06 - 07102/06 
+0.00 
+Account Name 
+JEFFREY E EPSTEIN 
+Date of Invoice 
+July 03. 2006 
+Page 3 of 16 
+SUMMARY OF CURRENT ACTIVITY - CONTINUED 
+Payment Amount 
+Charge 
+-966.41 
+ 
+.966 41 
+-966.41 
+Charge 
+453.39 
+81.37 
+AM 
+573.51 
+Monthly Service Charges - Continued 
+Item Description 
+8 WORLDCONNECT 
+9 THREE WAY CALLING 
+10 BLACKBERRY $49.99 
+11 NATIONAL PLAN $29.99 
+Total Monthly Service Charges 
+Service Dates 
+06,03,06 - 07;02106 
+06103106 • 07102/06 
+°stone • 07/02;06 
+06/03106 • 07102/06 
+Mortlly Usage Charges 
+Item Description 
+1 100 ADM_ ANYTME MIN 
+2 MESSAGE RETRIEVAL 
+3 UNLIMITED N,WKNO MIN 
+Total Monthly Usage Charges 
+Other Subscriber Charges 
+Item Description 
+1 MCTD SURCHARGE 
+2 NY CITY UTILITY G.R. SUR 
+3 STATE TELECOM EXCISE SURCHARGE 
+4 FEDERAL UNIVERSAL SERVICE FUND SURCHARGE 
+Total Other Subscriber Charges 
+Other Sscscr .ce' 
+\so :s 
+Item Description 
+1 $5 MONTHLY CREDIT 
+Total Other Subscriber Credits 
+Suos:.rber Scv,iinnient Fees and Taxes 
+item Description 
+1 SALES TAX 
+Total Subscriber Government Fees and Taxes 
+TOTAL CURRENT CHARGES FOR 
+DETAIL OF CURRENT ACTIVITY 
+Onty Used 
+72 MIN 
+3 EVT 
+II MIN 
+Charge 
+0.00 
+0.00 
+49.99 
+PI 99-
+81.73 
+Charge 
+0.00 
+0.00 
+0 00 
+0.00 
+Charge 
+0.16 
+0.55 
+0.71 
+0.80 
+2.22 
+Charge 
+-5 00 
+-5.00 
+Charge 
+242
+2.42 
+81.37 
+VOICE USAGE FOR 
+Number 
+Onty 
+Charge 
+Item Date Time Called 
+Calls To 
+Used Rate Description 
+Charge 
+06,06 11:07A 
+INCOMING 
+3MIN 
+100 ADD'L ANYTME MIN 
+2 0606 01:51P 
+COLUMBUS OH 
+1I4IN 
+100 ADM. ANYTME MIN 
+3 06'06 01:51P 
+NEW ALBANY OH 
+1 MIN 
+100 ADM. ANYTME MIN 
+4 06108 03:59P 
+NEW ALBANY OH 
+1 MIN 
+100 ADD'L ANYTME MIN 
+5 06'08 04:06P 
+NEW ALBANY OH 
+2M1N 
+100 ADD'L ANYTME MIN 
+6 06112 11:14A 
+POWAY CA 
+1MIN 
+100 ADD'L ANYTME MIN 
+7 06114 01:45P 
+INCOMING 
+SHIN 
+100 ADD'L ANYTME MIN 
+8 06+15 02:00P 
+COLUMBUS OH 
+1MIN 
+100 ADM ANYTME MIN 
+1 EVT 
+MESSAGE RETRIEVAL 
+9 06115 05:47P 
+INCOMING 
+6MIN 
+100 ADD'L ANYTME MIN 
+EFTA01657537

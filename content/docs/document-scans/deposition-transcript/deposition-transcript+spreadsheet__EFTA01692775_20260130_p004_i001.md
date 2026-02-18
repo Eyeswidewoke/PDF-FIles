@@ -1,0 +1,554 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p004_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 890
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.860862
+---
+
+• 
+T ,Ncingular 
+gra WireleSS 
+Account Number 
+At:ocular* 
+want 
+Date of Invoice 
+Docontor 12. 2004 
+Page 14 of 22 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+votcr USAGE t.gt 
+OXWIPPFSI 
+Motor 
+0 717 
+Charg• 
+kw Chiba 1LN 
+Calls To 
+Voof RN O000lpson 
+30 
+101017 
+W
+p
+rn 1 101050 
+371 1 
+1 01220 
+AVALMCCA010. 
+0VA11.413224 it 
+ant 
+itilitT 
+N
+MW 
+W 
+1$1111 
+UNLIMT 
+M 
+JM 11,11014W 
+tIC0111TiCs 
+1 
+27'0147 
+NVIA 
+104T 
+ALL W 
+141
+7111 XXI 0111 
+WW 11/71014 
+313 IN1311 
+WPAWSEACH FL 
+14184 
+UMM117 wwie. 
+IWAitsrA01 FL 
+11.18 
+moon° 
+PavaNO 
+;;21;:li
+figi a" 
+Ira 
+:Pi tra MP« 
+IW 11/11 0151> 
+386 11)21 01 
+7 
+FL 
+00WILOMICA Ft 
+mew 
+UM 
+M 
+MO 
+EVf 
+nott? 
+387 1101 01 
+wFAMAPPAO4 FL 
+TNN 
+UPPWIT PaVnA0 W 
+388 1101 01 
+WPAWILOACH O. 
+mix 
+UNIWITTO NW010 11141 
+11/21 04.1113 
+WPALIAXPOI FL 
+Lull 
+WitimiTED NWOO MN 
+XX %WI 077 
+lo 1101031 
+ins 
+i0441
+ 
+UNU
+2 
+!TWO* 
+1.1740W1 
+1,1111 
+II IN 831 
+394 1V11 030.3 
+WIT 
+2140 
+UM1110 
+11.01 
+ukui 
+in 
+Il▪ k 
+3t 
+gar. 
+Val 
+.`",;:tifiS 'VIA Si 
+11121 040211 
+16/114 
+ur411144401414010 
+;FIE 
+1104 
+1041.11.43t0 104414101.911 
+PI 1 -I 06040 
+144.01400 
+e1208 Norm 
+2.- 
+InunICO 
+Mel 
+E 
+&I:1E 
+11/21 021 
+LW AzW.PACH 
+WW 
+UNtilaTFO DOWN) LW 
+LwAtm6LAC7110. 
+WM 
+WONTED NWI(M) 
+P Atai..01 It 
+1Mill 
+waiton0 NWFPO 
+gi 
+;211,  
+1WAL1180.01 R. 
+101 
+!SCOW,' y" 
+MISSAC4,REWICW4 
+Sr11248 IIMD3= 
+ofb 06204 
+WPAINSEACM 
+MON 
+tittiMiTC0 Nw04. 
+RI 11121 063P
+ IL 
+411 11121 OOP 
+3.7041C14104 
+9120144d0 
+;V 
+IAMB 
+.44i1
+83
+2 
+1ST 
+UNLIII1ED 14 
+1114 
+11.01 ofr 
+WPALIIE £404 FL 
+XXI 
+WOWED Swop Lin 
+11121 8631 
+114.4)10TG 
+412 1101065 
+4)3 11/21 06 
+MCOWO 
+11dill 
+uNuwrf WOAD &MI 
+90YNTONFICA 
+u ram 1=
+3 MW
+11/I1 0¢
+EYII 
+41 Mil 0/01 
+<1440410.414CH 41. 
+I
+ YN 
+0.40/4/1
+ ISW%?p MN 
+41 11/.1 0034 
+8',.11::In NVAM WI 
+417 11421 06,42 
+416 11/21 01130.4 
+ov
+ico 
+FL 
+livC.00/ 
+ome
+..5 
+AI 
+.1; itlin tva al 
+419 1V2.1 0441 
+44004400 
+AVM 
+VIVIINTE01044490 la 
+420 1101 0490 
+WinLI/NA04 a 
+NM 
+UNLIVITE0 leWitIll WI 
+421 11/21 OUP 
+10.14.140404FL 
+ISM 
+,1311101.:13 2:
+: 11/2106504 
+INCC•44240 
+MO 
+11/21 0412 
+94C01414 
+MP 
+Anal 
+.4W 
+IAN 
+4411010/00 
+IN¢C¢ING 
+1.414 
+21µ300) 0%000 LIN 
+4 
+11/210100 
+WVANOEACHF1. 
+MN 
+UNLIMITED MWOO UN 
+(VT 
+Mt SSAGE mETRIEV44. 
+4n 11/21 010? 
+422 1141 03/114 
+Qs 110.1 090411 
+.4/1241.4404443 fl. 
+NW 
+Ideal 
+/141” 
+3: 
+340.411944040 
+.44 
+to444a Will 
+an 
+no-ATCNECH R. 
+VW 
+011 11/21 09.410 
+03.4a.m4EAC14 a 
+tin 
+U103/1110 34.W04014/1 
+EMT 
+MESSAGE 'UMW, 
+1 84 11ffl ggi: 
+wpowe4.08 FL 
+r.,,,.,,„ 
+3:1 ta-...02,11:1
+1,1: 
+I 
+434 WV C•93/1 
+01 11/21 Win 
+44100001C-11 FL 
+MT 
+..410110910440(101A9 
+44C011410 
+Sin 
+numiLe 144/10401.0 
+tii ivn; (SNIP 
+ITCGIING 
+0.41C4.0C. 
+MN 
+unsin003030. NM 
+.0010240.914,1140/.0 
+CALL W4111/40 
+1,) 
+4% 1021100W 
+BOT1410004 R. 
+214,4 
+UO2.081210 WPM MN 
+born 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+I 
+VOICE USAGrespeer
+fOR 
+Ctutinuut 
+col 
+Anew 
+Me EWA Tine CAW 
+Cab To 
+WS 
+ROL DeforpLon 
+41/ 
+19414P 
+10.24 
+WPAOWNWPI. 
+001NTOOKFIFL 
+WI 
+WI 
+I i  1
+ 
+zn riMP 
+MOP 
+111:SP 
+Wgi
+le°
+¢1¢MAIMS
+Luatq
+l9KIKM Rrt
+PC0441.0 
+601/1101.8 
+Fl. 
+IIIM 
+MX 
+tMK 
+UNIFILTED 'MKS) VII 
+101010¢ /4.31/31401414 
+WILIW.TE laWINO uri 
+1.11
+1.4"11.1
+11:10
+:47: 
+WW
+:wv:.: ..:
+i 11 i vz 11:14 
+11:1 
+P 
+001141014,4 FL 
+EgglIgUSIR 
+1411 
+NM 
+WM 
+41/00,01. 14441000 Lin 
+upol.47C PIPPINS MS 
+101110031114.11131014n 
+VS; 
+,.,,,,...,,, - 
+140i 
+UGUMITED/01/100 M01 
+1.1.41.0111CD WHOA) MN 
+r *a 
+11:578 
+11FOOANG 
+1/101140110.401.9 MSc 
+[V4 
+12011.110 MAnNT 01 
+/2 Inn 
+1”1/1 
+ril4c=04
+0014NO 
+n  
+sit 
+NN 
+CALL WM OP 
+UNLA041044,010 NN
+". 461 
+/2 'Lin 
+WPAUMT.A01 It 
+IAA 
+lelh 
+UNUMT(1114.1NOW011114 
+1.0113,MONAMX140 UM 
+1,1 
+VMUMIED144314040 WM 
+I Erti 
+.......4.R 
+ISM 
+INOXIINu 
+We 
+PI 
+450 
+I21 MOP 
+WOMPACIIACII FL 
+Off 
+NW 
+=UN ujraT
+IMIFTILm
+0 PF7180,4
+1404
+44 
+VC1440111:00L
+rfteT014048 
+458 
+IX OP:78 
+WPAUROLAXI FL 
+rah 
+CV-
+ma 
+rAVEIREVAL 
+NES 
+121441. 
+Won 
+TO von 
+h It? igi St: 
+VOALWEAO1 FL 
+wPALAIMPOI n 
+•12 In 02aP 
+200.101.13.400/4 kin 
+INCOMING 
+Mk 
+W 
+Pr 
+:00 ADM 440amE143 
+LOON)P. APT114L Lin 
+f 
+Z 
+Pi Mop 
+PP 06111P 
+WPALMIXACM rf 
+WPAtAistArx FL 
+IMIL 
+Nit 
+li 
+NCM 
+4446 
+In nil/ 
+In 01218 
+1149.41110/A01 It 
+WPAIN/110.01 FL 
+Min 
+FYI 
+NM 
+ort 
+rf ,1441Si tC3w4 
+stc
+°  
+'s.a
+.cAt 4i'c it44
+E'sjo. 
+0 110414CA0 CL113411 
+MESSAGE RE RENAL 
+) tag 
+li:06.221. 
+1/21 042!8 
+WP A Woe EACH FL 
+Ma 
+Linn u.nt TO $4001 
+:00 ADO% AMY tut 111.1
+0410010 EACH FL 
+MA 
+4.1 IS gi at; 
+WPM? ZA Agla 
+1.11. 
+ON 
+IS  2&
+ :
+1741
+- RIEYAL
+'12til
+It 
+474731 
+at CO
+06111 
+41.1r1.1:03 ( 2gq 
+w340.9*A1331 ft  
+1119 
+141% 
+20030 
+Awm
+44014.4141, 3 ,
+El 
+140.0140 PAN 
+4 f2f 
+SSW; 
+415 
+0Z 0013.0 
+1.1
+%
+W.P1AALUAKACH
+thira 
+iFtt 
+1.4 
+1.1141.9AT 
+WM040 04/44 
+• ,13i tpi
+ Min 
+i  
+4 03 
+I 
+( 
+Ott 
+2 03 
+WPALK14 
+i 
+WO ALIABEACH FL 
+twALAX 
+El 
+WI 
+MIN 
+MN 
+WI 
+WAFT 0 WOW, UN 
+1.11401/1p OI/10401•N 
+1.01411/12 V 14/N10t3 
+MOM 43 We MAI la 
+109.41,04D Wenn MN 
+I 281" lat 0069 
+=ech rerzOtio004
+01 rt
+FL 
+!ht.,: 
+inn...sc.:Hs 
+pap. 
+WUMTECIPOWNO MN 
+MIMI ED 74561010 UN 
+el 
+12.1 00213 
+WPALWEADI FL 
+1 
+414 
+In 06310 
+al OS 
+LW. 
+Upon CLOWILNO LIN 
+LAITA 
+=LIS 
+trli 
+I 
+486 
+; 
+488 
+cal i 
+Mt) 
+31111. 
+TETT 
+1130 
+CALL WAI 
+0 
+W11.11.41¢0 WfaND IAN 
+uhutormo rUNKNO UN 
+I 
+38 
+in
+ex_ _LA 
+il l  
+1st:it 
+ty- 
+VAULT T
+ 
+4/300.0 UN 
+num Lint
+L
+ 401.4004 
+. Si ii II' 
+ts fps
+ 
+11411. 
+1104.1.0R ferfill041 
+I, 
+487 1073 l218P 
+I 
+491 
+301P1P 
+WO. 
+Ft 
+Ira 
+I MP 
+7:13 A001. ANYTin WV 
+!:81002g1 itITVerj:g 
+100 AVOL AnYIVE In 
+C144494. 
+EFTA01692778

@@ -1,0 +1,457 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692526_20260130_p008_i001.png"
+source_pdf: "EFTA01692526.pdf"
+method: pdf_text
+words: 777
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.745334
+---
+
+Xcingular 
+S 
+Mr Wireless 
+WNW 
+Account Number 
+Account Name 
+Date of Invoice— I 
+February 18. 2005 
+Page 7 of 8 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR
+ Continued 
+Number 
+WM 
+Maw 
+kw OEM TWA COM 
+CWT. 
+11•451 
+RSA Dowlpilm 
+124 01/29 0117P 
+WMEMBEACH EL 
+SIAN 
+SWIM MCKTWEEKEN) 
+12$ atm 04.51P 
+WPAIAMEA04 FL 
+231111 
+WARM NIGINMEIKENO 
+1M 01/11 12724n 
+12I 01/311190 
+la 01/11 32.40P 
+125 01411 04444P 
+(001 itant 
+III 02101 11.41A 
+132 0110100W 
+133 07.01 05W 
+135,
+34 gie,y7; 811: 
+m OZot 005115
+I31 0301 065M 
+TM 07AI OP 3.3. 
+IN 03010931P 
+:1?0301 11 0 
+31.1 07.02 11.41A 
+143 02.02 11AM 
+144 02421/.41* 
+145 OZA1Z 11,41A 
+146 02102124M 
+147 07AP 72.40 
+;Ls 02.17.4 0111P 
+141 WA: 0121P 
+IS, WM OW 
+to 0243 11.0 
+II  
+14.2 OM13 0105P 
+02431032(15
+74 ON73 03 ZIP 
+M 0.2114 10215 
+441. 
+1St 
+104 
+WAN 111-0/4 
+121 07/74 10 AM 
+I "6 CMS 111111 
+A) OMR 
+µ`2M 
+11, WANC 
+I Si OM. 03.2 
+I Al 
+et
+02O4 01 
+i.4 aitirt 
+tte 
+t47 tet 
+sta
+713 ORM 5235P 
+Sta 
+171 02.10 09 WA 
+WPAJW.A04 EL 
+NAN 
+WARM MOM TO V0414. 
+1 ref 
+WPAINOMON EL 
+I MN 
+WENAWACEI IL 
+I mil 
+lil iala 
+(Ate
+I WE 
+WRAMMEN041 II. 
+11•411
+IM 
+ritt ichle. 
+WPM-IMMO. N. 
+ININ 
+SHARE014414 TO a 
+WPAIME0.04 FL 
+I MN 
+SHARED KEN IMO. 
+WM 
+MESSEGE rot 
+AL 
+V=
+ IL 
+MIN 
+?WED MCI V 
+41114$ 
+I EL 
+INN 
+crairEGOLZ MOM 
+A 
+EL 
+4MN 
+/1. 
+1MN 
+41. 
+214/4 
+WPALIMEACII EL 
+it% 
+WPALARMACM FL 
+MAN 
+5 13
+= 
+IL 
+ILI 
+MIN 
+MIN 
+IL 
+bile9=g& 
+a 
+um 
+s. 
+Ea
+WAIAWA01 TA 
+ralms r.t. 
+W.
+... 
+INCOANG 
+W .
+VT:4=1:21 
+a 
+MN 
+NW 
+FVE 
+W4 
+WI 
+la 
+tia 
+El. 
+EMI 
+a 
+3/114 
+AIMPLA01 II. 
+INI 
+CET 
+WI 
+AIN 
+a WI 
+/WI 
+-4 
+a 
+OJT 
+WPAUMEACH EL 
+a 
+MIN 
+a 
+FL 
+WI 
+MN 
+rt 
+.FAN 
+MT 
+STUA
+wmLititTea o . a
+MN 
+MN 
+WPALWEACH FL 
+MN 
+EL 
+EL 
+EL 
+EL 
+/4 
+L RAI 
+u, 
+Laid rad 811g 
+OWND 
+TOLOSA 
+SNARED 1M TOMMIE 
+ratO GLOV I
+IT
+MON.
+AL
+Eitlir s;...13 
+WARED NCLAX0 2
+4
+SMARM INCLUDED WM 
+WARM RCM TO mom. 
+m gicz o sv..A. 
+'6:12.6
+s.maYt
+icellIkkotcws 
+rztgureinlivaa
+rIARgp NCI INN [WOO. 
+LAW 
+ghloir
+u
+AL 't
+Meaclu cas 
+ED NC INC401m
+4013 
+SWAM IA084 7
+Ut stliStalcArL 
+ZZSg.,1:•Lli),Rt:g 
+sivado Nu® o mod 
+tets-Wahl yr,t9,64
+i 
+69 164
+V;  Darct
+:81.
+0
+.4/an WON 1 WE 
+MIMEDWOK T um 
+gra 
+;SE: Ps'.
+TO 11031 
+t
+WARM 114441313 
+t000tg rt. 
+A 
+AAR. 
+NT 
+WA 
+NNA 
+Wmaksi"gEigill'''' 
+?1,,R-1 It% 
+Owes 
+VOICE USAGE FOR 
+Thaw 
+Wes DMA TooCM•41 
+114 02411 11-
+11503070161 
+1 76 6.2031 06 
+lr 11 
+I
+I)II
+1,1132 
+40.49 01 
+0¢00011' 
+110 00ra 01 
+161 (0
+W125 31
+Int awn, 
+I01 0260 021 
+Ill 0011902 
+IS) 02/40 01 
+NO 
+0417 
+IC 
+Ig 
+193 
+10 15 
+194 024110 
+105 0.2111 011 
+itt 
+aft 
+IN 02.11 04 
+In MI 01'11
+Tol 04r12 CNN 
+131MI 00 
+OR 
+ZOI OMIZ 091 
+205 0012 03. 
+ZOO 02112 09.1 
+SMI;?" 
+M MR1 0070 
+n' 
+4°Z 
+fil 02014 It 1 
+214 001412 
+21$ 0914 M 
+01114 
+216 MI F.1, 
+219 OSTIA 071 
+220 021510 
+221 02/10 01.31 
+222 0241710 
+Continued 
+0RM 
+mum 
+cur Ta 
+Used Ra• 0 •1666 4,06 
+Clutige 
+'VT 
+MFMAGE RE TINEVIJ 
+1014
+.AC
+R 
+14 EL 
+WI 
+WARM No II meOLMS
+SINN N 
+014445 
+w N1 1YKAO4 FL 
+!WE 
+EL 
+=gin 
+040014414 
+WEAMIOCACN 41. 
+11004.5440 
+v",;4
+4F
+.
+Nc
+WP 
+41. 
+vfnose..604 - 
+W6A_IletACH 
+wPAS 
+Ti. 
+WP 
+FL 
+41 FL 
+WPAJNEACII El. 
+WPAUMFACN Tt. 
+twAMINACH FL 
+W7.5..M3M04 11. 
+140454 
+ 
+ 
+FL 
+WAAMMILACH • t. 
+WALIAXACH 
+VIRk =44
+, rt. 
+VOMMIKAM4R-
+WALMMACIML 
+MN 
+WM 
+• ttAN 
+rata 
+rAEMAGE PETRIMAL 
+MIR MOB tag 
+SIMCD NCU.00314NS 
+MN 
+(VT 7304 11 :A 
+Ol 
+MN 
+AMP 0 
+tAl 
+MN 
+E
+liarrt44 
+(VT 1.0411 N 0 
+SWIM A
+IO MOM 
+SWIE0 1
+ 
+61. TO NOM 
+EriZi 
+ZH8 Dl*
+ig *tb20"20k 
+4441310 W3Ett 70 1.03L 
+tzE5SAM PE !WOK. 
+SMARM KOL 70 WON. 
+t tat
+talgiolit 
+WARM 14.1105014114 
+SeWIE 0 Mel 10 NON. 
+SIWIM %COE TO NOM 
+hei i
+tiCi.jT emqciL 
+AGIN 
+-MAO 
+ro:N
+r ;TalgKENO 
+RES_ 
+A.. 
+WARM PNTAtEENO 
+NESSAGE P 
+IOENNEVALK
+iltretr1TI
+TMIECI"
+MORI 54071175.4 14/t0 
+VettLaf 
+WAIMONGHTN/MKEW 
+?t
+er/ MC.FATKOW 
+A (AR Dm 
+045.4) 
+Sat 
+to . 
+TOAD 
+7.341100 ifful uot
+u0SuO hL
+IAN.IsS 
+MINISAMR KM. TO 11
+004. 
+4.7 
+4
+E.n7
+7triZICRATAL 
+WARM NOBL TMOBS 
+3KARED NOLLOW E
+L
+WS 
+nst 
+eargia, 
+Ss Rj.111
+1
+”112Vtigt
+15GETRICC EA LC  M)
+WARM NCLIWO WES 
+41/1 
+MN 
+AVT 
+IAN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+MN 
+ELET 
+1414 
+a S. 
+144 
+PAN 
+CVr 
+OFT 
+•••4 
+Val 
+PAM 
+MN 
+MN 
+MN 
+MN 
+SW 
+EVT 
+(Vi 
+1st 
+EVT 
+1'21 
+ISO 
+EFTA01692533

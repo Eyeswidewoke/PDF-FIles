@@ -1,0 +1,161 @@
+---
+source_image: "deposition-transcript+legal-filing+affidavit+court-document__EFTA01700995_20260130_p042_i001.png"
+source_pdf: "EFTA01700995.pdf"
+method: pdf_text
+words: 543
+confidence: 1.00
+extracted: 2026-02-13T16:48:16.923192
+---
+
+V/StmUSINESS CREDIT CARD ArMICATION 
+CREDITOR: PALM BEACH NATIONAL BANK & TRUST CO. BRANCH # 
+REFERRED BY: 
+COMPANY APPLICANT 
+COMPANY NAME: 
+NES , LLC 
+NATURE (TYPE) OF THE BUSINESS: 
+Real Estate 
+INDICATE TITLE DESIRED ON THE CARD: (I IMITFO TO 24_,BPACFS) 
+OR-EllOMEEI-DOODOCIDDEJ00000000 
+BILLING ADDRESS: 
+STREET 
+CITY: 
+9 East 71st Street 
+STATE: 
+ZIP CODE 
+New York 
+New York 
+10021 
+TYPE OF ORGANIZATION (PLEASE CHECK):LLC 
+DATE BUSINESS ESTABLISHED: 
+nCORPORATION nPARTNFRSHIP nPROBBIETORSHIP 
+I 
+I 
+NAME OF CONTACT PERSON: 
+COMPANY TELEPHONE NUMBER: 
+Er 
+( 
+FEDERAL EIN NUMBER: 
+OWNER(S)/OFFICER(S)/PARTNER(S) WILL BE REQUIRED TO PERSONALLY GUARANTEE ACCOUNT(S). GUARANTOR(S) 
+MUST COMPLETE THIS SECTION AND SIGN AT THE BOTTOM OF THE REVERSE SIDE OF THIS APPLICATION. 
+GUARANTOR 1: FIRST NAME 
+MIDDLE INITIAL LAST NAME 
+Jeffrey E. Epstein 
+RESIDENTIAL ADDRESS: 
+358 El Brill') Way 
+OWNERSHIP STATUS: 
+DOWN ['RENT MINER: 
+POSITION WITH COMPANY: 
+Sole Member 
+GUARANTOR 2: FIRST NAME 
+DATE OF BIRTH 
+SOCIAL SECURITY NUMBER 
+STREET: 
+APT#: 
+CITY: 
+STATE: 
+ZIPCODE: 
+YEARS AT ADDRESS 
+Palm Beach, Fl 33480 
+10 
+MONTHLY MORTGAGE/RENTAL PAYMENT 
+HOME TELEPHONE NUMBER 
+ni a 
+% OF OWNERSHIP 
+TIME WITH COMPANY: 
+BER 
+100 
+3 yrs 
+MIDDLE INITIAL LAST NAME 
+DATE OF BIRTH 
+SOCIAL SECURITY NUMBER 
+RESIDENTIAL ADDRESS: 
+STREET: 
+APT#: 
+CITY: 
+STATE: 
+ZIP CODE: 
+YEARS AT ADDRESS 
+OWNERSHIP STATUS: 
+(TOWN FIRFNT FIOTHFR: 
+POSITION WITH COMPANY: 
+MONTHLY MORTGAGE/RENTAL PAYMENT 
+$ 
+% OF OWNERSHIP 
+TIME WITH COMPANY: 
+HOME TELEPHONE NUMBER 
+OFFICE TELEPHONE NUMBER 
+3. 
+OTHER BANK: 
+Chase Bank 
+OF ACCOUNT(S): Personal account of Guarantor 
+'
+OTHER ACCOUNTS 
+OLOAN OSAVINGS ACCT °CREDIT CARD 
+PRIMARY BANK 
+B 
+S H CKING ACCOUNT # 
+Palm Beach Bank 
+nCHECKING ACCOUNT 
+(LOAN f13AVINGS ACCOUNT 
+nCRFDIT CARD 
+AMERICAN EXPRESS 
+ACCOUNT NUMBER: 
+DATE OPENED: 
+BALANCE: 
+CORPORATE CARD? nYFS nNo 
+VISA BUSINESS OR 
+CORPOBATF CARD? PITS ONO 
+MASTERCARD BUSINESS OR 
+CORPORATE CARD? OYES ONO-
+BANKING & OTHER CREDIT CARD RELATIONSHIPS 
+ACCOUNT NUMBER: 
+ACCOUNT NUMBER: 
+DATE OPENED: 
+BALANCE: 
+DATE OPENED: 
+BALANCE: 
+AUTHORIZED INDIVIDUAL CARDHOLDER(S) 
+LIST THE NAMES OF ALL EMPLOYEES TO WHOM CARDS ARE TO BE ISSUED FOR BUSINESS PURPOSES: 
+NAME (PRINT) 
+OYES 'ONO 
+OYES :ONO 
+OYES £EJNO 
+OYES ONO 
+3 10.000.00 
+10,000.00 
+$ 
+s nnn nn 
+-Man 
+3 
+SOCIAL SECURITY it . 
+SIGNATURE 
+CASH ADVANCE ACCESS? CREDIT LIMIT 
+TOTAL CORPORATE CREDIT LIMIT REQUESTED: $
+DONE CONSOLIDATED MONTHLY STATEMENT 
+°INDIVIDUAL ACCOUNTS BILLED SEPARATELY EACH MONTH 
+°STANDARD QUARTERLY REPORTS PACKAGE °ENHANCED REPORTS PACKAGE OPTION (CALL US FOR DETAILS) 
+0. 
+Applicant represents that this Information is true end complete, and authorizes creditor to verily the Information and obtain adcatonal Information concerning Company's credit 
+standing, and to.lurnIsh such credit Information to others. Company egress to be bound by and obligated according to the creditors VISA Business Card Regulations. 
+• 
+• 
+Applicant represents and warrants that the credit card account will beused primarily (50% or more) for other than personal, family household or agricultural 
+purposes. Applicant understands that this representation Is to confirm that no disclosures are required under the Federal TnitiMrstending law. 
+SIGNATURE 
+*pokers requests establishment of an account for each 
+Each such designated person is en authorized user 
+contrary in writing by the Company. 
+sihed
+ deaf ineted libOVe of on the attached tab es may be amended In vatting from lime to lime by ApplIcanL 
+have th9ytutlupth y to use the acteunt designated for such sumortzed user until the creditor is notified to the 
+• 
+APPLICANT SIGNATURE: 
+ 
+DATE. 
+g 
+0/ 
+PRINT NAME: 
+CORPORATE TITLE: \pn 
+(3 a-
+EFTA01701036

@@ -1,0 +1,82 @@
+---
+source_image: "court-document+scanned-document+deposition-transcript+legal-filing__EFTA01368621_20260130_p001_i001.png"
+source_pdf: "EFTA01368621.pdf"
+method: pdf_text
+words: 758
+confidence: 1.00
+extracted: 2026-02-13T16:18:53.502891
+---
+
+B. YOU AGREE THAT IT IS YOUR RESPONSIBILITY TO REVIEW YOUR ACCOUNT STATEMENTS IN A TIMELY 
+WAY REGARDLESS OF WHETHER YOU RECEIVE PAPER ACCOUNT STATEMENTS OR ELECTRONIC 
+ACCOUNT STATEMENTS THROUGH THE eSTATEMENT SERVICE. YOU MUST NOTIFY US OF ANY 
+MISTAKES, ERRORS OR OMISSIONS IN ANY ACCOUNT STATEMENTS WITHIN THE TIME FRAMES SET 
+FORTH BELOW, OR SUCH ACCOUNT STATEMENT SHALL BE DEEMED TO BE COMPLETE AND A 
+CCURATE, AND WE SHALL NOT BE LIABLE FOR ANY SUCH MISTAKE. ERROR OR OMISSION: 
+r. 
+FOR IRREGULARITIES RELATING TO AN UNAUTHORIZED SIGNATURE ON, OR ALTERATION OF, A 
+CHECK OR OTHER ITEM, WITHIN 14 DAYS OF THE TIME SUCH ACCOUNT STATEMENT IS MADE 
+AVAILABLE THROUGH THE SERVICE: OR 
+ii. 
+FOR ALL OTHER MISTAKES, ERRORS OR OMISSIONS, WITHIN 30 DAYS OF THE TIME SUCH 
+ACCOUNT STATEMENT IS MADE AVAILABLE THROUGH THE SERVICE OR A LONGER PERIOD IF 
+REQUIRED BY APPLICABLE LAW. 
+C. By using the eStatement Service or otherwise consenting to be bound by the terms of this Agreement, you hereby 
+authorize the Bank to transmit Account statements via the eStatement Service. You further hereby authorize each 
+member of the Deutsche Bank Group to disclose details of all Accounts to the Bank and other members of the 
+Deutsche Bank Group for the purpose of supplying the eStatement Service to you and Other Permitted Persons. 
+D. You acknowledge that without incurring liability to you, we can refuse to supply any information relating to the 
+Accounts through the eStatement Service for any reason at any time. Notwithstanding Clause 18(C) above. the 
+Bank may, in its sole discretion, decline to permit certain Accounts to be viewed or otherwise accessed through 
+the Service, temporarily or permanently. If, pursuant to this Clause 18(D), Account statements are not made 
+available through the eStatement Service for any Account. Account statements in paper form only shall instead be 
+provided to you. 
+E. You can make a written request, at any time, to receive a hard copy paper statement for a specific month. 
+F. By completing the eStatement Service enrollment process and signing below, you represent to the Bank that: 
+i. 
+you are authorized as owner or behalf of the owner of the designated Account(s) to consent to electronic 
+delivery of Account statements and accept the terms of this Agreement; 
+ii. 
+you have software and equipment required to access, view and print your statements; and 
+iii. you agree to receive the statements for designated Accounts electronically. 
+19. Disclaimer of Warranties; Limitation of Liability 
+A YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SITE AND THE INTERNET 
+BANKING SERVICES AND ALL INFORMATION, PRODUCTS AND OTHER CONTENT (INCLUDING THAT OF 
+THIRD PARTIES) INCLUDED IN OR ACCESSIBLE FROM THE SITE AND THE INTERNET BANKING 
+SERVICES IS AT YOUR SOLE RISK. THE SITE AND THE INTERNET BANKING SERVICES ARE PROVIDED 
+ON AN 'AS IS" AND 'AS AVAILABLE BASIS. WE AND OUR SERVICE PROVIDERS EXPRESSLY DISCLAIM 
+ALL WARRANTIES OF ANY KIND AS TO THE SITE AND THE INTERNET BANKING SERVICES AND ALL 
+INFORMATION. PRODUCTS AND OTHER CONTENT (INCLUDING THAT OF THIRD PARTIES) INCLUDED IN 
+OR ACCESSIBLE FROM THE SITE AND THE INTERNET BANKING SERVICES, WHETHER EXPRESS OR 
+IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS 
+F OR A PARTICULAR PURPOSE, WARRANTIES ARISING FROM USAGE IN TRADE AND 
+NONINFRINGEMENT. 
+B. WE AND OUR SERVICE PROVIDERS MAKE NO WARRANTY THAT: 
+i. 
+THE SITE OR THE INTERNET BANKING SERVICES WILL MEET YOUR REQUIREMENTS; 
+ii. 
+THE INTERNET BANKING SERVICES WILL BE UNINTERRUPTED, AVAILABLE 24 HOURS A DAY, 
+SEVEN DAYS A WEEK, TIMELY. SECURE OR ERROR-FREE: 
+iii. THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE INTERNET BANKING SERVICES 
+WILL BE ACCURATE OR RELIABLE 
+iv. THE QUALITY OF ANY PRODUCTS. SERVICES, INFORMATION OR OTHER MATERIAL PURCHASED 
+OR OBTAINED BY YOU THROUGH THE INTERNET BANKING SERVICES WILL MEET YOUR 
+EXPECTATIONS; OR 
+v. 
+ANY ERRORS. OMISSIONS OR DEFECTS IN THE TECHNOLOGY WILL BE CORRECTED. 
+C. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SITE OR THE 
+INTERNET BANKING SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY 
+RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS 
+FROM THE DOWNLOAD OF ANY SUCH MATERIAL. NO ADVICE OR INFORMATION, WHETHER ORAL OR 
+WRITTEN, OBTAINED BY YOU FROM THE BANK OR OUR SERVICE PROVIDERS THROUGH OR FROM THE 
+SITE OR THE INTERNET BANKING SERVICES WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED 
+IN THESE TERMS. 
+Deutsche Bunk !Memel Banking Services Acirclintuni lop DB 
+0:0:dth 
+c 
+18 
+CONFIDENTIAL - PURSUANT TO FED. R. CRIM. P. 6(e) 
+DB-SDNY-0060446 
+CONFIDENTIAL 
+SDNY_GM_00206630 
+EFTA01368621

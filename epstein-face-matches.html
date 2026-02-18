@@ -1,0 +1,296 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Epstein Face Matches | THE PDF FILES</title>
+  <meta name="description" content="Automated face-match gallery for Jeffrey Epstein across extracted case-file images." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0f1318;
+      --panel: #171d25;
+      --panel2: #1f2732;
+      --text: #e7edf5;
+      --muted: #95a2b7;
+      --line: #2d3948;
+      --accent: #2ea0d7;
+      --hot: #d94f3d;
+      --good: #2f9f60;
+      --warn: #ca8c1f;
+      --mono: 'IBM Plex Mono', monospace;
+      --sans: 'Space Grotesk', system-ui, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: var(--sans);
+      background: radial-gradient(circle at 20% -10%, #172231 0%, var(--bg) 48%);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .wrap { max-width: 1400px; margin: 0 auto; padding: 1rem; }
+    .back {
+      display: inline-block;
+      margin: .3rem 0 1rem;
+      color: var(--muted);
+      border: 1px solid var(--line);
+      border-radius: .5rem;
+      padding: .45rem .7rem;
+      font: 600 .78rem var(--mono);
+    }
+    .hero {
+      border: 1px solid var(--line);
+      border-radius: .8rem;
+      background: linear-gradient(160deg, #101a26 0%, #141a22 100%);
+      padding: 1.1rem 1.2rem;
+      margin-bottom: 1rem;
+    }
+    .hero h1 {
+      margin: 0;
+      font-size: clamp(1.3rem, 2.8vw, 2rem);
+      letter-spacing: .02em;
+    }
+    .hero p { margin: .45rem 0 0; color: var(--muted); font-size: .92rem; max-width: 90ch; }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: .6rem;
+      margin-top: .9rem;
+    }
+    .card {
+      border: 1px solid var(--line);
+      border-radius: .6rem;
+      background: var(--panel2);
+      padding: .55rem .7rem;
+      text-align: center;
+    }
+    .card .n { font: 700 1.25rem var(--mono); }
+    .card .l { font-size: .7rem; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+    .n.total { color: var(--accent); }
+    .n.high { color: var(--good); }
+    .n.medium { color: var(--warn); }
+    .n.low { color: var(--hot); }
+
+    .controls {
+      border: 1px solid var(--line);
+      border-radius: .8rem;
+      background: var(--panel);
+      padding: .8rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .6rem;
+      align-items: center;
+      margin-bottom: .9rem;
+    }
+    .btn {
+      border: 1px solid var(--line);
+      color: var(--text);
+      background: var(--panel2);
+      border-radius: .5rem;
+      font: 600 .77rem var(--mono);
+      letter-spacing: .03em;
+      padding: .45rem .62rem;
+      cursor: pointer;
+    }
+    .btn.active {
+      border-color: var(--accent);
+      background: rgba(46,160,215,.15);
+      color: #bfe6f8;
+    }
+    .search {
+      flex: 1;
+      min-width: 240px;
+      border: 1px solid var(--line);
+      border-radius: .5rem;
+      background: #10161f;
+      color: var(--text);
+      padding: .5rem .65rem;
+      font: 400 .86rem var(--sans);
+    }
+    .meta { color: var(--muted); font: .74rem var(--mono); }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: .7rem;
+      margin-bottom: 1rem;
+    }
+    figure {
+      margin: 0;
+      border: 1px solid var(--line);
+      border-radius: .6rem;
+      background: #121923;
+      overflow: hidden;
+    }
+    .thumb {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      display: block;
+      background: #0b0f14;
+    }
+    figcaption {
+      padding: .45rem .55rem .55rem;
+      display: grid;
+      gap: .2rem;
+    }
+    .score { font: 600 .72rem var(--mono); color: #c6d4e3; }
+    .src {
+      font: 400 .67rem var(--mono);
+      color: var(--muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .empty {
+      border: 1px dashed var(--line);
+      border-radius: .6rem;
+      padding: 1rem;
+      color: var(--muted);
+      text-align: center;
+      font-size: .9rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <a class="back" href="./index.html">&larr; Back To Main Site</a>
+
+    <section class="hero">
+      <h1>Epstein Face Matches</h1>
+      <p>
+        Automated face-recognition hits using OpenCV YuNet + SFace against a curated Epstein reference set.
+        Results are grouped by confidence score tier. Review manually before using as evidence.
+      </p>
+      <div class="stats">
+        <div class="card"><div class="n total" id="nTotal">-</div><div class="l">Total</div></div>
+        <div class="card"><div class="n high" id="nHigh">-</div><div class="l">High 0.50+</div></div>
+        <div class="card"><div class="n medium" id="nMedium">-</div><div class="l">Medium 0.40-0.49</div></div>
+        <div class="card"><div class="n low" id="nLow">-</div><div class="l">Low 0.36-0.39</div></div>
+      </div>
+    </section>
+
+    <section class="controls">
+      <button class="btn active" data-tier="all">All Tiers</button>
+      <button class="btn" data-tier="high">High</button>
+      <button class="btn" data-tier="medium">Medium</button>
+      <button class="btn" data-tier="low">Low</button>
+      <input id="q" class="search" type="search" placeholder="Filter by filename..." />
+      <span class="meta" id="shownMeta">Loading...</span>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+    <div id="empty" class="empty" hidden>No results for current filter.</div>
+  </div>
+
+  <script>
+    const DATA_URL = './content/data/epstein-face-matches.json';
+
+    const els = {
+      nTotal: document.getElementById('nTotal'),
+      nHigh: document.getElementById('nHigh'),
+      nMedium: document.getElementById('nMedium'),
+      nLow: document.getElementById('nLow'),
+      grid: document.getElementById('grid'),
+      empty: document.getElementById('empty'),
+      shownMeta: document.getElementById('shownMeta'),
+      q: document.getElementById('q'),
+      buttons: [...document.querySelectorAll('button[data-tier]')],
+    };
+
+    let allItems = [];
+    let state = { tier: 'all', query: '' };
+
+    function fmtScore(v) {
+      return Number.isFinite(v) ? v.toFixed(3) : 'n/a';
+    }
+
+    function render() {
+      const q = state.query.trim().toLowerCase();
+      const filtered = allItems.filter(item => {
+        if (state.tier !== 'all' && item.tier !== state.tier) return false;
+        if (!q) return true;
+        return item.source_name.toLowerCase().includes(q) || item.file.toLowerCase().includes(q);
+      });
+
+      els.grid.innerHTML = '';
+      if (!filtered.length) {
+        els.empty.hidden = false;
+      } else {
+        els.empty.hidden = true;
+      }
+
+      const frag = document.createDocumentFragment();
+      filtered.forEach(item => {
+        const fig = document.createElement('figure');
+        const img = document.createElement('img');
+        img.className = 'thumb';
+        img.loading = 'lazy';
+        img.src = `./${item.file}`;
+        img.alt = `Epstein face match score ${fmtScore(item.score)}`;
+
+        const cap = document.createElement('figcaption');
+        const score = document.createElement('div');
+        score.className = 'score';
+        score.textContent = `Tier: ${item.tier.toUpperCase()} | Score: ${fmtScore(item.score)}`;
+
+        const src = document.createElement('div');
+        src.className = 'src';
+        src.title = item.source_name;
+        src.textContent = item.source_name;
+
+        cap.appendChild(score);
+        cap.appendChild(src);
+        fig.appendChild(img);
+        fig.appendChild(cap);
+        frag.appendChild(fig);
+      });
+
+      els.grid.appendChild(frag);
+      els.shownMeta.textContent = `Showing ${filtered.length.toLocaleString()} of ${allItems.length.toLocaleString()}`;
+    }
+
+    async function init() {
+      const res = await fetch(DATA_URL, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`Failed to load ${DATA_URL}: ${res.status}`);
+      const data = await res.json();
+
+      allItems = [...data.items].sort((a, b) => (b.score || 0) - (a.score || 0));
+      els.nTotal.textContent = (data.total || allItems.length).toLocaleString();
+      els.nHigh.textContent = (data.counts?.high || 0).toLocaleString();
+      els.nMedium.textContent = (data.counts?.medium || 0).toLocaleString();
+      els.nLow.textContent = (data.counts?.low || 0).toLocaleString();
+
+      els.buttons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          state.tier = btn.dataset.tier;
+          els.buttons.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          render();
+        });
+      });
+
+      els.q.addEventListener('input', () => {
+        state.query = els.q.value;
+        render();
+      });
+
+      render();
+    }
+
+    init().catch(err => {
+      els.shownMeta.textContent = 'Failed to load gallery data.';
+      els.empty.hidden = false;
+      els.empty.textContent = String(err);
+      console.error(err);
+    });
+  </script>
+</body>
+</html>

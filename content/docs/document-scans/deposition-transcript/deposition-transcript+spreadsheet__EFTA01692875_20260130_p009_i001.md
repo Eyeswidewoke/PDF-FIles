@@ -1,0 +1,447 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692875_20260130_p009_i001.png"
+source_pdf: "EFTA01692875.pdf"
+method: pdf_text
+words: 664
+confidence: 1.00
+extracted: 2026-02-13T16:57:01.080940
+---
+
+• 
+• 
+cinvl!r, 
+Account Number 
+Aceaut 
+Name 
+Date of Invoice 
+I 
+September 12. 2005 
+Rage NI of NI 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE usnar 
+FOR 
+Number 
+Item Oat Time 
+CI 312M4
+AND 
+ISOM; 
+6 
+iiii 
+Fi
+ll
+Ce910 0104A 
+014 QA10 12AW 
+953 ONIO 17,47P 
+OM 0510 12 MP 
+SST 04.10 12 MP 
+gl 2.N82.11: 
+MO 01/10 02 1411
+I 
+I 
+1 0/11
+.
+IIMI
+SC2 
+ce00
+971
+%ow 
+1E i
+W ?SI 
+$17 
+944 
+910 
+OW 
+WA 
+MO 
+411 
+0% 0001 
+0121 
+1031 091
+1 
+01:14P 
+01191 
+10:11P 
+1021, 
+HISfA
+11.06A 
+lt01.4 
+11,14A 
+14/ 
+It 
+p 
+OSfCP 
+0f040 
+04974 
+MAP 
+antRatad 
+get, 
+townie 
+Wed R. 
+0•472.040 
+men rig We ti
+%WWI 14N 
+IIMMAQ MN 
+IAM▪ 
+PA 
+a %%WAD IAN 
+VALUATED %WOO IAN 
+1.40.M TED %WOO IAN 
+FL 
+a 
+it
+FL 
+NIMLI4134404 Ft 
+EL 
+trA
+10400142
+410 
+%WM 
+14 FL 
+572WM 
+831 
+L 
+ACH FL 
+ACI4 FL 
+SI 
+WI 
+MN 
+IAN 
+INN 
+UN 
+VMMVO NM 
+*cs,
+T 
+4464.60 mu 
+UN 
+T 
+WY, 
+1444 
+UN 
+%NWT 
+LAN 
+W4 
+g m. 
+ 
+/0.24101 IAN 
+EVT
+ 
+Na 
+MIN 
+MINIM 
+%MOM MN 
+UM 
+UMMTED %WOW MN 
+IMI 
+tINAMTE0 NAM040 MN 
+IAN 
+UNIMTED NAMOM MN 
+IAN 
+1.241214 TOP A241040 MN 
+Ili( IM 
+gp'FMtpros 
+AVIVok. 
+N
+40 MN 
+55A 
+UhlIMTGQ NAUN12 MN 
+INN 
+*Attune %WPM MN 
+MN 
+UNLP.112.0 11AVNIM MN 
+IAN 
+UNIPA. 
+MAW..< 
+N 
+li
+W
+UNIAAT 
+%WAS IAN 
+WONT 
+NAVA\ MN 
+WON
+UNIAAT 
+%WAY MN 
+IS 
+1EVT 
+IMP 
+3410
+y
+1
+1 
+1
+= 
+MIMI (_21 MWX/ 
+MN 
+112 
+gtatagVITIN 
+1101 
+UNIIVITED NAVE 
+uN 
+Wart° 
+AVA7( 
+MN 
+fig 
+MESSAGE PE' INEVAL 
+VNINTE0 NAVA/40 MN 
+MN 
+UNIIVITE0 MAIM IIN 
+IAN 
+QNLIMTEO hAVKI4012N 
+IIN 
+UNMATED 
+N
+NNVI(VQ MN 
+1.1144114TE0 AVAV D104 
+U
+IIIMITIQ NAVAYP MN 
+NII IIAT22 ...NW., UN 
+EN 
+MISSI
+Nt'ANNAI 
+= 
+UN INIT 
+/OW% J MN 
+1.1111AAT 
+NAVA.0 MN 
+MN 
+WIMATE0 16WIA, MN 
+MUNE Itr.6'.., It' 
+IcA102.10 MN 
+MN 
+yMNN
+j 
+NAMO414,4 
+%%IOWR MN 
+MN 
+LW~
+NMµND 
+f i
+1MN 
+VICU MI 
+N
+ar
+AMOII 
+MM 
+MN 
+S 
+MN 
+11114 
+OWN 
+WAN MN 
+IAN 
+At
+t
+) 
+ms
+J
+UNIMT 
+%WIN IAN 
+01412141 
+%Wei MN 
+WNW 
+14)/V4 
+MN 
+HOSTAGE PE "SEM 
+UNLIMITED 
+..WLT10 
+UN 
+IIIIIMTE0 NAVANO 
+N 
+nrat;2;‘,RI: 
+UMW 
+/AVE 
+MN 
+Clari• 
+VOICE USAGF FOR 
+Plumber 
+Item Dale Ting 
+II1S g41 2.1 g1t; 
+COOL
+IC04
+Cell0 
+1001 0111 06.214 
+/COI 02010634P 
+1002 09111062U. 
+in I 
+I . 
+11 
+Oil 
+11 
+10,2 
+11 
+M MI rs; 
+1ms 001104.4* 
+1016 001104600 
+• 
+11 
+11
+11
+:11sp
+44
+1 
+1
+ IT6TMIFAMIr
+n 
+TOM WOE WM( Fa 
+NAM MS 
+TEXTRAIll TWIF
+52 
+IIDLA
+A MSGS FOR 
+TM 
+Sec ToMord From 
+511 WI 
+VX 
+1 wAl 
+6 0440 
+1 
+20 
+2131:419
+144 
+144244 
+II/11P 
+1 I 
+IC 
+I
+lit 
+13 
+14 
+°P.
+10 241101
+9
+M
+e 
+MASA 
+Be 
+11
+20020M 
+c142fIns
+W 
+07=e 
+IA 0102 
+t:
+III 0001. 
+924P 
+ifi 
+ya00.0,
+11) EA 
+ .4 A 
+10.1212
+1234A 
+31 IMO( 
+1 
+I 
+3.  MS 
+m
+il cnna
+0204 
+Ol ASP 
+WI 
+25 COCA 
+Al WO 
+01:4291; 
+3Z 0101 
+0.1159 
+li gn 
+02lIti,
+fle 
+Ca tilUed 
+OraY 
+CA, To 
+WS 
+Am 
+"Wa
+li ArA rt
+WOW. 4... 
+MIN 
+YINALM2EACII Fl. 
+MN 
+FYI 
+WFWAISEACH FL 
+INN 
+V/PLI343EXCH FL 
+NM 
+*CCM% 
+/414 
+!VT 
+Vir/g21 
+€t 
+igE 
+AtNe114:1/1 
+ION 
+)/ / 
+40412, 01.41:14 Ft 
+)MN 
+g
+stralACH Ft 
+in 
+41.140EACH FL 
+11191 
+.4 a 
+YN'ON 14 Fl. 
+111114 
+L IN 
+YNT N I II ft 
+MIN 
+Chair 
+DeactipOon 
+UNIIIATIO NAVX1.0 
+LNUIAT20 >AWN) MN 
+NESSA..ie
+O 
+1,241.14-ID MIAIKNO MN 
+N. WANIIION 
+CAL NEW %WAND NM 
+CALL 
+5.1NG 
+1010/11140 
+D
+MN 
+VNATI 
+P4AVV/4 
+4.411 
+0/42/19N MN
+UNWAT 0 AIM OM MN 
+U14-
+..A11,NAYINDIAN 
+glIETI3Nazsrl;44
+I/NW-TED NAVkM) 204 
+VNIPATE, I.A.VAI MN 
+UNISArt, N.W4 
+IAN 
+M II Q %MAN Mt. 
+Charg• CescriPiCot 
+S S NT 
+TIXT NE 
+C
+r4/ 
+:4T 
+T 
+MESSAGES SUIT 
+TEC MESS ACES SENT 
+TpicT MESSAGES SENT 
+TUC NESSAt f 
+N
+Sr
+isA 
+Tt XI NES:tIAGIE
+T leFST.ACE 
+NT 
+Nft 
+I 
+6 
+SSW/ 
+T MESSAGES S NT 
+xf We2ti I NT 
+iiiP31911 
+zitm 
+SEMT 
+9 
+T 
+T 
+T 
+1/ 
+One 
+004 
+EFTA01692883

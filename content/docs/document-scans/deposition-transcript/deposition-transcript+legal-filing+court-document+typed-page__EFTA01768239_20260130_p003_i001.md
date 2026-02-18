@@ -1,0 +1,45 @@
+---
+source_image: "deposition-transcript+legal-filing+court-document+typed-page__EFTA01768239_20260130_p003_i001.png"
+source_pdf: "EFTA01768239.pdf"
+method: pdf_text
+words: 574
+confidence: 1.00
+extracted: 2026-02-13T16:50:22.099923
+---
+
+* Bob Diamond's resignation as Chief Executive of Barclays bank clearly marks a turning point in 
+the politics of banking in the UK. 
+• The most significant political and regulatory outcome from these events will be to renew the 
+debate about universal banking. Whereas to date this debate has focused on scale, implicit subsidy and systemic risk, it 
+will now focus on culture, personal character and contamination from the values of the trading floor to the rest of a 
+banking institution. Because these things cannot be regulated, the probability is that politicians will focus on their 
+proxies, especially pay. 
+* The gap between the inherent values and perceived risks of retail and investment banking has 
+been further widened by the events of the last two months. For leaders of universal banks, especially those who have 
+risen through investment banking, closing this gap in the mind of political stakeholders poses a particular challenge. Mr 
+Diamond's belated 'citizenship agenda' at Barclays was well-conceived, but fatally hobbled by this tension. 
+* By falling on his sword, Mr Diamond has created the possibility of a rapprochement between 
+his former bank and British political opinion formers. The bigger issue for the bank he leaves behind and others like it is 
+how — or if — it is possible after the crisis to rebuild political and regulatory confidence in the kind of financial markets 
+businesses he dedicated his career to building and the people who run and profit from them. 
+Bob Diamond's resignation as Chief Executive of Barclays bank clearly marks a turning point in 
+the politics of banking in the UK. The announcement that Barclay's was to be fined E290mn as part of a settlement with 
+the FSA financial regulator over its part in the fixing of the London interbank lending rate between 2005 and 2008 
+proved the tipping point for Mr Diamond. The Barclay's CEO has long been the most controversial of Britain's bank 
+leaders and had few political friends. Yet in the end, the trigger for his resignation was not direct political pressure, but 
+the FSA's intimation to the Barclay's board that unattributed threats from the top of Barclays to the Bank of England had 
+made Barclays' relationship with its regulator potentially toxic. 
+Mr Diamond's departure and the LIBOR-fixing scandal will mark the start of a new phase in the 
+politics of the banking crisis in Britain. The suggestion that traders at Barclays and other banks were manipulating what 
+is ultimately a key public benchmark for pricing financial products compounds a run of mis-selling and tax planning 
+controversies. With a Parliamentary enquiry now to take place on the LIBOR issue in the UK, and the issue likely to ripple 
+across other jurisdictions and produce both litigation and possible prosecutions, banks in the UK are confronted with 
+new levels of political and public disdain. The fact that the Bank of England's own conduct remains subject to question in 
+some aspects of the LIBOR scandal will not deflect from this. 
+It is safe to assume that the setting of LIBOR will now be moved into the remit of the UK 
+financial regulator. Brussels will tighten market abuse rules to apply criminal sanctions to tampering with indices like 
+LIBOR. But the most significant political and regulatory outcome from these events will be to renew the debate about 
+universal banking. Where this debate has to this point focused on scale, implicit subsidy and systemic risk, it will now 
+3 
+EFTA_R1_00077973 
+EFTA01768241

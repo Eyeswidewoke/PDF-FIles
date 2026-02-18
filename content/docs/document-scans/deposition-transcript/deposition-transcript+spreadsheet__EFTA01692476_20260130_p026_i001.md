@@ -1,0 +1,451 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692476_20260130_p026_i001.png"
+source_pdf: "EFTA01692476.pdf"
+method: pdf_text
+words: 803
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.692349
+---
+
+Data of Invoice 
+FM :nay 18, 2001 
+Mean Water 
+'4= AT&T Wireless 
+Page 5 of 8 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Number 
+10249 Oa Tune Called 
+5 0110 04 
+6 om9 
+02 
+/ Vint 0244 
+I V itl:r1143 
+SO 0111 06 14 
+11 0014 06 311 
+ti 01n9 0D 
+11 OIMCI 0603 
+Sill,, iii 
+9. Min 3x1 
+ttlial li
+it M 2112z 10
+m
+4 
+Orki 
+:1`413181. 
+010505 
+1:g 
+?AI 
+32 
+31 0MI
+ 
+1421 0141 
+03 
+Mi
+18
+t
+37 014312,4 
+St OVn 12 
+29 01123 It 
+40 
+0123nt 12 
+12 
+41 E 
+42 1/21g1 
+42 
+Qs v1 
+44 4022 0431 
+C•131 
+:t sittl 
+ei 
+04
+!2 00*  OIOY
+iii 
+4 ?HASP 
+65 Oint 033501
+ri
+014W 
+M/24 41:1'7
+411M MOW 
+59 OWE 040)72
+CON To 
+U.S 
+• Continued 
+Nate DesalEMon 
+41:040000 
+ViVALIME404 FL 
+VIPALIMEACH FL 
+ver.MAIMA04 Fl 
+WoAtkilfACH Fl. 
+PAIRrelata 
+venntiefACH it 
+0/9111~i'FN it 
+INCOME 
+Vat 
+ 
+DE  4
+HELL
+vau mArtni4 FL 
+FL 
+IL 
+VOKUMEACI4 FL 
+WaNAMEADIFL 
+2
+w> I2 WAbU,nl 
+womesee04 ft 
+WOALIMESCH FL 
+MCCUNE 
+W0 
+544421E0 414iinkEKENO 
+IAN 
+51MINO WOOL TOMMY 
+EVT 
+MEISAGE RETRIEVAL 
+MN 
+314AREOANTITIE M143 
+MN 
+Nrp rc
+ehi kaMOBL 
+?VI 
+T 
+140BL 
+MN 
+nM5.14yrim :242 
+MN 
+MIAMI) Mars 
+MN
+NEAMEN1S 
+en 
+erf Piaui 
+MN 
+c)4/444 timmt rams 
+MN 
+50 .4EViikA TO f.
+1. 
+1103 
+VN. 
+SAARM.N.02.4 
+5344910 ANyTME 14 
+SHAKO ANYTWEMt 
+SHAPED AMINE 1.0 45 
+?.4 EVIAmr. 
+14145 
+.3M/Itlirg}0 1.4iTegI
+SHARED WON. TO MM1. 
+SHARED MIME MN5 
+SKAREO ANY Ty& mut 
+SHAKO A/MuLlait5 
+ES§ Ett 
+SNAKED WIN T 
+SNARED ANYTME 2.024} 
+ttf"Arj
+ Ver
+y  ner:‘
+pre 
+SINT 
+MN 
+MN 
+MN 
+MN 
+EVT 
+N 
+MN 
+MN
+MN 
+MN 
+MN 
+MN 
+4120 
+MN 
+INK 
+KM 
+la 
+ra: 
+'EYE 
+ION 
+EVT 
+/04 
+MN 
+MN 
+MN 
+MN 
+MN 
+m14 
+MN 
+14/. 
+Sla 
+NII 
+544•4 
+SNA 
+▪ 
+r 
+ANNAN WINS 
+A 
+N
+M06L I9 
+MIN 
+5 
+'114. 
+PANE
+' 
+1446 
+L TS 23t 
+A 
+lr AM 
+MES.504 RETRaVAL 
+5140/10)ANITNE IMIS 
+511.0EDMCCIL TO NOEL 
+CALL WAInG 
+F
+MIMEO 41741
+01  14.
+04 
+rn on 
+14 
+.RMO AN 
+NAT INT Fut mem 
+HAN 0 AnYTISIE MNS 
+EI
+L
+MMIIIV; PAK 
+M 
+ANYTM MN 
+, MITT St LUIS 
+main 641 
+tt M43 team% 
+teaRVgZ11,1M 
+11348 :gill LIL1 
+Charge 
+1 IS 
+VOICE USAGE FOR 
+baler 
+Ibis Debi lane caned 
+00 MSS 0502P 
+41 01%0560 
+62 0026 1117 
+41 Min 3 
+32.142 
+61 01017 12187 
+61 0077 12100
+e4 OIm 12317 
+40 01M. 003411
+01127 024444
+et 01027 antoa 
+OVO 0229P 
+71 01/27.2127 
+72 0128 10:121 
+73 01/20 
+74 002911:231 
+75 01/76 03:187 
+75 01011 COMP 
+71 ova 03W 
+1! Clnfi tat 
+9i Owl 26 479 
+I) W( A 
+Si 01/21474 
+15 ITA 7)49/4
+0 1/11 000 
+4 
+A 
+01/21 11694 
+%I 1 I it 
+Ergi4ilt 
+01 
+013114
+01/26 OWR 
+94 0102101037 
+96 01/74 Mut 
+960144 0444P 
+fs elm 0044P 
+Ta 0101 08:077 
+fit MAO 11:19y 
+100 OLIO 02:47F 
+401 oval 02.4F 
+107 01030 04:177 
+831.7' 
+us ONO 07:440 
+icy 
+OtM) 
+num 071.9> 
+0) 
+10720 
+UM 01/30 102SP 
+10$ Owl 03:400. 
+no MAT 10:13A 
+m 024220,124 
+Cans To 
+erAt143 
+FL 
+MN 
+EMMEN AVITNE1015 
+rt'ir'w 
+zgstm.8"Armt9;:;;;IWA:aiti 
+.. s.......,,, won 
+NVA 
+Ft 
+IN" i....„4
+g.--, 
+: 
+t...4- age LILIE 
+2.34N 
+NAKED MO3L TO MOM 
+NM 
+1140.4.1 130N. TO WEL 
+MN 
+HASID Mtn TO MN:: 
+Km 
+[
+(VT r.,7“ lit1nEYN. 
+MN 
+SNAKE-3 AMT 
+kmt 
+ferl 
+tflI A9414 4.1.tiVi n., 
+u m 
+Waft) Mf1140 MI45 
+tl,p. 
+SPARED 1/03. TO WOOL 
+MN 
+12440E 540344 MN-
+MN 
+14155.4C.1 RFT TEL 
+1444 
+510.3F0  0,313- T 14043
+NN 
+WSW" RTTNEVAL 
+MN 
+544ARLEMMIME um 
+MN 
+MORD AIMS [E UM 
+MN 
+IAN 
+WI 
+r 
+lAga% al
+'nom To /tom 
+(-VT 
+MISCAtE la Thant 
+MN 
+SHNVE)ANYTIM( MN) 
+IAN 
+'SNARED ANYTMF MKS 
+Mx
+ WOOL TO VOGL 
+MN 
+3.41...flAGE 111/14VAL 
+MN 
+mta
+nAK4449 ANnITIV MN165 
+EvT 
+EMI worn° 
+MN 
+SNARE., ANYTIVE IA 
+NM 
+SNAKED MITTEM MNS 
+late 
+SNARE ) /NM. 1 0 NOM 
+NM 
+514ARE3 MOE. TO WOOL 
+W 
+NES54.4- 4 RETINIIL 
+smktlignmE 
+IAN 
+*IMMO MOD. TO WOW. 
+ENT 
+MEW/3E R130(0µ 
+WM 
+244.11)1
+5
+ IN! MKS 
+MN
+544.Akty on I m Mill 
+MN 
+SNARED 4.00%. TO Wet 
+MN 
+SNARE° AirniVE SINS 
+1101 
+514AFF MINE MM. 
+rig 
+INAS 0 MOTIUr en* 
+ra 
+SNARE INTIM( MN$ 
+%NM 1 manna um 
+244ARK µ`32E PINS 
+INN 
+511Aer ANYTIME MN: 
+3514 
+54fAvE .4.544TMET FETID 
+tEvT 
+mf 55 
+E MTMENN 
+ma: di noTtur tan
+oni 
+IAN 
+SHAPED NICMTMEEFE/10 
+111971 
+SHARED NIGHTMEEKEND 
+WPMYI(/CMR
+IAN 
+SHARED POGHTIMIEK3140 
+I4 /I 
+1011 
+m
+tbiAer 
+len 
+e< ER TPoti. 
+WOMNITAC 
+Pi 
+AL 
+T r NOEL 
+Continued 
+fteli 
+outgo 
+Ulded RAM DesaNton 
+tuartetta 
+14cReNto 
+eePAUMEACH ft 
+WP
+CZ:124.0111. 
+wPALMINTSOIn 
+AVAUMEACIIII 
+14CCOA 
+:vipT
+il at
+oi  Ft
+l
+aa.cm
+WV/7 
+F
+ 
+AMMEACH IL 
+MEEKS IN 
+ER 
+ALIMEA0141. 
+WPALIMFAEN FL 
+vvp3R21;1 
+AMMO 
+NMNING 
+WPAMMEACIEL 
+NC
+G 
+INCOILIN4 
+wPAJAM
+OVINEAC-I EL 
+NPALMBEAC4 FL 
+WPALMet A04 n. 
+WEAMMEAEl n. 
+Mmunim..4 IL 
+11/40014010 
+%M en 
+witumM.1.c.i rt. 
+WPA 
+;144 E.
+1.79+.4.1'4tgi 
+IL 
+e. 
+EiMiAC14
+ 
+WPAIL 
+Chinn 
+EFTA01692501

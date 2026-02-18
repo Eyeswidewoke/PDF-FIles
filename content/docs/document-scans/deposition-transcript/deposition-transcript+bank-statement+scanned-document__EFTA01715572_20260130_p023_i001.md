@@ -1,0 +1,301 @@
+---
+source_image: "deposition-transcript+bank-statement+scanned-document__EFTA01715572_20260130_p023_i001.png"
+source_pdf: "EFTA01715572.pdf"
+method: pdf_text
+words: 526
+confidence: 1.00
+extracted: 2026-02-13T16:20:20.694675
+---
+
+00'0 
+00'0 
+I 
+M Id MIVd A 
+NdOZ:60 St/60 Zdt 
+00'0 
+00'0 
+I 
+A Id MIVd 
+MdLZ,60 ST/t0 TOT 
+00'0 
+00'0 
+E 
+M Id WINN X 
+AdOZ:60 ST/60 06i 
+00'0 
+00'0 
+M Id MIVd 
+AVLI,ZI SS/i0 60I 
+00'0 
+00'0 
+E 
+M 14 AlVd 
+tkIEZ,60 tt/t0 001 
+00'0 
+00'0 
+Z 
+M Id NIVd N 
+MdtZ:60 WI/I0 611 
+00'0 
+00'0 
+Z 
+M Id WM N 
+WdZI,60 II/40 992 
+00.0 
+00'0 
+Z 
+A Id HINed N 
+NdOT,60 IT/t0 SIT 
+00'0 
+00'0 
+t 
+121 WIVd 
+HdTt,00 OT/I0 tit 
+00'0 
+00'0 
+Z 
+14 NlVd 
+Wd9S:40 6t/I0 EST 
+00'0 
+00'0 
+t 
+14 W7Vd M 
+NaltS:LO 62/40 ZIT 
+00'0 
+00'0 
+ZZ 
+13 IWOONI 
+Wd9Z:LO IT/t0 LOT 
+00'0 
+00'0 
+* 
+73 IN00NI 
+WdOC:SO *I/40 Orr 
+00'0 
+00'0 
+I 
+10 INOONI 
+NdSO:CO II/t0 ILI 
+00'0 
+00'0 
+Z 
+Id W7Vd 
+Adt0;t0 ti/40 OLT 
+00'0 
+00'0 
+fit 
+II 70 IN0ONI 
+AdLO,TI Et/ID Lit 
+00'0 
+00'0 
+C 
+M 7.21 NELIA08 
+AdSZ,60 CT/t0 9LT 
+00'0 
+00'0 
+I 
+N Id NOSA013 
+AdIZ,60 ET/10 SLI 
+00'0 
+00'0 
+CI 
+N Id NOIX04 
+Md60,60 Et/60 ILI 
+00'0 
+00'0 
+Z 
+IA Haim K 
+NdST:LO ET/I0 ELI 
+00'0 
+00'0 
+I 
+7O INOONI 
+ZI/t0 ZLI 
+00'0 
+00'0 
+I 
+N 10 IWOONI 
+Rd9t:TI ZT/WO ILI 
+00'0 
+00'0 
+t 
+A ID INOONI 
+Ad9S:OT ZI/t0 Ott 
+00'0 
+00'0 
+I 
+M ID INOONI 
+AdZS'OT LL/60 69t 
+00'0 
+00'0 
+OT 
+M Id NO4A06 
+WdEt,OL ZI/t0 891 
+00'0 
+00'0 
+t 
+A Id WIWI X 
+WaIDZ,60 ZI/O0 LOT 
+00'0 
+00'0 
+Z 
+Id AlVd 
+NdCi:£O Zt/60 991 
+00'0 
+00'0 
+I 
+A 10 IWOONI 
+Ad6E,Ot II/I0 SOT 
+00'0 
+00'0 
+E 
+N 10 3310A 
+Md9E;OT IT/t0 t9t 
+00'0 
+00'0 
+I 
+M 13 3310A 
+1656E:Ot TI/t0 EIT 
+00'0 
+00'0 
+Ot 
+A Id NIVd N 
+Ad9S:40 It/I0 Z92 
+00'0 
+00'0 
+A 13 INOONI 
+NdS0:10 TT/10 T9T 
+00'0 
+00'0 
+t 
+A 13 MOON! 
+WdZO:VO It/t0 091 
+00'0 
+00'0 
+A 10 12000NI 
+Adt0:tt It/I0 651 
+00'0 
+00'0 
+A ID INOONI 
+Wd60;ZI IT/I0 BSI 
+00'0 
+00'0 
+Z 
+A 13 IWOONI 
+It/t0 LSt 
+00'0 
+00'0 
+Z 
+A 13 INOONI 
+WILIO,ZI II/40 IST 
+00'0 
+00'0 
+t 
+13 IWOONI 
+AWS,TI IT/V0 SST 
+00'0 
+00'0 
+I 
+X 73 INODNI 
+AV95;tt II/00 PSI 
+00'0 
+00'0 
+£ 
+X 70 IWOONI 
+IT/I.0 EST 
+00'0 
+00'0 
+I 
+N IA WlYd 
+AVIE,TI TT/60 ZST 
+00'0 
+00'0 
+N 14 WrIV4 A 
+WW60:t1 IT/60 SST 
+00'0 
+00'0 
+t 
+70 IWOONI 
+MVIC:OI It/t0 OSt 
+00'0 
+00'0 
+N 1d MIVd 
+NifEE:OI II/t0 Ott 
+00'0 
+00'0 
+Z 
+N 10 INOONI 
+MV00,80 it/40 Ott 
+00'0 
+00'0 
+t 
+N Id 'ma 
+WV00:80 Tt/60 LIT 
+00'0 
+00.0 t 
+A Id Nava 
+WVIS:LO IT/10 III 
+00'0 
+00.0 
+I 
+A Id Wild 
+NVZS,60 IT/t0 Sin 
+00'0 
+00'0 
+A ID INOONI 
+HVCI:t0 Tt/t0 III 
+00'0 
+00'0 
+t 
+A 13 INOONI 
+N1[IZ:£0 TT/10 EIS 
+00'0 
+00'0 
+N 7d Wild 
+WW62:t0 II/10 LIT 
+00'0 
+00'0 
+I 
+A Id 1411d 
+NW/2:EO II/t0 III 
+00'0 
+00'0 
+I 
+A Id Nava 
+XYLT:E0 TI/t0 Ott 
+00'0 
+00'0 
+I 
+N Id MTN 
+14191:10 11/60 6£i 
+00'0 
+00'0 
+Z 
+A 73 1140]441 
+NY£L:£0 TI/I0 
+00'0 
+00'0 
+Z 
+N 70 IWOONI 
+tazt:zo TT/00 LET 
+It00i 
+'a•TO 
+•m2S 
+ti•O d d 
+P•livO 
+P•LSIO 'ON ID 
+own •ava MaI 
+8001 
+ITV 
+JO 
+A113 
+8801/1113 
+zgormom /0201 
+:a•en siview 
+Ingstmg army/ 
+;s4ed aurtt;tl 
+'A•gWON aunopoig 
+c6vd 
+1125u•1 
+8802MHO 2ONVISIG 04401 diff 8MILVIV 
+EFTA01715594

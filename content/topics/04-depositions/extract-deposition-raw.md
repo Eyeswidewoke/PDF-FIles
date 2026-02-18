@@ -1,0 +1,1074 @@
+# ⚖️ Deposition-Raw
+> **Category:** Depositions
+> **Source:** `04-DEPOSITIONS/extract-deposition-raw.txt`
+> **Lines:** 1,041
+> **Generated:** 2026-02-12T11:12:01
+
+## 🏷️ Tags
+`legal` · `deposition-raw` · `clinton` · `epstein` · `maxwell` · `dershowitz` · `acosta`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Maxwell](../cast/profiles/maxwell.md) | 264 |
+| [Epstein](../cast/profiles/epstein.md) | 55 |
+| [Giuffre](../cast/profiles/giuffre.md) | 5 |
+| [Acosta](../cast/profiles/acosta.md) | 3 |
+| [Clinton](../cast/profiles/clinton.md) | 2 |
+| [Dershowitz](../cast/profiles/dershowitz.md) | 1 |
+
+## 🔑 Keywords
+
+`FBI` · `Is a court reporter present when a deposition 
+Q.` · `New York` · `Palm Beach` · `Q.` · `and` · `deposition` · `excerpt from the same deposition?` · `excerpts of the transcript of that deposition?` · `investigation` · `prosecution` · `same deposition?` · `subpoena` · `testimony` · `witness`
+
+## Full Extract
+
+```
+sworn testimony in a civil deposition in connection with a 
+is a deposition? 
+deposition under oath where they testify about the substance 
+Q. And is deposition testimony live and in person and 
+Q. Is a court reporter present when a deposition 
+Q. Now before we talk about Maxwell's deposition 
+Q. Turning back to the deposition. Did Maxwell's 
+deposition take place over two different days? 
+Q. Is that where the deposition took place? 
+excerpts of the transcript of that deposition? 
+of the transcript of the first deposition that took place on 
+this another excerpt from that same deposition? 
+of the transcript from the deposition that took place on 
+deposition? 
+same deposition? 
+Q. Have you reviewed the deposition transcript -- 
+from the same deposition? 
+28, is this also an excerpt from the same deposition? 
+the civil case in which Maxwell gave deposition testimony on 
+deposition testimony on July 22nd, 2016, under the same 
+that exhibit contains the first page of the deposition 
+transcript from the July 22nd, 2016 deposition that Maxwell 
+perjury count for the July 22nd, 2016 deposition, the docket 
+April 22, 2016 Deposition 
+Videotaped deposition of GHISLAINE 
+July 22, 2016 Deposition 
+Continued Videotaped Deposition of 
+sworn testimony in a civil deposition in connection with a 
+is a deposition?" 
+deposition, under oath, where they testify about the 
+Q. "And is deposition testimony live, and in-person, 
+oP "Is a court reporter present when a deposition 
+Q. "Now before we talk about Maxwell's deposition 
+oath. Turning back to the deposition, did Maxwell's 
+deposition take place over two different days?" 
+Q. "Is that where the deposition took place?" 
+excerpts of the transcript of that deposition?" 
+of the transcript of the first deposition that took place on 
+this another excerpt from that same deposition?" 
+page of the transcript from the deposition that took place 
+deposition?" 
+same deposition?" 
+Q. “Have you reviewed the deposition transcript?" 
+excerpt from the same deposition?" 
+Page 28. Is this also an excerpt from the same deposition?" 
+Was she deposed, as part of that law suit, in 
+Have you reviewed a transcript of that deposition? 
+During that deposition in 2009 did iz state 
+deposition? 
+After that deposition did the law suit settle? 
+admit that she lied during her 2009 deposition? 
+QO. Now, during her 2009 deposition was — asked 
+deposition? 
+prostitute, during her deposition? 
+8. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+April 22, 2016 Deposition 
+Videotaped deposition of GHISLAINE 
+July 22, 2016 Deposition 
+Continued Videotaped Deposition of 
+sworn testimony in a civil deposition in connection with a 
+is a deposition? 
+deposition under oath where they testify about the substance 
+Q. And is deposition testimony live and in person and 
+Q. Is a court reporter present when a deposition 
+Q. Now before we talk about Maxwell's deposition 
+Q. Turning back to the deposition. Did Maxwell's 
+deposition take place over two different days? 
+Q. Is that where the deposition took place? 
+excerpts of the transcript of that deposition? 
+of the transcript of the first deposition that took place on 
+this another excerpt from that same deposition? 
+of the transcript from the deposition that took place on 
+deposition? 
+same deposition? 
+Q. Have you reviewed the deposition transcript -- 
+from the same deposition? 
+28, is this also an excerpt from the same deposition? 
+a, In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+deposition was taken, do hereby certify that the witness 
+form; that said deposition is a true record of the testimony 
+this deposition was taken; and, further, that I am not a 
+10. Depositions 
+Requests for Depositions for state matters, both civil and 
+All deposition requests must be made in writing and include the 
+deposition; 
+(5) Expected length of deposition; 
+interviews, depositions, inspections, etc. Include all federal, state or local U.S. officials who 
+travel (e.g., interviewing witnesses, taking depositions, etc.). 
+| Q35: Please list the names and nationalities of persons to be interviewed or deposed, including 
+| Q37: Is a host country government official to be deposed or interviewed? Please provide name, 
+interviews, depositions, inspections, etc. Include all federal, state or local U.S. officials who 
+travel (e.g., interviewing witnesses, taking depositions, etc.). Include the dates and times of the 
+Q43: Names of persons to be interviewed or deposed, including dates of birth, nationality and 
+Q44: Provide confirmation that the interviews or depositions are voluntary and provide the 
+Q47: If a Canadian government official is to be deposed or interviewed, provide name, title, and 
+longer had a basis to assert his Fifth Amendment rights, Mr. Cosby testified at several depositions 
+4/22/16 deposition 
+7/22/16 Deposition 
+16 answered in her previous deposition, by 
+The facts, as culled from affidavits, exhibits, depositions, answers to interrogatories and 
+attorney for one of Epstein’s victims who had been subpoenaed to appear at a deposition. The email 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+8. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+statements that are directly contradictory to Maxwell’s previous sworn depositions including that Epstein was not 
+Subject: FW: Ghislaine Maxwell Deposition Transcript in slip and fall case (readers digest version) 
+Subject: Ghislaine Maxwell Deposition Transcript in slip and fall case (readers digest version) 
+Ghislaine Maxwell Deposition Transcript in slip and fall case (readers digest version) 
+US NEWS: https://www.usnews.com/news/top-news/articles/2020-10-13/ghislaine-maxwell-to-urge-us-appeals-court-to-keep-damaging-deposition-secret 
+I’m told Maxwell was deposed in hl ase. And | note oc 0U0Uti(ité‘a defendants. 
+responses to requests for admission, deposition testimony, and other 
+Whenever a deposition involves the disclosure of CONFIDENTIAL 
+INFORMATION, the deposition or portions thereof shall be designated as 
+Order. Such designation shall be made on the record during the deposition 
+whenever possible, but a party may designate portions of depositions as 
+the contents of the deposition outside the limitations of this Protective Order. 
+B. Maxwell’s April and July 2016 depositions ................ccccsssssessessessenssssssessssssessessessenneasense 4 
+Counts Five and Six allege that Maxwell committed perjury during two civil depositions 
+discovery material (including the two Maxwell depositions) with anyone else, including with the 
+Order, on which Maxwell relied in agreeing to sit for her depositions. This Court therefore has 
+deposition transcripts and the two perjury counts based on those transcripts. If the Court is 
+perjury during two civil depositions taken in = v. Maxwell, a civil defamation case = 
+productions, many responses to interrogatories, and thirty-some depositions, including 
+depositions of ee a] and Maxwell as well as several third parties. See Brown v. Maxwell, 929 
+B. Maxwell’s April and July 2016 depositions 
+2016 deposition. In that deposition, la attorneys asked Maxwell whether “Jeffrey Epstein 
+Following the deposition, i moved to compel Maxwell to answer additional 
+second deposition, in July 2016, and answered hundreds of pages worth of questions about her 
+when she testified during her July 2016 deposition that: (1) she could not recall whether sex toys 
+information, including her deposition transcripts. Boies Schiller refused. Instead, and 
+the government, including both of Maxwell’s deposition transcripts. 
+deposed in the case. The prosecutor defended the subpoena’s breadth—which sought all “copies 
+was deposed, and that is in marked contrast to some of the other cases. 
+depositions, David Boies himself apparently approached the government in the summer of 2016, 
+Schiller’s files, and that for all he knows every witness who was deposed stood on 
+file, including Maxwell's two deposition transcripts. 
+This case illustrates just how crucial a protective order is. The Maxwell depositions 
+these intrusions and ordering Maxwell to sit for a second deposition. Maxwell likewise relied on 
+approached his office, both before and after the Maxwell depositions, in an effort to stir up a 
+criminal prosecution and dangled the deposition transcripts as a carrot, then suppression would 
+2016 depositions and all evidence derived therefrom; and (3) dismiss Counts Five and Six. 
+examined extensive publicly available information, including depositions, pleadings, orders, and 
+such as documents and depositions are not likely to include the kind of confidential business 
+that the government could not meet its burden of showing need for deposition testimony until it 
+witnesses deposed, see 594 F.2d at 293, and of pre-existing documents collected or produced in 
+examined extensive publicly available information, including depositions, pleadings, orders, and 
+10. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+subpoena for a deposition. It is scheduled for Monday. 
+attempting to take her deposition and private investigators were harassing her. Assistant U.S. 
+assist Jane Doe #1 in avoiding the improper deposition. AUSA Villafafia secured pro bono 
+Epstein is now subpoenaing victims for depositions who are not included in the state indictment. (Under Florida 
+also that Epstein is using the state criminal case to subpoena depositions of victims in the federal case (who are not part of 
+Ea deposition in accordance with state procedure in 
+depositions of victims in the federal case (who are not part of the state indictment) to get information about our 
+Epstein is now subpoenaing victims for depositions who are not included in the state indictment. (Under Florida 
+depositions in this matter. Ms. Belohlavek, and the SAO, is likewise well familiar with the breadth 
+EE Tr. (deposition) at 32. 
+= Tr. (deposition) at 36. 
+and Mr. Epstein did not engage in sex of any kind. Tr. (deposition) at 24. She further 
+telephone, not over the Internet, not at all. pe eat) Tr. (deposition) at 31-32. These are not facts 
+ee ay was clear on this point at her deposition during which she repeatedly testified that 
+to persuade her to engage in sexual activity with Mr. Epstein. Tr. (deposition) at 31-32. 
+(deposition), p. 30. 
+See Tab 13, Tr. (deposition), p. 37 (“Q. So you told Jeff that you 
+in an Internet chat room with her. See Tab 13, i | Tr. (deposition), 
+activity with Mr. Epstein.” See Tab —— Tr. (deposition), p. 24- 
+aa Tr. (deposition), p. 31. 
+Tr. (deposition), p. 31. 
+attempting to take her deposition and private investigators were harassing her. Assistant U.S. 
+assist Jane Doe #1 in avoiding the improper deposition. AUSA Villafafia secured pro bono 
+criminal deposition), (through a federal FBI-USAO sworn and transcribed 
+her deposition and private investigators were harassing her. Your Affiant secured pro bono counsel to 
+avoiding the improper deposition. That pro bono counsel did not express to your Affiant that J 
+13 | depositions, can we take this legal position with regard to 
+11 How do we do a deposition of a third party? We wanted 
+12} to take the deposition of Jane Doe 4. Well, who is she? Well, 
+22]) noticed depositions or not in this case, but if you've sent 
+23} notice of taking deposition, if you sent requests for 
+20]) wants to move to take depositions, interrogatories, production, 
+12} taking depositions, because he's pursuing discovery, because 
+20] taking depositions and he's breaching the agreement by issuing 
+24) out a notice of deposition of one of your clients, how is he 
+al However, if they start taking depositions regarding 
+25] that, of course, he would be entitled to depositions; of 
+20]/ entitled to take the deposition of a plaintiff and to subpoena 
+17} of violating because, again, you take depositions, you send out 
+16]} notice of deposition, he's harassing the plaintiffs. I don't 
+deposition | 1:11,12 
+depositions 10:13 
+- deposition says, in sum and substance, was ordered to, but doesn’t appear to say that anything actually happened 
+Amendment and refused to testify when civilly deposed, respectively, in 
+relevant deposition transcripts. 
+responses to requests for admission, deposition testimony, and other 
+Whenever a deposition involves the disclosure of CONFIDENTIAL 
+INFORMATION, the deposition or portions thereof shall be designated as 
+Order. Such designation shall be made on the record during the deposition 
+whenever possible, but a party may designate portions of depositions as 
+the contents of the deposition outside the limitations of this Protective Order. 
+Manhattan, a former agency bookkeeper said in a 2010 deposition in a civil case. L Brands has employed models from MC2 over the years. 
+| wanted to alert you to a recent development. [J was recently served with a subpoena for a deposition in Melissa 
+US NEWS: https://www.usnews.com/news/top-news/articles/2020-10-13/ghislaine-maxwell-to-urge-us-appeals-court-to-keep-damaging-deposition-secret 
+and any other evidence derived therefrom; or (2) suppress the April and July 2016 depositions 
+of Maxwell’s deposition testimony. Indeed, under the plain terms of the Protective Order, 
+conclusion of the case, including Maxwell’s deposition transcripts refused to do 
+privacy in her deposition transcripts. 
+In Martindell, the government tried to obtain deposition transcripts of twelve individuals 
+deposed in a private shareholders’ derivative lawsuit. 594 F.2d at 292-93. All twelve depositions 
+were taken “pursuant to a court-approved stipulation to the effect that the depositions should be 
+called and then wrote to the district court to request access to the deposition transcripts. Jd. at 
+293. The government claimed that the deposition transcripts were relevant to its investigation of 
+Chile. /d. The government, “moreover, feared that unless it could obtain the deposition 
+government’s request, “holding that the deposition testimony had been given in reliance upon the 
+to subpoena the deposition transcripts for use in a pending proceeding such as a 
+subpoena issued to a court reporter for a transcript of a deposition offered by the defendant in a 
+time of his deposition) was deposed and did not invoke his Fifth Amendment privilege against 
+subpoena and refused to release the deposition transcript because the “government [had] not 
+Here, as in Oshatz, Maxwell was deposed on “the understanding that a protective order 
+indicted at the time of her depositions, the threat of an investigation was obvious, and that threat 
+2016 depositions and all evidence derived therefrom; and (3) dismiss Counts Five and Six. 
+other similarly-situated victims, Maxwell was served with a subpoena for deposition. Her 
+21. To avoid her deposition, Maxwell claimed that her mother fell deathly ill and that 
+- Inthe MM folder, there’s a transcript of a deposition of Mark Epstein. Could you please move that into a 
+- Inthe MM folder, there’s a transcript of a deposition of Mark Epstein. Could you please move that into a 
+- Inthe MM folder, there’s a transcript of a deposition of Mark Epstein. Could you please move that into a 
+any third parties), debriefing, “queen for a day” session, proffer, deposition, or 
+Depositions 
+both of those offenses, and perjury in connection with a sworn deposition. 
+depositions in 2016. Maxwell is expected to be presented this afternoon in federal 
+calls with the other parties concerning setting depositions and case deadlines. Moreover, even 
+taking part in the questioning of witnesses at depositions while at the same time silently hiding 
+scheduling depositions, conferring several times with counsel for Plaintiff and the Epstein Estate, 
+Subject: RE: 12/04/09 J. vs Epstein Deposition Transcript 
+Thanks for your email. We will likely reach out to your adversary in the deposition to ask for a copy, but | wanted to check 
+Subject: Fwd: 12/04/09 I. vs Epstein Deposition Transcript 
+The email exchange below confirms our inability to locate the first volume of J deposition. However, attached are 
+fairly detailed notes of Paralegal/Investigator MM, who attended the deposition and recorded these notes 
+Subject: FW: 12/04/09 I. vs Epstein Deposition Transcript 
+notes from that deposition. 
+Subject: RE: 12/04/09 J. vs Epstein Deposition Transcript 
+I have searched our records and archives and I am unable to locate Volume I of this deposition from 
+Subject: Re: 12/04/09 |. vs Epstein Deposition Transcript 
+would govern disclosing materials from the civil case with us? When you shared the deposition, we assumed there were 
+Subject: Re: 12/04/09 J. vs Epstein Deposition Transcript 
+Thanks for your email. We will likely reach out to your adversary in the deposition to ask for a copy, but |! wanted to check 
+Subject: Fwd: 12/04/09 J. vs Epstein Deposition Transcript 
+The email exchange below confirms our inability to locate the first volume of [J deposition. However, attached are 
+fairly detailed notes of Paralegal/Investigator Mike Danchuk, who attended the deposition and recorded these notes 
+Subject: FW: 12/04/09 I. vs Epstein Deposition Transcript 
+Danchuk’s notes from that deposition. 
+Subject: RE: 12/04/09 J. vs Epstein Deposition Transcript 
+I have searched our records and archives and I am unable to locate Volume I of this deposition from 
+8. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+in deposition in civil litigation rather than stay silent which is a good illustration of her 
+| | Een has previously testified in state court and has been deposed in the course of federal 
+I didn’t realize Maxwell’s deposition is being unsealed in the litigation before Judge Preska. Is that right? | saw 
+depositions, and (2) court submissions excerpting from, quoting 
+provide compelling reasons for keeping the deposition transcripts 
+decision with respect to Ms. Maxwell’s deposition, together with 
+and Doe 1’s deposition transcripts and any sealed or redacted order 
+deposition transcripts for two business days, i.e., through 
+or disclose information from those deposition transcripts shall be 
+Doe 1’s deposition transcripts and any sealed materials that quote 
+for a protective order as suggested by deponents’ counsel, that the depositions contain hearsay 
+a discovery deposition question or answer is not admissibility at trial, nor is admissibility at trial 
+the test for entry of the depositions into the public domain.”). 
+submissions appear to be much broader and include deposition transcripts, a “Flight Log Summary 
+deposition transcript. This case concerns allegations of sexual assault and trafficking of 
+e There is no support for Ms. Maxwell’s claims that the third-party depositions are 
+Ms. Maxwell claims that the third-party depositions are unreliable and inadmissible. Again, 
+“have been a straightforward request by Plaintiff to exceed the presumptive 10 deposition limit set 
+deposition testimony, that would be a huge help as well: 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+(located in 1A Sec. 11, FDPS pg. 83 on Video 3:26:21 2/17/2010 deposition of Jeffrey Epstein vs. Jeffrey 
+litigation materials, including, and related to, Maxwell’s April 2016 deposition transcript. She argues 
+that the District Court abused its discretion in ordering the unsealing of the deposition materials. 
+Specifically, she argues that there is a lower presumption of access to the deposition materials at 
+the deposition materials. While “the presumption of public access in filings submitted in connection 
+dismissal or summary judgment,” the District Court correctly held that the deposition materials are 
+depositions, and (2) court submissions excerpting from, quoting 
+provide compelling reasons for keeping the deposition transcripts 
+decision with respect to Ms. Maxwell’s deposition, together with 
+and Doe 1’s deposition transcripts and any sealed or redacted order 
+deposition transcripts for two business days, i.e., through 
+or disclose information from those deposition transcripts shall be 
+Doe 1’s deposition transcripts and any sealed materials that quote 
+3. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+could account for his whereabouts during the trip from 2003 to 2005. They appeared for sworn depositions on 
+who could account for his whereabouts during the trip from 2003 to 2005. They appeared for sworn depositions 
+2016, the defendant gave deposition testimony in connection with a civil lawsuit in the Southern 
+District of New York. During the deposition, the defendant was asked questions about her role in 
+cases related to Epstein in the Southern District of New York and has sat for depositions in 
+Ms. Maxwell and others, and to provide deposition testimony and discovery in those suits; and to 
+her deposition, which is currently subject to the Second Circuit's stay. 
+Given the Second Circuit’s stay concerning Ms. Maxwell and Doe 1's deposition 
+Doe | and 2 chronology (given that Doe 1’s deposition is sprinkled throughout those motions) 
+e 231 -— Defendant’s Motion to Reopen Deposition of Plaintiff ay 
+Criminal Case In-person Deposition and/or Trial 
+Non-working travel time is billed at half of the hourly deposition/trial rate, from portal to portal. There is a one-hour 
+A flat rate of $1,500 is incurred when scheduled meetings, depositions, and/or trial dates are cancelled within 
+2/17/2010 deposition of Jeffrey Epstein . vs. Jeffrey 
+8. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+submitted to a deposition in reliance on the Protective Order; she also was compelled to — and 
+did — sit for a second deposition in July 2016. A year later and literally days before trial, the 
+April 2016 deposition transcript and the deposition transcript of John Doe 1. On July 30, 2020, 
+unsealing of Ms. Maxwell’s deposition on July 23 and denied Ms. Maxwell’s motion to 
+deposition (among thousands of other confidential and sealed materials that were protected under 
+John Doe 1|’s deposition transcripts. The Court ordered an expedited briefing schedule. Ms. 
+approximately 5,000 pages of material in the civil matter including her deposition, the 
+conceal her conduct” by “repeatedly provid[ing] false and perjurious statements” in deposition 
+might well decline to unseal Ms. Maxwell’s depositions if she knew how the government 
+Second, following the revelation that the government had already obtained her deposition 
+pleadings and exhibits, which include Ms. Maxwell’s July 2016 deposition, also sealed and a 
+deposition to Judge Preska. 
+' Dr. Rocchio has previously testified in state court and has been deposed in the course of federal 
+subpoena the deposition transcripts for use in a pending proceeding such as a grand jury 
+Maxwell’s two deposition transcripts, Resp. at 94 & n.41. And as to Count 6 in particular 
+(alleging perjury in the July 2016 deposition), the government concedes, as it must, that Judge 
+would have obtained all 90,000 pages of material from Boies Schiller when the two deposition 
+with Boies Schiller in the months before and after Maxwell’s depositions, there is at least a 
+months before Maxwell’s first deposition. If the government was contemplating a perjury 
+promised to send the government “depositions,” Reply ISO Mot. to Suppress, Ex. J, p 8, and 
+The record in the Giuffre case preceding the first deposition supports this conclusion as 
+deposition, that Giuffre disclose any alleged “on-going criminal investigation by law 
+The day before Maxwell’s April 2016 deposition, however, Judge Sweet ordered that 
+Giuffre produced no such materials, and the deposition proceeded as scheduled the next day. 
+during that deposition and testified truthfully. 
+that Giuffre possessed in February and March 2016. Under Judge Sweet’s pre-deposition order, 
+Giuffre should have turned these documents over to Maxwell before the April 2016 deposition. 
+Maxwell was deposed “over two years before the Government opened its investigation.” Resp. at 
+deposition in a civil case for almost seven months”). Of course, this argument depends on the 
+deposition, Boies Schiller met with the government and pressed an investigation for, among 
+therefrom; or (2) suppress the April and July 2016 depositions and all evidence derived 
+Attachments: 2009-12-04, MM Deposition Vol. I.pdf; 2009-12- 
+04, EEE Deposition Vol. Il-pdf 
+with copies of all other court filings and deposition transcripts from the civil case voluntarily. The settlement agreement 
+Justices Won't Hear Request To Make Clinton Be Deposed 
+for the justices to revive its demand that Hillary Clinton face deposition over aie _ 
+Judge Nathan agreed with us that sections of the deposition transcripts that appear unredacted in the publicly filed 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Subject: Fwd: 12/04/09 i. vs Epstein Deposition Transcript 
+The email exchange below confirms our inability to locate the first volume of [J deposition. However, 
+attached are fairly detailed notes of Paralegal/Investigator MM. who attended the deposition and 
+Subject: FW: 12/04/09 . vs Epstein Deposition Transcript 
+notes from that deposition. 
+Subject: RE: 12/04/09 J. vs Epstein Deposition Transcript 
+I have searched our records and archives and I am unable to locate Volume I of this deposition from 
+depositions and other proceedings due to COVID-19. 
+. vs Epstein Deposition Transcript 
+Subject: 12/04/09 I. vs Epstein Deposition Transcript 
+On December 4, 2009, deposition of J was taken. QR) took the deposition, and 
+The deposition ended at 5:00 PM. 
+Thanks. And in either the state or federal action, has there been motion practice in which deposition transcripts 
+Yes, I believe we have all of the transcripts from all of the depositions in the Roberts v. Maxwell civil suit. They 
+Separate from [Mj - do you all have the full transcripts of the depositions? At various points ij andj have 
+She was deposed, but she invoked 5 throughout. We have the transcript, but it’s just her asserting the privilege over 
+was deposed as part of the Roberts-Maxwell litigation and, if so, do we have a transcript? 
+No problem-- here's the deposition transcript and exhibit (the set of flight records). 
+deposition testimony, that would be a huge help as well: 
+counts of perjury in connection with Maxwell’s testimony in a civil deposition. Trial is set to 
+depositions in 2016, more than eight years after Epstein signed the NPA. Maxwell now 
+her answers to questions in a deposition in a civil case. She contends that these charges are 
+were not material to the subject of the deposition. The Court concludes that the charges are 
+allegedly false statements were material to the defamation action. In a civil deposition, a 
+the jury’s ability to fairly evaluate Maxwell’s truthfulness in her deposition, a critical element of 
+deposition may be important fact witnesses on the perjury counts. Even if counsel were not 
+not overlap. In particular, materiality for statements made in a civil deposition is broad, and 
+10. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+The filing of deposition transcripts, interrogatories, and documents exchanged in 
+produced, answers to interrogatories, responses to requests for admission, deposition testimony, 
+Comm'n v. TheStreet.com, 273 F.3d 222 (2d Cir. 2001) (holding pretrial deposition testimony were not “judicial documents”); 
+deposition-discovery regime set out by the Federal Rules of Civil Procedure is an extremely 
+F.3d 141, 145 (2d Cir. 1995) (“Amodeo J ”). Likewise, the filing of “deposition transcripts, 
+them in connection with the depositions 
+GR, we have the transcript of Ms. J deposition. 
+Thanks [. !t wasn’t clear to me from the call that it was the plaintiff's deposition that you were after, as opposed to 
+Thanks for speaking earlier. The plaintiff's name is J, who is represented by Jack Scarola. The deposition 
+| | we have the transcript iim deposition. 
+Thanks mm It wasn’t clear to me from the call that it was the plaintiff’s deposition that you were after, as opposed to 
+Thanks for speaking earlier. The plaintiff’s name hii who is represented by Jack Scarola. The deposition 
+aa we have the transcript of ky deposition. 
+Thanks F | It wasn’t clear to me from the call that it was the plaintiff’s deposition that you were after, as opposed to 
+Thanks for speaking earlier. The plaintiff’s name is eo ol who is represented by Jack Scarola. The deposition 
+that the Times has a copy of all or a portion of the deposition Mr. gave in the Maxwell case, which is 
+unsealing of the summary judgment papers (which likely include references to Mr. {J deposition 
+deposition. Ifa representative did that, it is both defamatory and breaches a non-disparagement provision in the 
+corroborate certain portions of Mr. deposition. We do not have access to those flight documents, but we 
+Should you need or want a copy of Mr. {J deposition transcript in the Maxwell case, we would provide it to 
+Signed stipulation regarding deposition transcript of ey eee 
+GX-1008 — |Signed stipulation regarding deposition transcript of Ghislaine Maxwell Re 2021.11.16 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment unsealed 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Depositions 
+both of those offenses, and perjury in connection with a sworn deposition. 
+depositions in 2016. Maxwell is expected to be presented this afternoon in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+8. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+and punish its violation. Ms. Maxwell’s two deposition transcripts were designated 
+Ms. Maxwell, charging her with, among other things, perjury in her deposition testimony. 
+transcripts of Ms. Maxwell’s April 2016 deposition and Doe 1’s deposition should be unsealed 
+of her deposition, and there is a need to correct clear error or prevent manifest injustice 
+We respectfully request that the Court keep sealed Ms. Maxwell’s and Doe 1’s deposition 
+from the transcripts (“deposition material”). We do not seek unnecessary delay; however, if 
+the Court stay any unsealing of the deposition material for at least two business days to give us 
+her opinion of Ms. Maxwell’s guilt, e.g., that she was guilty of “I[ying]” in her deposition 
+by “repeatedly provid[ing] false and perjurious statements” in deposition testimony. 
+Quoting verbatim from Ms. Maxwell’s April 2016 deposition transcript, the indictment alleges 
+counsel had proper access to the transcripts of Ms. Maxwell’s deposition. The transcripts, 
+government has a copy of the transcripts from Ms. Maxwell’s April and July 2016 depositions, 
+obtain the deposition transcripts. In Martindell v. International Telephone and Telegraph Corp., 
+transcripts of depositions twelve witnesses, including some of the civil defendants. The 
+speculated that the pretrial deposition testimony might be relevant to its 
+the deposition transcripts, it would be unable to secure statements from the 
+deposition testimony had been given in reliance upon the protective order, thus rendering 
+Three, the government did not obtain a copy of the deposition transcripts from Ms. Maxwell 
+deposition and deposition material. We respectfully submit that in the event the Court finds a 
+Court any copies of the deposition transcripts and enter an order to show cause why the 
+Ms. Maxwell’s deposition. That Ms. Maxwell was under criminal investigation, the Court 
+Ms. Maxwell’s deposition transcript: The Court may take judicial notice, as Judge Nathan 
+on her answers in a deposition transcript that was subject to this Court’s Protective Order. 
+The unsealing of Ms. Maxwell’s deposition transcript would result in substantial negative 
+impartial jury,” ExH1B1T C. The public’s right of access to Ms. Maxwell’s deposition 
+4. The deposition transcripts obtained by the government and the indictment’s perjury 
+use of Ms. Maxwell’s deposition as a perjury trap. Throughout much of the first year of 
+deposition, that plaintiff disclose any alleged "on-going criminal investigation by law 
+motion. The day before Ms. Maxwell's deposition, the Court ordered that "[a]ny materials 
+Apr. 21, 2016 at 21. Plaintiff produced no such materials and Ms. Maxwell was deposed the 
+criminal investigation," she did not assert the 5th Amendment during that deposition. 
+a protective order to gain access to deposition transcripts in a civil lawsuit. As the Second 
+deposition transcripts was an abuse of discretion. It held that “a more significant 
+entire transcripts of both Ms. Maxwell’s depositions to court submissions, and leaking or 
+deposition. Ms. Maxwell requests that this Court examine the law enforcement materials 
+depositions. 
+of her objection to unsealing her deposition transcript. The first countervailing interest 
+Brown v. Maxwell protected from disclosure “deposition responses concerning intimate 
+2019). The Protective Order was entered before Ms. Maxwell’s deposition was taken; in fact 
+deposition . . . . It is that important to me.’” Doc.1073 at 8 (quoting Doc.66 at 9). The Court 
+unseal (1) the transcripts of Ms. Maxwell’s and Doe 1’s depositions, and (2) court submissions 
+|__ 3804-025 | 2076.06.02 [Deposition Exhibit 3 
+2009.12.06 |Depositiontranscript 
+3528-006 | 2010.03.15 [Deposition transcript SSCS 2021.10.11 
+calling for the release of a deposition at the heart of her case. 
+counts of perjury in connection with Maxwell’s testimony in a civil deposition. Trial is set to 
+depositions in 2016, more than eight years after Epstein signed the NPA. Maxwell now 
+her answers to questions in a deposition in a civil case. She contends that these charges are 
+were not material to the subject of the deposition. The Court concludes that the charges are 
+allegedly false statements were material to the defamation action. In a civil deposition, a 
+the jury’s ability to fairly evaluate Maxwell’s truthfulness in her deposition, a critical element of 
+deposition may be important fact witnesses on the perjury counts. Even if counsel were not 
+not overlap. In particular, materiality for statements made in a civil deposition is broad, and 
+the magistrate or the legal adviser and the answers recorded in a deposition. If the 
+from Ms. Maxwell's first seven-hour deposition. DE 144-1-7 contains 7 exhibits: 1, 2, and 4-7 are 
+excerpts from Ms. Maxwell’s deposition. Exhibit 3 contains pages from the Palm Beach Police 
+Page 2 of DE 149 contains a summary of Ms. Maxwell’s deposition testimony. DE 150-1 
+contains pages of Ms. Maxwell's deposition necessary to place Plaintiff's submission into 
+context. DE 153 is Plaintiff's reply which, again quotes from Ms. Maxwell’s deposition and 
+Maxwell’s deposition. Exhibit 2 contains a “Flight Log Summary Chart” prepared by Plaintiff's 
+unreliable deceased individual never deposed by Ms. Maxwell. Exhibits 5 and 6 concern J. Doe 1. 
+deposition testimony; DE 150-1; DE 153; and DE 153-1: Identification of 
+Ms. Maxwell’s deposition in this case. The subject matter of these DEs is extremely personal, 
+order against federal prosecutor's request for deposition transcripts”, and holding "[A] plaintiff in 
+information disclosed by witnesses in depositions because of "a strong expectation of continued 
+personal references in Ms. Maxwell’s deposition testimony excerpts. 
+life into this case and was deposed under a court-ordered guarantee that her testimony would 
+inadmissible hearsay transcripts from an unreliable deceased individual never deposed by Ms. 
+exceed the presumptive 10 deposition limit set by the Court.? It was not. Instead of simply asking 
+to exceed the presumptive limit, Plaintiff felt the urge to pack the record with deposition 
+deposition testimony from Non-Party Does.° 
+DE 172 contains multiple references to Ms. Maxwell’s deposition testimony and the 
+deposition testimony of one other Non-Party taken pursuant to the Protective Order. See pp. 2, 4-8 
+DE 172-1, exhibit 5, is an entire, 160-page, Non-Party deposition taken under the 
+page, deposition of Ms. Maxwell taken under the guarantee of the Protective Order and should 
+paragraph quoting the deposition testimony of a Non-Party taken pursuant to the Protective Order 
+DE 190 and 190-1 relate to deposition testimony by Plaintiff. Ms. Maxwell has no 
+DE 203, Plaintiff's reply, contains numerous quotes from the protected deposition 
+DE 204 and 204-1 relate to the deposition testimony of three Non-Party Does including J. 
+Protective Order. Exhibit 3 to DE 204-1 is deposition testimony taken of J. Doe | pursuant to the 
+deposition that J. Doe 1 did not want any further involvement in this matter and that J. Doe 1 was 
+These pleadings relate to Plaintiff's request for additional time to complete the depositions 
+referenced in her pleadings related to her request for more depositions. Generally, the DEs 
+reference Non-Party Does and refer in some instances to Non-Party deposition testimony taken 
+The Pleadings related to DE 230 concern the reopening of Plaintiff's deposition. 
+to Motion to Intervene; DE 185-11 are pgs. from Plaintiff's deposition; DE 185-14 are pages from 
+one of Plaintiff's lawyers’ deposition; DE 185-15 is an interview between Plaintiff and two of her 
+non-party deposition, 235-11 is a privilege log; 235-13 is an errata sheet from a deposition. 
+when she allegedly lied under oath in depositions in 2016 (§ 2). 
+examined extensive publicly available information, including depositions, pleadings, orders, and 
+2 SyrS ago deposition - uA fOr Gil 
+Counts Five and Six allege that Ms. Maxwell lied at two different depositions in this case. 
+The scope of these depositions was not limited to the 1994-1997 timeframe. On the contrary, Ms. 
+therefore directly relevant to whether she lied at these depositions. 
+statements that are directly contradictory to Maxwell’s previous sworn depositions including that Epstein was not 
+| iC I'm attaching two pages in deposition in which he refers to PBPD taking his computer back when 
+e Exhibit 2 to Motion 7 (deposition) 
+Subject: Re: 12/04/09 [. vs Epstein Deposition Transcript 
+Thanks for your email. We will likely reach out to your adversary in the deposition to ask for a copy, but | wanted to check 
+Subject: Fwd: 12/04/09 I. vs Epstein Deposition Transcript 
+The email exchange below confirms our inability to locate the first volume of [J deposition. However, attached are 
+fairly detailed notes of Paralegal/Investigator Mike Danchuk, who attended the deposition and recorded these notes 
+Subject: FW: 12/04/09 I. vs Epstein Deposition Transcript 
+Danchuk’s notes from that deposition. 
+Subject: RE: 12/04/09 J. vs Epstein Deposition Transcript 
+I have searched our records and archives and I am unable to locate Volume I of this deposition from 
+of: 2/04/09 deposition. | have requested Volume | from the Court Reporter (Prose Reporting) and will 
+locating a copy of the transcript off civil deposition. lf you haven’t been able to locate it, could you please 
+15 VIDEO-CONFERENCED AND VIDEOTAPED DEPOSITION OF 
+17 Q. Was your deposition taken in the lawsuit 
+what you have told me in this deposition. 
+19 deposition, ? 
+13 deposition. I will put it on hold for right 
+24 (Deposition was adjourned.) 
+7 report said deposition in stenotype; and that the 
+of my shorthand notes of said deposition. 
+9 I further certify that said deposition was 
+10 —_ and that the taking of said deposition was commenced 
+December, 2009, you gave your deposition in the 
+your deposition. 
+errata sheet. As you read your deposition, any 
+If you do not read and sign the deposition 
+deposition by me given, and that the statements 
+DEPOSITION OF: 
+my deposition and that it is true and correct 
+GB, we have the transcript of J deposition. 
+Thanks i. !t wasn’t clear to me from the call that it was the plaintiff's deposition that you were after, as opposed to 
+Thanks for speaking earlier. The plaintiff's name is who is represented by Jack Scarola. The deposition 
+Subject: RE: 12/04/09 J. vs Epstein Deposition Transcript 
+Subject: Re: 12/04/09 J. vs Epstein Deposition Transcript 
+that would govern disclosing materials from the civil case with us? When you shared the deposition, we assumed 
+Subject: Re: 12/04/09 J. vs Epstein Deposition Transcript 
+Thanks for your email. We will likely reach out to your adversary in the deposition to ask for a copy, but | wanted to 
+Subject: Fwd: 12/04/09 i. vs Epstein Deposition Transcript 
+The email exchange below confirms our inability to locate the first volume of [J deposition. However, attached 
+are fairly detailed notes of Paralegal/Investigator Mike Danchuk, who attended the deposition and recorded these 
+Subject: FW: 12/04/09 I. vs Epstein Deposition Transcript 
+attached Mike Danchuk’s notes from that deposition. 
+Subject: RE: 12/04/09 J. vs Epstein Deposition Transcript 
+I have searched our records and archives and I am unable to locate Volume I of this deposition from 
+deposition. The Indictment unsealed today alleges that between at least in or about 1994 
+statements in sworn depositions in 2016. 
+|| could you please save the slip-and-fall deposition here: 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+zz could you please save the slip-and-fall deposition here: 
+Attached is the deposition transcript for MY. |t’s Rule 6(e) material. If this doesn’t end up satisfying the 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment unsealed 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The 
+false statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+Mexico. In addition, as alleged, MAXWELL made several false statements in sworn depositions 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+8. In or around 2016, in the context of a deposition 
+taken an oath to testify truthfully in a deposition in 
+taken an oath to testify truthfully in a deposition in 
+¢ August 2019 — Judge Preska unsealed passages from [J May 3, 2016 deposition in which JJ named BR as person 
+witnesses or potential witnesses at the criminal trial would be subject to deposition. Accordingly, 
+potential trial witnesses in the criminal matter to depositions by civil litigants in advance of their 
+testimony on similar matters in the criminal trial; (ii) subjecting the defendant to a deposition on 
+would seek to assert her Fifth Amendment rights rather than submit to a deposition in the civil 
+action, and that depositions of other witnesses could potentially interfere with the criminal 
+preparation of written reports/affidavits/ declarations, deposition and testimony preparation, 
+Court and deposition testimony are billed in full or half-day increments at the hourly rate of 
+Payment is required at least 72 hours in advance. In the event that a deposition/ testimony is 
+opposing counsel calls for my deposition and refuses to pay according to my stated fee 
+e Review deposition transcripts for GM (keeping in mind SOL is approaching) 
+depositions, and (2) court submissions excerpting from, quoting 
+provide compelling reasons for keeping the deposition transcripts 
+decision with respect to Ms. Maxwell’s deposition, together with 
+and Doe 1’s deposition transcripts and any sealed or redacted order 
+deposition transcripts for two business days, i.e., through 
+or disclose information from those deposition transcripts shall be 
+Doe 1’s deposition transcripts and any sealed materials that quote 
+| wanted to alert you to a recent development. J was recently served with a subpoena for a deposition in 
+e Exhibit 2 to Motion 7 (deposition) 
+fees, discovery & deposition costs, transcription & translation fees, advertising & publication costs, lien & lis 
+Why Remote Depositions Are Likely Here To Stay 
+depositions just as smoothly as in-person sessions while eliminating travel, 
+US NEWS: https://www.usnews,com/news/top-news/articles/2020-10-13/ghislaine-maxwell-to-urge-us-gppeals-court-to-keep-damaging-deposition-secret 
+depositions from a settled defamation suit under seal, telling the Second 
+depositions, a Manhattan federal judge said Thursday, after counsel for 
+fees, discovery & deposition costs, transcription & translation fees, advertising & publication costs, lien & /is 
+records from the relevant time period, no presence in depositions, and most 
+interrogatories or give deposition testimony absent further_order of the Court. /d., 
+Ms. Maxwell’s sealed civil deposition testimony in v. Maxwell, 15-cv-7433. 
+civil discovery, including depositions and interrogatory compliance, may 
+person at all, and she cannot participate in any depositions. She currently has no 
+direct quotes from her civil deposition testimony that is both under seal and subject to 
+Deposition 
+written report and to provide such testimony in court or by trial deposition. In this particular case, the USAO has determined that 
+and written opinions, the signing of affidavits, giving depositions or courtroom testimony under oath and directly consulting with the 
+And the same panel just affirmed [Jj unsealing of Maxwell’s deposition, among other documents. 
+| am in Dallas for depositions, through Friday, August 23, 2019. MM is covering. 
+that the Times has a copy of all or a portion of the deposition Mr. gave in the Maxwell case, which is 
+unsealing of the summary judgment papers (which likely include references to Mr. [J deposition 
+deposition. If a representative did that, it is both defamatory and breaches a non-disparagement provision in the 
+corroborate certain portions of Mr. deposition. We do not have access to those flight documents, but we 
+Should you need or want a copy of Mr. {J deposition transcript in the Maxwell case, we would provide it to 
+e Deposition testimony on 12/11/2020 in the matter of C.C v. County of Warren et. al. 
+e Deposition testimony on 12/11/2020 in the matter of R.M. vy County of Warren, et. al. 
+e Deposition testimony on 8/23/2019 in the matter of: State of NH v. Hugh MacDonald 
+e Deposition Testimony in 2011 in the matter of Donna MacAuliffe, Plaintiff, v. Leanard 
+20 years ago); has also been deposed 
+e = Will try to find out if judge was asked to rule if testified as expert for any of her depositions 
+e Review deposition transcripts for GM (keeping in mind SS is approaching) 
+e Review deposition transcripts for GM (keeping in mind ea is approaching) 
+e *Court reporter(s) from GM depositions 
+e Review deposition transcripts for GM (keeping in mind = is approaching) 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+The facts, as culled from affidavits, exhibits, depositions, answers to interrogatories and 
+attorney for one of Epstein’s victims who had been subpoenaed to appear at a deposition. The email 
+us with copies of all other court filings and deposition transcripts from the civil case voluntarily. The settlement 
+us with copies of all other court filings and deposition transcripts from the civil case voluntarily. The settlement 
+be allowed to take six depositions of witnesses with directly relevant information concerning 
+involvement in the illegal agreement, Jane Doe | and 2 need depositions of key witnesses on this 
+depositions are necessary. Depositions will shed important light on remedial issues beyond what 
+the available documentary evidence currently reveals. One example of a subject for a deposition 
+been memorialized. A deposition will answer that and other related questions and will, Jane Doe 
+that it would expedite a resolution of this case if they were permitted to take depositions during 
+remedies in this case, Jane Doe | and 2 believe that with six depositions, they could collect the 
+interviews, depositions, inspections, etc. Include all federal, state or local U.S. officials who 
+travel (e.g., interviewing witnesses, taking depositions, etc.). 
+Q35: Please list the names and nationalities of persons to be interviewed or deposed, including 
+Q37: Is a host country government official to be deposed or interviewed? Please provide name, 
+interviews, depositions, inspections, etc. Include all federal, state or local U.S. officials who 
+travel (e.g., interviewing witnesses, taking depositions, etc.). Include the dates and times of the 
+Q43: Names of persons to be interviewed or deposed, including dates of birth, nationality and 
+Q44: Provide confirmation that the interviews or depositions are voluntary and provide the 
+Q47: If a Canadian government official is to be deposed or interviewed, provide name, title, and 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+us with copies of all other court filings and deposition transcripts from the civil case voluntarily. The settlement 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+in the case now because we are going to have depositions 
+in Utah. He will be able to handle the Colorado depositions 
+couple of weeks ago again trying to get the deposition of the 
+facilitate and move that deposition forward. That protective 
+correctly. Your ruling, because we have a deposition tomorrow 
+deposition tomorrow? 
+deposition that anybody wants to have, but they can't 
+been denied by plaintiff, her own deposition testimony in the 
+The Dershowitz deposition will be produced under the 
+deposition in Colorado already. In my view, we have disclosed 
+have noticed for deposition. 
+understand, with respect to tomorrow's deposition, they are 
+deposition tomorrow? 
+MS. McCAWLEY: Your Honor, we do have the deposition 
+Deposition Limit, JJ v. Maxwell, No. 15-cv-07433-RWS (S.D.N.Y.) (June 16, 2016) 
+confirmed through depositions and documents in the J action. 
+e The attorneys promised to send AUSA =) “affidavits and depositions” to 
+Noting that the February 29, 2016 meeting occurred before Maxwell’s two depositions 
+and (J attorneys (phone calls or even a second meeting) after Maxwell was deposed. 
+February of 2016, before Maxwell had even been deposed (unless the plan was to set a perjury 
+depositions. As reported in the Daily News, “David [Boies] was particularly frustrated by the 
+was deposed” and, for all the government knew, the deposition transcripts would show “page 
+AUSA J told Judge McMahon that, for all he knew, the deposition transcripts would 
+Maxwell had been deposed and that she had not invoked the Fifth Amendment. Ex. Q, p 1. 
+Schiller’s files, and that for all he knows every witness who was deposed stood on 
+redacted sua sponte from the summary judgment material those “deposition responses concerning 
+interest in the materials subject to the subpoena, including most especially her deposition 
+therefrom; or (2) suppress the April and July 2016 depositions and all evidence derived 
+B. Maxwell’s April and July 2016 depositions .......0.......ccccsssssssssssssssnsssssseessessessessesnennsseass + 
+Counts Five and Six allege that Maxwell committed perjury during two civil depositions 
+discovery material (including the two Maxwell depositions) with anyone else, including with the 
+Order, on which Maxwell relied in agreeing to sit for her depositions. This Court therefore has 
+deposition transcripts and the two perjury counts based on those transcripts. If the Court is 
+perjury during two civil depositions taken in = v. Maxwell, a civil defamation case 4 
+productions, many responses to interrogatories, and thirty-some depositions, including 
+depositions of ee a] and Maxwell as well as several third parties. See Brown v. Maxwell, 929 
+B. Maxwell’s April and July 2016 depositions 
+2016 deposition. In that deposition, Kt =o attorneys asked Maxwell whether “Jeffrey Epstein 
+Following the deposition, zz moved to compel Maxwell to answer additional 
+second deposition, in July 2016, and answered hundreds of pages worth of questions about her 
+when she testified during her July 2016 deposition that: (1) she could not recall whether sex toys 
+information, including her deposition transcripts. Boies Schiller refused. Instead, and 
+the government, including both of Maxwell's deposition transcripts. 
+deposed in the case. The prosecutor defended the subpoena’s breadth—which sought all “copies 
+was deposed, and that is in marked contrast to some of the other cases. 
+depositions, David Boies himself apparently approached the government in the summer of 2016, 
+Schiller’s files, and that for all he knows every witness who was deposed stood on 
+file, including Maxwell's two deposition transcripts. 
+This case illustrates just how crucial a protective order is. The Maxwell depositions 
+these intrusions and ordering Maxwell to sit for a second deposition. Maxwell likewise relied on 
+approached his office, both before and after the Maxwell depositions, in an effort to stir up a 
+criminal prosecution and dangled the deposition transcripts as a carrot, then suppression would 
+2016 depositions and all evidence derived therefrom; and (3) dismiss Counts Five and Six. 
+Deposition Limit, JJ v. Maxwell, No. 15-cv-07433-RWS (RE) (June 16, 2016) 
+confirmed through depositions and documents in the J action. 
+e The attorneys promised to send AUSA Zz “affidavits and depositions” to 
+Noting that the February 29, 2016 meeting occurred before Maxwell’s two depositions 
+and (J attorneys (phone calls or even a second meeting) after Maxwell was deposed. 
+February of 2016, before Maxwell had even been deposed (unless the plan was to set a perjury 
+depositions. As reported in the Daily News, “David [Boies] was particularly frustrated by the 
+was deposed” and, for all the government knew, the deposition transcripts would show “page 
+AUSA FY told Judge McMahon that, for all he knew, the deposition transcripts would 
+Maxwell had been deposed and that she had not invoked the Fifth Amendment. Ex. Q, p 1. 
+Schiller’s files, and that for all he knows every witness who was deposed stood on 
+redacted sua sponte from the summary judgment material those “deposition responses concerning 
+interest in the materials subject to the subpoena, including most especially her deposition 
+therefrom; or (2) suppress the April and July 2016 depositions and all evidence derived 
+and include them in the next production? Do not include the photograph of the deposition testimony on page 5. 
+Separately, just a reminder to please send us [J email on the Maxwell depositions? We're going through them 
+took Maxwell's depositions in the JJ case, Boies re-approached SDNY, I’m told. The meeting took place in August or 
+counts of perjury in connection with Maxwell’s testimony in a civil deposition. Trial is set to 
+depositions in 2016, more than eight years after Epstein signed the NPA. Maxwell now 
+her answers to questions in a deposition in a civil case. She contends that these charges are 
+were not material to the subject of the deposition. The Court concludes that the charges are 
+allegedly false statements were material to the defamation action. In a civil deposition, a 
+the jury’s ability to fairly evaluate Maxwell’s truthfulness in her deposition, a critical element of 
+deposition may be important fact witnesses on the perjury counts. Even if counsel were not 
+not overlap. In particular, materiality for statements made in a civil deposition is broad, and 
+Would you please add the attached deposition transcript for to the trial exhibits for the 
+court reporter. She thinks she may have been the reporter on a deposition or two of Jeffrey Epstein. 
+FYI, in case you haven't seen this in the files before. He’s been deposed about this before, but wanted to flag. 
+B. Maxwell’s April and July 2016 depositions ................ccccsssssessessessenssssssessssssessessessenneasense 4 
+Counts Five and Six allege that Maxwell committed perjury during two civil depositions 
+discovery material (including the two Maxwell depositions) with anyone else, including with the 
+Order, on which Maxwell relied in agreeing to sit for her depositions. This Court therefore has 
+deposition transcripts and the two perjury counts based on those transcripts. If the Court is 
+perjury during two civil depositions taken in Es v. Maxwell, a civil defamation case a 
+productions, many responses to interrogatories, and thirty-some depositions, including 
+depositions of ee a] and Maxwell as well as several third parties. See Brown v. Maxwell, 929 
+B. Maxwell’s April and July 2016 depositions 
+2016 deposition. In that deposition, la attorneys asked Maxwell whether “Jeffrey Epstein 
+Following the deposition, i moved to compel Maxwell to answer additional 
+second deposition, in July 2016, and answered hundreds of pages worth of questions about her 
+when she testified during her July 2016 deposition that: (1) she could not recall whether sex toys 
+information, including her deposition transcripts. Boies Schiller refused. 
+deposed in the case. The prosecutor defended the subpoena’s breadth—which sought all “copies 
+was deposed, and that is in marked contrast to some of the other cases. 
+depositions, David Boies himself apparently approached the government in the summer of 2016, 
+Schiller’s files, and that for all he knows every witness who was deposed stood on 
+This case illustrates just how crucial a protective order is. The Maxwell depositions 
+these intrusions and ordering Maxwell to sit for a second deposition. Maxwell likewise relied on 
+approached his office, both before and after the Maxwell depositions, in an effort to stir up a 
+criminal prosecution and dangled the deposition transcripts as a carrot, then suppression would 
+2016 depositions and all evidence derived therefrom; and (3) dismiss Counts Five and Six. 
+sealed deposition testimony. Judge Preska has ruled that certain questions and answers are 
+Motions, we limited our proposed redactions to the portions of deposition testimony that 
+2. July 2016 Deposition 
+deposition, During the deposition, the defendant acknowledged that she had engaged in “sexual 
+professed confusion—which again was not raised during the deposition itself—ignores the plain 
+deposition elsewhere discussed both sexual and professional massages. It was unclear, she 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+LAWE&CRIME: https://lawandcrime.com/high-profile/mystery-deposition-in-ghislaine-maxwell-civil-case-will-be-unsealed-on-monday/ 
+up her crimes, Maxwell lied under oath during a civil deposition, including when asked about her interactions with 
+DOJ Granted Deposition Delay In Forex-Rigging Suit 
+deposition for three months, defying protests from investors who argue that 
+Attachments:JN otice_ of Deposition - Maxwell.pdf 
+Attached please find Plaintiff, i Notice of Deposition of Ghislaine Maxwell in regards to the above- 
+PLAINTIFF (EE Novice OF DEPOSITION 
+aaa by and through her attorneys, will take the oral deposition of Defendant Ghislaine 
+agree to hold the deposition on a different date or time and/or at a different location. 
+The deposition will be taken before a duly qualified notary public or other officer 
+Procedure 28. The deposition will be recorded by video, audio, and stenographic means. The 
+deposition may be used to preserve testimony for trial, to obtain discovery, and for any other 
+of Deposition has been provided by electronic mail to all counsel of record identified below, on 
+Subject: RE: Deposition Subpoena/Notice 
+Subject: FW: Deposition Subpoena/Notice 
+Subject: Re: Deposition Subpoena/Notice 
+respect to date and location of the deposition if you make them promptly, but we do not accept that you have the 
+unilateral right to dictate anything about the deposition—your client has an obligation to appear unless the Court 
+Subject: Re: Deposition Subpoena/ Notice 
+place and timing of any deposition must be coordinated with me and agreed to by me. 
+Amendment Privilege. Accordingly, | am attaching a subpoena for her deposition and a Schedule A for documents that 
+we will need from Vs in advance of her deposition. 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+when she allegedly lied under oath in depositions in 2016 (4 2). 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+| am in Dallas for depositions, through Friday, August 23, 2019. MM is covering. 
+deposition; February 17, 2010 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment unsealed 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+- Inthe MM folder, there’s a transcript of a deposition of Mark Epstein. Could you please move that into a 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment unsealed 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The 
+false statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+up her crimes, the defendant lied under oath during a civil deposition, including when asked about her interactions with 
+deposition testimony, that would be a huge help as well: 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Depositions 
+both of those offenses, and perjury in connection with a sworn deposition. 
+depositions in 2016. Maxwell is expected to be presented this afternoon in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+Additionally Charged With Perjury in Connection With 2016 Depositions 
+conspiracy to commit both of those offenses, and perjury in connection with a sworn deposition. The Indictment 
+statements in sworn depositions in 2016. MAXWELL is expected to be presented this afternoon in the in federal 
+plaintiff in this action, directing me to produce documents and appear for a deposition. I 
+understand this declaration is being submitted in lieu of appearing for a deposition. 
+Ex-Baker McKenzie Atty To Be Deposed Over Tell-All Memo 
+federal court after a judge on Friday ordered the deposition of a former 
+Del. Justices Rip Sullivan Atty For Client's Deposition ‘Fiasco’ 
+evasive" and "flippant answers" in a deposition, garnering social media 
+13.b. Deposition Conducted by DOJ Attorney 
+14.d. Deposition 
+13.b. Deposition Conducted by DOJ Attorney 
+14.d. Deposition 
+Would one of you reach out to Theresa Acosta, the court reporter for Maxwell’s deposition, and ask her to come to the 
+Would one of you reach out to Theresa Acosta, the court reporter for Maxwell's deposition, and ask her to come to the 
+Would one of you reach out to Theresa Acosta, the court reporter for Maxwell’s deposition, and ask her to come to the 
+example, many filing fees and depositions costs are Joint Expenses that will often significantly benefit 
+deposition are Individual Expenses that will often significantly benefit only one client. 
+include court fees; jury fees; service of process charges; court and deposition reporters’ fees; 
+messenger and other delivery fees; postage; deposition costs; reasonable travel expenses including 
+fees, deposition costs, and travel expenses, while some costs, such as individual psychological 
+I'm walking into take a deposition now in JPM. Today 
+me to believe the Maxwell deposition is likely to be unsealed. It will be interesting to see what's in there--among other 
+I’m writing re the summons to appear in this case. Do I need to appear or can it be a zoom deposition? 
+the civil case in which Maxwell gave deposition testimony on 
+deposition testimony on July 22nd, 2016, under the same 
+that exhibit contains the first page of the deposition 
+transcript from the July 22nd, 2016 deposition that Maxwell 
+perjury count for the July 22nd, 2016 deposition, the docket 
+depositions of the victim; 
+deposition 
+```
+
+---
+
+*Full extract: `04-DEPOSITIONS/extract-deposition-raw.txt`*

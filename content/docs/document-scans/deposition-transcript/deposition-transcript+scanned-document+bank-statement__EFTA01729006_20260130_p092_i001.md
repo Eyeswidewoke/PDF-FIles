@@ -1,0 +1,314 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01729006_20260130_p092_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 630
+confidence: 1.00
+extracted: 2026-02-13T16:53:14.587431
+---
+
+Sage 
+11 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile Oser: 
+Total Mobileet 
+AIRTIME AND LONG DISTANCE CHARGES 
+Ito Date 
+Time 
+CL 
+City 
+No. Called 
+Called 
+F P 
+Length 
+of 
+Call 
+ 
+CHARGES 
+Air 
+Long 
+Time 
+Dist. Total 
+305 04/24 09:391M4 
+W PALM FL N N 
+1 
+0.00 
+0.00 
+306 04/24 10:42PM 
+INCOMI CL N N 
+1 
+0.00 
+0.00 
+307 04/24 10:59PM 
+INCOMI CL N N 
+2 
+0.00 
+0.00 
+308 04/24 11:20PM 
+INCONI CL N N 
+2 
+0.00 
+0.00 
+309 04/24 11:40PM 
+W PALM FL N N 
+1 
+0.00 
+0.00 
+320 04/24 12:40PM 
+W PALM FL W N 
+2 
+0.00 
+0.00 
+311 04)24 11:45PM 
+INCOMI CL W N 
+3 
+0.00 
+0.00 
+312 04/25 12:11AM 
+W PALN'FL W N 
+1 
+0.00 
+0.00 
+312 04/25 12:13AM 
+W PALM FL W N 
+1 
+0.00 
+0.00 
+314 04/25 12:33AM 
+W PALM FL N N 
+2 
+0.00 
+0.00 
+315 04/25 12:46AM 
+W PALM FL N N 
+2 
+0.00 
+0.00 
+316 04/25 12:52AM 
+W PALM FL W N 
+1 
+0.00 
+0.00 
+317 04/25 12:54AM 
+VOICE CZ M N 
+1 
+0.00 
+0.00 
+318 04/25 01:21AM 
+W PALM FL N 14 
+1 
+0.00 
+0.00 
+319 04/25 01:44AM 
+W PALM FL N N 
+1 
+0.00 
+• 
+0.00 
+320 04/25 01:45AM 
+W PALM FL N N 
+1 
+0.00 
+0,00 
+321 04/25 01:57AM 
+W PALM FL 11 N 
+1 
+0.00 
+0.00 
+322 04/25 02:00AM 
+INCOMI CL N N 
+1 
+0-00 
+0.00 
+323 04/25 02:05AM 
+VOICE CL N 11 
+1 
+0.00 
+0.00 
+324 04/25 02:07AM 
+W PALM FL 11 N 
+1 
+0.00 
+0.00 
+' 325 04/25 02:37AM 
+INCCM/ CL N N 
+2. 0.00 
+0.00 
+326 04/25 09:24AM - 
+W PALM FL N N 
+1 
+0.00 
+0.00 
+327 04/25 09:55AM 
+W PALM rswp 
+1 
+0.00 
+0.00 
+328 04/25 09:56AM 
+VOICE CL W !I 
+2 
+0.00 
+D.00 
+329 04/25 09:59AM 
+VOICE CL N N 
+2 
+0.00 
+0.00 
+120 04/25 10:01AM 
+/WM YO NY W N 
+1 
+0.00 
+0.00 
+331 04/25 10:02AM 
+W PALM FL W N 
+1 
+0.00 
+0.00 
+332 04/25 10:06AM 
+Incomi CL N N 
+1 
+0.00 
+0.00 
+233 04/25 10:0SAM 
+INCOMI a N N 
+2 
+0.00 
+0.00 
+334 04/25 10:2SAM 
+NEW YO NY N 14 
+1 
+0.00 
+0.00 
+335 04/25 10:27AM 
+INCOMI CL N N 
+1 
+0.00 
+0.00 
+336 04/25 12:10PM 
+W PALM FL N N 
+2 
+0.00 
+0.00 
+337 04/25 12:10PM 
+INCOME CL W N 
+2 
+0.00 
+0.00 
+330 04/25 12:17PM 
+W PALM FL 14 N 
+A 
+0.00 
+0.00 
+129 04/25 12:19PM 
+W PALM FL N V 
+1 
+0.00 
+0.00 
+340 04/25 12:23PN 
+W PALM FL N N 
+1 
+0.00 
+0.00 
+341 04/25 12:41PM 
+W PALM FL W N 
+1 
+0.00 
+0.00 
+342 04/25 12:42PM 
+W PALM PL W 14 
+1 
+0.00 
+0.00 
+343 04/25 12:56PM 
+W PALM FLAW N' 
+.2 
+0.00 
+0.00 
+344 04/25 01:23PM 
+W PALM FL N. N 
+1 
+0.00 
+0.00 
+345 04/25 01:30PM 
+W PALM FL MN 
+1 
+0.00 
+0.00 
+346 04/25 01:40PM 
+W PALM FL N 0 
+1 
+0.00 
+0.00 
+347 04/25 01:46PN 
+INCCMI CL N N 
+2 
+0.00 
+0.00 
+348 04/25 01:50PM 
+W PALM FL N N 
+1 
+0.00 
+0.00 
+349 04/25 01:54PM 
+W PALM FL E N 
+1 
+0.00 - 
+0.00 
+350 04/25 02:30PM 
+INCOMi a N N 
+4 
+0.00 
+0.00 
+351 04/25 02:45PM 
+W PALM FL W N 
+1 
+0.00 
+0.00 
+352 04/25 02:47PN 
+W PALM FL W N 
+1 
+0.00 
+0.00 
+353 04/25 02147PM 
+VOICE -CL NIL 
+2 
+0.00 
+0.00 
+354 04/25 03;3717M 
+W PALM FL N N 
+7 
+0.00 
+0.00 
+355 04/25 05:06PM 
+NEW YO NY W V 
+4 
+0.00 
+0.00 
+356 04/25 05:10PM 
+INCOMI CL W N 
+1 
+0.00 
+0.00 
+357 04/25 05:22PM 
+new YO wr w W 
+1 
+0.00 
+0.00 
+358 04/25 07110/74.
+BOYTON FL W N 
+5 
+0.00 
+0.00 
+159 04/25 07:54PM 
+BAYTON FL W N 
+1 
+0.00 
+0.00 
+360 04/25 08:15PM 
+INCOME CL N N 
+1 
+0.00 
+0.00 
+EFTA01729097

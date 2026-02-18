@@ -1,0 +1,371 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FINANCIAL INTELLIGENCE | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --bg:#0f1218;--surface:#171c24;--surface-2:#1f2631;--border:#2d3643;
+      --text:#e8edf4;--muted:#92a0b4;--accent:#2e7d32;--accent-2:#66bb6a;
+      --warn:#e6a817;--good:#2caa71;--bad:#c62828;
+      --sans:'Space Grotesk',system-ui,sans-serif;--mono:'IBM Plex Mono',monospace;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--sans);background:radial-gradient(circle at 10% 0%,#111a14 0%,#0f1218 55%);color:var(--text);line-height:1.6;min-height:100vh}
+    a{color:var(--accent-2);text-decoration:none}a:hover{text-decoration:underline}
+    .back-link{display:inline-block;margin:1rem;padding:.5rem 1rem;border:1px solid var(--border);border-radius:.5rem;color:var(--muted);font:600 .78rem var(--mono);transition:all .2s}
+    .back-link:hover{color:var(--accent-2);border-color:var(--accent-2);text-decoration:none}
+    .hero{padding:2.5rem 1.5rem 1.5rem;text-align:center;border-bottom:2px solid var(--accent);background:linear-gradient(170deg,#0d150f 0%,#111d16 45%,#0f1218 100%)}
+    .hero h1{font-size:clamp(1.8rem,4vw,2.8rem);letter-spacing:.04em;font-weight:700;background:linear-gradient(90deg,var(--accent),var(--accent-2));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+    .hero .subhead{max-width:84ch;margin:.6rem auto 0;color:var(--muted);font-size:.92rem}
+    .hero .datestamp{margin-top:.5rem;font:.72rem var(--mono);color:var(--muted)}
+    .content{max-width:1200px;margin:0 auto;padding:1rem 1.5rem 3rem}
+    section.block{margin-bottom:2rem;background:var(--surface);border:1px solid var(--border);border-radius:.8rem;padding:1.4rem 1.5rem}
+    section.block h2{color:var(--accent-2);margin-bottom:.7rem;font-size:1.15rem;letter-spacing:.02em;border-bottom:1px solid var(--border);padding-bottom:.45rem}
+    section.block h3{color:var(--accent-2);margin:1rem 0 .5rem;font-size:.95rem}
+    p{margin-bottom:.8rem;font-size:.88rem}p.muted{color:var(--muted)}
+    .callout{border:1px solid var(--warn);background:rgba(230,168,23,.08);border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0;font-size:.85rem}
+    .callout.red{border-color:var(--bad);background:rgba(198,40,40,.08)}
+    .callout.green{border-color:var(--accent);background:rgba(46,125,50,.08)}
+    .stat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:.65rem;margin:.8rem 0}
+    .stat-card{background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;padding:.75rem .85rem;text-align:center}
+    .stat-card .n{font:700 1.5rem var(--mono);color:var(--accent-2)}
+    .stat-card .l{font-size:.68rem;color:var(--muted);text-transform:uppercase;margin-top:.15rem;letter-spacing:.03em}
+    .stat-card.warn .n{color:var(--warn)}
+    .stat-card.bad .n{color:var(--bad)}
+    .data-table{width:100%;border-collapse:collapse;margin:.7rem 0;font-size:.8rem}
+    .data-table th{text-align:left;font:600 .72rem var(--mono);color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em;padding:.5rem .6rem;border-bottom:2px solid var(--border);background:var(--surface-2)}
+    .data-table td{padding:.45rem .6rem;border-bottom:1px solid var(--border);color:var(--text)}
+    .data-table tr:hover td{background:rgba(46,125,50,.05)}
+    .data-table .num{text-align:right;font-family:var(--mono);font-size:.78rem}
+    .data-table .small{font-size:.72rem;color:var(--muted)}
+    .bar-section{display:flex;flex-direction:column;gap:.45rem;margin:.7rem 0}
+    .bar-row{display:grid;grid-template-columns:220px 1fr 70px;align-items:center;gap:.6rem}
+    .bar-label{font:600 .74rem var(--mono);color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .bar-track{height:12px;background:var(--border);border-radius:999px;overflow:hidden}
+    .bar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--accent-2))}
+    .bar-fill.yellow{background:linear-gradient(90deg,#b8860b,#e6a817)}
+    .bar-fill.red{background:linear-gradient(90deg,#8e0000,#c62828)}
+    .bar-count{text-align:right;font:600 .72rem var(--mono);color:var(--muted)}
+    .sample{background:var(--bg);border:1px solid var(--border);border-radius:.5rem;padding:.8rem 1rem;margin:.7rem 0;font:.78rem var(--mono);color:var(--muted);white-space:pre-wrap;line-height:1.5;max-height:300px;overflow-y:auto}
+    .sample .hl{color:var(--accent-2);font-weight:600}
+    .sample .red{color:#ef5350;font-weight:600}
+    .sample .gold{color:#e6a817;font-weight:600}
+    .source-ref{font:.7rem var(--mono);color:var(--muted);background:var(--surface-2);padding:.2rem .5rem;border-radius:.3rem;display:inline-block;margin:.2rem .2rem 0 0}
+    .toc{background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;padding:1rem 1.2rem;margin-bottom:1.5rem}
+    .toc h3{color:var(--accent-2);margin-bottom:.5rem;font-size:.9rem}
+    .toc ol{padding-left:1.3rem}.toc li{margin:.3rem 0}.toc a{font:.8rem var(--mono);color:var(--muted)}.toc a:hover{color:var(--accent-2)}
+    .nav-pills{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0}
+    .nav-pills a{display:inline-block;padding:.4rem .9rem;border:1px solid var(--border);border-radius:2rem;font:.75rem var(--mono);color:var(--muted);transition:all .2s}
+    .nav-pills a:hover,.nav-pills a.active{color:var(--accent-2);border-color:var(--accent-2);background:rgba(46,125,50,.1);text-decoration:none}
+    @media(max-width:700px){.bar-row{grid-template-columns:140px 1fr 55px}.content{padding:1rem}section.block{padding:1rem}}
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./investigation-c.html">&larr; INVESTIGATION C HUB</a>
+  <a class="back-link" href="./index.html">&larr; MAIN SITE</a>
+
+  <header class="hero">
+    <h1>💰 FINANCIAL INTELLIGENCE</h1>
+    <p class="subhead">
+      Analysis of 86,060 financial documents: wire transfers, bank statements, checks, credit cards,
+      trust &amp; estate records, and property filings from the Epstein files.
+    </p>
+    <p class="datestamp">Investigation C &middot; Generated February 15, 2026 &middot; Part of the Money &amp; Planes analysis</p>
+  </header>
+
+  <div class="content">
+
+    <nav class="nav-pills">
+      <a href="./investigation-c.html">Investigation C Hub</a>
+      <a href="./flights-intel.html">Flight Intelligence</a>
+      <a href="./financials.html" class="active">Financial Intelligence</a>
+      <a href="./analysis.html">File Analysis</a>
+      <a href="./index.html">Main Site</a>
+    </nav>
+
+    <nav class="toc">
+      <h3>CONTENTS</h3>
+      <ol>
+        <li><a href="#overview">Overview &amp; Scale</a></li>
+        <li><a href="#banks">Banking Relationships</a></li>
+        <li><a href="#properties">Properties &amp; Real Estate</a></li>
+        <li><a href="#entities">Shell Companies, Trusts &amp; Legal Entities</a></li>
+        <li><a href="#persons">Persons Named in Financial Records</a></li>
+        <li><a href="#wires">Wire Transfers</a></li>
+        <li><a href="#key-docs">Key Financial Documents</a></li>
+        <li><a href="#subcategory">Subcategory Breakdown</a></li>
+      </ol>
+    </nav>
+
+    <!-- ─── 1. OVERVIEW ─── -->
+    <section class="block" id="overview">
+      <h2>1. Overview &amp; Scale</h2>
+      <p>The financial category is the <strong>fourth largest</strong> in the Epstein files, containing 93,526 pages totaling over 22.6 million words. Investigation C performed a targeted scan of 17,166 high-priority financial files (wire transfers, checks, bank statements, credit cards) plus a broad scan of 68,894 general financial files.</p>
+
+      <div class="stat-grid">
+        <div class="stat-card"><div class="n">93,526</div><div class="l">Total Financial Files</div></div>
+        <div class="stat-card"><div class="n">22.6M</div><div class="l">Total Words</div></div>
+        <div class="stat-card"><div class="n">22,605</div><div class="l">High-Value Docs Found</div></div>
+        <div class="stat-card warn"><div class="n">6,903</div><div class="l">Trust References</div></div>
+        <div class="stat-card warn"><div class="n">4,741</div><div class="l">LLC References</div></div>
+      </div>
+
+      <h3>Financial Document Types</h3>
+      <div class="bar-section">
+        <div class="bar-row"><span class="bar-label">Invoices</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-count">35,040</span></div>
+        <div class="bar-row"><span class="bar-label">General Financial</span><div class="bar-track"><div class="bar-fill" style="width:97%"></div></div><span class="bar-count">33,854</span></div>
+        <div class="bar-row"><span class="bar-label">Trusts &amp; Estates</span><div class="bar-track"><div class="bar-fill" style="width:22%"></div></div><span class="bar-count">7,792</span></div>
+        <div class="bar-row"><span class="bar-label">Property / Real Estate</span><div class="bar-track"><div class="bar-fill" style="width:14%"></div></div><span class="bar-count">4,848</span></div>
+        <div class="bar-row"><span class="bar-label">Bank Statements (other)</span><div class="bar-track"><div class="bar-fill" style="width:11%"></div></div><span class="bar-count">3,821</span></div>
+        <div class="bar-row"><span class="bar-label">Wire Transfers</span><div class="bar-track"><div class="bar-fill" style="width:4%"></div></div><span class="bar-count">1,347</span></div>
+        <div class="bar-row"><span class="bar-label">Checks</span><div class="bar-track"><div class="bar-fill" style="width:3%"></div></div><span class="bar-count">1,215</span></div>
+        <div class="bar-row"><span class="bar-label">Credit Cards</span><div class="bar-track"><div class="bar-fill" style="width:2%"></div></div><span class="bar-count">786</span></div>
+        <div class="bar-row"><span class="bar-label">JPMorgan Statements</span><div class="bar-track"><div class="bar-fill" style="width:2%"></div></div><span class="bar-count">784</span></div>
+        <div class="bar-row"><span class="bar-label">Deutsche Bank Statements</span><div class="bar-track"><div class="bar-fill" style="width:1%"></div></div><span class="bar-count">270</span></div>
+      </div>
+    </section>
+
+    <!-- ─── 2. BANKS ─── -->
+    <section class="block" id="banks">
+      <h2>2. Banking Relationships</h2>
+      <p>Epstein maintained accounts at multiple major financial institutions. <strong>JPMorgan Chase</strong> dominates the financial records, followed by <strong>UBS</strong>, <strong>Deutsche Bank</strong>, and others.</p>
+
+      <table class="data-table">
+        <thead><tr><th>Bank</th><th>References</th><th>Context</th></tr></thead>
+        <tbody>
+          <tr><td><strong style="color:var(--accent-2)">JPMorgan Chase</strong></td><td class="num">~8,000+</td><td>Primary banking relationship; subject of 2023 settlement ($290M)</td></tr>
+          <tr><td><strong>UBS</strong></td><td class="num">~2,600+</td><td>Swiss banking — offshore accounts</td></tr>
+          <tr><td><strong style="color:var(--accent-2)">Deutsche Bank</strong></td><td class="num">~880+</td><td>Post-JPMorgan relationship; 270 dedicated statement pages</td></tr>
+          <tr><td><strong>Bank of America</strong></td><td class="num">~264</td><td>Additional accounts</td></tr>
+          <tr><td><strong>Citibank</strong></td><td class="num">~249</td><td>103 dedicated statement pages</td></tr>
+        </tbody>
+      </table>
+
+      <div class="callout red">
+        <strong>🔴 JPMorgan connection:</strong> JPMorgan Chase maintained Epstein as a client for over 15 years despite internal compliance concerns. In 2023, JPMorgan settled a sex trafficking lawsuit for $290 million. The 784 JPMorgan statement pages in these files document the account activity during this period. Former JPMorgan executive <strong>Jes Staley</strong> is referenced 37 times across the financial and evidence categories.
+      </div>
+    </section>
+
+    <!-- ─── 3. PROPERTIES ─── -->
+    <section class="block" id="properties">
+      <h2>3. Properties &amp; Real Estate</h2>
+      <p>Financial records reference Epstein&rsquo;s extensive property portfolio across multiple jurisdictions:</p>
+
+      <table class="data-table">
+        <thead><tr><th>Property</th><th>Financial Doc References</th><th>Location</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Palm Beach Estate</strong></td><td class="num">437+</td><td>El Brillo Way, Palm Beach FL</td></tr>
+          <tr><td><strong>Manhattan Townhouse</strong></td><td class="num">70+</td><td>9 East 71st Street, New York NY</td></tr>
+          <tr><td><strong>El Brillo Way</strong></td><td class="num">51</td><td>Palm Beach FL — primary residence</td></tr>
+          <tr><td><strong>Little St. James</strong></td><td class="num">46</td><td>Private island, USVI</td></tr>
+          <tr><td><strong>Zorro Ranch</strong></td><td class="num">12</td><td>Stanley, New Mexico</td></tr>
+          <tr><td><strong>Avenue Foch</strong></td><td class="num">3</td><td>Paris, France — apartment</td></tr>
+        </tbody>
+      </table>
+
+      <p>4,848 property/real estate documents detail acquisitions, maintenance costs, construction, and property management across these locations.</p>
+    </section>
+
+    <!-- ─── 4. ENTITIES ─── -->
+    <section class="block" id="entities">
+      <h2>4. Shell Companies, Trusts &amp; Legal Entities</h2>
+      <p>The financial records are permeated with references to legal entities — <strong>6,903 trust references</strong> and <strong>4,741 LLC references</strong> indicate a complex web of corporate structures used to hold assets, make payments, and obscure beneficial ownership.</p>
+
+      <div class="stat-grid">
+        <div class="stat-card"><div class="n">6,903</div><div class="l">Trust References</div></div>
+        <div class="stat-card"><div class="n">4,741</div><div class="l">LLC References</div></div>
+        <div class="stat-card"><div class="n">2,613</div><div class="l">Inc. References</div></div>
+        <div class="stat-card"><div class="n">954</div><div class="l">Management Co. Refs</div></div>
+        <div class="stat-card"><div class="n">631</div><div class="l">Holdings Co. Refs</div></div>
+      </div>
+
+      <div class="callout">
+        <strong>Notable entity:</strong> <strong>JEGE Inc.</strong> — Epstein&rsquo;s aviation holding company that registered all aircraft. Also: <strong>Avioneta Holdings, LLC</strong> (referenced in an email from Thomas Turrin to Epstein at jecvacation@gmail.com regarding tax treatment of personal vs. business flight hours).
+      </div>
+
+      <div class="sample"><span class="hl">From: Thomas Turrin</span>
+<span class="hl">To: Jeffrey Epstein &lt;jecvacation4gmail.com&gt;</span>
+Subject: <span class="hl">Avioneta Holdings, LLC</span>
+Date: Thu, 19 Sep 2013
+
+...applied hourly rate to the personal-use hours for 2012 (137.7).
+Business hours (per <span class="gold">Apollo</span> payment statements) were assumed the same.
+Michael Volpe of Jet Aviation confirmed that the reported hours
+and mileage were correct...</div>
+
+      <p><strong>Source:</strong> <span class="source-ref">EFTA01189346.pdf (DS9)</span></p>
+    </section>
+
+    <!-- ─── 5. PERSONS ─── -->
+    <section class="block" id="persons">
+      <h2>5. Persons Named in Financial Records</h2>
+      <p>The following individuals appear across wire transfers, checks, bank statements, credit card records, and general financial documents:</p>
+
+      <table class="data-table">
+        <thead><tr><th>Person</th><th>Targeted Docs</th><th>Broad Docs</th><th>Total</th><th>Significance</th></tr></thead>
+        <tbody>
+          <tr><td><strong>MAXWELL</strong></td><td class="num">4,984</td><td class="num">13,637</td><td class="num"><strong>18,621</strong></td><td>Deeply embedded in financial structure</td></tr>
+          <tr><td><strong>EPSTEIN</strong></td><td class="num">4,016</td><td class="num">—</td><td class="num">4,016</td><td>Account holder</td></tr>
+          <tr><td><strong style="color:var(--bad)">BLACK (Leon)</strong></td><td class="num">616</td><td class="num">2,089</td><td class="num"><strong>2,705</strong></td><td style="color:var(--bad)">Apollo Global — major financial ties</td></tr>
+          <tr><td><strong style="color:var(--bad)">TRUMP</strong></td><td class="num">78</td><td class="num">235</td><td class="num"><strong>313</strong></td><td style="color:var(--bad)">Financial document references</td></tr>
+          <tr><td><strong>WEXNER</strong></td><td class="num">128</td><td class="num">181</td><td class="num"><strong>309</strong></td><td>L Brands/The Limited connection</td></tr>
+          <tr><td><strong style="color:var(--bad)">ANDREW</strong></td><td class="num">87</td><td class="num">210</td><td class="num"><strong>297</strong></td><td style="color:var(--bad)">Financial document references</td></tr>
+          <tr><td><strong>MARCINKOVA</strong></td><td class="num">130</td><td class="num">211</td><td class="num">341</td><td>Financial beneficiary</td></tr>
+          <tr><td><strong>RODRIGUEZ</strong></td><td class="num">35</td><td class="num">212</td><td class="num">247</td><td>House manager</td></tr>
+          <tr><td><strong>GATES</strong></td><td class="num">26</td><td class="num">88</td><td class="num">114</td><td>Gates Foundation referenced</td></tr>
+          <tr><td><strong>MITCHELL</strong></td><td class="num">23</td><td class="num">73</td><td class="num">96</td><td>George Mitchell</td></tr>
+          <tr><td><strong>CLINTON</strong></td><td class="num">17</td><td class="num">62</td><td class="num">79</td><td>Financial document references</td></tr>
+          <tr><td><strong>RICHARDSON</strong></td><td class="num">16</td><td class="num">58</td><td class="num">74</td><td>Bill Richardson — Gov. NM</td></tr>
+          <tr><td><strong>BARAK</strong></td><td class="num">5</td><td class="num">64</td><td class="num">69</td><td>Ehud Barak — former Israeli PM</td></tr>
+          <tr><td><strong>SUMMERS</strong></td><td class="num">3</td><td class="num">61</td><td class="num">64</td><td>Larry Summers — Harvard/Treasury</td></tr>
+          <tr><td><strong>DERSHOWITZ</strong></td><td class="num">5</td><td class="num">41</td><td class="num">46</td><td>&ldquo;Alan Dershowitz Consulting LLC&rdquo; payment</td></tr>
+          <tr><td><strong>DUBIN</strong></td><td class="num">7</td><td class="num">42</td><td class="num">49</td><td>Glenn &amp; Eva Dubin</td></tr>
+          <tr><td><strong>STALEY</strong></td><td class="num">2</td><td class="num">11</td><td class="num">13</td><td>Jes Staley — JPMorgan exec</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- ─── 6. WIRE TRANSFERS ─── -->
+    <section class="block" id="wires">
+      <h2>6. Wire Transfers</h2>
+      <p><strong>1,347 wire transfer pages</strong> document the movement of money through Epstein&rsquo;s accounts. Epstein appears in 713 of these, Maxwell in 290. Wire transfer documents typically contain beneficiary names, routing/SWIFT codes, amounts, and reference descriptions.</p>
+
+      <h3>Wire Transfer Subcategory — Top Persons</h3>
+      <div class="bar-section">
+        <div class="bar-row"><span class="bar-label">Epstein</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-count">713</span></div>
+        <div class="bar-row"><span class="bar-label">Maxwell</span><div class="bar-track"><div class="bar-fill" style="width:41%"></div></div><span class="bar-count">290</span></div>
+        <div class="bar-row"><span class="bar-label">Visoski</span><div class="bar-track"><div class="bar-fill" style="width:4%"></div></div><span class="bar-count">29</span></div>
+        <div class="bar-row"><span class="bar-label">Black</span><div class="bar-track"><div class="bar-fill yellow" style="width:2%"></div></div><span class="bar-count">14</span></div>
+        <div class="bar-row"><span class="bar-label">Richardson</span><div class="bar-track"><div class="bar-fill yellow" style="width:1%"></div></div><span class="bar-count">6</span></div>
+        <div class="bar-row"><span class="bar-label">Dershowitz</span><div class="bar-track"><div class="bar-fill red" style="width:1%"></div></div><span class="bar-count">3</span></div>
+      </div>
+    </section>
+
+    <!-- ─── 7. KEY DOCUMENTS ─── -->
+    <section class="block" id="key-docs">
+      <h2>7. Key Financial Documents</h2>
+
+      <h3>7a. The Dershowitz Payment</h3>
+      <div class="callout red">
+        <strong>🔴 CRITICAL FINDING</strong> — Financial record documenting payment to &ldquo;Alan Dershowitz Consulting LLC&rdquo;
+      </div>
+      <div class="sample"><span class="red">$15,487</span> C  Jeffrey Epstein  3/21/2016
+
+The later payment was made to <span class="red">"Alan Dershowitz Consulting LLC."</span>
+
+<span class="gold">$85,000</span> W  Jeffrey Epstein
+
+Barry Jay Josephson  10/17/2013
+This may be an American film producer and former
+President of Columbia Pictures (1991-...)
+
+<span class="gold">$50,000</span> W  <span class="hl">Gratitude America, Ltd.</span>  7/12/2016
+<span class="gold">$50,000</span> W  Gratitude America, Ltd.  12/6/2017
+<span class="gold">$50,000</span> W  Gratitude America, Ltd.  [date]
+
+Officials referred to Moskowitz in emails as
+<span class="red">"a POTUS friend/doctor"</span> and as <span class="red">"the [Doctor] from
+W Palm that is connected to Trump."</span></div>
+      <p><strong>Source:</strong> <span class="source-ref">EFTA01681865.pdf (DS10)</span></p>
+
+      <h3>7b. The Staley-Richardson-Summers Calendar</h3>
+      <div class="callout">
+        <strong>📅 Social Calendar</strong> — Scheduling document showing Epstein&rsquo;s meetings with multiple high-profile figures in a single week
+      </div>
+      <div class="sample">September 21, Wednesday
+<span class="red">*Gov. Richardson in NY*</span>
+7:30 Dinner w/<span class="hl">Jes Staley</span>
+5-9:00 <span class="hl">Eva Andersson-Dubin's</span> Antiques, Art & Design
+       at the Armory (WE RSVP'd YES Plus 1)
+
+September 22, Thursday
+<span class="red">*Gov. Richardson in NY*</span>
+<span class="red">Larry Summers in NY ???</span>
+Lunch w/Jonathon Farkas & Charles Stevenson (NEED TIME)
+
+September 23, Friday
+<span class="red">*Gov. Richardson in NY*</span>
+6-9: [event]
+
+[also referenced: Woody Allen Dress Rehearsal]</div>
+      <p><strong>Source:</strong> <span class="source-ref">EFTA00428025.pdf (DS9)</span></p>
+
+      <h3>7c. Avioneta Holdings / Apollo Connection</h3>
+      <div class="sample"><span class="hl">From: Thomas Turrin</span>
+<span class="hl">To: Jeffrey Epstein</span>
+Subject: <span class="hl">Avioneta Holdings, LLC</span>
+Date: Sep 19, 2013
+
+Estimated hourly rate (dom/int'l) to be <span class="gold">$9,110</span>.
+Applied hourly rate to personal-use hours for 2012 (137.7).
+Business hours (per <span class="red">Apollo</span> payment statements) were assumed the same.</div>
+      <p><strong>Source:</strong> <span class="source-ref">EFTA01189346.pdf (DS9)</span></p>
+      <p class="muted">Apollo Global Management (Leon Black&rsquo;s firm) is directly referenced in Epstein&rsquo;s aviation cost calculations.</p>
+
+      <h3>7d. JPMorgan Account — Relationship Detail</h3>
+      <div class="sample"><span class="hl">RELATIONSHIP</span>  1/6/2015 - 1 M
+DINAN, JAMIE        RELATIONSHIP
+ERGEN, CHARLES       RELATIONSHIP
+FELDSTEIN, <span class="red">ANDREW</span>   RELATIONSHIP
+GAGOSIAN, LARRY      RELATIONSHIP
+<span class="red">GATES FOUNDATION</span>    RELATIONSHIP
+LAFFONT, PHILPPE     RELATIONSHIP
+MANDEL, STEPHEN      RELATIONSHIP
+MARRON, DONALD B.    ...</div>
+      <p><strong>Source:</strong> <span class="source-ref">EFTA01475567.pdf (DS10)</span></p>
+      <p class="muted">JPMorgan relationship document listing high-net-worth clients alongside Epstein accounts — including Gates Foundation and multiple hedge fund principals.</p>
+    </section>
+
+    <!-- ─── 8. SUBCATEGORY ─── -->
+    <section class="block" id="subcategory">
+      <h2>8. Subcategory Breakdown — Who Appears Where</h2>
+
+      <h3>Trusts &amp; Estates (7,792 files)</h3>
+      <p>Maxwell: 1,860 &middot; Epstein: 1,760 &middot; Barr: 343 &middot; Black: 245 &middot; Marcinkova: 75 &middot; Andrew: 38 &middot; Wexner: 15</p>
+
+      <h3>Property &amp; Real Estate (4,848 files)</h3>
+      <p>Maxwell: 1,889 &middot; Epstein: 1,093 &middot; Black: 303 &middot; Wexner: 90 &middot; Trump: 64 &middot; Marcinkova: 50 &middot; Andrew: 42</p>
+
+      <h3>Wire Transfers (1,347 files)</h3>
+      <p>Epstein: 713 &middot; Maxwell: 290 &middot; Visoski: 29 &middot; Black: 14 &middot; Richardson: 6 &middot; Dershowitz: 3 &middot; Gates: 3</p>
+
+      <h3>Checks (1,215 files)</h3>
+      <p>Maxwell: 206 &middot; Epstein: 82 &middot; Black: 5 &middot; Groff: 1</p>
+
+      <h3>Credit Cards (786 files)</h3>
+      <p>Epstein: 247 &middot; Maxwell: 214 &middot; Black: 33 &middot; Trump: 7 &middot; Groff: 6 &middot; Andrew: 5 &middot; Mitchell: 4</p>
+
+      <h3>JPMorgan Statements (784 files)</h3>
+      <p>Maxwell: 296 &middot; Epstein: 69 &middot; Wexner: 20 &middot; Black: 11</p>
+
+      <h3>Deutsche Bank Statements (270 files)</h3>
+      <p>Maxwell: 226 &middot; Epstein: 34 &middot; Visoski: 3 &middot; Marcinkova: 2</p>
+
+      <h3>Bank of America (21 files)</h3>
+      <p>Barr: 11 &middot; Black: 2 &middot; Maxwell: 2</p>
+    </section>
+
+    <!-- ─── FOOTER ─── -->
+    <section class="block" style="text-align:center;border-color:var(--accent)">
+      <p style="color:var(--accent-2);font:700 .9rem var(--sans);margin-bottom:.4rem">THE PDF FILES — INVESTIGATION C</p>
+      <p class="muted" style="font-size:.78rem">
+        Financial intelligence from 86,060 documents across 12 DOJ datasets.<br />
+        All source PDFs referenced by EFTA number for verification.
+      </p>
+      <p style="margin-top:.7rem">
+        <a href="./investigation-c.html" style="font:.78rem var(--mono)">&larr; Investigation C Hub</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./flights-intel.html" style="font:.78rem var(--mono)">&larr; Flight Intelligence</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./index.html" style="font:.78rem var(--mono)">Main Site</a>
+      </p>
+    </section>
+
+  </div>
+</body>
+</html>

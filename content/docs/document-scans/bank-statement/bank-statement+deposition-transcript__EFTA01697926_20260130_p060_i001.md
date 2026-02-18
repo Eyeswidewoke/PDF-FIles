@@ -1,0 +1,285 @@
+---
+source_image: "bank-statement+deposition-transcript__EFTA01697926_20260130_p060_i001.png"
+source_pdf: "EFTA01697926.pdf"
+method: pdf_text
+words: 543
+confidence: 1.00
+extracted: 2026-02-13T16:08:11.201437
+---
+
+Page: 
+Billing Cycle Date: 
+Account Number: 
+27 of 34 
+06 01 05 - 07 06/05 
+Wireless Data Detail 
+Continued) 
+User Name: 
+Rate Code: SHG2./SHON GSM 600R UNW 
+Rate Period (Pd.): P-Peak. 0.Off Peak, !I-Nights 
+Feature: B.Direct Met Call Complete; C-Call Waiting; Dnata Call; F.Call Forwarding; H-Group Mobile to Mobile Calls; 
+leIncoming Call; K-Pax Call; MeMObile To Mobile Discount; P-Priority 
+Access Service; Q.V-VPN; RsRoam with Home; 
+S-Shared Minutes; 
+T-Three Way Calling; W./fights and Weekends 
+Rate Rate Pea- 
+In/ 
+Total 
+Item Day Date 
+Time 
+Type 
+Meg/KB 
+Code 
+Pd 
+cure Out 
+Charge 
+111 
+06/14 07:49P14 
+AOL TXT 
+1 04s9 8HO2 
+In 
+0.10 
+112 
+06/14 09:50PN 
+OTHER MOBILE TO 
+1 Meg SHO2 
+In 
+0.10 
+113 
+06/14 10:01PM 
+OTHER MOBILE TO 
+1 Meg SHO2 
+Cut 
+0.10 
+114 Thu 06/16 03:01PN 
+AOL TXT 
+1 Meg SEG% 
+Out 
+0.10 
+115 
+06/16 03:02PN 
+AOL 7%T 
+1 Meg SHG2 
+In 
+0.10 
+116 
+06/16 03:06PN 
+AOL TS? 
+1 Min SHG2 
+Out 
+0.10 
+117 
+06/16 04:01PN 
+AOL TXT 
+1 Meg SHG2 
+In 
+0.10 
+118 
+06/16 04:03PN 
+AOL TXT 
+1 Meg SH02 
+Out 
+0.10 
+119 
+06/1604:03PM 
+AOL TXT 
+1 Ohn SHG2 
+In 
+0.10 
+120 
+06/16 04:14PM 
+AOL TXT 
+1 Meg SHG2 
+Out 
+0.10 
+121 
+06/16 04:15PN 
+AOL TXT 
+1 Meg SHG2 
+In 
+0.10 
+122 
+06/16 10:17P14 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+123 
+06/16 10:54PM 
+OTHER MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+124 
+06/16 11:07944 
+OTHER MOBILE TO 
+1 Meg SH02 
+Out 
+0.10 
+125 Sat 06/18 09:59AN 
+OTHER MOBILE TO 
+2 Meg SHG2 
+In 
+0.10 
+126 
+06/18 07:01PN 
+OTHER MOBILE TO 
+1 Mpg SHC2 
+Out 
+0.10 
+127 Sun 06/19 05:48AM 
+OTHER MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+128 
+06/19 06:08AM 
+OTHER MOBILE TO 
+1 Msg SHG2 
+Out 
+0.10 
+129 
+06/19 08:38AM 
+OTHER MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+130 
+06/19 10:59W 
+OTHER MOBILE TO 
+2 Msg SHG2 
+Out 
+0.10 
+131 
+06/19 11:05P94 
+OTHER MOBILE TO 
+2 Meg SHOT 
+Out 
+0.10 
+132 Tue 06/21 01:16AM 
+OTHER MOBILE TO 
+2 Msg SHC2 
+In 
+0.10 
+133 Wed 06/22 12:07AN 
+OTHER MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+134 Thu 06/23 01:05944 
+AOL ?TT 
+2 Nag SH02 
+In 
+0.10 
+135 
+06/23 11:18PM 
+OTHER MOBILE TO 
+1 Meg SHG2 
+Out 
+0.10 
+136 Fri 06/24 12:19AM 
+CIRCULAR MOBILE 
+2 Hag SHG2 
+Out 
+0.10 
+137 
+06/24 12:20AM 
+CIRCULAR MOBILE 
+1 Meg SH02 
+Out 
+0.10 
+138 
+06/24 01:06AN 
+CIRCULAR MOBILE 
+1 Msg SHG2 
+Out 
+0.10 
+139 
+06/24 01:52PM 
+CIRCULAR MOBILE 
+I Mn SHG2 
+Out 
+0.10 
+140 
+06/24 09:33PM 
+CINGUIAR MOBILE 
+1 Meg 51102 
+Out 
+0.10 
+141 
+06/24 10:071N4 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+142 
+06/24 10:12PM 
+CIRCULAR MOBILE 
+1 Meg SH02 
+In 
+0.10 
+143 
+06/24 10:29PM 
+CIRCULAR MOBILE 
+1 Min SHG2 
+Out 
+0.10 
+144 
+06/24 1D:30PM 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+145 Sat 06/25 03:31AM 
+CIRCULAR MOBILE 
+1 Meg 51402 
+Out 
+0.10 
+146 
+06/25 02:19PM 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+147 
+06/25 02:33PM 
+CIRCULAR MOBILE 
+1 Meg SHC2 
+Out 
+0.10 
+148 
+06/25 03102PM 
+CIRCULAR MOBILE 
+1 Meg SHG2 
+Out 
+0.10 
+249 
+06/25 03:12PM 
+CIRCULAR MOBILE 
+1 Msg SHG2 
+In 
+0.10 
+150 
+06/25 03:469)4 
+CIRCULAR 1403ILE 
+1 Msg SHG2 
+Out 
+0.10 
+151 
+06/25 03:47PPI 
+CINGGIAR MOBILE 
+1 Meg SHG2 
+In 
+0.10 
+152 Tue 06/26 01:09AM 
+AOL TXT 
+1 Msg SHO2 
+In 
+0.10 
+153 
+06/28 05:37PM 
+OTHER MOBILE TO 
+1 Meg SHG2 
+In 
+0.10 
+EFTA01697985

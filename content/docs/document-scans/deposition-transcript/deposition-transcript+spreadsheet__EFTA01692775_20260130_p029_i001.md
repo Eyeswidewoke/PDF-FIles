@@ -1,0 +1,478 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p029_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 766
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.915223
+---
+
+Ci ng 3;1191" 
+•-• 
+Mr Wireless 
+Account Number 
+Accountaarre 
+Date a Invoice
+rObIllarf 12 2005 
+Page 9 of IS 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAC1.11)R 
+Nordic 
+IN. Om Tints CAS 
+in 0104 xi 
+tea eels 10:11 
+17001119 10;41 
+in 02 
+F01 
+i
+4 
+Pi 
+12 
+:1 
+its own 0111 
+1%010101
+12101/1101:3 
+164 WO 3 034 
+la 81143 8:: 
+81:B 
+1 1
+al 8lNiaa 
+13301117 Le 
+116 01/18 11:1 
+1 gifnl
+15 01000 
+no 01/19 102 
+ill liP,1 ire, 
+itt sig.: :1f 
+in olio ot 
+'i i il'? 
+It 
+Gine 
+1 
+I 010001 I 
+:04 01(ill 044 
+203 0109 04 3 
+204 ONO N. 
+ia 81:3 
+0109 
+a  
+, I• 
+F
+11ouls 
+oini 
+gia 
+iiagr 
+213 01E 0301 
+214 01 
+03 
+23 01 
+COM 
+Il Sa (041 
+110100 a3.
+19 0100 CNA 
+ORA OSA 
+10
+1 0100 Oa• 
+gla a 
+igiliMg 
+Continopxl 
+ont. 
+C 
+Gas To 
+Used Nate DosorlptIon 
+LAKE WORTH Ft 
+IALIMTEDNINI(ND IS 
+ms...q 
+WPAL.1 Pal FL 
+M 
+UNUNIITED14/1/6110 INN 
+VNLINITED WININO IAN 
+MN 
+tastent
+rTaniKait 
+tvT 
+r;28M3 
+LI 
+'Attar Shin 
+OnliTONINNFL 
+MN 
+Until/ VOOL T 
+WPALIA8Fici4 41. 
+MN 
+ZOO ADDI III 
+NM 
+INGO.* 
+MN 
+3:0 ADM ANTI 
+UN 
+INCONNti 
+M01/141 
+apa 
+PALM 
+14 
+al 
+NON 
+)04) 
+WOW MR 
+MN 
+1 
+LAN 
+PrIgn
+ic-IIR 
+"NN
+MN 
+rirt 
+a 
+a W4 
+KT 
+It 
+MN 
+104 
+101 
+Ylf 
+et 
+WPAUSEA014 FL 
+W 
+AC14 
+PA YBE 
+w31,10213t 
+WPALIWEACH 
+INCOLCNO 
+WPAL11113EACH FL 
+lItC 
+PAI
+OM 
+NINACI411. 
+TO4, 0/41661FL 
+SOTNTOINION  
+WPALINNACH FL 
+INCOFING 
+ISCOVANG 
+14 Ft 
+Ft 
+FL 
+WPAWEIMI4Ft 
+INC 
+ACM 
+t orra
+il 
+rrA4ANICA:1411. 
+WM/MAO' FL 
+arl1012A04 IL 
+1/ 
+Oa
+ FL 
+AJA04 FL 
+LINN
+N
+MI
+M
+N 
+MN 
+MM 
+MN 
+MN 
+MN 
+MN 
+MN 
+EVT 
+MN 
+MN 
+MN 
+MN 
+EVT 
+MN 
+911N 
+MN 
+MN
+Mt1 
+900.40C/1. ANYTME 
+X0 ADM. ANYTME 141 
+M 
+IA Nett TO MON 
+IMSCAOE RCTFINVAL 
+UAW MUM
+=AWAY. 
+11N 
+SO AWL ANT 
+UNVA 
+tliaM
+MON 
+TO 
+rta
+iv
+O4 
+14F 
+)20 ADM AN 
+MN 
+300 
+n AN 
+MO AaXIL ANT 
+y3JpLA;OL N
+AMY 
+tiAttn4WIlf 
+X 
+AN
+OADOt 
+YTWlw 
+3034001 ANYTVE UN( 
+OWN MOM TOMO. 
+X0 AWL HOWE MN 
+SO 
+LNY1WCI4114 
+/A 
+A 0 
+CR A/4 
+WIN 
+1 
+ANN,
+U/a 14626Laat 
+UNLIMITav
+N 
+LINUM MOO. TO UM 
+UMW NCO. TO MOIN. 
+MESSAGE IMO& 
+=ADM ANTTIM MN 
+300 ADM 
+1411 
+X0 AWL Mi
+n a 
+INN 
+300 A00/. AN .„ 
+3333:=;gtm 
+NESSAOF 
+38 
+1A1Ma
+E 
+x
+2K MRUIZ1 
+KL 
+2al 
+uryn, Iw 
+I DETAIL OF CURRENT ACTIVITY - CONTINUED 
+IWWI USAGE rOR
+Mate 
+Choir 
+Mm Nos Tkre new 
+}22001'M /24/510 
+,9 01W /*SIP 
+010 0170 CCM!,
+331 01203 IN/ttr 
+a own 01CIP 
+011100i * 
+an MOON
+ NIo 
+237 0 
+4 
+23,5 043
+1r0Ft i 
+23$ 01/20 OP 44r 
+• El8143E
+!Li 334,330-90FP' 
+343 OVA ;al/ 
+itt SM 11 
+mans ;1:u 
+P 
+o 
+unt 
+i 
+o 
+I 07A 
+O 
+I 03:47 
+O 
+1 100M 
+017020 
+2S4 0123 CCAR 
+it 21;312 133 
+01:11t3 
+0., 
+NM atm ot.t? 
+204 01221 01:41 
+]tff O
+1 Orli 
+ZOF 01/31 
+ME 01W21 03:32
+ 00 
+ii 
+2183;331 
+Y 
+'ill 
+9 22 0921 Mfg 
+I. El 831 MI 
+:a gra V
+'
+la Mal 10.57 
+k. 
+n
+01,2111: 
+''. 1 
+8F/1 li 
+1 
+833 li 
+. 
+263 0962 01 
+: 
+M 
+gt 
+i
+• 
+ift 0 
+iltt 
+cue To 
+IN 
+IN 
+10 
+IN 
+INCOMING 
+WO 
+W
+MT 
+MC/4 
+WPALINV CAC/4ft 
+InCO
+O 
+VIPALMBEACH FL 
+InC01110 
+WPAL41FACH 
+INCOLI VC 
+incol.RGz
+1111.
+WPA114 At 
+LAM WC TH el 
+fraAN 
+WPALWEACtl Ft 
+WPM/ASEAN/Ft 
+WPALV AtHil 
+LAP 
+Hit 
+LAYS 
+ 
+WHO/BEACH F 
+FtL 
+COntInued 
+QfttY 
+prnip 
+Used Rate Description 
+A11711MN 
+A14,11‘ MN 
+MN 
+thyr61 
+ANYTI/6 
+4 
+930 AMYL ANTTL/E 10 
+1014 
+3CC ADM ANYTIAEW 
+NO A00 ANYTIIE kei 
+AD • 
+ME YN 
+141% 
+MN 
+MN 
+KIN 
+iore 
+041. 
+AM 
+L INT1IP141t1 
+lah 
+te. 
+1122.11 NON TOMOS. 
+MN 
+VtiO
+unjl
+et
+l/
+44 0114N
+moiN 
+MN 
+IINANIEDN/A104110/4 
+MN 
+UNLIPMED WWII MN 
+We 
+IM.VIITCPWVILM MN 
+WI 
+I.N.PAIII3 NNW MN 
+a 
+'ging 
+M IMS al 
+MN 
+UNSATEDIENTAD Mx 
+IANE
+S
+AVO0 MN 
+W
+VH
+AFTED N/tf(X0 UN 
+UN.
+I2gATEDN
+ra).4561.
+1:140140V 
+UNWMC4M - 0 MOM 
+MESSAGE REINEVAL 
+UNt 
+•3 ,  Et 
+Ultal 
+L T 
+302 
+AOM. 
+MCIAN 
+KC ADM. /SOW IAN 
+6/4.61140111 20 WOOL 
+30C AWL AVeRIE IAN 
+0/4011,10131. TO 
+a. MOM' 
+J00 
+A/a 
+MN 
+i v" . 
+300 
+AleTaT UN 
+RTtraIr 
+AMC 
+utosaTEDNAI/00 MCI 
+MIN 
+1041.11•TED WAIN WS 
+SYM 
+1 
+1.1NUINT601446/EN IN 
+INN 
+utast) Num us 
+1 uN 
+as,/ 
+0 NW NN WI 
+NAM 
+Ire MT It NWXN MIN 
+MN 
+WILONCI) WAN? MIN 
+115 
+LmAirlioNAVE14614. 
+115 
+WililaTLONMV104)111N 
+1 /VT 
+UFSSAGE RENIEVA1 
+11104 
+LINUNITCONNOL4014114 
+1 EvT 
+104•44,6 ItETNETAL 
+215 
+MN 
+UNLNIIT 
+INN 
+EA 9..= 
+aegf , 
+WI 
+MA 
+"3t 
+NON 
+EVT 
+UN 
+UN 
+MN 
+1•14 
+AO 
+MN
+lw 
+0 
+Charge 
+a 
+EFTA01692803

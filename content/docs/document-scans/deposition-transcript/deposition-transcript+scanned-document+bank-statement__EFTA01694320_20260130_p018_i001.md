@@ -1,0 +1,301 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01694320_20260130_p018_i001.png"
+source_pdf: "EFTA01694320.pdf"
+method: pdf_text
+words: 535
+confidence: 1.00
+extracted: 2026-02-13T16:53:13.194022
+---
+
+Amount Nether; 
+8111ing Date: 
+MODIle !timber: 
+Mbile user: 
+Total Mehiless 
+AIRCIME AND LONG DISTANCE CHARGES 
+ 
+CRAM= 
+City 
+Ler 
+Air 
+Limy 
+Its Date 
+Tine 
+CL No. called 
+called 
+► P Call Pima 
+Diet. Total 
+41 01/24 011:19PX 
+VOICE CL 
+1 
+0.00 
+0.00 
+42 01/24 08:19Pil 
+V PALI IL V 
+3 
+0.00 
+0.00 
+43 01/24 O9:I9PM 
+PALM IL 
+1 
+0.00 
+0.00 
+•• 01/24 O9:56PM 
+IACCMI CL M 
+2 
+0.00 
+0.00 
+•5 01/24 1O:02PM 
+INOOMI CL N 
+2 
+0.00 
+0.00 
+•6 01/24 1O:12PM 
+M PALM PL N 
+1 
+0.00 
+0.00 
+47 01/24 1O:13PM 
+PALM FL 
+1 
+0.00 
+0.00 
+40 01/24 10:14PM 
+=OMI all 
+1 
+0.00 
+0.00 
+49 01/24 1O:23PM 
+NCOM1 CL w 
+1 
+0.00 
+0.00 
+50 01/24 10134PA 
+'DICE CL N 
+1 
+0.00 
+0.00 
+51 01/24 1O:36PM 
+MOON! CL N 
+2 
+0.00 
+0.00 
+52 01/24 11t34PX 
+POI CE CL N 
+1 
+0.00 
+0.00 
+63 01/24 11.52PM 
+WOG cLw 
+1 
+0.00 
+0.00 
+5401/251241AM 
+VOICE CL N 
+1 
+0.00 
+0.00 
+55 01/25 12:12AM 
+POI CE CL w 
+1 
+0.00 
+0.00 
+56 01/23 12:13AM 
+PALM FL N 
+2 
+0.00 
+0.00 
+57 01/25 12.48MI 
+Napa CL N 
+• 
+0.00 
+0.00 
+50 01/25 12:57AM 
+PALM FL N 
+6 
+0.00 
+0.00 
+59 01/25 1O:50AX 
+PALM FL N 
+5 
+0.00 
+0.00 
+60 01/25 11:16AM 
+PALM FL N 
+1 
+0.00 
+0.00 
+61 01/25 11:28AM 
+OCA R PL N 
+1 
+0.00 
+0.00 
+62 01/25 11:33AX 
+tICE CL W 
+1 
+0.00 
+0.00 
+61 01/25 11:39AM 
+NCONX a. N 
+3 0.00 
+0.00 
+64 01/25 O1:21PM 
+PALM IL N 
+1 
+0.00 
+0.00 
+65 01/25 04s05Pit 
+PALM FL. N 
+1 
+0.00 
+0.00 
+66 01/25 O4:15PM 
+PALM IL N 
+1 
+0.00 
+0.00 
+67 01/25 04:52PM 
+PALM FL N 
+1 
+0.00 
+0.00 
+68 01/25 O6:38PM 
+vOICE a. N 
+1 
+0.00 
+0.00 
+69 01/25 06:53PM 
+PALMFLA 
+1 
+0.00 
+0.00 
+70 01/25 07101PX 
+PALM FL N 
+2 0.00 
+0.00 
+71 01/25 07:12PM 
+NCOMI a. V 
+1 
+0.00 
+0.00 
+72 01/25 072100X 
+PALM FL N 
+1 
+0.00 
+0.00 
+73 01/25 07.272% 
+PALM IL M 
+1 
+0.00 
+0.00 
+74 01/25 0713404 
+NcOmi a. W 
+2 0.00 
+0.00 
+75 01/25 07138PA 
+KOMI CL 
+1 
+0.00 
+0.00 
+76 01/25 08:54PM 
+PALM IL If 
+1 
+0.00 
+0.00 
+77 01/25 09:14PX 
+VOICE CL M 
+1 
+0.00 
+0.00 
+70 01/25 09:15M 
+PALM FL M 
+3 0.00 
+0.00 
+79 01/25 1O:01PM 
+N PALM IL N 
+1 
+0.00 
+0.00 
+60 01/25 1O:03PM 
+W PALM IL N 
+1 
+0.00 
+0.00 
+81 01/25 10iO4PM 
+W PALM FL M 
+19 
+0.00 
+0.00 
+82 01/25 1O:23PM 
+VOICE MA 
+1 
+0.00 
+0.00 
+83 01/25 1O:23PM 
+N PALM IL N 
+1 
+0.00 
+0.00 
+84 01/25 1O:26PM 
+N PALM FL N 
+• 
+0.00 
+0.00 
+SS 01/25 1O:27PM 
+N PALM FL V 
+7 0.00 
+0.00 
+S6 01/25 10t4SPX 
+ICE CL N 
+1 
+0.00 
+0.00 
+87 01/25 10s47PM 
+PALM IL M 
+3 0.00 
+0.00 
+IS 01/25 11s3OPX 
+IMOKI CLIO 
+2 0.00 
+0.00 
+89 01/25 11:33PM 
+MOM CL N 
+4 
+0.00 
+0.00 
+00 01/26 12.19AX 
+'3COM CL N 
+1 
+0.00 
+0.00 
+91 01/26 11.26AX 
+ICE CL 
+1 
+0.00 
+0.00 
+02 01/26 11:35AX 
+PALM IL 
+1 
+0.00 
+0.00 
+03 01/26 31:30AM 
+N PALM IL 
+2 
+0.00 
+0.00 
+54 01/26 O2:59PM 
+N PALM FL 
+1 
+0.00 
+0.00 
+95 01/26 03i0OPA 
+N PALM FL 
+3 
+0.00 
+0.00 
+01 01/26 03:02PM 
+PALM It 
+1 0.00 
+0.00 
+271 
+EFTA01694337

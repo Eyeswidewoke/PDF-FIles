@@ -1,0 +1,570 @@
+---
+source_image: "deposition-transcript__EFTA01692725_20260130_p043_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 934
+confidence: 1.00
+extracted: 2026-02-13T17:00:45.997877
+---
+
+- • 
+F A:count Name 
+Account Number 
+Dete o( Invoke 
+November 11. 2001 
+w 
+• 
+ART Wireless 
+Page 14 of 20 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Nutter 
+Item du Time 
+:3
+7• 
+6 lica7
+027 Di TR 
+6014 1i
+t) fO 
+636 1037  
+ia I 1027 11
+101 176 
+433 102712:I% 
+III 1
+411 'orr  1 
+et
+, a )1 
+'Va 7 I 
+63;,
+. 102701,010 
+619 10)701,13P 
+µ5 NM 01.340 
+64 1 102? 0669P 
+M
+01 39P 
+T 1077 
+3 OD 0703P 
+444 Ila7 WOO 
+r42 '1%; 83201 
+µ) 1Dn021SP 
+40 10270 TOP 
+419 ION 07 RP 
+I
+M 
+663 NM OWN,
+454 1027 04.33P 
+S 1027 OP47P 
+saL
+te9511,1i 
+640 bn 
+614 
+i
+l
+ip
+003. 
+664 
+MIO 
+(44 0/27 RAAW 
+100
+610
+6) t 
+1I' A 
+672 
+OIJIP 
+673 C371011W 
+6/
+61 %EIE 
+g %I '02404 140 
+- 
+492 ICENI 04 490 
+III ;241164,Z 
+Etta: HE
+- Craned 
+Orer 
+alder 
+Cells To 
+Used REM 004401010n 
+SOYNTON404 Ft 
+mownONOCN EL 
+CZ 
+UNINA MM. TO mMIL 
+TO mOBL 
+P7Cgl igalCil N 
+1 
+piCOmt4G 
+1 
+MINUTES 
+74:2D, 
+EONIT04490I Ft 
+1 
+WEI 
+WPAMISEACM n. 
+um 
+EMIR) NMUTEs 
+PONOON9CM Ft 
+INCIMIDEOMMUTES 
+0013110/IE a 
+ra 
+APAIL) 
+INEWTES 
+Nr4LIRS 
+wOk WI 
+a 
+MN 
+IM'Ouro. 
+iNCOLL444 
+MUTE, 
+I.TW 2C42/4 NY 
+N 
+Iaccalk 
+Num T wont 
+wt. Aumar.A04 n. 
+SPAN 
+I 
+DMNUTTS 
+DOWITOM301 Ft 
+)MN
+INCLUDED WoJTES 
+902N7021001 EL 
+44A44 
+INCLUDE D NIEUTES 
+WER1/2SEPOI EL 
+1104 
+‘ffitn, u0b. TO 1081 
+Affil AL
+WV AL um  a(PO I 
+. 
+pMN 
+maim LION TO MDR 
+Atm e 
+MCOM NG 
+MN 
+ttle$S..1811&m. 
+.c0.0 
+MN 
+INCtuDED MINUTES 
+WeALNIECACNR 
+M 
+INCLUDED WILMS 
+WPMindt1f3I K 
+MN 
+INCLUMOIAIWTES 
+WPAL1 
+Ft 
+MIN 
+Umrs med. TO II4081 
+maw.% • 
+scent/4 
+IN 
+INCAM/Wm/nt 
+PAN 
+umIA a, 
+NtAiLmo MN 
+WPAUMFACH EL 
+IAN 
+UNLIMTE Novo* PA L 
+IX) 0:7014404 ft 
+IN 
+Limbs TED mows() MN 
+INPALMMACA4 R 
+IIIN 
+UNMATED MWTE0 MN 
+INEMANG 
+WI 
+UNMATED *WEND MN 
+N courc 
+Myna militti IL 
+Oa 
+UM 
+NWOW Mn 
+WI
+ 
+umpar §NATO°, MN 
+WPAINW *CH FL 
+VT 
+Wit altne.. 
+LAR wCATI4 FL 
+IAN 
+UNMATED WW SW MN 
+NCOMNG i bin 
+WI 
+UMW 0 IMMO MN 
+POI 
+MESA 
+p *WO NEN
+O 
+EioN/Y0pi004 Ft 
+Mil 
+EDYNTON004 Ft 
+Oa 
+DO ONOMV.N Ft 
+MN 
+UMW 0 NAVU40 MN 
+GOTWOMICH FL 
+MN 
+INCLUDED IAVVIES 
+VPY21;2441241 a 
+MN 
+attvecrumums 
+MN 
+INCLUDE") NINUTES 
+MV/ YON), NY 
+MN 
+UMW MAit Tow*. 
+POTN rokSCH ft 
+pm mmiC 
+MN
+:10a08.14
+‘,11E1
+MN 
+WPIAMEACIML 
+MM 
+wimp
+S3 
+Noek
+ 
+tit
+traor 
+ENT 
+NE
+.40E 
+VN, 
+UME INTRTH 
+MM 
+Mini NOEL CoMOIL 
+WPALIMEACN t 
+Mx 
+WNW NOEL TOMO% 
+We WORTH 
+Mk 
+UMW VOR TOMO% 
+wPALIMENCH t 
+MN 
+INCtuDFO MUTES 
+MtiPt
+ettaLtrlIe FL 
+In  
+ TO 48.
+NaCLULT. WWI 
+iNCOMW 
+1YYl 
+UNUM WOOL TOMAS 
+WOodist AM. FL 
+nag 
+mimmva
+...1, 
+TENT 
+SO MITCNOCI4 FL 
+MIN 
+NCLUDEO MNrife4 
+viPRINITACH FL 
+MIN 
+PICLUOE laN1 
+gryt ugai;t 
+Ul" 
+iNs
+-a s LI% 
+ttSa'
+AIAMNF
+frz af 
+I. 
+WP 
+ft 
+TM 
+MERLIN& &MUTES 
+W 
+ft 
+1 
+nu 
+/AN 
+INCLLOED &ENVIES 
+UMW MOTE TOMOS. 
+TIC 
+8 MN= 
+Champ 
+VOICE USAGE FOR 
+Number 
+been One Time Celled 
+6% Oln MOM 
+4
+s% COE 06DM 
+49) 24:C64:2: 
+EN WE 
+SW 
+DEM 
+2.PP 
+695 D2403039 
+6% WE 07 YaT 
+497 020):110 
+02 071M 
+O 
+13; 
+11;41 
+704 
+)610 
+IDS 
+)06 
+)0) 
+710 
+14
+14 
+IS 
+TM 
+7)7 
+NI 
+720 
+121 
+721 
+ln 
+130 
+336 
+3n 
+ORE 03520 
+WM %AV 
+M P
+11 
+:111e41ep
+re 
+ONO
+air NOW 
+MO 
+11 
+04112.16A 
+WO 0717A 
+a
+0 
+032
+29 
+7A 
+n
+Ott IS 
+gg ir e 
+n 1 in
+029 
+MO 
+W2 1260P 
+1260P 
+123IP 
+8343; 
+0 Ube 
+1; 
+0604P 
+SP 
+ORE
+009062 
+0) IIP 
+079002W 
+43; 
+00,10 
+tir; 
+- Continued 
+they 
+Charge 
+Car To 
+Used REM Orscraton 
+WPIJ AMY POI FL 
+INN 
+INCLUDED MkuTES 
+Ft 
+MON 
+rtUDEO10411 ES 
+yyN
+11:1 
+SELea§MMITH 
+MIA a
+r,. 
+SINE 
+EWA v"f 0 mva». 
+k 
+MEW 
+un 0., u In To Wel 
+114044m0 
+SINE 
+INCTU6EDMP.IFS 
+WPM/REACH Ft 
+IMPI 
+LUNN MOOT TO MOOT 
+TENT 
+MESSAGE RETRIEVAL 
+WONAMEACH Ft 
+Nati 
+mCLuCED Leman. 
+INCOME,* 
+MN 
+INCLUDED MINUTES 
+WPAUJIMAC34 FL 
+1MN 
+MOTAND MEWLS 
+NEW VOW NY 
+INN 
+MIN WOOL TO V004. 
+SOYNTOM 
+FL 
+!MN 
+Mau 0 PANuT
+MN 
+*CAIRO i1/44Nuis 
+SCOW* 
+WPNAME 
+FL 
+Ditto 0 PANUT 
+WPMJIO
+FL 
+614N 
+Wm PO NOR TO WOOL 
+wow° 
+INN 
+NUDGED MNUTLS 
+WVALIMFACH FL 
+NAN 
+LONMILD WHEN() MX 
+WPAIMBEACI4 FL 
+SINN 
+MILINIIED WAND WIN 
+=
+ei. 
+NAN 
+UMERILD WN104,1900. 
+MN 
+ONONIII Z2 WI/100m 
+WPM.WW.A04 a 
+W4 
+MADAM WAND Mk 
+APAMMEACH FL 
+MN 
+LINOMTED KINKNO MS 
+DOVNTONSC14 FL 
+MN 
+ChILIVITID WOMEN MN 
+WPMT1 
+FL 
+647. 
+LTA wig PWOIND MN 
+WM. 
+Et 
+MN 
+WNW, 
+Nnii040 NN 
+IlOYNT ti 
+P 
+bUYNT l, 
+I 
+IAN 
+uriuMT 
+WIANDinN 
+MN 
+UNWED Mtato MN 
+FlOYNTOM304 a 
+MN 
+UMPATED/WaND MN 
+MPNAMEACN a 
+MN 
+INCLUDED 44NUITES 
+WPALNISEACN R 
+MN 
+LIRm v0 
+T8 m00. 
+WPMANITA044 R 
+gl e.
+iiiikoa 
+r1:74in s.'.
+Wing,131
+L. 
+MN
+INCtil 
+rANU4S 
+SCOW% 
+MN 
+IAN 
+gicLMICVIVIVITES 
+MN 
+ 
+NN 
+IRWANT 
+TO tart 
+CIAIX lamors 
+MN 
+tiCLum JANINE5 
+MN 
+ACLUEED UNDIES 
+MN 
+003,1200) WEINES 
+NM 
+EICLu 
+ 
+MN 
+Weal 
+LILEIMNUELSEIS
+MN 
+NCLLI 
+MNVTES 
+MN 
+%0.0 
+mut 
+MN 
+MC, 
+MN 
+LAMA 
+C. To moot 
+EV! 
+MEESJE.... RETVEVAL 
+MN 
+MCLUDED MIMES 
+MN 
+UNMATED WENN° MN 
+1.1/4 
+IMMATED IPONN0 MN 
+IAN 
+imolai 
+Wtom MN 
+MC 
+MN 
+Lamm t HMI 4.44 
+Igillil 11.1 g ilE 
+LEN 
+Not 
+(VT 
+MESSACIE RETAIL vAL 
+FL 
+Mill 
+MUNRO WIDOW VW 
+FL 
+INN 
+Lonnattp WNW* INN 
+NM 
+uNtiag NW/ MN 
+ANN 
+UN 
+AV" 
+WI 
+Mt 
+TONT 
+um 
+R 
+fit 
+UNMATED NVOIND MIN 
+1101 
+UNMATED NYM/43 NW 
+IL 
+PALM 
+ACK FL 
+1
+NVON.41 EACH FL 
+VIP AO. EACH a 
+WPALM EACH FL 
+SOVIET 
+OC14 Ft 
+IMML 
+FL 
+PALM 
+WP 
+L 
+%COMING 
+WPALMSEACII a 
+WPAL
+H FL 
+WPALM 
+MBEAC= Ft 
+C beer 
+EFTA01692767

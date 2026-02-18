@@ -1,0 +1,7379 @@
+# 🔍 Fbi-Raw
+> **Category:** FBI Records
+> **Source:** `03-FBI-RECORDS/extract-fbi-raw.txt`
+> **Lines:** 7,337
+> **Generated:** 2026-02-12T11:12:00
+
+## 🏷️ Tags
+`legal` · `fbi-raw` · `trump` · `epstein` · `maxwell` · `prince-andrew` · `acosta`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Epstein](Epstein) | 401 |
+| [Maxwell](Maxwell) | 105 |
+| [Prince Andrew](Prince Andrew) | 20 |
+| [Trump](Trump) | 2 |
+| [Acosta](Acosta) | 1 |
+
+## 🔑 Keywords
+
+`( (C1D) (FBI)` · `(> wrote: 
+On Aug 25, 2019 10:26 AM,` · `(CID) (FBI)` · `(Cc 1D) (FBI)” < 
+NYPD / FBI 
+NYPD / FBI 
+To:` · `(D (NY) (FB1)` · `(DO) (FBI) 
+(NY ) (FBI)` · `(EE @tbi.gov> 
+(NY) (FBI)` · `(FBI)` · `(NY ) (FBI)` · `(NY) (FBI` · `(NY) (FBI)` · `(USANY S)` · `)fbi.gov> 
+To: (NY) (FBI)` · `. (NY) (FBI)` · `. (c1D) (FBI” < 
+On Aug 25, 2019 10:28 AM,` · `. \(NY\) \(FBI\)` · `9. HE P. (NY) (FBI)` · `< 
+(CID) (FBI)` · `< 
+(CN) (FBI)` · `< 
+(FBI)`
+
+## Full Extract
+
+```
+interviewed by the FBI. identifying information ‘is 
+1. I am currently employed as a Special Agent with the Federal Bureau of 
+Investigation (“FBI”) and have been so employed for the past ten years. I am assigned to the 
+Federal Bureau of Investigation 
+cc: ‘es. Federal Bureau of Invest 
+FEDERAL BUREAU OF INVESTIGATION 
+FBI FACSIMILE 
+From: FBI ~- PBCRA 
+originator or the local FBI Office immediately to arrange for proper disposition. 
+Miami FBI 
+, FBI St. Thomas, and requested she contact Unite 
+FBI 
+FBI 
+FBI-NY Computer Analysis Response Team 
+a FBI 
+CJ Volunteered/Subpoenaed Medium - Not FBI ELSUR 
+C) Volunteered/Subpoenaed Medium - Not FBI ELSUR 
+CO) Volunteered/Subpoenaed Medium - Not FBI ELSUR 
+FBI VALUABLE Ey 
+A. The FBI. 
+The FBI. 
+What's your title at the FBI? 
+for the FBI? 
+background? What types of work do you do at the FBI? 
+FBI obtain this document? 
+The Federal Bureau of Investigation. 
+special agent with the FBI. Is that correct? 
+Q. Has the FBI investigated Maxwell and Epstein's 
+Q. Did your squad at the FBI execute a search warrant 
+Q. And to be clear, did the FBI find sex toys during 
+FBI 
+the testimony last week. You also heard testimony from FBI 
+Force with the FBI. 
+the FBI? 
+investigation has another member of the FBI task force 
+testimony given by FBI Special Agent po before a 
+A. "The Federal Bureau of Investigation." 
+Q. "Has the FBI investigated Maxwell and Epstein's 
+Q. "Did your squad at the FBI execute a search 
+Q. "And to be clear did the FBI find sex toys during 
+Q. "And did you also testify earlier that the FBI 
+FBI office in Florida into Jeffrey Epstein? 
+investigation into Epstein did the other FBI office obtain 
+A. The Federal Bureau of Investigation. 
+special agent with the FBI. Is that correct? 
+Q. Has the FBI investigated Maxwell and Epstein's 
+Q. Did your squad at the FBI execute a search warrant 
+And to be clear, did the FBI find sex toys during 
+Q. And did you also testify earlier that the FBI 
+and conferring with the FBI and Drew Oosterbaan, you decided 
+by the FBI to enhance the federal investigation, right? As 
+Attorney's Office and the FBI having conducted their own 
+police chief, or even the FBI, or the girls, and Ba 
+and neither your office nor the FBI would intervene regarding 
+arguments, and after conferring with FBI and Tl Mele {itiog 
+Q Do I have that right? And so, the FBI has their 
+to avoid the NPA's terms led the FBI investigative team, the 
+FBI or the office to overstate the victimization for monetary 
+investigation by that office, and the FBI, for engaging in 
+County would have brought it to either the FBI or to the Palm 
+Q -~- in mid-2006, after the FBI and indeed the 
+I said I was willing to invest time and the FBI was willing 
+-- the investigative team, the FBI -- 
+essentially from = Ea that the FBI was planning to do 
+did you have any idea why the FBI was planning a press 
+Q Was it -- how typical was it for the FBI to plan a 
+witnesses, was the FBI and the line attorney with the 
+combination with the FBI, would be pursuing those matters, 
+the FBI, and they were conducting individualized assessments 
+such an offer is completely unacceptable to the FBI, ICE, the 
+understanding of what the FBI's position about prosecuting 
+A My recollection of interaction with the FBI is with 
+know what the FBI's view was about the prosecution? 
+question was an understanding of the FBI's position of the 
+So, the question is, what was the FBI's view about the case? 
+some point, when you say view, the FBI, to my recollection, 
+timeframe of prior to the FBI, and at that meeting, she was 
+A From within the office, from within the FBI. 
+And then the other is the FBI being loath to muck 
+understand that since it was at the state, the FBI may have 
+jail sentence and sex offender status, neither the FBI nor 
+I'm employed by the FBI. 
+What is your position with the FBI? 
+A The FBI. 
+We explained to her that the FBI's reporting is 
+A The FBI here in West Palm Beach. 
+PY I work for the FBI here in west 
+Q After the FBI became involved in this 
+Q Then when the FBI became involved, the FBI did 
+did the FBI analyze the data, specifically the call 
+the FBI in Palm Beach County. 
+the FBI. Can you tell the Grand Jury what particular 
+Q As part of your employment with the FBI have 
+Palm Beach Police Department did the FBI open its own 
+Q And has the FBI performed any interviews? 
+Q And through the FBI's investigation has the 
+FBI identified additional victims that perhaps the state 
+Federal Bureau of Prisons 
+New York), is owned and operated by the Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+the Federal Bureau of Prisons to visit or correspond with a federal prisoner as the representative of 
+within the Federal Bureau of Prisons (social or legal)? 
+U.S. DEPARTMENT OF TICE FEDERAL BUREAU O RI 
+I hereby authorize a representative of the Federal Bureau of Prisons to obtain any 
+facility located in Manhattan that is run by the Federal Bureau of 
+USAO-SDNY, the Federal Bureau of Investigation, the Department of Justice, Office of the 
+USAO-SDNY, the Federal Bureau of Investigation, the Department of Justice, Office of the 
+Notwithstanding their many promises to us about quick and effective processing of the 60+ devices they seized, the FBI is 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+production that FBI Palm Beach produced regarding the initial investigation. 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+’- Former Director of the FBI Robert Mueller II 
+Federal Bureau of Prisons 
+FBI in 2011 bya in the interview she gave the names of all the girls she helped to traffic (2) she 
+| know FBI was taking photos of the SHU generally and measuring the number of steps from Epstein’s cell to the guard 
+Can you guys provide us with at least a 100GB hard drive so that FBI CART to download the material? Let me know when 
+| know FBI was taking photos of the SHU generally and measuring the number of steps from Epstein’s cell to the guard 
+FBI New York 
+FBI New York 
+such that we can view them using a system we have access to. We're not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won't know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FBI New York Field Office 
+FEDERAL BUREAU OF INVESTIGATION 
+interview were FBI 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its contents are not 
+FBI New York Field Office 
+the Federal Bureau of Prisons. Those documents have been forwarded to that agency for their 
+FBI file and were previously produced to from that file in the fall of 2020, out of an abundance of 
+| 3513-008 | 2019.10.03 |FbiRepot SSC 
+J 8524-096 | 2021.08.20 IFBIaO2 
+with our standard response, we will simply advise the writer to contact the FBI. Please let me know if you have 
+with our standard response, we will simply advise the writer to contact the FBI. Please let me know if you have 
+with our standard response, we will simply advise the writer to contact the FBI. Please let me know if you have 
+To: (NY) (FBI)" < 
+FBI New York Field Office 
+FBI New York Field Office 
+NYPD / FBI 
+FBI file and were previously produced to you from that file in the fall of 2020, out of an abundance 
+Could you please assist us in obtaining a Relativity token for a an FBI analyst working on this case with us? 
+Federal Bureau of Prisons 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+Is there a place at the FBI for you to interview [jj at the end of the meeting with Victim Services ? | am ona tight 
+day. Could we have the meeting from noon to 1P.M.? My office is only one block away from the FBI meeting. 
+the FBI, their victim services folks are handling travel logistics. I’m cc’ing |, who should be able to 
+production is ready to load onto drives. To answer one of the questions you asked on a previous call, the FBI seized 
+approximately 3,500 nude images and 40,000 non-nude images during the New York and Virgin Islands searches. The FBI 
+is preparing all approximately 43,500 images to be viewable on a secure laptop that can reviewed at the MDC. The FBI 
+from the BOP for an FBI agent to bring the laptop into the facility. Once we have that, we will reach out to you to schedule 
+review physical items in the FBI’s custody. 
+(NY) nee <q >," (NY) (FBI)" 
+>, (SI) (FBI)" < > Im! 
+(NY) (FBI)" < 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+2. Former Director of the FBI Robert Mueller II 
+FBI New York 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+To: Press <Press(@jmd.usdoj.gov>; NPOW@ic.fbi.gov; 
+Topic: Federal Bureau of Investigation (FBI) 
+NYPD / FBI 
+agents of the Federal Bureau of Investigation. 
+agents of the Federal Bureau of Investigation. 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FBI New York Field Office 
+Subject: FBI remarks 
+Please see the attached draft remarks from the FBI. I looked them over quickly and they seem to track ours pretty 
+FBI New York Field Office 
+As an FBI agent, and as a father first, | stand among many who make 
+The number to call is 1-800-CALL-FBI. 
+excuse for this kind behavior. In the eyes of the FBI, the victim always 
+the FBI’s Criminal Division in New York for their hard work on this 
+abused by Epstein. (DE 407 at { 4.) In 2006, at the request of the PBPD, the Federal Bureau of 
+Investigation (“FBI’) opened an investigation into allegations that Epstein and his personal 
+to engage in illegal sexual activities. (DE 407 at 45.) The FBI ultimately determined that both 
+Doe | provided information about her abuse and Jane Doe 2's abuse to the FBI on August 7, 
+2007, FBI agents had delivered to Jane Doe | a standard CVRA victim notification letter.' The 
+Initially, Jane Doe 2 was unwilling to provide any information to the FBI or the Office 
+under the CVRA. Although Jane Doe | and 2 were given|Jjand the FBI agent's 
+From the time the FBI began investigating Epstein until September 24, 2007—-when 
+In addition to Jane Doe 1, FBI agents only talked to two other victims out of the 34 
+January 10, 2008, Jane Doe | and Jane Doe 2 were sent victim notification letters from the FBI 
+resolution. (Jane Doe | Decl. 49.) On January 31, 2008, Jane Doe | met with FBI Agents and an 
+received a letter from the FBI advising her that “[t]his case is currently under investigation. This can 
+On June 30, 2008, the Office sent an e-mail to Epstein’s counsel: “The FBI has received 
+document was disclosed when the Agreement was filed under seal, but the FBI and our office are 
+provide all grand jury materials; provide any information regarding FBI 
+harm or embarrassment. The disclosure of information contained in the FBI 
+18 Disclosure of information from the FBI file would also reveal sensitive FBI 
+contained within an FBI investigative file, if revealed, might compromise the 
+effective use of such methods in future cases. The FBI's investigative tools must 
+Subject: Accepted: Epstein Op Meeting with FBI 
+Event: Accepted: Epstein Op Meeting with FBI 
+FBI New York 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+Lo Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+way-to-an-fbi-investigation-1.7090960 
+le. _ The FBI may be about to probe Netanyahu's 
+Charge of the New York Field Office of the Federal Bureau of Investigation 
+("FBI"), and Patricia Tarasca, the Special Agent-in-Charge of the New York 
+State Attorney General, BARRY W. MAWN, Assistant Director-in-Charge of the Federal Bureau of 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+Lo Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+State Attorney General, BARRY W. MAWN, Assistant Director-in-Charge of the Federal Bureau of 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+Lo Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+Charge of the New York Field Office of the Federal Bureau of Investigation 
+("FBI"), and Patricia Tarasca, the Special Agent-in-Charge of the New York 
+State Attorney General, BARRY W. MAWN, Assistant Director-in-Charge of the Federal Bureau of 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+. Former Director of the FBI Robert Mueller II 
+way-to-an-fbi-investigation-1.7090960 
+les The FBI may be about to probe Netanyahu's 
+Charge of the New York Field Office of the Federal Bureau of Investigation 
+("FBI"), and Patricia Tarasca, the Special Agent-in-Charge of the New 
+State Attorney General, BARRY W. MAWN, Assistant Director-in-Charge of the Federal Bureau of 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+ly Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+my many offers to do so (same goes for DoJ/FBI): | would absolutely HUMILIATE them. 
+Yes SDNY/NY Supreme Courts, SEC IG Hoecker, Audrey Strauss, FBI, IRS Cl etc etc etc: It just so happens | took a 
+Strauss, Mr Kamensky's counsel, FBI, other DoJ attorneys are in possession of information which clearly 
+| once challenge the best and brightest the SEC/DoJ/FBI/IRS Cl/FINCEN have to offer. Tear me to shreds. Make 
+https://www.reuters.com/article/bc-finreg-fbi-laundering-private-equity-idUSKCN24F1TP 
+les FBI concerned over laundering risks in private 
+The U.S. Federal Bureau of Investigation believes firms in the 
+e [Analyst’s note: Abdi Yusuf Hassan and Mohamed Tahlil Mohamed positive for FBI holdings.] 
+e Vifias spent eight years talking to the FBI while he was locked up and provided what former FBI acting 
+facility located in Manhattan that is run by the Federal Bureau of 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Subject: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation 
+https://www.cnbe.com/2019/12/27/jeffrey-epstein-friend-ghislaine-maxwell-under-fbi-investigation.html 
+FBI Washington field office got an F for fighting domestic terrorism from bureau officials (nbcnews.com) 
+was with ISIS, but was in fact an FBI undercover agent. 
+« “Cole James Bridges: is positive in FBI holdings. Program Manager: CTD 
+arrest. Video from the scene showed an FBI officer carrying the shotgun seized from the SUV to an evidence van. 
+way-to-an-fbi-investigation-1.7090960 
+les The FBI may be about to probe Netanyahu's 
+Charge of the New York Field Office of the Federal Bureau of Investigation 
+("FBI"), and Patricia Tarasca, the Special Agent-in-Charge of the New Yor 
+State Attorney General, BARRY W. MAWN, Assistant Director-in-Charge of the Federal Bureau of 
+christopher.delzotto@ic.fbi.gov; michael.braconi@ic.fbi.gov; kathy.enstrom@ci.irs.gov; i: 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+Lo Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+*- Former Director of the FBI Robert Mueller II 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+Lo Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+From FBI 
+. (NY) (FBI)" < >, > 
+FBI New York 
+Authority from the FBI while being a member of the joint task force with the 
+FBI and the NYPD whose responsibilities were to investigate the federal 
+FBI jackets and had weapons visible. The agents physically searched J and questioned 
+Authority from the FBI while being a member of the joint task force with the 
+FBI and the NYPD whose responsibilities were to investigate the federal 
+FBI jackets and had weapons visible. The agents physically searched ae and questioned 
+cases (DEA, FBI, SFO, OCTRIS), cross-border penitentiary law (repatriation) 
+As we discussed on our call with Jj and IJ on Friday, my understanding is that the FBI has ceased reviewing all 
+(b) images and videos identified as Responsive during the review conducted by the FBI and SDNY this fall, and (c) portions 
+4. We produced the FBI report bearing Bates number SDNY_GM_02050812-14 in the form in which it was 
+rather, the redactions existed on the document at the time the document was found during the FBI's search of 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+FBI collected item log regarding 
+FBI report regarding review of 
+FBI collected item log regarding 10 
+to review physical items in the FBI’s custody. 
+IT APPEARING that the United States Attorney's Office and the Federal Bureau of 
+been the subject of the joint investigation by the Federal Bureau of Investigation and the 
+Federal Bureau of Investigation 
+the Department of Justice, state prosecutor’s offices, the FBI, and any other 
+FBI, and any other federal and state investigative agencies. 
+11. We request a complete, unredacted copy of the FBI 302 produced by the government 
+. We request the complete FBI’s case file regarding the investigation (iil 
+matter to the Federal Bureau of Investigation (FBI) in West Palm Beach for a possible federal 
+The FBI brought the matter to an Assistant U.S. Attorney (AUSA), who opened a file with 
+She worked with two FBI case agents to develop a federal case against Epstein and, in the course 
+submitted declarations from the AUSA and the FBI case agents who conducted the federal 
+of records from the USAO, the FBI, and other Department components, including the Office of 
+of witnesses, including the FBI case agents, their supervisors, and FBI administrative personnel; 
+with the USAO and the FBI. 
+signed, including victim notification letters issued by the USAO and the FBI and interviews 
+failed to inform them of the NPA. The letters were sent by an FBI administrative employee who 
+FBI when communicating with victims, and were not drafted or reviewed by the subjects. 
+4. We produced the FBI report bearing Bates number SDNY_GM_02050812-14 in the form in which it was 
+rather, the redactions existed on the document at the time the document was found during the FBI's search of 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+Federal Bureau of Prisons 
+medical examiner in the near future. The Federal Bureau of Investigation (FBI) is actively 
+investigating the incident. In addition to the FBI's investigation, the Attorney General has 
+FBI/NYPD 
+since being interviewed by SDNY & FBI in 2020. Jis available to be re-interviewed if necessary. 
+| take that back. In one of the initial emails FBI sent over, they included a draft agenda. We have since had discussions 
+FBI NYO: Safety concerns; media interaction 
+Didn’t we get a rough outline from FBI of what they want to do at these two victim sessions? | can’t seem to find. If you 
+want to confirm that the FBI team addressing this matter has also been informed—but that’s only if this is not a hoax, 
+to the conduct in this case to please contact 1-800- CALL FBI.” 
+>, (NY) (FBI)" < 
+(NY) (OGA) (FBI)" % 
+(NY) (FBI)" < > 
+Thanks {. To be clear, the productions they are sending today consist of the 40,000 images, documents from the FBI 
+Florida boxes, and documents from the FBI FOIA office. They are not sending, and have not sent, us any productions from 
+Thanks Ted. To be clear, the productions they are sending today consist of the 40,000 images, documents from the FBI 
+Florida boxes, and documents from the FBI FOIA office. They are not sending, and have not sent, us any productions from 
+review physical items in the FBI’s custody. 
+not producing pretrial detainees to proffer rooms to review discovery and therefore an FBI agent 
+from Epstein’s residences available for inspection at the FBI’s offices satisfied the government’s 
+discovery obligations because Ms. Maxwell could not be produced to the FBI’s offices to review 
+them. You responded that defense counsel could make a request to have the FBI deliver those 
+to inspect them at the FBI’s offices and they are still not ready for her to review in the MDC. 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+Today, we spoke with SAR, one of the original FBI agents from the Florida investigation of Epstein. Jj told 
+should encompass any emails with the FBI about the Epstein case. [jis going to send us any emails he received from 
+Team- both | Ee HB followed up on the review of images from the Epstein devices and FBI assured us that they will 
+Today, we spoke with SA i, one of the original FBI agents from the Florida investigation of Epstein. J 
+and should encompass any emails with the FBI about the Epstein case. Jj is going to send us any emails he received 
+two boxes from FBI case file 72-MM-113327 and the remainder from FBI case file 31E-MM-108062. Please don’t hesitate 
+example, | believe that the FBI takes the view that photos do not need to be reviewed for privilege in the first instance. 
+Subject: RE: New potential victims of Epstein and some of Maxwell who are willing to speak to you and the FBI. 
+Subject: RE: New potential victims of Epstein and some of Maxwell who are willing to speak to you and the FBI. 
+Subject: New ee victims of Epstein a aa some of Maxwell who are willing to speak to you and the FBI. 
+number of technical issues on getting the data from the DVDs sent by the FBI uploaded to Relativity, which went into the 
+Obviously | don’t have a vote, but personally, unless FBI did some very specific notations in the originals that are easily 
+Everything is going out via fedex today. It will be sent to FBI New York (discs and boxes) to | 
+FBI New York 
+two boxes from FBI case file Ue the remainder from FBI case i. _—_— Please don’t hesitate 
+matter to the Federal Bureau of Investigation (FBI) in West Palm Beach for a possible federal 
+The FBI brought the matter to an Assistant U.S. Attorney (AUSA), who opened a file with 
+She worked with two FBI case agents to develop a federal case against Epstein and, in the course 
+submitted declarations from the AUSA and the FBI case agents who conducted the federal 
+of records from the USAO, the FBI, and other Department components, including the Office of 
+of witnesses, including the FBI case agents, their supervisors, and FBI administrative personnel; 
+with the USAO and the FBI. 
+signed, including victim notification letters issued by the USAO and the FBI and interviews 
+failed to inform them of the NPA. The letters were sent by an FBI administrative employee who 
+FBI when communicating with victims, and were not drafted or reviewed by the subjects. 
+investigative agencies, the Department of Justice, Office of the Inspector General, as well as the Federal Bureau 
+(NYPD) s,s (NY) (FBI) 
+FBI New York Field Office 
+FBI New York Field Office 
+NYPD / FBI 
+etc)\2018-12-04, FBI Case File 
+FBI believes (as of January) that Maxwell is still living with a friend in the Boston suburb of Manchester by the Sea 
+FBI New York 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FBI believes (as of January) that Maxwell is still living with a friend in the Boston suburb of Manchester by the Sea 
+FBI New York 
+On another FY! -- FBI Seattle and FBI Las Vegas executed a search today on a warehouse owned by Epstein's favorite 
+The Federal Bureau of Investigation and the U.S. Attorney’s Office conducted an 
+Dear The FBI has informed us that a case disposition conference has been set in the Epstein case on 
+Hi Jeff — Another girl just called FBI after being approached by private investigators for Epstein. 
+I also told [J that one of our victims tried to commit suicide last week. The FBI’s victim-witness coordinator 
+About 10 letters have gone out so far. The FBI’s victim coordinator is updating the addresses on the rest and 
+Agreement with defendant Epstein that is at the center of this litigation and (2) the FBI’s report 
+In 2006, at the request of the Palm Beach Police Department, the Federal Bureau of 
+On about October 26, 2007, FBI Special Agents 3 ani 
+On around January 10, 2008, Jane Doe #1 and Jane Doe #2 received letters from the FBI 
+and we request you continued patience while we conduct a thorough investigation.” The FBI 
+CVRA applied to Jane Doe #1 and Jane Doe #2. The FBI did not notify Jane Doe #1 or Jane 
+desired to be consulted by the FBI and/or other representatives of the federal government about 
+In the spring 2008, Jane Doe #1 contacted the FBI because Epstein's counsel was 
+Agreement. The reason that AUSA \§§ and the FBI agents acting with her did not provide 
+on around January 10, 2008, Jane Doe #1 and Jane Doe #2 received letters from the FBI advising 
+The Government apparently has a report of interview indicating that two named FBI 
+substance of the agreement to my clients? And, if so, would you stipulate that the FBI agents 
+of Interview with my client (i.c., an FBI 302). My client has a differing recollection of some 
+The Federal Bureau of Investigation and the U.S. Attorney’s Office conducted an 
+Hi Jeff — Another girl just called FBI after being approached by private investigators for Epstein. 
+the FBI to step in.) Since the federal investigation began, Epstein’s counsel have continued the case repeatedly 
+federal investigation. We have learned that FBI Special Agent J attempted to convince these adult women, now 
+uncertain terms—that she does not, and never did, feel like a “victim,” despite the fact that the FBI repeatedly tried to 
+IT APPEARING that the United States Attorney’s Office and the Federal Bureau of 
+been the subject of the joint investigation by the Federal Bureau of Investigation and the 
+| is the e-mail chain with The only sources of the information are our Office and the FBI. 
+Jeff — This is the e-mail chain with JJ The only sources of the information are our Office and the FBI. is 
+was sure whether you want an FBI presence at the meeting on Friday and thought I should ask you. Could you let 
+was sure whether you want an FBI presence at the meeting on Friday and thought I should ask you. Could you let 
+IT APPEARING that the United States Attorney’s Office and the Federal Bureau of 
+Hi all — The FBI had their meeting with the ASA this morning. She wasn’t aware of the December 16" date, and 
+When the FBI asked her if she would do that, she said she wo ave to talk to She also wouldn't say 
+Department of Corrections. I have asked FBI to find out whether “sexual predators” (which will be Epstein’s 
+The FBI’s victim-witness coordinator attended and she has arranged for counseling for several of the girls. 
+the FBI to step in.) Since the federal investigation began, Epstein’s counsel have continued the case repeatedly 
+on the summaries of federal prosecutors and FBI agents, against whom we have raised serious 
+o Ms. Si indicated under oath that the FBI attempted to persuade her that 
+Act request to the Federal Bureau of Investigation (FBI) for documents relating to 
+this and the other cases; the FBI denied the request stating the materials are at 
+From: eee) (FBI) 
+To: ' . (FBI)" < 
+“a . (FBI)" < 
+_(FBI)" < >, i (FB 1)" 
+_(FBI)" < >, a 631)" 
+guard nor any building tenant that FBI questioned knows of the existence of such a business. And, of course, 
+From: ines (FBI) 
+Agreement with defendant Epstein that is at the center of this litigation and (2) the FBI’s report 
+In 2006, at the request of the Palm Beach Police Department, the Federal Bureau of 
+On about October 26, 2007, FBI Special Agents E. Nesbitt Kuyrkendall and Jason 
+On around January 10, 2008, Jane Doe #1 and Jane Doe #2 received letters from the FBI 
+and we request you continued patience while we conduct a thorough investigation.” The FBI 
+CVRA applied to Jane Doe #1 and Jane Doe #2. The FBI did not notify Jane Doe #1 or Jane 
+desired to be consulted by the FBI and/or other representatives of the federal government about 
+In the spring 2008, Jane Doe #1 contacted the FBI because Epstein's counsel was 
+Agreement. The reason that AUSA Villafafia and the FBI agents acting with her did not provide 
+on around January 10, 2008, Jane Doe #1 and Jane Doe #2 received letters from the FBI advising 
+The Government apparently has a report of interview indicating that two named FBI 
+Office nor the Federal Bureau of Investigation can take part in or otherwise assist in civil 
+guard nor any building tenant that FBI questioned knows of the existence of such a business. And, of course, 
+criminal deposition), (through a federal FBI-USAO sworn and transcribed 
+and FBI 302s, which are essential for you to be able to make a truly independent assessment of 
+dispute over what the FBI agents told J in September 2007, | asked the court to permit the parties to speak 
+Please understand that neither the U.S. Attorney’s Office nor the Federal Bureau of 
+Attorney’s Office nor the Federal Bureau of Investigation can take part in or otherwise assist 
+From: . (FBI) 
+IT APPEARING that the United States Attorney's Office and the Federal Bureau of 
+been the subject of the joint investigation by the Federal Bureau of Investigation and the 
+Department sought the assistance of the Federal Bureau of Investigation (FBI). Id. Throughout the 
+FBI Victim-Witness Specialist and AUSA Wa. Id. ,4 3. Petitioner’s counsel, Brad Edwards, Esq., 
+currently represents MB and i. The victim notification letter to was hand-delivered by FBI agents. 
+Throughout the investigation, AUSA | the FBI’s Victim-Witness Specialist had contact with 
+GE Dect. g8. AUSA SR tne FBI agents, and the Palm Beach Police Department, all attempted 
+Epstein. The case was investigated by the Federal Bureau of Investigation (“FBI”). The federal 
+were provided to her both from your Affiant and from the FBI’s Victim-Witness Specialist. Attached 
+Your Affiant’s letter to | hand-delivered by the FBI agents (Ex. 1). Your Affiant’s letter to 
+andi also received letters from the FBI’s Victim-Witness Specialist, which were dispatched on 
+2008. The FBI’s Victim-Witness Specialist sent a letter ofl on May 30, 2008 (Ex. 5). 
+4. Throughout the investigation, the FBI agents, the FBI’s Victim-Witness Specialist, and 
+¢ After Epstein enters his state court plea and is sentenced, the FBI and the U.S. Attorney’s Office 
+not binding until there was an actual agreement. My understanding is that the victims were not consulted (with the exception of the FBI 
+They also still want a free transcript and any FBI 302’s prepared for the meeting with 
+agreement that the U.S. Attomey’s Office, the FBI, and other federal agents all complied 
+by FBI agents or your office, that those interview reports containing those statements be 
+the office suite door reflects that such a business is located there, and neither the security guard nor any building tenant that FBI questioned 
+Epstein. The case was investigated by the Federal Bureau of Investigation (“FBI”). The federal 
+were provided to her both from your Affiant and from the FBI’s Victim-Witness Specialist. Attached 
+Your Affiant’s letter to Be 2s provided by the FBI. (Ex. 1). Your Affiant’s letter to |S 
+BB a!so received letters from the FBI’s Victim-Witness Specialist, which were sent on January 10, 
+2008 (Exs. 3 & 4). Bs identified via the FBI’s investigation in 2007, but she initially refused to 
+interviewed by federal agents on May 28, 2008. The FBI’s Victim-Witness Specialist sent a letter to 
+3. Throughout the investigation, the FBI agents, the FBI’s Victim-Witness Specialist, and 
+hostile to the prosecution of Epstein. The FBI attempted to interview | October 2007, at which 
+performed his obligations, BB contacted the FBI because Epstein's counsel was attempting to take 
+and she only went once. She said she was ashamed and uncomfortable. She is coming to FBI @ 930 Mon. We may want to met with [J as 
+newspapers reported that Epstein is cooperating with FBI in the Madoff prosecution and that was the real reason 
+our evidence — or at least speak with me and the FBI agents -- to prosecute Epstein regarding conduct in New 
+A U.S. Federal Bureau of Investigation probe is focusing on British socialite Ghislaine Maxwell, a longtime associate of 
+jail prompted an ongoing lockdown and forced overworked staff to put in even longer hours. The FBI is investigating the 
+The FBI is investigating the flow of contraband into the facility. 
+William F. Sweeney Jr., the FBI's assistant director in charge of the New York office, said this practice forced horses to 
+The probe, started two years ago by the Federal Bureau of Investigation, turned up a total of nine trainers, nine 
+William Sweeney, assistant director in charge of the FBI's New York office, said at a press conference. 
+A U.S. Federal Bureau of Investigation probe is focusing on British socialite Ghislaine Maxwell, a longtime associate of 
+jail prompted an ongoing lockdown and forced overworked staff to put in even longer hours. The FBI is investigating the 
+The FBI is investigating the flow of contraband into the facility. 
+William F. Sweeney Jr., the FBI's assistant director in charge of the New York office, said this practice forced horses to 
+The probe, started two years ago by the Federal Bureau of Investigation, turned up a total of nine trainers, nine 
+William Sweeney, assistant director in charge of the FBI’s New York office, said at a press conference. 
+Chief or the AUSA contact the FBI to have them look at the documents and determine if they are classified. He wants this 
+NYPD / FBI 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI team 
+those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other entities, but | can 
+FBI New York 
+».1510171437462_FBI1,,|1510171974096_DB3b.jpg 
+FBI Number: 787075K5 Ethnicity: Unknown 
+N. (NY) (FBI)" < 
+NYPD / FBI 
+Subject: Epstein Op Meeting with FBI 
+Event: Epstein Op Meeting with FBI 
+Subject: Accepted: Epstein Op Meeting with FBI 
+Event: Accepted: Epstein Op Meeting with FBI 
+| called her, you should not be receiving any more calls or emails. She refuses to call the tip line or the FBI office. 
+would it be possible for someone to respond to her and ask that she contact the FBI tip line with any 
+Florida and the FBI Office that were working with them as follows: 
+and FBI agents from either or both offices in 2008 in and around New York City, 
+or FBI agents working with them at any time from 2007-2019. 
+the Southern District of New York or FBI agents working with them at any time from 
+Attachments: FBI 0000018415 native.pdf; FBI 0000018635 _native.pdf; FBI 0000011921 native.pdf; 
+FBI_ 0000014600 _native.pdf 
+(NY) (FBI)" = 
+enforcement and we are trying to stop whomever is doing that). He should have called the FBI number in your 
+press release. Could you please forward this to your FBI agents and let them deal with it? If they get back to you 
+him if he continues to be a problem. But before we do that, just in case this is useful, let the FBI hear it and let us 
+Ce: "Young, Amanda N. (NY) (FBI)" < > " 
+| wanted to follow up to check in—please let us know if you’re having any issues connecting with the FBI's victim 
+discussed, please feel free to contact the FBI's victim coordinator, who can speak with you about resources that might be 
+available to Ms. I. The FBI representative is Her number is I. Our primary concern is Ms. 
+Let us know what works best from you on the FBI side. Do you want to call my desk when you’re together? On our end, 
+Federal Bureau of Investigation (“FBI”), and =o Commissioner of the New York 
+FBI Assistant Director ME, said: “We are asking anyone who may 
+be an excuse for this type of behavior. In the eyes of the FBI, the victims will always come 
+the FBI for their tireless efforts to ensure child predators are taken off our streets. The NYPD 
+please contact the FBI at 1-800-CALL FBI, and reference this case. 
+Mr. Berman praised the outstanding investigative work of the FBI and the NYPD. He 
+FBI Assistant Director ME said: “We are asking anyone who may have been victimized 
+The number is 1-800-CALL-FBI. We want to hear from you, regardless of the age you are now, or whatever age 
+there ever be an excuse for this type of behavior. In the eyes of the FBI, the victims will always come first.” 
+FBI Assistant Director iE said: “We are asking anyone who may have been victimized 
+The number is 1-800-CALL-FBI. We want to hear from you, regardless of the age you are now, or whatever age 
+there ever be an excuse for this type of behavior. In the eyes of the FBI, the victims will always come first.” 
+Good with me. | believe we are using FBI line but you should confirm that with 
+FBI Assistant Director ME said: “We are asking anyone who may have been victimized 
+The number is 1-800-CALL-FBI. We want to hear from you, regardless of the age you are now, or whatever age 
+there ever be an excuse for this type of behavior. In the eyes of the FBI, the victims will always come first.” 
+the FBI secure the boots, Dkt. 269, p.2. This is an interference with Ms. Maxwell's ability to 
+Thanks very much for flagging. Our protocol in this case has been to forward all tips to the FBI-- our case agents 
+Attached is the corrected SW binder, which FBI informs me they are comfortable with. The only difference from the last 
+11/26/21, 7:16 PM Mail - Meder, Kimberly R. (NY) (FBI) - Outlook 
+11/26/21, 7:10 PM Mail - Meder, Kimberly R. (NY) (FBI) - Outlook 
+11/26/21, 7:11 PM Mail - Meder, Kimberly R. (NY) (FBI) - Outlook 
+To: . (NY) (FBI) < > 
+. (NY) (FBI) < > 
+To: | (NY) (FBI) < > 
+Ce: . (NY) (FBI) < > 
+FBI New York Field Office 
+Federal Bureau of Investigation 
+(NY) (FBI) 
+To: . (NY) (FBI) < > 
+Cc: } (NY) (FBI) < > i oy os) 
+Ce: (NY) (FBI) a eee (ny) (Oca) (2) 
+. (NY) (FBI) < 
+. (NY) (FBI) < 
+My supervisors gave me your name as the point of contact at the FBI to help coordinate the review of images and 
+(NY) (FBI) 
+(NY) (FBI) 
+>: (NY) (FBI) 
+| (NY) (FBI) < >; 
+(NY) (FBI) < 
+FBI New York Field Office 
+We will be joined by two FBI agents who are focusing on the CBP topics that we have previously discussed. | expect one 
+We will be joined by two FBI agents who are focusing on the CBP topics that we have previously discussed. | expect one 
+NYPD / FBI 
+FBI New York Field Office 
+FBI New York Field Office 
+preclude the possibility that the FBI does have a record. If you desire this information, please submit a 
+request directly to the FBI. 
+ORI: NYFBINY 
+NYPD / FBI 
+NYPD / FBI 
+10/6/21, 2:44 PM IIVFBI/State Delayed Response 
+ORI: NYFBINY 
+10/6/21, 12:59 PM IVFBI/State Delayed Response 
+NYFBINY 
+multiple NYS files maintained by the FBI available through the 
+Interstate Identification Index. Refer to FBI Number: 
+10/6/21, 12:59 PM IVFBI/State Delayed Response 
+10/6/21, 12:58 PM IVFBI/State Delayed Response 
+ORI: NYFBINYOO 
+FBI number: 
+FBI Number 
+10/6/21, 12:58 PM IWFBI/State Delayed Response 
+10/6/21, 12:58 PM IVFBI/State Delayed Response 
+10/6/21, 12:58 PM IWFBI/State Delayed Response 
+10/6/21, 12:58 PM IVFBI/State Delayed Response 
+Multi-Source - Subject has information maintained naintained by the FBI 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+ORI: NYFBINY! 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:43 PM IVFBI/State Delayed Response 
+ORI: NYFBINY 
+10/6/21, 12:43 PM IV/FBI/State Delayed Response 
+10/6/21, 12:42 PM NVFBI/State Delayed Response 
+ORI: NYFBINY'! 
+Federal Bureau of Investigation - New York 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IWFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:40 PM IVFBI/State Delayed Response 
+ORI: NYFBINY00 
+Federal Bureau of Investigation - New York 
+10/6/21, 12:37 PM NVFBI/State Delayed Response 
+ORI: NYFBINY 
+10/6/21, 12:18 PM IVFBI/State Delayed Response 
+ORI: NYFBINY! 
+FBI New York Field Office 
+10/6/21, 12:37 PM NVFBI/State Delayed Response 
+ORI: NYFBINY! 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+ORI: NYFBINY00 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:42 PM IVFBI/State Delayed Response 
+10/6/21, 12:40 PM NVFBI/State Delayed Response 
+ORI FBINY' 
+10/6/21, 12:58 PM IVFBI/State Delayed Response 
+ORI: NYFBINYO00 
+10/6/21, 12:58 PM IWVFBI/State Delayed Response 
+10/6/21, 12:58 PM IVFBI/State Delayed Response 
+10/6/21, 12:58 PM IVFBI/State Delayed Response 
+10/6/21, 2:44 PM IIVFBI/State Delayed Response 
+ORI: NYFBINY 
+10/6/21, 12:18 PM NVFBI/State Delayed Response 
+ORI: NYFBINS 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+ORI: NYFBINY00 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IWVFBI/State Delayed Response 
+10/6/21, 12:46 PM IWVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IWFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IWVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:46 PM IVFBI/State Delayed Response 
+10/6/21, 12:43 PM IVFBI/State Delayed Response 
+NYFBINY 
+10/6/21, 12:43 PM IV/FBI/State Delayed Response 
+* We are unable to view the JPMC files, which we understand to be from FBI in Florida. The two 
+FBI 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+Lo Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+My supervisors gave me your name as the point of contact at the FBI to help coordinate the review of images and videos 
+number of technical issues on getting the data from the DVDs sent by the FBI uploaded to Relativity, which went into the 
+Obviously | don’t have a vote, but personally, unless FBI did some very specific notations in the originals that are easily 
+Everything is going out via fedex today. It will be sent to FBI New York (discs and boxes) to —k——Ex attention. 
+two boxes from FBI case file 72-MM-113327 and the remainder from FBI case file 31E-MM-108062. Please don’t hesitate 
+FBI - New York - SO-9 
+One thing to note: because Maxwell is represented by counsel, the FBI is not permitted to speak with her. So as a 
+FEDERAL BUREAU OF INVESTIGATION, 
+(“RIDS”), Information Management Division (“IMD”), Federal Bureau of Investigation (“FBI”), 
+Winchester, Virginia. I joined the FBI in September 2011, and prior to my current position, | 
+November 2012 to June 2016; and an Assistant General Counsel, FBI Office of General Counsel, 
+In those capacities, | had management oversight or agency counsel responsibility for FBI FOIA 
+and Privacy Act (“FOIPA”) litigation cases nationwide. Prior to my joining the FBI, I served as 
+FBI employees, supported by approximately 91 contractors, who staff a total of ten (10) FBI 
+Headquarters (“FBIHQ”) units and two (2) field operational service center units whose collective 
+FBI records and information pursuant to the FOLA as amended by the OPEN Government Act of 
+1974; Executive Order 13,526; Presidential, Attorney General, and FBI policies and procedures; 
+followed by the FBI in responding to requests for information from its files pursuant to the 
+Specifically, | am aware of the FBI's handling of Plaintiff James Robertson’s FOIA request for 
+records related to the FBI’s investigation and prosecution of financier Jeffrey Edward Epstein. 
+In response to Plaintiff's request, the FBI processed on a document-by-document basis a total of 
+11,571 pages of responsive records. Of these pages, the FBI released 181 pages in full, released 
+the FBI's production; and/or the pages are sealed pursuant to United States Court order and thus 
+unavailable for release through the FOIA. In addition to the 11,571 processed pages, the FBI 
+procedures used to search for, review, and process responsive records; the FBI’s justification for 
+the FBI’s procedures for reviewing records that were categorically exempt pursuant to 
+submitted a FOIPA request to the FBI seeking “all documents relating to the FBI's investigation 
+(7) By letter dated April 28, 2017, the FBI acknowledged receipt of Plaintiff's FOIA 
+request, and notified Plaintiff it had assigned his request FBI FOIPA Request Number 1372398- 
+000. The FBI informed Plaintiff that, because he requested information on one or more third 
+party individuals, the FBI would neither confirm nor deny the existence of such records pursuant 
+to FOIA Exemptions 6 and 7(C), 5 U.S.C. § 552(b)(6) and (b)(7)(C). The FBI's response 
+explained that the mere acknowledgement of the existence of FBI records on third party 
+privacy. Additionally, the FBI advised it was closing Plaintiffs’ request. The FBI instructed 
+Plaintiff to visit www.fbi.gov, select “Services,” “Information Management,” and “Freedom of 
+individuals (living or deceased). Finally, the FBI informed Plaintiffs they could appeal the FBI’s 
+contact the FBI’s public liaison, and or seek dispute resolution services by contacting the Office 
+' An eFOIA is an electronic means by which requesters can submit FOIA requests to the FBI, 
+online, through the FBI’s public website, www.FBL gov. 
+? Plaintiff Radar Online had filed a Complaint on May 25, 2017. After the FBI pointed out that 
+(9) By letter dated October 11, 2017, the FBI released responsive records to 
+Plaintiffs. The FBI advised that it had reviewed 296 pages of records, released 38 pages of 
+(10) By letter dated November 1, 2017, the FBI released additional responsive records 
+to Plaintiffs. The FBI advised it reviewed 527 pages of records and released 25 pages of records 
+(11) By letter dated December 1, 2017, the FBI released additional responsive records 
+to Plaintiffs. The FBI advised it reviewed 562 pages of records and released 94 pages of records 
+(12) By letter dated January 2, 2018, the FBI released additional responsive records to 
+Plaintiffs. The FBI advised it reviewed 556 pages of records and released 38 pages of records in 
+(13) By letter dated February 1, 2018, the FBI advised it had withheld an additional 
+(14) By letter dated March 1, 2018, the FBI advised that it had reviewed 527 
+(15) By letter dated March 30, 2018, the FBI advised that it had withheld 520 pages in 
+(16) By letter dated May 1, 2018, the FBI advised that it withheld an additional 567 
+(17) By letter dated June 1, 2018, the FBI advised that it withheld 574 pages of records 
+(18) By letter dated July 2, 2018, the FBI advised that it withheld 547 pages of records 
+(19) By letter dated August 1, 2018, the FBI advised it withheld 526 pages of records 
+(20) By letter dated August 31, 2018, the FBI released responsive records to Plaintiffs. 
+The FBI advised it reviewed 508 pages of records, released 160 pages of records in full or part, 
+(21) By letter dated September 28, 2018, the FBI advised it withheld 532 pages of 
+(22) By letter dated October 31, 2018, the FBI released responsive records to 
+Plaintiffs. The FBI advised it reviewed 500 pages of records and released 174 pages of records 
+(23) By letter dated November 30, 2018, the FBI released responsive records to 
+Plaintiffs. The FBI advised it reviewed 518 pages of records and released seven (7) pages of 
+(24) By letter dated December 28, 2018, the FBI released responsive records to 
+Plaintiffs. The FBI advised it reviewed 519 pages of records and released four (4) pages of 
+(25) By letter dated March 1, 2019°, the FBI released responsive records to Plaintiffs. 
+The FBI advised it reviewed 574 pages of records and released 209 pages of records in full or 
+(26) By letter dated April 1, 2019, the FBI released responsive records to Plaintiffs. 
+The FBI advised it reviewed 515 pages of records and released 232 pages of records in full or 
+(27) By letter dated May 1, 2019, the FBI released responsive records to Plaintiffs. 
+The FBI advised it reviewed 540 pages of records and released 65 pages of records in full or 
+(28) By letter dated May 31, 2019, the FBI released responsive records to Plaintiffs. 
+The FBI advised it reviewed 519 pages of records and released 12 pages of records in full or 
+(29) By letter dated June 28, 2019, the FBI released responsive records to Plaintiffs. 
+The FBI advised it reviewed 527 pages of records and released 107 pages of records in full or 
+FBI informed Plaintiffs the material they requested was located in an investigative file exempt 
+from disclosure pursuant to 5 U.S.C. § 552(b)(7)(A).4_ The FBI categorically reviewed> the 
+underlying exemptions. The FBI withheld in full all remaining responsive records pursuant to 
+(31) By letter dated January 31, 2020, the FBI released additional responsive records 
+> During a categorical review, the FBI reviews each document and determines if the release of 
+© The FBI began processing documents in response to Plaintiffs’ request long before Mr. Epstein 
+July 2019, the FBI began to assert Exemption 7(B) given that (1) a trial or adjudication was 
+to Plaintiffs. In particular, the FBI released 46 pages of records in full or part, with certain 
+THE FBI'S CENTRAL RECORDS SYSTEM 
+maintained by the FBI in the course of fulfilling its integrated missions and functions as a law 
+and personnel functions. The CRS spans the entire FBI organization and encompasses the 
+records of FBI Headquarters (“FBIHQ”), FBI Field Offices, and FBI Legal Attaché Offices 
+(33) The CRS consists of a numerical sequence of files, called FBI “classifications,” 
+FBI, as well as categorical subjects pertaining to counterterrorism, intelligence, 
+purposes across the FBI, when a case file is opened, it is assigned a Universal Case File Number 
+the abbreviation of the FBI Office of Origin (“OO”) initiating the file, and (c) the assigned 
+the file classification, “HQ” indicates that FBI Headquarters is the FBI OO of the file, and 
+which meets the FBI’s investigative needs and priorities and allows FBI personnel to reasonably 
+(35) FBI employees may index information in the CRS by individual (persons), by 
+bank robbery). Indexing information in the CRS is done at the discretion of FBI investigators 
+Accordingly, the FBI does not index every individual name or other subject matter in the general 
+system that became effective for FBIHQ and all FBI Field Offices and Legats on October 1, 
+converted from automated systems previously utilized by the FBI into a single, consolidated case 
+management system accessible by all FBI offices. ACS had an operational purpose and design 
+to enable the FBI to locate, retrieve, and maintain information in its files in the performance of 
+all offices of the FBI a centralized, electronic means of indexing pertinent investigative 
+information to FBI files for future retrieval via index searching. Individual names were recorded 
+incorporated prior automated FBI indices; therefore, a search employing the UNI application of 
+ACS. As such, a UNI index search in ACS was capable of locating FBI records created before 
+(38) Sentinel is the FBI's next generation case management system that became 
+effective FBI-wide on July 1, 2012. Sentinel provides a web-based interface to FBI users, and it 
+includes the same automated applications that were utilized in ACS. After July 1, 2012, all FBI 
+® ACS was, and the next generation Sentinel system is, relied upon by the FBI daily to fulfill 
+replace ACS and its relevance as an important FBI search mechanism. Just as pertinent 
+most reasonable means for the FBI to locate records potentially responsive to FOIPA requests. 
+locate records responsive to Plaintiffs’ request, specifically “documents relating to FBI’s 
+records to more requesters, while conserving RIDS limited resources. As a result of the FBI's 
+(43) The FBI began processing documents in response to Plaintiffs’ request long 
+before Mr. Epstein was arrested in 2019. Therefore, the FBI initially processed the records 
+investigation became public in July 2019, the FBI began to assert Exemption 7(A) with respect 
+to withheld information. In addition, the FBI asserted Exemption 7(A) over all information that 
+(44) The FBI processed all documents responsive to Plaintiffs’ request to achieve 
+non-exempt information. The FBI did not withhold any reasonably segregable, nonexempt 
+provided in this declaration, could identify the actual exempt information protected by the FBI. 
+The FBI Bates-stamped all pages that it processed prior to July 2019 consecutively as “03956-1 
+(45) Additionally, with respect to the Bates-stamped records, the FBI further 
+information withheld. Specifically, the FBI applied numerical codes that coincide with various 
+Plaintiffs’ review of the FBI's explanations of the FOIA exemptions it has asserted to withhold 
+demonstrate that all material withheld by the FBI is exempt from disclosure pursuant to the cited 
+'2 FBI provided Plaintiffs a draft copy of the index. After the index was shared with Plaintiffs, 
+FBI discovered a number of documents that were stamped with previously-used Bates numbers. 
+(47) Listed below are the categories used to explain the FOIA exemptions the FBI 
+Names and/or Identifying Information of FBI Special Agents and 
+(b)(6)-6 and (b)(7)(C)-6 Names and/or Identifying Bag erTS Non-FBI Federal Government 
+(49) In Exemption category (b)(3)-1, the FBI protected information pertaining to child 
+crime committed against another person.” Accordingly, the FBI asserted Exemption 3, at times 
+(50) In Exemption category (b)(3)-2, the FBI protected Federal Grand Jury 
+copies of specific records provided pursuant to federal grand jury subpoenas. Wherever the FBI 
+the FBI properly withheld this information pursuant to Exemption 3, in conjunction with Rule 
+Additionally, the FBI also asserted Exemptions 6 and 7(C) over all information that falls within 
+(53) In Exemption Category (b)(5)-1, the FBI protected privileged, deliberative 
+reflect the final views or policies of the FBI. The exemption and privilege together protect not 
+process would result in harm. The FBI invokes Exemption 5 and the deliberative process 
+privilege because FBI employees would hesitate to offer their candid and conscientious opinions 
+(55) As described in more detail below, the FBI relied on Exemption 5 and the 
+(56) The FBI asserted Exemption 5 to withhold deliberative communications. These 
+Specifically, this material includes FBI and the United States Attorney (*AUSA”) discussions on 
+could become subject to public disclosure. Release could set a dangerous precedent as the FBI 
+result in hesitancy to participate fully in such deliberations by FBI employees during future 
+FBI policies/decisions. 
+(57) The FBI also asserted Exemption 5 to withhold draft documents that are clearly 
+where the FBI withheld draft material pursuant to Exemption 5, the FBI found the draft material 
+was shared between FBI and DOJ, was pre-decisional, was deliberative (the material was shared 
+(58) For the reasons discussed above, the FBI properly protected two types of 
+privilege. The FBI endeavored to segregate non-deliberative facts, whenever possible, and only 
+(59) In Exemption category (b)(5)-2, the FBI protected information subject to the 
+(60) The FBI relied on the attorney work product privilege to protect inter-agency 
+Specifically, the FBI protected information regarding legal strategy and evidence gathering 
+conducted by the FBI SAs assigned to the criminal investigation into activities of Jeffrey 
+exchanged within Department of Justice (i.e., between the FBI and U.S. Attorney’s Office). 
+segregation is not required. Accordingly, the FBI properly withheld this information pursuant to 
+implemented by the Attorney General's Guidelines for Domestic FBI Operations (AGG-DOM) 
+and 28 CFR § 0.85, the FBI is the primary investigative agency of the federal government with 
+were compiled in furtherance of the FBI’s investigation of criminal child prostitution involving 
+Jeffrey Epstein. As these records were compiled as part of the FBI’s investigation of potential 
+the FBI asserts Exemption 7(A) categorically to withhold a variety of different documents in an 
+investigative file, which the FBI then groups into functional categories and describes in greater 
+detail. In this case, however, the FBI asserted Exemption 7(A) to protect the ongoing 
+The FBI determined release of any of this material would provide criminals with information 
+expected to interfere with pending enforcement proceedings. Thus, the FBI has applied 
+very interests that the FBI seeks to protect under Exemption (b)(7)(A), in addition to the other 
+exemptions identified below. In order to protect these interests, the FBI has described the types 
+traditional FBI correspondence (i.e., Memoranda and Letters) as the primary vehicle 
+of correspondence within the FBI. The purpose of an EC is to communicate within 
+the FBI in a consistent format that can be uploaded by the originating Division or 
+office, transmitted, and downloaded by recipient Divisions or offices within the FBI's 
+'6 The designation “FD-” is attached to forms created and utilized internally by the FBI. 
+(b) Interview Forms (FD-302): FD-302s are internal FBI forms in which evidence is 
+often documented, usually as a result of FBI interviews. Such evidence and/or 
+incorporated in other FBI documents that may be used to disseminate 
+the FBI's investigative efforts. 
+(c) Handwritten Interview Notes: These are the original handwritten notes of FBI 
+personnel who conducted interviews in the course of FBI investigations. These notes 
+are almost always transposed into FD-302s and are utilized by the FBI in the same 
+provided to the FBI by state and local law enforcement agencies. These documents 
+can be used as evidence in court proceedings, are often incorporated in other FBI 
+and can be utilized to set leads in furtherance of the FBI's investigative efforts. 
+other court proceedings. This information can also be incorporated in FBI documents 
+utilized to set leads in furtherance of the FBI’s investigative efforts. 
+that need to be stored separately from the FBI file to which they are attached, due to 
+(h) Other Investigative Documents: The FBI uses various types of forms throughout a 
+reflecting information and evidence gathered during an FBI investigation, the sources 
+specifically would reveal the scope of the FBI's investigations, as well as the sources 
+and methods being utilized by the FBI. 
+(65) The FBI has reviewed and categorized the types of exempt records into three 
+paragraphs. For example, a record, such as an FBI Investigative Report, may serve several 
+other FBI field offices, other law enforcement agencies, or other Federal agencies, either to 
+criminal activities that resulted in the investigation. If the FBI were to release this information, 
+be afforded confidentiality. The FBI goes to great lengths to protect and maintain an individual’s 
+(69) Exchange of Information between FBI and Local Law Enforcement Agencies: 
+Release of information exchanged between the FBI and its local law enforcement partners would 
+agencies that have cooperated with—and provided information and records to—the FBI in this 
+identities of FBI field offices, dates of investigations, and detailed instructions designed to 
+ensure that investigative procedures are conducted within the appropriate FBI and DOJ 
+FBI and could enable suspects to discern a “road map” of the investigation. 
+investigation. These communications are replete with detailed information about the FBI's 
+(73) The FBI released 46 pages to Plaintiffs of public source material not posing an 
+categorical review, the FBI released an additional 135 pages in full to Plaintiffs. The FBI 
+(74) During the course of an FBI investigation, including this one, relevant and 
+pertinent articles in newspapers, magazines or other periodicals are placed by FBI employees 
+filings. FBI employees place these public source materials into the file for background and 
+articles and various public court documents from Epstein’s criminal case. Because the FBI had 
+otherwise jeopardize the ongoing criminal investigation, the FBI did not withhold these 
+(77) When withholding information pursuant to these two exemptions, the FBI is 
+would shed light on the FBI's performance of its mission to protect and defend the United States 
+'" The practice of the FBI is to assert Exemption 6 in conjunction with Exemption 7(C). 
+pursuant to Exemptions 6 and 7(C), the FBI determined that the individuals’ privacy interests 
+deceased,'* the FBI takes several steps, during FOIA processing, to ascertain the current 
+life/death status of the individuals whose names are withheld. The FBI uses the birth date and/or 
+more than 100 years ago, the FBI presumes that he or she is dead and the name and/or 
+identifying information is released. The FBI also uses institutional knowledge gained from prior 
+FOIA requests or internal records. By using institutional knowledge, the FBI can identify with 
+sufficient certainty the life/death status of certain individuals. If the FBI is unable to determine 
+still be living and no public interest would be served in releasing the names. It is also the FBI's 
+policy to release all names of high-ranking FBI officials in policy-making positions, as well as 
+(79) Within Exemption category (b)(6)-1 and (b)(7)(C)-1, the FBI protected the names 
+and identifying information of third parties who were of investigative interest to the FBI. Being 
+identified as a subject of FBI investigative interest carries a strong negative connotation and a 
+to resulting negative stigmas. Accordingly, the FBI determined these individuals maintain 
+understanding of the FBI's performance of its mission and so the FBI concluded that there was 
+these reasons, the FBI properly withheld this information pursuant to Exemptions 6 and 7(C). 
+FBI Special Agents and Victim Specialists 
+(80) Within Exemption category (b)(6)-2 and (b)(7)(C)-2, the FBI protected the names 
+and identifying information of FBI Special Agents (“SAs”) and Victim Specialists. These FBI 
+FBI's investigative and administrative functions, compiling information, and/or reporting on the 
+privacy consideration is also applied to protect FBI SAs, as individuals, from unnecessary, 
+whether or not they are currently employed by the FBI. FBI SAs conduct official inquiries into 
+significantly increase the public’s understanding of the FBI’s operations and activities. 
+confide to the FBI personnel involved in the investigation. Thus, disclosure of this information 
+would constitute a clearly unwarranted invasion of their personal privacy; and the FBI properly 
+withheld the names and identifying information of FBI SAs and Victim Specialists pursuant to 
+(83) In Exemption category (b)(6)-3 and (b)(7)(C)-3, the FBI protected the names and 
+not shed light on the operations and activities of the FBI. The FBI determined disclosure of this 
+Accordingly, the FBI asserted this Exemption category, at times in conjunction with Exemptions 
+(84) In Exemption category (b)(6)-4 and (b)(7)(C)-4 the FBI protected the names and 
+their official capacities and aided the FBI in the law enforcement investigative activities reflected 
+in the records responsive to Plaintiffs’ request. The rationale for protecting the identities of FBI 
+the operations and activities of the FBI. Accordingly, the FBI properly withheld this information 
+(85) In Exemption category (b)(6)-5 and (b)(7)(C)-5, the FBI protected the names and 
+responsive to Plaintiffs’ request. The FBI has information about these third parties in its files 
+because these individuals were tangentially mentioned in conjunction with FBI investigative 
+efforts. These individuals were not of investigative interest to the FBI. These third parties 
+thus, being connected with an FBI law enforcement matters. Considering the FBI is an 
+information in connection with an FBI record carries an extremely negative connotation. 
+and focus derogatory inferences and suspicion on them. The FBI then considered whether there 
+information about individuals who were merely mentioned in an FBI investigative file would not 
+significantly increase the public’s understanding of the operations and activities of the FBI. 
+Accordingly, the FBI properly protected these individuals’ privacy interests pursuant to FOIA 
+Non-FBI Federal Government Personnel 
+(86) In Exemption category (b)(6)-6 and (b)(7)(C)-6, the FBI protected the names and 
+identifying information of personnel from non-FBI, federal government agencies who provided 
+information to or otherwise assisted the FBI in its investigation of Jeffrey Epstein. The rationale 
+protecting the identities of FBI employees. See {j 81-83, supra. Publicity, adverse or otherwise, 
+concerning the assistance of these other agency employees in an FBI investigation would 
+seriously impair their effectiveness in assisting or participating in future FBI investigations. The 
+to the FBI investigation. It is possible for a person targeted by law enforcement action to carry a 
+investigation at issue in these FBI records. The publicity associated with the release of their 
+identities, by themselves, would not demonstrate how the FBI performed its statutory mission 
+and thus, would not significantly increase the public’s understanding of the FBI's operations and 
+activities. Accordingly, the FBI properly protected these employees’ privacy interests pursuant 
+(87) In Exemption category (b)(6)-7 and (b)(7)(C)-7 the FBI protected the names and 
+would not shed light on the operations and activities of the FBI. Accordingly, the FBI properly 
+(88) In Exemption category (b)(6)-8 and (b)(7)(C)-8, the FBI protected the names and 
+other means, to the FBI during the course of its investigation of Jeffrey Epstein. 
+(89) The FBI has found information provided by individuals based on their personal 
+largest obstacle to successfully obtaining such information critical to FBI investigations, through 
+tendency to withhold information, persons who provide such information to the FBI must be 
+confidence. Thus, the FBI has determined these individuals maintain substantial privacy 
+interests in not having their identities disclosed. In contrast, the FBI could identify no public 
+understanding of the operations and activities of the FBI. Furthermore, the continued access by 
+the FBI to persons willing to honestly relate pertinent facts bearing upon a particular 
+those who cooperated with the FBI. Accordingly, the FBI properly protected these individuals’ 
+privacy interests pursuant to Exemptions 6 and 7(C). The FBI is also relying on Exemption 
+(91) Numerous confidential sources report to the FBI on a regular basis; they provide 
+provided will not be divulged outside the FBI. Information provided by these sources is singular 
+reveal their identities. The FBI has learned through experience that sources assisting, 
+cooperating with, and providing information to the FBI must be free to do so without fear of 
+reprisal. The FBI has also learned that sources must be free to furnish information to the FBI 
+because of fear that their cooperation with the FBI will later be made public. Sources providing 
+information to the FBI should be secure in the knowledge that their assistance and their identities 
+undermines one of the FBI’s most important means of collecting information and could thereby 
+(93) In Exemption category (b)(7)(D)-1, the FBI protected the names, identifying 
+activities of subjects who were of investigative interest to the FBI. Considering 1) the singularity 
+acts they described, the FBI inferred these individuals provided this information to the FBI only 
+because they believed their cooperation with the FBI, and the information they provided, would 
+(94) The FBI protected the identifying information of, and information provided by, 
+potentially significant harms should their association and cooperation with the FBI be publicly 
+suspected criminals, and such criminals (in the FBI’s experience) typically seek to deter 
+individuals would be privy to such information. Thus, the FBI determined disclosure of the 
+third parties cooperated with the FBI only because they expected their identities and the 
+information they provided would be held in confidence. Therefore, the FBI properly protected 
+(96) Within Exemption category (b)(7)(D)-2, the FBI protected the names, identifying 
+information of, and information provided by third parties to the FBI under express grants of 
+confidentiality. When processing the records at issue, the FBI found evidence these individuals, 
+identities not be revealed; and/or FBI investigators would have, by standard practice, expressly 
+(97) Providing express assurances of confidentiality is essential to the FBI's ability to 
+relationships with the FBI in which they would have, by standard FBI practice, been provided 
+with express assurances of confidentiality. In sum, the FBI relied on certain individuals who 
+supplied information to the FBI with express assurance their names, identifying information, and 
+endanger these confidential sources and cause great detriment to the FBI's ability to recruit and 
+maintain reliable confidential sources; thus, the FBI protected this information pursuant to 
+(98) In Exemption category (b)(7)(D)-3, the FBI protected information provided to the 
+FBI from a foreign agency under circumstances in which confidentiality can be inferred. The 
+FBI, in connection with a wide variety of criminal and national security investigations, solicits 
+and the information provided by it will be held in confidence by the FBI, and not released 
+made public pursuant to FOIA requests, cooperation between the FBI and the foreign agencies 
+agencies, which may substantially reduce their effectiveness. Accordingly, the FBI properly 
+(99) Within Exemption category (b)(7)(D)-4, the FBI protected the names, identifying 
+assurance of confidentiality. Certainly, the FBI does not infer that all state or local law 
+Here, law enforcement authorities provided specific detailed information of value to the FBI, that 
+is singular in nature, concerning Jeffrey Epstein. The FBI inferred these personnel provided this 
+information to the FBI with an expectation their involvement in the investigation, and/or the 
+(100) The FBI relies heavily on assistance from its state and local law enforcement 
+the FBI. It could also harm the FBI's ability to seek support and or assistance from these 
+agencies during joint investigations. Additionally, the FBI’s disclosure of such information 
+unknown investigations pursued by these agencies. Accordingly, it is reasonable for the FBI to 
+infer these state and local law enforcement authorities provided this information to the FBI under 
+(103) Within the responsive documents, the FBI applied Exemption (b)(7)(E) to non- 
+public investigative techniques and procedures utilized by the FBI to pursue its law enforcement 
+known to the public. Specifically, the FBI asserted Exemption 7(E) to protect the following 
+(104) In Exemption category (b)(7)(E)-1, the FBI protected the methods the FBI uses to 
+information, including how and from where the FBI collects information and the methodologies 
+employed to analyze it once collected. Such disclosures would enable subjects of FBI 
+criminal activities. Accordingly, the FBI has properly withheld this information pursuant to 
+(105) In Exemption category (b)(7)(E)-3, the FBI protected sensitive investigative file 
+numbers. The FBI determined this Exemption is appropriate for protecting these file numbers as 
+such matters. The file numbers the FBI protected are not known to the general public. These file 
+numbers contain three separate portions. The first portions of these file numbers consist of FBI 
+programs to which these files pertain. Many of the FBI’s classification numbers are public, 
+available to FBI investigators, and/or non-public facets of the FBI’s investigative strategies. For 
+example, revealing that the FBI has a money laundering investigative file on a subject who was 
+public information about the FBI’s investigative strategies and gathered evidence. Additionally, 
+releasing non-public FBI file classification numbers would reveal critical information about non- 
+ability to discern the types of highly sensitive investigative strategies the FBI is pursuing 
+whenever such file classification numbers are present within these and other sensitive FBI 
+origination codes, indicating which FBI field office or overseas FBI legal attaché originated the 
+information about where and how the FBI detected particular criminal behaviors or national 
+security threats, and reveal key pieces about the FBI’s non-public FBI investigations or 
+disclosing unknown FBI investigations or intelligence gathering initiatives, by revealing interests 
+in varying areas of FBI investigative responsibility. Releasing this information could also 
+possibly provide significant information about the FBI’s failure to detect certain types of 
+to a criminal organization under investigation in the FBI's Seattle Field Office could request the 
+FBI’s Seattle Field Office’s investigative file. If the FBI were to reveal all of the originating 
+office codes in the investigative files present in Seattle’s file, and there was no indication the FBI 
+ever pursued an investigation in San Francisco, the criminal could reasonably assume the FBI 
+which they can place particular files/investigations within the context of larger FBI investigative 
+an idea of how FBI investigations may be interrelated and when, why, and how the FBI pursued 
+the FBI allocates its limited investigative resources, how the FBI responds to different 
+investigative circumstances, what the FBI knows and when/how they obtained the knowledge, 
+and if there are knowledge-gaps in the FBI’s gathered intelligence. 
+(108) In summary, repeatedly releasing sensitive FBI investigative file numbers would 
+body of investigative intelligence available to the FBI; and where, who, what and how it is 
+criminals and foreign adversaries to predict FBI investigations and structure their behavior to 
+avoid detection and disruption by FBI investigators, enabling them to circumvent the law. 
+Accordingly, the FBI properly asserted FOIA Exemption 7(E) to protect this type of information. 
+(109) In Exemption category (b)(7)(E)-4, the FBI protected information pertaining to 
+investigation and the dates the FBI initiated the investigations. Disclosure of this information 
+this information would also give criminals valuable insight into how the FBI develops its 
+investigations. Release of this information would allow investigative subjects to predict FBI 
+to avoid investigative scrutiny by the FBI. Disclosure of information related to the type of 
+circumvent the FBI’s attempts to enforce federal laws; therefore, the FBI has properly withheld 
+this information pursuant to Exemption 7(E). Accordingly, the FBI asserted this Exemption 
+(110) In Exemption category (b)(7)(E)-5, the FBI protected information concerning the 
+target, dates, and scope of the surveillance operation conducted by the FBI in relation to the 
+investigation at issue here. The FBI utilized this surveillance operation to obtain investigative 
+the FBI and other law enforcement agencies engage in different types of surveillance in 
+what circumstances the FBI conducts surveillance would allow current and future subjects of 
+FBI investigations and other potential criminals to develop and utilize countermeasures to defeat 
+FBI and other law enforcement agencies. This is especially true because the success of 
+non-public details about the FBI’s methodology for conducting surveillance could potentially 
+jeopardize the FBI’s ability to operate surveillance covertly, and risks circumvention of the law. 
+Accordingly, the FBI properly asserted Exemption 7(E) to withhold this information. 
+(111) In Exemption category (b)(7)(E)-6, the FBI protected certain sensitive 
+investigative information located within standardized FBI FD-515 forms. FD-515’s are forms 
+used by FBI personnel to report investigative accomplishments. FD-515s are submitted at 
+sentencing, asset seizure, and disruption/dismantlement of a criminal enterprise. The FBI 
+effectiveness ratings assigned to various FBI investigative techniques. At the upper right-hand 
+were used by the investigative personnel during the FBI’s investigation of Jeffrey Epstein. 
+and/or disruption by FBI investigators, through the use of these techniques, in the future. The 
+criminals. Therefore, the FBI properly protected this information pursuant to FOIA Exemption 
+(112) Additionally, the FBI asserted Exemption 7(E) to withhold the “Assisting 
+confirm nor deny if any other federal, state, or local agencies assisted the FBI in law enforcement 
+state, local, or federal) assisted the FBI in its investigative efforts of the subjects of FD-515s 
+of the FD-515 is blank, thus revealing no other agencies assisted the FBI, criminals would be 
+of always redacting this portion of FD-515s is the FBI able to avoid the substantial law 
+enforcement circumvention risks enumerated above; thus, the FBI properly withheld this 
+(113) In Exemption category (b)(7)(E)-7, the FBI protected the identities of sensitive 
+databases used for official law enforcement purposes by the FBI. Releasing the identities of 
+criminals insight into the available tools and resources the FBI uses to conduct criminal and 
+the FBI uses the databases to support its investigations, the types of information most valued by 
+the FBI for particular investigations, and vulnerabilities of the databases). 
+(114) Revealing the use of these databases in the context of FBI investigative records, 
+their utility to FBI investigators and the scope of information stored within the databases. 
+Disclosing when and why the FBI queries these databases would reveal key information about 
+FBI investigative strategies. This is because different investigative databases contain varying 
+circumstances would reveal the FBI strategies employed in response to different investigative 
+criminals with an understanding of the scope of FBI collected intelligence on particular subjects. 
+these strengths and weaknesses and avoid detection and/or disruption by the FBI. 
+types of information most useful to FBI investigators. This would provide criminals with an 
+deprive the FBI of useful intelligence/evidence, thus jeopardizing the FBI’s investigative 
+(116) Finally, revealing the identities of these databases could jeopardize the FBI's 
+investigative mission by revealing exactly where the FBI is storing and obtaining valuable 
+target for compromise. It would allow criminals who gain access to FBI systems an idea of 
+where they can go to discover what the FBI knows, how it gathered the information, and possible 
+information regarding the FBI’s investigative strategies. It would also offer these criminals the 
+(117) In summary, release of this information relative to FBI investigation databases 
+impedes the FBI’s effectiveness and potentially aids in circumvention of valuable investigative 
+techniques. Therefore, the FBI withheld this information pursuant to Exemption 7(E). 
+(118) In Exemption category (b)(7)(E)-9, the FBI protected information about monetary 
+amounts requested by FBI personnel and/or paid by the FBI in order to implement particular 
+investigative techniques. The FBI has limited resources that it must allocate strategically in 
+the amount of money the FBI has paid or plans to pay in order to implement certain investigative 
+techniques would reveal the FBI’s level of focus on certain types of law enforcement or 
+level of focus would reveal how the FBI plans to allocate its limited resources and essentially 
+paint a picture as to where the FBI’s strengths and weaknesses lie within the spectrum of illegal 
+opportunity to structure their activities in a manner which avoids the FBI’s strengths and exploits 
+(119) The FBI has withheld 38 pages in full per a Court Order issued by the United 
+FBI searched for any unsealing order in the Public Access to Court Electronic Records 
+(“PACER”), and the records responsive to Plaintiffs’ request are still sealed. Therefore, the FBI 
+following pages by the FBI: Bates pages 03956-1033 through 03956-1070. Due to the sealing 
+sealing order, the FBI respectfully requests an opportunity to assert applicable FOLA exemptions. 
+(120) As discussed in 4 4 supra, the FBI processed a total of 11,571 responsive pages 
+would have minimal or no informational content. Additionally, the FBI 
+supra. Also, the FBI withheld 123 pages because they were duplicates of 
+pages accounted for elsewhere in the FBI’s production. It is the FBI's 
+(121) The FBI performed adequate and reasonable searches for responsive records; 
+documents responsive to Plaintiffs’ FOLA request that are subject to FOIA. The FBI processed 
+7(E). The FBI carefully examined the documents and determined the information withheld from 
+Federal Bureau of Investigation 
+Apparently just completed a conference call with the media. [n the call, she stated that the FBI has located Ghislaine 
+Federal Bureau of Prisons Metropolitan Correctional Center New York, New York 
+pronounced dead by hospital staff. The FBI is investigating the incident. 
+Additional information about the Federal Bureau of Prisons can be found at www.bop.gov. ### 
+Federal Bureau of Prisons and private detention facilities to house its prisoner population. Epstein was a USMS 
+inmate being held at BOP’s Metropolitan Correctional Center (MCC) in New York. The FBI is handling the 
+assistance from law enforcement without success. Dr. JJ repeatedly left tips on the FBI hotline, and 
+several FBI agents as well as agents from Homeland Security, making images available to them. She was 
+Federal Bureau of Investigation (“FBI”), and James P. O'Neill, Commissioner of the New York 
+FBI Assistant Director SS said: “We are asking anyone who may 
+criminal behavior, to please call us. The number is 1-800-CALL-FBI. We want to hear from 
+be an excuse for this type of behavior. In the eyes of the FBI, the victims will always come 
+the FBI for their tireless efforts to ensure child predators are taken off our streets. The NYPD 
+please contact the FBI at 1-800-CALL FBI, and reference this case. 
+Mr. Berman praised the outstanding investigative work of the FBI and the NYPD. He 
+Wait, | thought we were now targeting the lobby of J | just got off the phone with I from the FBI 
+protocols (capacity, etc.), provide a “step-and-repeat” (a portable background with “FBI” and their seal) to reduce glare 
+the Federal Bureau of Investigation 
+Wait, | thought we were now targeting the lobby of Jj IJ | just got off the phone with J from the FBI 
+protocols (capacity, etc.), provide a “step-and-repeat” (a portable background with “FBI” and their seal) to reduce glare 
+FEDERAL BUREAU OF PRISONS, 
+1. Lam employed by the United States Department of Justice, Federal Bureau of Prisons 
+all of his visitor information. The search returned the Federal Bureau of 
+video/NICE vision equipment was handed over to the FBI on or about August 10, 2019. 
+information. The search returned the Federal Bureau of Prisons/TRUVIEW/Inmate Center 
+information. The search returned the Federal Bureau of Prisons/TRUVIEW/Inmate Center Report 
+information. The search returned the Federal Bureau of Prisons/TRUVIEW/Inmate Center 
+all of his visitor information. The search returned the Federal Bureau of 
+Federal Bureau of Prisons/TRUVIEW/Inmate Center Report for inmate Epstein, produced to 
+information. The search returned the Federal Bureau of Prisons/TRUVIEW/Inmate Center 
+The United States District Court of the District of Columbia recently “remind[ed] the FBI of its obligation 
+The United States District Court of the District of Columbia recently “remind{ed] the FBI of its obligation 
+Federal Bureau of Prisons 
+kchristenson@bop.gov or the Federal Bureau of Prisons’ (BOP) FOIA Public Liaison, 
+You appealed from the action of the Federal Bureau of Prisons (BOP) on your Freedom 
+“remind|cd] the FBI of its obligation to conduct record-level reviews at 
+The United States District Court of the District of Columbia recently “remind[ed] the FBI of its obligation 
+Federal Bureau of Prisons 
+On 01-02-2020, you submitted a FOIA request to the Federal Bureau of Prisons (BOP). 
+to contact the undersigned, this office, or the Federal Bureau of Prisons’ (BOP) FOIA 
+FEDERAL BUREAU OF PRISONS, 
+1.1 am employed by the United States Department of Justice, Federal Bureau of Prisons 
+staff determined that all responsive video footage had been handed over to the Federal Bureau 
+FEDERAL BUREAU OF PRISONS, 
+(“MCC”). Lam also familiar with the responsive records that defendant the Federal Bureau of 
+facility located in Manhattan that is run by the Federal Bureau of 
+FEDERAL BUREAU OF PRISONS, 
+1. Iam employed by the United States Department of Justice, Federal Bureau of 
+2019, the same day BOP turned over the video records to the Federal Bureau of Investigation, 
+FEDERAL BUREAU OF PRISONS, 
+1.1 am employed by the United States Department of Justice, Federal Bureau of Prisons 
+FEDERAL BUREAU OF PRISONS, 
+familiar with the responsive records that defendant the Federal Bureau of Prisons (“BOP”) has 
+Subject: Call with FBI (Epstein) 
+Event: Call with FBI (Epstein) 
+Subject: Accepted: Call with FBI (Epstein) 
+Event: Accepted: Call with FBI (Epstein) 
+Federal Bureau of Investigation and the United States Attorney’s Office, nor any offenses that 
+the Southern District of Florida (“SDFL”) and the FBI’s Miami Office, and included interviews 
+FBI Assistant Director iE said: “We are asking anyone who may have been victimized 
+The number is 1-800-CALL-FBI. We want to hear from you, regardless of the age you are now, or whatever age 
+there ever be an excuse for this type of behavior. In the eyes of the FBI, the victims will always come first.” 
+FBI 
+available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so none 
+have the same metadata on the hard drive that was available when the FBI seized each file. For files that 
+recovered from Epstein’s devices have the same metadata on the hard drive that was available when the FBI seized 
+was available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so 
+connecting to its networks. The Seattle office of the FBI is investigating the T-Mobile hack. 
+e “John Binns” is positive in FBI holdings for captioned matter. Program Manager: Cyber 
+e “Sirhan Sirhan” is positive in FBI holdings for captioned matter. Program Manager: CID 
+« “Thomas Rosseau” is positive in FBI holdings for captioned matter. Program Manager: DTOU 
+Branch (IMF) seized eight Drug Enforcement Administration (DEA) badges and one FBI badge. Over the last two days, 
+Special Agent | si FBI 
+gather the FBI investigative file from the old case. We should think about whether there is an immediate subpoena we 
+My view is that we should open on this today, and bring in FBI-NY’s sex crimes squad. [i please let me know if you 
+22. In 2011, two FBI agents located Iz in Australia—where she had been hiding 
+Consulate in Sidney. [== | provided truthful and accurate information to the FBI about 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+e The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pearl if the FBI agrees to transport the item(s). 
+e Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+« Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+« Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pear! Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 12% 
+« [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+eo The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+« The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+e We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+« Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+e The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+e The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pear! 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+e Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+e Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+eo Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+e To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+e The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+Ata minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or the 
+week of April 19". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for the 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+e The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pearl if the FBI agrees to transport the item(s). 
+« Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+e Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+« Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pearl Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 12". 
+« [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+o The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+« The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+« Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+e The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+e The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pear! 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+e Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+e Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+eo Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+e To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to S00 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+e The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+Ata minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or the 
+week of April 19". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for the 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+« The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pear! if the FBI agrees to transport the item(s). 
+e Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+¢ Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+« Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pearl Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 1 
+e [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+« The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+e The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pearl 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+« The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+e Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+« Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI's custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+o Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+« The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case ina 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+Ata minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI's New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Today the Marshals and the FBI informed me that they are able to arrange for your client and the evidence to be at 500 
+8:30am. You would also be welcome to arrive as early at 8am, and if the Marshals and FBI are ready to begin before 8:30, 
+boxes, which would free up space in the FBI vehicle for the larger items. I’m confident we will be able to reach a 
+e The blue-ray discs referenced in the spreadsheet are what the FBI burned in order to provide the USAO SDNY with 
+copied from a VHS tape, which is currently located in the FBI’s ELSUR office in Florida. We have asked that the 
+e The shredded paper is currently being analyzed by the FBI lab. We have asked the case agent to inquire with the 
+« The “Missing from Assigned Box” items are items 1B130 and 1B110. Those items were migrated within the FBI 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or the 
+week of April 19". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for the 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+e The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pearl if the FBI agrees to transport the item(s). 
+e Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+e Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+« Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pearl Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 12", 
+« [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+o The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+« The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pear! Street 
+e Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+e The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+e The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pear! 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+« The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+e The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+e Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+« The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+eo Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+e To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+« The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+At a minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI’s custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Today the Marshals and the FBI informed me that they are able to arrange for your client and the evidence to be at 500 
+at 8:30am. You would also be welcome to arrive as early at 8am, and if the Marshals and FBI are ready to begin before 
+several boxes, which would free up space in the FBI vehicle for the larger items. I’m confident we will be able to 
+The blue-ray discs referenced in the spreadsheet are what the FBI burned in order to provide the USAO SDNY 
+that was copied from a VHS tape, which is currently located in the FBI’s ELSUR office in Florida. We have asked 
+The shredded paper is currently being analyzed by the FBI lab. We have asked the case agent to inquire with the 
+The “Missing from Assigned Box” items are items 1B130 and 1B110. Those items were migrated within the FBI 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or 
+the week of April 19'". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for 
+see, we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will 
+witness statements. Because these 1D items are data files stored in the FBI system, there is no corresponding 
+The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pearl if the FBI agrees to transport the item(s). 
+Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+the witness statements on the electronic media in the FBI’s possession are from witnesses whom the 
+e Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pearl Street, including the 
+« Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pearl Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+will also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 12¢, 
+« It is not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pear! Street. That said, we 
+o The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+understanding, we are working with the FBI to physically doublecheck each recording. If we identify any 
+« The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for 
+the above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you 
+her own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means 
+« All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+e Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we 
+« The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+« The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pear! 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard 
+drives, and the FBI will provide you with the hard copy images for review as well. 
+e The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only 
+« Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with 
+the FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+eo Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pearl Street for your client to 
+review, the FBI is prepared to bring items that are reasonably sized to 500 Pear! Street. With respect to bulky or 
+deemed Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! 
+« The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in 
+a single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all 
+The FBI anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+Ata minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+review the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing 
+does not include every physical item currently in the FBI’s custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+possession of the Federal Bureau of Investigation (“FBI”) as part of the file previously maintained 
+by the FBI’s Palm Beach Resident Agency (the “FBI Florida Office”) during its investigation of 
+log previously provided to you, the Discs are described in the FBI’s evidence system as follows: 
+When the FBI’s New York Office first received the FBI Florida Office’s file regarding its 
+In preparing for defense counsel in this case to review all physical evidence in the FBI 
+With the help of an FBI computer specialist, the Government has learned that the Discs appear to 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FBI New York Field Office 
+BSF produce the boots to the FBI and that, when the boots are in the FBI’s possession, the 
+of the photographs are in the FBI’s possession, and the Government will make those photographs 
+requested that BSF provide the boots to the Federal Bureau of Investigation (“FBI”). BSF has 
+indicated that Minor Victim-2 will likely agree to do so. When the boots are in the FBI’s custody, 
+Office of the Federal Bureau of Investigation. Your questions and concerns have been forwarded to the 
+FBI New York Fie Ice 
+FBI has even started on the island materials, for example — so wanted to check on timing. Could you please let us know 
+in addition to an entire FBI file from the prior Florida investigation...) that may explain some of this. 
+Can you send to FBI. 
+arrange a time to review physical items in the FBI’s custody. 
+NY) (FBI)" < >, NYPD)" 
+Representatives for the Federal Bureau of Prisons, which manages the Metropolitan Correctional Center, didn’t respond to 
+John Dougan, fled to Moscow in 2016 following an FBI raid on his Palm Beach home that he claims was politically 
+Federal Bureau of Investigation and all United States Attorney’s Offices), the Securities and 
+additionally request that the FBI agents working with any of these offices, or with the Southern 
+District of New York (or FBI agents working therewith) by the United States Attorney’s 
+Northern District of Georgia (or FBI agents working therewith); 
+Office for the Southern District of New York (or FBI agents working therewith) that were 
+of Georgia (or FBI agents working therewith); 
+Department of Justice (including but not limited to the Federal Bureau of Investigation (“FBI”) 
+District of New York, the Department of Justice, the FBI, or any state or 
+28. Relating to the “53-page indictment prepared by the FBI” in 2006-2007 
+FBI 302s, or other summaries prepared by government attorneys or agents, and grand jury 
+> (NY ) (FBI)" < 
+the New York Field Office of the Federal Bureau of Investigation (FBI), and 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of 
+Jeffrey Epstein, please contact the FBI at 1-800-CALL FBI, and 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+I tried using the exe file a couple times and it crashed my computer both times. But I can follow up with FBI. 
+Okay, have you asked FBI if they can help? The more recent phone dumps I've gotten require me to open the data using 
+Also, what is the issue with the iPhone extraction the FBI gave us — is it a bad extraction? Is it a technology issue? 
+Following up on the below, | think we've given this our absolute best efforts with FBI — they are now well over a month 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+FBI tool, so we asked for the materials to be transferred in a loadable format so we could put them on Relativity, which 
+FBI NY CART Coordinator 
+on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won't know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us 
+FBI New York 
+FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we’ll need to get those to 
+information to the FBI for initial response, but it’s not clear from the letter whom they would be in touch with 
+as a subfolder in FBI materials, but for now it’s here — 
+The FBI has a large amount of data for us on the Epstein case—can the case agent, J (copied here) give you 
+\\Usa.doj.gov\cloud\NYS\StAndrews\Shared\USvEpstein-2018R01618\Investigation\FBI--FOIA 
+. (NY) (FBI)" 
+FBI New York Field Office 
+Ce: " . (NY) (FBI)" < 
+FBI New York Field Office 
+. (NY) (FBI" < 
+_ (NY) (FBI) < 
+FBI New York Field Office 
+1. I have been a Special Agent with the Federal Bureau of Investigation (“FBI” or 
+exploitation of children as part of an FBI Task Force. I have gained expertise in this area through 
+by the FBI on federal sex trafficking charges. During that arrest, the FBI seized an iPhone from 
+the FBI subsequently searched the contents of the Epstein Phone. Among other things, that search 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation (“Investigative Agency”) 
+Federal Bureau of Investigation (“Investigative Agency”) 
+such that we can view them using a system we have access to. We're not able to get web-enabled access through any FBI 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+GE is cross-referencing the FBI list against hers right now and will call me when she’s done with any issues 
+FBI Victim Services Division 
+| hope each of you had a good weekend. Please find language below that has been approved by FBI NY, VSD 
+The FBI's Victim Services Division (VSD) is committed to providing services and support to victims of crimes 
+of these services is available at www.fbi.gov/resources/victim-services. If you would like to speak with a Victim 
+victimservices@fbi. gov. 
+FBI Victim Services Division 
+Federal Bureau of Prisons 
+FBI New York Field Office 
+["] New_Search Warrant Returns_FBI 
++ [5] New_Search Warrant Returns_FBI 
+Southern District of New York (or FBI agents working therewith) by the United 
+of Florida, and/or the Northern District of Georgia (or FBI agents working 
+Attorney’s Office for the Southern District of New York (or FBI agents working 
+Florida, and/or the Northern District of Georgia (or FBI agents working 
+FBI believes (as of January) that Maxwell is still living with a friend in the Boston suburb of Manchester by the Sea 
+FBI New York 
+member who initially confirmed that the video had been preserved? When was the FBI first conducted about 
+Representatives for the Federal Bureau of Prisons, which manages the Metropolitan Correctional Center, didn’t 
+MEE sked me to pass this along to you in case it is helpful to the FBI. These are additional posts from 
+FBI New York 
+Hey just passing this along from FBI, in case J didn’t mention it, but apparently a number of victims have contacted 
+Subject: DAILY BEAST: Prince Andrew: I’m Ready to Talk. The FBI Never Asked. Feds: Oh Yes, We Did 
+Prince Andrew and the FBI were involved in a furious war of words Tuesday, after he 
+“The Duke is more than happy to talk to the FBI but he 
+(SDNY), an interview was conducted with Federal Bureau of Prisons (BOP) Metropolitan Correction 
+Attorney (AUSA) — AUSA (RRR Federal Bureau of Investigation (FBI) 
+(TFO) to the FBI, and (i SA for the Department of Justice (DOJ) Office of the Inspector 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection 
+the materials are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will 
+We’ve received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection with 
+are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will also be coming 
+previously got and what's new — for obvious reasons | do want the FBI to start identifying this stuff, but if we’re able to 
+FBI New York 
+purpose of the call concerned their efforts to obtain from the FBI in the SDFL the evidence 
+gathered as part of the SDFL Epstein investigation. The Miami FBI has expressed a reluctance to 
+send any 6e materials to the SDNY FBI without a 6e letter. Given our recusal from the 
+underlying criminal matter, | don’t believe we should be the ones to give the FBI the go-ahead 
+. (NY) (FBI)" 
+FBI investigative and supervisory personnel. We will be prepared to discuss that meeting with you via phone 
+the two Public Corruption Unit chiefs ), the line assistants, and/or FBI 
+raw data, rather than having the FBI process it poorly again, it’s just a really unfortunate delay — so if farming it out would 
+something from the FBI. 
+eight months after the search, the FBI is going to dump terabytes of raw data on us to process, which | assume will take 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+confidential and would remain confidential within the investigation team in the DOJ and FBI. You said: “We don’t 
+well as our partners at the FBI. It is confidential within the investigation team and our supervisors.” The note | made 
+me say that the Southern District of New York and the FBI have contacted Prince Andrew’s attorneys and requested to 
+the DOJ/FBI: “F.8./. agents and federal prosecutors in New York ... reached out to his lawyers and asked to 
+Times 27.01.20) and “Geoffrey Berman, a US attorney, said federal prosecutors and the FBI had asked to 
+Please provide us with an accurate record of the statements made by The US Attorney and/or the DOJ/FBI 
+Ce: . (NY) (FBI)" < 
+a | _(NY) (FBI)" < 
+The FBI has a large amount of search warrant return files (primarily though not exclusively emails) that they need to 
+FBI has even started on the island materials, for example — so wanted to check on timing. Could you please let us know 
+. (NY) (FBI)" < 
+_(NY) (FBI)" < 
+The FBI has a large amount of search warrant return files (primarily though not exclusively emails) that they need to 
+FBI has even started on the island materials, for example — so wanted to check on timing. Could you please let us know 
+Can you guys provide us with at least a 100GB hard drive so that FBI CART to download the material? Let me know when 
+| know FBI was taking photos of the SHU generally and measuring the number of steps from Epstein’s cell to the guard 
+| or via email at anyoung2@fbi.goy; and (2) accompanied by an executed copy of the 
+Per our practice of passing along potential witness information to the FBI, please see the below email. 
+| hope each of you had a good weekend. Please find language below that has been approved by FBI NY, VSD 
+The FBI’s Victim Services Division (VSD) is committed to providing services and support to victims of crimes 
+of these services is available at www.fbi.gov/resources/victim-services. If you would like to speak with a Victim 
+victimservices@fbi. gov. 
+FBI Victim Services Division 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’*), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+. (NY) (FBI)" < 
+does not track FOIA requests to, e.g., the FBI, that end up in litigation in the SDNY and that our Civ Div 
+FBI Florida wants us to obtain the consent of SDLF for FBI to turn over to us all the grand jury materials they have from the 
+we’re waiting for the FBI to send us some interview notes, but this is the level of detail we’re able to provide at this point. 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI team 
+up those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other entities, but 
+FBI New York Field Office 
+FBI New York Field Office 
+visiting from main justice/FBI/IG (i etc.) 
+correcting the FBI barcode numbers for 3 devices that were seized from Epstein’s NY residence. In case it’s useful, I’m also 
+correcting the FBI barcode numbers for 3 devices that were seized from Epstein’s NY residence. In case it’s useful, I’m also 
+correcting the FBI barcode numbers for 3 devices that were seized from Epstein’s NY residence. In case it’s useful, I’m also 
+FBI New York 
+FBI 
+Sweeney Jr., Assistant Director-in-Charge of the New York Field Office of the Federal Bureau 
+of Investigation (“FBI’’), announced today the unsealing of an indictment charging federal 
+FBI Assistant Director William F. Sweeney Jr. said: 
+the Federal Bureau of Prisons. The MCC employs correctional officers, whose primary duty is 
+Mr. Berman praised the outstanding investigative work of DOJ OIG and the FBI. 
+facility located in Manhattan that is run by the Federal Bureau of 
+Federal Bureau of Investigation (“FBI”), announced today the unsealing of an indictment charging federal 
+FBI Assistant Director William F. Sweeney Jr. said: “Security protocols are in place to protect the public, 
+Mr. Berman praised the outstanding investigative work of the Office of the Inspector General, the FBI, 
+FBI New York Field Office 
+FBI New York | C-19 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York | C-19 
+MCC there has been some miscommunication between the MCC, the FBI, and the video surveillance vendor 
+After consultation with NYO CART and OTD, it has been determined the best chance for the FBI to extract and 
+Another team from FBI FAVU is currently on-site working on exporting video from the third camera of interest 
+FBI New York Field Office 
+requested by defense counsel. The Government further understands from the Federal Bureau of 
+Under Rule 16(a)(1)(E), | ask that you provide to us the documents produced by the FBI to 
+news media, as described in Radar Online v. FBI, 17 Civ. 3956 (PGG). The FBI in New York 
+released to Radar Online some 1,232 pages “relating to the FBI’s investigation and 
+documents’ existence and constructively aware that their contents relate to the FBI 
+Maxwell’s defense to know when the FBI made any such witness statements (even if 
+SDNY, FBI-New York Office, and FBI Florida Office, regarding any other FOIA requests 
+defined your “Prosecution Team” to include not only of the USAO-SDNY but also the FBI- 
+New York Office. We believe that the FBI-New York Office participated in the USAO-SDFL 
+the involvement of the FBI-New York Office in the USAO-SDFL investigation. 
+I’ve completed reviewing all 114 documents on the other Relativity platform for this case (FBI files, etc.). There are some 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FB s the property of the FBI and ts louned to your agency, if and its contents are net 
+To: a Ny) (FBI)" <8 @ fbi. gov> 
+On Dec 5, 2019, at 1:37 PM, Osborn, Michael A. (NY) (FBI) <maosborn@fbi.gov> wrote: 
+Subject: Fwd: Daughter of former FBI director Comey revealed to be part of prosecution team in sex 
+Daughter of former FBI director Comey revealed to be 
+thc daughter of former FBI director James Comey, is one of 
+Just spoke to him - he is planning to use the 800-CALL-FBI number. 
+Good with me. | believe we are using FBI line but you should confirm that with 
+FBI Assistant Director ME said: “We are asking anyone who may have been 
+please call us. The number is 1-800-CALL-FBI. We want to hear from you, regardless of the age you are now, 
+was never, nor will there ever be an excuse for this type of behavior. In the eyes of the FBI, the victims will 
+our case agent told us that FBI received a flight manifest from CBP last night. The passengers listed are Epstein and two 
+pilots. Of course, that is subject to change, and I’m told that FBI will try to get confirmation of the passengers after the 
+BE just called - FBI reached out to NYPD leadership already and they were told that SVU has been directed 
+From: NY) (FBI)" <i fbi. gov> 
+Ce: “< >, (NY) (FBI)" 
+Confidentiality Statement: This message is transmitted to you by the Litigation Support Unit of the FBI's Information Management Division. This message, 
+Confidentiality Statement: This message is transmitted to you by the Litigation Support Unit of the FBI's Information Management Division. This message, 
+Ce: . (NY) (FBI)" 
+Confidentiality Statement: This message is transmitted to you by the Litigation Support Unit of the FBI’s 
+Cunniffe was busted by the FBI and soon became a government informant, taping calls and other meetings with 
+When Robert was arrested, under duress of FBI questioning, he said nine (9) times that Sean was not in on his 
+FBI AGENT: Tell me about the first time that Sean gave you information on a deal. 
+FBI Assistant Director-in-Charge Sweeney said Thompson used phrases and terminology that the victimized 
+The FBI was sitting in his living room in Bend, Ore., and Khan sensed an opportunity. The agents had come for 
+speaking to a 28-year-old McDonald’s worker and convenience store clerk? The FBI thought Khan was onto 
+9/11, especially because Hayat, after hours of interrogation by FBI agents, confessed to attending the camp. 
+The case against Hayat and his father, Umer, who was accused of lying to the FBI, heaped international attention 
+himself. Khan, feeding the intel to the FBI, egged him on. 
+Hayat denied attending a camp in his first interview with the FBI in Japan, before flying to San Francisco. He 
+“FBI: Al Qaeda plot possibly uncovered,” rang a CNN headline in June 2005, saying those involved “Trained on 
+A retired FBI agent who watched Hayat’s interrogation and the resulting confession told the Los Angeles Times 
+Khan was ultimately paid nearly $230,000 for assisting the FBI over three years. During Hayat’s trial, his 
+Cunniffe was busted by the FBI and soon became a government informant, taping calls and other meetings with 
+When Robert was arrested, under duress of FBI questioning, he said nine (9) times that Sean was not in on his 
+FBI AGENT: Tell me about the first time that Sean gave you information on a deal. 
+FBI Assistant Director-in-Charge Sweeney said Thompson used phrases and terminology that the victimized 
+The FBI was sitting in his living room in Bend, Ore., and Khan sensed an opportunity. The agents had come for 
+while speaking to a 28-year-old McDonald’s worker and convenience store clerk? The FBI thought Khan was 
+9/11, especially because Hayat, after hours of interrogation by FBI agents, confessed to attending the camp. 
+The case against Hayat and his father, Umer, who was accused of lying to the FBI, heaped international 
+himself. Khan, feeding the intel to the FBI, egged him on. 
+Hayat denied attending a camp in his first interview with the FBI in Japan, before flying to San Francisco. He 
+“FBI: Al Qaeda plot possibly uncovered,” rang a CNN headline in June 2005, saying those involved “Trained 
+A retired FBI agent who watched Hayat’s interrogation and the resulting confession told the Los Angeles Times 
+Khan was ultimately paid nearly $230,000 for assisting the FBI over three years. During Hayat’s trial, his 
+Federal Bureau of Prisons, et al., No. 19 Civ. 660 (E.D.N.Y.) (Doc. No. 78) (detailing absence of in-person 
+questioning by the FBI. '' She has seen helicopters flying over her home and reporters hiding in 
+Attached is a letter from Noel’s counsel requesting additional discovery. Take a look at items 1-13. Does the FBI 
+FBI New York Field Office 
+Subject: Confirming FBI numbers for Epstein devices 
+information from both of you and from I've compiled the FBI 1B number, barcode number, and CART 
+course of his arrest by the FBI on or about July 6, 2020 (the “Arrest Subject Devices”). The Arrest 
+been assigned internal FBI barcode number E6515034 (“Subject Device-4"); 
+assigned internal FBI barcode number E6515033 (“Subject Device-5”); 
+of the New York Residence, and which has been assigned internal FBI barcode 
+of the New York Residence, and which has been assigned internal FBI barcode 
+internal FBI barcode number E6515026 (“Subject Device-8”); 
+of the New York Residence, and which has been assigned internal FBI barcode 
+basement of the New York Residence, and which has been assigned internal FBI 
+New York Residence, and which has been assigned internal FBI barcode number 
+FBI barcode number E6515022 (“Subject Device-12”); 
+FBI barcode number E6515021 (“Subject Device-13”); 
+assigned internal FBI barcode number E6515020 (“Subject Device-14”); 
+has been assigned internal FBI barcode number E6515019 (“Subject Device-15”); 
+assigned internal FBI barcode number E6515018 (“Subject Device-16"); 
+FBI barcode number E6515017 (“Subject Device-17"); 
+assigned internal FBI barcode number E6515016 (“Subject Device-18”); 
+internal FBI barcode number E6515015 (“Subject Device-19”); 
+internal FBI barcode number E6515014 (“Subject Device-20”); 
+internal FBI barcode number E6515013 (“Subject Device-21”); 
+internal FBI barcode number E6515012 (“Subject Device-22”); 
+internal FBI barcode number E6515011 (“Subject Device-23”); 
+internal FBI barcode number E6515010 (“Subject Device-24”); 
+been assigned internal FBI barcode number E6515008 (“Subject Device-25”); 
+New York Residence, and which has been assigned internal FBI barcode number 
+of the New York Residence, and which has been assigned internal FBI barcode 
+of the New York Residence, and which has been assigned internal FBI barcode 
+the New York Residence, and which has been assigned internal FBI barcode 
+the New York Residence, and which has been assigned internal FBI barcode 
+the New York Residence, and which has been assigned internal FBI barcode 
+assigned internal FBI barcode number E6515001 (“Subject Device-32”); 
+assigned internal FBI barcode number E6515000 (“Subject Device-33”); 
+assigned internal FBI barcode number E6433827 (“Subject Device-34"); and 
+FBI barcode number E6433828 (“Subject Device-35”). 
+(FBI)" < 
+Confidentiality Statement: This message is transmitted to you by the Litigation Support Unit of the FBI’s 
+Department, Federal Bureau of investigation (“FBI”) or SDFL in connection with their 
+FBI agents from the New York Field Office working with this Office approached Victim- 
+During an interview with FBI agents in West Palm Beach, Florida in or around 2007, the 
+Mehlman-Orozco, Kimberly. (2()17). “Why we should question the FBI’s recent human trafficking 
+I've reviewed all of these files, and either produced them, noted the technical difficulties to the FBI, or noted them in the list of folders to review for witness statements. 
+(located in 1A Sec. 05, FDPS pg. 194 on Audio 1:13:05 4/24/2007 interview o by FBI SAS 
+Confidentiality Statement: This message is transmitted to you by the Litigation Support Unit of the FBI's Information Management Division. This message, 
+Confidentiality Statement: This message is transmitted to you by the Litigation Support Unit of the FBI's Information Management Division. This 
+From: EE, GE A. (NY) (FBI) 
+FBI about his conversations with Russia's ambassador, provided "firsthand 
+attorney's office, the FBI and the IRS announced Tuesday. Read full article » 
+Federal Bureau of Investigation 
+2 I am a Special Agent with the Federal Bureau of Investigation (“FBI”), and have 
+sexual exploitation of children as part of an FBI Task Force. I have gained expertise in this area 
+Warrant, the FBI has received GPS location data since approximately 10:15 p.m. on June 30, 2020 
+location data has allowed the FBI to identify approximately one square mile in which the Target 
+Cellular Device is located, but the location data is insufficiently specific to allow the FBI to 
+Device which remains active. The FBI does not know MAXWELL’s current location and 
+investigation by FBI. See 18 U.S.C §§ 3122(b), 3123(b). 
+information likely to be obtained is relevant to an ongoing criminal investigation by FBI. See 18 
+that same day, the FBI received location information from AT&T revealing that the Target Cellular 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation (“Investigative Agency”) 
+The Journal just got a tip that about a dozen FBI agents in jackets were back at the mansion at around 2:50 this afternoon. 
+does not track FOIA requests to, e.g., the FBI, that end up in litigation in the SDNY and that our Civ Div 
+e AUSAs reviewed scans of full Florida FBI file on Relativity. From that review, we identified handwritten notes and 
+302 reflecting a single interview occurring on or about August 7, 2007 with Florida FBI agents. 
+« AUSAs asked [J how many times she recalled being interviewed by the FBI in Florida. I indicated 
+FBI New York Field Office 
+or what is visible in the usable footage. The incident is being investigated by the FBI and the Justice 
+A Bureau of Prisons spokesman declined to comment, as did spokespeople for the FBI, the Justice Department 
+York (“USAO”) and the Federal Bureau of Investigation (“FBI”) are conducting an ongoing 
+in determining the cause and manner of Mr. Epstein’s death, the USAO and FBI gave OCME 
+evidence or information made available to OCME by the USAO or FBI— including documents, 
+include, reflect, or contain information made available to OCME by the USAO or FBI. We also 
+Sorry but just related on the FBI and DOJ-OIG investigation, can we get a contact at each of those?? | know there's 
+apparently no AUSA assigned yet to the FBI side, but for example | would want to let FBI and OIG know that someone is 
+Separately, and speaking of the FBI investigation, defense counsel also says that they’re starting to get people calling them 
+Removing BOP. They should NOT be releasing the body without confirming with FBI and DOJ-IG. Please discuss that with 
+want to confirm that the FBI team addressing this matter has also been informed—but that’s only if this is not a hoax, 
+. (NY) (FBI)" < 
+(FBI)" < >, 4 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+FBI New York 
+| do not know the status of that case, which | believe was against the FBI. 
+Please see below. Would someone at the FBI be able to contact this woman for initial screening, please? Per our usual 
+FEDERAL BUREAU OF INVESTIGATION 
+Warden, their legal counsel, the USMS, the FBI, the Inspector General, the USAO for the SDNY or any other federal or 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are 
+Federal Bureau of Investigation 
+to keep the pervert Prince out of the FBI's clutches. The UK Tory Party has always been 
+contents of the laptop. Please proceed to the MDC visitor entrance, let the guard know you are from the FBI and 
+FBI New York Field Office 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+ln Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+lam a special agent with the Miami Division/West Palm Beach Office of the FBI. The phone number below, 561-833-7517, 
+FBI Miami Division 
+FBI Miami Division 
+lam a special agent with the Miami Division/West Palm Beach Office of the FBI. The phone number below, 561-833-7517, 
+FBI Miami Division 
+FBI Miami Division 
+lam a special agent with the Miami Division/West Palm Beach Office of the FBI. The phone number below, 561-833-7517, 
+FBI Miami Division 
+Federal Bureau of Investigation 
+Question: Why hasn't the FBI not contacted attorney Robert Josefsberg in Miami in order to speak with vicina 
+in Australia? THIS IS STEP 1 if the FBI is truly interested in arresting him on child sex trafficking charges. 
+past and is currently making several calls to the FBI regarding Jeffrey Epstein. In her calls to the FBI, she claims 
+A few years ago, FBI tried to get documentation from her “source” regarding these allegations, but the “source” 
+didn’t appear for interviews and never provided documentation. Sarnoff recently began calling FBI Miami to 
+again make these allegations. It is my understanding that FBI has told Sarnoff that if her “source” wants to come 
+forward with evidence and be interviewed, FBI is more than willing to listen, but Sarnoff is dissatisfied with that 
+at the FBI? 
+or others. We would like to have FBI present for the meeting. | don’t know if you want the SAC to attend, or 
+Federal Bureau of Prisons 
+Our HQ staff was contacted by the Federal Bureau of Prisons (BOP) in association with the matters concerning the 
+then can one representative from the FBI and one representative from the U.S. Attorney's Office, SDNY, let us know your 
+Federal Bureau of Prisons 
+Sorry but just related on the FBI and DOJ-OIG investigation, can we get a contact at each of those?? | know there's 
+apparently no AUSA assigned yet to the FBI side, but for example | would want to let FBI and OIG know that someone is 
+Separately, and speaking of the FBI investigation, defense counsel also says that they’re starting to get people calling them 
+Removing BOP. They should NOT be releasing the body without confirming with FBI and DOJ-IG. Please discuss that with 
+want to confirm that the FBI team addressing this matter has also been informed—but that’s only if this is not a hoax, 
+visiting from main justice/FBI/IG (i etc.) 
+FBI Notified: No USMS Notified: No indicate Where Incident Occurred: Main Facility 
+FEDERAL BUREAU OF PRISONS 
+FEDERAL BUREAU OF PRISONS 
+were FEDERAL BUREAU OF PRISONS 
+J.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+statement issued by the Federal Bureau of Prisons: 
+The FBI is investigating the incident. 
+statement issued by the Federal Bureau of Prisons: 
+The FBI is investigating the incident. 
+Federal Bureau of Investigation, New York Field Office 
+statement issued by the Federal Bureau of Prisons: 
+The FBI is investigating the incident. 
+To: Young, Amanda N. (NY) (FBI) ; 
+Tom Winter per usual — he has some great source at FBI 
+arrange a time to review physical items in the FBI's custody. 
+arrange a time to review physical items in the FBI’s custody. 
+Bw NY ) (FBI)" < 
+= of the Federal Bureau of Investigation’s (“FBI”) —_— Analysis Response Team 
+produced by on or before the return date to Special Agent Federal Bureau of 
+the return date to Special von — Federal Bureau of Investigation, 26 Federal 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+) (FBI)" 
+NYPD / FBI 
+To N. (NY) (FBI) 
+etc)\2018-12-04, FBI Case File 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+recovered from Epstein’s devices have the same metadata on the hard drive that was available when the FBI seized 
+was available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so 
+(1) documents produced to Radar Online in the matter of Radar Online v. FBI, 17 Civ. 3956 
+the FBI-New York Office in the USAO-SDFL investigation.” We address each request in turn 
+Radar Online v. FBI, 17 Civ. 3956 (PGG). As an initial matter, your letter fails to articulate any 
+Office of the Federal Bureau of Investigation that all materials produced pursuant to the FOIA 
+request made in connection with Radar Online v. FBI, 17 Civ. 3956 (PGG) are publicly available 
+on the FBI’s website: https://vault.fbi.gov. Furthermore, and without conceding any obligation to 
+involvement of the FBI-New York Office in the USAO-SDFL investigation.” In response, the 
+' Your letter erroneously asserts that the FBI’s Florida office is part of the prosecution team in this 
+and a lady from the FBI, who was white. 
+She also met with somebody from the FBI that came to her house, which was the trailer. 
+FBI people that came were a man and a woman. 
+Federal Bureau of Investigation 
+by on or before the return date to Special Agent fete saad at: Federal Bureau of Investigation, 
+Federal Bureau of Investigation 
+FBI Special Agent 
+FBI Special Agent 
+MCC and the FBI, but are providing you with copies of all three letters as a courtesy. If you are willing to accept 
+8.20.19 Epstein Letter to FBI-c2.pdf 
+the FBI, but are providing you with copies of all three letters as a courtesy. If you are willing to accept service for all three, 
+(NY) (FBI)" : 
+NYPD / FBI 
+FBI New York Office 
+(U//FOUO) On 12 AUGUST 2019, FBI NYO Criminal 
+FBI tip line? 
+FBI New York 
+FBI, their victim services folks are handling travel logistics. |’m cc’ing [J I, who should be able to hopefully help 
+Could we have the meeting from noon to 1P.M.? My office is only one block away from the FBI meeting. 
+(: i <i; Young, Amanda N. (NY) (FBI) 
+the FBI, their victim services folks are handling travel logistics. I’m cc’ing |, who should be able to 
+Is there a place at the FBI for you to interview [jj at the end of the meeting with Victim Services ? | am on a tight 
+day. Could we have the meeting from noon to 1P.M.? My office is only one block away from the FBI meeting. 
+the FBI, their victim services folks are handling travel logistics. I’m cc’ing |, who should be able to 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations ner conclusions of the FBI. It us the property of the FBI and ts loaned to your agency 
+> . (NY) (FBI)" 
+Please forward the results in an electronic format to Special Aget Federal Bureau of 
+FBI New York Field Office 
+produced by on or before the return date to Special Agent Federal Bureau of 
+before the return date to Special Agent Federal Bureau of Investigation, 26 
+Federal Bureau of Prisons 
+staff. The FBI is investigating the incident. 
+Additional information about the Federal Bureau of Prisons can be found at www.bop.gov. 
+FBI-New York 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are 
+ARS ASSIGNMENT..: ESC TRP TO LOC HOSP W/RETN-USM FBI NO..: 
+NYPD / FBI 
+FBI New York 
+(NY) (FBI) < 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+FBI Special Agent [i 
+(attached), tolls and subscriber records were subpoenaed for that number. Could you please check the FBI file to 
+FEDERAL BUREAU OF INVESTIGATION 
+anything here for your office or FBI. 
+NYPD / FBI 
+Attachments: FBI Jes Staley.pdf 
+Federal Bureau of Intelligence 
+Bailey and the TSC Suppressing Key Information to the FBI, PRA, and FCA Regarding the Jes 
+| shall not repeat myself too much here, but the issue is raised in the public domain now, with the FBI, 
+Federal Bureau of Intelligence 
+Bailey and the TSC Suppressing Key Information to the FBI, PRA, and FCA Regarding the 
+with the FBI, FCA and the PRA all investigating Jes Staley's conduct while working at JP Morgan, 
+In reviewing FBI reports from the Epstein tip line, Ijcame across the attached report. We wanted to share this 
+FBI New York 
+meet with AUSA and FBI. Call was placed on speakerphone. 
+believes that the house across the street from JE’s house had the FBI in it 
+that no one ever told her there was a camera in the clock or that the FBI 
+was across the street. [J never saw the camera itself or the FBI across 
+street had the FBI in it. 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are accurate, and | 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are 
+investigation(s), but in the interim, as we discussed, you should feel free to refer any individuals to the FBI tip line, which 
+will continue to do intake on all Epstein-related matters including the new investigation; that number is 1-800-CALL-FBI. 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are 
+>, (NY) (FBI)" 
+Please forward the results in an electronic format to Special Agent Federal Bureau of 
+FBI New York Field Office 
+FBISubpoenas(@)westernUnion.com 
+FBISubpoenas(@westernUnion.com 
+produced by on or before the return date to Special Agent — Federal Bureau of 
+before the return date to Special Agent . Federal Bureau of Investigation, 26 
+produced by on or before the return date to Special Agent — Federal Bureau of 
+produced by on or before the return date to Special Agent — Federal Bureau of 
+produced by on or before the return date to Special Agent — Federal Bureau of 
+before the return date to Special Agent ., Federal Bureau of Investigation, 26 
+. Federal Bureau of 
+before the return date to Special , Federal Bureau of Investigation, 26 
+are Special Agent Re -: the FBI and Detective Paul 
+the FBI have been in touch with all known victims or have 
+FBI to do a competent investigation. But these are allegations 
+whole hall was corrupted. It was in DC with the FBI to see if 
+prosecution, as well as a separate team of FBI agents. 
+She was cooperating in an FBI investigation and wanted the 
+the U.S. Attorney's Office and the FBI to bring all of 
+Finally, it bears noting that the United States Attorney’s Office, Federal Bureau of 
+ones have been contacted. Would you please review this with the FBI victim specialists to note any additional contact 
+> Given that there are apparently two (the FBI and the IG) investigations into Mr Epstein’s suicide, | am writing 
+is copied here. The FBI would greatly appreciate it if we could swear out the warrant first thing in the 
+marked with FBI evidence numbers 15, 16, 17, 18, and 22, seized from the residence located at 9 
+1. I have been a Special Agent with the Federal Bureau of Investigation (“FBI”) since 
+employed by the FBI for approximately two years, and I am currently assigned to investigate 
+the FBI’s investigation of EPSTEIN, | have participated in interviews with Victim-1, along with 
+Federal Bureau of Investigation 
+N. (NY) (FBI)" < 
+Please forward the results in an electronic format to Special Agent Federal Bureau of 
+FBI New York Field Office 
+Agent SI GE, Federal Bureau of Investigation, 26 Federal Plaza, New York, NY 10278, telephone 
+WENN ~ Special Agent FBI 
+phone number for victims to be in touch with the FBI, with the 
+FBI/grand jury/U.S. Attorney investigation that led to a 
+| want to see what FBI sends to us —i.e., whether it’s usable or not. If it is, great! And if not, hopefully at that point we'll 
+| just had positive conversations with J and ij (and I) — I had understood that FBI was getting their own 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FBI Victim Services Division 
+| hope each of you had a good weekend. Please find language below that has been approved by FBI NY, VSD 
+The FBI’s Victim Services Division (VSD) is committed to providing services and support to victims of crimes 
+of these services is available at www.fbi.gov/resources/victim-services. If you would like to speak with a Victim 
+victimservices@fbi.gov. 
+FBI Victim Services Division 
+This is the draft with the FBI paragraph. 
+The FBI's Victim Services Division (VSD) is committed to providing services and support to victims of crimes 
+of these services is available at www.fbi.gov/resources/victim-services. If you would like to speak with a Victim 
+victimservices@fbi.gov. 
+FBI Victim Services Division 
+| hope each of you had a good weekend. Please find language below that has been approved by FBI NY, VSD 
+The FBI's Victim Services Division (VSD) is committed to providing services and support to victims of crimes 
+of these services is available at www.fbi.gov/resources/victim-services. If you would like to speak with a Victim 
+victimservices@fbi. gov. 
+FBI Victim Services Division 
+Federal Bureau of Investigation and the United States Attorney’s Office”; and 
+from 2001 to 2007, other offenses that were the subject of the FBI and U.S. Attorney’s Office 
+before the period that was the subject of the FBI and U.S. Attorney’s Office investigation. 
+to a motion to quash subpoenas; (2) an unredacted copy of two FBI reports; (3) pages from a 
+reviewed the witness interviews and one of the FBI reports, and that neither set of documents 
+represents that it has already produced an unredacted copy of the other requested FBI report, and 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+« All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+« Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+e The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+« The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pear! 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+e Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+« The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+« The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+eo Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pearl Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+e The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI's offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+At a minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI's New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI's New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+please call 1-800-Call-FBI 
+We are writing to let you know that the FBI arrested your client this morning in Bradford, New Hampshire. | have 
+defendant is currently being transported for arrest processing by the FBI, and our current expectation is that she will be 
+GB is cross-referencing the FBI list against hers right now and will call me when she’s done with any issues 
+FBI Victim Services Division 
+| hope each of you had a good weekend. Please find language below that has been approved by FBI NY, VSD 
+The FBI’s Victim Services Division (VSD) is committed to providing services and support to victims of crimes 
+of these services is available at www.fbi.gov/resources/victim-services. If you would like to speak with a Victim 
+victimservices@fbi.gov. 
+FBI Victim Services Division 
+1. I have been a Special Agent with the Federal Bureau of Investigation (“FBI” or 
+exploitation of children as part of an FBI Task Force. I have gained expertise in this area through 
+accompanying Agent Affidavit seeking a Warrant and Order permitting the FBI to obtain, among 
+Exhibit D, the FBI subsequently obtained historical cell site and GPS location data for the Target 
+probable cause, and to seek a Second Warrant and Order authorizing the FBI to continue receiving 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation (“Investigative Agency”) 
+recovered from Epstein’s devices have the same metadata on the hard drive that was available when the FBI seized 
+was available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so 
+recovered from Epstein’s devices have the same metadata on the hard drive that was available when the FBI seized 
+was available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so 
+FBI's interview of x. 
+FEDERAL BUREAU OF INVESTIGATION 
+Remote Host: api.fbi.gov 
+Http Referrer: https://www.fbi.gov/tips 
+FEDERAL BUREAU OF INVESTIGATION 
+Remote Host: api.fbi.gov 
+Http Referrer: https://www.justice.gov/interpol-washington/pr/fbi-new- 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+Stockholm, SE 132 48. Submitted an online tip to the FBI National Threat Operations Center (NTOC) via 
+lips.fbi.gov. to report information on Jeffrey Epstein and Ghislaine Maxwell. 
+Remote Host: api.fbi.gov 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FL, submitted an online tip to the FBI National Threat Operations Center (NTOC) via tips.fbi.gov, to report 
+Remote Host: api.fbi.gov 
+Http Referrer: https://tips.fbi.gov/reported 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+Remote Host: api.fbi.gov 
+Http Referrer: https://www.fbi.gov/wanted/operation-legend 
+FEDERAL BUREAU OF INVESTIGATION 
+Agency Name: FBI TIPS 
+Remote Host: api.fbi.gov 
+Http Referrer: https://www.fbi.gov/wanted/operation-legend 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+number §, called the FBI National Threat Operations Center (NTOC) to report information 
+FEDERAL BUREAU OF INVESTIGATION 
+Alabama 35801, submitted an online tip to the FBI National Threat Operations Center (NTOC) via 
+tips.fbi.gov, regarding possible evidence related to Jeffrey Epstein case in Brownsboro, AL. 
+member of House of Rep. to many to list. FBI has names of the ones involved in Straight Inc. Investigation 
+Remote Host: api.fbi.gov 
+Http Referrer: https://tips.fbi.gov/ 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+The FBI has very kindly agreed to deliver two new drives from my office to the MDC for Ghislaine Maxwell on 
+please let us know what time the FBI should plan to make the delivery and who will be available to receive the 
+searched pursuant to warrants in this case. The chart includes the FBI identifiers associated with 
+review physical items in the FBI’s custody. 
+FEDERAL BUREAU OF INVESTIGATION 
+Details: On 07/24/2006 the Federal Bureau of Investigation 
+(FBI), Palm Beach County Resident Agency (PBCRA), began 
+FBI Miami, West Palm RA or SA 
+that she, [had been interviewed by the Federal Bureau of Investigation (“FBI”) in 2011, 
+(1989) (holding that an individual’s interest in nondisclosure of an FBI rap sheet was the sort of 
+FEDERAL BUREAU OF PRISONS 
+FEDERAL BUREAU OF PRISONS 
+Ras JUST IN: This statement from the federal Bureau of Prisons re Jeffrey 
+To: (NY ) (OGA) (FBI)" 
+For MCC shared drive - we are getting the FBI case file, so maybe put in a folder titled that? We'll need to 
+FBI New York Field Office 
+to FBI or DOJ as a whole. | think the office’s practice on this case is to forward all FOIA inquiries to J who is 
+FBI New York 
+FBI New York 
+FBI New York 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+| I was first informed by, I think someone from the FBI called me first and started to ask 
+when it was that you were contacted by the person who you believe was with the FBI. 
+my name, I guess, and that’s how everybody, the FBI knew to contact me. 
+from the FBI person were you contacted by Mr. Epstein’s lawyers. 
+to the FBI thinking what’s happening, what’s going on. It’s been like 6 years, 7 years at 
+a I want to say Bill Riley, but he might have been from the FBI. No, it was Bill Riley. Bill 
+regarding planned participation of FBI ASAIC at 9/7/2007 meeting with Deliberative Process 
+MeMillan regarding Acosta inquiry about FBI investigation into State 6(e) 
+the FBI SAIC, and Marie Villafafia 
+victims, and victim notification letters from FBI 
+regarding FBI involvement in meeting in DC 
+thru Jeff Sloman, Karen Atkinson, Nesbitt Kuyrkendall (FBI), and Jason 6(e) 
+P-014919 Richards (FBI) re status of investigation, indictment review, grand jury Deliberative Process 
+FBI. It seemed very odd for someone doing an official criminal investigation to just call up on 
+FBI or any authorities. I did answer a few basic questions, telling him that I knew Jeffrey 
+FBI agent. It did not seem very official. [ became very uncomfortable, so I told him nothing 
+powerful friends. If the man who called me was really an FBI agent and was interested in what I 
+29. Getting a call from this supposed FBI Agent made me very scared. I had left that old life 
+30. Shortly after this purported FBI call, I was contacted by someone who was clearly 
+keep quiet, I would “be looked after.” The fact that this call came in right after the FBI call 
+reinforced my concern that the man I had talked to earlier was not really working for the FBI, but 
+was really working for Epstein. I didn’t think that the FBI and Epstein would both be working 
+and told this person that I had gotten a call from the “FBI” but that I didn’t tell them anything. 
+34, On September 3, 2008, the FBI sent a victim notification letter to me. This was the first 
+earlier statement. This kind of written communication, on official FBI stationary, is the way that 
+I thought the FBI really communicated with people that they wanted to talk to. The fact that I got 
+earlier was really from the FBI. The letter that I got did not mention that anyone from the FBI 
+seem like this was the first time the FBI was officially contacting me. That was the first time I 
+Florida. I had seen her name on the official letter from the FBI, so she seemed legitimate. 
+42. Within a few weeks of the newspaper article being published, two FBI agents also called 
+45. During my interview with the real FBI agents, I told them about my contact from the 
+purported FBI agent. They did not tell me that it had been a legitimate call from the FBI. 
+46. The interview I did with these FBI agents was very stressful for me. My meeting lasted 
+51. As the months following the FBI meeting in Sydney passed, I was trying to be patient but 
+foreign country; especially after I had already gave information to the FBI that | believed they 
+53. In April 2014, I decided to get back in touch with the FBI. In Sydney, the FBI had 
+seemed like they wanted to be helpful to me, and I have great respect for the FBI agents who met 
+seemed like the hands of Villafafia and the FBI were always tied by someone else with more 
+55. I have asked the FBI to show me the video surveillance and other pictures of me that I 
+FBI, it is my belief that federal prosecutors likely possess videotapes and photographic images of 
+understand why they aren’t moving forward with what the FBI has given to them. I also don’t 
+what I can see, that turned out to be true. There are less powerful people -- like the FBI agents 
+. I cooperated fully with the FBI while they investigated Epstein’s 
+. In late 2007, FBI agents met in person with me. During this 
+letter from the FBI that told me that “this case is currently under 
+investigated and the FBI and prosecutors were moving forward on 
+FBI’s investigation of Epstein’s abuse of me. I had always 
+Based on what the FBI had been telling me, I thought they were 
+3. My son was very young when the FBI came to speak with me the first 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+FBI New York Field Office 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+the FBI case file is also huge. 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection 
+the materials are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will 
+We've received a hard drive from FBI CART, which they've processed from devices seized and searched in connection 
+the materials are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will also 
+NYPD / FBI 
+| oe sorry one small thing, can you just list the documents in the index in the letter as “Spreadsheets” not FBI 
+NYPD / FBI 
+You requested a copy of the spreadsheets on the hard drives you have reviewed at the FBI 
+other things, child exploitation materials. However, the FBI has prepared a version of the 
+GE sorry one small thing, can you just list the documents in the index in the letter as “Spreadsheets” not FBI 
+NYPD / FBI 
+We will be joined by two FBI agents who are focusing on the CBP topics that we have previously discussed. | expect one 
+the FBI case file is also huge. 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection 
+the materials are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will 
+The new data set you gave to me from the FBI has some problems and | was wondering if we can get the FBI to fix some of 
+If we can get the FBI to either send us the data again with these corrections applied that would be great. Please let me 
+produced by on or before the return date to Special — Federal Bureau of 
+the return date to Special Agent pene] Federal Bureau of Investigation, 26 Federal 
+We will be joined by two FBI agents who are focusing on the CBP topics that we have previously discussed. | expect one 
+Per our policy of passing along civilian information, I'm forwarding so that the FBI can handle as it sees fit. 
+Can you send to FBI. 
+Amazon's response to the attached grand jury subpoena is overdue by several weeks. The FBI has emailed and left 
+N.Y. FBI Squad C20 
+Florida and the FBI Office that were working with them as follows: 
+and FBI agents from either or both offices in 2008 in and around New York City, 
+or FBI agents working with them at any time from 2007-2019. 
+the Southern District of New York or FBI agents working with them at any time from 
+free to connect them with us directly, rather than going through the FBI number, if that’s easier. 
+you please call me PS - two of my clients have advised me that they have contacted the FBI. 
+Glad you are reaching out. There has been quite a bit of news in the UK about FBI/DOJ interest in Prince 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations ner conclusions of the FBI. tis the property ot the FBI and ts loaned to your ugeney, it and its 
+4. We produced the FBI report bearing Bates number SDNY_GM_02050812-14 in the form in which it was recovered 
+redactions existed on the document at the time the document was found during the FBI’s search of Epstein’s 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+| advised that she could send them to the case team and we would pass along the communications to the FBI 
+subsequent to the phone conversation, | received an email with the communications and sent them to FBI 
+information related to the conduct in this case to please contact 1-800-CALL-FBI. 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FBI New York 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection with 
+are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will also be coming 
+As discussed, attached is paperwork from the FBI Florida file — seizure of the PBPD evidence on August 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection with 
+are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will also be coming 
+Hi QJ, just double checking to see if | can send this notification out. Also, FBI exported 4 more victims, attached are 
+DAILY MAIL: https://www.dailymail.co.uk/news/article-8625217/Trump-hints-FIRING-FBI-director-Chris- 
+The USAO-SDNY, in conjunction with FBI-NY, plans to obtain a search warrant for “Little Saint James,” U.S. 
+plan to seek the warrant this Friday, August 9 and the FBI plans to execute the warrant on Monday, August 12, 
+2019. FBI-NY, in conjunction with local authorities, intends to execute the warrant on or about August 12, 2019. 
+high-profile hearings as FBI director after the 9/11 attacks and the 
+From a former FBI special agent who now teaches at Yale: 
+his side of the story after the FBI raided his home as part of a 
+Subject: Accepted: Epstein Op Meeting with FBI 
+Event: Accepted: Epstein Op Meeting with FBI 
+Event: Accepted: Epstein Op Meeting with FBI 
+Second, our case agent told us that FBI received a flight manifest from CBP last night. The passengers listed are 
+Epstein and two pilots. Of course, that is subject to change, and I’m told that FBI will try to get confirmation of 
+FBI. 
+FBI is leaking the content of the indictment. 
+The FBI already called Kaplan Hecker without our knowledge, earlier (along with two other victims and their attorneys). 
+FBI. 
+FBI is leaking the content of the indictment. 
+The FBI already called Kaplan Hecker without our knowledge, earlier (along with two other victims and their attorneys). 
+FBI. 
+FBI is leaking the content of the indictment. 
+York (“USAO”) and the Federal Bureau of Investigation (“FBI”) are conducting an ongoing 
+in determining the cause and manner of Mr. Epstein’s death, the USAO and FBI gave OCME 
+evidence or information made available to OCME by the USAO or FBI— including documents, 
+include, reflect, or contain information made available to OCME by the USAO or FBI. We also 
+FBI— including documents, records, or materials from the MCC—or created by OCME or within 
+USAO or FBI”; and (ii) “the names and identifying information of any federal law enforcement 
+report and file for Jeffrey Epstein that was previously provided by OCME to the FBI, consistent 
+The FBI already called Kaplan Hecker without our knowledge, earlier (along with two other victims and their attorneys). 
+FBI. 
+FBI is leaking the content of the indictment. 
+FYI, went to FBI about ten minutes ago, so we’re hoping to hear back from them shortly. 
+(NY ) (FBI)" < > 
+2) HEM will be on vacation the first week of November but what about the week of October 14? FBI victim 
+NYPD / FBI 
+NYPD / FBI 
+2) EE will be on vacation the first week of November but what about the week of October 14? FBI victim 
+NYPD / FBI 
+boxes of case files that he does not think the FBI ever collected, and he has agreed to provide them to us when/if 
+Thanks very much, {. We will forward to the FBI. 
+NYPD / FBI 
+FBI New York Field Office 
+NYPD / FBI 
+To: a <>; A (1) (FC!) <i (NY) (FBI) 
+FBI New York Field Office 
+Please see below. Would someone at the FBI be able to contact this woman for initial screening, please? Per our usual 
+would it be possible for someone to respond to her and ask that she contact the FBI tip line with any 
+You can send this stuff to whoever the FBI agent is since it’s a waste of time to call the intake or tipline 
+(NY) (FBI)" < 
+(NY) (FBI) < 
+Te (NY) (FBI < >; 
+(NY) (FBI) < 
+= (FBI) 
+(NY) (FBI) < >: | 
+- cooperated with the FBI as part of the Florida investigations 
+have sought documents about the investigation regarding Epstein conducted by FBI-Miami 
+which he refers required the FBI to “provide the victim with the earliest possible notice concerning 
+§ 10607(c)(3)A)°) (emphasis added)). Presumably, this requirement that the FBI keep victims 
+a normal “on campus” meeting would have involved FBI agents and others Justice Department 
+FBI agents delivered a standard CVRA notification letter to Jane Doe 1. 359 F.Supp.2d at 1205. 
+FBI New York 
+FD-395 FEDERAL BUREAU OF INVESTIGATION - 
+FD-395 (Revised 11-05-2002) Page 1 of 1 FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+Thanks I think this same attorney called the FBI, so I’ve copied 
+U.S.C. § 3283. And these offenses were the kinds of offenses that the Federal Bureau of 
+Investigation (FBI) and U.S. Attorney’s Office for the Southern District of Florida were pursuing 
+record of their statements that they provided to the FBI. These FBI 302’s should be only a few 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+measering device micro ‘astr inserfbieg device 
+Let us know what works best from you on the FBI side. Do you want to call my desk when you're together? On our end, 
+FBI New York Field Office 
+In August 2019, the FBI in Atlanta, GA was interested in aircraft linked to EPSTEIN. 
+| hope all’s well. | got your email from | at the FBI. We are working on a case and could use some assistance 
+In August 2019, the FBI in Atlanta, GA was interested in aircraft linked to EPSTEIN. 
+| hope all’s well. | got your email from [J at the FBI. We are working on a case and could use some assistance 
+November 14, 2006, J was interviewed by the Federal Bureau of 
+review physical items in the FBI's custody. 
+2) EE will be on vacation the first week of November but what about the week of October 14? FBI victim 
+NYPD / FBI 
+: i__i ) (FBI)" - Sa ———_—2 
+Attachments: 2020.11.18 Maxwell Discovery _Letter.pdf; 2006.12.06 FBI Report.pdf; PRODO11- 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+>> The FBI has very kindly agreed to deliver two new drives from my 
+>> Would you please let us know what time the FBI should plan to make the 
+after your trial...when the SDNY/FBI bandwith might increase and confidentiality concerns might be less acute. 
+« Inthe same vein, they were interested to know if Maxwell talked to FBI post-arrest and if she said anything of 
+Attachments: 2020.11.18 Maxwell Discovery Letter.pdf; 2006.12.06 FBI Report.pdf; PRODO11- 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+FBI New York 
+FBI New York Field Office 
+we'll need two copies of each resulting digital file (again, one for us and one for FBI). Those are 
+Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of Investigation 
+(“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), announced that 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the most 
+If you believe you are a victim of the sexual abuse perpetrated by Jeffrey Epstein, please contact the FBI at 1- 
+800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+the New York Field Office of the Federal Bureau of Investigation (FBI), and 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of 
+Jeffrey Epstein, please contact the FBI at 1-800-CALL FBI, and 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and J. Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. (BM praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+FBI No: Saas 
+FBI Name: MAXWELL,GHISLAINE NOELLE 
+FBIName: | MAXWELL.GHISLAINE NOELLE | FBINo: Li | Trans ID: ; Ss 
+Agency: FBI | ORI: /NYFBINYOO 
+Phone: | Agency: FBI ORI: | NYFBINYOO 
+| FBINo: iy | 
+| have included a list of clients we represent who | believe have all spoken with the FBI or were identified as victims in 
+My supervisors gave me your name as the point of contact at the FBI to help coordinate the review of images and videos 
+Thanks When I click on the link you sent, it brings me to the “FBI Files from Florida Office” folder, but it appears to 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+SDNY_GM_ 00328073 SDNY_GM_00328092 | FBI Florida Documents Lecanaestat —— onfidential 
+SDNY_GM_00328093 SDNY_GM_00328289 | FBI NY Documents | 
+Scans of FBI Evidence 
+Scans of FBI Evidence 
+| Scans of FBI Evidence Confidential 
+FBI Florida Documents 
+| FBI FL Documents (included 
+| FBI FL Documents from Discs | Confidential and 
+review physical items in the FBI’s custody. 
+Has the FBI team been able to start this review yet? Is there a time when | can hop onto a phone call with you and them 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+The United States Attorney for the Southern District of New York and the Federal Bureau of 
+Southern District of New York and the Federal Bureau of Investigation (collectively the “U.S. 
+4 NYPD detective serving on the FBI task force, and assisting in the federal investigation. 
+> NYPD detective serving on the FBI task force, and assisting in the federal investigation. 
+Federal Bureau of Investigation and the United States Attorney’s Office”; and 
+from 2001 to 2007, other offenses that were the subject of the FBI and U.S. Attorney’s Office 
+before the period that was the subject of the FBI and U.S. Attorney’s Office investigation. 
+to a motion to quash subpoenas; (2) an unredacted copy of two FBI reports; (3) pages from a 
+reviewed the witness interviews and one of the FBI reports, and that neither set of documents 
+represents that it has already produced an unredacted copy of the other requested FBI report, and 
+On Dec 5, 2019, at 1:37 PM Ji (NY) (FB!) SE fbi.g0v> wrote: 
+FBI New York 
+FBI New York 
+hours after publishing the material on Staley in the International Reporter. Given that the FBI had told 
+e Full FBI sentinel file 
+e Scans of the files Reiter provided to the FBI and provide us with all of those scanned materials 
+e Scans of all hard copy documents, including photos, in the possession of the FBI that have not yet been scanned, 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI team 
+those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other entities, but | 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+a little nuts just trying to drag the FBI toward any usefulness with the financials and electronics . . . 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+NYPD / FBI 
+FBI New York Field Office 
+We will be joined by two FBI agents who are focusing on the CBP topics that we have previously discussed. | 
+We will be joined by two FBI agents who are focusing on the CBP topics that we have previously discussed. | 
+FBI New York Field Office 
+Federal Bureau of Prisons 
+7/8/2019 FBI208 FEDERAL BUREAU OF INVESTIGATION 
+have sought documents about the investigation regarding Epstein conducted by FBI-Miami 
+which he refers required the FBI to “provide the victim with the earliest possible notice concerning 
+§ 10607(c)(3)A)°) (emphasis added)). Presumably, this requirement that the FBI keep victims 
+a normal “on campus” meeting would have involved FBI agents and others Justice Department 
+FBI agents delivered a standard CVRA notification letter to Jane Doe 1. 359 F.Supp.2d at 1205. 
+the case. By ‘we,’ | mean the FBI, CBP, the NYPD, and of course the U.S. Attorney’s Office. We opened the case. We 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: FW: Epstein OIG/FBI--Document Preservation 
+Subject: Epstein OIG/FBI--Document Preservation 
+ascribed to Mr Berman and to the DOJ/FBI: “EB./. agents and federal prosecutors in New York ... reached out 
+prosecutors and the FBI had asked to interview Prince Andrew about the late paedophile billionaire, but had 
+Please provide us with an accurate record of the statements made by The US Attorney and/or the DOJ/FBI 
+O prosecutors and also two primary FBI agents 
+4. We produced the FBI report bearing Bates number SDNY_GM_02050812-14 in the form in which it was 
+rather, the redactions existed on the document at the time the document was found during the FBI's search of 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+Thanks very much for flagging. Our protocol in this case has been to forward all tips to the FBI-- our case agents 
+York, the Department of Justice, state prosecutor’s offices, the FBI, and any 
+offices, the FBI, and any other federal and state investigative agencies. 
+FEDERAL BUREAU OF INVESTIGATION 
+Details: On 07/24/2006 the Federal Bureau of Investigation 
+(FBI), Palm Beach County Resident Agency (PBCRA), began 
+FBI Miami, West Palm RA or SA 
+matter to the Federal Bureau of Investigation (FBI) in West Palm Beach for a possible federal 
+The FBI brought the matter to an Assistant U.S. Attorney (AUSA), who opened a file with 
+She worked with two FBI case agents to develop a federal case against Epstein and, in the course 
+submitted declarations from the AUSA and the FBI case agents who conducted the federal 
+of records from the USAO, the FBI, and other Department components, including the Office of 
+of witnesses, including the FBI case agents, their supervisors, and FBI administrative personnel; 
+with the USAO and the FBI. 
+signed, including victim notification letters issued by the USAO and the FBI and interviews 
+failed to inform them of the NPA. The letters were sent by an FBI administrative employee who 
+FBI when communicating with victims, and were not drafted or reviewed by the subjects. 
+USAO-SDNY, the Federal Bureau of Investigation, the Department of Justice, Office of the 
+USAO-SDNY, the Federal Bureau of Investigation, the Department of Justice, Office of the 
+purchase of Maxwell's New Hampshire property in 2019. — out to the FBI following Maxwell’s arrest and 
+-Would the SDNY provide any reports detailing how the FBI and NYPD took him into custody...details about 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI team 
+those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other entities, but | 
+My supervisors gave me your name as the point of contact at the FBI to help coordinate the review of images and videos 
+The new data set you gave to me from the FBI has some problems and | was wondering if we can get the FBI to fix some of 
+If we can get the FBI to either send us the data again with these corrections applied that would be great. Please let me 
+him to talk to the FBI about the Jeffrey Epstein case. 
+the FBI to answer their questions.” 
+the FBI to answer (New Questont 
+The United States District Court of the District of Columbia recently “remind[ed] the FBI of its obligation 
+The United States District Court of the District of Columbia recently “remind{ed] the FBI of its obligation 
+“remind|cd] the FBI of its obligation to conduct record-level reviews at 
+Federal Bureau of Prisons 
+ee or the Federal Bureau of Prisons’ (BOP) FOIA Public Liaison, 
+Federal Bureau of Prisons 
+On 01-02-2020, you submitted a FOIA request to the Federal Bureau of Prisons (BOP). 
+to contact the undersigned, this office, or the Federal Bureau of Prisons’ (BOP) FOIA 
+Federal Bureau of Prisons 
+The Federal Bureau of Prisons (BOP) received your Freedom of Information Act/Privacy Act (FOIA/PA) 
+Federal Bureau of Prisons makes the determination regarding the first three exceptions, and the 
+In August 2019, the FBI in Atlanta, GA was interested in aircraft linked to EPSTEIN. 
+| hope all’s well. | got your email from at the FBI. We are working on a case and could use some assistance 
+in 2005, which was taken by private investigators working for Epstein. The FBI found the cloned drives in Epstein’s NYC 
+FBI New York Field Office 
+(NY) (FBI)" < 
+subpoenas that were served by the FBI. As an example, the Epstein Deutsche Bank production is not included 
+FBI New York Field Office 
+15 of the house the FBI was at. 
+Q. When you met with the FBI and the U.S. 
+The FBI has photos taken of me at Jeffrey Epstein’s ‘li 
+from FBI, U.S. Attorneys’ Office, State Attorneys’ Office (Palm Beach County), 
+| was interviewed by the FBI and a State Attorney, they have my statement. 
+the FBI and Prosecutors office. They took notes and | was not provided 
+*“This in no way is over, OK. There's going to be more investigative steps they're going to take place and the FBI 
+There are loose disks which include 1B evidence scans, 1D1-1D5 evidence items, LSJ 3D imaging, and the FBI file. 
+FBI New York Field Office 
+¢ We'll take the FBI file whenever you can get it to our office. 
+e My understanding from past FBI cases is that CART completes some sort of paperwork documenting the dates on 
+down to the FBI office, but that in the meantime we are still working on getting copies of non-nude images to 
+FBI file: We have that ready for you. 
+FBI New York Field Office 
+NYPD / FBI 
+larger scanning project, during which the FBI scanned all of the paper that was vouchered in evidence. Are you able to 
+e Full FBI sentinel file 
+e Scans of the files Reiter provided to the FBI and provide us with all of those scanned materials 
+e = Scans of all hard copy documents, including photos, in the possession of the FBI that have not yet been 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+FBI's searches of Epstein’s residences in New York and the Virgin Islands, and as noted in my letter dated August 21, 2020, 
+ready, we can schedule a time for you to go to the FBI offices and review them. 
+To the extent you are reiterating your request from yesterday afternoon that the FBI bring a laptop containing those 
+images to the MDC for you and your client to review together, we are already working with the FBI on the logistics of 
+know as soon as those logistics are sorted and the FBI is able to bring the files to the MDC for you and your client to 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We're not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FY! below, the FBI says its dropping off extractions of nearly all the remaining devices tomorrow. Why after ten months of 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+Topic: Federal Bureau of Investigation (FBI) 
+confidential and would remain confidential within the investigation team in the DOJ and FBI. You said: “We don’t 
+DOJ. As well as our partners at the FBI. It is confidential within the investigation team and our supervisors.” The 
+that public commitment. So let me say that the Southern District of New York and the FBI have contacted Prince 
+ascribed to Mr Berman and to the DOJ/FBI: “E.B./. agents and federal prosecutors in New York ... reached out 
+prosecutors and the FBI had asked to interview Prince Andrew about the late paedophile billionaire, but had 
+Please provide us with an accurate record of the statements made by The US Attorney and/or the DOJ/FBI 
+To: (NY) (FBI) 
+FBI. The Court has ordered the Government to disclose all Jencks Act and Giglio material by 
+where local FBI headquarters is housed to inform the women of their rights and offer 
+case, who can put them in touch with victim services at FBI. The agent is Special Agent , and her phone 
+The FBI is aware of 1 or 2 victims who indicated they could not come on short notice, but does not recall which victims 
+the VW coordinators (USAO and FBI), prosecutors, and agents whether any victims complained about not 
+e We'll take the FBI file whenever you can get it to our office. 
+e My understanding from past FBI cases is that CART completes some sort of paperwork documenting the dates on 
+down to the FBI office, but that in the meantime we are still working on getting copies of non-nude images to 
+FBI file: We have that ready for you. 
+FBI New York Field Office 
+NYPD / FBI 
+larger scanning project, during which the FBI scanned all of the paper that was vouchered in evidence. Are you able to 
+e Full FBI sentinel file 
+e Scans of the files Reiter provided to the FBI and provide us with all of those scanned materials 
+e Scans of all hard copy documents, including photos, in the possession of the FBI that have not yet been scanned, 
+e We'll take the FBI file whenever you can get it to our office. 
+e My understanding from past FBI cases is that CART completes some sort of paperwork documenting the dates on 
+FBI office, but that in the meantime we are still working on getting copies of non-nude images to produce to them. 
+FBI file: We have that ready for you. 
+FBI New York Field Office 
+NYPD / FBI 
+larger scanning project, during which the FBI scanned all of the paper that was vouchered in evidence. Are you able to 
+e —_- Full FBI sentinel file 
+e Scans of the files Reiter provided to the FBI and provide us with all of those scanned materials 
+e Scans of all hard copy documents, including photos, in the possession of the FBI that have not yet been scanned, 
+Subject: Re: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation 
+> https://www.cnbe.com/2019/12/27/jeffrey-epstein-friend-ghislaine-max well-under-fbi-investigation.html 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+lusions of the FBI. It ts the property of the FBI and is loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+suicide. Epstein was being held in federal Bureau of Prisons custody after a federal judge denied 
+the incarceration of Epstein; and another — presumably FBI investigation — into 
+thorough investigation. The FBI and the Office of Inspector General are already 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: FW: Epstein OlG/FBI--Document Preservation 
+Subject: Epstein OIG/FBI--Document Preservation 
+be in the possession of the MCC, its Warden, their legal counsel, the USMS, the FBI, the Inspector General, the USAO for 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: FW: Epstein OIG/FBI--Document Preservation 
+ubject: Epstein OIG/FBI--Document Preservation 
+FBI Laboratory examination requests SDNY_ 00017825 
+FBI process reports SDNY_ 00017991 
+FBI import forms SDNY_ 00017822 
+Please see below. Would someone at the FBI be able to contact this woman for initial screening, please? Per our usual 
+FEDERAL BUREAU OF INVESTIGATION, 
+TO: Federal Bureau of Investigation 
+The Enquirer seeks all documents relating to the FBI’s investigation and prosecution of 
+police and the FBI. Dozens of underage women claimed that they had been trafficked by 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+This acknowledges receipt of your Freedom of Information Act (FOIA) request to the FBI. The 
+You submitted your request via the FBI's eFOIA system. 
+You have requested records concerning one or more third party individuals. The FBI recognizes 
+information, the FBI can neither confirm nor deny the existence of any records responsive to your request, 
+information must contain a legible, original signature before FBI can conduct an accurate search of our 
+Services (OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's 
+FOIA Public Liaison by emailing foilpaquestions@ic.fbi.gov. If you submit your dispute resolution 
+foipaquestions@ic.fbi.gov. You may also visit www.fbi.qov and select “Services,” “Records Management,” 
+Enclosed for your information is a copy of the FBI Fact Sheet and a copy of the Explanation of 
+FBI FACT SHEET 
+The primary functions of the FBI are national security and law enforcement. 
+The FBI does not keep a file on every citizen of the United States. 
+The FBI was not established until 1908 and we have very few records prior to the 1920s. 
+FBI files generally contain reports of FBI investigations of a wide range of matters, including counterterrorism, 
+The FBI does not issue clearances or non-clearances for anyone other than its own personnel or persons 
+having access to FBI facilities. Background investigations for security clearances are conducted by many 
+An identity history summary check or “rap sheet” is NOT the same as an “FBI file.” It is a listing of 
+information taken from fingerprint cards and related documents submitted to the FBI in connection with arrests, 
+submitting a written request to FBI CJIS Division -— Summary Request, 1000 Custer Hollow Road, Clarksburg, WV 
+available. Forms for this option and additional directions may be obtained by accessing the FBI Web site at 
+www. fbi.gov/about-us/cjis/identity-history-summary-checks. 
+The National Name Check Program (NNCP) conducts a search of the FBI's Universal Index (UNI) to identify 
+any information contained in FBI records that may be associated with an individual and provides the results of that 
+The Record/Information Dissemination Section (RIDS) searches for records and provides copies of FBI files 
+FOR GENERAL INFORMATION ABOUT THE FBI, VISIT OUR WEBSITE AT 
+www. fbi.gov 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+For questions regarding our determinations, visit the www.fbi.gov/foia website under “Contact Us." 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+For questions regarding our determinations, visit the www.fbi.gov/foia website under “Contact Us." 
+FBI'DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+’ Weare consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+has processed all other information currently in our possession. The FBI will correspond with you regarding those 
+For questions regarding our determinations, visit the www.fbi.gov/foia website under “Contact Us." 
+FBI'DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+For questions regarding our determinations, visit the www.fbi.gov/foia website under “Contact Us." 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public 
+For questions regarding our determinations, visit the www.fbi.gov/foia website under "Contact Us.” 
+FBI'DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public 
+For questions regarding our determinations, visit the www. fbi.gov/foia website under "Contact Us.” 
+FBI'DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public 
+For questions regarding our determinations, visit the www.fbi.gov/foia website under “Contact Us,” 
+FBI'DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public 
+Liaison by emailing foipaquestions@fbi.gov. If you submit your dispute resolution correspondence by email, the 
+For questions regarding our determinations, visit the www.fbi.gov/foia website under “Contact Us." The 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public Liaison 
+by emailing foipaquestions@fbi.gov. If you submit your dispute resolution correspondence by email, the subject 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public Liaison 
+by emailing foipaquestions@fbi.gov. If you submit your dispute resolution correspondence by email, the subject 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public Liaison 
+by emailing foipaquestions@fbi.gov. If you submit your dispute resolution correspondence by email, the subject 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public Liaison 
+by emailing foipaquestions@fbi.gov. If you submit your dispute resolution correspondence by email, the subject 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+(OGIS) at 877-684-6448, or by emailing ogis@nara.gov. Alternatively, you may contact the FBI's FOIA Public Liaison 
+by emailing foipaquestions@fbi.gov. If you submit your dispute resolution correspondence by email, the subject 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+To minimize costs to you and the FBI, duplicate copies of the same document were not processed. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+To minimize costs to you and the FBI, duplicate copies of the same document were not processed. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+“General Information” section includes useful information about FBI records. 
+To minimize costs to you and the FBI, duplicate copies of the same document were not processed. 
+FBI FOIPA Addendum 
+As referenced in our letter, the FBI FOIPA Addendum includes information applicable to your request. Part 1 of the 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FB! organization and encompasses the records of FBI Headquarters (*“FBIHQ"), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats") worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI'DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+“General Information” section includes useful information about FBI records. 
+To minimize costs to you and the FBI, duplicate copies of the same document were not processed. 
+FBI FOIPA Addendum 
+As referenced in our letter, the FBI FOIPA Addendum includes information applicable to your request. Part 1 of the 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FB! organization and encompasses the records of FBI Headquarters (“FBIHQ"), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats”) worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www. fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+Please see the paragraphs below for relevant information specific to your request and the enclosed FBI 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+information about FBI records that you may find useful. Also enclosed is our Explanation of Exemptions. 
+To minimize costs to you and the FBI, duplicate copies of the same document were not processed. 
+FBI FOIPA Addendum 
+As referenced in our letter, the FBI FOIPA Addendum includes information applicable to your request. Part 1 of the 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FB! organization and encompasses the records of FBI Headquarters (*“FBIHQ"), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats") worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI'DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+The FBI carefully examined records under the Freedom of Information/Privacy Acts (FOIPA), Title 5, United 
+States Code, Section 552/552a. The FBI determined the information is exempt from disclosure pursuant to FOIA 
+Please see the paragraphs below for relevant information specific to your request and the enclosed FBI 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+information about FBI records that you may find useful. Also enclosed is our Explanation of Exemptions. 
+FBI FOIPA Addendum 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FBI organization and encompasses the records of FB! Headquarters (“FBIHQ*), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats") worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+The FBI carefully examined records under the Freedom of Information/Privacy Acts (FOIPA), Title 5, United 
+States Code, Section 552/552a. The FBI determined the information is exempt from disclosure pursuant to FOIA 
+Please see the paragraphs below for relevant information specific to your request and the enclosed FBI 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+In accordance with standard FBI practice and pursuant to FOIA exemption (b)(7)(E) and Privacy Act 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+information about FBI records that you may find useful. Also enclosed is our Explanation of Exemptions. 
+oa may contact the FBI's FOIA Public Liaison by emailing foipaquestions@fbi.gov. If you submit your dispute 
+FBI FOIPA Addendum 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FBI organization and encompasses the records of FB! Headquarters (“FBIHQ*), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats") worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+The FBI carefully examined records under the Freedom of Information/Privacy Acts (FOIPA), Title 5, United 
+States Code, Section 552/552a. The FBI determined the information is exempt from disclosure pursuant to FOIA 
+Please see the paragraphs below for relevant information specific to your request and the enclosed FBI 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+information about FBI records that you may find useful. Also enclosed is our Explanation of Exemptions. 
+you may contact the FBI's FOIA Public Liaison by emailing foipaquestions@fbi.gov. If you submit your dispute 
+FBI FOIPA Addendum 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FBI organization and encompasses the records of FB! Headquarters (“FBIHQ*), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats") worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+The FBI carefully examined records under the Freedom of Information/Privacy Acts (FOIPA), Title 5, United 
+States Code, Section 552/552a. The FBI determined the information is exempt from disclosure pursuant to FOIA 
+Please see the paragraphs below for relevant information specific to your request and the enclosed FBI 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+information about FBI records that you may find useful. Also enclosed is our Explanation of Exemptions. 
+you may contact the FBI's FOIA Public Liaison by emailing foipaquestions@fbi.gov. If you submit your dispute 
+FBI FOIPA Addendum 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FBI organization and encompasses the records of FB! Headquarters (“FBIHQ*), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats") worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+The FBI carefully examined records under the Freedom of Information/Privacy Acts (FOIPA), Title 5, United 
+States Code, Section 552/552a. The FBI determined the information is exempt from disclosure pursuant to FOIA 
+Please see the paragraphs below for relevant information specific to your request and the enclosed FBI 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+information about FBI records that you may find useful. Also enclosed is our Explanation of Exemptions. 
+you may contact the FBI's FOIA Public Liaison by emailing foipaquestions@fbi.gov. If you submit your dispute 
+FBI FOIPA Addendum 
+As referenced in our letter, the FBI FOIPA Addendum includes information applicable to your request. Part 1 of the 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FBI organization and encompasses the records of FBI Headquarters (“FBIHQ”), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats") worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+, Federal Bureau of Investigation 
+The FBI carefully examined records under the Freedom of Information/Privacy Acts (FOIPA), Title 5, United 
+States Code, Section 552/552a. The FBI determined the information is exempt from disclosure pursuant to FOIA 
+Please see the paragraphs below for relevant information specific to your request and the enclosed FBI 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+information about FBI records that you may find useful. Also enclosed is our Explanation of Exemptions. 
+you may contact the FBI's FOIA Public Liaison by emailing foipaquestions@fbi.gov. If you submit your dispute 
+FBI FOIPA Addendum 
+As referenced in our letter, the FBI FOIPA Addendum includes information applicable to your request. Part 1 of the 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+are limited to those records subject to the requirements of the FOIA. Additional information about the FBI and the FOIPA 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FBI organization and encompasses the records of FBI Headquarters (“FBIHQ”), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats") worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative “FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI/DOJ 
+FEDERAL BUREAU OF INVESTIGATION, 
+Federal Bureau of Investigation 
+Please see the paragraphs below for relevant information specific to your request and the enclosed FBI 
+We are consulting with another agency. The FBI will correspond with you regarding this information 
+Please refer to the enclosed FBI FOIPA Addendum for additional standard responses applicable to your 
+information about FBI records that you may find useful. Also enclosed is our Explanation of Exemptions. 
+To minimize costs to you and the FBI, duplicate copies of the same document were not processed. 
+FBI FOIPA Addendum 
+As referenced in our letter, the FBI FOIPA Addendum includes information applicable to your request. Part 1 of the 
+the standard responses in Parts 1 or 2, visit the www.fbi.gov/foia website under “Contact Us.” Previously mentioned appeal 
+and dispute resolution services are also available. Part 3 includes general information about FBI records that you may find 
+requirements of the Freedom of Information Act (FOIA). See 5 U.S. C. § 552(c) (2006 & Supp. IV (2010). FBI responses 
+can be found on the fbi.gov website. 
+(ii) National Security/Intelligence Records. The FBI can neither confirm nor deny the existence of national security and 
+(i) Requests for Records about any Individual—Watch Lists. The FBI can neither confirm nor deny the existence of 
+(ii) Requests for Records for Incarcerated Individuals. The FBI can neither confirm nor deny the existence of records 
+intelligence, personnel, administrative, and general files compiled and maintained by the FBI in the course of fulfilling its 
+functions. The CRS spans the entire FBI organization and encompasses the records of FBI Headquarters (“FBIHQ"), FBI 
+Field Offices, and FBI Legal Attaché Offices (“Legats”) worldwide. A CRS search includes Electronic Surveillance (ELSUR) 
+(ii) FBI Records 
+Founded in 1908, the FBI carries out a dual law enforcement and national security mission. As part of this dual mission, 
+the FBI creates and maintains records on various subjects; however, the FBI does not maintain records on every person, 
+criminal history records are not the same as material in an investigative "FBI file." An Identity History Summary Check 
+is a listing of information taken from fingerprint cards and documents submitted to the FBI in connection with arrests, 
+Summary Check. Forms and directions can be accessed at www.fbi.gov/about-us/cjis/identity-history-summary-checks. 
+FBI/DOJ 
+NYPD / FBI 
+On the last business day BEFORE you travel to testify, call Special Agent with FBI, ‘iim: verify your exact 
+N. (NY) (FBI)" < 
+FBI, their victim services folks are handling travel logistics. |’m cc’ing |, who should be able to hopefully help 
+Alternatively, if you and {J would prefer to meet at the FBI, that should be fine, you just may have to wait 
+Is there a place at the FBI for you to interview Jj at the end of the meeting with Victim Services ? | am on a tight 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are 
+Special Agent is copied here. The FBI would greatly appreciate it if we could swear out the warrant first thing in the 
+Separately, we can tell you that the reports that an FBI investigation into the death has been initiated are 
+FBI New York 
+please call 1-800-Call-FBI 
+FBI New York Field Office 
+For MCC shared drive - we are getting the FBI case file, so maybe put in a folder titled that? We'll need to 
+FBI New York Field Office 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+FBI/NYPD 
+FBI/NYPD 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of Investigation 
+(“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), announced that 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the most 
+If you believe you are a victim of the sexual abuse perpetrated by Jeffrey Epstein, please contact the FBI at 1- 
+800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+the Federal Bureau of Investigation (“FBI”), and Dermot Shea, Commissioner of the New York 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of 
+please contact the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+(we’ve gotten different info from the FBI over time). But very easy to update with Tom and I’m sure it wouldn’t change 
+Following up on the below, | think we’ve given this our absolute best efforts with FBI — they are now well over a month 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+the Southern District of Florida (*“SDFL”) and the FBI’s Miami Office, and included interviews 
+. (NY) (FBI)" < 
+to FBI or DOJ as a whole. | think the office’s practice on this case is to forward all FOIA inquiries to JJ who is 
+My supervisors gave me your name as the point of contact at the FBI to help coordinate the review of images and videos 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+correcting the FBI barcode numbers for 3 devices that were seized from Epstein’s NY residence. In case it’s useful, I’m also 
+NYPD / FBI 
+NYPD / FBI 
+assigned internal FBI barcode number E6433822 (“Corrected Subject Device-32”); 
+assigned internal FBI barcode number E6433824 (“Corrected Subject Device-33”); 
+assigned internal FBI barcode number E6433821 (“Corrected Subject Device-34"). 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+please call 1-800-Call-FBI 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI 
+then types up those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other 
+FBI Seizure #: None 
+https://sentinel.fbinet.fbw/lavender/#/Cases/2383628 1/2 
+https://sentinel.fbinet fbilavender/#/Cases/2383628 2/2 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel.fbinet. fbi/lavender/#/Cases/2383628 V1 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel.fbinet. fbilavender/#/Cases/2383628 1/2 
+https://sentinel.fbinet.fbi/lavender/#/Cases/2383628 2/2 
+FBI Seizure #: None 
+https://sentinel.fbinet.fbi/lavender/#/Cases/2383628 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel. fbinet.fbi/lavender/#/Cases/2383628 1/2 
+https://sentinel.fbinet. foi/lavender/#/Cases/2383628 2/2 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel.fbinet fbi/lavender/#/Cases/2383628 1/1 
+FEDERAL BUREAU OF INVESTIGATION 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel.fbinet. fbi/lavender/#/Cases/2383628 v1 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+We will be joined by two FBI agents who are focusing on the CBP topics that we have previously discussed. | expect one 
+We will be joined by two FBI agents who are focusing on the CBP topics that we have previously discussed. | 
+failed to mention the full extent of the defendant’s role during her first FBI interview. Because 
+characterization.”); United States v. Leonardi, 623 F.2d 746, 757 (2d Cir. 1980) (FBI notes offered 
+The FBI has very kindly agreed to deliver two new drives from my office 
+you please let us know what time the FBI should plan to make the 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FBI Case Number: 
+FBI Case Number: 31E-NY-3027571 
+FEDERAL BUREAU OF INVESTIGATION 
+FBI sex trafficking task force that called me a couple of weeks ago and 
+Remote Host: api.fbi.gov 
+Http Referrer: https: ips.fbi.gov/reported 
+FBI New York 
+subpoenas that were served by the FBI. As an example, the Epstein Deutsche Bank production is not included 
+FBI New York Field Office 
+NYPD / FBI 
+NYPD / FBI 
+images contained in the production. In particular, the FBI created the attached spreadsheet, which listed the metadata 
+the FBI was able to extract from the images, but defense counsel has indicated they have no way of knowing which bates 
+(assuming it is someone other than you) — we ordinarily pass this kind of information to the FBI for initial response, but it’s 
+physical items seized by the FBI’s New York Office during the 2019 searches of Jeffrey Epstein’s residences in New York and 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to complete such an index. 
+The discovery productions also included search warrant returns listing the physical items seized by the FBI’s New York 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI's New York Office, though it may take some time to complete such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+not include every physical item currently in the FBI’s custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Ce: , (FBI)" < an )" 
+were already loaded onto a laptop and brought by the FBI to the MDC for Maxwell to review, and (2) the images 
+e Attached is the inventory you all provided us detailing the physical evidence items from the FBI-Florida 
+« Please provide us with a similar inventory of all physical evidence items in FBI-NY custody gathered during our 
+at 500 Pear! Street to review the physical items in the FBI’s custody. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Federal Bureau of Investigation 
+From: . (NY) (FBI)" 
+sessions. The FBI will similarly provide transportation (of en she 
+o The FBI provided meals and snacks > 8€=6r trial preparation 
+o The FBI paid for therapy sessions fo 
+sessions. The FBI will similarly provide transportation for for trial 
+o The FBI has paid for transportation for a: car to and from trial 
+Subject: FW: FBI Victim Services Division Briefing for Victims of Jeffrey Epstein 
+To: (NY) (FB!) (EE. VictimServices <victimservices@fbi.gov> 
+Subject: RE: FBI Victim Services Division Briefing for Victims of Jeffrey Epstein 
+FBI Victim Specialist 
+From: Pe | (NY) (FBI) 
+Subject: FBI Victim Services Division Briefing for Victims of Jeffrey Epstein 
+victimservices@fbi.gov. The FBI Victim Services Division is hosting two briefings for victims on October 15th 
+did not receive an invitation please respond back to victimservices@fbi.gov with their individual contact 
+FBI Victim Specialist 
+authorities, whether local police, the local FBI office, and/or any other appropriate law enforcement. If your 
+| know FBI was taking photos of the SHU generally and measuring the number of steps from Epstein’s cell to the guard 
+argued before her, according to the FBI and U.S. attorney's office. 
+Federal Bureau of Investigation 
+that asking victims about their past contacts with the USAO-SDFL and FBI-MIA in or about 2005-2008 would present any 
+USAO-SDFL and FBI-MIA, OPR wishes to in no way interfere with anything your office may be doing currently or 
+FBI New York Field Office 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+From: "EE (NY) (FBI)" < 
+FBI, the U.S. Marshals Service, the Drug Enforcement Administration and 
+last year and included state and FBI arrests in other joint operations. 
+FBI data. A year ago, in March, the FBI’s National Instant Criminal 
+on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we’ll need to get those to 
+. (NY) (FBI)" < 
+FBI New York - C20 
+To: . (NY) (FBI)" < 
+The FBI is working on the details and exact timing of the arrest; we are exploring whether an arrest at MCC ora 
+Federal Bureau of Prisons 
+Ce: . (NY) (FBI)" < >, )" 
+NYPD / FBI 
+Federal Bureau of Prisons 
+The BOP provided an update to the Office of Inspector General and Federal Bureau of 
+Additional information about the Federal Bureau of Prisons can be found at www. bop. gov. 
+Subject: Prince Andrew hires leading extradition lawyer to fend off FBI probe into his links with paedo 
+https://www.thesun.co.uk/news/11122534/prince-andrew-hires-extradition-law yer-fbi-probe/ 
+made for us — the FBI can, so it is possible what she is hearing is that her team has access to some number of these 
+As expected, FBI is pretty resistant to using a vendor. | explained to [J that we just can’t mess around with this 
+e  1Phone and 1 iPad seized from Epstein at the time of his arrest on July 6, 2019. The FBI first delivered copies of 
+open the iPhone data. IS THIS AN FBI TRANSMISSION ISSUE WITH THE IPHONE DATA, OR IS IT THAT IT WAS UN- 
+Following up on the below, | think we've given this our absolute best efforts with FBI — they are now well over a 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+through any FBI tool, so we asked for the materials to be transferred in a loadable format so we could put them on 
+FBI NY CART Coordinator 
+it on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won't know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us 
+FBI New York 
+think FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we'll need to get 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+With apologies for bothering you with this, we have hit just a complete brick wall with the FBI Information Management 
+Division person we're interacting with, attempting to get a copy of their scans of the FBI case file — the below emails are 
+Federal Bureau of Investigation 
+1. I have been a Special Agent with the Federal Bureau of Investigation (“FBI” or 
+exploitation of children as part of an FBI Task Force. | have gained expertise in this area through 
+by the FBI on federal sex trafficking charges. During that arrest, the FBI seized an iPhone from 
+the FBI subsequently searched the contents of the Epstein Phone. Among other things, that search 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation (“Investigative Agency”) 
+Federal Bureau of Investigation (“Investigative Agency”) 
+FBI Victim Services Division 
+| hope each of you had a good weekend. Please find language below that has been approved by FBI NY, VSD 
+The FBI's Victim Services Division (VSD) is committed to providing services and support to victims of crimes 
+overview of these services is available at www.fbi.gov/resources/victim-services. If you would like to speak 
+please email victimservices@fbi.gov. 
+FBI Victim Services Division 
+August 10, 2019, the Federal Bureau of Investigation (“FBI”) seized the DVR. The Government 
+understands from speaking with an FBI agent that the FBI seized two DVR systems: one that 
+FBI has determined that, on or about July 29, 2019, the Tier DVR suffered a system failure. As a 
+result, the FBI been unable to recover any footage from the Tier DVR, and is unlikely to recover 
+the two Public Corruption Unit chiefs ), the line assistants, and/or FBI 
+“Unknown.” Any idea who this might be? Also, FBI provided us with a supplemental 302 about Epstein’s arrest. Do you 
+Message-Id: <88789ce3-b399-4186-b521-13d95ec0e6fe@fbi.gov> 
+Subject: RE: New potential victims of Epstein and some of Maxwell who are willing to speak to you and the FBI. 
+Subject: RE: New potential victims of Epstein and some of Maxwell who are willing to speak to you and the FBI. 
+Subject: New potential victims of Epstein and some of Maxwell who are willing to speak to you and the FBI. 
+First, we are obtaining clearance for four members of our team to travel to London. Those would be I, myself, FBI 
+Special Agent MM, and FBI Task Force Office J. All four of us were on the video call with your client 
+NYPD / FBI 
+Do you have a more recent version than the attached (sent on Wednesday)? We were going to expand the FBI thank-you 
+Mr. Berman praised the outstanding investigative work of the FBI, and thanked the New York City Police Department and 
+Nypd is a task force partner on the fbi crimes against children squad, so we have the release set up as a co-announce with 
+them with the same language we use for the fbi. 
+| might put the thank you after the FBI but before he introduces our people in the remarks. Otherwise fine with me. 
+And in the press release: "Mr. Berman praised the outstanding investigative work of the FBI, and thanked the New York 
+referred to the FBI, he indicated he only wished to speak to someone from the USAO. Having failed to get someone at the 
+FBI #: - 
+NYPD / FBI 
+N. (NY) (FBI)" < 
+NYPD / FBI 
+FBI New York 
+FBI New York 
+FBI New York 
+There are loose disks which include 1B evidence scans, 1D1-1D5 evidence items, LSJ 3D imaging, and the FBI file. 
+FBI New York Field Office 
+e We'll take the FBI file whenever you can get it to our office. 
+e My understanding from past FBI cases is that CART completes some sort of paperwork documenting the dates 
+down to the FBI office, but that in the meantime we are still working on getting copies of non-nude images to 
+FBI file: We have that ready for you. 
+FBI New York Field Office 
+NYPD / FBI 
+larger scanning project, during which the FBI scanned all of the paper that was vouchered in evidence. Are you able to 
+e Full FBI sentinel file 
+e Scans of the files Reiter provided to the FBI and provide us with all of those scanned materials 
+e Scans of all hard copy documents, including photos, in the possession of the FBI that have not yet been 
+NYPD / FBI 
+ME (NYPD / FBI TFO) 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI team 
+up those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other entities, but 
+NYPD / FBI 
+As noted in this letter, today the MDC approved the Government's request to allow an FBI agent bring a secure laptop to 
+coordinate with the FBI and the MDC to arrange the visit. 
+material in the FBI’s possession, the Government has taken several steps to address your request. 
+As an alternative, the FBI has agreed to assign two agents to bring a secure laptop 
+the computer alone while the agents wait outside the room. The FBI has loaded the secure laptop 
+New York and the Virgin Islands.' Accordingly, the FBI is prepared to facilitate the review of 
+these items as soon as the MDC will permit such a visit. The FBI understands that defense counsel 
+The Government has asked MDC legal counsel to authorize the FBI to bring the Highly 
+and today, the Government learned that the Warden has approved this proposal. The FBI and 
+counsel, the FBI, and the MDC to assist with scheduling this first and any subsequent visits. 
+schedule a time to come to the FBI offices in Manhattan to review the above-referenced 43,500 
+approximately 40,000 do not contain nudity. Per your request, the FBI has loaded all 43,500 
+material in the FBI’s possession, the Government has taken several steps to address your request. 
+As an alternative, the FBI has agreed to assign two agents to bring a secure laptop 
+the computer alone while the agents wait outside the room. The FBI has loaded the secure laptop 
+New York and the Virgin Islands.' Accordingly, the FBI is prepared to facilitate the review of 
+these items as soon as the MDC will permit such a visit. The FBI understands that defense counsel 
+The Government has asked MDC legal counsel to authorize the FBI to bring the Highly 
+and today, the Government learned that the Warden has approved this proposal. The FBI and 
+counsel, the FBI, and the MDC to assist with scheduling this first and any subsequent visits. 
+schedule a time to come to the FBI offices in Manhattan to review the above-referenced 43,500 
+approximately 40,000 do not contain nudity. Per your request, the FBI has loaded all 43,500 
+fbi/227933 
+Subject: https://www.nbcnewyork.com/news/local/epstein-accuser-appeals-to-prince-andrew-to-talk-to-fbi/2279339/ 
+the FBI case file is also huge. 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection 
+the materials are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will 
+to talk to the FBI about the Jeffrey Epstein case. 
+the FBI to answer their questions.” 
+Today the Marshals and the FBI informed me that they are able to arrange for your client and the evidence to be at 500 
+8:30am. You would also be welcome to arrive as early at 8am, and if the Marshals and FBI are ready to begin before 8:30, 
+boxes, which would free up space in the FBI vehicle for the larger items. I’m confident we will be able to reach a 
+The blue-ray discs referenced in the spreadsheet are what the FBI burned in order to provide the USAO SDNY with 
+copied from a VHS tape, which is currently located in the FBI's ELSUR office in Florida. We have asked that the 
+The shredded paper is currently being analyzed by the FBI lab. We have asked the case agent to inquire with the 
+The “Missing from Assigned Box” items are items 1B130 and 1B110. Those items were migrated within the FBI 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or the 
+week of April 19". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for the 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+« The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pear! if the FBI agrees to transport the item(s). 
+e Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+¢ Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+« Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pearl Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 1 
+e [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+« The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+e The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pearl 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+« The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+e Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+« Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI's custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+o Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+« The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case ina 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+Ata minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI's New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Today the Marshals and the FBI informed me that they are able to arrange for your client and the evidence to be at 500 
+8:30am. You would also be welcome to arrive as early at 8am, and if the Marshals and FBI are ready to begin before 8:30, 
+boxes, which would free up space in the FBI vehicle for the larger items. I’m confident we will be able to reach a 
+e The blue-ray discs referenced in the spreadsheet are what the FBI burned in order to provide the USAO SDNY with 
+copied from a VHS tape, which is currently located in the FBI’s ELSUR office in Florida. We have asked that the 
+« The shredded paper is currently being analyzed by the FBI lab. We have asked the case agent to inquire with the 
+e The “Missing from Assigned Box” items are items 1B130 and 1B110. Those items were migrated within the FBI 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or the 
+week of April 19". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for the 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pearl if the FBI agrees to transport the item(s). 
+Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pear! Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 12", 
+e [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+o The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+e The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+e Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+« The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+« The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pear! 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+e Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+eo Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+e The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+At a minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI’s custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+privilege. You previously conveyed to us that the estate asserted privilege with respect to devices the FBI seized from 
+The FBI is also in possession of a computer that the Palm Beach Police Department seized from Epstein’s residence in Palm 
+The woman who is interviewed in the below article claims to have been interviewed by the FBI in the past. Any chance 
+As expected, FBI is pretty resistant to using a vendor. | explained to [jj that we just can’t mess around with this 
+e 1Phone and 1 iPad seized from Epstein at the time of his arrest on July 6, 2019. The FBI first delivered copies of 
+open the iPhone data. IS THIS AN FBI TRANSMISSION ISSUE WITH THE IPHONE DATA, OR IS IT THAT IT WAS UN- 
+Following up on the below, | think we've given this our absolute best efforts with FBI — they are now well over a 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+through any FBI tool, so we asked for the materials to be transferred in a loadable format so we could put them on 
+FBI NY CART Coordinator 
+it on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won't know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us 
+FBI New York 
+think FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we'll need to get 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won't know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+and also that most of the Control Center paperwork (originals), to include watch call sheets, were seized by the FBI and/or 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+-SDNY_GM_00332356 | SDNY_GM_00332436 | Scans of FBIEvidence | 
+SDNY_GM_00332892 SDNY_GM_00332894 | FBI Florida Documents aaa 
+SDNY_GM_ 00332895 SDNY_GM_00332928 | FBI FL Documents (included Confidential 
+review physical items in the FBI’s custody. 
+Message-Id: <7dff2da1-09f4-400e-affb-0 | 6ac794b687(@FBI.GOV> 
+NYPD / FBI 
+FBI New York Field Office 
+(FBI)" < 
+FBI New York Field Office 
+enough that the FBI could send it via USAfx rather than having to burn a new disc, but we'll need a replacement of this 
+I'll check with the IT folks and J to see if they're able to copy the remaining folder off the disc or if we'll need the FBI 
+On Friday, the FBI brought me a CD containing additional files that | need to review for Maxwell. It should be sitting in my 
+Per our discussion, FBI and DOJ-IG will do all of the interviews today without our involvement. We will also 
+Subject: Re: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: Epstein OIG/FBI--Document Preservation 
+Time: 07:22 AM Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Can we confirm that one of the co’s who would not meet with FBI without union rep was the co who did not assign a new 
+This afternoon, OIG, FBI, and the USAO-SDNY conducted voluntary interviews with the following MCC employees. The 
+Today, FBI and OIG agents also attempted to interview Jy IJ and I) EE (the officers who discovered 
+representatives. We will continue conducting interviews over the next few days. Finally, FBI has not completed their 
+Subject: RE: Epstern OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+Subject: RE: Epstein OIG/FBI--Document Preservation 
+ubject: Epstein OlG/FBI--Document Preservation 
+Epstein. The files at this point cannot be viewed outside of FBI space due to software issues. If you would like 
+FBI/NYPD Violent Crimes & Joint Bank Robbery Squad C-19 
+Southern District of New York (or FBI agents working therewith) by the United 
+of Florida, and/or the Northern District of Georgia (or FBI agents working 
+Attorney’s Office for the Southern District of New York (or FBI agents working 
+Florida, and/or the Northern District of Georgia (or FBI agents working 
+serious questions that must be answered. In addition to the FBI's investigation, I 
+> NYPD/FBI JointBank Robbery 
+>> FBI NA 267 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+The United States Attorney for the Southern District of New York and the Federal Bureau of 
+The entire production has now been stamped and is ready for your review. With the exception of the FBI Recovered 
+HB has finished pulling the FBI Recovered Metadata from the shared, so we will be able to stamp those materials soon. 
+| FBI Recovered Metadata 
+Thanks so much, [j! For the index and the cover letter, would you please break out the “FBI Recovered Metadata” 
+viewable on the FBI's system. In the interest of completeness, however, we are producing to you every file that was 
+The entire production has now been stamped and is ready for your review. With the exception of the FBI Recovered 
+Mike has finished pulling the FBI Recovered Metadata from the shared, so we will be able to stamp those materials soon. 
+York residence are not viewable on the FBI’s system. In the interest of completeness, however, 
+interviews prepared by agents from the Federal Bureau of Investigation (“FBI”) and the DOJ-OIG 
+assistance of certain FBI agents knowledge of reports prepared by FBI agents who were 
+the possession of the prosecutors and agents at the United States Attorney’s Office, the FBI, and 
+that are not in the possession of the United States Attorney’s Office or the case teams at the FBI 
+hy _ (NY) (FBI)" < 
+family with her as support when she testifies. | will work with our Victim-Witness Coordinator and with the FBI’s Victim 
+to schedule time for Maxwell and her attorneys to review physical evidence in the FBI's custody. The FBI and AUSAs are 
+FBI New York Field Office 
+Federal Bureau of Prisons 
+I’m happy to elevate on the FBI side (and Russell and | put this issue on the radar of the new ASAC when we spoke to him 
+Instead, the FBI is going to basically just give us copies of the original files from the collected devices and drives — 
+And the current delay is that FBI says they don’t have hard drives to transmit the data, so [is in the process of 
+Since | think JJ just sends them to the POC at Relativity, could we skip the middle step and just have FBI send to 
+various evidence and interviews we don’t expect to yield useful evidence, there is a *huge* trove of evidence that the FBI 
+functional production from. And it doesn’t seem to be a significant priority above the line level either at the FBI or our 
+office. Ultimately, after months and months of attempts to get this, the end result is that the FBI isn’t going to process 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+I agree on both points. Did we initially ask FBI for their entire SENTRY file? I think we may want to do that to 
+Also, I don't think I've seen this 302 before. Jj | thought we had asked FBI for all 302s, but I could be mis- 
+FBI New York Field Office 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Following up on the below, | think we've given this our absolute best efforts with FBI — they are now well over a month 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+FBI tool, so we asked for the materials to be transferred in a loadable format so we could put them on Relativity, which 
+FBI NY CART Coordinator 
+on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us 
+FBI New York 
+FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we'll need to get those to 
+Following up on the below, | think we've given this our absolute best efforts with FBI — they are now well over a 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+through any FBI tool, so we asked for the materials to be transferred in a loadable format so we could put them on 
+FBI NY CART Coordinator 
+it on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won't know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us 
+FBI New York 
+think FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we'll need to get 
+With respect to the iphone seized from Epstein, for which FBI gave us an extraction, are we not into it because FBI can’t 
+get in, or is there a transmission issue with the way FBI sent us the extraction? 
+e  1Phone and 1 iPad seized from Epstein at the time of his arrest on July 6, 2019. The FBI first delivered copies of 
+open the iPhone data. IS THIS AN FBI TRANSMISSION ISSUE WITH THE IPHONE DATA, OR IS IT THAT IT WAS UN- 
+Following up on the below, | think we've given this our absolute best efforts with FBI — they are now well over a 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+through any FBI tool, so we asked for the materials to be transferred in a loadable format so we could put them on 
+FBI NY CART Coordinator 
+it on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us 
+FBI New York 
+think FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we'll need to get 
+way-to-an-fbi-investigation-1.7090960 
+le. _ The FBI may be about to probe Netanyahu's 
+Charge of the New York Field Office of the Federal Bureau of Investigation 
+("FBI"), and Patricia Tarasca, the Special Agent-in-Charge of the New York 
+State Attorney General, BARRY W. MAWN, Assistant Director-in-Charge of the Federal Bureau of 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+Lo Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+> FBI EE Region 
+As | understand now your office has been advised that | have been formerly retained by Retired FBI Special Agent 
+As | understand now your office has been advised that | have been formerly retained by Retired FBI Special Agent 
+FBI New York 
+abused by Epstein. (DE 407 at { 4.) In 2006, at the request of the PBPD, the Federal Bureau of 
+Investigation (“FBI’) opened an investigation into allegations that Epstein and his personal 
+to engage in illegal sexual activities. (DE 407 at 45.) The FBI ultimately determined that both 
+Doe | provided information about her abuse and Jane Doe 2's abuse to the FBI on August 7, 
+2007, FBI agents had delivered to Jane Doe | a standard CVRA victim notification letter.' The 
+Initially, Jane Doe 2 was unwilling to provide any information to the FBI or the Office 
+under the CVRA. Although Jane Doe | and 2 were given [J and the FBI agent's 
+From the time the FBI began investigating Epstein until September 24, 2007—-when 
+January 10, 2008, Jane Doe | and Jane Doe 2 were sent victim notification letters from the FBI 
+resolution. (Jane Doe | Decl. 49.) On January 31, 2008, Jane Doe | met with FBI Agents and an 
+received a letter from the FBI advising her that “[t]his case is currently under investigation. This can 
+On June 30, 2008, the Office sent an e-mail to Epstein’s counsel: “The FBI has received 
+document was disclosed when the Agreement was filed under seal, but the FBI and our office are 
+Subject: FBI / SDNY Epstein update mtg 
+FBI New York 
+were to be told; and FBI Nem | who were responsible 
+as well as to the FBI agents and NYPD detectives who worked it. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+or looking into each cell. However, FBI/OIG was told yesterday by BOP that the camera had not been 
+functioning since Thursday. FBI seized 18 hard drives of video from BOP and are analyzing them to confirm 
+FBI/NYPD Violent Crimes & Joint Bank Robbery Squad C-19 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It ts the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+Justice, Federal Bureau of Prisons, and served in many capacities. My last three 
+the Federal Bureau of Investigation (FBI). All telephone calls must be live monitored by 
+an FBI agent. Similar telephone calls, the inmate’s limited social visits with immediate 
+family members also required live audio monitoring by the FBI. The vast majority of 
+29. With the Court’s decision in Cunningham v. Federal Bureau of Prisons, generated by 
+all outside communication of these inmates must be live monitored by an FBI agent. All 
+Dr. ER and GE both refer to the 2014 report, Federal Bureau of Prisons: 
+She called our 800 line. She said that it took her many years and months to get the courage to call. She called the FBI 
+\\Usa.doj.gov\cloud\NYS\StAndrews\Shared\USvEpstein-2018R01618\Investigation\FBI materials (reports, FOIA, etc)\72 
+FOIA Files_2” to “FBI Files from Florida Office”? The new title will help us understand what is actually in that folder. 
+review physical items in the FBI’s custody. 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+you please call me PS - two of my clients have advised me that they have contacted the FBI. 
+NYPD / FBI 
+request after the first category but am not an expert. | believe the video is in the custody of the FBI and USAO since we 
+(1951), for the testimony of (1) FBI Special Agent , (2) FBI Special 
+, (3) FBI Special Agent , and (4) Task Force Officer, 
+FBI and the U.S. Attorney’s Office for the Southern District of Florida from 
+investigation being conducted by the New York FBI and the U.S. Attomey’s Office 
+First, we are obtaining clearance for four members of our team to travel to London. Those would be J, myself, FBI 
+Special Agent , and FBI Task Force Office J. All four of us were on the video call with your client the 
+Subject: RE: FBI Case File - Epstein 
+Subject: FBI Case File - Epstein 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI's New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Ce:’ (NY) (FBI" < 
+On Aug 12, 2019, at 12:57 vA tti(iti‘CSOC~*C*N (FBI) = tt—<“i—sSOSSCS wrote: 
+USVI. The investigation will be worked by FBI and IRS-CI. I wanted to reach out to you, in order to make 
+Subject: Re: Daughter of former FBI director Comey revealed to be part of prosecution team in sex 
+Daughter of former FBI director Comey revealed to be 
+GE the daughter of former FBI director James Comey, is one of 
+the Southern District of Florida (“SDFL”) and the FBI’s Miami Office and included interviews 
+14. In the second email, c= | mentioned that most of the control center paperwork was seized by FBI and/or OIG. 
+Do you or FBI have that paperwork? Has it been provided to us? 
+14. In the second email, mentioned that most of the control center paperwork was seized by FBI and/or OIG. 
+Do you or FBI have that paperwork? Has it been provided to us? 
+14. In the second email, be ==] mentioned that most of the control center paperwork was seized by FBI and/or OIG. Do 
+you or FBI have that paperwork? Has it been provided to us? 
+getting any support on this from FBI at our level so | think it would be very helpful to have support up the chain. 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+USVI. The investigation will be worked by FBI and IRS-CI. I wanted to reach out to you, in order to make 
+I’m logged on remotely and available to write supplemental warrants if the FBI finds additional items that we want to 
+Second, our case agent told us that FBI received a flight manifest from CBP last night. The passengers listed are 
+Epstein and two pilots. Of course, that is subject to change, and I’m told that FBI will try to get confirmation of the 
+1. I have been a Special Agent with the Federal Bureau of Investigation (“FBI”) since 
+the FBI’s investigation of EPSTEIN, other law enforcement officers and I have interviewed 
+Federal Bureau of Investigation 
+indeed working on it, and it’s Special Agent J (GE) GJ and NYPD Detective (but FBI TFO officer) 
+That all sounds great about notification, and we can check to see who the right contact person is on the FBI side to make 
+sure the relevant information for the victims has been put into the FBI database (or if you have someone there you 
+This is a case that FBI is working on too? So as the interviews are done the victim should have been put into the FBI data 
+base. As soon the complaint is filed in Federal District Court all the information on the FBI side should cross over to us. 
+that calls | will get the name and number and give it to the FBI. 
+| need the FBI investigation number and the USAO no. to make the smooth transition. 
+contact us. | think sometimes in a case like this we would have the victims call the FBI, but because of the extreme 
+to let you know that we’re on our way if that’s helpful. Alternatively, if you and Jj would prefer to meet at the FBI, that 
+Is there a place at the FBI for you to interview [jj at the end of the meeting with Victim Services ? | am ona tight 
+day. Could we have the meeting from noon to 1P.M.? My office is only one block away from the FBI meeting. 
+the FBI, their victim services folks are handling travel logistics. I'm cc’ing |, who should be able to 
+the FBI’s investigation of EPSTEIN, other law enforcement officers have interviewed Victim-1.' 
+Federal Bureau of Investigation 
+1. I have been a Special Agent with the Federal Bureau of Investigation (“FBI”) since 
+the FBI’s investigation of EPSTEIN, other law enforcement officers and I have interviewed 
+Federal Bureau of Investigation 
+FBI-New York 
+NYPD / FBI 
+available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so none 
+have the same metadata on the hard drive that was available when the FBI seized each file. For files that 
+recovered from Epstein’s devices have the same metadata on the hard drive that was available when the FBI seized 
+was available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so 
+available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so 
+have the same metadata on the hard drive that was available when the FBI seized each file. For files that 
+recovered from Epstein’s devices have the same metadata on the hard drive that was available when the FBI 
+that was available when the FBI seized each file. For files that were carved or deleted, no metadata was 
+available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so none 
+have the same metadata on the hard drive that was available when the FBI seized each file. For files that 
+recovered from Epstein’s devices have the same metadata on the hard drive that was available when the FBI seized 
+was available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so 
+bocalls-told-at-least-800-000-swing-state-residents-to-stay-home-on-election-day-the-fbi-is-investigating 
+HB is making them. | guess the FBI backed out. 
+information you request from the FBI, and | will urge the case agents to get me this information in time for a Wednesday 
+Subject: RE: New potential victims of Epstein and some of Maxwell who are willing to speak to you and the FBI. 
+Subject: RE: New potential victims of Epstein and some of Maxwell who are willing to speak to you and the FBI. 
+Subject: New potential victims of Epstein and some of Maxwell who are willing to speak to you and the FBI. 
+Our HQ staff was contacted by the Federal Bureau of Prisons (BOP) in association with the matters concerning the 
+then can one representative from the FBI and one representative from the U.S. Attorney’s Office, SDNY, let us know your 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI team 
+those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other entities, but | 
+FBI New York Field Office 
+FBI New York Field Office 
+Gloria can meet in the morning before the FBI thing. 
+we have the meeting from noon to 1P.M.? My office is only one block away from the FBI meeting. 
+FBI, their victim services folks are handling travel logistics. |’m cc’ing |, who should be able to hopefully help 
+Federal Bureau of Investigation and the United States Attorney’s Office, nor any offenses that 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+across inmates who express suicidal ideations and still (even with the Attorney General and FBI directly involved in this 
+by the FBI Director, Attorney General, BOP Director (which are job positions that are subject to “rolling coverup” and thus 
+their predecessors). So there is a unit of the FBI (overseen by the Attorney General) which is conducting a 24/7 
+surveillance operation over the FDC Miami because of several sensitive cases involving FBI corruption (that they are 
+place them on suicide watch (as is required). And these people are killing themselves and once the FBI is implicated in 
+SDFL, the Attorney General, the FBI Director, SDFL Prosecutors Office are directly obstructing the 
+Ce:" (NY ) (FBI)" < Ps 
+« For the images extracted from iPhone and iPads, will the FBI please be sure to include Celebrite so the defense 
+e Does the FBI have a list of all physical items in its custody for this case? The defense is eager to have such a list 
+recollection from other cases is that the FBI can usually generate a list of all 1B items, so if that’s possible, we’d 
+« Ifthe defense wants to review the contents of VHS tapes, cassette tapes, and CDs, would the FBI be able to 
+which were already loaded onto a laptop and brought by the FBI to the MDC for Maxwell to review, and (2) the 
+e Attached is the inventory you all provided us detailing the physical evidence items from the FBI-Florida 
+« Please provide us with a similar inventory of all physical evidence items in FBI-NY custody gathered during our 
+Maxwell at 500 Pearl Street to review the physical items in the FBI’s custody. 
+file demonstrates that the FBI had interviewed Accuser-2° in 2006 (Opp. 16 n.9; Dkt. 148, Ex. B 
+included in the Indictment. Indeed, an internal FBI document expressly names Ms. Maxwell as 
+one of the individuals that the FBI’s Miami office “began investigating” in 2006 as part of the 
+subject of the “joint investigation” by the FBI and the USAO-SDPL; and (iii) “any offenses that 
+FBI and the USAO-SDFL (including the investigation into “Epstein’s background”), as well as 
+subscribed by FBI Agent Linda Stewart, which itself was based on the reports and investigation 
+of FBI Agent William J. /d. at 1208. Unbeknownst to Agent Stewart, Agent I 
+information, which is contained in the FBI 302 reports of interviews with the victims, will be 
+of Federal Bureau of Investigation Special Agent ——_ = | submitted in support of the 
+the Southern District of Florida (*“SDFL”) and the FBI’s Miami Office, and included interviews 
+unredacted version, from FBI. 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+Charge of the New York Field Office of the Federal Bureau of Investigation 
+("FBI"), and Patricia Tarasca, the Special Agent-in-Charge of the New York 
+State Attorney General, BARRY W. MAWN, Assistant Director-in-Charge of the Federal Bureau of 
+https://www.wilmerhale.com/en/insights/news/former-director-of-the-fbi-robert-mueller-iii-joins-wilmerhale 
+Lo Former Director of the FBI Robert Mueller II 
+the Federal Bureau of Investigation (FBI), a position he took one 
+by the investigative agencies, the Department of Justice, Office of the Inspector General, as well as the Federal Bureau 
+gather the FBI investigative file from the old case. We should think about whether there is an immediate subpoena we 
+My view is that we should open on this today, and bring in FBI-NY’s sex crimes squad. [i please let me know if you 
+subscribed by FBI Agent Linda Stewart, which itself was based on the reports and investigation 
+of FBI Agent William Brown. /d. at 1208. Unbeknownst to Agent Stewart, Agent Brown’s 
+correcting the FBI barcode numbers for 3 devices that were seized from Epstein’s NY residence. In case it’s useful, I’m also 
+assigned internal FBI barcode number E6433822 (“Corrected Subject Device-32”); 
+assigned internal FBI barcode number E6433824 (“Corrected Subject Device-33”); 
+assigned internal FBI barcode number E6433821 (“Corrected Subject Device-34"). 
+NYPD / FBI 
+FBI New York Field Office 
+Maxwell was added to the caption of the FBI file at some point, and she does come up in some of the 302s (including the 
+and TS vterviews in a manner we're now familiar with). That said, we have the FBI file, 
+as well as the Federal Bureau of Investigation, and has been approved by Pretrial Services. The USAO-SDNY plans to 
+FBI New York Field Office 
+FBI New York Field Office 
+On Friday, the FBI brought me a CD containing additional files that | need to review for Maxwell. It should be sitting in my 
+\\Usa.doj.gov\cloud\NYS\StAndrews\Shared\USvEpstein-2018R01618\Investigation\FBI NY Case File as of August 
+FBI New York Field Office 
+FBI New York Field Office 
+enough that the FBI could send it via USAfx rather than having to burn a new disc, but we’ll need a replacement of this 
+I'll check with the IT folks and J to see if they're able to copy the remaining folder off the disc or if we'll need the FBI 
+On Friday, the FBI brought me a CD containing additional files that | need to review for Maxwell. It should be sitting in my 
+Best way to a ee ope ene me told him | contacted the FBI and he’s looking forward t 
+> On Jul 12, 2019, at 1:01 PM ae FBI — wrote 
+For future victims the best number is 1-800-CALL-FBI. The calls are tracked and then pushed out to the 
+credible, his story should be vetted by better equipped entities aka FBI. | haven't been involved in this 
+victims reach out to me. | will refer any of them to the FBI in their area. There are a lot. 
+corruption case. | believe the FBI is working her murder. | only knew her for a few months but it was a 
+shock. She had a lot of information on child trafficking. Hopefully the FBI got it. ABC wants to interview me 
+FBI New York Field Office 
+make sure that he spoke with the right FBI POC about the request to FBI (attached). Could you provide us with the 
+no,, english papers have gone berserk,, claiming fbi re opening investigation. not true,, publishinga phonebook 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we’ll need to get those to 
+Subject: FBI Case File - Epstein 
+such as FBI agents. The bill before Congress would 
+Today, we spoke with SA i, one of the original FBI agents from the Florida investigation of Epstein. J 
+OPR and should encompass any emails with the FBI about the Epstein case. [is going to send us any emails he 
+Today, we spoke with SAI one of the original FBI agents from the Florida investigation of Epstein. 
+and should encompass any emails with the FBI about the Epstein case. [J is going to send us any emails he received 
+time, if FBI was looped in, and who the decision-maker was on this. Apologies for the long email but | figure better to 
+Did SDNY contact the FBI or South Florida prosecutors about Epstein during that period? 
+Second, our case agent told us that FBI received a flight manifest from CBP last night. The passengers listed are 
+Epstein and two pilots. Of course, that is subject to change, and I’m told that FBI will try to get confirmation of the 
+Second, our case agent told us that FBI received a flight manifest from CBP last night. The passengers listed are 
+Epstein and two pilots. Of course, that is subject to change, and I’m told that FBI will try to get confirmation of the 
+Federal Bureau of Investigation and the United States Attorney’s Office”; and 
+from 2001 to 2007, other offenses that were the subject of the FBI and U.S. Attorney’s Office 
+before the period that was the subject of the FBI and U.S. Attorney’s Office investigation. 
+to a motion to quash subpoenas; (2) an unredacted copy of two FBI reports; (3) pages from a 
+reviewed the witness interviews and one of the FBI reports, and that neither set of documents 
+represents that it has already produced an unredacted copy of the other requested FBI report, and 
+Per the below FBI reached out to us about a threat being made by a woman who was denied status as an Epstein 
+FBI | New York Office 
+From: 9d BM <)PRETSIS@fbi.gov> 
+FBI | New York Office 
+FBI Expert Witness 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+Aug 2007 RAID, FBI BWI office, Linthicum, MD (4 days) 
+Oct 2007 CART DES administrator, FBI BW! office, Linthicum, MD (3 days) 
+Feb 2008 Encase Intermediate Forensics, FBI Tampa Division, Tampa, FL (4 days) 
+Windows 7 Artifacts, FBI BWI office, Linthicum, MD (3 days) 
+OS Artifacts, FBI BWI office, Linthicum, MD (3 days) 
+FBI CART Basic Wintel Forensic Examiner — Federal Bureau of Investigation 
+FBI Certified Instructor — Federal Bureau of Investigation 
+PDA/Cell Phone Forensic Examiner — Federal Bureau of Investigation 
+EnCase Certification — Federal Bureau of Investigation 
+Macintosh Forensic Examiner — Federal Bureau of Investigation 
+Senior Forensic Examiner — Federal Bureau of Investigation 
+FBI CART Moot Court Training, Phoenix, AZ 
+August 2008 FBI CART Senior Moot Court Training, San Diego, CA 
+August 2020 FBI CART Moot Court Training, Williamsburg, VA 
+May 2021 FBI CART Moot Court Training, Orlando, FL 
+Federal Bureau of Investigation 
+District of New York and/or the FBI of this criminal complaint? When did the alleged assault take place and where? Is the 
+FBI investigating this new complaint? 
+Can you send to FBI. 
+Can you send to FBI. 
+Glad you are reaching out. There has been quite a bit of news in the UK about FBI/DOJ interest in Prince 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection with 
+are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will also be coming 
+We've received a hard drive from FBI CART, which they've processed from devices seized and searched in connection 
+the materials are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will also 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI team 
+those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other entities, but | 
+Regarding access to notes, it would principally be the investigative team—so again, the prosecutors and the FBI team 
+those notes into a formal report (called an FBI Form 302). We don’t ordinarily share notes with other entities, but | 
+Our HQ staff was contacted by the Federal Bureau of Prisons (BOP) in association with the matters concerning the 
+this information and then can one representative from the FBI and one representative from the U.S. Attorney’s Office, 
+Federal Bureau of Prisons 
+the FBI case file is also huge. 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection 
+the materials are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will 
+We've received a hard drive from FBI CART, which they’ve processed from devices seized and searched in connection with 
+are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will also be coming 
+We've received a hard drive from FBI CART, which they've processed from devices seized and searched in connection with 
+are uploaded, the FBI has another batch they want to transmit to us for the same process, so that will also be coming 
+FBI New York 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+Federal Bureau of Investigation (“FBI”), and el Commissioner of the New York 
+FBI Assistant Director I, said: “We are asking anyone who may 
+criminal behavior, to please call us. The number is 1-800-CALL-FBI. We want to hear from 
+be an excuse for this type of behavior. In the eyes of the FBI, the victims will always come 
+the FBI for their tireless efforts to ensure child predators are taken off our streets. The NYPD 
+please contact the FBI at 1-800-CALL FBI, and reference this case. 
+Mr. Berman praised the outstanding investigative work of the FBI and the NYPD. He 
+Thanks very much for letting us know. We'll check in with the FBI about this. 
+FYI, FBI’s press office got a call from NBC, saying they were hearing there was “movement” on the Epstein investigation 
+said they weren't running anything soon but were looking at it. FBI did not comment, and is letting their national press 
+Tom Winter per usual — he has some great source at FBI 
+NYPD / FBI 
+° el does not remember what questions the FBI asked during her 2007 interview with 
+° i did not realize that Sa had been sexually abused by Jeffrey Epstein until the FBI 
+Way to FBI agent on or about August 28, 2006. 
+And can you have someone send the b02 from FBI investigation? 
+Maxwell was added to the caption of the FBI file at some point, and she does come up in some of the 
+That said, we have the FBI file, including all of their 302s, and we plan to produce those. 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel_.fbinet. fbi/lavender/#/Cases/2383628 1/10 
+https://sentinel.fbinet.fbi/lavender/#/Cases/2383628 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel.fbinet. fo/lavender/#/Cases/2383628 2 
+https://sentinel.fbinet.fbi/lavender/#/Cases/2383628 
+FBI Seizure #: None Abandonment #: None 
+FBI Seizure #: None 
+https://sentinel.fbinet.fbV/lavender/#/Cases/2383628 
+https-//sentinel.fbinet. fbi/lavender/#/Cases/2383628 2/2 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel_fbinet.fbi/lavender/#/Cases/2383628 Ww 
+FBI Seizure #: None Abandonment #: None 
+https://sentinel.fbinet.fbi/lavender/#/Cases/2383628 W/2 
+https://sentinel fbinet. fbi/lavender/#/Cases/2383628 2/2 
+FBI Seizure #: None Abandonment #: None 
+FBI Seizure #: None 
+https://sentinel.fbinet.fbi/lavender/#/Cases/2383628 1/2 
+https://sentinel.fbinet. fbiflavender/#/Cases/2383628 2/2 
+FBI Seizure #: None Abandonment #: None 
+https///sentinel fbinet.fbi/lavender/#/Cases/2383628 Ww 
+FD-1004 FEDERAL BUREAU OF INVESTIGATION 
+FBI Seizure #: None Abandonment #: None 
+hittps://sentinel.fbinet. fbilavender/#/Cases/2383628 1/1 
+FD-1004 FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+NYPD / FBI 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+privilege. You previously conveyed to us that the estate asserted privilege with respect to devices the FBI seized from 
+The FBI is also in possession of a computer that the Palm Beach Police Department seized from Epstein’s residence in Palm 
+recovered from Epstein’s devices have the same metadata on the hard drive that was available when the FBI seized 
+was available when the FBI seized each file. For files that were carved or deleted, no metadata was recovered, so 
+In reviewing FBI reports from the Epstein tip line, IJ came across the attached report. We wanted to share this 
+FBI and DOJ-OIG, have interviewed more than 40 witnesses, including 
+and reviewed dozens of hours of the limited videotape evidence the FBI 
+which they have investigated and prosecuted in partnership with the FBI 
+The investigation began when the FBI's Child Exploitation and Human 
+The number is 1-800-CALL-FBI. 
+>> For some reason that was hard to get from FBI for Epstein. 
+FBI New York Field Office 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+e The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pearl if the FBI agrees to transport the item(s). 
+« Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+e Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pear! Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 12%, 
+« It is not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+o The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+« The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+e We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+« Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+« The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+« The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pearl 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+oe Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+e The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+« Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+« The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+o Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+e To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+e The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI's offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+At a minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or the 
+week of April 19". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for the 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+« The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pearl if the FBI agrees to transport the item(s). 
+e Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+« Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+e Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pear! Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 12", 
+« [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+eo The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+« The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pear! Street 
+e Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+e The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+« The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pear! 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+« The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+e Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+eo Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pearl Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+e The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+At a minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI's New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Iran. As set forth in the indictment, an investigation by USAO-SDNY and the FBI revealed that Halkbank and its officers, 
+charges resulted from a multi-year investigation by the USAO-SDNY and the FBI into Jeffrey Epstein and his co- 
+does not track FOIA requests to, e.g., the FBI, that end up in litigation in the SDNY and that our Civ Div 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+Ata minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI’s custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+« The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+« Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+« The vast majority of physical evidence in the FBI's custody is located at the FBI's warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+o Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+« The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case ina 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+Ata minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI's New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Manifest of items seized by FBI 
+Manifest of items seized by FBI New 
+File number 31£-MM-108062 serials 1-250 is located on the FBI Vault. It was released from Civil Action 17-CV-03956. | 
+eyreiticeliy Heveere of the conpediing public dntweent dn She FBI ® 
+Please be advised that efoia@subscriptions.fbi.gov is a no-reply email address. Questions regarding your FOLA request may be directed to foipaquestions(@) fhi.gov. If you 
+Upon receipt of your FOIPA request number, you may check the status of your POIPA request on the FBLA€™s electronic FOLIA Library (The Vault) on the FBIA€™s 
+public website, http://vault.fbi.gov by clicking on the 4€°Check Status of Your FOI/PA Request toold€™ link. Status updates are performed on a weekly basis. If you 
+epreiticeliy beveure of the conpeliing public seteeert do She FBI“ s 
+Please be advised that efoia@subscriptions.fbi.gov is a no-reply email address. Questions regarding your FOLA request may be directed to foipaquestions(@) fhi.gov. If you 
+Upon receipt of your FOIPA request number, you may check the status of your POIPA request on the FBLA€™s electronic FOLIA Library (The Vault) on the FBIA€™s 
+public website, http://vault.fbi.gov by clicking on the 4€°Check Status of Your FOI/PA Request toold€™ link. Status updates are performed on a weekly basis. If you 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+In terms of structure, we'd like to create a folder identified as “Subpoena Returns” (at the same level as “FBI Case File” is 
+FBI New York 
+our case agent told us that FBI received a flight manifest from CBP last night. The passengers listed are Epstein and two 
+pilots. Of course, that is subject to change, and I’m told that FBI will try to get confirmation of the passengers after the 
+creating a copy of the Confidential items on a hard drive for us to give to the FBI, as well as a separate hard drive for our 
+images/videos from Epstein’s devices over to the FBI. I'd like the case agents to have a complete set of those materials, 
+unsealed today, please call 1-800-CALL FBI 
+confidential and would remain confidential within the investigation team in the DOJ and FBI. You said: “We don’t 
+As well as our partners at the FBI. It is confidential within the investigation team and our supervisors.” The note | 
+commitment. So let me say that the Southern District of New York and the FBI have contacted Prince Andrew’s attorneys 
+Mr Berman and to the DOJ/FBI: “F.B./. agents and federal prosecutors in New York ... reached out to his lawyers 
+the FBI had asked to interview Prince Andrew about the late paedophile billionaire, but had been met with a 
+Please provide us with an accurate record of the statements made by The US Attorney and/or the DOJ/FBI 
+On Mar 20, 2019, at 6:18 PM, RR HE. (MM) (FBI) 
+authorities before the case was brought to the FBI, but we understand you have a copy in the files, and we can’t seem 
+. (NY) (FBI)" 
+Federal Bureau of Investigation 
+EE. 200 me, and FBI Special Agent I EE. 
+FBI New York 
+Federal Bureau of Investigation 
+FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we’ll need to get those to 
+getting any support on this from FBI at our level so | think it would be very helpful to have support up the chain. 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’*), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We're not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+Federal Bureau of Prisons 
+ARS ASSIGNMENT..: DEATH FBI NO..: 
+Federal Bureau of Prisons 
+staff. The FBI is investigating the incident. 
+Additional information about the Federal Bureau of Prisons can be found at www.bop. gov. 
+Federal Bureau of Prisons 
+Time: 09:28 AM Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+and also that most of the Control! Center paperwork (originals), to include watch call sheets, were seized by the FBI and/or 
+On the victim meeting, the FBI witness coordinator who we have been working with is 
+14. In the second email, mentioned that most of the control center paperwork was seized by FBI and/or OIG. 
+Do you or FBI have that paperwork? Has it been provided to us? 
+14. In the second email, JJ mentioned that most of the control center paperwork was seized by FBI and/or OIG. Do 
+you or FBI have that paperwork? Has it been provided to us? 
+Department, Federal Bureau of investigation (“FBI”), or SDFL in connection with their 
+first interviewed by law enforcement regarding the defendant in or about 2019, after FBI 
+During an interview with FBI agents in West Palm Beach, Florida in or around 2007, the 
+Request 11 — A Complete, Unredacted Copy of FBI 302 Bearing Bates Numbers 
+same FBI 302, the Government will produce that unredacted version, as well as all other statements 
+Request 15 — Complete FBI Case File Regarding the Investigation of 
+Team- both Jj and {ij followed up on the review of images from the Epstein devices and FBI assured us that they will 
+a tea FBI Case File 
+Folder/Subfolder in Relativity: US v. Epstein > FBI Case File > Images Seized During Search 
+Today, we spoke with SA i, one of the original FBI agents from the Florida investigation of Epstein. 
+collected by OPR and should encompass any emails with the FBI about the Epstein case. [J is going to send us 
+correcting the FBI barcode numbers for 3 devices that were seized from Epstein’s NY residence. In case it’s useful, I’m also 
+FBI— including documents, records, or materials from the MCC—or created by OCME or within 
+USAO or FBI”; and (ii) “the names and identifying information of any federal law enforcement 
+report and file for Jeffrey Epstein that was previously provided by OCME to the FBI, consistent 
+> FBI New York - C20 
+FBI New York - C20 
+a little nuts just trying to drag the FBI toward any usefulness with the financials and electronics. . . 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won't know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+Finally, we also understand that JPM National Subpoena Processing heard from [J at the FBI. We called him just 
+there was one subpoena served by the FBI just a day or two before we were first in touch, dated September 3, 2019, 
+relating to i] EJ, and then it appears we did inadvertently let the FBI serve one after we were in touch with 
+received a couple subpoenas directly from the FBI, which | assume are related to the same investigation we've been 
+I'm really sorry to ask, | know you guys are working on the other case, but my chief is asking if there is anyone at FBI 
+Subject: Accepted: FBI / SDNY Epstein update mtg 
+Event: Accepted: FBI / SDNY Epstein update mtg 
+Garland Urged To Bring Charges After Nassar FBI Report 
+consider prosecuting the former president of USA Gymnastics and FBI agents 
+Federal Bureau of Investigation 
+14. In the second email, Cody mentioned that most of the control center paperwork was seized by FBI and/or OIG. 
+Do you or FBI have that paperwork? Has it been provided to us? 
+14. In the second email, Cody mentioned that most of the control center paperwork was seized by FBI and/or OIG. Do 
+you or FBI have that paperwork? Has it been provided to us? 
+am not sure what the scope of the search we are seeking is. Can you guys review and take a crack at it? FBI has asked us 
+. (NY) (FBI)" 
+. (NY) (FBI)" < 
+NYPD / FBI 
+NYPD / FBI 
+the Southern District of Florida (“SDFL”) and the FBI’s Miami Office, and included interviews 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+aac a Federal Bureau of Investigation, Telephone: 
+Would you please coordinate with J to get her (or whoever from the FBI is delivering the drives to the MDC) the two 
+discovery to date. (If the drive without a cord isn’t ready by the time the FBI is picking it up, please just give them the one 
+The FBI has very kindly agreed to deliver two new drives from my office to the MDC for Ghislaine Maxwell on Monday, 
+what time the FBI should plan to make the delivery and who will be available to receive the drives on Monday? 
+>> The FBI has very kindly agreed to deliver two new drives from my 
+>>> you please let us know what time the FBI should plan to make the 
+> The FBI has very kindly agreed to deliver two new drives from my 
+> Would you please let us know what time the FBI should plan to make the 
+assault. He has since retired from the FBI, and therefore he would not be able to answer my work emails. 
+was on the squad responsible for dealing with MCC stuff — is that right? And is RD sti with the FBI? 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+4. We produced the FBI report bearing Bates number SDNY_GM_02050812-14 in the form in which it was 
+rather, the redactions existed on the document at the time the document was found during the FBI's search of 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+4. We produced the FBI report bearing Bates number SDNY_GM_02050812-14 in the form in which it was 
+rather, the redactions existed on the document at the time the document was found during the FBI's search of 
+4. We request that the government provide an unredacted version of the FBI report, dated December 6, 2006, 
+the-fbi-tracked-down-ghislaine-maxwell-alleged-madam-of-jeffrey-epstein). The article stated that the affidavit appeared 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+FEDERAL BUREAU OF INVESTIGATION 
+NYPD/FBI 
+FBI file: We have that ready for you. 
+FBI New York Field Office 
+NYPD / FBI 
+larger scanning project, during which the FBI scanned all of the paper that was vouchered in evidence. Are you able to 
+e Full FBI sentinel file 
+e Scans of the files Reiter provided to the FBI and provide us with all of those scanned materials 
+e Scans of all hard copy documents, including photos, in the possession of the FBI that have not yet been 
+SDNY_GM_00172218 | SDNY_GM_ 00173008 | FBI Florida Physical Evidence Confidential 
+Bureau of Investigation (“FBI”). The Government notes that the remainder of the Florida FBI 
+to date can be made available for you to review at the FBI New York office, upon request. Those 
+which were seized during searches of Jeffrey Epstein’s residences. As a courtesy, the FBI is in 
+those physical items identified as highly confidential will be made available for review at the FBI 
+copy of the FBI's case file regarding the investigation of a former employee of Jeffrey Epstein’s 
+maintained under a different FBI case number from the investigation that led to the charges against 
+you wish to arrange a time to review physical items in the FBI's custody. 
+Accepted: Meeting with FBI on Epstein 
+Event: Accepted: Meeting with FBI on Epstein 
+FBI/NYPD Violent Crimes & Joint Bank Robbery Squad C-19 
+FEDERAL BUREAU OF PRISONS, 
+familiar with the responsive records that defendant the Federal Bureau of Prisons (“BOP”) has 
+FEDERAL BUREAU OF PRISONS, 
+(“MCC”). Lam also familiar with the responsive records that defendant the Federal Bureau of 
+facility located in Manhattan that is run by the Federal Bureau of 
+Tom Winter per usual — he has some great source at FBI 
+| just had positive conversations with ij and Ij (anc i) — I) had understood that FBI was getting their own 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+> To: Press <Press(@jmd. i gov>; NPO@ic.fbi.gov; 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of Investigation 
+(“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), announced that 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the most 
+If you believe you are a victim of the sexual abuse perpetrated by Jeffrey Epstein, please contact the FBI at 1- 
+800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’*), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+interviews prepared by agents from the Federal Bureau of Investigation (“FBI”) and the DOJ-OIG 
+assistance of certain FBI agents knowledge of reports prepared by FBI agents who were 
+the possession of the prosecutors and agents at the United States Attorney’s Office, the FBI, and 
+that are not in the possession of the United States Attorney’s Office or the case teams at the FBI 
+Subject: [EXTERNAL] FBI Still Needing Tips Regarding Jeffrey Epstein / Ghislaine Maxwell? 
+It may be worth the while for the FBI to subpoena Seeking Arrangements’ records out of Palm Beach. | feel extremely 
+From what you know, is this tidbit important? Does the FBI know about the Seeking Arrangement connection? Should | 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+boxes, which would free up space in the FBI vehicle for the larger items. I’m confident we will be able to reach a 
+e The blue-ray discs referenced in the spreadsheet are what the FBI burned in order to provide the USAO SDNY with 
+copied from a VHS tape, which is currently located in the FBI's ELSUR office in Florida. We have asked that the 
+e The shredded paper is currently being analyzed by the FBI lab. We have asked the case agent to inquire with the 
+« The “Missing from Assigned Box” items are items 1B130 and 1B110. Those items were migrated within the FBI 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or the 
+week of April 19". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for the 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+e The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pearl if the FBI agrees to transport the item(s). 
+« Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+¢ Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+« Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pear! Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 12%. 
+e It is not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+o The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+« The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+« The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+« All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+e Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+e The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+« The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pearl 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+e Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+At least two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+e To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+e The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+At a minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI’s custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+. (NY) (FBI)" < 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+. (NY) (FBI)" 
+F (NY) (FBI) 
+(NY) (FBI) < 
+>> NYPD / FBI 
+(NY) (FBI) < 
+>> NYPD / FBI 
+>> NYPD / FBI 
+>> To: ; . (NY) (FBI; : 
+>> To: . (NY) (FBI) < 
+>> To: c . (NY) (FBI) < 
+(OGA) (FBI) < 
+. (NY) (FBI)" 
+_(NY) (FBI) 
+(NY) (FBI) < 
+> NYPD / FBI 
+(NY) (FBI) < 
+> NYPD / FBI 
+B. (NY) (FBI < 
+> NYPD / FBI 
+. (NY) (FBI; 
+> To: . (NY) (FBI) < 
+> To: i. . (NY) (FBI) < 
+(OGA) (FBI) < 
+N. (NY) (FBI)" 
+N. (NY) (FBI) 
+(NY ) (FBI) < <mailto: 
+> NYPD / FBI 
+(NY ) (FBI < mee 
+> NYPD / FBI 
+N. (NY) (FBI ) < 
+> NYPD / FBI 
+>To: N. (NY) (FBI) < 
+>To: i. N. (NY) (FBI) < 
+(OGA) (FBI < 
+> . (NY) (FBI)" < > 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+FBI New York Field Office 
+the FBI. 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+N. (NY) (FBI)" 
+N. (NY) (FBI) 
+(NY) (FBI) < 
+a NYPD / FBI 
+(NY) (FBI) < <mailto: 
+> NYPD / FBI 
+N. (NY) (FBI < <mailto: 
+: NYPD / FBI 
+> To: , N. (NY) (FBI); 
+> To: N. (NY) (FBI) = 
+> To: i. N. (NY) (FBI) < 
+(OGA) (FBI) < 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of Investigation 
+(“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), announced that 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the most 
+If you believe you are a victim of the sexual abuse perpetrated by Jeffrey Epstein, please contact the FBI at 1- 
+800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+the SDNY or FBI will not use or disclose the content of the witness’s statements in an interview 
+The FBI should really understand that any leak of any of this would be pretty terrible. 
+- Absent a court order directing otherwise, the SDNY or FBI will not use or disclose the 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Following up on the below, | think we’ve given this our absolute best efforts with FBI — they are now well over a month 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We're not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+Hey — what is the latest with the Epstein electronics from FBI? 
+resulted from a multi-year investigation by the USAO-SDNY and the FBI into Jeffrey Epstein and his co-conspirators, 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+oe Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+« Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+e Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+« The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case ina 
+single location at the FBI's offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+At a minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Subject: Accepted: FBI / SDNY Epstein update mtg 
+Event: Accepted: FBI / SDNY Epstein update mtg 
+>, _ (NY) (FBI)" 
+FEDERAL BUREAU OF INVESTIGATION i 
+FBI New York Field Office 
+Subject: FW: FBINET to UNET Uploaded Files 
+FBI New York Field Office 
+FBI New York 
+FBI New York 
+FBI New York 
+Crimes Against Children/Human Trafficking FBI New York 
+Embedded: FW: [EXTERNAL] FBI Still Needing Tips Regarding Jeffrey Epstein Ghislaine Maxw 
+[Federal Bureau of Prisons] acts unlawfully.” 
+Assistant Director of the Federal Bureau of Prisons, with the possibility of 
+Her first declaration outlined the Federal Bureau of Prisons procedures 
+Federal Bureau of Prison inmates, forty-one were subjected to them; 
+FBI. This process had, on occasion, led to the modification of certain 
+Watch. The first, dated 2 May 2007 to the Director of the Federal Bureau of 
+In Magluta v. United States Federal Bureau of Prisons, 29 May 2009, 
+reached in Jordan v. the Federal Bureau of Prisons 191 Fed. Appx 639 (10" 
+113. In Silverstein v. Federal Bureau of Prisons 704 F Supp. 2d 1077 
+with full procedural protections through the Federal Bureau of Prisons’ 
+which had been provided to the Court by the Federal Bureau of Prisons 
+of the wishes of other Department of Justice agencies such as the FBI, 
+of Mr Milusnic, that the Federal Bureau of Prisons applies accessible and 
+applicants to pose. As Ms Rangel has indicated, the Federal Bureau of 
+Subject: Accepted: FBI / SDNY Epstein update mtg 
+Event: Accepted: FBI / SDNY Epstein update mtg 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+How does it look. Do you want to add the paragraph the FBI sent us. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+the New York Field Office of the Federal Bureau of Investigation (FBI), and 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of 
+Jeffrey Epstein, please contact the FBI at 1-800-CALL FBI, and 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI’’), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+Sweeney Jr., the Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of 
+Investigation (“FBI”), and Dermot Shea, Commissioner of the New York City Police Department (“NYPD”), 
+FBI Assistant Director William F. Sweeney Jr. said: “Preserving the innocence of children is among the 
+the FBI at 1-800-CALL FBI, and reference this case. 
+Ms. Strauss praised the outstanding investigative work of the FBI and the NYPD. 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+Subject: FBI / SDNY Epstein update mtg 
+Team- both fj and {J followed up on the review of images from the Epstein devices and FBI assured us that they will 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+FBI New York Field Office 
+. (NY) (OGA) (FBI)" < >, i oy) 
+(FBI)" < “tal 
+To: " (USANY S)" < aU ) (OGA) (FBI)" 
+>, "(NY) (FBI)" < 
+| re-read the FBI 302s and the DOJ OIG MOls. There was no mention of any signage, posters, written unique instructions, 
+Federal Bureau of Prisons 
+cf of the Federal Bureau of Investigation’s (“FBI”) Computer Analysis Response Team 
+supervised and assisted as necessary by a senior staff member (a former FBI computer scientist). A managing director 
+Following up on the below, | think we've given this our absolute best efforts with FBI — they are now well over a month 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+FBI tool, so we asked for the materials to be transferred in a loadable format so we could put them on Relativity, which 
+FBI NY CART Coordinator 
+on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we’ll need to get those to 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We're not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+such that we can view them using a system we have access to. We’re not able to get web-enabled access through any FBI 
+FBI NY CART Coordinator 
+our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+(Also just on the pictures, we do want copies of those as well, please including from the discs and the devices — | think FBI 
+FBI New York Field Office 
+{ )| Return to finder ( }) Destroy immediately ( )} FBI 
+FEDERAL BUREAU OF PRISONS 
+FBI 
+FEDERAL BUREAU OF PRISONS 
+( ) Return to finder ( ) Destroy immediately (>) FBI 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its 
+That intermediate step is something that the FBI had told us they would do, but now are not doing, because they screwed 
+I think probably not if it seems like we’re now getting what we need from FBI. When will we know if what FBI 
+Hey, | held off on this after we got the update from FBI, but would it still be useful to do? Totally happy to if so, just 
+Following up on the below, | think we've given this our absolute best efforts with FBI — they are now well over a month 
+FBI NY CART Coordinator 
+FBI NY CART Coordinator 
+FBI tool, so we asked for the materials to be transferred in a loadable format so we could put them on Relativity, which 
+FBI NY CART Coordinator 
+on our end? | ask to make sure we don’t lose any searchability — when FBI sent versions before, it had already been 
+Ok let’s plan on 11am tomorrow morning, | am trying to get an FBI line with a larger capacity but | won’t know until 
+Also, we can host a conference call, but only up to six lines at a time — so if FBI has larger capacity than that let us know, 
+FBI New York 
+FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we'll need to get those to 
+To: (NY) (FB1)' <spwatson@fbi.gov> 
+From: EE (NY) (FB!) <spwatson@fbi.gov> 
+FBI New York 
+On Mar 11, 2020 2:05 PM, "(D (NY) (FB1)" <spwatson@fbi.gov> wrote: 
+To: (NY) (FB!) <sowatson @fbi.gov> 
+From: ES (NY) (FBI) <spwatson@fbi.gov> 
+BEEBE (NY) (F81) <spwatson@fbi.gov>; EE (USANYS) <i 
+7 ———— (NY) (FBI) <spwatson@fbi.gov>; x (USANYS) <x 
+EER (NY) (F581) <spwatson@fbi.gov>; xy (USANYS) <i 
+| (NY) (FBI) <spwatson@fbi.gov>; AE (USANYS) <j 
+B (NY) (FB!) <spwatson@fbi.gov>; NY (USANYS) <x 
+FBI was going to do an initial screen to make sure no CP, and since | think the answer was no, we'll need to get those to 
+FBI - New York City 
+Federal Bureau of Prisons 
+FBI file: We have that ready for you. 
+FBI New York Field Office 
+NYPD / FBI 
+larger scanning project, during which the FBI scanned all of the paper that was vouchered in evidence. Are you able to 
+e Full FBI sentinel file 
+e Scans of the files Reiter provided to the FBI and provide us with all of those scanned materials 
+e = Scans of all hard copy documents, including photos, in the possession of the FBI that have not yet been scanned, 
+Ce: NY) (OGA) <ksong@ fbi.gov> 
+been in touch with support folks at FBI, and will certainly circle up with you if need be. 
+tomorrow, certainly on Monday at the latest you and/or she can be in touch with our Office’s specialists and/or the FBI 
+Could we have the meeting from noon to 1P.M.? My office is only one block away from the FBI meeting. 
+the FBI, their victim services folks are handling travel logistics. I’m cc’ing I, who should be able to 
+Federal Bureau of Investigation 
+Federal Bureau of Prisons 
+Federal Bureau of Investigation 
+Federal Bureau of Prisons 
+Please forward the results in an electronic format to Special Agent Federal Bureau of 
+FBI New York Field Office 
+NYPD / FBI 
+FBI New York 
+for Epstein. The files at this point cannot be viewed outside of FBI space due to software issues. If you would 
+MCC and the FBI, but are providing you with copies of all three letters as a courtesy. If you are willing to accept 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+FBI New York Field Office 
+FBI's interview of x. 
+FBI New York 
+FBI Investigating Kavanaugh Allegations After Panel Vote Nestle 
+The FBI over the weekend started an investigation into the allegations of Oakland Raiders 
+Federal Bureau of Investigation 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 7 hal 
+e [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+o The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+« The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+e We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+« Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+« The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+« The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pearl 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+e Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+e The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+e The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+« Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+« Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+« The vast majority of physical evidence in the FBI’s custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+o Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+e To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+e The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case in a 
+single location at the FBI's offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+At a minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI’s New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Subject: FW: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation 
+Subject: Jeffrey Epstein friend Ghislaine Maxwell under FBI investigation 
+https://www.cnbe.com/2019/12/27/jeffrey-epstein-friend-ghislaine-maxwell-under-fbi-investigation. htm] 
+gather the FBI investigative file from the old case. We should think about whether there is an immediate subpoena we 
+My view is that we should open on this today, and bring in FBI-NY’s sex crimes squad. | please let me know if you 
+Federal Bureau of Priso 
+The FBI has a large amount of data for us on the Epstein case—can the case agent, J (copied here) give you 
+e Andrew McCabe, former deputy director of the FBI: “If you think 
+raised by Trump and his allies in Congress that the FBI had not fully pursued cases 
+Video. The Government further understands from the Federal Bureau of Investigation that it has 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+central file for Epstein was taken by the FBI following the inmate's death. I've asked him to double check 
+14. In the second email, mentioned that most of the control center paperwork was seized by FBI and/or OIG. 
+Do you or FBI have that paperwork? Has it been provided to us? 
+14. In the second email, J mentioned that most of the control center paperwork was seized by FBI and/or OIG. Do 
+you or FBI have that paperwork? Has it been provided to us? 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+When the FBI seized a New York Times journalist's phone and email records 
+Federal Bureau of Investigation 
+FBI New York Field Office 
+FBI New York Field Office 
+enough that the FBI could send it via USAfx rather than having to burn a new disc, but we'll need a replacement of this 
+I'll check with the IT folks and [J to see if they’re able to copy the remaining folder off the disc or if we'll need the FBI 
+On Friday, the FBI brought me a CD containing additional files that | need to review for Maxwell. It should be sitting in my 
+The FBI has informed me that they can make the evidence available for review at the warehouse any day next week or the 
+week of April 19". Please just let me know what day you prefer, and we will coordinate with the FBI to arrange for the 
+we have now learned that one item (consisting of shredded paper) is currently at FBI headquarters and will not be 
+statements. Because these 1D items are data files stored in the FBI system, there is no corresponding physical item 
+« The FBI can arrange for a lawyer, investigator, and paralegal to inspect and photograph the precluded items at the 
+that inspection, and | will coordinate with the FBI accordingly. | would suggest trying to schedule this visit early 
+have time to do so during a subsequent day of review at 500 Pear! if the FBI agrees to transport the item(s). 
+e Tomorrow, | will send you evidence spreadsheets with annotations of which items the FBI will not be producing to 
+witness statements on the electronic media in the FBI’s possession are from witnesses whom the Government does 
+¢ Confirmed, | will ask the FBI to bring all electronic highly confidential images to 500 Pear! Street, including the 
+« Confirmed, | will ask the FBI to bring the 7 hard-copy highly confidential materials to 500 Pearl Street. 
+As | mentioned earlier today in a separate email, the FBI and AUSAs are prepared to facilitate this review beginning April 
+also arrange for the FBI to transport evidence to 500 Pearl for review the week of April 1 
+e [tis not reasonable or feasible to insist that the FBI bring all physical evidence to 500 Pearl Street. That said, we are 
+The FBI has seized dozens of electronic devices, including desktop computers, servers, and laptops, from 
+e The remaining physical items of evidence would fit into approximately 15 to 20 boxes. The FBI has indicated that it 
+recordings at 500 Pearl, you will need to provide that equipment. We have asked the FBI whether any other 
+we are working with the FBI to physically doublecheck each recording. If we identify any discoverable recordings 
+The segregation of highly confidential material will require the FBI and an AUSA to physically review each item to 
+that “the Federal Bureau of Investigation (‘FBI’) seized multiple nude and partially nude images from several for the 
+above-listed electronic devices. All such images have been designated Highly Confidential. The FBI will make these 
+« We did not ask the FBI to bring the 7 hard copy images to the MDC in the fall because we did not understand you to 
+own defense. Presuming that she will not be taken to the FBI downtown office, then your proposal offers no means by 
+e All of the physical evidence currently located in the FBI Bronx warehouse will be transported to 500 Pearl Street 
+Either the FBI can provide the equipment necessary to listen to any of the recordings at 500 Pearl Street or we can 
+« The FBI can segregate any physical evidence that you deem “highly confidential.” You can identify any “highly 
+e The FBI also can segregate any recordings which we will be able to inspect, but not listen to, during the evidence 
+e We understand that an FBI Agent and/or AUSA may be present during our physical evidence review at 500 Pearl 
+Attached please find two spreadsheets documenting all physical evidence in the FBI’s custody, as well as a corresponding 
+In response to your questions, the FBI has informed me of the following: 
+eo Approximately 7 hard copy nude images located in the file from the FBI Florida office’s investigation of 
+« The FBI will make all three of those categories available to you. The electronic files will be provided on hard drives, 
+and the FBI will provide you with the hard copy images for review as well. 
+o The electronic files have the same metadata on the hard drive that was available when the FBI seized each 
+e Because these images are considered obscene material, the FBI is not permitted to make duplicates of them, and 
+there is a limited number of clean laptops on which these images can be reviewed. As a result, the FBI is only able 
+« Attached are two lists of all physical items in the FBI’s custody relating to this case. The first list relates to items 
+associated with the FBI Florida office’s investigation of Epstein. The second list relates to items associated with the 
+FBI New York office’s current investigation. 
+e The vast majority of physical evidence in the FBI's custody is located at the FBI’s warehouse in the Bronx. Two 
+e The FBI is able to arrange for the defense team to review all physical evidence at the Bronx warehouse under the 
+o Atleast two FBI agents and an AUSA will be present at the Bronx warehouse to assist and answer questions. 
+« To the extent the defense requests that the FBI bring any physical items to 500 Pear! Street for your client to review, 
+the FBI is prepared to bring items that are reasonably sized to 500 Pearl Street. With respect to bulky or large 
+Highly Confidential, in which case the FBI can make arrangements to transport the item to 500 Pear! Street if 
+« The FBI is in the process of confirming that it can provide devices to play all of the electronic media in the case ina 
+single location at the FBI’s offices in downtown Manhattan. We are also double-checking to confirm that all media 
+that does not contain witness statements have already been produced to you and your client in discovery. The FBI 
+anticipates that we can arrange for you to review all non-witness statement electronic media at the FBI's office in 
+your awareness, the FBI has informed me that it took their team several weeks to review all of the images on 
+Now that the FBI team is back, when do you expect to have answers to all of the questions posed? If | had an idea of 
+Ata minimum, it would not seem to take too much time to know when someone can open the FBI vault and allow the 
+attorneys to make an initial view of the evidence. Also, | understand the FBI did not prepare an inventory of their 
+The FBI team on this case has been out of the office this week and will not be able to answer all of the questions you 
+the highly confidential images. My understanding is that the FBI is able to provide at least one laptop containing those 
+not include every physical item currently in the FBI's custody related to this case. For example, the August 20, 2020 
+discovery production also included search warrant returns listing the physical items seized by the FBI's New York Office 
+As a courtesy, | have asked the FBI whether it would be possible to provide us with a similar excel index reflecting the 
+physical evidence seized by the FBI’s New York Office, though it may take some time to compile such an index. 
+In advance of our call tomorrow, | wanted to send a copy of the attached index of physical items in FBI custody from the 
+FBI-Miami office, which we previously produced to you as part of our August 21, 2020 discovery production. Also 
+Federal Bureau of Investigation 
+FBI New York 
+(FBI)" < 
+Attachments: 8.20.19 Epstein Letter to FBI-c2.pdf 
+make sure that he spoke with the right FBI POC about the request to FBI (attached). Could you provide us with the 
+To: A SY) (6 81)" ee fbi. gov> 
+also had an online portal and tweeted, inviting victims to contact FBI and/or us. 
+from the FBI provided me with your contact information and suggested you may be able to assist our team in contacting 
+images contained in the production. In particular, the FBI created the attached spreadsheet, which listed the metadata 
+the FBI was able to extract from the images, but defense counsel has indicated they have no way of knowing which bates 
+Office, the FBI, or the NYPD? 
+indirect—with the Federal Bureau of Investigation, commonly known as the FBI? 
+potential intrusion upon the attorney-client privilege. FBI 
+Federal Bureau of Prisons 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+FBI New York Office 
+8.20.19 Epstein Letter_to FBI-c2.pdf 
+As discussed, here are the three Touhy letters Steptoe sent last week. Let me know if | should follow up with the FBI at all 
+on this—the FBI letter is addressed to A. 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+FBI reports that could help show his innocence in the “Varsity Blues” case. 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Director, Federal Bureau of Prisons 
+g. Inmate. Persons in the custody of the Federal Bureau of Prisons or Bureau contract facilities, 
+Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Time: 02:43 PM Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its contents are not 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBL. It is the property of the FBI and is loaned to your agency; it and its contents are not 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and ts loaned to your agency; it and its contents are not 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+Wheeler requests the FBI New York's Evidence Control Unit change the 
+Federal Bureau of Prisons 
+Federal Bureau of Prisens 
+Federal Bureau of Prisans 
+Federal Bureau of Prisens 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisens 
+Federal Bureau of Prisons 
+Lt. ee reported I/M Davis #89380-053(Code #108/Pend. FBI 
+Davis #89380-053 (Code #108/Pend. FBI Ref.) 
+Federal Bureau of Prisons 
+legal counsel, the USMS, the FBI, the Inspector General, the USAO for the SDNY or any other federal or relevant state or city 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+{ ) Return to finder ( ) Destroy immediately { ) FBI 
+a FBI in with one new commit. Inmate Pf | 
+Federal Bureau of Prisons 
+8:34 FBI notified. 
+12:19 pm: FBI arrives. 
+1:35 pm: FBI arrives in Special Housing Unit. 
+3:45 pm: OIG and FBI departed from SHU. 
+5:05 pm: OIG/FBI departed MCC New York. 
+STATES THE FBI LOKELY HAS 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons Medical staff members have carefully explained to me that the following 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+JAN 17 FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+A Federal Bureau of Prisons 
+staff. The FBI is investigating the incident. 
+Additional information about the Federal Bureau of Prisons can be found at www.bop.goy. 
+Federal Bureau of Prisens 
+Federal Bureau of Prisans 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisens 
+Federal Bureau of Prisans 
+Federal Bureau of Prisons 
+RS A FEDERAL BUREAU OF PRISONS 
+FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Ny Federal Bureau of Prisons 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU PRISONS 
+H's?! DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+MAY 1006 FEDERAL BUREAU OF PRISONS 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+FEDERAL BUREAU OF PRISONS 
+FEDERAL BUREAU OF PRISONS 
+PROJ REL METHOD: UNKNOWN FBI NO 
+FBI Notified: No | USMS Notified: No —_— Indicate Where Incident Occurred: Main Facility 
+{ i SASS ¥ FEDERAL BUREAU OF PRISONS 
+1 Seen} FEDERAL BUREAU OF PRISONS 
+JAN 17 FEDERAL BUREAU OF PRISONS 
+J.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisens 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+(5) Was the FBI notified? Is it being investigated as a suicide? 
+(5) Was the FBI notified? Is it being investigated as a suicide? 
+Federal Bureau of 
+The Federal Bureau of Investigation was notified. No staff or other inmates were injured and at 
+Additional information about the Federal Bureau of Prisons can be found at www.bop.goy, 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+examiner in the near future. The Federal Bureau of Investigation is actively investigating the 
+Federal Bureau of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+8:34 am FBI notified. 
+12:19 pm FBI arrives. 
+1:35 pm FBI arrives in Special Housing Unit. 
+3:45 pm OIG and FBI departed from SHU. 
+5:05 pm OIG/FBI departed MCC New York. 
+FBI Referral including acceptance or declination 
+Federal Bureau of Prisons 
+incident, the current investigations by the FBI and OIG will include this incident as well. Accordingly, 
+8:34 am: FBI notified. 
+12:19 pm: FBI arrives. 
+1:35 pm: FBI arrives in Special Housing Unit. 
+3:45 pm: OIG and FBI departed from SHU. 
+5:05 pm: OIG/FBI departed MCC New York. 
+3:14 pm: FBI arrives 
+7:56 pm: FBI departs 
+9:45 pm: FBI returns 
+10:30 pm: FBI departs 
+FEDERAL BUREAU OF PRISONS 
+8:34 am: FBI notified. 
+12:19 pm: FBI arrives. 
+1:35 pm: FBI arrives in Special Housing Unit. 
+3:45 pm: OIG and FBI departed from SHU. 
+5:05 pm: OIG/FBI departed MCC New York. 
+8:34 am FBI notified 
+12:19 FBI arrives 
+Make sure OIG/FBI gets this 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+FBI in with one new commit. Inmate #76330-054. NOTE: the 
+Federal Bureau of Prisons 
+Report Date. 07-19-2019 SRO REVIEW ROSTER FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisens 
+Federal Bureau of Prisons 
+legal counsel, the USMS, the FBI, the Inspector General, the USAO for the SDNY or any other federal or relevant state or city 
+Federal Bureau of Prison 
+Federal Bureau of Prison 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisans 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisens 
+Federal Bureau of Prisons 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+For your records please ensure to forward this to the FBI and OIG. 
+FBI in with one new commit. Inmate Pf | 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+a“ 2 Federal Bureau of Prisons 
+staff. The FBI is investigating the incident. 
+Additional information about the Federal Bureau of Prisons can be found at www.bop. gov. 
+Federal Bureau of Prisens 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisens 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Lt. mee reported I/M Davis #89380-053(Code #108/Pend. FBI 
+Davis #89380-053 (Code #108/Pend. FBI Ref.) 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+TOGETHER TO SEND TO THE OIG,DEA,FBI AND ALL THE NEWS OUTLETS I CAN THINK OF. CAN'T 
+U.S. Department of Justice Federal Bureau of Prisons Aug 14 2019 NOTIFICATION FOR: 
+FROM: The Office of the General Counsel, Federal Bureau of Prisons 
+MCC, its Warden, their legal counsel, the USMS, the FBI, the Inspector General, the USAO for the SDNY or any other federal 
+Federal Bureau of Prisons 
+8:34 am: FBI notified. 
+12:19 pm: FBI arrives. 
+1:35 pm: FBI arrives in Special Housing Unit. 
+3:45 pm: OIG and FBI departed from SHU. 
+5:05 pm: OIG/FBI departed MCC New York. 
+3:14 pm: FBI arrives 
+7:56 pm: FBI departs 
+9:45 pm: FBI returns 
+10:30 pm: FBI departs 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons Medical staff members have carefully explained to me that the following 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons Medical staff members have carefully explained to me that the following 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons Medical staff members have carefully explained to me that the following 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons Medical staff members have carefully explained to me that the following 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS i 
+Federal Bureau of Prisons Medical staff members have carefully explained to me that the following 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons Medical staff members have carefully explained to me that the following 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons Medical staff members have carefully explained to me that the following 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+seat FEDERAL BUREAU OF PRISONS 
+8:34 am FBI notified. 
+12:19 pm FBI arrives. 
+1:35 pm FBI arrives in Special Housing Unit. 
+3:45 pm OIG and FBI depart SHU. 
+5:05 pm OIG/FBI depart institution 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+U.S. Department of Justice Federal Bureau of Prisons Aug 14 2019 NOTIFICATION FOR: 
+FROM: The Office of the General Counsel, Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+incident, the current investigations by the FBI and OIG will include this incident as well. 
+United States Department of Justice | Federal Bureau of Prisons 
+This is a transmission from the U.S. Department of Justice, Federal Bureau of Prisons, and may contain information which is 
+United States Department of Justice | Federal Bureau of Prisons 
+This is a transmission from the U.S. Department of Justice, Federal Bureau of Prisons, and may contain information which is 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+(5) Was the FBI notified? Is it being investigated as a suicide? 
+(5) Was the FBI notified? Is it being investigated as a suicide? 
+(5) Was the FBI notified? Is it being investigated as a suicide? 
+(5) Was the FBI notified? Is it being investigated as a suicide? Yes. FBI was notified. 
+The Federal Bureau of Investigation was notified. No staff or other inmates were injured and at 
+Additional information about the Federal Bureau of Prisons can be found at www.bop.gov. 
+Federal Bureau of Prisons 
+medical examiner in the near future. The Federal Bureau of Investigation is actively 
+Federal Bureau of Prisons 
+(5) Was the FBI notified? Is it being investigated as a suicide? 
+(5) Was the FBI notified? Is it being investigated as a suicide? 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+8:34 am FBI notified. 
+12:19 pm FBI arrives. 
+1:35 pm FBI arrives in Special Housing Unit. 
+3:45 pm OIG and FBI departed from SHU. 
+5:05 pm OIG/FBI departed MCC New York. 
+8:34 am: FBI notified. 
+12:19 pm: FBI arrives. 
+1:35 pm: FBI arrives in Special Housing Unit. 
+3:45 pm: OIG and FBI departed from SHU. 
+5:05 pm: OIG/FBI departed MCC New York. 
+3:14 pm: FBI arrives 
+7:56 pm: FBI departs 
+9:45 pm: FBI returns 
+10:30 pm: FBI departs 
+FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+FBI in with one new commit. Inmate #76330-054. NOTE: the 
+Federal Bureau of Prisons 
+Federal Bureau of Prisens 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+FBI NO..: 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+For your records please ensure to forward this to the FBI and OIG. 
+8:34 am FBI notified. 
+12:19 pm FBI arrives. 
+1:35 pm FBI arrives in Special Housing Unit. 
+3:45 pm OIG and FBI departed from SHU. 
+5:05 pm OIG/FBI departed MCC New York. 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+(5) Was the FBI notified? Is it being investigated as a suicide? Yes. FBI was notified. 
+(5) Was the FBI notified? Is it being investigated as a suicide? Yes. FBI was notified. 
+Federal Bureau of Prisons 
+staff. The FBI is investigating the incident. 
+Additional information about the Federal Bureau of Prisons can be found at www.bop.gov. 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+is that of another Federal Bureau of Prisons facility. The reason for the 
+FBI New York requests the Laboratory perform a handwriting analysis 
+Federal Bureau of Investigation a 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+{ ) Return to finder { ) Destroy immediately (>) FBI 
+Federal Bureau of Prisons 
+dated June 26, 2023: Investigation and Review of the Federal Bureau 
+The Federal Bureau of Prisons (BOP) appreciates the opportunity to provide a response to the Office 
+Federal Bureau of Prisons 
+The Federal Bureau of Prisons (FBOP) appreciates the opportunity to provide a response to the Office 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 54999 
+officials—not to the FBI nor the Justice Department's Office of Inspector General has ever issued a report 
+Federal Bureau of Prisons 
+The Federal Bureau of Prisons (FBOP) appreciates the opportunity to provide a response to the Office 
+that of Recommendation 5 from the OIG’s Limited-Scope Review of the Federal Bureau of 
+Scope Review of the Federal Bureau of Prisons’ Strategies to Identify, Communicate, and 
+to \ iii Federal Bureau of Investigation. mm previously received final disposition approval 
+e Log 20, Item 1 - 16 Redwell Folders containing FBI CARTS Clone of Metropolitan Correctional Center New 
+e Log 21, Item 1-14 Redwell Folders containing FBI CARTS Clone of MCC New York DVR system hard drives 
+e Log 22, ltem 1-18 hard drives from FBI Lab # HQQ190816001 containing Clone of MCC New York DVR 1 
+e Log 31, Item 1-1 Magneto Optical Storage with FBI CART Archive 
+e Log 33, Item 1 - Redwell Folder containing FBI Laboratory Letter and Fingerprint Analysis 
+Federal Bureau of Prisons (BOP), Federal Correctional Institution (FC!) Fort Dix, New Jersey, 
+Interview of i” i Electronics Technician, Federal Bureau of Prisons 
+voluntary interview of Bas Electronics Technician, Federal Bureau of Prisons (BOP), Metropolitan 
+Interview (iim! Captain, Federal Bureau of Prisons 
+Captain, Federal Bureau of Prisons (BOP), Federal Correctional Institution (FCI) Fort Dix, New Jersey, at the OIG's 
+regarding deceased Federal Bureau of Prisons inmate Jeffrey Epstein. Attorney Weingarten stated that Epstein’s 
+Interview of 1 Lieutenant, Federal Bureau of Prisons 
+Lieutenant (Lt.), Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC), Special 
+Receipt of Case Closing Communication from am aan Special Agent, Federal Bureau of Investigation 
+regarding the investigation into Federal Bureau of Prison’s inmate Jeffrey Epstein’s death 
+Special Agent, Federal Bureau of Investigation (FBI), New York Field Office regarding the FBI's investigation into 
+the death of Federal Bureau of Prison’'s (BOP) inmate Jeffrey Epstein. The FBI has found no criminality pertaining 
+1. FBI Electronic Communication, dated December 5, 2022, reagrding the Case Closing of the investigation into 
+Receipt of Information of Facility Manager, Federal Bureau of Prisons 
+Program Manager, Federal Bureau of Prisons (BOP) Contracts, SigNet Technologies, regarding his 
+Interview of FP st Lieutenant, Federal Bureau of Prisons 
+Lieutenant, Federal Bureau of Prisons (BOP), Metropolitan Correctional Center (MCC), New 
+Declination to Prosecute Employees of the Federal Bureau of Prisons 
+Federal Bureau Prisons (BOP), Metropolitan Correctional Center, New York, New York, regarding the OIG 
+DO) OIG Releases Report on Investigation and Review of the Federal Bureau of Prisons’ Custody, 
+regarding the Federal Bureau of Prison’s custody, care, and supervision of Jeffrey Epstein while detained at 
+jointly with the Federal Bureau of Investigation (FBI), with the OIG's investigative focus being the conduct of 
+BOP personnel. Among other things, the FBI investigated the cause of Epstein’s death and determined 
+contradicting the FBI's determination regarding the absence of criminality in connection with how Epstein 
+The DOJ OIG Did Not Uncover Evidence Contradicting the FBI's Determination that there Was 
+FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+The Federal Bureau of Prisons (FBOP) appreciates the opportunity to provide a response to the Office 
+the Federal Bureau of Prisons’ Strategies to Identify, Communicate, and Remedy Operational 
+U.S. DEPARTMENT OF JUSTICE FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 54999 
+Federal Bureau of Prisons 
+The Federal Bureau of Prisons (FBOP) appreciates the opportunity to provide a response to the Office 
+Federal Bureau of Prisons 
+Investigation and Reyiew of the Federal Bureau of Prisons’ Custody, Care, 
+Federal Bureau of Prisons 
+Investigation and Review of the Federal Bureau 
+Investigation and Review of the Federal Bureau 
+Investigation and Review of the Federal Bureau 
+Investigation and Review of the Federal Bureau 
+Investigation and Review of the Federal Bureau 
+Attorney's Office of the Southern District of New York, the FBI, and the OG; complete 100 hours of 
+Federal Bureau of Prisons 
+The Federal Bureau of Prisons (FBOP or Bureau) appreciates the opportunity to provide a response to 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the 
+Review of the Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the 
+Federal Bureau of Investigation 
+Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the 
+We are providing this draft report to enable the Federal Bureau of Investigation (FBI) to conduct a factual 
+accuracy and sensitivity review. If the FBI believes that any information in the draft report would be 
+inappropriate for public release, please mark the information and indicate the reason the FBI believes it 
+FBI employees who need to review the draft report for factual accuracy or sensitivity purposes. In this 
+prohibition on further dissemination and discussion of the draft report with anyone other than FBI 
+FBI's formal response. 
+Federal Bureau of Investigation 
+Federal Bureau of Prisons’ Custody, Care, and Supervision of Jeffrey Epstein at the 
+Review of the Federal Bureau of Prisons’ Custody, Care, and Supervision of jeffrey Epstein at the 
+We are providing this draft report to enable the Federal Bureau of Investigation (FBI) to conduct a factual 
+accuracy and sensitivity review. If the FBI believes that any information in the draft report would be 
+inappropriate for public release, please mark the information and indicate the reason the FBI believes it 
+FBI employees who need to review the draft report for factual accuracy or sensitivity purposes. In this 
+prohibition on further dissemination and discussion of the draft report with anyone other than FBI 
+FBI's formal response. 
+FBI found no criminality, ME ruled suicide, OIG found no evidence 
+counsel, the USMS, the FBI, the Inspector General, the USAO for the SDNY or any other federal or 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+8:34 AM - Federal Bureau of Investigation (®BI)/ROtiEiedy 
+12:19 PM -FBI arrives at the institution. 
+Federal Bureau of Prisons 
+JUN 10 OVERTIME AUTHORIZATION FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+/)3\ > jel Federal Bureau of Prisons 
+the FBI came to the institution to retrieve all video needed. They took all eighteen (18) hard 
+equipment with Mr. [. While they were looking the FBI came back and had question on 
+conversation of what took place we found out that when the FBI took the sixteen (16) hard drives 
+Federal Bureau Of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+FEDERAL BUREAU OF INVESTIGATION 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+The defendant is hereby committed to the custody of the Federal Bureau of Prisons to be imprisoned for a total 
+the period of imprisonment. All criminal monetary penalties, except those payments made through the Federal Bureau of Prisons’ Inmate 
+Federal Bureau of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+When management is aware that OIG, FBI or the US Attorneys Office will arrive to start interviews; please 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau of Prisons 
+FBI aries, Task Force on Gangs CE-7 
+2111 W. Roosevelt Road (FBI Chicago) 
+Federal Bureau of Prisons 
+FROM: The Office of the General Counsel, Federal Bureau of Prisons ADAM M JOHNSON 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau OF Prisons 
+Federal Bureau Of Prisons 
+Federal Bureau of Prisons 
+FEDERAL BUREAU OF PRISONS 
+FEDERAL BUREAU OF PRISONS 
+The Federal Bureau of Prisons has made a 
+Federal Bureau of Prisons 
+The FBI is going to be retrieving the previous recordings from or camera system at MCC, but because we 
+ais eoaioate FEDERAL BUREAU OF PRISONS 
+si maida FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+FEDERAL BUREAU OF PRISONS 
+SPECIAL HOUSING UNIT RECORD FEDERAL BUREAU OF PRISONS 
+Serna eer ens eee FEDERAL BUREAU OF PRISONS 
+It should also indicate that in addition to the FBI's investigation, the Attorney General has requested that the DOJ 
+IPPA AD Sass made an edit to his offenses & then DOJ had us say investigated by FBI (even though FBI told us 
+in the past not to say that). DOJ is talking with FBI now to confirm this latest version...so this is NOT final yet, but MAY end 
+Federal Bureau of Prisons 
+number of investigations are being conducted to find out exactly what happened. The FBI and Inspector General 
+and The FBI is going to be retrieving the previous recordings from or camera system at MCC, but because we 
+ise) and ia - The FBI is going to be retrieving the previous recordings from or camera system at 
+he FBI is going to be retrieving the previous recordings from or camera system at 
+Federal Bureau of Prisons 
+8:34 am FBI notified 
+12:19 FBI arrives 
+It should also indicate that in addition to a FBI Ss investigation, the Attorney General has requested that the DOJ 
+It should also indicate that in addition to the FBI's investigation, the Attorney General has requested that the DOJ 
+number of investigations are being conducted to find out exactly what happened. The FBI and Inspector General 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+7. If you find yourself in a room being questioned by the FBI. Immediately inform that you want an attorney. 
+7. If you find yourself in a room being questioned by the FBI. Immediately inform that you want an attorney. 
+If you are called for an interview by the agency or a representative of the agency (ie. FBI, AUSA, OIA, OIG), you are required 
+If you are called for an interview by the agency or a representative of the agency (ie. FBI, AUSA, OIA, OIG), you are required 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+FEDERAL BUREAU OF PRISONS 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+Federal Bureau of Prison 
+Federal Bureau of Prisons 
+Federal Bureau of Prisons 
+representative is made available. | also, advise staff to read Art. 7, section e (2). Understand, the FBI will also be investigating 
+Federal Bureau of Prisons 
+Subject: ) (FBI) shared "DCAP Review 50D-NY-3027571" with you 
+Here's the document a li FBI) shared with you. 
+This email is generated through Federal Bureau of Investigation's use of Microsoft 
+365 and may contain content that is controlled by Federal Bureau of Investigation. 
+To: Meder, Kimberly R. (NY) (FBI) 
+(TFO) (FBI)" 
+Federal Bureau of Investigation, if the Claims are resolved before a lawsuit is filed, the Client shall pay 
+causes of ation or claims are against or involve the Federal Bureau of Investigation, the Department 
+. (NY) (FBI)" 
+(NY) (FBI" 
+To: A (NY) (FBI) 
+< (NY) (FBI)" < 
+o: AT (NY) (FBI) 
+To: (NY) (FBI) 
+o: TE (NY) (FBI) 
+To: ES (NY) (FBI) 
+To: . (NY) (FBI) 
+To: . (NY) (FBI) 
+< (NY) (FBI)" < 
+FBI New York 
+To: . %&% ) (FBI) a. a (Ny) FB)" 
+FBI cart was able to package video of the MCC into a viewable format as was requested by SDNY. 
+imaged by FBI CART who has already been made aware of the request. 
+FBI-New York 
+FBI cart was able to package video of the MCC into a viewable format as was requested by SDNY. 
+imaged by FBI CART who has already been made aware of the request. 
+OCME was contacted and they advised that FBI will be furnished with a final report and all previous documents 
+FBI New York 
+. (NY) (FBI)" < 
+. (NY) (FBI)" < 
+WE (NY) (FBI) < 
+z —" (FBI)" - —_ a ‘TE (NY) FB)" 
+FBI-New York 
+From: (NY) (FBI) 
+(NY) (FBI)" < 
+. (NY) (FBI)" < 
+. (NY) (FBI)" < 
+(NY) (FBI)" 
+>, _ (CID) (FBI)" 
+(CID) (FBI)" < > 
+. (NY) (FBI)" 
+On Aug 20, 2019 1:58 PM, "Charriez, Jose N. (NY) (FBI)" <jncharriez@fbi.gov> wrote: 
+To: (NY) (FBI)" 
+Cc: CID) (FBI)" < 
+The AP (1/9, Mustian, Balsamo) reports from New York, “The FBI also has determined that the footage does not 
+FBI Criminal Investigative Division 
+FBI-New York 
+FBI-New York 
+Subject: FBI contact 
+FBI-New York 
+To: " . \(NY\) \(FBI\)" < 
+FBI-New York 
+Federal Bureau of Investigation 
+FBI Unet/Mobile) (LES/SBU) 
+Furthermore, EPSTEIN Mark L. stated to have been in contact with the following FBI agent: 
+Crimes Against Children/Human Trafficking FBI New York 
+From: NPO <NPO@FBI.GOV> 
+To: NPO <NPO@FBI.GOV> 
+James in the U.S. Virgin Islands that has been circulating online. The claim is that the FBI recovered human 
+Has the FBI found or recovered human remains of any kind on or near the island since Epstein was arrested on 
+FBI New York 
+From: "9. HE P. (NY) (FBI)" <spwatson@fbi.gov> 
+FBI New York 
+FBI New York 
+(NY) (FBI)" < 
+Crimes Against Children/Human Trafficking FBI New York 
+FBI New York 
+Ce: ° (NY) (FBI)" < 
+. (NY) (FBI)" 
+(NY) (FBI)" < 
+(NY) (FBI)" 
+(FBI)" < 
+. (NY) (FBI)" < 
+(CID) (FBI)" < (CID) (FBI)" < 
+(FBI)" < (CID) (FBI)" < 
+NYPD/FBI 
+numerous times in the past with other FBI files (see below). With a file this size | think their request makes sense as they 
+The following investigations have been with our office and FBI where we've used outside vendors, including for original 
+Yes we know her. Her younger sister J was interviewed by FBI in the Palm Beach investigation. We are working with [J attorney to set up a time to 
+FBI New York 
+FBI NY 
+Federal Bureau of Investigation 
+We've seen reports that a J EB who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+Yes we know her. Her younger sister [J was interviewed by FBI in the Palm Beach investigation. We are working with [J attorney to set up a time to 
+FBI New York 
+FBI NY 
+Federal Bureau of Investigation 
+We've seen reports that a J EE who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+Yes we know her. Her younger sister J was interviewed by FBI in the Palm Beach investigation. We are working with [J attorney to set up a time to 
+FBI New York 
+FBI NY 
+Federal Bureau of Investigation 
+We've seen reports that a J EE who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+Yes we know her. Her younger sister {J was interviewed by FBI in the Palm Beach investigation. We are working with J attorney to set up a time to 
+FBI New York 
+FBI NY 
+Federal Bureau of Investigation 
+We've seen reports that a I EE who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+FBI NY 
+Federal Bureau of Investigation 
+We've seen reports that a I I who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+FBINY 
+Federal Bureau of Investigation 
+We've seen reports that a J I who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+Yes we know her. Her younger sister [J was interviewed by FBI in the Palm Beach investigation. We are working with [J attorney to set up a time to 
+FBI New York 
+FBI NY 
+Federal Bureau of Investigation 
+We've seen reports that a J E who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+numerous times in the past with other FBI files (see below). With a file this size | think their request makes sense as they 
+The following investigations have been with our office and FBI where we've used outside vendors, including for original 
+Federal Bureau of Investigation 
+FBI New York 
+FBI NY 
+Federal Bureau of Investigation 
+We've seen reports that a I IJ who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+done numerous times in the past with other FBI files (see below). With a file this size | think their request makes sense 
+The following investigations have been with our office and FBI where we’ve used outside vendors, including for original 
+FBI NY 
+Federal Bureau of Investigation 
+We've seen reports that fj I IJ who says she was sexually assaulted by Jeffrey Epstein in 1996, reported her assault to the FBI in 1996. Can you 
+The following investigations have been with our office and FBI where we've used outside vendors, including for original 
+The following investigations have been with our office and FBI where we’ve used outside vendors, including for 
+Subject: FBINET to UNET Uploaded Files 
+FBI/NYPD 
+Upon his return, CBP will detain him at the airport. Agents and NYPD detectives will coordinate with FBI Newark and CBP, then 
+we understood that Florida FBI had located the files, and that in fact they had located them and made them available 
+We're totally happy to talk directly to the ASAC and FBI legal, or if it’s an issue of seniority we can ask our chiefs or 
+situation with my ASAC and FBI legal, i don't think they're opposed to your idea but right now they don't want the 
+The following investigations have been with our office and FBI where we've used outside vendors, including for 
+Subject: Fwd: Media Contact- Seeking FBI 
+FBI New York 
+Subject: Media Contact- Seeking FBI 
+To: "Feely, Martin R. (NY) (FBI)" <>." Senatore, Adrienne L. (NY) (FBI)" 
+: (NY) (FBI)" < >, (NY) (FBI)" 
+. (NY) (FBI)" < hy 
+. (NY) (FBI" < 
+From: EE (NY) (FBI) 
+FBI New York 
+On Aug 17, 2019 9:52 AM iin (NY) (FBI)" a «0°: 
+to the FBI in 1996. Alsharif noted recently released documents that reference a FBI interview of a: 2006. NYO 
+was aware that and her younger sister J were interviewed by the FBI as part of the MM investigation of 
+the FBI in 1996 and stated McColley/ claimed to have called the FBI after Epstein's arrest but hadn't received a 
+return call. OPA stated we had a proactive effort to make contact with victims via the FBI hotline and that we've 
+contacted everyone who called the FBI hotline. [Note: we have no record (f i: McColley contacting the 
+FBI after Epstein's arrest. ] 
+her 20s. McColley requested any and all documentation regarding alleged contact with the FBI in 1996 
+I'm unsure what the NY Times intends to say, but wanted to ensure everyone was aware in case they suggest the FBI 
+FBI New York 
+From: EE (NY) (FBI) 
+FBI New York 
+Federal Bureau of Investigation 
+understood that Florida FBI had located the files, and that in fact they had located them and made them available for OPR 
+We’re totally happy to talk directly to the ASAC and FBI legal, or if it’s an issue of seniority we can ask our chiefs or the 
+with my ASAC and FBI legal, i don't think they're opposed to your idea but right now they don't want the files going direct 
+The following investigations have been with our office and FBI where we’ve used outside vendors, including for original 
+The following investigations have been with our office and FBI where we’ve used outside vendors, including for 
+FBI Tampa, Pinellas RA 
+Crimes Against Children/Human Trafficking FBI New York 
+FBI New York 
+FBI New York 
+FBI New York Office 
+FBI New York 
+. (CID) (FBI)" < 
+(CID) (FBI)" =< 
+Federal Bureau of Investigation 
+NYPD/FBI 
+FBI New York 
+FBI New York 
+FBI New York 
+FBI New York 
+FBI New York Office 
+The 1-800-CALL-FBI line is up and running, we have received approximately 45 calls which we are in the 
+FBI New York 
+FBI New York 
+FBI New York 
+Agents and NYPD detectives will coordinate with FBI Newark and CBP, then respond to effect the arrest of Epstein. 
+SA —s lrrest/transpot Arrest/Transport = —si FBI Fer | 
+)0UlCl Search Search FBI J 
+FBI DEADLY FORCE POLICY 
+FBI New York 
+Department, and then the FBI, after the parents of a victim reported to law enforcement that Epstein had 
+approached the FBI NY to open an investigation into Epstein regarding his conduct in New York. 
+FBI New York 
+On Jul 12, 2019 4:47 PM, " (RH) (FBI) > wrote: 
+Federal Bureau of Investigation 
+w#.1501945588139 Seal of the Federal Bureau of Investigation svg-smaller.jpg 
+FBI New York 
+From: NY <agny0000@ fbi.gov> 
+.» Federal Bureau of Investigation 1908 - 2010 
+Federal Bureau of Investigation 
+Email: newyork@fbi gov 
+FBI NY CART Coordinator 
+NYPD/FBI 
+FBI NY CART Coordinator 
+FBI New York 
+To: i (NY) (-5|) <>; Vckenna, Arlene M. (NY) (FBI) <ammckenna@fbi.gov> 
+FBI New York 
+(FBI)" < ~ 
+FBI New York 
+(NY) (FBI)" < 
+@fbi.gov> (NY) (FBI)" 
+(NY) (FBI)" 
+(NY) (FBI)" < 
+YY) (FBI)" 
+@fbi.gov>, 
+(FBI)" 
+(FBI)" < 
+FBI New York 
+, sg be on vacation the first week of November but what about the week of October 14? FBI victim 
+. (NY) (FBI)" 
+FBI San Juan Division 
+FBI New York 
+To: " . (NY) (FBI)" < an (NY) (FBI)" 
+< > 1 _(NY) (FBI)" < > 
+FBI San Juan Division 
+FBI New York 
+From: EN. (NY) (FBI) 
+CACHTU approves of the operational travel outlined below for approximately 40 FBI NY personnel. 
+we plan on having the rest of the team fly down on Sunday 8/11 on the FBI Q400 plane, arriving around 7pm Sunday 
+FBI New York 
+FBI New York 
+(NY) (FBI" 
+FBI New York 
+FBI New York 
+Subject: Fw: Fw: FBI Briefing 10/23 
+FBI New York 
+Subject: Fw: Fw: FBI Briefing 10/23 
+FBI New York 
+To: VictimServices <victimservices@fbi.gov> 
+Subject: FBI Briefing 10/23 
+| am Jillian Gonzales | work for Dr. Oz. | am reaching out in regards to the FBI Briefing being held in NYC 
+Subject: Fwd: Fw: FBI Briefing 10/23 
+FBI Victim Services Division 
+From: VictimServices <victimservices@fbi.gov> 
+Subject: Fw: FBI Briefing 10/23 
+To: VictimServices <victimservices@fbi.gov> 
+Subject: FBI Briefing 10/23 
+| am Jillian Gonzales | work for Dr. Oz. | am reaching out in regards to the FBI Briefing being held in NYC on 
+we are trying to confirm this as it would appear to be a place the FBI would want to search for records, 
+Organize (DO) (FB!) BE 2 fbi.gov> 
+(DO) (FBI) 
+To: (NY) (FBI)" 
+FBI New York 
+Andrew. The FBI was not involved in the decision to hold the press conference in front of Epstein’s residence and | could 
+FBI 
+From: Watson, J P. (NY) (FBI) 
+FBI Number: 787075K6 Ethnicity: Unknown 
+FBI New York 
+FBI New York 
+NYPD / FBI 
+FBI New York 
+FBI New York 
+- The following passengers will be traveling to St. Thomas on the FBI Q400 aircraft: 
+FBI New York 
+FBI New York Office 
+(NY) (FBI)" < 
+. (NY) (FBD" <anyoung2@fbi.gov> 
+who was outstanding! This was an important case for our Task Force and for the FBI. You dropped 
+> FBI New York 
+FBI New York 
+FBIHO Violent Crime Section 
+NYPD / FBI 
+FBI New York 
+FBI New York 
+FBI New York 
+FBI New York 
+FBI New York 
+leadership call? | think they may just call the FBI general counsel, but if you have a different suggestion | can pass it along. 
+FBI New = 
+FBI New York 
+To: Watson, Sean P. (NY) (FBI) <spwatson@fbi.gov> 
+that | guess FBI New York prevented them from sending the materials to us, and then another month passed before 
+FBI New York 
+we understood that Florida FBI had located the files, and that in fact they had located them and made them 
+We’re totally happy to talk directly to the ASAC and FBI legal, or if it’s an issue of seniority we can ask our chiefs or 
+situation with my ASAC and FBI legal, i don't think they're opposed to your idea but right now they don't want the 
+FBI New York 
+The following investigations have been with our office and FBI where we've used outside vendors, including for 
+Cc: EEE EEE ©. fbi.gov> 
+FBI New York 
+. (BS) (FBI)" < 
+. (NY) (FBI)" 
+(BS) (FBI)" < 
+who was outstanding! This was an important case for our Task Force and for the FBI. You dropped 
+FBI New York 
+Subject: FBINET to UNET Uploaded Files 
+Attachments: NCAWAS-20-081 - Intel for FBI.PDF 
+FBI New York 
+To: " (NY) (FBI)" < > 
+ce" (CID) (FBI)" < > 
+Also, NCA has some financial intelligence regarding Epstein’s i. NCA believes FBINY might 
+Notification to FBI and request for information: Jeffrey EPSTEIN enquir 
+2. It may be shared as deemed necessary within FBI and DOJ only where 
+4. NCA previously provided information to FBI on 6 January 2020 in relation 
+engagement with FBI/DO) on this matter. 
+10.NCA would like to bring these allegations to the attention of FBI, if the 
+any internal NSPCC review would adversely affect the FBI/DOJ 
+FBI Criminal Investigative Division | Violent Crimes Section 
+FBI New York 
+FBI New York 
+Organizer: Watson, Sean P. (NY) (FBI) </O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE 
+Attendee: . (NY) (FBI) >; 
+Organizer: ee 2 fbi. go> 
+FBI New York 
+FBI New York 
+FBI New York Office 
+FBI New York 
+FBI New York 
+FBI NY CART Coordinator 
+On Aug 26, 2019 11:47 AM, ‘ha (NY) (FBI)" (> wrote: 
+FBI NY CART Coordinator 
+FBI New York 
+From: " (CID) (FBI)" hi i- 
+FBI New York 
+| need to get back to FBIHQ on this, have you discussed it with SDNY? 
+FBI New York 
+Also, NCA has some financial intelligence regarding Epstein’s i. NCA believes FBINY might 
+FBI Victim Services Division 
+FBIHQ Room 
+Organizer: ite 6s i (DO) (FBI) i _ i, 
+Attendee: ia (NY) (FBI) ii, 
+. (DO) (FBI) 
+FBI Victim Services Division 
+FBIHQ Room 
+FBI Victim Services Division 
+FBIHQ Room 3329 
+FBI New York 
+. (PX) (FBI)" < > 
+(NY) (FBI)" < > 
+On Aug 25, 2019 10:28 AM, " (CID) (FBI)" (> wrote: 
+On Aug 25, 2019 10:26 AM, " (NY) (FBI) (E> wrote: 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: "( (C1D) (FBI)" < 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+To: ". (c1D) (FBI” < 
+FBI/VSD. 
+FBI Victim Services Division 
+forward. The only reference that was made to the FBI in the Agreement is that Jordy Feldman, as Program Administrator, 
+will inform claimants that counseling is available to them through FBI Victim Services or other similar entities, as would be 
+available to them whether or not a Program existed. The FBI has not been obligated to do anything outside of the normal 
+services through the FBI Victim Services program and Child USA.” Can you tell me what that means? 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI’s role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+services through the FBI Victim Services program and Child USA.” Can you tell me what that means? 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI’s role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI's role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+services through the FBI Victim Services program and Child USA.” Can you tell me what that means? 
+From: Carollo, Leonard (CID) (FBI) 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI’s role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+services through the FBI Victim Services program and Child USA.” Can you tell me what that means? 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI’s role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+recommended by the FBI but | couldn’t say for sure. 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI's role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+services through the FBI Victim Services program and Child USA.” Can you tell me what that means? 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI's role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+recommended by the FBI but | couldn’t say for sure. 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI's role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+* Access to counseling and referral services through the FBI Victim Services program and Child USA. 
+Is this something FBINY was involved in? I've checked with VSD, but they are not aware of this. 
+Can you provide me more details on the below and FBI's role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+FBI New York 
+To: " (NY) (FBI)" < > 
+Ce: " (CID) (FBI)" < > 
+Also, NCA has some financial intelligence regarding Epstein's i. NCA believes FBINY might 
+From: NE (NY) (FBI) 
+FBI New York 
+FBI New York 
+On Aug 25, 2019 10:28 AM, " (CID) (FBI)" <> wrote: 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: I (CD) (FBI) 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York 
+FBI New York 
+FBI New York 
+FBI New York 
+On Aug 25, 2019 10:28 AM, " (CID) (FBI)" (> wrote: 
+On Aug 25, 2019 10:26 AM, " (NY) (FBI) (E> wrote: 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: "( (C1D) (FBI)" < 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+To: ". (c1D) (FBI” < 
+On Aug 25, 2019 10:28 AM, " (CID) (FBI)" (> wrote: 
+On Aug 25, 2019 10:26 AM, " (NY) (FBI)" (E> wrote: 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: " (CID) (FBI)" < 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+On Aug 25, 2019 10:28 AM, " (CID) (FBI)" (E> wrote: 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: "RE (1D) (FBI) < 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+On Aug 25, 2019 10:28 AM, " (CID) (FBI)" (E> wrote: 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: "RR (1D) (FBI)" < 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+On Aug 25, 2019 10:26 AM, " . (NY) (FBI)" = t—<“itsSCS wrote: 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+On Aug 25, 2019 10:28 AM, " (CID) (FBI)" (> wrote: 
+On Aug 25, 2019 10:26 AM, " A. (NY) (FBI)" a =~ %,--- wrote: 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: "RS (C1D) (FBI)" < 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: "RE (C.1D) (FBI)" < 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+Subject: Fwd: FBINET to UNET Uploaded Files 
+To: "(Cc 1D) (FBI” < 
+Subject: FBINET to UNET Uploaded Files 
+To: "(Cc 1D) (FBI)” < 
+NYPD / FBI 
+NYPD / FBI 
+To: " . (NY FBI" « hii 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Good morning the NYPD/ NY FBI (CE HTTF) is seeking the assistance of the MSP with respect to a search of 
+NY FBI File# 31E-NY-3027571 
+N.Y. FBI Squad C20 
+NYPD / FBI 
+NYPD / FBI 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+FBI - New York - SO-9 
+FBI - New York - SO-9 
+FBI - New York - SO-9 
+FBI New York Field Office 
+FBI - New York - SO-9 
+NYPD / FBI 
+FBI New York Field Office 
+From: R. (NY) (FBI)" )fbi.gov> 
+To: (NY) (FBI)" < atvi.gov>, TE 0.1 yp..0rg> 
+FBI New York Field Office 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI Boston — New Ee RAs 
+FBI New York Field Office 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York 
+Amazon's response to the attached grand jury subpoena is overdue by several weeks. The FBI has emailed and left 
+[o: A (x) (FBI) 
+To: . (NY) (FBI) 
+(NY) (FBI)" <P fbi. gov> 
+(NY) (FBI)" (ti. cov>, NY) (OGA)” 
+@fbi.gov> 
+. (NY) (FBI)" (EE @tbi.gov> 
+(NY) (FBI)" <fbi.cov>, FR (vy) (oGay” 
+@fbi.gov> 
+(NY) (FBI)" Ufbi.gov> 
+(@fbi.gov> 
+To: . (NY) (FBI) 
+To: . (NY) (FBI) 
+Organizer (NY) (FBI) BE 2 fbi. gov> 
+her to have a senior community support officer with her at the proposed meeting with the FBI. In the second email 
+no longer willing to assist the FBI for a number of reasons; Jeffrey Epstein is dead, she has to think about her own 
+safety, there is no added value for the FBI speaking to her and she has concerns over confidentiality, fearing that her 
+Amazon's response to the attached grand jury subpoena is overdue by several weeks. The FBI has emailed and left 
+Good Afternoon ——! am the MAPA detailee to FinCEN and the FBI received the attached SD from United Kingdom on 
+accepting this information, the FBI agrees to the following terms: 
+(FBI)" < 
+To: ® _ (NY) (FBI)" < a (USANYS)" 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+FBI New York 
+Subject: FBINET to UNET Uploaded Files 
+From: "dropbox(@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+"dropbox(@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+FBINET to UNET Uploaded Files 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+FBI New York 
+FBI New York 
+local authorities before the case was brought to the FBI, but we understand you have a copy in the files, and we 
+FBI New York 
+(CN) (FBI)" < 
+. (NY) (FBI)" < . (CN) (FBI)" 
+Federal Bureau of Investigation 
+FBI Legal A h 
+. (CN) (FBI)" < 
+. (CN) (FBI)" 
+(NY) (FBI)" < 
+(CN) (FBI)" < . (CN) (FBI)" 
+FBI - Canberra 
+FBI New York 
+Subject: FBINET to UNET Uploaded Files 
+e In 2005, the West Palm Beach Police Department, and then the FBI, initiated an investigation of Jeffrey 
+e In December 2018, SDNY approached the FBI NY to open an investigation into Epstein regarding his 
+Subject: FBINET to UNET Uploaded Files 
+> FBI-New York 
+FBI-New York 
+FBI New York 
+FBI HQ, TOC-East 
+Subject: FBINET to UNET Uploaded Files 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+NYPD / FBI 
+FBI New York 
+Subject: FBINET to UNET Uploaded Files 
+From: (BA) (FBI)" < @fbi.gov> 
+To: ' + (NY) (FBI)" < @f{bi.gov> 
+Subject: I BA) (FBI) replied to a comment in "Epstein PPT - EM" 
+This email is generated through Federal Bureau of Investigation's use of Microsoft 365 and 
+may contain content that is controlled by Federal Bureau of Investigation. 
+Subject: MJ (NY) (FBI) shared "Epstein PPT - EM" with you 
+EEE (NY) (FBI) invited you 
+Here's the document that (_-—___—_ 7] (NY) (FBI) shared with you. 
+This email is generated through Federal Bureau of Investigation's use of Microsoft 
+365 and may contain content that is controlled by Federal Bureau of Investigation. 
+FBI Baltimore/Delaware 
+not otherwise be aware and | feel compelled to pass to you or someone at the FBI who is working on 
+From: NY_OPSCENTER <NY_OpsCenten@fbi.gov> 
+\» Federal Bureau of Investigation 1908 - 2010 
+This message is transmitted to you by the Federal Bureau of Investigation. This message, along with any attachments, may be privileged or otherwise 
+otherwise required by law). Please notify the sender of the error by a separate email or by calling FBI-New York at 212-384-2921. 
+is not routinely disseminated electronically via UNET/FBI-issued mobile device. Per the Privacy Act, the FBI is responsible for protecting and conserving 
+requestor has a “need to know” the information in the performance of his/her official duties. FBI employees shall not disclose Pll about an individual to 
+FBI New York 
+To: "ETIPS" <ETIPS@FBI.GOV> 
+Ce: "NTOC_ SSA" <NTOC_ SSA@fbi.gov> 
+On Jul 10, 2019 7:54 PM, ETips@ic.fbi.gov wrote: 
+1 am a Threat Intake Examiner (TIE) at the FBI National Threat Operations Center (NTOC) Unit where we 
+GB called the FBI NTOC to report that she was returning a call from an unknown FBI agent regarding the 
+Special Agent, FBI 
+NYPD / FBI 
+I am aware of the original source , so understand that is problematic, but | am hoping the FBI was able to capture 
+FBI Legal Attache 
+FBI New York 
+(USANYS) j. ; (NY) (FBI) @fbi.gov>; 
+FBI New York 
+From: R, EC. (MV) (FBI) 
+. (NY) (FBI)" < 
+To: . (NY) (FBI)" < 
+. (NY) (FBI)" 
+Subject: Fw: You Tube videos showing missing computer prior to FBI raid 
+N.Y. FBI Squad C20 
+Subject: You Tube videos showing missing computer prior to FBI raid 
+NYPD/FBI 
+a@fbi.gov> 
+FBI New York 
+From: "dropbox@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+sexual exploitation and sex trafficking should be forwarded to the FBI's New York 
+Here's the document that Flood, | | (DO) (FBI) shared with you. 
+FBI New York 
+FBI NY CART Coordinator 
+FBI New York Field Office 
+FBI New York Field Office 
+NYPD / FBI 
+FBI- New York Field Office 
+https://forms.fbi.gov/cast 
+FBI New York 
+NYPD / FBI 
+FBI- New York Field Office 
+https://forms.fbi.gov/cast 
+FBI New York Field Office 
+LSU/RIDS/IMD — FBI 
+This message 1s transmitted to you by the Information Management Division, Litigation Support Unit, of the Federal Bureau of Investigation. The 
+FBI New York Field Office 
+FBI Headquarters 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI Headquarters 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Office 
+FBI - New York Office 
+FBI New York Field Office 
+FBINET to UNET Uploaded Files 
+From: "dropbox(@ic.fbi.gov" <dropbox(@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+FBI/NYPD 
+Epstein's return to the US, CBP will detain him at an airport. Agents and NYPD detectives will coordinate with FBI Newark and 
+Subject: FBINET to UNET Uploaded Files 
+| believe an FBI agent will email you in the near future. 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Federal Bureau of Investigation — Boston 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Iam so happy for NYFO, NYPD, and the FBI overall. Good for all of you staying tenacious and ensuring 
+FBI Albuquerque Division 
+Subject: Fwd: RE: FBI Victim Services Division Briefing for Victims of Jeffrey Epstein 
+From: VictimServices <victimservices@fbi.gov> 
+Subject: RE: FBI Victim Services Division Briefing for Victims of Jeffrey Epstein 
+FBI Victim Services Division 
+To: VictimServices <victimservices @fbi.gov> 
+Subject: Re: FBI Victim Services Division Briefing for Victims of Jeffrey Epstein 
+On Sep 27, 2019, at 5:12 PM, VictimServices <victimservices@fbi.gov> wrote: 
+Federal Bureau of Investigation 
+The FBI Victim Services Division invites you to attend a meeting with FBI Victim Services representatives 
+and members of the FBI NY Field Office and the U.S. Attorney’s Office for the Southern District of New 
+October 4, 2019 to VictimServices@fbi.gov with your name, and if you choose, the name of one support 
+FBI Victim Services Division 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI Victim Services Division 
+FBI New York Field Office 
+From: "dropbox@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+FBI NY 
+FBI New York, in coordination with the Southern District of New York's United States Attorney's Office, has been 
+with the FBI. FBI agents, along with Assistant United States Attorneys, intend to travel to the UK to interview [i 
+Names of FBI NY travelers: 
+Attendee: . (NY) (FBI) < 
+(DO) (FBI) 
+NYPD / FBI 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+. (NY) (FBI" < 
+Organizer: Sma (DO) (FBI) i, 
+< >: . (NY) (FBI) < > 
+Subject: Fw: FBINET to UNET Uploaded Files 
+N.Y. FBI Squad C20 
+Subject: FW: FBINET to UNET Uploaded Files 
+From: dropbox@ic.fbi.gov [mailto:dropbox@ic.fbi.gov] 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York 
+FBI New York 
+Allow me to electronically introduce you to LE ia of FBI-NY (contact info below). Please see her below 
+CBP, who will TOT FBI, and your role will largely be to coordinate and facilitate. 
+FBI New York 
+FBINET to UNET Uploaded Files 
+internal. fbinet. fbi/teamsites/NY/infopath/Operations%200rder%20Form/Forms/ - 
+<my:Participating Agencies>FBI/NYPD</my:Participating Agencies> 
+detectives will coordinate with FBI Newark and CBP, then respond to effect 
+cU9acDJZNOhuT24rS280TGoreLhOZHc2YnLLNnV30FBIVmxLeHpJZ1lLaR1idwTDNRT kwxRZNBczRH - 
+eHFSNFpIZkLWUExibU1pdEZJd2tpaHVWaGtEbXEwaTRrNTRyWVN6Q25HS3pi cUY xbFBIRmF4a2Nz - 
+ZGOwY Lc2MXBIUXdtakdrVXE5STRESm1l ya3NXwWFBIU3FZU203Unow0US2SXM1SnhNZWRXM2taNlUZI - 
+TVVXROLSeLNrZkxpbFBIV2dzTVVBTUNURLY 1QnpWc24wcXRMd2F ZckKZXUVpxcVJnMWRrNEdhcxZ4 - 
+bVIxcXZDQ3I 1NXJZNW5vVOxnSFBIU3BZVOpVSDBwdUN3b3pOVGFPdFIKRLILCG9ROUOxZERFSOJX - 
+aWZLem12R1gxQnJDLOFKUFd1MzBYeFBia001b3pqM3JHCFN2cWpvaFZqc3pvYnRDbWMxdzJ0enE5 - 
+FBINET to UNET Uploaded Files 
+with FBI Newark and CBP, then respond to effect the arrest of Epstein. 
+FBI DEADLY FORCE POLICY 
+From: "dropbox@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York 
+FBI/NYPD 
+will coordinate with FBI Newark and CBP, then respond to effect the arrest of Epstein. 
+To: " (S) (FB!) i, TE (NY) (FBI) 
+FBI - New York - SO-9 
+FBI New York Field Office 
+FBI - New York - SO-9 
+FBI New York Field Office 
+application and get it back to me - I will submit it with the FBI support letter. 
+application and get it back to me - I will submit it with the FBI support letter. 
+From: "dropbox(@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+FBINET to UNET Uploaded Files 
+back and might be of investigative value. Would you please handle, or pass along to whoever has been handling the FBI 
+may be someone else at the FBI who handled the preparation of these files. I’m cc’ing Jj and JJ here. 
+Would you mind connecting [J with whoever at FBI prepared those discs so we can figure out how to view them? 
+\\Usa.doj.gov\cloud\NYS\StAndrews\Shared\USvEpstein-2018R01618\Investigation\FBI NY Case File as of August 
+2018R01618\Investigation\FBI NY Case File as of August 2020\1D Items 
+\\Usa.doj.gov\cloud\NYS\StAndrews\Shared\USvEpstein-2018R01618\Investigation\FBI NY Case File as of August 
+2018R01618\Investigation\FBI NY Case File as of August 2020\1D Items 
+FBI — Boston 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+NYPD / FBI 
+FEDERAL BUREAU OF INVESTIGATION 
+FBIHQ/CID - Violent Crimes Section 
+FBI - NY 
+FBI - NY 
+on the drive of responsive materials from the FBI (I received an error message saying that the file was either too large, 
+number of highly confidential files and how we can get the responsive materials from the remaining devices that the FBI 
+responsive material on them or not? These are devices that were initially assigned to the FBI to review but were not 
+FEDERAL BUREAU OF INVESTIGATION 
+Organizer: ms (NY) (FBI) i, 
+FBI Headquarters 
+; (DO) (FBI)" 
+(DO) (FBI) 
+(NY ) (FBI)" < 
+Subject: [EXTERNAL EMAIL] - RE: ODAG/FBI Briefing Conference Call 
+Subject: RE: ODAG/FBI Briefing Conference Call 
+Cc: ES. (NY) (F5!); (DO) (FBI) 
+Subject: ODAG/FBI Briefing Conference Call 
+. (DO) (FBI)" 
+(DO) (FBI) 
+(NY ) (FBI)" < 
+¢ , & ) (FBI)"- " (0) (FBI) 
+Subject: [EXTERNAL EMAIL] - RE: ODAG/FBI Briefing Conference Call 
+FBI folks, thank you also for following up with Sigrid re her victim list; and the Dubai request. 
+Subject: RE: ODAG/FBI Briefing Conference Call 
+Subject: ODAG/FBI Briefing Conference Call 
+resumes work.. [J has spoken to prosecutors in New York , after the last FBI meeting with victims there. 
+counsel comes to review nude images at the FBI, they will all be in one place. 
+2. Putting us in touch with §f contact at FBI who can help us discuss converting the grand jury audio to J readable 
+3. Putting us in touch with Jj contact at FBI who can help us discuss getting JJ version of the GPS/1D data from 
+https://nypost.com/2020/11/12/fbi-sharing-jeffrey-epstein-probe-findings-with-victims-report/ 
+FBI - Victim Services Division 
+NYPD / FBI 
+NYPD / FBI 
+Subject: FBI Meeting for Victims of Epstein 
+FBI - NY 
+FBI New York Field Office 
+FBI New York Field Office 
+on the drive of responsive materials from the FBI (I received an error message saying that the file was either too large, 
+number of highly confidential files and how we can get the responsive materials from the remaining devices that the FBI 
+responsive material on them or not? These are devices that were initially assigned to the FBI to review but were not 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+FBI - NYO DSAC Coordinator 
+FBI - NYO DSAC Coordinator 
+FBI - New York Office 
+| am hoping you can help me with a contact for FBI NYC? | am looking for a good contact to get a report over to 
+FBI - NYO DSAC Coordinator 
+FBI - NYO DSAC Coordinator 
+FBI - New York Office 
+| am hoping you can help me with a contact for FBI NYC? | am looking for a good contact to get a report over to 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+(U//Fover Pursuant to Attorney General Guidelines, for Domestic FBI Operations 
+FBI has considered the effect such dissemination may reasonably be expected to 
+(U/ APe¥e) The FBI will undertake reasonable steps to ensure that any 
+intelligence information that the FBI disseminates pursuant to this 
+end, the FBI shall take the following actions: 
+(1) (U) The FBI shall notify the recipient entity that unless otherwise provided 
+herein or expressly authorized by FBIHQ in a separate communication, the 
+(3) (U/*PO@86+ LEGAT shall report to the FBIHQ operational division and 
+On July 26, 2019, FBI-New York Special Agent (SA) | a 
+[ } as | has requested an FBI contact at Legat Canberra. Any b7D -3 
+BUREAU OF INVESTIGATION (FBI) HEADQUARTERS IN A SEPARATE COMMUNICATION, 
+FEDERAL BUREAU OF INVESTIGATION 
+This document contains neither recommendations nor conclusions of the FBI. It is the property of the FBI and is loaned to your agency; it and its contents are not 
+Federal Bureau of Investigation 
+BUREAU OF INVESTIGATION (FBI) HEADQUARTERS IN A SEPARATE COMMUNICATION, 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+Subject: Fw: 20-cv-01527 - Clemente v. FBI -- Epstein FOIA Litigation 
+Subject: 20-cv-01527 - Clemente v. FBI -- Epstein FOIA Litigation 
+FBI IMD - Litigation Support Unit. 
+FEDERAL BUREAU OF INVESTIGATION 
+FBI Analyst Comment; (U) No action is required. This message is only 
+This Travel Advisory was prepared by the Violent Crimes Against Children Section of the FBI. Comments or b6 -2 
+NYPD / FBI 
+NYPD / FBI 
+Subject: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+Location: FBI Miami Field Office 
+and FBI representatives, crime victims, crime victims’ legal representatives, and, 
+do so. To comply with applicable COVID-19 safety restrictions, however, the FBI will 
+need to limit the number of people allowed access to the FBI building and the meeting. 
+allowed into the FBI building and the meeting will depend on the number of participants 
+COVID-19 Precautions: Prior to entering FBI space, guests must be wearing a cloth 
+o Temperature Screening: By entering the screening area of FBI space, guests 
+throughout the meeting and at all times while in the FBI building. The meeting 
+e No devices: Pursuant to FBI policy, cellular devices, cameras, and any electronic 
+e Parking is available in the visitors’ lot of the FBI building. Additional spaces will be 
+available should the visitor lot reach capacity. FBI personnel will be present outside to 
+Attachments: JR_ Transmittal Letter 2 FBI GC 455936.pdf 
+FBI Headquarters 
+Federal Bureau of Investigation 
+be released to the public. Because the Federal Bureau of Investigation (FBI) was the investigating 
+identified in the text of the report, will not appear in the final report. FBI personnel are not 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+Forwarding this per our usual practice of conveying Epstein/Maxwell tips to the FBI. 
+former Special Agent with the FBI and a former decorated Lt. Colonel and 
+To: oa . (DO) (FBI)" 
+< 4 (NY) (FBI)" < 
+FBI New York Field Office 
+. png) (JMD) < (NY) (FBI) 
+(NY) (FBI) < > 
+. (DO) (FBI) < - 
+. (NY) (FBI) < " 
+THIS DOCUMENT IS INTERNAL AND MAY NOT BE RELEASED OUTSIDE THE FBI WITHOUT PRIOR AUTHORIZATION 
+(including attachments) without the prior written or electronic consent of the FBI and shall take such actions as are necessary to prevent 
+To: . (DO) (FBI) < ar . (DO) (FBI) 
+(NY) (FBI) < 
+. (DO) (FBI) < 
+. (DO) (FBI) 
+. (ODAG) < . (NY) (FBI) 
+. (DO) (FBI < 
+. (NY) (FBI < 
+FBI Victim Services Division 
+. (DO) (FBI) < se . (ODAG) (JMD) 
+D; . (DO) (FBI) < >) i. 
+you'd DOJ would like in the individualized packets. Our hope is to create them here at FBI HQ and Fed-Ex 
+Here are FBI's edits off of JJ version for the invitation letter and the RSVP. Thanks! 
+Hi FBI friends, 
+FBI Victim Services Division 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+Ce: >, . (NY) (FBI)" 
+FBI NY CART Coordinator 
+Subject: FW: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+Once the USAO and FBI review teams are assembled, please let me know when would be a good time for me to have a 
+In the first instance, we would ask that the FBI team review the following devices: 
+Depending on how quickly the FBI and USAO teams move through the review, we may reassign some devices between the 
+Subject: Fwd: FW: FBI Victim Services Briefing 
+Subject: FW: FBI Victim Services Briefing 
+To: VictimServices <victimservices@fbi.gov> 
+From: "dropbox@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+From: VictimServices <victimservices@fbi.gov> 
+Subject: Fw: FBI Briefing 10/23 
+To: VictimServices <victimservices @fbi.gov> 
+Subject: FBI Briefing 10/23 
+1 am Jillian Gonzales | work for Dr. Oz. | am reaching out in regards to the FBI Briefing being held in NYC on 
+Subject: FBINET to UNET Uploaded Files 
+From: @fbi.gov> 
+To: RR (Ny) (FB!) fbi.gov> 
+Ce: (DO) (FBI) fbi.cov>; iS (NY) (F6!) RS foi.cov>; 
+(NY) (FBI) fbi.gov> 
+On Nov 4, 2019 2:24 PM, nn @ fbi.cov> wrote: 
+together from the FBI; that was the agreement I had with them. I am confused on why you got the form 
+On Nov 4, 2019 2:20 PM, ONY) (FBD)" <I @fbi.gov> wrote: 
+right away and get it done in the most expeditious manner. The FBI form was provided by and 
+extremely knowledgable and capable. mi out this week so I can check in whether she submitted the FBI 
+also told me this person is submitting the OVS claim which is needed to be submitted by me with the FBI 
+FBI New York 
+FBI, their victim services folks are handling travel logistics. |’m cc’ing J I, who should be able to hopefully help 
+(NY) (FBI)" 
+< . (NY) (FBI)" < >, Sigrid 
+Federal Bureau of Investigation 
+If you have spoken with a FBI Victim Specialist, please provide their name: Click here to enter VS name 
+NYPD / FBI 
+NYPD / FBI 
+Subject: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+FBI Victim Services Division 
+Reminder: FBI Victim Services Division Briefing for Victims of Jeffrey Epstein - Legal Counsel 
+permitted in FBI space. If you must bring those items into the building, secure storage will be available to you and you 
+may retrieve your items at the conclusion of the meeting. The FBI entrance is on and you will have 
+FBI Victim Services Division 
+Subject: FBINET to UNET Uploaded Files 
+FBI Victim Specialist 
+NYPD / FBI 
+N.Y. FBI Squad C20 
+FBI#: NYSID#: Other State SID#: 
+FBI#: NYSID#: Other State SID#: 
+FBI#: NYSID#: Other State SID#: 
+From: "dropbox@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+N.Y. FBI Squad C20 
+Event: FBI / SDNY Epstein update mtg 
+FBI New York 
+To: NE) <CFIMILLS@fbi,gov> 
+On Mar 2, 2020 1:25 PM, "I" <CPMILLS@ fbi. gov> wrote: 
+FBI Victim Specialist 
+Hi Bob- hope you are doing ok! I believe you were at the meeting in Miami where it was discussed that the FBI 
+week. | believe she had met and interviewed with the FBI already. If you need any further information or have any questions, 
+In the event that one or more of these women has not been previously identified to the FBI, please let 
+fake credentials for people to pose as FBI agents, so as sad as it is, they all assume that anyone who 
+that the FBI has made some options available to those in NY, including to one of 
+being available to victims where the crime was committed in Florida; the FBI Victim Services Division has 
+Agent i. |f they have not been confirmed a victim by the FBI prior; JJ must confirm that they 
+FBI New York Office 
+FBI New York Office 
+and send to me. | will forward directly with the FBI paperwork. 
+FBINET to UNET Uploaded Files 
+From: "dropbox@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+From: "dropbox(@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York 
+FBI New York Office 
+FBI Victim Services Division 
+NYPD / FBI 
+FBI New York 
+As discussed with Federal Bureau of Investigation Special Agent [. with 
+some have exceeded the 6 sessions that are covered by the FBI, but that the FBI may be covering additional sessions. Do 
+FBI Victim Services Division 
+FBI - Victim Services Division 
+FBI New York 
+From: "dropbox@ic.fbi.gov" <dropbox(@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+NYPD / FBI 
+From: "dropbox@ic.fbi.gov" <dropbox@ic.fbi.gov> 
+Subject: FBINET to UNET Uploaded Files 
+Good morning | have a client who is a a Florida victim and she is interested in trying to obtain FBI 
+FBI-New York 
+| asked i ~~, j and [ij if they were aware of the provision built in for the FBI vicitm assistance piece and they 
+Can you provide me more details on the below and FBI's role in this settlement? 
+See below: access to FBI Victim Services is part of the settlement?? 
+Subject: FBINET to UNET Uploaded Files 
+FEDERAL BUREAU OF INVESTIGATION 
+Subject: FBINET to UNET Uploaded Files 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to |. We have an fbi office there. But it's 7 hours from 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to he Sy We have an fbi office there. But it's 7 hours from 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to J. We have an fbi office there. But it's 7 hours from where I'm 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to Too We have an fbi office there. But it's 7 hours from 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to [. We have an fbi office there. But it's 7 hours from 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Give me a call on this. JJ actually on my way to J. We have an fbi office there. But it's 7 hours from where Jj 
+FBI New York Field Office 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to Gea We have an fbi office there. But it's 7 hours from 
+FBI New York Field Office 
+: EE. () (FBI) a 
+.- =e <ajackson| @fbi.gov>, "EEE. (Ny) (FB1" 
+FBI New York Field Office 
+To: I (VY) (FB!) <ajackson1 @fbi.cov>; A! (NY) (FS!) <i 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to [. We have an fbi office there. But it's 7 hours from 
+On Feb 2, 2021 2:40 PM, "EEE (NY) (FBI)" <ajackson1 @fbi.gov> wrote: 
+FBI New York Field Office 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to ma. We have an fbi office there. But it's 7 hours from 
+(NY) (FBI)" 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to J. We have an fbi office there. But it's 7 hours from where I'm 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to Bea We have an fbi office there. But it's 7 hours from 
+On Feb 3, 2021 9:58 AM, ". (NY) (FBI)" hii wrote: 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to a We have an fbi office there. But it's 7 hours from 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to ae We have an fbi office there. But it's 7 hours from 
+FBI New York Field Office 
+Give me a call on this. I'm actually on my way to [. We have an fbi office there. But it's 7 hours from 
+Give me a call on this. I'm actually on my way to [. We have an fbi office there. But it's 7 hours from 
+FBI New York Field Office 
+expected to arrive each morning at approximately 9:30am. We will need at least one FBI agent with a handcuff key who is 
+o AUSA J has reserved three proffer rooms for this review: The largest will be where the FBI can put the 
+Federal Bureau of Investigation 
+Federal Bureau of Investigation 
+FBI New York Field Office 
+expected to arrive each morning at approximately 9:30am. We will need at least one FBI agent with a handcuff key who is 
+o _AUSA J has reserved three proffer rooms for this review: The largest will be where the FBI can put the evidence 
+Federal Bureau of Investigation 
+From: . (NY) (FBI) 
+To: . (NY) (FBI) < (NY) (FBI) < 
+. (NY) (FBI) < (NY) (FBI) < 
+. (NY) (FBI) < >; . (NY) (FBI) 
+> _ (NY) (FBI) < 
+. (NY) (FBI) < 
+From: . (NY) (FBI) 
+. (NY) (FBI) < 
+. (NY) (FBI) < 
+. (NY) (FBI < 
+(NY) (FBI) < 
+(NY) (FBI) < 
+. (NY) (FBI) 
+. (NY) (FBI < 
+. (NY) (FBI) 
+FBI New York Field Office 
+. (NY) (FBI) < 
+. (NY) (FBI) < 
+. (NY) (FBI) < 
+. (NY) (FBI) < 
+(NY) (FBI) < 
+(NY) (FBI) < 
+. (NY) (FBI) 
+. (NY) (FBI) < 
+>: . (NY) (FBI < 
+From: (NY) (FBI) 
+Ce: (NY) (FBI < 
+counsel are expected to arrive each morning at approximately 9:30am. We will need at least one FBI agent with a 
+o AUSA has reserved three proffer rooms for this review: The largest will be where the FBI can put the 
+FBI New York Field Office 
+(NY) (FBI) < NY) Fo) a: VY) PB) 
+a es NY) 6) a NY) (FBI) 
+expected to arrive each morning at approximately 9:30am. We will need at least one FBI agent with a handcuff key who is 
+o AUSA QJ has reserved three proffer rooms for this review: The largest will be where the FBI can put the 
+FBI New York Field Office 
+There are three proffer rooms for this review: The largest will be where the FBI can put the evidence for 
+There are three annotated spreadsheets of the evidence in this case. Each day, the FBI will need to plan 
+burdensome for the FBI. 
+« Three members of the defense team plan to travel to the Bronx warehouse to review evidence that the FBI is not 
+FBI New York Fie ice 
+>, (NY) (FBI)" 
+(NY) (FBI)" < > 
+(NY) (FBI)" < NY) (FBI)" 
+(NY) (FBI)" < 
+NY) (FBI)" < (NY) (FBI)" 
+From: =a (NY) (FBI) 
+Ce: . (NY) (FBI) < 
+counsel are expected to arrive each morning at approximately 9:30am. We will need at least one FBI agent with a 
+o AUSA has reserved three proffer rooms for this review: The largest will be where the FBI can put the 
+FBI New York Fie Ice 
+counsel are expected to arrive each morning at approximately 9:30am. We will need at least one FBI 
+. Aus has reserved three proffer rooms for this review: The largest will be where the FBI can put 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+NYPD / FBI 
+NYPD / FBI 
+FBI New York Field Office 
+NYPD / FBI 
+o There are three proffer rooms for this review: The largest will be where the FBI can put the evidence for 
+o There are three annotated spreadsheets of the evidence in this case. Each day, the FBI will need to plan 
+burdensome for the FBI. 
+« Three members of the defense team plan to travel to the Bronx warehouse to review evidence that the FBI is not 
+FBI New York Field Office 
+Subject: FBINET to UNET Uploaded Files 
+Hope all is well. The FBI received the attached SD from Germany on Jeffrey Epstein. Password ii 
+accepting this information, the FBI agrees to the following terms: 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York, in coordination with the Southern District of New York's United States Attorney's Office, 
+met with FBI victim specialist and it has been determined that she will benefit more from an in-person 
+NYPD/FBI-New York, C-20 
+FBI Baltimore/Delaware 
+FEDERAL BUREAU OF INVESTIGATION 
+FBI Miami investigation: 
+e In 2005, the West Palm Beach Police Department, and then FBI Miami, initiated an 
+FBI New York investigation: 
+e On December 6, 2018, FBI NY initiated a case after Southern District of New York (SDNY) 
+contacted FBI NY regarding several victims that had been sexually abused by Jeffrey Epstein 
+FEDERAL BUREAU OF INVESTIGATION 
+e On July 22, 2019, FBI and SDNY interviewed Dr. i by telephone. I 
+former police officer and subject of a FBI NY Hudson Valley Resident Agency quadruple 
+e On July 29, 2019, FBI and SDNY met with Epstein’s attorneys, who, in very general terms, 
+e On August 10, 2019, at approximately 7:30am, FBI NY was notified that Epstein committed 
+FEDERAL BUREAU OF INVESTIGATION 
+e Following Epstein’s death, FBI and SDNY continued the investigation into potential 
+FBI Baltimore/Delaware 
+Federal Bureau of Investigation 
+WHITE SLAVE TRAFFIC ACT - CHILD WOK Investigation y = FBI - New 
+FBI Baltimore/Delaware 
+FBI Baltimore/Delaware 
+seal where they are located in the FBI’s Sentinel files? 
+FBI Baltimore/Delaware 
+seal where they are located in the FBI’s Sentinel files? 
+FBI Victim Services Division 
+Seattle FBI — Bellingham RA 
+Seattle FBI - ata RA 
+FBI New York Field Office: 
+FBI Victim Services Division 
+Seattle FBI —- Bellingham RA 
+Seattle FBI — Bellingham RA 
+FBI 
+FBI New York 
+FBI New York Field Office 
+FBI New York 
+FBI New York 
+FBI New York Field Office 
+Federal Bureau of Investigation 
+This message is being sent by or on behalf of an attorney in the Office of the General Counsel of the Federal Bureau of 
+Federal Bureau Of Investigation Order on Motion for Summary Judgment 
+Subject: FW: Activity in Case 1:17-cv-03956-PGG Radar Online LLC v. Federal Bureau Of Investigation Order on Motion for 
+Subject: FW: Activity in Case 1:17-cv-03956-PGG Radar Online LLC v. Federal Bureau Of Investigation Order on Motion for 
+FYI, Judge Gardephe granted our renewed summary judgment motion in the FOIA case in which the FBI withheld Epstein’s 
+Subject: Activity in Case 1:17-cv-03956-PGG Radar Online LLC v. Federal Bureau Of Investigation Order on Motion for 
+Case Name: Radar Online LLC v. Federal Bureau Of Investigation 
+FEDERAL BUREAU OF 
+Freedom of Information Act (“FOIA”), seeking records related to the FBI’s investigation and 
+Plaintiffs submitted their FOIA request to the Federal Bureau of Investigation 
+(“FBI”) on April 20, 2017. (Id.§ 10) Plaintiffs received no response, and filed this action on 
+the FBI agreed to begin producing documents at a rate of 500 pages per month. The FBI has 
+at which point the FBI asserted Exemption 7(A) to FOIA — the exemption for “records or 
+addressing next steps, including a proposed schedule for the FBI’s revised declarations and any 
+For the reasons stated below, the FBI’s motion for summary judgment will be 
+In support of its renewed summary judgment motion, the FBI submitted a revised 
+Record/Information Dissemination Section (“RIDS”) of the FBI’s Information Management 
+FOIA request to the FBI seeking “all documents relating to the FBI’s investigation and 
+(S.D.N.Y.), Indictment (Dkt. No. 2))) After the July 2, 2019 indictment, the FBI “began to 
+prosecution of Jeffrey Epstein and any related investigations.” (Id. | 7) The FBI further 
+In its September 19, 2023 Order, this Court granted the FBI summary judgment as 
+As to Exemption 7(A), this Court found that the FBI’s invocation of this 
+The FBI, however, “ha[d] not explicitly linked any of the document categories — whether 
+(Id. at 21) Asa result, this Court denied the FBI’s motion for summary judgment without 
+prejudice as to Exemption 7(A) because the FBI had not demonstrated that the disclosure of the 
+This Court also denied without prejudice the FBI’s motion for summary judgment 
+Finally, this Court denied without prejudice the FBI’s motion for summary 
+to submit a joint letter as to next steps, and to propose a “schedule for the FBI’s submission of 
+Supp. 2d 309, 314 (S.D.N.Y. 2012) (quoting Ferguson v. FBI, 1995 WL 329307, at *2 (S.D.N.Y. 
+The FBI again argues that all of the withheld records responsive to Plaintiffs’ 
+responds that the FBI’s declarations do not link any of the document categories to potential 
+harms. (Pitf. Br. (Dkt. No. 62) at 3-4) According to Plaintiffs, “[wJhile [the FBI declarations] 
+The FBI contends that “the records responsive to the FOIA requests withheld in 
+In previously denying the FBI summary judgment as to the applicability of 
+support of this request categorized the documents at issue inconsistently; and (2) “the FBI has 
+and withheld by the FBI into three categories: (1) “[i]nterview forms, reports and notes . . . of 
+communications within the FBI [and between the FBI and other agencies] regarding the 
+“information exchanged between the FBI and its local law enforcement partners”; 
+The FBI now relies on the First Seidel Declaration’s three “functional categories 
+Comey Declaration submitted in support of the FBI’s instant motion adopts the same 
+whether the FBI has linked these document categories to potential harms and explained how 
+As to the harm that would result from disclosure, the FBI notes that “the Maxwell 
+Accordingly, “public disclosure of the FBI’s records relating to the investigation and prosecution 
+As discussed below, in the FBI’s revised declarations filed in support of the 
+internal communications among investigators within the FBI providing updates 
+between the FBI and other government agencies regarding the investigation; 
+Materials and the Administrative Materials, the FBI states that disclosure would (1) impact 
+* In connection with its previous summary judgment motion, the FBI described the harm that 
+denying the FBI’s motion as to Exemption 7(A), this Court noted that “the FBI’s concerns 
+In connection with its current motion, the FBI states that “the harm the government is 
+Accordingly, the harm now identified by the FBI is not prejudice to the parties’ right to a fair and 
+In response, Plaintiffs renew their argument that the FBI has not linked the 
+“the FBI insists that these are simply the kinds of documents that would tend to cause harm if 
+revised declarations or the FBI’s current motion for summary judgment. (Id.) 
+The FBI has met that burden here. Unlike in its previous motion (see Summary 
+Judgment Order (Dkt. No. 51) at 22-23), the FBI has described the contents of each category and 
+category. For example, the FBI has explained that public disclosure of the 
+Seidel Declaration and the Third Comey Declaration — the FBI has adequately demonstrated the 
+The FBI has explained, however, that the exhibits admitted at trial “represent a 
+In connection with the instant FOIA application, the FBI has also reviewed responsive records 
+Id., 746 F.3d at 1098 (quoting Bevis, 801 F.2d at 1389-90). As discussed above, the FBI has 
+In connection with the harm element, the FBI has explained that the public 
+These paradigmatic harms are among the harms that the FBI now alleges would 
+Materials. While the FBI previously failed to link these potential harms to each document 
+category, it has now done so. There is no need for the FBI to further “particularize how the 
+potential interference with law enforcement proceedings,” id. at 24, and the FBI has thus met its 
+Here, the FBI states that it has reviewed responsive records on a “document-by- 
+(Second Seidel Decl. (Dkt. No. 58) at 2, 20-21). The FBI further represents that “to the extent 
+to the FBI, “[t]he media coverage of speculation and theories about Maxwell's association with 
+that the FBI satisfied its segregability obligation under FOIA by stating that it had “carefully 
+alteration in original)). This Court concludes that the FBI has satisfied its segregability burden 
+Federal Bureau of Investigation | New York Division 
+Federal Bureau of Investigation | New York Division 
+I am a Threat Intake Examiner (TIE) at the FBI National Threat Operations Center (NTOC) Unit where we 
+EE account , address called the FBI 
+oe] said that she has reported to multiple FBI offices before and they would get her information and 
+information can be drafted by the FBI NTOC upon request of the New York Field Office (NY). 
+I am a Threat Intake Examiner (TIE) at the FBI National Threat Operations Center (NTOC) Unit where we 
+nunbe  —l international address  «3!\ed the FBI National 
+information can be drafted by the FBI NTOC upon request of the New York Field Office (NY). 
+FBI New York Field Office 
+Federal Bureau of Investigation | New York Division 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FEDERAL BUREAU OF INVESTIGATION 
+Subject: FBINET to UNET Uploaded Files 
+Subject: FBINET to UNET Uploaded Files 
+agency. | have completed the parts I need to complete, but please make sure that the FBI 
+a. (questions 1-3) Please complete the full name and title of the FBI agent signing 
+b. (questions 4.2.-5.h.) include the name of the Head of the FBI and the address 
+for the FBI Office 
+a. Have the FBI agent sign, date and include his telephone and fax number 
+Federal Bureau of Investigations 
+10. FBI Number or SID Number (if applicable) 
+Federal Bureau of Investigations ‘ 
+NYPD / FBI 
+NYPD / FBI 
+>>> As per our conversation I've CC'd my partner J from the FBI. We look forward to 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Can | meet with the FBI in DC instead? 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Thanks for calling be back today. I've CC'd my partner in this investigation FBI Special Agent 
+NYPD / FBI 
+NYPD / FBI 
+Thanks for calling be back today. I've CC'd my partner in this investigation FBI Special Agent 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Cc: N. (NY) (FBI)" < 
+NYPD / FBI 
+To: HE. GM Ww. (NY) (OGA) <PWBYRNE@fbi.gov> 
+>>> As per our conversation I've CC'd my partner Mandy Young from the FBI. We look forward to 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Ce: N. (NY) (FBI) > 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Cc: P N. (NY) (FBI) < 
+Cc: N. (NY) (FBI) > 
+NYPD / FBI 
+Ce: N. (NY) (FBI) 
+Thanks for calling be back today. I've CC'd my partner in this investigation FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Can | meet with the FBI in DC instead? 
+>>> As per our conversation I've CC'd my partner Mandy Young from the FBI. We look forward to 
+Can | meet with the FBI in DC instead? 
+>> As per our conversation I've CC'd my partner Mandy Young from the FBI. We look forward to 
+NYPD / FBI 
+NYPD / FBI 
+Can | meet with the FBI in DC instead? 
+Ce: . (NY) (FBI) < > 
+Cc: . (NY) (FBI) < 
+NYPD / FBI 
+Cc: . (NY) (FBI) < 
+Thanks for calling be back today. I've CC'd my partner in this investigation FBI Special 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+>>> As per our conversation I've CC'd my partner [from the FBI. We look 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+> As per our conversation I've CC'd my partner i | from the FBI. We look forward to 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Cc: Young, Amanda N. (NY) (FBI) <anyoung2@fbi.gov>; Moe, Alison (USANYS) 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Can | meet with the FBI in DC instead? 
+Can | meet with the FBI in DC instead? 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Cc: Young, Amanda N. (NY) (FBI) <anyoung2@fbi.gov>; Moe, Alison (USANYS) 
+NYPD / FBI 
+Can | meet with the FBI in DC instead? 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Can | meet with the FBI in DC instead? 
+FBI New York Field Office 
+and Epstein that you could please send to me as soon as possible? | think the last ones we have from FBI are from last 
+FBI New York Field Office 
+FBI New York Field Office 
+and Epstein that you could please send to me as soon as possible? | think the last ones we have from FBI are from last 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+FBI - Denver Division 
+NYPD / FBI 
+NYPD / FBI 
+FBI - Denver Division 
+NYPD / FBI 
+NYPD / FBI 
+FBI - Denver Division 
+FBI New York Field Office 
+Subject: FBINET to UNET Uploaded Files 
+Nicole (NY) (FBI) 
+Ce: Clarke, Seamus F. (NY) (FBI) 
+FBI New York Field Office 
+and Epstein that you could please send to me as soon as possible? | think the last ones we have from FBI are from last 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI- HQ/New York Field Office 
+https://forms.fbi.gov/cast 
+FBI New York Field Office 
+FBI New York Field Office 
+FEDERAL BUREAU OF INVESTIGATION 
+Version 2.0 FEDERAL BUREAU OF INVESTIGATION 
+The collection of information on this form is authorized by 5 U.S.C. 301 (FBI authorized to create and retain agency records) and 28 U.S.C. 530C(b\(4) (FBI authorized to 
+13478 (Nov. 18, 2008). The information sought will be used by the FBI to process your request for an advance payment of funds or request for reimbursement for 
+processing of your request and may result in its denial. This information is maintained in the FBI Central Records System, Justice/FBI-002, a description of which can be 
+found at https»/go.fbinet.fbi/DO/OGC/LTB/PCLU/ PrvacyCivil™20L iberties020Library/Forms/FBI002.aspx. This information may be disclosed in accordance with the 
+Version 2.0 FEDERAL BUREAU OF INVESTIGATION 
+Version 2.0 FEDERAL BUREAU OF INVESTIGATION 
+The collection of information on this form ts authorized by 5 U.S.C. 301 (FBI authorized to create and retain agency records) and 28 U.S.C. 530C(b)(4) (FBI authorized to 
+13478 (Nov. 18, 2008). The information sought will be used by the FBI to process your request for an advance payment of funds or request for reimbursement for 
+processing of your request and may result in its denial. This information is maintained in the FBI Central Records System, Justice/FBI-002, a description of which can be 
+found at https~’/go.fbinet.fbi/DO/OGC/LTB/PCLU/ PrvacyCivil™20L iberties120Library/Forms/FB1002_aspx. This information may be disclosed in accordance with the 
+Version 2.0 FEDERAL BUREAU OF INVESTIGATION 
+FBI New York Field Office 
+Federal Bureau of Investigation 
+the FBI. One of those requesters, Angela Wang from Business Insider, submitted two requests in 2020 that sought the 
+exemption 7A because of the FBI's criminal investigation. Ms. Wang recently published an article (see link below) in which 
+FBI New York Field Office 
+Federal Bureau of Investigation 
+the FBI. One of those requesters, Angela Wang from Business Insider, submitted two requests in 2020 that sought the 
+exemption 7A because of the FBI's criminal investigation. Ms. Wang recently published an article (see link below) in which 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York 
+FBI New York Field Office 
+me know if I am missing anyone. Please carefully review the FBI agents to include case agents and agents 
+Subject: FBINET to UNET Uploaded Files 
+tigation (FBI). After 
+her.html&amp;data=04%7CO0 1 %7Canyoung2%40fbi.gov%7C8e566dc2c00844e5 9ce808d9ceb8 7 bec%7C0229 1 4a9b95 fab 
+Subject: FBINET to UNET Uploaded Files 
+and Epstein that you could please send to me as soon as possible? | think the last ones we have from FBI are from last 
+FBI New York Field Office 
+and Epstein that you could please send to me as soon as possible? | think the last ones we have from FBI are from last 
+FBI New York Field Office 
+and Epstein that you could please send to me as soon as possible? | think the last ones we have from FBI are from last 
+FBI New York Field Office 
+Attachments: FBI, Non-USAO Supervisor Concurrence Form (Epstein - Maxwell).pdf 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York 
+FBI New York Field Office 
+Specialist , and Victim Specialist of the Federal Bureau 
+Attachments: FBI, Non-USAO Supervisor Concurrence Form (Epstein - Maxwell).pdf 
+Attachments: FBI INVOICE 6-24-22 U.S. V. MAXWELL.pdf 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Iam a Threat Intake Examiner (TIE) at the FBI National Threat Operations Center (NTOC) Unit where we 
+resolves to , Submitted an online tip to the FBI National Threat Operations 
+Center (NTOC) via tips.fbi.gov, regarding allegations of murder of Jeffrey Epstein in | 
+or via email at A Guardian containing this information can be drafted by the FBI NTOC 
+NYPD / FBI 
+NYPD / FBI 
+NYPD / FBI 
+Event: In re Epstein: FBI ( ) Video Review 
+Subject: [EXTERNAL EMAIL] - In re Epstein: FBI (gg) Video Review 
+Event: [EXTERNAL EMAIL] - In re Epstein: FBI ) Video Review 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+Subject: FBINET to UNET Uploaded Files 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+FBI New York Field Office 
+she has a copy of the ovs/fbi form that she could send you. 
+| am still in need of an FBI Verification form for the above victim. We spoke briefly about her before. You were 
+FBI 
+FBI 
+the testimony last week. You also heard testimony from FBI 
+FEDERAL BUREAU OF INVESTIGATION 
+regarding International Travel requirements for FBI employees. 
+by travelers prior to official FBI travel overseas: 
+Intranet FBI webpages for Legat AORs and OIO operational units), 
+http://oio.fbinet.fbi/Deployments/. Multiple travelers can be 
+http: //secd.fbinet.fbi/iss/cpcleru/items_clearance.htm. One 
+environment of the FBI EC. 
+This document contains neither recommendations nor conclusions of the FBI. 
+It is the property of the FBI 
+The Federal Bureau of Investigation Miami Field Office (FBI Miami) is 
+FBI Miami believes MJ was working at a local resort when she was 
+with EPSTEIN. FBI Miami also has evidence EPSTEIN paid MJ and provided her an 
+apartment in exchange for sex. In addition to the accounts of travel, FBI Miami has 
+In 2008, FBI Miami conducted investigation which determined JJ was residing in 
+Accordingly, FBI Miami coordinated with the FBI Legal Attache Office in 
+GM sis believed by FBI Miami to currently reside at MM. Glenning 
+had engaged in sexual situations with EPSTEIN. Finally, Jj agreed to meet FBI 
+The AFP is respectfully notified that FBI Miami intends to fly two 
+regarding the investigation described above. FBI personnel may contact Jj via 
+telephone number of MM for final coordination of the interview. FBI 
+Australian Federal Police (AFP) advising of an FBI interview 
+regarding FBI agents conducting a further interview 
+FEDERAL BUREAU OF INVESTIGATION 
+FEDERAL BUREAU OF INVESTIGATION 
+The FBI mistakenly gathered information about her because stole her 
+MFBIHQ 
+FBI - VSD 7PM 
+| FBI - VSD 7PM 
+Victim Specialist FBI - NY ee ee ee ed 
+Special Agent FBI - NY 
+TFO (NYPO FBI - NY 
+FBI Victim Specialist 
+former Special Agent with the FBI and a former decorated Lt. Colonel and 
+Contact the FBI Laboratory / Operational Projects Unit at any time if you have additional questions. 
+occurred; an indictment by a grand jury; an indictment by a prosecutor from a court of competent jurisdiction; a report from the United States Federal Bureau of 
+FBI - Miami 
+CIFBIHQ [New Orleans (Ci Tampa 
+```
+
+---
+
+*Full extract: `03-FBI-RECORDS/extract-fbi-raw.txt`*

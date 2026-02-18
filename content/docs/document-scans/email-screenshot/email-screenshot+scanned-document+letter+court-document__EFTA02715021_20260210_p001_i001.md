@@ -1,0 +1,53 @@
+---
+source_image: "email-screenshot+scanned-document+letter+court-document__EFTA02715021_20260210_p001_i001.png"
+source_pdf: "EFTA02715021.pdf"
+method: pdf_text
+words: 546
+confidence: 1.00
+extracted: 2026-02-13T17:49:13.725068
+---
+
+From: 
+Connie Collingsworth 
+Sent: 
+Monday, July 21, 2014 10:00 PM 
+To: 
+jeffrey E. 
+Cc: 
+Connie Collingsworth; Larry Cohen 
+Subject: 
+RE: Update 
+Attachments: 
+PLR 200108012 
+IRC_Sec_s 
+170_2_23_2O01.htm 
+Jeffrey, 
+As we discussed last week, the outstanding issues primarily relate to the grey areas of the continuing level of influence a 
+donor is allowed to have over property (particularly stock) after it has been donated. As I mentioned, we are analyzing 
+this both from the legal and practical perspective. 
+We have learned there may be more latitude under the CA version of UPMIFA for a donor as it relates to disposition of 
+donated stock (versus NY). For example, the Silicon Valley Community Foundation (SVCF) has allowed a donor to include 
+rights to retain an investment as long as the donor agrees to relieve SVCF from any fiduciary liability if the donor decides 
+to retain the stock. CA law allows a donor to require a charity to retain some control over the investment, although 
+conversations with CA tax exempt counsel this morning indicated that this could have a substantial adverse effect on the 
+value of the donation. From a practical perspective, SVCF has not allowed this to be done. SVCF often works with 
+donors, in advance of a donation, to develop a liquidation strategy over time and will entertain donor advice regarding 
+sale of stock, but will not allow donors to have control over the sale of stock. 
+As to continuing voting rights, NPT says they will not allow this. SVCF has accepted a few donations of stock, but only in 
+situations where the donor had previously put their voting interest in a voting trust well in advance of the donation, for 
+a separate valid business purpose. (See attached Private Letter Ruling for an example of how this might work.) Again, 
+although a donor can offer advice, SVCF has not allowed a donor to retain voting rights as part of a structure donation. 
+We are continuing to consider other forms of Shareholder Agreements, as you suggested. The ultimate question may 
+be a practical one of how comfortable a donor will be that the Community Foundation will follow the donor's advice as it 
+relates disposition and voting when all the legal documentation will reflect that there is no obligation to accept the 
+advice. Your impressions on this question would be very helpful. 
+SVCF said that their experience is that risk tolerance for potential insider trading issues (including optics) when founders 
+and senior executives give stock and retain advisory or (in the case of Supporting Organizations) board representation 
+often depends on the issuer of the donated stock. Some companies have expressed strong concerns to the community 
+foundation about allowing donors be involved in any way about decisions of whether and when to sell stock. In these 
+cases, the donors choose to give their stock to a DAF, which then makes the decision about liquidation (with donor 
+advice but no participation). This is viewed as less risky than having the donor's representatives sit on the board of the 
+SO. SVCF also noted that some companies will allow donors to be on the board of the SO, but not on the investment 
+committee, so as to avoid creating any risk that the donor exercised any control (even as a minority board member). 
+EFTA_R1_02144006 
+EFTA02715021

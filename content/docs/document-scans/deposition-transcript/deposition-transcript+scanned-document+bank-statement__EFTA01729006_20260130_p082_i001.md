@@ -1,0 +1,312 @@
+---
+source_image: "deposition-transcript+scanned-document+bank-statement__EFTA01729006_20260130_p082_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 542
+confidence: 1.00
+extracted: 2026-02-13T16:53:14.577323
+---
+
+Page 
+lE 
+AcCOunt Nbvber: 
+Billing Date: 
+Mobile Nunbert 
+Nobile User: 
+Total Nobili:la: 
+AIRTIME AND /AND DISTANCE CHARGES 
+'te Date 
+Time 
+Length 
+City 
+of 
+CL No. Called 
+Called 
+P P Call 
+ 
+CHARGES 
+Air 
+Time 
+Long 
+Diet. Total 
+58 01/23 /2:11AM 
+PITTSB PA W 
+1 
+0.00 
+o.00 
+59 03/23 12:12AM 
+PITTSB PA 9! 
+77 
+0.00 
+0.00 
+60 03/23 01:29AM 
+PITTSB PA W 
+44 
+0.00 
+0.00 
+61 03/24 12:56PM 
+W PALM FL 
+1 
+0.00 
+0.00 
+62 03/24 12:579M 
+W DAIM PL 
+3 
+0.00 
+0.00 
+63 03/24 06:38PM 
+W PALM FL 
+1 
+0.00 
+0.00 
+64 03/24 06:399M 
+N PALM FL 
+4 
+0.00 
+0.00 
+65 03/24 08:23PM 
+W PALM FL 
+7 
+0.00 
+0.00 
+66 03/24 09:06PM 
+»mn CL w 
+4 
+0.00 
+0.00 
+67 03/24 00114PM 
+INCOMI CL N 
+5 
+0.00 
+0.00 
+68 01/24 09:19PM 
+W PAIN PL W 
+2 
+0.00 
+0.00 
+69 03/24 09:23PM 
+W PALt4 PL W 
+1 
+0.00 
+0.00 
+70 03/24 09:46PM 
+W PALM FL W 
+2 
+0.00 
+0.00 
+71 03/25 11:20AM 
+W PALK PL 
+2 
+0.00 • 
+0.00. 
+72 03/25 11:35AM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+73 03/25 12:06PM 
+W PAIN PL 
+1 
+0.00 
+0.00 
+74 03/25 12:09PM 
+W PAIN PL 
+1 
+0.00 
+0.00 
+75 03/25 12:09PM 
+W PALM FL 
+.5 
+0.00 
+0.00 
+/6 03/25 12:34PM 
+INCOMI CL 
+1 
+0.00 
+0.00 
+77 03/25 04:29PM 
+W PAIN PL 
+1 
+0.00 
+0.00 
+78 03/25 04:30PM 
+W PALM FL 
+1 
+0.00 
+0.00 
+79 03/25 04:34PM 
+W PALM PL 
+4 
+0.00 
+0.00 
+80 03/25 05:2O84 
+W PALM PL 
+4 
+0.00 
+0.00 
+81 03/25 05:2314 
+W PALM PL 
+1 
+0.00 
+0.00 
+82 03/26 11:16AM 
+INCOMI CL 
+4 
+0.00 
+0.00 
+83 03/26 12:36PM 
+/NCONI CL 
+8 
+0.00 
+0:00 
+84 03/26 12:47914 
+W PALM FL 
+2 
+0.00 
+0.00 • 
+85'03/26 01:39PM 
+W PALM FL 
+1 
+0.00 
+0.00 
+86 03/26 01:449M 
+W PALM FL 
+1 
+0.00 
+0.00 
+8/ 03/26 03:23PM 
+W PALM FL 
+1 
+0.00 
+0.00 
+88 03/26 05:219M 
+WPALMFL 
+2 
+0.00 
+0.00 
+89 03/26 06:43PM 
+INCOMI CL 
+2 
+0.00 
+D.00 
+90 03/26 09:14PM 
+W PAI24 FL W 
+2 
+0.00 
+D.00 
+91 03/26 10:09PM 
+W PALM FL W 
+2 
+0.00 
+0.00 
+92 03/26 10:29PM 
+W PAIN FL W 
+1 
+0.00 
+0.00 
+93 03/26 10:359N 
+INCOMI CL W 
+1 
+0.00 
+0.00 
+94 03/27 10:53314 
+PITTSB PA W 
+7 
+0.00 
+0.00 
+95 03/27 10:59AN 
+PITTSB PA W 
+15 
+0.00 
+0.00 • 
+96 03/27 11:15AM 
+PITTSB PA W 
+3 
+0.00 
+0.00 
+9/ 03/27 11:18AM 
+PITT80 PA V 
+1 
+0.00 
+0.00 
+98 03/27 11:19AM 
+PITTSB PA N 
+' 1 
+0.00 
+0.00 
+99 03/27 11:24AM 
+9IT786 PA W 
+1 
+0.00 
+0.00 
+100 03/27 01:49PM 
+PITTSB PA N 
+1 
+0.00 
+0.00 
+101 03/27 01:509M 
+9I1759 PA W 
+1 
+0.00 
+0.00 
+102 03/27 01:52PM 
+PITTS0 PA V 
+13 
+0.00 
+0.00 
+103 03/27 02:06PM 
+PITTSB PA W 
+64 
+0.00 
+0.00 
+104 03/28 12:07PM 
+PITTSB PA W 
+1 
+0.00 
+0.00 
+105 03/28 12:09PM 
+PITTSB PA W 
+1 
+0.00 
+0.00 
+106 03/28 12:10914 
+PITTSB PA W 
+1 
+0.00 
+0.00 
+107 03/28 12:12PN 
+PITTSB PA H 
+3 
+0.00 
+0.00 
+108 03/28 12:19PM 
+STEM MD W 
+2 
+0.00 
+0.00 
+109 03/28 06:17PM 
+PITTSB PA W 
+1 
+0.00 
+0.00 
+110 03/28 06:20PM 
+PITTSB PA W 
+5 
+0.00 
+0.00 
+111 03/28 06:26PN 
+PITTSB PA W 
+2 
+0.00 
+0.00 
+112 03/28 06:28PM 
+PITTSB PA W 
+26 
+0.00 
+0.00 
+113 03/29 11:01AM 
+INCOMI CL 
+2 
+0.00 
+0.00 
+EFTA01729087

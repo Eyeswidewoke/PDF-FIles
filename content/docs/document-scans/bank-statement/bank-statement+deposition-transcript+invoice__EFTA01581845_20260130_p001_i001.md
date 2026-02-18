@@ -1,0 +1,549 @@
+---
+source_image: "bank-statement+deposition-transcript+invoice__EFTA01581845_20260130_p001_i001.png"
+source_pdf: "EFTA01581845.pdf"
+method: pdf_text
+words: 800
+confidence: 1.00
+extracted: 2026-02-13T16:08:00.050811
+---
+
+Date: 
+9112006 to930. 2006 
+Fund: 
+lighbridge - Financial Mel Co. 
+Account Group: 
+Trade Date Cash 
+Detail Lad: 
+LOT 
+Journal 
+Date 
+Fund 
+Clr. Brkr. 
+Ch. Brkr. Acumen 
+Account 
+Poe 
+Dir 
+Symbol 
+Trx. Num. 
+DETAIL TRIAL BALANCE 
+Trade Date Cash 
+911/2006 so 91302006 
+Related Tue. Nun 
+Data/aim 
+liven 
+TYPc 
+Trx 
+11714
+QtY 
+Debit 
+Date: 
+Page: 
+User: 
+Credit 
+1016400 4:40:16PNI 
+3 of 5 
+alanlos 
+Balance 
+0917706 
+HOFF 
+CSFB 
+CSFB • !IBM' Futwas 
+L 
+14081867 
+CIF 
+PAY 
+0 
+1254.00 
+2,159,016.94 DR 
+Remarks: Enna:CLOSE 
+090706 
+III' 
+can 
+CSFB • I DIFT 
+L 
+14081868 
+CIF 
+REC 
+0 
+5.254.00 
+2,164,270.91 DR 
+Remarks: EventOPF.X 
+090706
+IMF!' 
+CSFB 
+CSFB • III3I7 
+S 
+OWN 
+14000551 
+TRD-SIR-11000 at 14.4344 
+1RD 
+SHY 
+41,000 
+158,721.32 
+2,322,992.26 DR 
+Remain: EventxEDOEsEDGEfigifOl Illockr_EDGE•EDGEfixf01 
+090706 
+HOFF 
+CSFB 
+CSFB - /WET 
+S 
+CNP.N 
+14000551 
+11W-SIR 11000 at 14.4344 
+TRD 
+SHY 
+11000 
+158,72132 
+2,164,270.94 DR 
+Rauarb: Punt EDOE•EDGEfroFG1 Blockr E.DGE•EDGEfix/FG1 
+090706 
+I WET 
+CS/73 
+CSFB - I MET 
+S 
+CNP.N 
+14000569 
+IRD-SFIT -1102 at 11.4822 
+TRD 
+SHY 
+4.102 
+59,381.59 
+2,223.65253 DR 
+Remarks: EverstzEDOPEDGEfix/FG1 Illockat EDOE•EDGEfixtfiG1 
+090706 
+mu' 
+CSFB 
+CSH1 - iron 
+S 
+CNP.N 
+14000569 
+TRD-SI IT 0102 at 14.4822 
+IRD sir 
+4,102 
+59,381.59 
+2,164,270.91 DR 
+Remain: EvcnIxEDOVEDGEfivfX31 Plockr_EDGE•EDGEfixtnil 
+090806 
+Iffil-T 
+CSFB 
+CSFII - 103FT 
+S 
+CNP.N 
+13907737 
+TRD-SFIT of 133968171 
+DIV 
+PAY 
+41.030 
+9.151.50 
+2.155.116.44 DR 
+09%04
+I Wig' 
+CSF13 
+CSFB • IIBET 
+S 
+CNP.N 
+13%7738 
+TRD-si rr of 101370.15 
+NV 
+PAY 
+4,000 
+1,200.00 
+2,153,916.41 DR 
+090806 
+Hon' 
+cam 
+can- turf 
+S 
+CNP.N 
+13907739 
+TRD-SI IT of 228802.10 
+DIV 
+PAY 
+-17.100 
+2.565.00 
+2,151,351.41 DR 
+0904% 
+I MFT 
+CSFB 
+CSFB • I 03FT 
+S 
+CNP.N 
+13907740 
+IRAS/ IT of 297089.59 
+DIV 
+PAY 
+49,800 
+2.970.00 
+1,148,381.11 DR 
+090806 
+10117 
+CSFB 
+CHM • I IBIrT 
+S 
+CNP.N 
+13907741 
+TRINSIIT of 172283.08 
+DIV 
+PAY 
+-14,030 
+2,10130 
+2,144276.94 DR 
+090806 
+FIBFT 
+CSFB 
+CSFB - IIBET 
+S 
+CNP.N 
+13907742 
+TRD-SFIT 0(57526.00 
+DR' 
+PAY 
+4.687 
+703.05 
+2.145.573.89 DR 
+0901/04
+HBFT 
+CSFB 
+CSFB - I RIFT 
+S 
+CIIPN 
+13907743 
+1RD-SHT of 45619.22 
+DIV 
+PAY 
+4700 
+555.00 
+2145,018.89 DR 
+090806 
+HB7-7 
+can 
+can • 1111F7 
+S 
+CNP.N 
+13907744 
+TRD-SHT of 26111.03 
+131V 
+PAY 
+-2.100 
+315.00 
+2,141,703.89 DR 
+090806 
+HBFT 
+CSFB 
+CSFB- IIBIT 
+S 
+orri.N 
+13907745 
+TftD-SHT of 64218.02 
+DIV 
+PAY 
+-5,000 
+750.00 
+2,143,953.89 DR 
+0908106 
+Ian 
+can 
+can - min 
+S 
+CNP.N 
+13907746 
+1RD-SHT of 52277.19 
+DIV 
+PAY 
+-1.000 
+600.00 
+2,143,353.89 DR 
+09%06 
+GIFT 
+CSFB 
+CSI•B - FIBET 
+S 
+CNP.N 
+13907747 
+TRD-SHT of 41787.02 
+DIV 
+PAY 
+-1100 
+465.00 
+2.142.886.89 DR 
+09%06 
+WHY 
+CSFB 
+CSFB-GIFT 
+S 
+CNP.N 
+13907748 
+TRD4Iff of 37704.48 
+DIV 
+PAY 
+-2,803 
+420.00 
+2,142,468.89 DR 
+090406
+iron 
+CSFB 
+csra-mwr 
+S 
+CNP.N 
+13907749 
+TRD-SHT of 60722.03 
+DIV 
+PAY 
+-4,500 
+675.00 
+2,141,793.89 DR 
+090806 
+FIBIT 
+CSFB 
+CSIB - IIDFT 
+S 
+CNP.N 
+13907750 
+TM-SHY of 34612.06 
+DIV 
+PAY 
+-2,500 
+375.00 
+2,141,418.89 DR 
+090006
+!mei 
+CSFB 
+CSFIDIMI7 
+S 
+OM.N 
+13890681 
+1RD-SIR of 2809408.48 
+DIV 
+PAY 
+45,950 
+11,187.50 
+2,129,93139 DR 
+0909104 
+MET 
+CSFB 
+CSFB -non 
+S 
+0.I.N 
+13890682 
+MD-SF/Tot 429217.35 
+DR' 
+PAY 
+-11000 
+1250.00 
+2,12468139 DR 
+091106 
+1 DDT 
+CSIB 
+CSIB - lmn 
+S 
+SWAN 
+14094630 
+TRD-SHT -2300 at 29.8071 
+TRD 
+SHY 
+-2,300 
+68,541.57 
+2,193,222.% DR 
+Rents: EvernFI)GVEDGEfigiFel Illockx_EDGE•EDGEfixtflill 
+0913106 
+Harr 
+cgs 
+cam-lion 
+S 
+CSXN 
+14082349 
+TRD-SIIT -300at 31.7929 
+TRD 
+SIR 
+-300 
+9.53192 
+2.204.758.88 DR 
+Remarks: GL:NB EvausEDGPEDOEfix/FO1 BlocksEDGE•EDGEfix/FG1 
+091406 
+liner 
+CSFB 
+CSFB - Hun 
+S 
+SWAN 
+14091630 
+TPJ)-SFIT -2300 at 298071 
+IltD SIR 
+-1300 
+68,541.57 
+2,273300.45 DR 
+Remarks: EvanxEDGE•EDGEB:OlfG1 Blockr_EDGE4EDGEfixilf01 
+091104 
+nun 
+CS/11 
+CSFB - iron 
+S 
+SWAN 
+14094630 
+TRD-SI IT 2300 at 29.8071 
+1RD 
+SHY 
+2.300 
+68,541.57 
+2,204.758.88 DR 
+Remarks: EventxEDGE•EDGEfixiMI Dlockr_EDGE•EDGEfix,F01 
+091506 
+HOFF 
+CSIB 
+csim-IIIWT 
+S 
+CSXN 
+13966810 
+TRD-S1 IT of 131065.86 
+DIV 
+PAY 
+-5.970 
+597.00 
+2.204.161.88 DR 
+091504 
+I BHT 
+CSFB 
+CSFB • I 03FT 
+S 
+CSXN 
+13966811 
+TRD-SI IT 01115703.85 
+DIV 
+PAY 
+4,300 
+430.00 
+2.201731.88 DR 
+OW1506 
+IIBIrT 
+CSFB 
+CSFB • lain 
+S 
+CSXN 
+13964812 
+TRD•SIIT of 59886.68 
+DIV 
+PAY 
+-2.440 
+244.00 
+1203.487.88 DR 
+09'1506 
+ruin 
+CSFB 
+CSFB - FIBFT 
+S 
+CSX.N 
+13966813 
+TRD-SIR of 54807.14 
+DIV 
+PAY 
+4,000 
+200.00 
+2.203.287.88 DR 
+09115104 
+lion 
+CSFB 
+CSFB • I ftwr 
+S 
+CSX.N 
+13964814 
+TRI1SI IT of69923.10 
+DIV 
+PAY 
+-2,000 
+200.00 
+2203,087.88 DR 
+0915,06 
+HMI' 
+can 
+can - ton-r 
+S 
+CSXN 
+13966815 
+TRD-RIT of 44882.82 
+DIV 
+PAY 
+1.940 
+194.00 
+2.202,893.88 DR 
+09115106 
+HBFT 
+CSFB 
+CSFB - HBI-T 
+S 
+CSX.N 
+13966816 
+TRD-SHT of 42889.93 
+DIV 
+PAY 
+4,880 
+18800 
+2,202,705.88 DR 
+0915106 
+ton 
+CSFB 
+CSFB - towr 
+S 
+CSXN 
+13964817 
+TRD-Rff of 34864.90 
+DIV 
+PAY 
+-1.508 
+150.80 
+2,202,555.08 DR 
+09115% 
+FIBFT 
+CSIB 
+CSFB-HBFT 
+S 
+CSX.N 
+13966818 
+MD-Siff of 42716.04 
+DIV 
+PAY 
+4.400 
+140.00 
+2.201415.08 DR 
+CRIS% 
+GIFT 
+CSI13 
+CSFB-GIFT 
+S 
+CSXN 
+13964819 
+TRD-SH f of 37503.03 
+DIV 
+PAY 
+-1,260 
+128.00 
+2202287.08 DR 
+091504 
+I IBFT 
+CS111 
+CSFB - I IBFT 
+S 
+CSXN 
+13966820 
+TRD-SIR of 41460.66 
+DIV 
+PAY 
+4.250 
+125.00 
+2.202.162.08 DR 
+091506 
+I ten 
+CSFB 
+Cat • FIBFT 
+S 
+CSX.N 
+13966821 
+712D-SFIT of 33727.06 
+DIV 
+PAY 
+4,000 
+100.00 
+2.202.062.08 DR 
+Copyright N2002-2005 interned Manses: Sperm. Inc. 
+Visual Portfoho Manager - SplServer 111:110128 
+Confidential Treatment Requested by JPMorgan Chase 
+JPM-SDNY-00061294 
+EFTA01581845

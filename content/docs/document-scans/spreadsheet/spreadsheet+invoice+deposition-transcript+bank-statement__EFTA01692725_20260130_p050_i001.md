@@ -1,0 +1,330 @@
+---
+source_image: "spreadsheet+invoice+deposition-transcript+bank-statement__EFTA01692725_20260130_p050_i001.png"
+source_pdf: "EFTA01692725.pdf"
+method: pdf_text
+words: 615
+confidence: 1.00
+extracted: 2026-02-13T17:15:23.778345
+---
+
+I X cingyjar 
+MO Wireless 
+&cast Mt 
+Amount Nana 
+Date of Invoice 
+Dozombor 12. 2004 
+Pop 10 ol 22 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+07 
+). 
+yy 
+Q
+LN 
+ 0) 70
+l2ff
+till!MO 
+at 
+2410 0
+N11W 
+01 SOP 
+21
+1 
+El 
+R00
+11Er 
+.. 
+0901 
+RIO 0966 
+2.410 0171 
+0 Olt 7 
+0 CM 
+01:1 
+211101:19 
+v11101:03 
+OSA2 
+VI 1 0104 
+NI 01 
+2/11 0623 
+ZIG  , 
+OS
+n to 
+r„,. 
+TOTAL VOICE USN1E 
+CurilltaXI 
+Or 
+O 
+Pimp 
+Cads To 
+0001 Rate OnceMPJat 
+44 
+on 0.40 
+IIIIWTES 
+Fl 
+1MA 60) 
+AWES 
+Fl 
+1IMP. 010 
+NV 
+40 040 
+1MI. 067 
+410 040 
+110 00 
+I MA 
+44 
+AIN 040 
+Al 
+INN QC ADC410141 MN 
+2001 COO .IOCITgMµ WRIT 
+1.0011010 11/WICHD MR 
+W
+I
+ 
+MN 
+i
+t
+ 
+WO.MTH WARNi MN 
+UNIATT 
+W
+ 10 
+JAN 
+MI6 FAT 
+III01007161. 
+WAWO IIINKNO IAN 
+MK 
+0111/744) 3.671040 MIN 
+IPS 
+61601E0 INVO(.40 MX 
+LAN 
+11.1441  /AWN IAN 
+WI 
+Wit WE IOWAN MIN 
+MN 
+Wu 'Mk WAIN OM 
+MAN 
+06.14ITE WW104 100 
+HAN 
+UMMITED WHOM WS 
+1:1,4 
+=UR 
+=RAJ: 
+1PAN 
+Um..NITE51.0.0046 MN 
+MAN 
+UNUVITED 36.0130 MN 
+/IMN 
+UN 
+UNUIITED KNOW MN 
+11 
+1 
+WAAGE! IAMIN MN 
+E
+UM.6411A, NWM1 MN 
+WAW 
+7)MNA 00 
+URPATE NWAS Mu 
+0 
+₹1 
+WON G. 
+1104 
+MASTED IW(%0 Mn 
+UNIAMTED MWESO MN 
+II Klax!ur IMF /1/6 MSC.:. It I: 
+114m 
+Ti,,. 
+Sent To/Rcvd From 
+471 
+11141 
+12 
+111S 
+61 
+7 11419 
+11.2.0 
+473106 
+11133 
+SIT; 
+1 4IA 
+I 
+t 
+1.310 
+61 3134401 
+01370 
+I 473.1441 
+TOTAL TEXIIMUETAEDIA ISO USME FOR 
+US MMARY OF CURRENT ACTIVITY - CONTINUED 
+:F 
+,. ['r idy !..k..T...:ce amps - C1111IIKNI 
+Ii Item Drattlon
+Unite Otte
+ICA LOCAL 030.93 
+1111204-12111/04 
+awl.  ii 
+6 
+6 DOMESTIC
+PAIr
+ LONG DISTANCE FRAISERVICE AREA 11/1V34 • 12/1104 
+82 li 
+7 DEUX MURIG 
+11/12.04 • 12/11/04 
+O 
+I THREE WAY CALLING
+141204 . 12/11/04 
+11/12634 • 12/1104 
+'• 10 REGULATORY PROGRAMS FEE 
+11/1301 -12/1104 
+:: 11 CALL FORWARDING 
+11/1204 • 12/1104 
+Total Monthy SonAce Clumps 
+0g. 
+Decriprion 
+N
+M= 
+UZI 
+SSACI NE ST 
+MESSAGES SEW 
+TOR 
+SSAGE SEW 
+r PAS514.1S 5 SEW
+05044 351NT 
+UMni3+ 
+al° I  I 171011111V Osage Charges 
+I. Item Deactlyko 
+is 
+1 UHL/OARED N/WKNO IAN 
+9 
+2 MESSAGE RETRIEVAL 
+. 
+S TEXT MESSAGES SENT 
+.. 
+6 CALL WAITING 
+t 
+3 UN UM WEL TO MOOT 
+I
+4 JO) ADM. ANYTME STN 
+7 INCLUCE0 hativrts 
+i
+: Taal Monthly Usage Clmers 
+i, EX icsi &It ..:7,:)-7I CIRINNIA 
+Rita 0400144/on 
+A 
+1 UNIVERSAL CONNECTMTY CHARCE 
+rd Tam Calmt S.-1b 
+Chinn 
+F
+a
+C:P
+S 
+4655 dims 13400plim 
+S' :•1:P.IC 
+et-inflTia I oers aril ITTAS 
+!I 
+I COUNTY91i TAX 
+2 FEDERAL TAX 
+thaw I! 
+3 LOG. 
+MA SERVICE TAX 
+r10
+H 
+4 STATE COM SERVICE TM 
+Il Tau Subscriber Ganantent ha atd Teas 
+18 i.
+▪ • j TOTAL %INF= FOR
+ii
+SUNTA1ARY OF CURRENT ACTIVITY 
+I
+1:....0.41y :.:. 4.2X7 Chilityld 
+Rom 01040 4040
+1 CAU.WARING 
+2 AT&T TEXT MESSAGING 
+3 GALLEON) 
+is 
+4 AT&T MICEMAIL 
+Sonele• Dias 
+1U12414 • 12,1104 
+11/1204 • lanum 
+14124.12/1114 
+11/1204 . 12/11/04 
+Choir 
+3603 
+010 
+0.00 
+Ci.00 
+0.00 
+1.19 
+41.44 
+Only Used 
+Cluny 
+1429 r1.11nR 
+0.00 
+0.00 
+MO, 
+200114 
+000 
+XO MN 
+EVE 
+000 
+13.40 
+000 
+214 IAN 
+000 
+1140 
+Charge 
+1.51 
+1.51 
+awns 
+0.50 
+1.10 
+309 
+An
+1197 
+60.33 
+DETAIL OF CURRENT ACTIVITY 
+!IS/Viz. I OR 
+Nair 
+i 4r One Them GUM 
+1 Ion 
+avow 
+0.03 In+ 
+1Y131 :1
+0.00 
+•
+S lint UM* 
+am  
+0.00
+t5 
+linz ottoA 
+11/120I.COA 
+Calls To 
+Oro 
+awy. 
+Used Rate 04.1cli ion 
+MAN 
+US
+ WWWRIAN 
+INN 
+WARTED eltAx30 MN 
+IMN 
+Ula.LITED UMW* MN 
+AC/1 El 
+2MN 
+Mu
+ESm
+SA
+ 
+TED KAMM MN 
+1 EVE 
+N 
+RETMENN. 
+WPALIMMACM FL 
+11/01 
+UMMIED rin
+ogeNLIN 
+V41004341.04G 
+MAN 
+WAR 
+WPALIMEAC/4 it 
+INN 
+UMM 
+TO MCM.. 
+Cham. 
+EFTA01692774

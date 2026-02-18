@@ -1,0 +1,48 @@
+---
+source_image: "legal-filing+deposition-transcript+court-document+affidavit__EFTA02710283_20260210_p003_i001.png"
+source_pdf: "EFTA02710283.pdf"
+method: pdf_text
+words: 525
+confidence: 1.00
+extracted: 2026-02-13T17:08:17.919893
+---
+
+You may receive customer service emails even if you have =equested not to receive email marketing offers from 
+American Express. =or details about our e-mail practices, please review the American =xpress Privacy Statement at 
+http://www.americanexpress=com/privacy. 
+See attached itinerary PDF or link for full terms and =onditions. 
+PDF itinerary attachment: 
+If you are unable to view the PDF attachment, ensure you have Adobe =crobat Reader. Refer to website below 
+to download and install this free =oftware. 
+http://www.ad=be.com/products/acrobat/readstep.html 
+Thank you for choosing American Express Centurion Travel Service and =ave a pleasant trip. 
+Please be advised that certain mandatory hotel-imposed charges, =ncluding, but not limited to, daily resort or 
+facility fees, may be =pplicable to your stay and payable to the hotel operator at check-out =rom the property. You may 
+wish to inquire with the hotel before =our trip regarding the existence and amount of such charges. 
+Liability Statement. American Express Travel Related Services =ompany, Inc. and its parent, subsidiaries, 
+affiliates and =epresentatives (collectively, "Amex") act as an agent for travel =uppliers and you understand and agree 
+that Amex shall not be liable for =ny loss, injury, expense or damage to persons or property resulting, =irectly or 
+indirectly, from (1) the acts of omissions of travel =uppliers, including but not limited to delays, overbooking's, 
+=ancellation of services, cessation of operations, accidents or failures =f equipment, or changes in fares, itineraries or 
+schedules; or (2) acts =f God, fires, earthquakes, floods, climatic aberrations, acts of =overnmental authorities, civil 
+unrest, strikes, riots, theft, disease, =ccidents or failures related to the public internet, telecommunications =ines or 
+facilities, or third party technology systems, or any other =ause beyond the control of Amex. 
+Intermediary Disclosure. Amex assists you in finding travel suppliers =nd making arrangements that meet your 
+individual needs. We consider =arious factors in identifying travel suppliers to you and recommending =pecific 
+itineraries. In this role, we are acting as an independent =hird party and not as a fiduciary. We want you to be aware that 
+certain =uppliers pay us commissions as well as incentives for reaching sales =argets or other goals, and from time to 
+time may also provide =ncentives to our travel counselors. Certain suppliers may also =rovide compensation to us for 
+various marketing and administrative =ervices that we perform for them, such as granting them access to our =arketing 
+channels, participating in marketing programs and supporting =echnology initiatives. In addition, we receive 
+compensation from =uppliers when customers use the American Express Card or other American =xpress products to 
+pay for supplier products and services. From time =o time we may enter into other business relationships with =uppliers 
+and these arrangements, including levels and types of =ompensation and incentives we receive, are subject to change. In 
+=dentifying suppliers and recommending itineraries, we may consider a =umber of factors, including supplier availability 
+and your preferences. =nbsp;The relationships we have with suppliers may also influence the =uppliers we identify and 
+the itineraries we recommend. 
+California State Seller of Travel Registration Number: 1022318-10. =ashington State Seller of Travel Registration 
+Number: UBIfl600469694. =nbsp;Rhode Island Registration Number: ML#1192; Nevada Seller of Travel =egistration No.: 
+NV#2001-0126; Iowa: WI 002 Registered Iowa Travel =gency. 
+3 
+EFTA_R1_02120882 
+EFTA02710285

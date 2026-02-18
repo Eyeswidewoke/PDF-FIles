@@ -1,0 +1,262 @@
+---
+source_image: "contact-list+bank-statement+scanned-document__EFTA01477926_20260130_p001_i001.png"
+source_pdf: "EFTA01477926.pdf"
+method: pdf_text
+words: 525
+confidence: 1.00
+extracted: 2026-02-13T16:04:34.104882
+---
+
+Paul Morris 
+GcisCustomerNumber 
+CustomerName 
+Account ► 
+Account Title - Long Name 
+AccountTitle 
+- Short Name 
+BookingCenter 
+AccountOpeningDate 
+AccType RM Name Sub GMT DomicileOfAccount 
+Domicile0fUltimateBeneficialOwner 
+CbvEurAsOfDec2015 
+FullYear2015RevenueEur SourceSystem 
+Code 
+BankNumber 
+ProductCode 
+ProductDescription 
+NameAddressl 
+NameAddress2 
+Name 
+Address3 
+NameAddress4 
+NameAddress5 
+NameAddress6 
+Accountld (Anonymized for Central Te 
+am Tracking) 
+00000483289 
+Epstein, Jeffrey 
+35266976 
+JEFFREY EPSTEIN DBTCA 
+9/12/2013 
+IND 
+Paul Morris 
+US Onshore 
+US VIRGIN ISLANDS 
+US Virgin Islands 
+1686792 15717 
+PBS 
+1 
+SNOW 
+NOW and SuperNOW Accounts 
+JEFFREY EPSTEIN 6100 RED HOOK QTR, B3 
+SAINT THOMAS 
+00802 
+UNITED STATES VIRGIN ISLANDS 
+12262 
+00000483289 
+Epstein, Jeffrey 
+35269691 
+JEFFREY EPSTEIN DBTCA 
+3/8/2016 
+IND 
+Paul Morris 
+US Onshore 
+US Virgin Islands 
+PBS 
+1 
+SNOW 
+NOW and SuperNOW Acc 
+ousts 
+JEFFREY EPSTEIN 6100 RED HOOK QTR, B3 
+SAINT THOMAS 
+00802 
+UNITED STATES VIRGIN ISLANDS 
+18580 
+00000487216 
+JEGE, LLC 
+42953475 
+Morris US Onshore 
+US VIRGIN ISLANDS 
+DDA 
+Deposit Transactions 
+JEGE, LLC 
+THOMAS 00802 
+UNITED STATES VIRGIN ISLANDS 
+00000487199 
+The 2007 Jeffrey E. Epstein 
+EPSTEIN INSURANCE 
+DBTCA 
+11/1/2013 
+lands 
+223 
+1 
+PBS 
+1 
+DDA 
+INSURANCE 
+TRUST ►3 DTD 11/01/2007 C/O 
+NEW YORK NY 10022 
+18613 
+00000487266 
+Mort, Inc 
+42959017 
+Morris US Onshore 
+US VIRGIN ISLANDS 
+DDA 
+Deposit Transactions 
+MORT, INC 
+2 
+UNITED STATES VIRGIN ISLANDS 
+18619 
+00000499760 
+Gratitude America 
+42959324 
+GRATITUDE AMERICA, LTD DBTCA 
+3/3/2015 
+LE 
+Paul Morris 
+US Onshore 
+US VIRGIN ISLANDS 
+US Virgin Islands 
+902 
+3 
+PBS 
+1 
+SNOW 
+NOW and SuperNOW Accounts 
+GRATITUDE AMERICA, LTD 6100 RED HOOK QUARTE 
+R, B3 
+ST THOMAS 00802 UNITED STATES VIRGIN ISLANDS 
+4132 
+00000499760 
+Gratitude America 
+44133251 
+GRATITUDE AMERICA, LTD DBTCA 
+3/3/2015 
+LE 
+Paul Morris 
+US Onshore 
+US VIRGIN ISLANDS 
+US Virgin Islands 
+8949086 1864 
+6 
+PBS 
+1 
+MMBA 
+Money Market Business Account 
+GRATITUDE AMERICA, LTD 6100 RED HOO 
+K QUARTER, B3 
+ST THOMAS 00802 UNITED STATES VIRGIN ISLANDS 
+6064 
+00000483289 
+Epstein, Jeffrey 
+680519 JEFFREY EPSTEIN JEFFREY EPSTEIN DBTCA 
+4/10/2014 
+IND 
+Paul Morris 
+US Onshore 
+United States 
+US Virgin Islands 
+91133 
+379 
+GPLU 
+S 
+1 
+CUSTD 
+Domestic 
+6100 RED HOOK QUARTER B3 
+ST. THOMAS VI 00802 
+1262 
+8 
+00000486423 
+Jaspers, Inc 
+N4G024935 
+JEEPERS INC 
+DBTCA 
+9/23/2013 
+LE 
+Paul 
+Morris US Onshore 
+US Virgin Islands 
+1595157 ADP 
+1 
+BROKA 
+Brokerage Advisory 
+JEEPERS INC 
+6100 RED HOOK QUARTER B3 
+ST THOMAS VI 00802 
+14217 
+00000486428 
+The Haze Trust N4G024943 
+THE HAZE TRUST DBTCA 
+9/23/2013 
+LE 
+Paul 
+Morris US Onshore 
+US Virgin Islands 
+40187786 
+4306 
+ADP 
+1 
+BROKA 
+Brok 
+erage Advisory THE HAZE TRUST UAD 02/09/99 
+JEFFREY EPSTEIN & 
+DARREN K INDYKE TTEES 
+6100 
+RED HOOK QUARTER B3 
+ST THOMAS VI 00802 
+7538 
+00000483289 
+Epstein, Jeffrey 
+N4G024968 
+JEFFREY EPSTEIN DBTCA 
+9/23/2013 
+IND 
+Paul Morris 
+US Onshore 
+US Virgin Islands 
+616682 3022 
+ADP 
+1 
+BROKA 
+Brok 
+erage Advisory JEFFREY EPSTEIN 6100 RED HOOK QTRS STE B-3 
+ST THOMAS VI 00802-1348 8738 
+For internal use only 
+JEGE, LLC 
+DBTCA 
+10/18/2013 
+LE 
+Paul 
+US Virgin Islands 
+213983 2110 
+PBS 
+1 
+JEFFREY EPSTEIN 6100 RED HOOK QUARTER, B3 
+ST. 
+3264 
+Insurance Trust 13 42953694 
+THE 2007 JEFFREY E. 
+LE 
+Paul Morris 
+US Onshore 
+US Virgin Is 
+Deposit Transactions 
+THE 2007 JEFFREY E. EPSTEIN 
+HBRK ASSOCIATES, INC 
+575 LEXINGTON AVE 4TH FL 
+MORT, INC 
+DBTCA 
+2/6/2015 
+LE 
+US Virgin Islands 
+2 
+32 
+PBS 
+6100 RED HOOK QUARTER, B3 
+ST. THOMAS 
+Paul 
+1 
+0080 
+EFTA01477926

@@ -1,0 +1,314 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p034_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 512
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.030827
+---
+
+it )ICCirlgUIE 
+/MT Wireless 
+Nvmn 
+Account Holm 
+A440044 a/ n 
+Date of Invoice 
+Enbnury 12. 2006 
+Par 14 of 14 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+VOICE IWO 
+I Ol 
+*abet 
+Mn Oslo Elmo Called 
+/411 OWN lOs in 
+700 O3p'IIYIiP
+770 Ors 1210P 
+771 Ob09 1221P 
+772 021a 
+773 .rra I? 24P 
+774 MP 01 11P 
+775. C.NEL 0 i MP 
+7/6 XLIDO 01 4. 
+I-7185;181Z 
+ill ay» 07,36P 
+730 0209 0 7 YELL 
+0GON OHD4P 
+782 ONDO OD MP 
+743 02.00 11.12P 
+7t. WO 1031A 
+WS. 02/10 1034A 
+D2110 11: 
+730 0700 1221P 
+720 031004 KV 
+OV101917o 
+4 n43 ow I itio 
+LIS 02/10 
+7% OEM IOW 
+OE] OE/101107P 
+CIM 0014.4. 
+310 
+oon 
+Eom 
+mI .A
+acs 11/1 
+FDF 0211 
+on OM 
+M
+O
+M 
+1110 M 
+Ill 02/1 
+iiiE 
+I EIE 
+Sit OM 
+019 OM 
+IZIT 
+It. 
+mop 
+SIN 
+0121P 
+OW. 
+LOA. 
+1133P 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+CoOrtiP1 
+EMILY 
+COMP 
+i VOICL USACEr ON,
+4444 To 
+OW Bab poscrlpilon 
+COWL. g lin DM rem Called 
+INPALMOIAC14 FL 
+VaNUm
+sa
+iD74/0004014,4 
+ionfle ta 
+if 100 02/11 11MP 
+Yt 
+ RE 
+V 
+ITOTALVEODE 
+CO 
+f l'XIIIIIL TIME DP% LI:VI!) rolf (561)310 90.111 
+Wm Dato 
+Tile 
+Sent TofRcvdEnfm 
+dory Dew opeon 
+1 OU13 
+2 01/13 
+.1 
+30113 
+1 
+14 ilOrA
+M114 
+WPAWW.C14 FL 
+WPALIMACW1. 
+1.01 
+rwi=m
+-11F1. 
+EMT 
+tVparl4F1. 
+MN 
+MN 
+POYELOOMCNIL 
+MN 
+F.4
+141 
+10 
+MM 
+MN 
+* .H. 
+MN 
+YrP  
+MIL 
+MN 
+VP.C.WEACHFL 
+IAN 
+VI21-..L.BEACI 4 FL 
+LoN 
+%WA...CACHE,. 
+MN 
+voGEMMACHILl 
+VALAWEACIMIL 
+M 
+MN 
+IN:CLANG 
+N 
+WA 
+ACNE/ 
+BOurriELEWE 
+MN 
+INCOLEAG 
+MN 
+VEIGL.WEACMFL 
+MN 
+EV1 
+014
+."
+II I. 
+MN 
+MN 
+MA 
+MN 
+Ev1 
+MN 
+MN 
+INN 
+EVE 
+ip 
+1•4 
+MI 
+levy 
+WPALOWAD1 EL 
+MN 
+WPALWEACIŠ Ft 
+WALWEACH Ft 
+VW;p1=
+NFL
+1:1: 
+MP/LW-ACMFt 
+IMAM 
+WYWOMOCI4 FL 
+IMOCSING 
+Mrt 
+FL 
+PL 
+ačwpč 
+INCIUDE011/1 
+MCIUDEO WOG 
+CALLWM/WM 
+INCRIDE 0 NINUTES 
+INCLUDED WNUTES 
+UNUM MOIN. T01.00. 
+UNUM WM. TO MCO. 
+Min2
+IIIerriš 
+Ilkt.Eut4Tigilit t
+ACIUDED MUTE} 
+ACWDED moUroD 
+:NCLU 
+0 rRI
+ 
+MINUTES 
+FI A IL"
+i NCLUO 
+D LDAMmay ItS 
+ES
+I
+INUT
+UNUM WC TOSACEIL 
+I;RSSELlik7751 
+1.11(..11.1 WOK l'a:a 
+1$1:044 WS. TON031. 
+.,A.Il
+litETRNA,4741EVetz: 
+...WNW i 
+PINIXNEMI4 
+laUlill 0 OlINVI MN 
+INUNITED OINAINC WI 
+WUW1ED NAME MN 
+UNUMTED NOME MN 
+1.441111 MOM TOWEL 
+MESSAGE NETErvel 
+INCLUDED MUTES 
+INCLUDED MINUTES 
+INCLUDED &MUTES 
+p, , 
+,,,,,,,,„.„,,,
+z,,,..,_ 
+INCLUDED m 119(
+UTTS C
+N4CtuDEO MNUTES 
+CALL wAsroo 
+:eau i2 il
+l 
+INCIUDEO kiNI 
+MUNI WIC TOWEL 
+MESSAGE EFTA EvAL 
+Maki 
+ITES
+IRIS
+EC 
+01.40EG 
+UN,ANT LONINEw LAN 
+MESTA AMR tVLA 
+uroWn' 0 nWIGIDIAIN 
+1.n.nifTED ow/kw 
+11 
+.14 Sfra 
+45 0 1 PA 
+4oS CAM 
+47 
+MIA 
+LiT.4101 
+114# 
+1297A 
+122A 
+(41; 
+03EIP 
+12331. 
+8113; 
+04A1A 
+3054* 
+Cells To 
+ILDEL SESSOCES SENT 
+'EFT MESSAGES Wil 
+TEXT MESSAGES SEW 
+t 
+MRIZ433N1 
+; 
+a`.4i 
+!TRI
+M 
+miewA8
+S.SPOFEIS ISOSIT 
+In
+TFILass.,
+-za
+ri wig 
+TEXT WSSWES SENT 
+TENT MESSAGE{ 
+MI V:211 
+mcss.fots 
+TWIT 
+S WIT 
+fLYf 
+MIME 
+Erg 
+COIEDIAILD I 
+Only 
+CDorgo 
+Us00 
+Mato Domilptkm 
+Chen. 
+:NFL  
+?MN 
+IPANITED NNEKNEImm 
+0.10 
+010 
+010 
+0.19 
+0.10 
+410 
+0.10 
+of 
+oio 
+0.10 
+0.11
+ 
+1
+0.1. 
+0.10 
+01
+el
+&IS 
+&IS 
+0.,0 
+0,:0 
+co 
+920
+0.10 
+010 
+0.1. 
+0.10 
+EFTA01692808

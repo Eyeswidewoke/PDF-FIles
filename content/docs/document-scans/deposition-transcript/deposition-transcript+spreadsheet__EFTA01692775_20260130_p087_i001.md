@@ -1,0 +1,501 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p087_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 826
+confidence: 1.00
+extracted: 2026-02-13T16:57:01.046301
+---
+
+cingular 
+Account Number 
+Accountli
+kaite 
+Date of Invoke 
+July 12, 2005 
+Page 14 o116 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+1DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VI /ICE USAGE rap- 
+Callinal 
+VOICE USAGE 1Ok 
+147.79DOT 
+Number
+MID 
+GSM* 
+km Date Time Galled 
+Gas To 
+U.S Rat* Dosalption 
+Mime 
+Omni Dillo Time COM 
+W rat glig 
+XVI. 
+FL 
+WI 
+scalp ...Ai 
+• it RI linT 
+j
+ gal: 
+NN
+W, 
+INCE.
+A01 n. 
+MIN 
+MEV MNJTES 
+4411 NM MOM 
+Mt= a 
+MN 
+MCLU
+NJTET 
+lay 
+MIMI 
+MITIMEI IAN 
+r0 
+MESS.° 
+ 
+REAROYAL 
+1/ Sr/14 10111 
+viliAJTIMACII FL 
+MN 
+Lit,MITED WirmAl Am 
+giin  
+FL 
+MN 
+WEAVED WMPI MN 
+MN 
+/ 15.1.120 wenv4 MN 
+Pi 021
+1
+12726A
+M
+M 07/36010A 
+Ms 01/04 10.150 
+WPA....01M04 FL 
+MN 
+usuIliTE 0 Nhviml MX 
+0 
+491 14:4 11040 
+01) 07414 10500
+ Yl 
+I 01/04 Moir 
+It 07.04 10 4co 
+Ft 
+IAN 
+tOraTTO nIMEND MN 
+10. 
+IMN 
+&WWI!) WM..* MN 
+i 
+W. Ei26.1;
+"
+MT 07,04 11 ATP 
+69) 0575I II MP 
+9% 07/04 11A60 
+694 01/04 11140 
+WPALLIMAGH FL 
+IAN 
+EixEMTED SNOW Mk 
+90VITTOMIGH FE 
+MAN 
+WILIMI CD pimp MA 
+0000MIG 
+LMEWORTNEL 
+MAN 
+VIIVIRTED NAIKNO MN 
+L 
+MN 
+Willa TED PrAMMINik 
+DAN 
+USUMTED 145111VI MA 
+ig gElis 
+yq 
+752 07/361XLIM 
+441 gist illu 
+ALM 
+f I. 
+AIN 
+1.1111MTED /IMM0 Mk 
+DAN 
+MGM( 
+IMVIOr NM 
+MN 
+MGM! 
+WrOVII IAN 
+IMN 
+WILMItg NEWIEN MN 
+i 
+764 07106002SP 
+763 07/360214P 
+I (Yr 
+WE ..MAGL RETRIEVAL 
+I 
+75007/1602/19 
+700 07M5 DDT) 
+WOAMMEA04 FL 
+1MN 
+On WOE TOMO.. 
+/Ng= 
+101 ONCI Oil 
+1EVT 
+VESSAGE REMOVAL 
+ig V- Nil 
+wirALMEACII el. 
+I MN 
+V MVOS. TOlia. 
+311 =11111 
+104 07/09 02.150 
+VI Z I/1=11 
+vVEN/MEAGN FE 
+Imo 
+1.0.1 in& TO 
+;MN 
+%TA 
+Vinci" 
+DAN 
+ISCUGEO 1AMT 
+Id 
+— 
+740 a i 
+iot gums 0.2170 
+90VNTON904 Fl. 
+20/90 
+c451.VDEO imorTES 
+744 01060909P 
+101 OMS 04.422 
+WILLAIMP424 FL 
+INN 
+UMW NOM TO NOEL 
+1 
+746 comma. 
+707 0707 04.44 
+4M-14 
+INGO/ 
+ip., g 
+IOU 
+WE/ 
+RETRIEVAL 
+705 07061)9240 
+70I 0 MS ort4 1 
+100 97/05 MI4P 
+lia 07/0 M570 
+TIAN 
+WW1 
+MIN 
+INGLUDO) WOO 5 
+IMN 
+Mall 
++malt 
+71 m 
+ill iii 11
+00g".
+714 0MT 0904 
+it t 
+:lila 
+lujil eam
+itliniTED
+as  vo
+ltI010141044
+11 
+vsPAEME.404 FL 
+IMN 
+WILIAMITO OWEN MN 
+715 OVM 00.31P 
+Laczeni
+ACOMP3 
+a  
+MON 
+UNEESITIO IIM1040 MN 
+il if,F. I0 17o 
+Mo...Yetial rE 
+727 OM I 
+Slit lup 
+ON 0 
+Mt 07746 10000 
+7210106 11100
+10
+724 ii. 17a. mg
+„6440 Ili; 
+b. Ea I
+I 1 SIZ Nig 
+0745 1134P 
+11 
+IL 
+IL 
+54O1M 01 YA 
+zzzatiln. 
+WIMCM 
+ri. 
+711 0]/0611}1P 
+13 
+737 07/05 11.46P 
+F 
+738 07705 I Intli 
+WPALIMEACH 
+an
+IIIE 
+MI 
+SUE18=302 
+MINYr 
+Witg? 
+PPM 
+WPA,MEACIMIL 
+2 MIT 
+1.00.041120 
+Lisia WOM X n 
+LATE WORTII FL 
+MN 
+MLOATLEr = 
+NM 
+LIMON110 
+WV/. wilFACHFE 
+NW 
+LOIMITISO NAM 
+LNCE WORTH 
+VirlY/MMACH LF  
+DM 
+we 
+nois 
+MaffiR
+us: 
+115 Wail k 
+VIDI 
+TIN 
+0 WIMEDIMI 
+MN 
+4/.. ym
+NISO'DNAMMI MN 
+NFL 
+1411 
+M 
+blitran 
+w
+lwols
+ 
+ION 
+Mel 
+UN 
+0 NµWWWF 
+M 
+‘1314LIIIT 
+166  
+NW 
+ION 
+44/4 
+tm 
+MI 
+VT 
+MC 
+12 
+Al 
+1MN 
+UN 
+WkIMtI VII 
+MN 
+V 
+7 
+NW 
+WI 
+14.4 
+UNLIN- 40. WM( 
+NM 
+IIIIIIII 
+i71 0706041 
+g
+3;1 23 1
+11 int 
+i
+l 7. 07.07 1 Mri 
+i 77607070334A 
+810 SENO 
+7M 07070301P 
+li Tells 
+) 
+0707 Is. 
+3g te77, g 
+1 705 074705103 
+i 
+I 
+gm; cg3j 
+i 
+0707 
+797 0701 043ii: 
+79707.0709 
+fi  070 7 0941 
+4370 1 
+T 
+MI 03517. 
+11 8123 IV
+18
+21/.
+7 
+0707 10 
+3i Sa; ig 
+• 
+1.7011121MG 
+OnGI 
+Miorge 
+GMIS TO 
+Used NAM DOscription 
+WIOALM6EA01a 
+Mi 
+EPIEWTE2NAMODO I/M 
+USEIIMEONAMOMILM 
+EY! 
+UN 
+EMMY p TIMI1011.04 
+MN 
+UVENIT 
+MVP, IAN 
+ENEMY 
+101004 MN 
+IAN 
+WILNITTO riNixr4D MN 
+dr, 
+U10.03)15010401AN 
+MT 
+141.5 
+kLGOEVAI. 
+EPILMT 
+W010401471 
+MN 
+itu. mi ED .„„ams 
+:t ,A, u.. YON. TO 
+1.0.0010 MCIU12$ 
+11 
+MN 
+ISCU104.0 14240125 
+MOW WOE TOMMIE 
+EVT 
+LESS.402 REMOVAL 
+MN 
+INCLUDED MNUTES 
+MN 
+ihaLIDED NAUTES 
+MN 
+I.I WOK TOMMIE 
+Ea 
+AG 
+TRIEVAL 
+Inn 
+.7„g 
+!nal 
+FE 
+FL 
+WPAUNMACH FE 
+90MT0NIGN FE 
+Wo
+ff
+e.th:: 
+FL 
+I MN 
+ISM 
+M 
+jiw 
+SIM"
+IL 
+fa 
+8,730881 18 
+vow. 
+"It M 
+:wawa 
+ver
+y,  a 
+Y0ALL~.INIIR 
+#W 
+WPALIMPACH 
+IMO 
+INOCIANG 
+MEN 
+irth 
+217P
+WPW014 
+00•01TOMMIEL 
+DOVNTO/004 41. 
+114111 42, 
+INOMMIG 
+/11 
+1:LYTEr l: 
+i
+. 
+• 
+InGEUD OM 
+i 
+IMO 
+Into/ 
+MUT S 
+reelr
+ea
+(D MT°
+iftiarakti 
+MUM 
+WPM MN 
+UAMT 
+t yk
+e  2
+...no ISWKIlip KIN 
+GHENT/WI/MOM MA 
+MEOWED NWIGM lin 
+UNMATED NA51010 IIIN 
+ITICAMEDUINJTES 
+Tear 
+MOMITES 
+NOLL 0 WOJIts 
+MIL 
+D mNUTES 
+MEG 
+0 MMJTCS 
+MCI.CDED MINUTES 
+TKLVDED ?MUTES 
+MAN 
+WANT 
+NONFig OM 
+gialalg1M 
+MAUD 
+MIOJTV5 
+004/770 
+FE 
+WEN 
+iliti. M. 
+itiVel4V MN 
+ir....4,i 
+eft 
+AIN 
+uNt. min o MVP/ MK 
+NIN 
+UM Mat Mao ITN 
+IIIN 
+UM AI 
+MOM, MN 
+WO 
+Fl. 
+NIN 
+ONE 
+IIMICV MN 
+a
+Ti‘T 
+0 a.. 
+ION 
+Marall 0 NW/ 
+MN 
+11. 
+MP 
+UNLAMEL)Rmtv MN 
+NM 
+Mann 
+*AVM MN 
+. 
+TI tai:Ag 
+FL 
+NM 
+UN 
+WPM 
+il FL 
+IMI 
+UN 
+14W4740 IAN 
+AMINO MN 
+FL
+MI 
+1M 
+/SWING MN 
+EFTA01692861

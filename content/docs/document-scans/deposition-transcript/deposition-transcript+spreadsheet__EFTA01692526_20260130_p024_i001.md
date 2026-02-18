@@ -1,0 +1,312 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692526_20260130_p024_i001.png"
+source_pdf: "EFTA01692526.pdf"
+method: pdf_text
+words: 516
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.766980
+---
+
+4 4 . 
+St CingLit
+erinr
+Account Number 
+Date of Invoice 
+AugLst 18. 2005 
+Page 7 of 8 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR 
+Mamba 
+Mini Date Time 
+'REES 
+91019100.1111 
+39 MVO MOP 
+C 03/10C4MP 
+Citr0 cam 
+42 Ca/7111M 
+43 913' 1 7214P 
+44 
+r• 
+45 NC I 
+46 WI 02 
+47 /di. 034:0 
+IS °Ill 0141P 
+49  
+0 (9/1 
+COM 12124 1P 
+V.
+54 vC4/1:02910 
+a= 
+91 MIT 029T• 
+SO an2014)19
+M MI 2 014t0 
+62 CAM OLOLP 
+311/120.495
+94 MI204519 
+1/101/1 
+06.19P 
+10 OEM 053919
+&Mg% 
+73 ten/ 004111
+74 31/5 2 OS 419 
+4MP= 
+>7; MN= 
+A Cal 3 02.3199
+9) 09130100? 
+II CAM 12.419 
+40TO 
+g 
+itig 
+it WI (1.129 
+E
+ 
+Zrii Si az 
+ft 
+ft 06.1E 'ENV 
+MAINZER°, FL 
+C 
+To 
+wo 
+CCWILWIled 
+Only 
+Charge 
+Used Rate Maddened 
+(*Nip 
+FL 
+1.1 
+%wain JorLI:04 0 keit 
+IL 
+ti) 9/ .1;0(0.191WS 
+(VT 
+PRE 
+AG it' 
+"' V "
+a. 
+MN 
+WPA19.43EACH Ii. 
+W 
+550090 NCLUDED WM 
+NM 
+SHARED MOO TO NOEL 
+11191 
+591411.0 NCLIJOLOMN5 
+EVT I LO III 9910 
+Vol
+SIMINO KEIL To vitA 
+me 
+punt° mu* 
+MN 
+3/94.9 0 N119.19.5 
+INN 
+1)0J, .E ,A, ....., 
+MN 
+HU ' 
+il.,,
+ %PS 
+NM 
+MAR 
+L 0 MOM. 
+IAN 
+5449 0 
+TO 1.1081 
+MN 
+SHAKO 9.0.LIDEOMMS 
+MN 
+(MANZ 19(20MNS 
+MN 
+WNW t.M. 
+MO% 
+[VT 
+K' 
+REIN VAL 
+MN 
+(MAR 
+N 
+OWNS 
+1 Mt 
+0 Ian 
+SHAKO WOOL TO WOOL 
+SNARED WOOL T WOOL 
+vl  
+i s ?L 'ef gr"2
+f 0 WOOLTO WOK 
+NV. 
+D MN( 
+RETVAL 
+E Vigi. ear 
+starmacr-
+tul D rot 
+0 PANS 
+ANSE 26ReVAL 
+TS 
+4
+ TOINCEk 
+ED. 
+L1041)M7/5 
+SmARED MOM. TO WM 
+SyMyW
+MED WOOL E,N0
+NS
+34. 
+M 
+SMAR(D WOOL TONG& 
+59/ARED WOOL TONGS.
+SHAT WOOL TQ.a
+„4,,,, Cr MOIL TO 
+>mAft V ,44/117AVLL91.‘13
+CMItt9g 'N' 214171.,Ha AD 
+IVESS.40111ETRJEVAL 
+SNARED 1/4/41,NEEKEM) 
+SNARL° NCHTMEEKENO 
+94911910/4F-MEENEM) 
+=
+CVIALWIgeL 
+Saar> INC.1.1DTD MNS 
+m
+eR v 90 5 T 0.95/04
+i 
+NIAR 
+NcL 
+Dm, 
+ti} 
+Duo 
+NAL 
+0 MN 
+MA 
+.:AL 
+0M94/ 
+SIM 
+9. LI. 
+D An 
+41. 1%214432 41
+SMART FL 
+p Fi
+x
+ 
+p. 
+rt. 
+SirliPA 
+H
+%1/4-lre
+t
+WM/Mad 9r. 
+%Mal 
+FL 
+STUART 
+91. 
+T a 
+WPA.L9MENCH 
+WPAL1413EP.C11 Ft. 
+V 
+YartMil 
+FL 
+vii1ALmet...c14 Pt. 
+INPN.N0EACH FL 
+eti
+jar CHFL
+TUIR•
+V/PALKBEACH FL 
+9.9:04.994 
+WPAhmerACHPL 
+WPALIMEACHPL 
+wrAmms MM 91. 
+Itigat 
+STUART FL 
+STUART IL 
+1s94111
+n ORCH FL 
+WPALNIMACH FL 
+zzals.c. FL 
+atm 
+FL 
+WPALLM
+OMP9 EACH FL 
+INC
+G 
+WPALAMEACH FL 
+WPAIAMEACti FL 
+w941./490.01 
+1.1.4=12.1 
+MN 
+MN 
+MN 
+MN 
+Mk 
+EVT 
+MN 
+IAN 
+Mkt 
+MN 
+EVY 
+MN 
+VT/ 
+MN 
+MN 
+MN
+/AN
+I MN 
+IMN 
+2101 
+I MN 
+I AN 
+/MN 
+MN 
+ilAN 
+111111 
+1 EVT 
+VAN 
+7/AN 
+IMN 
+3/AN 
+IAN 
+im94 
+I /AN 
+Imo/ 
+MN 
+FL 
+MN 
+I IAN 
+1 MN 
+I COT 
+IM 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE FOR a 
+Continued 
+nabob. 
+CONY 
+C99999
+Mem 
+Thr0 
+teas Ye 
+Used Rio Description 
+111 
+Mt 
+=MOOR 
+MN 
+194 Nil) 1166.4 
+11M3 lbw 
+IMP 
+0M7 
+MI OYI705220 
+205 OWI706,23P 
+TOTAL VOICE USAGE FCM 
+STUART W. 
+=M1 
+WOW* 
+WPMAMEACH FL 
+MfgIL
+fL
+FL 
+on
+MN
+MN 
+MN 
+MN 
+94N 
+MN
+/AN
+Charge 
+103 
+WPA1MS 
+YIP" 
+EFTA01692549

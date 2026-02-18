@@ -1,0 +1,529 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p070_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 909
+confidence: 1.00
+extracted: 2026-02-13T16:57:01.001508
+---
+
+I .7: cing91ar 
+Account Number 
+Account Name 
+Date of Invoice 
+June 12. 2005 
+Page 14 of 16 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+ ri DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICF MAGI. la 
+COMMUGII 
+i!
+Numb,. 
+Mom DMA Time Galled 
+am 040101.10O 
+Coes To 
+ay 
+Charge 
+UMW PM. DascriptIon 
+Big 
+.€8.Z gi 
+32
+WPALIJASAG11 VI 
+VOA. We/EACH FL 
+1MN 
+:RIM 
+IMIUT
+MNUf
+V 
+1MM 
+8.22 (61013453? 
+923 (6.03 07S4.,
+MGcatreG 
+APALIMEAGN FL 
+]MM 
+jrGII9gEittl.jrrtg 
+1MM 
+114GLUD 
+IANVIIS 
+821 060) 073 /P 
+ViPALIMEAGN FL 
+!MN 
+NGLUDEO MINUTeS 
+8/ S 0603 COSIP 
+INFALUSEAGH Ft 
+ma 
+NGLUDED MINUTES 
+NM C61)) 4014 
+Iin C4b) 
+COP 
+WPALIMEMOGIAL 
+WPA118811.a4 GI. 
+INN 
+MAN 
+;la 8 :121:gE2 
+Lit il 3181,2 
+as.7 c 0 MOM 
+all C 60) 0000P 
+Zee 
+NOMA 
+M. 
+WA: so th 
+N11 
+1MIN 
+IMP 
+ININ 
+IAN 
+..44.0 
+ML.:1 81tN i 
+D WWI S 
+KM 
+1 
+MN 
+Sr C603 WISP 
+WOKAIRFACIN /I 
+NM 
+r
+833 CEJ33 0928P 
+VIPMAISEACAl FL 
+IAN 
+h3111 riZet tr 
+83/ C8.03 092? 
+WPAIAMEACJI IL 
+IMN 
+MIMEO NNW"' MN 
+Mc “0,I9x-ie 
+81W20 M.W0•0 VIN 
+94 C6,3) 094 w 
+INCGVANG 
+11AIN 
+WHITED ILWW) IAN 
+ius Cala? 0944/ 
+Oh CW03 t0,131/ 
+42=1212: 
+MN 
+MM 
+NIANIi /4,W,./i0 tin 
+KVA 
+NW4.649 IA r. 
+813 4603 tl A 
+KGOWRIll 
+WYNTONI30411. 
+INN 
+INN 
+YAW 
+HAVOC /AA 
+KIPATC0 1WellelAP, 
+nil C601101 
+NI? C69I Ihte 
+g0111'21 
+00YNTONSCH FL 
+r e. 
+tr€24a
+MN 
+IAN 
+= 
+WM ILD Nireignip IA, 
+NI RATFO NWOIO UM 
+ty/1
+91118 11=8 'Z.
+ENT 
+ASAGE RETRIEVAL 
+al: 222 SIM 
+WPALYREAGN 
+WPMAMEAGN Ft 
+MN 
+MN 
+UMPIITED WANK. MN 
+LIALIVIIE0 6/VAMO MA 
+Sg12 
+INGLANNG 
+MEW 8010 NY 
+MN 
+MN 
+UPON MU Ni
+ IAN 
+UsPacrti T
+wit 
+N,W,CAD NN 
+Cf.04 
+1411 
+WON 
+MN 
+U 
+t4.1McliQ %IN 
+850 06.04 
+WPALVVAGN FL 
+Mel 
+UtONI1 
+IAN 
+EVT 
+_NAVtliU 
+lifSSMPEREIMEMA 
+Erci 0601 
+WPM/I/REIGN 
+2MW 
+UMPNIE0 NAWAO LIP 
+ER? 0604 
+VII 0604 
+WPALIMES 
+WVAINe 
+91. 
+MN 
+MN 
+UMINIE0 MOM IAN 
+UNINVITED NN/4M Leh 
+0604 104P 
+WPAINIKACH a 
+M11 
+UMPIRED 644200 MN 
+am 0604 
+It.r-n 
+04P 
+'33f; 
+wp
+WC 
+eat:E. a
+ZMN 
+MN 
+VAUNTED NAVOIC IAN 
+LIMINUE0 NAV4NG UP 
+gni 
+WP MAI 
+1114.011% NINANU I AN
+,„,; OM I1 tip 
+WPAIMREAGN It 
+UMW 
+VIT
+IditraG 
+Utak( 
+NWIND MN 
+22: '4:4 nic 
+II/COM/Kt 
+WPAIMIGACII FL 
+MN 
+MN 
+UPWTEC NW4110 /AN 
+UtAAVITtQ NM:QD NN 
+„„ 0604 01364 
+VIA1/4 1413EACH IL 
+IAN 
+UtailITCU NAVOil) NN 
+EVT 
+IMESSMIE 
+A? DWI 
+N 
+WPALLMEAGN FI 
+MN 
+VALUATED WIYOIO Mil 
+OtION CO249 
+WPAVANEACM 
+MN 
+UMINFIE0 WW4JMD IAN 
+III OW/ 01114? 
+WFMAMEACH FL 
+MN 
+UNLININCI /1/44040 MN 
+k1 OIAV 22; 
+NI 
+bl.11441EIPZ 
+mM
+N " 
+:2; 2= MC 
+yo
+taF mtg
+i : 
+WPALM 
+R. 
+MP 
+MN 
+JMJN1T 8.9 NON 
+Mn
+414)118 MD NM 
+IAN 
+3A O6G MIS 
+WPALWMAGN FL 
+VAAL/AU 
+Ft 
+ItIll 
+griESTEB.1:7,4322 
+G&C4 01),IGIP 
+130114TGAEOGM FL 
+INN 
+UAUNITIED WI/045 IAN 
+WANmpEACm Ft 
+INA 
+INIUMTED NAINCIIMA 
+kit 
+NIGGLING 
+Z/ZWS= 
+MAN 
+ir 2 
+U/WWI 
+illNiMN MM 
+VOW,* ILL Nintri IA h 
+UNUNITCG Weroleal 
+8760604 19.46e 
+N)06011013? 
+WA= 
+R 
+VIP 
+MA 
+JOJWIAC NAVIN ION 
+MOE 
+NONXN NM 
+e78 0601 11.31 
+INCOMING 
+NAM 
+atuitivciWitaNC YN 
+479 0601 0412A 
+WAWA/PACs. FL 
+MIA 
+MAIIIITE0 NAMING 2/16 
+1EVT 
+MESSAGE RETRIEVAL 
+Glwg• I/ 
+OSACir rILR 
+Numb./ 
+4.44 NM Tom 
+02 Oh 
+It 
+M4 MR 1 
+H MU 46 
+01 
+I. 
+IN Mt>, MOW 
+ji 
+864 OLOS 01,ne 
+21:5 06%0'109 
+. 
+WI 06050131P 
+, 30 of,f. 0135. 
+4 Cron 02COP 
+4 tr.,' `4.:32 
+9 4.1 "Ilif ono? 
+4122 04rA 0101P 
+p 
+rb g 
+gra. 
+ns 
+as; 
+WA WM 0/18P 
+jl 
+207 0/05 0710P 
+0496 0/141,
+IPA GUM 0714P 
+1131. 
+, 
+£11:82 
+S
+y  
+06q OlwM 
+Es 0.91 Ol 
+11 
+1 
+P 
+I: h'Ikuslitli 
+Ill OMNI MM. 
+916 010140:44P 
+tin OUX 0123P 
+MMP 
+1'4: 
+It 
+A 
+IMAM 0119P 
+ts,E 04)2e 
+ar; 
+'1 WEIS 
+E 
+' 
+63903.1)•02109 
+540 
+ORM 
+01111:11 /CA 
+Orly 
+Cheer 
+Gals To 
+Uwe Rap Dosc44444 
+YePAOrt 
+Ft 
+la 
+Minna) /Wear 
+VIP ALM 
+Achill 
+(MIMI1~M 
+NN 
+WPM.. 
+AGM VI. 
+WONT 
+WOW MIN 
+INCONIX 
+31/IN 
+WIN*. II, 
+MN 
+viPALIMEASH ft 
+1hr. 
+UN‘Att
+swr4 
+MN 
+ViPAILIRFACM FL 
+1 M 1/ 
+UNL 
+11091091 IAN 
+?PALLY/EACH FL 
+2911 
+UMM 
+%NANO Mel 
+WINALJAIMAal el. 
+I ma 
+141,4` PAT 0 WV/MOWN 
+INN
+II~
+ 
+LII1PAN lift:MAID PAN 
+OMNO 
+RCM NT 
+I Mli 
+RNLI( 
+RAMO MN 
+RNA 
+UNI.M1 
+IINANDIAN 
+104.0 
+UNINOTtO /iNeKNO IAN 
+INI4 
+UN,Ikii 
+%WSW IAN 
+L....N:1R
+ I* 
+AZT 4=3 il 
+INN 
+UNWAT 
+N/WaD Ian 
+AIIIPEACI 1 ft 
+I 
+UMANITONAMOM MN 
+MNSEACH FL 
+UNMET° kM1(NO WI 
+AUOMAGN 81 
+NG 
+UN MATO) NAYRNO IAN 
+MOATS() atvxim IAN 
+NCCAAIK 
+UNLII:TlitgVSNO IAN 
+UNUIAT 
+N,WANO MN 
+VCPMNIMAGN Pt 
+ry  I/AAGAIRL 
+V.A
+MP/AI/WAN FL 
+VOMINOL AGM FL 
+MG,MAN0 
+VANCT:0281;Z 
+iNG9tANG 
+INGO/ANC 
+WPALVE€AGN Ft 
+WPALNIMAGN FL 
+WPAINKACil it 
+WPALNUEACIA Ft 
+WPALIMPACII FL 
+WPM WE 
+FL 
+fffail 
+WPALMEGAGN Ft 
+VOMLNURAGN AL 
+8400/ANO 
+yOAINKAGN Fl 
+\VPT ;X= 
+R .
+V:14.‘ Mal 
+BOYMOMOGN 111, 
+heAVANN 
+ZZ
+AIISCP1 FP. 
+Wr/411C4ACH Ft 
+MSC 
+'ION 
+tic 
+MM
+IIIIM 
+I
+NEW 
+014111 
+Mk 
+MIN 
+YM
+YN 
+Er 
+YN 
+ION 
+MA 
+MA 
+IAA 
+WA 
+NO. 
+NA 
+Nem 
+YM 
+KIN 
+CUT 
+IM 
+104 
+101 
+MIN 
+AIN 
+NM 
+MAIM 
+NWRNO 
+°dolma 
+: wanD pm 
+• 
+faCe, TO WINK 
+MESSAGE PETRrvx. 
+ntak,ao NIMJ- ES 
+li:181,21E N n
+i
+t 
+IYCLU& lAria! S 
+140443"40 NW/ 
+1.40.UXI) IonifitS 
+UNIUNIAOM TO Wel 
+INQUIZED PIMP° 
+ISCLUXID tAhlrE 5 
+L.Nt1W11109110 WOK 
+WESSAGS PE- REVAL 
+uttupD NW.°la
+S 
+ws 
+PriatvAL 
+uuti 
+11 /MOM) VNI 
+LINLIMT 
+MINIM/ IAA 
+WORM/ . WAIN MA 
+uNulliTC ILYMNMN 
+NQ USED Valu'ES 
+-1014 SE() AMUSES 
+vauSED NNUIES 
+1c3.... xi, IA NirtE.5 
+,E.1,:3fp IAN:EFS 
+IRILIM MO& TONGA 
+el'Ar
+MQVT=
+IP, 
+gag 
+rItitt gi 
+WILDA Ilea TO We,. 
+LOW IANUTE5 
+" 
+%%It
+M• al' 
+AMINO MN
+ MN 
+invon 
+MAMIE° 141421010 VN 
+I
+VN 
+NCLUXD LOAJTES 
+INCLUDED MPAISES 
+Charge 
+EFTA01692844

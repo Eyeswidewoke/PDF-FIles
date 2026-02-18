@@ -1,0 +1,339 @@
+---
+source_image: "deposition-transcript+bank-statement+spreadsheet__EFTA01694767_20260130_p057_i001.png"
+source_pdf: "EFTA01694767.pdf"
+method: pdf_text
+words: 535
+confidence: 1.00
+extracted: 2026-02-13T16:20:22.428137
+---
+
+Call Detail 
+a 
+ACCOUNT mUMM1R: 
+Number 
+Rota Rate Fee- 
+03/17/2005 
+Airtime 
+LO 
+Total 
+Item Day Dater 
+Time 
+CL 
+Called 
+Call To Kin Code Pd ture Charge 
+DA 
+Charge 
+1 Sat 02/05 11:268K 
+IAMI, 
+1 IIRP2 
+RW 
+0.00 
+2 
+02/0511:27PM 
+LAMS, 
+2 NRP2 
+MI 
+0.00 
+3 Wed 02/16 12:08AM 
+CL 
+1 NRP2 
+IRW 
+0.00 
+4 
+02/16 12:25AM 
+1 itliP2 
+RN 
+0.00 
+5 
+02/16 12:25AM 
+ACOI4I CL 
+1 MRP2 
+IRK 
+0.00 
+6 
+02/16 12:00PM 
+IAMI 
+2 MRP2 
+R 
+0.00 
+7 
+02/16 12:03PM 
+AMI 
+1 HRP2 
+R 
+0.00 
+8 
+02/16 12.29PM 
+A1(1 
+2 HRP2 
+R 
+0.00 
+9 
+02/16 12:39PM 
+MK 
+i HRP2 
+R 
+0.00 
+10 
+02/16 12:39PM 
+IAM1 
+2 MRP2 
+R 
+0.00 
+11 
+02/16 01:57PM 
+11111 
+2 HRP2 
+R 
+0.00 
+12 
+02/16 01:58PM 
+1 HRP2 
+R 
+0.00 
+13 Fri 02/18 10:22AM 
+IANX 
+2 WW2 
+R 
+0.00 
+14 
+02/1810:24AM 
+TAMS 
+1 IMP2 
+R 
+0.00 
+15 
+02/18 10:40AM 
+CL 
+2 lOW2 
+IR 
+0.00 
+16 
+02/18 11:13AM MI 
+PALM PL 
+3 MRP2 
+0.00 
+17 
+02/18 11:37AM 
+IAMI, 
+1 MRP2 
+R 
+0.00 
+18 
+02/18 11:37AM 
+'MM. 
+5 MRP2 
+n 
+0.00 
+19 
+02/18 11:42Am 
+, 
+1 MRP2 
+R 
+0.00 
+20 
+02/18 11:52AM H• 
+PALA FL 
+1 HRP2 
+0.00 
+21 
+02/18 11:52AM M• 
+PALM FL 
+1 HRP2 
+0.00 
+22 
+02/18 11:56A14 N• 
+NCOMI CL 2 MRP2 
+I 
+0.00 
+23 
+02/18 12:30PM M• 
+PALM FL 
+1 HRP2 
+0.00 
+24 
+02/18 12:36PM M• 
+PALM PL 
+1 HRP2 
+0.00 
+25 
+02/18 12:36PM .• 
+•NCOMI CL 
+4 HRP2 
+I 
+0.00 
+26 
+02/1812:581114 
+1MCO:41 CL 
+1 HRP2 
+I 
+0.00 
+27 
+02/18 01:09PM 
+PALM FL 
+1 MRP2 
+0.00 
+28 
+02/18 03:19PM 
+KOMI CL 
+5 FIRP2 
+I 
+0.00 
+29 
+02/18 05:36PM 
+ICE 
+CL 
+1 HRP2 
+0.00 
+30 
+02/18 05:43PM N• 
+PALM FL 
+3 IIRP2 
+0.00 
+31 
+02/18 05:50PM o 
+INCONI CL 
+2 HRP2 
+I 
+0.00 
+32 
+02/18 05:57PM 
+INCOMI CL 
+1 HRP2 
+I 
+0.00 
+33 
+02/18 06:052K 
+INCOMICL 
+2 HRP2 
+I 
+0.00 
+34 
+02/18 06:06PM 
+PALM FL 
+3 HRP2 
+0.00 
+35 
+02/18 06:13PM 
+'MOWS CL 
+1 HRP2 
+I 
+0.00 
+36 
+02/18 06:26PM 
+mu( a 
+I }inn 
+0.00 
+37 
+02/18 06:35214 
+INCOMI CL 
+4 WW2 
+I 
+0.00 
+38 
+02/18 06:41214 14
+PALM n 
+1 1CRP2 
+0.00 
+39 
+02/18 07:15PM M 
+MOM! CL 
+1 HRP2 
+IW 
+0.00 
+40 
+02/18 07:16PM M 
+W PALM PL 
+2 ØP2 
+W 
+0.00 
+41 
+02/18 07:43PM M 
+W PALM FL 
+6 MRP2 
+K 
+0.00 
+42 
+02/18 07:53PN 14
+INCOMI CL 
+2 1022 
+IW 
+0.00 
+43 
+02/18 08:17PH M 
+K PALM PL 
+3 IM.P2 
+K 
+0.00 
+44 
+02/18 08:25PN 
+JUPITE FL 
+1 HRP2 
+W 
+0.00 
+45 
+02/18 08:26PM M 
+INCOMI CL 
+1 HRP2 
+ZW 
+0.00 
+46 
+02/16 09:00PN M 
+INCOMI CL 2 HRP2 
+ZW 
+0.00 
+47 
+02/18 09:02PN 
+W PALM PL 
+1 HRP2 N 
+N 
+0.00 
+48 
+02/18 09:36PN M 
+INCOMI Cl. 
+1 HRP2 N 
+SW 
+0.00 
+49 
+02/18 09:37PM 14
+N PALM n 
+1 Hui N 
+W 
+0.00 
+50 
+02/18 09:38114 N 
+N PALM FL 
+3 HRP2 N 
+W 
+0.00 
+51 
+02/18 09:41POI M 
+N PAL« FL 
+3 HRP2 N 
+W 
+0.00 
+52 
+02/18 09:45P11 M 
+INCONI CL 
+2 HRP2 N 
+1N 
+0.00 
+53 
+02/18 10:14PM M 
+INCONI CL 
+1 NRP2 N 
+IN 
+0.00 
+54 
+02/18 10:30PM M 
+N PALM FL 
+1 IMP2 N 
+H 
+0.00 
+55 
+02/18 10:31PM 
+K PALM FL 
+7 HRP2 N 
+N 
+0.00 
+EFTA01694823

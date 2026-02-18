@@ -1,0 +1,115 @@
+# 👤 Nadia-Raw
+> **Category:** Key Individuals
+> **Source:** `01-NAMES/extract-nadia-raw.txt`
+> **Lines:** 86
+> **Generated:** 2026-02-12T11:11:59
+
+## 🏷️ Tags
+`people` · `nadia-raw` · `trump` · `epstein` · `maxwell`
+
+## 👥 Cast Mentions
+
+| Person | Mentions |
+|--------|----------|
+| [Epstein](../cast/profiles/epstein.md) | 3 |
+| [Trump](../cast/profiles/trump.md) | 1 |
+| [Maxwell](../cast/profiles/maxwell.md) | 1 |
+
+## 🔑 Keywords
+
+`New York`
+
+## Full Extract
+
+```
+known as the Canadian Mounties of your body. 
+studying massage, in a peaceful, laid-back Canadian city, Toronto may be 
+Vancouver. This three-year program costs $25,000 Canadian dollars, which 
+Canadian Mounted Police). 
+Q47: If a Canadian government official is to be deposed or interviewed, provide name, title, and 
+Q48: If INTERPOL, Canadian law enforcement, or another Canadian authority has cleared the 
+visit or if Canadian authorities are otherwise prepared to cooperate, explain in detail including 
+names, titles, and telephone numbers of the Canadian contact(s). 
+Marcus in a joint venture of Ares Corporate Opportunities Funds III and IV and the Canadian Pension Plan 
+and Clayton/Sull Crom client NITE. Urban also on the BoD of money laundering shell: Pakastani/Canadian pot 
+money laundering shell: Canadian/Pakastani/pot/COVID: FSD Parma: HUGE. Trump advisers/campaign staff 
+Canadian Who Tried to Join Terror Group in Syria Released from Prison Despite Being ‘High Risk to Public 
+FAA Fit. Standards | Manufecturer Maintenance Organization ersons Approved by Canadiar 
+FAA Fit Standards : = Person Approved by Canadian 
+FAA Fit Standards : = Person Approved by Canadian 
+FAA Fit Standards . at Person Approved by Canadian 
+FAA Fit Standards Person Approved by Canadian 
+FAA Fit Standards Person Approved by Canadian 
+FAA Fit Standards a Person Approved by Canadian 
+FAA Fit Standards Person Approved by Canadian 
+FAA Fit Standards P ee Person Approved by Canadian 
+FAA Fit Standards Person Approved by Canadian 
+FAA Fit Standards : Person Approved by Canadian 
+FAA Fit Standards , Person Approved by Canadian 
+FAA Fit Standards . —_— Person Approved by Canadian 
+FAA Fit Standards , Person Approved by Canadian 
+F. it Standards Person Approved by Canadian 
+FAA Fit Standards Person Approved by Canadian 
+FAA Fit Standards Person Approved by Canadian 
+FAA Fit Standards . Person Approved by Canadian 
+FAA Fit Standards : Person Approved by Canadian 
+FAA Fit Standards Person Approved by Canadian 
+FAA Fit Standards . : Person Approved by Canadian 
+FAA Fit. Standards » Persons Approved by Canadian 
+FAA Fit. Standards » , eas Persons Approved by Canadian 
+FAA Fit. Standards » , , Persons Approved by Canadian 
+FAA Fit. Standards : : Persons Approved by Canadian 
+CANADIAN TYPE APPROVAL E-11, FAA TYPE CERTIFICATE E2S5EA. 
+Extremist groups ‘actively recruiting’ military and police, Canadian intelligence report warns 
+declassified Canadian intelligence report obtained by Global News. The report cited 17 examples in Canada, the U.S., 
+violent extremism and uniformed personnel." Six of the cases involved members of the Canadian military or reserves... It 
+contained in the Canadian 
+This confirms that the following aircraft was removed from the Canadian Civil Aircraft 
+Canadian Civil Aircraft Register website: 
+This confirms that the following aircraft has never been enterec! on the Canadian Civil 
+Institute of Health; the Canadian Government; the City University of New York; W.T. Grant Foundation; 
+Mehlman-Orozco, Kimberly B. (2()18). Invited Trainer on Human Trafficking for the Canadian Police 
+College Human Trafficking Investigator's Course, Royal Canadian Mounted Police and Halifax 
+How is Contact Known: this is the person who owed the Serbian- Canadian 
+I was living in NYC tn 2002-2004 and was introduced to Jeffrey Epstein by a Canadian woman who at the ume 
+Maxwell. The woman. | CY us un uspiring French Canadian model und a close triend of Jelfrey Epstein. 
+is expected to seek the release of two Canadians similarly detained 
+The U.S. authorities are investigating Peter Nygard, a Canadian citizen, and other co- 
+embarrassment is no ground for non-disclosure (Canadian Broadcasting Corporation v The Queen (2014) 
+cational Resources Information Center, Canadian Research 
+Joye.nadiad—w 33 A ayy yO aunaeu 
+Journal of the Canadian Academy of Child and Adolescent Psy 
+representative sample of adults from Quebec. Canadian Journal of 
+T., ... Cloutier, R. (2005). Canadian incidence study of reported 
+maltreatment. Canadian incidence study of reported child abuse 
+(2009b). What Canadian youth tell us about disclosing abuse. 
+of Canadian youth, they found that young people used a range of disclosure 
+Ungar M, Tutty LM, McConnell S, Barter K, Fairholm J. 2009b. What Canadian youth tell us 
+e A Canadian court said sending asylum seekers back to the U.S. 
+proceed and to Canadian producers wanting to move more oil across the 
+Canadian Mounted Police). 
+Q47: If a Canadian government official is to be deposed or interviewed, provide name, title, and 
+Q48: If INTERPOL, Canadian law enforcement, or another Canadian authority has cleared the 
+visit or if Canadian authorities are otherwise prepared to cooperate, explain in detail including 
+names, titles, and telephone numbers of the Canadian contact(s). 
+THE GUARDIAN: https://www.theguardian.com/world/2020/dec/15/peter-nygard-canadian-fashion-mogul-arrested 
+CTV: https: //winnipeg.ctvnews.ca/canadian-fashion-mogul-peter-nygard-arrested-in-winnipeg-1.5231922 
+GLOBALNEWS: https://globalnews.ca/news/7522991/canadian-fashion-mogul-peter-nygard-arrested/ 
+C. Relevant Canadian case-law 
+73. Section | of the Canadian Charter of Rights provides that the Charter 
+eighteen. Before making the extradition order the Canadian Minister of 
+Canadians. The factors favouring extradition far outweighed those that did 
+Wellington and the Canadian Supreme Court in Burns and Ferras (see 
+assistance can be derived from the approach taken by the Canadian Supreme 
+Canadian Charter on fundamental justice and not the Charter’s prohibition 
+paragraphs 53 and 61 respectively and the Canadian case of Burns, at 
+Huawei Exec Granted Bail By Canadian Judge 
+A Canadian judge granted bail on Tuesday to a top Huawei Technologies Co. 
+‘mistake.’ Then in Ottawa, Canadian Prime Minister Justin Trudeau said 
+A technology company has dropped DLA Piper's Canadian arm and two 
+Associated with Subject’s SSN, Canadian White Pages, Email Addresses, Marriage Records, Divorce Records, 
+```
+
+---
+
+*Full extract: `01-NAMES/extract-nadia-raw.txt`*

@@ -1,0 +1,311 @@
+---
+source_image: "bank-statement+deposition-transcript+scanned-document+invoice__EFTA01729006_20260130_p011_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 593
+confidence: 1.00
+extracted: 2026-02-13T16:08:04.197367
+---
+
+Pogo 
+1/ 
+AIRTIME AND LONG DISTANCE CHARGES 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile Deer: 
+Total Mobiles: 
+CHARGES 
+. Length 
+City 
+or 
+Air 
+Long 
+Its Date 
+Tine 
+CL No. Called 
+Called 
+F P Call Time 
+Dist. Total 
+6S6 01/33 11:17PM 
+657 01/23 11:19PM 
+658 01/23 11:21PM 
+659 01/23 11:49PM 
+660 01/23 11:55PM 
+661 01/24 12:09AM 
+662 01/24 12:13AM 
+663 01/24 12:1084 
+664 01/24 12:15AM 
+665 01/24 12:17AM 
+666 01/24 12:21AN 
+667 01/24 12:22AM 
+668 01/24 12:24AM 
+669 01/24 12:25AM 
+670 01/24 12:28AM 
+671 01/24 12:31AM 
+672 01/21 12:33AM 
+673 01/24 12:38AM 
+674 01/24 12:39AM 
+675 01/24 12í50A11 
+676 01/24 12:50AM 
+677 01/24 12:51AM 
+678 01/24 12:52AM 
+679 01/24 07:25AM 
+680 01/24 10:12AM 
+601 01/24 10:14AM 
+682 01/24 02:30PM.
+603 01/24 09:00PM 
+684 01/24 09:04PM 
+685 01/24 09:24PM 
+606 01/24 09:25PM 
+687 03/24 10:34PM 
+688 01/24 11:19PM 
+689 01/24 11:24PM 
+690 01/24 11:27PM 
+691 01/24 11:45PM 
+692 01/25 12:13AN 
+693 01/25 12:19AM 
+694 01/25 02:19ÁM 
+695 01/25 02:06AM 
+• 696 01/25 03:58AN 
+697 01/25 09:59AM 
+' 698 01/25 10:19AM 
+699 01/25 10:29AM 
+700 01/25 11:11AN 
+701 01/25 11:47AM 
+.702 01/25 22:02PM 
+703 01/25 12:07PM 
+704 01/25 12:26PM 
+705 01/25 06:48PM 
+706 01/25 07:27PM 
+707 01/25 08:43PM 
+708 01/25 09:11PM 
+709 01/25 09:14PM 
+710 01/25 10:23PM 
+711 01/25 10:24PM 
+PALM PL N N 
+PALM PL N N 
+NCONI CL W N 
+NCONI CL N N 
+PALM FL N N 
+PAIN FL W N 
+PALM FL N N 
+PALM FL N N 
+PALM FL H N 
+PALM PL N N 
+PALM PL N N 
+PALM FL W N 
+CAL CI W N 
+PALM FL N N 
+PAIN PL N N 
+PALM PL N 
+PALM FL W N 
+11COML CL W N 
+PALM PL'W N 
+W PL W N 
+PALM PL N N 
+PALM PL W N 
+N PL NN 
+ICE CL W N 
+NCOMI CL W N 
+NCC04/ CL W 
+OICE CL W N 
+PALMFL14N 
+PALM PL W 
+PALM FL W N 
+NCOMI CL W 11 
+NCOMI CL W N 
+PALM PL N 
+PALM FL N N 
+CAR PL W 11 
+NCCMI CL W N 
+NCOMI CL W N 
+NCOMI CL W N 
+NCOMI CL W N 
+OICE 
+W n 
+PALM FL W N 
+PALM FL W N 
+NCOMI CL 14 N 
+PALM FL W N 
+NCOMI CL N N 
+OICE CL W N' 
+NCOMI CL W N 
+NCOMI CL W N 
+DICE CL N N 
+NCOMI CL N N 
+NCCMI CL W N 
+PALM FL. W N 
+NCCMI CL W N 
+NMI! CL W N 
+NCCMI CL W N 
+PALM FL N N 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+4 
+0.00 
+0.00 . 
+1 
+0.00 
+0.00. 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 ' 
+2 
+0.00 
+'0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+11.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 ' 
+2 
+0.00 
+0.00,
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.0D 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+8 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+EFTA01729016

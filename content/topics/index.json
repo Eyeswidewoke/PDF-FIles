@@ -1,0 +1,168 @@
+{
+  "generated": "2026-02-12T11:12:15.563591",
+  "total_folders": 10,
+  "total_files": 142,
+  "folders": {
+    "01-NAMES": {
+      "label": "Key individuals mentioned in Epstein files",
+      "category": "people",
+      "icon": "👤",
+      "txt_count": 26,
+      "md_count": 26,
+      "files": [
+        "extract-acosta-ds8.md",
+        "extract-acosta-raw.md",
+        "extract-alan-dershowitz-ds4.md",
+        "extract-brunel-raw.md",
+        "extract-clinton-ds3.md",
+        "extract-clinton-ds4.md",
+        "extract-clinton-raw.md",
+        "extract-dershowitz-raw.md",
+        "extract-dubin-raw.md",
+        "extract-eva-andersson-raw.md",
+        "extract-gates-raw.md",
+        "extract-giuffre-raw.md",
+        "extract-groff-raw.md",
+        "extract-leon-black-raw.md",
+        "extract-lex-wexner-ds12.md",
+        "extract-maxwell-ds8.md",
+        "extract-mitchell-raw.md",
+        "extract-musk-ds12.md",
+        "extract-musk-raw.md",
+        "extract-nadia-raw.md",
+        "extract-prince-andrew-raw.md",
+        "extract-richardson-raw.md",
+        "extract-schwarzman-raw.md",
+        "extract-trump-ds12.md",
+        "extract-visoski-raw.md",
+        "extract-wexner-raw.md"
+      ]
+    },
+    "02-FLIGHT-LOGS": {
+      "label": "Travel records from Epstein's aircraft",
+      "category": "travel",
+      "icon": "✈️",
+      "txt_count": 1,
+      "md_count": 1,
+      "files": [
+        "extract-flights-raw.md"
+      ]
+    },
+    "03-FBI-RECORDS": {
+      "label": "FBI investigation documents and reports",
+      "category": "legal",
+      "icon": "🔍",
+      "txt_count": 2,
+      "md_count": 2,
+      "files": [
+        "extract-fbi-raw.md",
+        "extract-investigation-raw.md"
+      ]
+    },
+    "04-DEPOSITIONS": {
+      "label": "Sworn testimony and deposition transcripts",
+      "category": "testimony",
+      "icon": "⚖️",
+      "txt_count": 3,
+      "md_count": 3,
+      "files": [
+        "extract-affidavit-raw.md",
+        "extract-deposition-raw.md",
+        "extract-testimony-raw.md"
+      ]
+    },
+    "05-TRUMP-MENTIONS": {
+      "label": "Documents referencing Donald Trump",
+      "category": "people",
+      "icon": "🔴",
+      "txt_count": 5,
+      "md_count": 5,
+      "files": [
+        "extract-maralago-raw.md",
+        "extract-trump-ds8.md",
+        "extract-trump-model-raw.md",
+        "extract-trump-raw.md",
+        "extract-trump-tower-raw.md"
+      ]
+    },
+    "06-LOCATIONS": {
+      "label": "Geographic locations in case files",
+      "category": "geography",
+      "icon": "📍",
+      "txt_count": 9,
+      "md_count": 9,
+      "files": [
+        "extract-71st-street-raw.md",
+        "extract-little-st-james-raw.md",
+        "extract-london-raw.md",
+        "extract-new-mexico-raw.md",
+        "extract-new-york-raw.md",
+        "extract-ohio-raw.md",
+        "extract-palm-beach-raw.md",
+        "extract-paris-raw.md",
+        "extract-zorro-ranch-raw.md"
+      ]
+    },
+    "07-FINANCIAL": {
+      "label": "Financial transactions and records",
+      "category": "money",
+      "icon": "💰",
+      "txt_count": 8,
+      "md_count": 8,
+      "files": [
+        "extract-bank-raw.md",
+        "extract-deutsche-bank-raw.md",
+        "extract-foundation-raw.md",
+        "extract-jpmorgan-raw.md",
+        "extract-payment-raw.md",
+        "extract-southern-trust-raw.md",
+        "extract-trust-raw.md",
+        "extract-wire-transfer-raw.md"
+      ]
+    },
+    "08-VICTIM-STATEMENTS": {
+      "label": "Statements from victims and witnesses",
+      "category": "testimony",
+      "icon": "🗣️",
+      "txt_count": 5,
+      "md_count": 5,
+      "files": [
+        "extract-jane-doe-raw.md",
+        "extract-massage-raw.md",
+        "extract-minor-raw.md",
+        "extract-recruit-raw.md",
+        "extract-victim-raw.md"
+      ]
+    },
+    "09-LEGAL-PROCESS": {
+      "label": "Court filings and legal procedures",
+      "category": "legal",
+      "icon": "📋",
+      "txt_count": 7,
+      "md_count": 7,
+      "files": [
+        "extract-grand-jury-raw.md",
+        "extract-immunity-raw.md",
+        "extract-non-prosecution-raw.md",
+        "extract-plea-raw.md",
+        "extract-prosecution-raw.md",
+        "extract-sealed-raw.md",
+        "extract-subpoena-raw.md"
+      ]
+    },
+    "10-REDACTED-NAMES": {
+      "label": "Redacted individuals from documents",
+      "category": "people",
+      "icon": "❓",
+      "txt_count": 5,
+      "md_count": 5,
+      "files": [
+        "extract-black-book-raw.md",
+        "extract-photograph-raw.md",
+        "extract-redacted-raw.md",
+        "extract-surveillance-raw.md",
+        "extract-telephone-raw.md"
+      ]
+    }
+  }
+}

@@ -1,0 +1,455 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692476_20260130_p027_i001.png"
+source_pdf: "EFTA01692476.pdf"
+method: pdf_text
+words: 748
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.695506
+---
+
+Account a
+m
+Account Hunter 
+Date of Invoice 
+February 18. 2004 
+a 
+AT&T Wireless 
+Page 6 of 
+B 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT AC17VITY - CONTINUED 
+VOICE USAGE FOR 
+Number 
+Sent Drs The 
+all: 
+116 C292 OkfY 
+II 
+%1t 
+IS 0242 06446P 
+19 ODA OLAW 
+20 0 
+F 
+0 
+:MP 
+2 0 
+0R_ i0
+tura 
+F 014) 
+a 
+Ca 
+1M 
+21 0730i 11:564 
+0
+0 
+hlf 
+32 0304 07020 
+JO .A
+10301 tit 
+36 0244 04,4117
+190 SW gZ 
+I 0304 06240 
+12 0035 441314 
+3 0305 
+44 0305 44
+06014
+.52A 
+is MOS COMA 
+6 OM C9A3A 
+=IN 
+At 
+WAS OSAIS 
+S4 CAS 07.MP 
+SS 0740. NO IA 
+/ 
+Mat 
+a agaaA A
+60 0
+ 0306 
+OSSA2A
+M 10
+E
+R?: 
+PERE 
+60 0307 02670 
+641 030: CUSP 
+0 OEM 01:07P 
+*49790401VA. 
+• C0,161061 
+Only 
+Charge 
+EMS Te 
+Used Rats Dinieription 
+=MI ',U 
+t'S1R IE 
+WPAUINEACN FL 
+211 
+IEVT 
+IMAIF 
+INN 
+Ft 
+IPS 
+MX
+A 
+IC 
+tan 
+MN 
+SIMASO tICLUDEO tall 
+IS 
+SHARED 
+AEA 
+IMII
+M 
+SWAN WOOL TO WOOL 
+IMO 
+Zuni 
+Fag tiOCLISO AA 
+Ita 
+lieN 
+I Eggia
+.4 
+U 
+MM 
+MI 
+T AIM 
+lc 
+v& 
+MAN 
+0 NCLZAE0 Nt4 
+NMI 
+WARE° NCLUDED %Ms 
+M
+DiAN 
+SHARMCLP
+A 
+DEO ANS 
+MF.
+4.2 
+INT 
+MESSAGE RETRIEVAL 
+IMN 
+SHARED INCLUDED NNE 
+INN 
+LIMAN NICLUCE0 44 N5 
+OEM 
+SHARED NCACEDIINI 
+MM 
+04 
+No 
+MN
+N
+M 
+IAN 
+CA DU 
+gitkiLlUi  
+tail 
+MN 
+Et ALLUDE-06m, 
+IAN 
+SNARED DICUJCEONNS 
+M 
+al REISMIg/AL 
+MN 
+SHARED ACLU= WIN 
+MN 
+SsARED 14061. NO 
+4
+:
+1
+1
+ 
+MN 
+LoAPED 01910§7 
+IAEA tp IOLLU 
+PIA 
+= .,LREDINCLU 
+MN 
+MN 
+SAAPFEINCLUSED:Mi 
+LIMED 
+LO
+EO NC .
+1). • • 
+r4 
+InAPLOSPENIk I 
+MML 
+LW 
+IAN 
+SAME NEW 
+MNS 
+Mi
+t et 0 
+AL 
+E NEW 
+6-I 
+7.,OPED MOLWINPOS. 
+*LI 
+LustAnE st 
+vAL 
+MN 
+SoAELO WSW 
+VAS 
+MN 
+7-AWE0 LreLLI 
+Nos 
+0 
+Nil 
+IAN 
+AtARED NGUTWEEKNO 
+wriAtiti a 
+N3 EN F.13aM 
+. 
+In 
+Ms 
+no LIGHTEAr RIME) 
+PKOMNG 
+WIU
+.'" I.ACII 
+=
+Ar r a gl om
+VW
+•SACH FL 
+WPOIMMACH 
+=M3 
+WALLA/ACM a 
+ACOMEG 
+wALIANCH 
+‘I.ZPI;j2Mitl 
+=rice 
+n. 
+V/PLANACH 
+WPA-142EACH 
+INCOIPIA 
+ea./PEACH EL 
+MART FL 
+AM.:AE.44H IL 
+%WA JALA04IL 
+VAMAREACIFEL 
+I4a 
+WMJJKFPCHa 
+WILA.LIMEACH 
+WALMSEACK FL 
+WAVALEACH 
+IZA.714181N14 
+WPAAsitIP 
+wisAstat 
+HIL
+WPALNE 
+EL 
+WALANEACH It 
+WF*.LICL ACM IL 
+ilerattx7 
+Wyo.—WELCH FL 
+WPAVASEACH 
+r4Eigl
+askat 
+NAL 
+SNAIL° ISDN ire/ 
+AES 
+RE 
+V L. 
+HARES CE 
+iuP 3l& 
+DM 
+EL swe 
+Champ 
+VOICE USAGE FOR 
+limber 
+1{4/A DAs Time CAM 
+1;:8 igAB 
+1 24 aa.; 
+17$ OLCS ISM 
+IN 02Ai et27P 
+777 OMB 03:16P 
+171 02103 CLOW 
+¶7' OAS 011120 
+g-W Wig 
+128 812; 
+1-4 OVA 02607
+ISO 0303 0140 
+N6 OZAI CROP 
+02474 OotiP 
+:2 S2 itilA" 
+'0) oa* 
+11
+tb 0O10(.)5P 
+Ito 02,10(2AS 
+Tit, Big 
+Uri 
+07,42. 
+7CO 0271007 SW 
+OA WI I COMA 
+202 Will MAN 
+103 0311 10:29A 
+201 031105103 
+NN 0H1107
+iN 81183:21 
+Zee FOY12 OS AM 
+ZOO OVI2 07414 
+210 02/12 OpSIA 
+211 eenz QUA 
+212 m1.0054* 
+!II , 
+,,,./ 
+717 Oen 
+iagg; 
+I .
+P 
+220 02112115W 
+ii
+Clokrit VIZ 
+7.23 On) MAP 
+221 DHN 025
+Klt 89,412U 
+0#11 02 Set 
+EMS To 
+,; IV !83 Ft 1 
+IgLTIPE= FL 
+W
+MN 
+• COIEWIWId 
+QOM 
+Chop 
+Used RAN Description 
+Mace 
+WV 
+IAN 
+Iti 
+SAAR 
+4 
+11 
+AM 
+141) 
+1.174 
+SPASM 70CALWLESEND 
+PIN 
+SHARED t4N417ALLKEM) 
+VAN 
+R 
+*WANE EKSI40 
+Al l 
+P
+4
+P 
+LitsiTilikr
+ia'
+13E 
+RAMAGE RE 
+NAL 
+span 
+riaramoova 
+TB 
+gif7471141.7," 
+... =EN-alai:11 
+sa 
+WI 
+rS t.i4L 2 maR 
+w 
+, 6 LAIL 
+FL 
+NM 
+PE 
+L 
+VOA. 
+WPMAIreg FL 
+lall 
+SHAM AOLAEI) UNE 
+82,2be Ft M 
+2a€81.7:frit'ig22 
+wv Awn!' WA ri. 
+WPALANEACH FL 
+lai 
+SAAR 3 NOSE TO WOOL 
+MN 
+ataigiarML 
+WPALM8CACH FL 
+MN 
+WARN WOOL TO /EIS 
+EVT 
+MESSAGE RETAEvAL 
+VISAitatail a 
+I  MI 
+0 iillE` 
+"' 
+WPAIJACCAGPI IL 
+IAN 
+AA 
+AG' 
+1 MN 
+CtLE 0 LAS 
+WAM
+PAUE
+nrar AC
+L
+I4 Ft 
+Itg, 
+.na'ar 
+wPwAterACA FL 
+MN 
+f0 tiC62 TO w0e4. 
+5c 
+EVE 
+mESSAUE IZET NEVA 
+20v1.7(AH FL 
+LIN 
+WAN WOOL TO mODL 
+APALANE404 FL 
+SIN 
+SPIARE,DD, tstwcw,
+VC.tvv,
+U4A08 un
+Iaks 
+EiPAJNICALN Ft 
+404 
+'EEPAJANEAcs EL 
+LON 
+WA
+EE
+ rt 
+un 
+DSOS. TO MOSE 
+ANEACA EL 
+INI 
+wisuATAEA FL 
+Anon Arst FL 
+APALEA 
+',I, 
+ft  
+0 ACAOLD gms 
+3 illgla8 32! 
+-NOWA 
+FL 
+3MI 
+i2a 
+SAGE RR tAvEL 
+"08 2tifcrat's 
+AMbb
+ 12%9 :OW: 
+PICCAMG 
+arc( 
+RITRIDIAL 
+wOLIfrehtA0411 
+trig 
+*4ettg
+‘"
+I till 
+SPAN ll 
+WPAINBEACA FL 
+feu 
+WFALMAACE4 FL 
+MN 
+NULREg motw
+:o-tUDTOEDI.ok
+vv45 
+aa ltagn ft 
+r an 
+A_ 8= 
+vae. 
+NM 
+MN 
+EVE 
+NM 
+TI
+Appuest.4 
+EL 
+MN 
+EFTA01692502

@@ -1,0 +1,196 @@
+---
+source_image: "bank-statement+deposition-transcript__EFTA01578292_20260130_p001_i001.png"
+source_pdf: "EFTA01578292.pdf"
+method: pdf_text
+words: 507
+confidence: 1.00
+extracted: 2026-02-13T16:08:10.631561
+---
+
+Statement Date: 
+02/21/13 - 03/20/13 
+Account Number: 4246 3151 8121 1028 
+Page 2 of 2 
+A 
+Date of 
+Transaction 
+Merchant Name or Transaction Description 
+$ Amount 
+OV26 
+SPARTAN CLEANERS WEST PALM BEA FL 
+281.30 
+02/26 
+PUBLIX #050 W PALM BEACH FL 
+106.82 
+02/27 
+PUBLIX #050 W PALM BEACH FL 
+4.01 
+02/26 
+OFFICE DEPOT #102 WEST PALM BCH FL 
+56.17 
+02/27 
+ISLAND ENVIRONMENTAL P 5618337375 FL 
+1,128.00 
+02/28 
+USPS 11717106529412020 PALM BEACH FL 
+11.20 
+02/28 
+MALVERNE BP WEST PALM BEA FL 
+100.00 
+02/28 
+PUBLIX #050 W PALM BEACH FL 
+111.39 
+02/28 
+WHOLEFDS PGA 10188 WEST PALM BEA FL 
+141.51 
+02/28 
+SUNOCO 0287103600 PALM BEACH FL 
+45.53 
+03/01 
+CARLSTEDTS LLC 561-6848555 FL 
+230.07 
+03/01 
+CARLSTEDTS LLC 561-6848555 FL 
+35.51 
+03/03 
+PUBLIX #050 W PALM BEACH FL 
+52.33 
+03/03 
+PUBLIX #319 W PALM BEACH FL 
+35.19 
+03/03 
+WHOLEFDS PGA 10188 WEST PALM BEA FL 
+52.36 
+03/02 
+THE BREAKERS ECHO PALM BEACH FL 
+189.74 
+03/03 
+TOOJAYS PALM BEACH WEST PALM BEA FL 
+31.81 
+03/03 
+OKEECHOBEE STEAKHOUSE WEST PALM BEA FL 
+23.31 
+03/03 
+CVSPHARMACY #5140 003 WEST PALM BEA FL 
+82.84 
+03/06 
+BICYCLERY IN WEST PALM BEA FL 
+503.50 
+03/06 
+PUBLIX #050 W PALM BEACH FL 
+16.15 
+03/07 
+MALVERNE BP WEST PALM BEA FL 
+100.00 
+03/07 
+LIGHT BULBS UNLIMITED WEST PALM BEA FL 
+19.08 
+03/08 
+PUBLIX #050 W PALM BEACH FL 
+144.81 
+03/08 
+THE HOME DEPOT 6320W PALM BCH FL 
+55.84 
+03/08 
+BICYCLERY IN WEST PALM BEA FL 
+125.59 
+03112 
+PUBLIX #050 W PALM BEACH FL 
+66.86 
+03/11 
+BRANDON T/FER & STR 561.683.5000 FL 
+1,588.79 
+03/13 
+BICYCLERY IN WEST PALM BEA FL 
+354.97 
+03/14 
+BICYCLERY IN WEST PALM BEA FL 
+191.82 
+03/14 
+USPS 11717106529412020 PALM BEACH FL 
+14.80 
+03/15 
+MALVERNE BP WEST PALM BEA FL 
+100.00 
+03/15 
+PUBLIX #050 W PALM BEACH FL 
+168.86 
+03/17 
+PUBLIX #050 W PALM BEACH FL 
+5.32 
+03/19 
+USPS 11717106529412020 PALM BEACH FL 
+67.80 
+JANUSZ BANASIAK 
+TRANSACTIONS THIS CYCLE (CARD 1150) $6.652.94 
+02/20 
+TARGET 
+00011106 LAKE WORTH FL 
+-13.77 
+03/01 
+PUBLIX #1395 PALM BEACH FL 
+10.01 
+03/07 
+MACY'S EAST #763 BOYNTON BEACH FL 
+197.67 
+03/08 
+APPLE STORE #R024 WELLINGTON FL 
+3,812.82 
+03/09 
+MARSHALLS #0398 LAKE WORTH FL 
+52.99 
+03/10 
+AMERICAN AI 0010281202029 MIAMI FL 
+25.00 
+031013 1 X 
+XAA 
+XAE 
+TRANSACTIONS THIS CYCLE (CARD 3309) $4.084.72 
+20i3Totatirfear4o-Date.  
+Total fees charged in 2013 
+Total interest charged in 2013 
+$0.00 
+$0.00 
+Year-to-date totals reflect all charges minus any refunds 
+applied to your account. 
+N 
+IT 
+Your Annual Percentage Rate (APR) is the annual interest rate on your account. 
+Balance 
+Type 
+PURCHASES 
+Purchases 
+CASH ADVANCES 
+Annual 
+Balance 
+Percentage 
+Subject To 
+Interest 
+Rate (APR) 
+Interest Rate 
+Charges 
+13.24%(v) 
+-0-
+Cash Advances 
+-0-
+BALANCE TRANSFERS 
+Balance Transfer 
+13.24%(v) 
+-0-
+(v) = Variable Rate 
+28 Days in Billing Period 
+Please see Information About Your Account section for the Calculation of Balance Subject to Interest Rate. Annual Renewal Notice, 
+How to Avoxl Interest on Purchases. and other important information, as applicable. 
+X °COX(/' 
+FIS13338C I 
+This Statement is a Facsimile - Not an original 
+003 N 2 
+?3 
+12.03.,20 
+Pag•:ce 2 
+CCP25 
+MA DA 54893 
+079100:0010:05498P0C 
+Confidential Treatment Requested by JPMorgan Chase 
+JPM-SDNY-00057207 
+EFTA01578292

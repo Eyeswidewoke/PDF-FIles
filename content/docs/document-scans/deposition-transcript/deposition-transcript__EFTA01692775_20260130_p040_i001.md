@@ -1,0 +1,525 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p040_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 885
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.038392
+---
+
+67,Å angular 
+, 
+. 
+Account Number 
+Date of Invoke 
+March 12.2015 
+Page 10 of 12 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGLI:J~Corthm 
+Try 
+~9
+4
+Teem Date Time Cad 
+Cell•Te 
+IM  
+Omalption 
+t  010 
+cu2) CaIVV 
+3 
+013 06223 
+3,64 0341 3623,3
+366 On 06204
+Mo 434) 010P 
+7 030 Fa 
+4 
+7 le 
+0
+ifi
+3010 
+;5 
+0 str, 
+374 0301 Oa 4/. 
+374 0101 10194 
+376 0101 11 11? 
+377 COM 11 
+144k 
+iå 
+Ai/ 
+387 CUM 0&13P 
+38) 0172001T 
+324 03.02061•4 
+TM 0102070TP 
+la? kW <#1
+9161 
+397 0133 12208 
+391 03.03 105,94 
+J92 0133041W 
+391 0143304MP 
+39.1 03030108' 
+234 CUM 04IXF 
+304 0343040M 
+237 RIM 01118 
+394 MOT 102S8 
+28 =1E
+UM 
+101
+40. 01010 16. 
+403 0134 0117P 
+404 030i OIMP 
+3E R3
+9
+ 0104 101SP 
+I :1, II irg 
+t 
+412 • 
+1 IA 
+I
+413 GYM 31118 
+414 MM I0294 
+413 0303 10328 
+it lai 
+Ir.:2 r
+3MR 
+144 4034 4.6
+1 vrat
+IÄ MN 
+40.4.4 
+INN 
+44444 
+TUN 
+MAU 84:431. TO 14084 
+2141 4 
+MO Alm AN11 M. mli 
+R
+Iran 
+um 0.4 meet TO 1404 
+it:: 
+0 :0 14`;'.0 :14 
+rt
+,... 
+emir.. ...^.4n to sick 
+1,IN 
+440.4 4/24,8 40 watt 
+m
+g
+ FFt 
+214N 
+ENLOE MTATL TO 30)43. 
+1514 
+Lmai MJat TO Inet 
+ISM 
+WEE ?net 10 440114 
+M
+A
+IM 
+234 44 
+UTITMTED 141.0443 v II 
+ISM 
+WE/WT(3 RATX3 UN 
+i LET 
+1445SIGE RE.TRTETAL 
+1 
+mum 
+mama pro#4440EAR 
+151/4 
+INN NI1T 314WIINO Am 
+I ME 
+303 A 
+ANY41.1.04 
+j 
+3443. 
+340 A 
+I MY'ry hen 
+4 
+SUN 
+»3 4001. 00144 Si 
+FL 
+1 MN 
+LNIrd USK TO 1.064 
+I EVE 
+MESSAGE RETRIEVAL 
+mr Pl. 
+now 
+MD AO(Y4 ways ve4 
+1MN 
+UWE 31081 30 1.084 
+Malt 
+X01031 ANY! IIK Vet 
+LL. 
+INN 
+Mo./Ufa mviKNMIN 
+/MN 
+MEMEL 
+4,4•60.4)Nti 
+1M/4 
+mt./ 
+43,20cut, uN 
+I. 
+MN
+T 
+uNtroire 34•4(40.4N 
+1C'? 
+41(13A0C REM/via 
+4.44 
+Et 
+MN 
+40440 U00. TO ?ECG 
+11 
+10448 
+044t mu, AMENDS N 
+MN 
+3:0 41301AATTRE VW 
+DOT 
+MESSAGE REIREVAL 
+fit: 
+MX 
+X0 ~IL ANYEll E wilc 
+4494 
+343 SORT »nu!~ 
+Mil 
+ONUS 140134 TOT/08. 
+tr.:~ 
+a 
+PEN 
+X0 MON ANVTUE MI 
+um ni Whit En 5440. 
+FIX" 
+PMSSAGE RE META? 
+WPMMINACN FL 
+MN 
+UNUU MOM TO Wet 
+ENT 
+MESSAGE RETREVAL 
+W
+vo
+M 
+. 
+NE
+MIN 
+A 
+MET 
+WM 
+MN 
+MEN MOM. To 1•0134 
+IN A Ys t 
+MITI 
+303 
+ANYTME UM 
+91=4Mq 
+FL 
+MM 
+UNITY MOM MOO. 
+Efrie 
+PL
+ 
+id 
+NAN? 
+t:: 
+U 
+am 
+n la 
+v 
+LIMA 
+RNA 
+IAN 
+8444444,4 IM 
+_
+TS« wo. 
+INCCmIK. 
+'MALMFACIT FL 
+I 
+im . 
+gAla rKi nkeWESTI MN 
+IMPALVIMACH FL 
+INN 
+LoelailTD EMT 
+MN 
+fVT 
+MM 
+ritEOSSAlef 
+ea. 
+UN 
+MO AWL ANYTLIE 
+MN 
+mown »mom m‘r 
+YN 
+MN 
+umumi 
+%Mew ism 
+urwurr «amp ear 
+CVT 
+CALL VIA MC 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICF U9AGE I 
+Cc:framed 
+Numb.. 
+M1M 
+ChbrIP 
+Owl. 
+nit«. Da' flaw 
+It 
+ 
+CMS To 
+Used 
+Rao 0em•Mikm 
+ii5 2:r41811 
+veRN 
+AC/4 EL 
+•f01046101_ 
+424) CIRO 1310 
+4, 01 03405 124 
+II
+ 03736 124 
+4! 
+GO 4445,4 0 
+S i}gig: 8 
+t 
+43 03103 0107 
+"t1 
+141 i`J 1/05 32 
+Ut vose 
+vos az 
+p 
+39 
+tå
+0
+138 Jo5 36 
+:14 %
+T 
+»sot 
+ii Lan, 
+. 
+442 
+YLn 061 
+„ 5 
+0901
+MS 
+h 
+449 103 KID 
+430 103 431 
+I.
+ 301 MI 
+412 6305 104 
+446 
+a% 
+I' 
+Ili 
+41
+/442
+4.15 
+:Ts
+♦
+104 
+M 
+21 21
+346 22 
+101124 
+1061242 
+306 12 
+104 12 
+=
+01
+111 
+30401. 
+6 02 
+n 
+01 
+M4 OE 
+MN 
+U la 
+MN 
+NUMT 
+ttlä
+ 
+RNAull 
+=I
+I  MN 
+MN 
+EICallhe
+MN 
+UN 
+MAWR MN 
+iN
+iMcceine
+COMI4o 
+ticciANG 
+Mil 
+;UP= 
+TirtErIPIN
+MN 
+MN 
+07444ATED RIVEXII01484 
+483C WfT34 Fj. 
+er,"Inir,"41
+.„ 
+.., 
+:Mt 
+ACM -. 
+,,R 
+un
+CAS W 
+KG 
+Y‘4.eirWg 
+R 
+19N
+"
+ 
+IfIrJEtta
+i rig 
+LAKE MORTN FL 
+la 
+r4COM4G 
+In 
+uilum10) R30.440 MN 
+utiuvaw BMX 
+Mpl 
+O031440/4304 EL 
+MN 
+uriuM40) %MOM UN 
+MTA4143EACN FL 
+11,04 
+uNIMTLO 4MM IMO 
+344944.404 Km FL 
+IKE 
+InG04 4 
+4444044 VII 
+gus
+093.3749 5. 
+mot 
+82440M4 UM 
+MCCMNG 
+IIMI 
+MIN 
+LE4 
+UNUI0TED MninchIC LYN 
+0 4.4.004C ALPI 
+~NJ/0F~ 
+II 
+%IN 
+ur4 AMID ~IWO DAN 
+1EVT 
+NEMEC REGTIVAL 
+VP 
+FL 
+1 
+. pi Ft 
+IMUMIT 
+NM 
+MN 
+km 
+imuim 
+LAKE WORTH FL 
+UKUMT 
+LASEWORN it 
+LAILVRIN EL 
+WT. 
+O 
+It hi
+.. 
+,, k
+LANE WORT4 31. 
+MN 
+WP4A8EAC“ FL 
+EVT
+INC" 
+Wit ra
+ttSAGLRE
+"Wre4
+1,01111244
+44.44430 
+MM 
+08419)47TR 41 
+MN 
+On MAT., FL 
+INX,IING 
+MM 
+WPALLITEA04 FL 
+VIPMACIL AO. Ft 
+ME 
+UNIJM1 
+VAMIN MN 
+NI: 
+=OK= Ur, 
+0St:419..airi. 
+M: 
+aralF82»118U: 
+IN:05.11.0 
+1.111k4 Wfr4T-1 FL 
+WIN 
+UNIJWITCO ~WO MN 
+VPAIMITEMM EL 
+= 
+:11:48 ra418 .4114
+ViEMMIMACH FL 
+MN 
+UM31.4441) /4041(710MM 
+INCONVO 
+MM 
+Um:ICED %HMO MN 
+en 
+CALL WA in 49
+LAKE WORTH a 
+IINSCIOnG 
+MN 
+UNINTIED 401
+Z4j 
+N 
+WPM ~ACM FL 
+MN 
+UMW 
+MN 
+OWL, 
+8,14104 MN 
+MN 
+i1.01/1114 FT 
+MN 
+UM LC 
+WEVENO MN 
+mr
+ii4.44.4
+ 4.
+Y44.40(cAo
+nlik 
+rig 
+.511fOceltortIgN: 
+MN 
+UNWEETE1 44011019 MN 
+IN C 
+%v. 
+k 
+C: 
+s'i kikivrt°'=E UN 
+INN 
+by 
+? Wilk 
+tc 
+UMON/ 
+home, mN 
+MN 
+MONT 
+P443100 IAN 
+~Mil 
+440411448 
+UMW 
+NAVIN 148 
+18CCUING 
+WTI 
+UMMITED NNIKHD MN 
+Iir cä:MACII It 
+MN 
+UNLIMPE0 WEETIN TO MN 
+MN 
+~who PINnelinAN 
+Ve4M-VIBEACI4 FL 
+MN 
+UNUINTED NOW/MD MN 
+Chart* 
+uNTIVITEXT WAVE» MN 
+MERITED NEMEND MN 
+1,441:4T#1400003 MN 
+UNIMIT 
+NIMICND IAN 
+r o bion 
+:42:8 54, 
+/MUM= ~VC MN 
+EFTA01692814

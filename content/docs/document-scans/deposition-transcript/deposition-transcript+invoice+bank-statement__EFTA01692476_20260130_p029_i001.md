@@ -1,0 +1,259 @@
+---
+source_image: "deposition-transcript+invoice+bank-statement__EFTA01692476_20260130_p029_i001.png"
+source_pdf: "EFTA01692476.pdf"
+method: pdf_text
+words: 509
+confidence: 1.00
+extracted: 2026-02-13T16:47:03.489648
+---
+
+Account Name 
+Account Number 
+Date of Wrenn 
+March 18, 2004 
+AT&T Wireless 
+Page 4 of 6 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+SUMMARY OF CURRENT ACTIVITY • CONTINUED 
+VOICE USAGE FOF: 
+Continued 
+>Amber 
+Tray 
+Char 
+Ome Time CaIR4 
+Calls to 
+used Rel• Description 
+11/31 
+VKIMINID OSVOKMD IAN 
+VAN 
+WONTED WMCND WIN 
+11/74 
+UNLIWTIZDIAWNO ISPI 
+31.43I 
+LIKIMTM km0;09914 
+MN 
+Ill
+E TO I/MILE 
+KW 
+MESSAGE RETMCVAD 
+1M1 
+FTTE TOM29.5t 
+4 
+1LVT 
+SSAT RWT1LVAL 
+la 
+11.4N 
+1.1.V Wall 
+2M14 
+DeCLVD 04!DIVT 
+MN 
+ISCAT'S 0 MAW 
+1DIN 
+INK.LuOt NAY tt. 
+1 ..04 
+IACLUO 
+fart Et 
+1 UT 
+Ilk$$M5RETP VAL 
+?MN 
+NOVA:6.0VMM 
+I MN 
+VOILE TO VOGILE 
+VAN 
+:SUM 0 N 
+VAN 
+"1MT/0 :4#111: 
+USN 
+Li,. t nil n WAX/ Ith 
+i MN 
+vNIL94IT DIWWXI MS 
+MIN 
+4N4N 
+&KIM TO 
+1 MT/ 
+VMMITC WNW 
+IA% 
+164N 
+OSI.WITE TOM MT 
+1 MN 
+vNUNITI /PAK 
+MN 
+6 
+?MN 
+MUNRO !WOO 
+MV 
+3 69N 
+ilet 
+INN 
+WADED UNDIES 
+IMI: 
+wCel.E TO %ADDLE 
+I knN 
+‘400J,C TO MOM( 
+I 
+ZIAN 
+IN tl iti TO Mi til
+21219 
+71/11. 
+ND I. Wall 
+NCLLO 0 MUTE 
+72 
+wit: 
+MOSILE - 0 NOBLE 
+1 EV' 
+MISSAGRETREYAL 
+WWI 
+INCLLINV Ma
+:MC 
+94DLLOtO 
+11M4 
+PK1 TDT O WA- i 
+New 
+WM 
+I1491 
+t2V
+TD N 
+412‘ 
+ihDai. 
+Charge 
+sal 
+Monthly Usage Charges 
+R091 DOCIVJOil 
+I SMARM ANYTIME PANS 
+2 NIPPED ‚Kiel TO Meet 
+3 MESSAGE RETRIEVAL 
+• CALL WAITING 
+SNARED NOWANEEKENO 
+SHAREOINCUDED MWS 
+7 AT&T CONNECT 
+$ CALL COMPLETION 
+TOM Idendly War Chugs 
+Taxes, Surcharges ano Regulatory Fees 
+Item Onalptien 
+I CX34.INTY 911 TAX 
+2 UNIVERSAL CONNECTIVITY CHARGE 
+3 ?FEDERAL TAX 
+4 LOCAL COW SERVICE TAX 
+I STATE COMM SERVICE TAX 
+Total Tam Surcharge and Regulatory Fee 
+TOTAL CHARGES FOR 
+Onty Us44 
+Ill MIN 
+9$ MIN 
+41 EVT 
+4 EVT 
+100 MIN 
+193 MIN 
+I EVT 
+I EVT 
+Charm 
+003 
+000 
+090 
+ODD 
+059 
+CIAO 
+125 
+1
+- 
+25
+25 
+Chew 
+050 
+053 
+0.72 
+123 
+-.5
+ 19 
+21.17 
+DETAIL OF CURRENT ACTIVITY 
+SUMMARY OF CURRENT ACTIVITY 
+Monthly Service Charge: 
+Item OeserIptim 
+I CALL WAITNG 
+2 AT&T TEXT MESSAGING 
+3 CALLER ID 
+4 REGULATORY PROGRAMS FEE 
+5 FAMILY 519.99 
+a AT&T VOICEMML 
+7 DETAIL IMUNG 
+roue Merelly Snot Charges 
+•44110/02Co0 • 
+Swaim Olen 
+02/18704 • 03/17M4 
+02/18,04 • 03/17AM 
+OVIN04.01/17M4 
+02/11.34 03/17/04 
+02/10,04 03/17/94 
+02/1601 • 03/17104 
+02/1.104. 01/17/04 
+Ole 
+OLO 
+OLO 
+00) 
+1.75 
+ten 
+0.00 
+21.74
+21.741 
+VOCE USAGE FOR 
+Alen** 
+NOM CMS Ti.. Celled 
+I 0:119 914:44t 
+2 OLDS 1.101A 
+1 01/19 1013A 
+4 WM 1014A 
+Ít gig: flat 
+OI/141 1141A 
+B OJM 1L5IP 
+IS WM I USA 
+1602/19 I129A 
+Xi:
+19 02t1001 07P 
+FEU 
+ZS 064 OSMP 
+Ong 
+Gnarls 
+Used Rate Oesewslon 
+SNLREO ANYTMEMT.5 
+M itlgrOZV
+Aatin 
+•xtssAct RETFIEI/M. 
+?slal.tglitAktigi 
+Iwo 
+Los- T MO 
+SPADED Atang 94/14$ 
+StiTSWMCCal TOWS/ 
+MTSSAGE RETFIC/M. 
+DRUID ANYTAI ROM 
+SHOED ANYTIMEC NHS 
+F
+t0 Req MC P.P45 
+HADCD »MN: MN 
+WM1110, 
+FO ANVIII4( Ma .
+MISSACC 
+M Vat
+NV:MD:Cot 
+1 i 
+ED 
+1 1' 
+ED ANYTIME MI6 
+s
+inARDO »WNW WO 
+SHARD() ANYTral mpst 
+%ARE° VCR TO 'XS. 
+wtS it REV- 
+vAL 
+YIN 
+NMMOM 
+ANV7 
+AVID 
+U
+in4 
+D NICOL
+RETUIVAL 
+T 
+WOOL 
+chary 
+EFTA01692504

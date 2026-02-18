@@ -1,0 +1,300 @@
+---
+source_image: "deposition-transcript+bank-statement+scanned-document__EFTA01694320_20260130_p036_i001.png"
+source_pdf: "EFTA01694320.pdf"
+method: pdf_text
+words: 512
+confidence: 1.00
+extracted: 2026-02-13T16:20:20.123273
+---
+
+Page 
+Account Mumbar: 
+Billing Date: 
+Mobile Numb's' 
+Mobile User: 
+Total MObilein 
+AIRTIME( AND LONG DISTANCR CHARGES 
+ 
+CHARGES 
+City 
+LengthO1 
+Air 
+Long 
+Its Date 
+Time 
+CL No. Called 
+Called 
+P P Call Time 
+Dist. Total 
+57 02/19 08:43PM 
+58 02/19 013,54PM 
+59 02/19 10:16PM 
+60 02/19 10:39PM 
+61 02/19 10:44PM 
+62 02/19 10:59PM 
+63 02/19 11:03PM 
+64 02/19 11:05PM 
+65 02/19 11:05PM 
+66 02/19 11:05PM 
+67 02/19 11:07PM 
+68 02/19 11:12PM 
+69 02/19 11:13PM 
+70 02/19 11:14PM 
+71 02/19 11:17PM 
+72 02/20 03:06AM 
+73 02/20 05:30A51 
+74 02/20 11:57AM 
+75 02/20 12:08P:4 
+76 02/20 12:24PM 
+77 02/20 03:04PM 
+78 03/20 03:05w 
+79 02/20 03:08PN 
+80 02/20 03:10PN 
+61 02/20 03:10PM 
+82 02/20 03:18P), 
+62 02/20 03:10PM 
+84 02/20 03:00PM 
+85 02/20 03:38PM 
+86 02/20 04:18PM 
+87 02/30 06:06PM 
+as 02/20 06:11PM 
+69 02/20 06:16PM 
+90 02/20 06:45PX 
+91 02/20 06:46PM 
+92 02/20 06:48PM 
+93 02/30 07:10PN 
+94 02/30 07:13PM 
+95 02/20 07:11PM 
+96 02/20 07:14PM 
+97 02/20 08:26PM 
+98 02/20 00:28PM 
+99 02/20 08z48PM 
+100 02/20 09:00PM 
+101 02/30 09:03PN 
+102 02/20 09:08W 
+103 02/20 09:40PM 
+104 02/20 09:54PM 
+105 02/20 09:59PM 
+106 02/20 10115PX 
+107 02/20 10:10PX 
+204 02/20 11:11PM 
+209 02/20 11:17PM 
+210 02/20 11:40PM 
+111 02/20 11:45PM 
+112 02/21 12:40AX 
+PALM IL 
+PALM PI. 
+PALM FL W 
+PALM FL W 
+NCOMI Cr, W 
+PALM FL W 
+INCOMI CL W 
+ICE CL W 
+NCOMI CL W 
+ICE CG W 
+NCOMI CL W 
+PALM P&P 
+PALM VC. W 
+PALM PL W 
+PALM FL W 
+PALM PL W 
+VICE CL 
+PALM FL 
+PALM VG 
+INCOMI CL 
+1)ICS CL 
+PALM FL 
+PALM FL 
+PALM PL 
+iNCOMI CL 
+PALM FL 
+INCOMI CL 
+PALM FL 
+'DICE CL 
+INCOMI CL 
+IMMONI CL 
+PALM PL 
+7)1CM CL 
+4 PALM Ft. 
+0 PALM FL 
+PALM FL 
+11433441 CL 
+7)10E CL 
+roux CL 
+4 PALM FL 
+MOWN' CL 
+1NCONt CL 
+INCOMI CL 
+PALM Fl. N 
+PALM FL N 
+PALM FL N 
+0 PALM FL W 
+PALM FL N 
+4 PALM FL N 
+IN3000 CL W 
+IN7OMI CL 
+PALM PL N 
+PALM FL 
+1930642 CL W 
+PALM FL M 
+PALM FL W 
+2 0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+7 0.00 
+0.00 
+2 0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 0.00 
+0.00 
+EFTA01694355

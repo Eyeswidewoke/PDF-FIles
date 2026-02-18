@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Official Release Guide | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260213-release-guide" />
+  <style>
+    .release-shell {
+      max-width: 1260px;
+      margin: 0 auto;
+    }
+
+    .release-summary {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 0.55rem;
+    }
+
+    .release-summary .stat-card .value {
+      margin-top: 0.35rem;
+      font-size: 1.05rem;
+    }
+
+    .release-part-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 0.6rem;
+    }
+
+    .release-part {
+      border: 1px solid var(--border);
+      border-radius: 0.72rem;
+      background: linear-gradient(150deg, #fffefb 0%, #fff8ef 100%);
+      padding: 0.7rem;
+    }
+
+    .release-part h3 {
+      margin: 0 0 0.4rem;
+      font-size: 0.86rem;
+      letter-spacing: 0.01em;
+    }
+
+    .release-part p {
+      margin: 0;
+      color: #453b36;
+      font-size: 0.83rem;
+      line-height: 1.35;
+    }
+
+    .release-zip {
+      display: block;
+      color: #6f665f;
+      font: 500 0.7rem var(--mono);
+      margin-top: 0.15rem;
+    }
+
+    .release-note {
+      margin: 0;
+      color: #4d423c;
+      font-size: 0.78rem;
+      line-height: 1.32;
+    }
+
+    .release-note + .release-note {
+      margin-top: 0.28rem;
+    }
+
+    .release-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
+
+    .data-table {
+      width: 100%;
+      min-width: 1040px;
+      border-collapse: collapse;
+      background: #fffdf8;
+    }
+
+    .data-table th,
+    .data-table td {
+      padding: 0.55rem;
+      vertical-align: top;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.79rem;
+      line-height: 1.32;
+    }
+
+    .data-table thead th {
+      background: #f8efe5;
+      color: #5a4c42;
+      font: 700 0.65rem var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.025em;
+    }
+
+    .release-link-pill {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 1.75rem;
+      padding: 0.22rem 0.5rem;
+      border-radius: 999px;
+      border: 1px solid #ddb3a2;
+      background: #fff4eb;
+      color: #8f2f15;
+      text-decoration: none;
+      font: 600 0.64rem var(--mono);
+      letter-spacing: 0.02em;
+    }
+
+    .release-link-pill:hover,
+    .release-link-pill:visited,
+    .release-link-pill:active {
+      color: #8f2f15;
+      text-decoration: none;
+    }
+
+    .release-link-pill:hover {
+      background: #ffe9db;
+    }
+
+    .release-coverage {
+      margin: 0;
+      padding-left: 1.15rem;
+      color: #534842;
+    }
+
+    .release-coverage li {
+      margin: 0.25rem 0;
+      font-size: 0.82rem;
+      line-height: 1.35;
+    }
+
+    @media (max-width: 760px) {
+      .release-part-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header class="hero">
+    <h1>OFFICIAL RELEASE GUIDE</h1>
+    <p class="subhead" style="margin:0.5rem auto 0;color:#6f665f;max-width:80ch;text-align:center">
+      What was officially released (DOJ and mirrors), how the main ZIP packages map to DS1-DS12, and where torrent sources are available.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+    <nav class="hero-nav dataset-page-nav" aria-label="Guide navigation">
+      <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900);box-shadow:0 4px 14px rgba(125,77,0,0.32)">BACK TO MAIN SITE &larr;</a>
+      <a class="hero-nav-btn" href="./search.html" style="background:linear-gradient(125deg,#bf3b18,#8f2609);box-shadow:0 4px 14px rgba(191,59,24,0.3)">SEARCH SITE &rarr;</a>
+      <a class="hero-nav-btn" href="./ds11.html" style="background:linear-gradient(125deg,#335f8f,#1d3f63);box-shadow:0 4px 14px rgba(33,73,112,0.3)">OPEN DS11 DETAILS &rarr;</a>
+    </nav>
+  </header>
+
+  <main class="grid">
+    <section class="panel datasets-panel release-shell">
+      <h2>Release Snapshot</h2>
+      <p class="hint">High-level orientation for the public release bundle and the current scan pipeline, including estimated release-level picture volume and verified mirror/torrent coverage.</p>
+      <div id="releaseSummary" class="release-summary"></div>
+    </section>
+
+    <section class="panel datasets-panel release-shell">
+      <h2>Pictures / Images: Where They Came From</h2>
+      <p class="hint">The image corpus is not one single ZIP. It comes from official release IMAGES folders (Concordance/IPRO datasets) plus extracted page-image outputs used by OCR/CLIP processing.</p>
+      <div class="table-wrap" style="max-height:none">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Source</th>
+              <th>What It Is</th>
+              <th>Approx Volume</th>
+              <th>Current Path</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>DataSet10 (official release)</strong></td>
+              <td>Concordance/IPRO image production set in <code>VOL00010/IMAGES</code>.</td>
+              <td><strong>303,204 image files</strong></td>
+              <td><code>_DATA/DataSet10/VOL00010/IMAGES/</code></td>
+            </tr>
+            <tr>
+              <td><strong>DataSet11 (official release)</strong></td>
+              <td>Concordance/IPRO image production set in <code>IMAGES/0001-0332</code>.</td>
+              <td><strong>~332,664 image files</strong> (est.)</td>
+              <td><code>_DATA/DataSet11/IMAGES/</code></td>
+            </tr>
+            <tr>
+              <td><strong>Extracted Image Corpus (working)</strong></td>
+              <td>Page-image corpus used for OCR triage and CLIP tagging across extracted release materials.</td>
+              <td><strong>~1.2M+ images</strong></td>
+              <td><code>_CLIP_OUTPUT/ALL_EXTRACTED_IMAGES/_by_first_category/</code></td>
+            </tr>
+            <tr>
+              <td><strong>CLIP Tagged Subsets</strong></td>
+              <td>Tagged/organized subsets derived from the extracted image corpus.</td>
+              <td><strong>3,349 (EG) + 689 (G)</strong> (+ test folders)</td>
+              <td><code>_CLIP_OUTPUT/EG/</code>, <code>_CLIP_OUTPUT/G/</code></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="hint" style="margin-top:0.55rem">Reference basis in-project: <code>AUDIT-REPORT-2026-02-12.md</code> (DS10/DS11 IMAGES counts/structure) and <code>PROJECT/SCRIPTS/ocr-text-separator-v2.py</code> ("Separates 1.2M+ images").</p>
+    </section>
+
+    <section class="panel datasets-panel release-shell">
+      <h2>Main Parts Of The Release</h2>
+      <div class="release-part-grid">
+        <article class="release-part">
+          <h3>Part A: Smaller Public Packages</h3>
+          <p>DS1-DS7 and DS12 are the smaller extracted packages. They are already covered in the small-dataset person scans and are useful for quick targeted review.</p>
+        </article>
+        <article class="release-part">
+          <h3>Part B: Mid-size Package</h3>
+          <p>DS8 is a medium package and produced the majority of early Maxwell hits in our person scans, making it a high-signal bridge between small and large corpora.</p>
+        </article>
+        <article class="release-part">
+          <h3>Part C: Heavy Corpora</h3>
+          <p>DS9, DS10, and DS11 are the largest workloads. DS10 is financial-heavy by keyword profile, DS11 is core email-heavy, and DS9 is the largest unscanned-person gap now being processed.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="panel datasets-panel release-shell">
+      <h2>Official ZIP Packages (Main View)</h2>
+      <p class="hint">Each dataset row includes official ZIP name, file count and size, what it mainly consists of from scan evidence, and direct links.</p>
+      <div class="table-wrap" style="max-height:none">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Dataset</th>
+              <th>Official ZIP / Size</th>
+              <th>Files</th>
+              <th>What It Consists Of (scan-based)</th>
+              <th>Links</th>
+            </tr>
+          </thead>
+          <tbody id="releaseRows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel datasets-panel release-shell">
+      <h2>Scan Coverage Snapshot</h2>
+      <p class="hint">Status view of what has been scanned so far, so you can see what is complete vs in progress.</p>
+      <ul class="release-coverage">
+        <li><strong>DS1-DS7 and DS12:</strong> Existing 12-person scans complete.</li>
+        <li><strong>DS8:</strong> Existing 12-person scan complete.</li>
+        <li><strong>DS10:</strong> Financial keyword scan complete.</li>
+        <li><strong>DS11:</strong> Existing scans complete for 11/12 tracked people; Maxwell was not included in that historical DS11 pass.</li>
+        <li><strong>DS9:</strong> Existing 12-person scan is currently running in single-job mode.</li>
+      </ul>
+    </section>
+
+    <section class="panel datasets-panel release-shell">
+      <h2>Where This Data Lives In The Site</h2>
+      <ul class="release-coverage">
+        <li><code>content/emails/{person}/</code> stores per-person JSONL outputs and person-level email artifacts.</li>
+        <li><code>content/emails/cast-flagged/</code> stores aggregated email markdown evidence files used by the cast and explorer views.</li>
+        <li><code>content/cast/pages/</code> and <code>content/cast/cast-index.md</code> map scanned people into browsable cast pages.</li>
+        <li><code>data/public-data.json</code> drives the dataset cards and this guide page summary.</li>
+      </ul>
+    </section>
+  </main>
+
+  <script src="./release-guide.js?v=20260213-release-guide" defer></script>
+</body>
+</html>

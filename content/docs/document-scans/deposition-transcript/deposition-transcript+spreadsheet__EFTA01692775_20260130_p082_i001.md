@@ -1,0 +1,481 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p082_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 766
+confidence: 1.00
+extracted: 2026-02-13T16:57:01.024311
+---
+
+cingular 
+Account Pante 
+06:3001/109.l
+ame 
+Date of bwoke I 
+July 12. 2005 
+Page OS 16 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE usAcr. FOR 
+worst 
+kat Os Moo CMS 
+16 0611 10010 
+15 06 
+NI 
+ra 
+'loll 
+WOO 
+4 011
+Fin 1138 
+11311 ”FIN 
+git 1. 
+14 Wm 012M 
+al
+92 
+93 06.1 
+06.1 
+06 
+OM 
+Fel E 
+103 060 
+104 0641 
+101 MA 
+106191 
+107 061 
+103 ..," 
+1.0 OF 
+CAA 
+113 0.1 
+113 01.A 
+14 
+le 3611 
+117 MA 
+Is
+0 
+110 NM 
+121 
+123 06
+OIAM 
+01:0A 
+0 119 
+flf; 
+1041A 
+100A 
+1 Ilia 
+0 310 
+Sint 
+01:318 
+SIN 
+00308 
+0213.1.1 
+Pre470 
+OVEP 
+at= 
+low 
+MOP 
+1.200 
+114Z; 
+1011A 
+01:1 
+11.6 A 
+01.13P 
+01:7118 
+1257 
+I 
+0 
+133 MS 0211P 
+01 
+128 
+20 
+204.2; 
+131 064003068 
+14 21183 
+2 
+136 OEM113 
+UP3 
+(.2)0150074 
+4111111 
+Chap 
+Calls To 
+Used Rats Eimoripeon 
+MN
+U 
+Tr:MACH FL 
+413N 
+U 
+MN 
+NLIPATTO leWia) 
+FL 
+33ENN
+V• 
+FL 
+2/AN 
+V 
+2MN 
+WAN 
+U
+1L N 
+.i MN 
+HN 
+IMN 
+MN 
+ION 
+1MA 
+IMN
+ Ve
+al IM 
+PAN 
+1MN 
+1iZt 
+WIN 
+UMIMTfO 
+NM 
+UNUMMOOLNEMIErVAL 
+ENT 
+MESSAGE RE 
+MN 
+300 A001. 3,.=
+ MY
+NW 
+10. 
+WIN 
+NM 
+V 
+MAI 
+WIN 
+NM 
+MN 
+EL 
+MN 
+FL 
+AW
+INCOmMO 
+WWII 
+3.10 
+AN 
+1 
+rti.M
+CH
+OI FL 
+N 
+1144M 
+4M1 
+FL 
+WI 
+W
+IMCSA.04 FL 
+MW roudiK'1 1. 
+WWII 
+FL 
+rilri 
+gladreMS ZZIE 0 
+II FL 
+MN 
+UNUMILE1 IMMO MN 
+N n. 
+ACM FL 
+MN 
+UNUMTE0 NBA/ MN 
+MN 
+AMAMI, 'WNW IAN 
+WEAL 
+WPA
+u
+.
+a
+r 
+FL 
+CNN 39
+IONIAN MN 
+FL 
+0 
+3908=4113: 
+nr-ouino 
+MN 
+INUMTIO NAVIMO IAN 
+WPALY:866,4 FL 
+10/ 
+',HOWIE° /4NAMO LW 
+WPALLINACH FL 
+MA 
+LINUMTEDNAW4OPMC 
+WPALWEA04 FL 
+M14 
+8.10 ADM MUM% WI 
+IKOMMO 
+MN 
+MUM WOOL TO MCOL 
+NON 
+OEM FL 
+MW 
+MO IN mut To= 
+MN 
+041604081. TO 
+-h. 
+aoutratemor, 
+WIN 
+EY,  
+ILESSAOC SIETINIEVAL 
+MA 
+103 34280.441TTWE501 
+rt. = al N/YTME 1,:ii 
+m 
+NW 
+uNi ad 
+i TOM r 
+W4 
+ENT 
+idgcs-,,,,,,f
+ri4 4.," 
+W4 
+AWYTME a 
+MN 
+'AVOW WI 
+IAN 
+8414 
+AMA AjiWirai i 
+FL 
+06/I 
+UMAIMODL TOMO& 
+WaffE
+ct 
+It 
+P P/OMEACH FL 
+WPA
+C UWAE44 
+WPALIMIACH n.
+t
+w/d 
+2 .1f E
+WFV4
+WPM* 
+.100
+AG. 
+FL 
+.04 F
+WPALVBEACII FL 
+Atl 
+VOICE USAGE I OR 
+NMilber 
+Chew 
+Kim Dolo m's 
+0601 
+130 Mil OltUP 
+11/9 060 000.. 
+1•3 04/1 ONW 
+141 ON az 
+1Z MI 011214. 
+1b0 
+ IS 
+06•13 10208 
+147 OUTS 16100 
+14 W15 11:1W 
+149 Mb 11,211
+in Grua SA
+10 OYU 01•66A 
+IF6068
+L 
+1ST 0624124W 
+11
+00 Of416 1- 
+ill EliM 
+1 06/1402410 
+,• 10 O6O.O1.418 
+168 06016 0224P 
+44 WHIZ 
+140 0641:000 
+;it m604,„,
+11: MI6 0014. 
+. 113 MI6 0.1178 
+114 06114.00 210 
+11 8 618216 
+. 
+WI/ 1221A 
+178 06/17 12261. 
+' III W1 1211A 
+NM 0601/01:346 
+F. MI oori7 11.336 
+ffl ETIM 
+osn 104141
+IN 06/13 0,0$ 
+• I 
+1113 0
+O
+61
+VA  06109243 
+0
+4P 
+- 
+I F Z3 SIM' 
+83, gtri'; 
+42 °All St41:: 
+Ill 2N314`. : 
+'370110"#P 
+Continths4 
+arty 
+°woo 
+Calle To 
+UAW RAM Owalpdon 
+'IAN 
+venodeamm a 
+IAN 
+DONN I010CHFL 
+NM 
+11PIANDCAOIFL 
+AtA4 
+=I 
+NN
+I•14 
+MN 
+MCCNIN 
+ViC001
+G
+0 
+VICONNG 
+WEAL...EACH FL 
+WPA1MAFACH FL 
+WPM60
+OINMMINALN FL 
+WINWMAGN 
+aiZACPI FL 
+MOPING 
+WPAuVOLACH FL 
+WEAMOLC:FL 
+VV PAL/4B ACAIFL 
+W0µ4
+FL 
+V*AL" 
+ACM FL 
+ViP4LU 
+ACV FL 
+krift 
+vaNA 
+ALA 
+LAPALUBEN.IN FL 
+MOJNYUCH FL 
+V.Pµ4EACH FL 
+V.P4LuENACPI FL 
+INCOMIrti 
+%YAW, ACI4 FL 
+µ1P40 ACIIIt 
+INCO
+INCOAG 
+WPALN
+MBEACH FL 
+WPALIMEACI4FL 
+nizi, 
+lot 
+LSI!' gu AC H 
+NOMA 
+I/ANNASO 
+WPµUBE.4CIl F 
+%MUMKM Ft 
+80Th IONIA:NFL 
+AirA01.94ACH FL 
+WALN14..4.04F1. 
+ii.cOMN 
+6014TONOECH FL 
+Z.:111.84102i14 
+VIP44118EACH FL 
+INCOMAG 
+zzglitilP4rm 
+W0µ 
+NFL 
+WP 
+NFL 
+NIL 
+I.: 
+. . i5r„ = 
+. 
+MN 
+360 
+ANYTIIE MN 
+MN
+NI 
+tAIAVIVONAMMO MN 
+MN 
+UV' 
+0 titffmip MN 
+I 
+0 
+LMT 8=8 MI 
+NM 
+ONUM 0 WINO MN 
+NM 
+MOAT OWES/0MM 
+N 
+VNI.I.11 OWITN 
+/AN 
+0111:11141/CW4 MN 
+M . 
+UMAI 
+TQ  M. 
+Pn.. AN 
+P
+VAI. 
+Mtn4M=
+MAI 
+MN 
+830 A00t MY 
+MN 
+51
+14 
+0 
+NNINIO MN 
+MN 
+MN 
+M4 
+Pi
+MN 
+MN 
+MN 
+=scot Arm( fiN 
+UNUNITIO PLAYANO LIN 
+111004100 NN0040 MN 
+34318 =SUP 
+TIQWW.4No MN 
+11 
+VIVINg 
+MN 
+LNI.111+98 NAr21
+ 18 MN 
+AMSTED I4M1040 MN 
+MUM I 
+NAV 
+MOUT 
+VA 
+MN 
+MU NI MI 
+MA 
+LNINATI NM 
+IM 
+LAMM 11 WV
+ IAN 
+MOUT() '%
+ANVI4140 Mn 
+Loan) 
+NW MN 
+INNUW1 ID VAI/10.0 WI 
+8144118 =TS MI 
+eNs"...trktT&TA" 
+YOADY. POTPIE mil 
+3601 Meal - 
+i  . 
+NM 
+MN 
+X0 
+L ANYTW MN 
+'34 MI 
+3,0 NW . NAIVE NN 
+303&20.114111K1011 
+"tee  IFIWI
+L. 
+kV l
+A 
+MN 
+MI UM 
+LAYATEDWItlel MN 
+MOOTED WIVIWO MN 
+MINIM NiVIKNO /AN 
+COMIpp 
+EFTA01692856

@@ -1,0 +1,4267 @@
+{
+  "generated_at": "2026-02-18T00:36:28Z",
+  "total": 532,
+  "counts": {
+    "high": 435,
+    "medium": 74,
+    "low": 23
+  },
+  "items": [
+    {
+      "tier": "high",
+      "score": 0.979,
+      "file": "content/images/epstein-face-matches/high/score0.979__affidavit+adult-man+legal-filing__EFTA00169875_20260202_p001_i001.webp",
+      "source_name": "score0.979__affidavit+adult-man+legal-filing__EFTA00169875_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.959,
+      "file": "content/images/epstein-face-matches/high/score0.959__affidavit+court-document+scanned-document+email-screenshot+deposition-transcript__EFTA00128756_20260202_p001_i001.webp",
+      "source_name": "score0.959__affidavit+court-document+scanned-document+email-screenshot+deposition-transcript__EFTA00128756_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.959,
+      "file": "content/images/epstein-face-matches/high/score0.959__affidavit+court-document+scanned-document+email-screenshot+deposition-transcript__EFTA00128757_20260202_p001_i001.webp",
+      "source_name": "score0.959__affidavit+court-document+scanned-document+email-screenshot+deposition-transcript__EFTA00128757_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.956,
+      "file": "content/images/epstein-face-matches/high/score0.956__affidavit+court-document+legal-filing__EFTA00169873_20260202_p001_i001.webp",
+      "source_name": "score0.956__affidavit+court-document+legal-filing__EFTA00169873_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.941,
+      "file": "content/images/epstein-face-matches/high/score0.941__adult-man+email-screenshot+typed-page+legal-filing__EFTA00172149_20260202_p006_i001.webp",
+      "source_name": "score0.941__adult-man+email-screenshot+typed-page+legal-filing__EFTA00172149_20260202_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.941,
+      "file": "content/images/epstein-face-matches/high/score0.941__adult-man+email-screenshot+typed-page+legal-filing__EFTA00173333_20260202_p006_i001.webp",
+      "source_name": "score0.941__adult-man+email-screenshot+typed-page+legal-filing__EFTA00173333_20260202_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.94,
+      "file": "content/images/epstein-face-matches/high/score0.940__affidavit+book-page+legal-filing+court-document__EFTA00261980_20260202_p001_i001.webp",
+      "source_name": "score0.940__affidavit+book-page+legal-filing+court-document__EFTA00261980_20260202_p001_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.935,
+      "file": "content/images/epstein-face-matches/high/score0.935__affidavit+court-document+contact-list__EFTA00101560_20260202_p005_i001.webp",
+      "source_name": "score0.935__affidavit+court-document+contact-list__EFTA00101560_20260202_p005_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.931,
+      "file": "content/images/epstein-face-matches/high/score0.931__affidavit+contact-list+court-document+scanned-document__EFTA01256987_20260203_p005_i001.webp",
+      "source_name": "score0.931__affidavit+contact-list+court-document+scanned-document__EFTA01256987_20260203_p005_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.929,
+      "file": "content/images/epstein-face-matches/high/score0.929__affidavit+legal-filing+scanned-document__EFTA00263107_20260202_p010_i001.webp",
+      "source_name": "score0.929__affidavit+legal-filing+scanned-document__EFTA00263107_20260202_p010_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.924,
+      "file": "content/images/epstein-face-matches/high/score0.924__affidavit+scanned-document+id-card__EFTA00812453_20260203_p001_i001.webp",
+      "source_name": "score0.924__affidavit+scanned-document+id-card__EFTA00812453_20260203_p001_i001.png",
+      "width": 793,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.916,
+      "file": "content/images/epstein-face-matches/high/score0.916__portrait-photo+adult-man__EFTA01610137_20260130_p001_i001.webp",
+      "source_name": "score0.916__portrait-photo+adult-man__EFTA01610137_20260130_p001_i001.png",
+      "width": 1365,
+      "height": 768
+    },
+    {
+      "tier": "high",
+      "score": 0.915,
+      "file": "content/images/epstein-face-matches/high/score0.915__affidavit+legal-filing+court-document__EFTA00098593_20260202_p051_i001.webp",
+      "source_name": "score0.915__affidavit+legal-filing+court-document__EFTA00098593_20260202_p051_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.91,
+      "file": "content/images/epstein-face-matches/high/score0.910__affidavit+court-document+legal-filing__EFTA00098593_20260202_p030_i001.webp",
+      "source_name": "score0.910__affidavit+court-document+legal-filing__EFTA00098593_20260202_p030_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.909,
+      "file": "content/images/epstein-face-matches/high/score0.909__affidavit+court-document+legal-filing__EFTA00098507_20260202_p067_i001.webp",
+      "source_name": "score0.909__affidavit+court-document+legal-filing__EFTA00098507_20260202_p067_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.908,
+      "file": "content/images/epstein-face-matches/high/score0.908__affidavit+court-document+legal-filing__EFTA00098593_20260202_p044_i001.webp",
+      "source_name": "score0.908__affidavit+court-document+legal-filing__EFTA00098593_20260202_p044_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.903,
+      "file": "content/images/epstein-face-matches/high/score0.903__affidavit+legal-filing+court-document__EFTA00098507_20260202_p081_i001.webp",
+      "source_name": "score0.903__affidavit+legal-filing+court-document__EFTA00098507_20260202_p081_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.902,
+      "file": "content/images/epstein-face-matches/high/score0.902__affidavit+legal-filing+court-document__EFTA00098593_20260202_p016_i001.webp",
+      "source_name": "score0.902__affidavit+legal-filing+court-document__EFTA00098593_20260202_p016_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.901,
+      "file": "content/images/epstein-face-matches/high/score0.901__affidavit+legal-filing+court-document__EFTA00098507_20260202_p039_i001.webp",
+      "source_name": "score0.901__affidavit+legal-filing+court-document__EFTA00098507_20260202_p039_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.901,
+      "file": "content/images/epstein-face-matches/high/score0.901__affidavit+legal-filing+court-document__EFTA00098507_20260202_p053_i001.webp",
+      "source_name": "score0.901__affidavit+legal-filing+court-document__EFTA00098507_20260202_p053_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.9,
+      "file": "content/images/epstein-face-matches/high/score0.900__affidavit+legal-filing+court-document__EFTA00098593_20260202_p065_i001.webp",
+      "source_name": "score0.900__affidavit+legal-filing+court-document__EFTA00098593_20260202_p065_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.899,
+      "file": "content/images/epstein-face-matches/high/score0.899__affidavit+court-document+legal-filing__EFTA00098593_20260202_p037_i001.webp",
+      "source_name": "score0.899__affidavit+court-document+legal-filing__EFTA00098593_20260202_p037_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.898,
+      "file": "content/images/epstein-face-matches/high/score0.898__affidavit+legal-filing+court-document__EFTA00098507_20260202_p032_i001.webp",
+      "source_name": "score0.898__affidavit+legal-filing+court-document__EFTA00098507_20260202_p032_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.895,
+      "file": "content/images/epstein-face-matches/high/score0.895__affidavit+court-document+legal-filing__EFTA00098507_20260202_p046_i001.webp",
+      "source_name": "score0.895__affidavit+court-document+legal-filing__EFTA00098507_20260202_p046_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.895,
+      "file": "content/images/epstein-face-matches/high/score0.895__affidavit+court-document+legal-filing__EFTA00098507_20260202_p074_i001.webp",
+      "source_name": "score0.895__affidavit+court-document+legal-filing__EFTA00098507_20260202_p074_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.883,
+      "file": "content/images/epstein-face-matches/high/score0.883__affidavit+court-document+legal-filing__EFTA00098507_20260202_p060_i001.webp",
+      "source_name": "score0.883__affidavit+court-document+legal-filing__EFTA00098507_20260202_p060_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.881,
+      "file": "content/images/epstein-face-matches/high/score0.881__affidavit+legal-filing+court-document+scanned-document__EFTA00313270_20260202_p001_i001.webp",
+      "source_name": "score0.881__affidavit+legal-filing+court-document+scanned-document__EFTA00313270_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.881,
+      "file": "content/images/epstein-face-matches/high/score0.881__affidavit+legal-filing+court-document__EFTA00098593_20260202_p009_i001.webp",
+      "source_name": "score0.881__affidavit+legal-filing+court-document__EFTA00098593_20260202_p009_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.878,
+      "file": "content/images/epstein-face-matches/high/score0.878__affidavit+court-document+legal-filing__EFTA00098593_20260202_p023_i001.webp",
+      "source_name": "score0.878__affidavit+court-document+legal-filing__EFTA00098593_20260202_p023_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.878,
+      "file": "content/images/epstein-face-matches/high/score0.878__affidavit+legal-filing+court-document__EFTA00098593_20260202_p002_i001.webp",
+      "source_name": "score0.878__affidavit+legal-filing+court-document__EFTA00098593_20260202_p002_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.864,
+      "file": "content/images/epstein-face-matches/high/score0.864__affidavit+court-document+legal-filing__EFTA00098507_20260202_p025_i001.webp",
+      "source_name": "score0.864__affidavit+court-document+legal-filing__EFTA00098507_20260202_p025_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.864,
+      "file": "content/images/epstein-face-matches/high/score0.864__affidavit+legal-filing+court-document__EFTA00098593_20260202_p058_i001.webp",
+      "source_name": "score0.864__affidavit+legal-filing+court-document__EFTA00098593_20260202_p058_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.857,
+      "file": "content/images/epstein-face-matches/high/score0.857__affidavit+court-document+scanned-document+timeline__EFTA00252081_20260202_p022_i001.webp",
+      "source_name": "score0.857__affidavit+court-document+scanned-document+timeline__EFTA00252081_20260202_p022_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.854,
+      "file": "content/images/epstein-face-matches/high/score0.854__computer-screen+spreadsheet+legal-filing+typed-page__EFTA00252051_20260202_p025_i001.webp",
+      "source_name": "score0.854__computer-screen+spreadsheet+legal-filing+typed-page__EFTA00252051_20260202_p025_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.848,
+      "file": "content/images/epstein-face-matches/high/score0.848__affidavit+contact-list+legal-filing__EFTA00147241_20260202_p001_i001.webp",
+      "source_name": "score0.848__affidavit+contact-list+legal-filing__EFTA00147241_20260202_p001_i001.png",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "tier": "high",
+      "score": 0.848,
+      "file": "content/images/epstein-face-matches/high/score0.848__computer-screen+spreadsheet__EFTA00252051_20260202_p024_i001.webp",
+      "source_name": "score0.848__computer-screen+spreadsheet__EFTA00252051_20260202_p024_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.846,
+      "file": "content/images/epstein-face-matches/high/score0.846__adult-man+portrait-photo+affidavit__EFTA00077895_20260202_p008_i001.webp",
+      "source_name": "score0.846__adult-man+portrait-photo+affidavit__EFTA00077895_20260202_p008_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.846,
+      "file": "content/images/epstein-face-matches/high/score0.846__adult-man+portrait-photo+affidavit__EFTA00156011_20260202_p008_i001.webp",
+      "source_name": "score0.846__adult-man+portrait-photo+affidavit__EFTA00156011_20260202_p008_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.846,
+      "file": "content/images/epstein-face-matches/high/score0.846__affidavit+adult-man+legal-filing+deposition-transcript__EFTA00252355_20260202_p019_i001.webp",
+      "source_name": "score0.846__affidavit+adult-man+legal-filing+deposition-transcript__EFTA00252355_20260202_p019_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.846,
+      "file": "content/images/epstein-face-matches/high/score0.846__affidavit+legal-filing+scanned-document+court-document__EFTA00313895_20260202_p001_i001.webp",
+      "source_name": "score0.846__affidavit+legal-filing+scanned-document+court-document__EFTA00313895_20260202_p001_i001.png",
+      "width": 793,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.845,
+      "file": "content/images/epstein-face-matches/high/score0.845__adult-man+scanned-document+vehicle__EFTA00253426_20260202_p142_i001.webp",
+      "source_name": "score0.845__adult-man+scanned-document+vehicle__EFTA00253426_20260202_p142_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.842,
+      "file": "content/images/epstein-face-matches/high/score0.842__portrait-photo+adult-man__EFTA01610822_20260130_p001_i001.webp",
+      "source_name": "score0.842__portrait-photo+adult-man__EFTA01610822_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 934
+    },
+    {
+      "tier": "high",
+      "score": 0.841,
+      "file": "content/images/epstein-face-matches/high/score0.841__affidavit+court-document+email-screenshot__EFTA00306919_20260202_p001_i001.webp",
+      "source_name": "score0.841__affidavit+court-document+email-screenshot__EFTA00306919_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.83,
+      "file": "content/images/epstein-face-matches/high/score0.830__adult-man+portrait-photo__EFTA00254504_20260202_p067_i001.webp",
+      "source_name": "score0.830__adult-man+portrait-photo__EFTA00254504_20260202_p067_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.83,
+      "file": "content/images/epstein-face-matches/high/score0.830__computer-screen+affidavit+typed-page__EFTA00252051_20260202_p023_i001.webp",
+      "source_name": "score0.830__computer-screen+affidavit+typed-page__EFTA00252051_20260202_p023_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.829,
+      "file": "content/images/epstein-face-matches/high/score0.829__adult-man+affidavit+portrait-photo+scanned-document__EFTA00254504_20260202_p097_i001.webp",
+      "source_name": "score0.829__adult-man+affidavit+portrait-photo+scanned-document__EFTA00254504_20260202_p097_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.829,
+      "file": "content/images/epstein-face-matches/high/score0.829__affidavit+outdoor-scene+deposition-transcript+portrait-photo__EFTA00249026_20260202_p115_i001.webp",
+      "source_name": "score0.829__affidavit+outdoor-scene+deposition-transcript+portrait-photo__EFTA00249026_20260202_p115_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.829,
+      "file": "content/images/epstein-face-matches/high/score0.829__affidavit+spreadsheet+legal-filing+court-document+deposition-transcript__EFTA00255657_20260202_p032_i001.webp",
+      "source_name": "score0.829__affidavit+spreadsheet+legal-filing+court-document+deposition-transcript__EFTA00255657_20260202_p032_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.826,
+      "file": "content/images/epstein-face-matches/high/score0.826__affidavit+adult-man+scanned-document__EFTA00254504_20260202_p099_i001.webp",
+      "source_name": "score0.826__affidavit+adult-man+scanned-document__EFTA00254504_20260202_p099_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.826,
+      "file": "content/images/epstein-face-matches/high/score0.826__affidavit+spreadsheet+scanned-document__EFTA00255657_20260202_p028_i001.webp",
+      "source_name": "score0.826__affidavit+spreadsheet+scanned-document__EFTA00255657_20260202_p028_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.826,
+      "file": "content/images/epstein-face-matches/high/score0.826__computer-screen+affidavit+legal-filing+adult-man+typed-page__EFTA00252051_20260202_p026_i001.webp",
+      "source_name": "score0.826__computer-screen+affidavit+legal-filing+adult-man+typed-page__EFTA00252051_20260202_p026_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.823,
+      "file": "content/images/epstein-face-matches/high/score0.823__portrait-photo+adult-man__EFTA00003547_20251219_p001_i001.webp",
+      "source_name": "score0.823__portrait-photo+adult-man__EFTA00003547_20251219_p001_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.821,
+      "file": "content/images/epstein-face-matches/high/score0.821__affidavit+business-card+contact-list__EFTA00164480_20260202_p001_i001.webp",
+      "source_name": "score0.821__affidavit+business-card+contact-list__EFTA00164480_20260202_p001_i001.png",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "tier": "high",
+      "score": 0.819,
+      "file": "content/images/epstein-face-matches/high/score0.819__book-page+affidavit+scanned-document+email-screenshot+court-document__EFTA00263131_20260202_p001_i001.webp",
+      "source_name": "score0.819__book-page+affidavit+scanned-document+email-screenshot+court-document__EFTA00263131_20260202_p001_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.817,
+      "file": "content/images/epstein-face-matches/high/score0.817__computer-screen+legal-filing+adult-man__EFTA00255924_20260202_p005_i001.webp",
+      "source_name": "score0.817__computer-screen+legal-filing+adult-man__EFTA00255924_20260202_p005_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.816,
+      "file": "content/images/epstein-face-matches/high/score0.816__adult-man+portrait-photo__EFTA00254504_20260202_p081_i001.webp",
+      "source_name": "score0.816__adult-man+portrait-photo__EFTA00254504_20260202_p081_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.815,
+      "file": "content/images/epstein-face-matches/high/score0.815__adult-man+legal-filing+court-document+affidavit__EFTA00255657_20260202_p072_i001.webp",
+      "source_name": "score0.815__adult-man+legal-filing+court-document+affidavit__EFTA00255657_20260202_p072_i001.png",
+      "width": 1037,
+      "height": 1382
+    },
+    {
+      "tier": "high",
+      "score": 0.815,
+      "file": "content/images/epstein-face-matches/high/score0.815__affidavit+legal-filing+adult-man+court-document__EFTA00248167_20260202_p114_i001.webp",
+      "source_name": "score0.815__affidavit+legal-filing+adult-man+court-document__EFTA00248167_20260202_p114_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.815,
+      "file": "content/images/epstein-face-matches/high/score0.815__affidavit+scanned-document+adult-man+court-document+legal-filing__EFTA00252355_20260202_p028_i001.webp",
+      "source_name": "score0.815__affidavit+scanned-document+adult-man+court-document+legal-filing__EFTA00252355_20260202_p028_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.813,
+      "file": "content/images/epstein-face-matches/high/score0.813__adult-man+affidavit+portrait-photo__EFTA00255028_20260202_p124_i001.webp",
+      "source_name": "score0.813__adult-man+affidavit+portrait-photo__EFTA00255028_20260202_p124_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.813,
+      "file": "content/images/epstein-face-matches/high/score0.813__airplane+affidavit__EFTA00253426_20260202_p189_i001.webp",
+      "source_name": "score0.813__airplane+affidavit__EFTA00253426_20260202_p189_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.812,
+      "file": "content/images/epstein-face-matches/high/score0.812__affidavit+court-document+legal-filing__EFTA00188312_20260202_p120_i001.webp",
+      "source_name": "score0.812__affidavit+court-document+legal-filing__EFTA00188312_20260202_p120_i001.png",
+      "width": 817,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.811,
+      "file": "content/images/epstein-face-matches/high/score0.811__computer-screen+deposition-transcript+spreadsheet__EFTA00247725_20260202_p060_i001.webp",
+      "source_name": "score0.811__computer-screen+deposition-transcript+spreadsheet__EFTA00247725_20260202_p060_i001.png",
+      "width": 546,
+      "height": 410
+    },
+    {
+      "tier": "high",
+      "score": 0.81,
+      "file": "content/images/epstein-face-matches/high/score0.810__affidavit+court-document+scanned-document+legal-filing+deposition-transcript__EFTA00263107_20260202_p008_i001.webp",
+      "source_name": "score0.810__affidavit+court-document+scanned-document+legal-filing+deposition-transcript__EFTA00263107_20260202_p008_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.81,
+      "file": "content/images/epstein-face-matches/high/score0.810__affidavit+deposition-transcript+adult-man+legal-filing__EFTA00254504_20260202_p085_i001.webp",
+      "source_name": "score0.810__affidavit+deposition-transcript+adult-man+legal-filing__EFTA00254504_20260202_p085_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.809,
+      "file": "content/images/epstein-face-matches/high/score0.809__boat+affidavit+adult-man__EFTA00254398_20260202_p100_i001.webp",
+      "source_name": "score0.809__boat+affidavit+adult-man__EFTA00254398_20260202_p100_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.806,
+      "file": "content/images/epstein-face-matches/high/score0.806__computer-screen+spreadsheet+legal-filing+affidavit__EFTA00252051_20260202_p022_i001.webp",
+      "source_name": "score0.806__computer-screen+spreadsheet+legal-filing+affidavit__EFTA00252051_20260202_p022_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.805,
+      "file": "content/images/epstein-face-matches/high/score0.805__adult-man+portrait-photo__EFTA00255924_20260202_p047_i001.webp",
+      "source_name": "score0.805__adult-man+portrait-photo__EFTA00255924_20260202_p047_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.802,
+      "file": "content/images/epstein-face-matches/high/score0.802__adult-man+affidavit+portrait-photo__EFTA00254812_20260202_p124_i001.webp",
+      "source_name": "score0.802__adult-man+affidavit+portrait-photo__EFTA00254812_20260202_p124_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.801,
+      "file": "content/images/epstein-face-matches/high/score0.801__adult-man+portrait-photo+spreadsheet+deposition-transcript__EFTA00255657_20260202_p010_i001.webp",
+      "source_name": "score0.801__adult-man+portrait-photo+spreadsheet+deposition-transcript__EFTA00255657_20260202_p010_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.801,
+      "file": "content/images/epstein-face-matches/high/score0.801__affidavit+legal-filing+scanned-document+adult-man__EFTA00252355_20260202_p030_i001.webp",
+      "source_name": "score0.801__affidavit+legal-filing+scanned-document+adult-man__EFTA00252355_20260202_p030_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.801,
+      "file": "content/images/epstein-face-matches/high/score0.801__business-card+book-page+invoice+affidavit__EFTA00147413_20260202_p002_i001.webp",
+      "source_name": "score0.801__business-card+book-page+invoice+affidavit__EFTA00147413_20260202_p002_i001.png",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "tier": "high",
+      "score": 0.8,
+      "file": "content/images/epstein-face-matches/high/score0.800__affidavit+court-document+scanned-document+legal-filing__EFTA00263208_20260202_p006_i001.webp",
+      "source_name": "score0.800__affidavit+court-document+scanned-document+legal-filing__EFTA00263208_20260202_p006_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.8,
+      "file": "content/images/epstein-face-matches/high/score0.800__affidavit+court-document__EFTA01262179_20260203_p001_i001.webp",
+      "source_name": "score0.800__affidavit+court-document__EFTA01262179_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.8,
+      "file": "content/images/epstein-face-matches/high/score0.800__computer-screen+deposition-transcript__EFTA00255924_20260202_p018_i001.webp",
+      "source_name": "score0.800__computer-screen+deposition-transcript__EFTA00255924_20260202_p018_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.799,
+      "file": "content/images/epstein-face-matches/high/score0.799__affidavit+adult-man+legal-filing+portrait-photo__EFTA00249026_20260202_p106_i001.webp",
+      "source_name": "score0.799__affidavit+adult-man+legal-filing+portrait-photo__EFTA00249026_20260202_p106_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.799,
+      "file": "content/images/epstein-face-matches/high/score0.799__affidavit+court-document+legal-filing+scanned-document+deposition-transcript__EFTA00261990_20260202_p003_i001.webp",
+      "source_name": "score0.799__affidavit+court-document+legal-filing+scanned-document+deposition-transcript__EFTA00261990_20260202_p003_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.798,
+      "file": "content/images/epstein-face-matches/high/score0.798__affidavit+computer-screen+legal-filing__EFTA00252051_20260202_p020_i001.webp",
+      "source_name": "score0.798__affidavit+computer-screen+legal-filing__EFTA00252051_20260202_p020_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.798,
+      "file": "content/images/epstein-face-matches/high/score0.798__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p001_i001.webp",
+      "source_name": "score0.798__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p001_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.797,
+      "file": "content/images/epstein-face-matches/high/score0.797__adult-man+portrait-photo+scanned-document+affidavit__EFTA00257403_20260202_p002_i001.webp",
+      "source_name": "score0.797__adult-man+portrait-photo+scanned-document+affidavit__EFTA00257403_20260202_p002_i001.png",
+      "width": 495,
+      "height": 686
+    },
+    {
+      "tier": "high",
+      "score": 0.797,
+      "file": "content/images/epstein-face-matches/high/score0.797__affidavit+scanned-document+court-document+group-photo__EFTA00252355_20260202_p021_i001.webp",
+      "source_name": "score0.797__affidavit+scanned-document+court-document+group-photo__EFTA00252355_20260202_p021_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.796,
+      "file": "content/images/epstein-face-matches/high/score0.796__adult-man+affidavit+text-message-screenshot+email-screenshot__EFTA00172149_20260202_p003_i001.webp",
+      "source_name": "score0.796__adult-man+affidavit+text-message-screenshot+email-screenshot__EFTA00172149_20260202_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.796,
+      "file": "content/images/epstein-face-matches/high/score0.796__adult-man+affidavit+text-message-screenshot+email-screenshot__EFTA00173333_20260202_p003_i001.webp",
+      "source_name": "score0.796__adult-man+affidavit+text-message-screenshot+email-screenshot__EFTA00173333_20260202_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.796,
+      "file": "content/images/epstein-face-matches/high/score0.796__affidavit+court-document+scanned-document__EFTA00252081_20260202_p021_i001.webp",
+      "source_name": "score0.796__affidavit+court-document+scanned-document__EFTA00252081_20260202_p021_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.793,
+      "file": "content/images/epstein-face-matches/high/score0.793__affidavit+deposition-transcript+court-document+legal-filing+spreadsheet__EFTA01135518_20260203_p004_i001.webp",
+      "source_name": "score0.793__affidavit+deposition-transcript+court-document+legal-filing+spreadsheet__EFTA01135518_20260203_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.792,
+      "file": "content/images/epstein-face-matches/high/score0.792__affidavit+scanned-document+court-document+legal-filing__EFTA00270354_20260202_p005_i001.webp",
+      "source_name": "score0.792__affidavit+scanned-document+court-document+legal-filing__EFTA00270354_20260202_p005_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.791,
+      "file": "content/images/epstein-face-matches/high/score0.791__affidavit+adult-man+adult-woman__EFTA00252355_20260202_p020_i001.webp",
+      "source_name": "score0.791__affidavit+adult-man+adult-woman__EFTA00252355_20260202_p020_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.791,
+      "file": "content/images/epstein-face-matches/high/score0.791__airplane__EFTA00253426_20260202_p147_i001.webp",
+      "source_name": "score0.791__airplane__EFTA00253426_20260202_p147_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.791,
+      "file": "content/images/epstein-face-matches/high/score0.791__portrait-photo+adult-man__EFTA00003583_20251219_p001_i001.webp",
+      "source_name": "score0.791__portrait-photo+adult-man__EFTA00003583_20251219_p001_i001.png",
+      "width": 816,
+      "height": 546
+    },
+    {
+      "tier": "high",
+      "score": 0.79,
+      "file": "content/images/epstein-face-matches/high/score0.790__adult-man+portrait-photo+contact-list__COMBINED_ALL_EPSTEIN_FILES_20260210_p6561_i001.webp",
+      "source_name": "score0.790__adult-man+portrait-photo+contact-list__COMBINED_ALL_EPSTEIN_FILES_20260210_p6561_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.79,
+      "file": "content/images/epstein-face-matches/high/score0.790__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p003_i001.webp",
+      "source_name": "score0.790__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p003_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.789,
+      "file": "content/images/epstein-face-matches/high/score0.789__affidavit+scanned-document+newspaper-clipping+court-document+book-page__EFTA00263462_20260202_p010_i001.webp",
+      "source_name": "score0.789__affidavit+scanned-document+newspaper-clipping+court-document+book-page__EFTA00263462_20260202_p010_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.788,
+      "file": "content/images/epstein-face-matches/high/score0.788__adult-man+spreadsheet+court-document+legal-filing__EFTA00255840_20260202_p035_i001.webp",
+      "source_name": "score0.788__adult-man+spreadsheet+court-document+legal-filing__EFTA00255840_20260202_p035_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.788,
+      "file": "content/images/epstein-face-matches/high/score0.788__computer-screen+portrait-photo+adult-man+court-document__EFTA00254504_20260202_p091_i001.webp",
+      "source_name": "score0.788__computer-screen+portrait-photo+adult-man+court-document__EFTA00254504_20260202_p091_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.787,
+      "file": "content/images/epstein-face-matches/high/score0.787__adult-man+affidavit+portrait-photo__EFTA00249786_20260202_p082_i001.webp",
+      "source_name": "score0.787__adult-man+affidavit+portrait-photo__EFTA00249786_20260202_p082_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.787,
+      "file": "content/images/epstein-face-matches/high/score0.787__affidavit+adult-man+deposition-transcript__EFTA00255840_20260202_p071_i001.webp",
+      "source_name": "score0.787__affidavit+adult-man+deposition-transcript__EFTA00255840_20260202_p071_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.787,
+      "file": "content/images/epstein-face-matches/high/score0.787__affidavit+court-document+deposition-transcript__EFTA00174156_20260202_p004_i001.webp",
+      "source_name": "score0.787__affidavit+court-document+deposition-transcript__EFTA00174156_20260202_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.787,
+      "file": "content/images/epstein-face-matches/high/score0.787__group-photo+outdoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6592_i001.webp",
+      "source_name": "score0.787__group-photo+outdoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6592_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.785,
+      "file": "content/images/epstein-face-matches/high/score0.785__adult-man+legal-filing+affidavit+portrait-photo__EFTA00255840_20260202_p023_i001.webp",
+      "source_name": "score0.785__adult-man+legal-filing+affidavit+portrait-photo__EFTA00255840_20260202_p023_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.785,
+      "file": "content/images/epstein-face-matches/high/score0.785__affidavit+court-document+deposition-transcript__EFTA00174176_20260202_p004_i001.webp",
+      "source_name": "score0.785__affidavit+court-document+deposition-transcript__EFTA00174176_20260202_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.784,
+      "file": "content/images/epstein-face-matches/high/score0.784__affidavit+scanned-document+court-document+legal-filing+deposition-transcript__EFTA00263215_20260202_p005_i001.webp",
+      "source_name": "score0.784__affidavit+scanned-document+court-document+legal-filing+deposition-transcript__EFTA00263215_20260202_p005_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.783,
+      "file": "content/images/epstein-face-matches/high/score0.783__portrait-photo+face-close-up+adult-man__EFTA01610500_20260130_p001_i001.webp",
+      "source_name": "score0.783__portrait-photo+face-close-up+adult-man__EFTA01610500_20260130_p001_i001.png",
+      "width": 433,
+      "height": 181
+    },
+    {
+      "tier": "high",
+      "score": 0.782,
+      "file": "content/images/epstein-face-matches/high/score0.782__adult-man+group-photo+legal-filing__EFTA00253388_20260202_p032_i001.webp",
+      "source_name": "score0.782__adult-man+group-photo+legal-filing__EFTA00253388_20260202_p032_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.782,
+      "file": "content/images/epstein-face-matches/high/score0.782__boat+scanned-document__EFTA00249786_20260202_p059_i001.webp",
+      "source_name": "score0.782__boat+scanned-document__EFTA00249786_20260202_p059_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.781,
+      "file": "content/images/epstein-face-matches/high/score0.781__adult-man+affidavit+deposition-transcript+scanned-document__EFTA00247459_20260202_p073_i001.webp",
+      "source_name": "score0.781__adult-man+affidavit+deposition-transcript+scanned-document__EFTA00247459_20260202_p073_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.781,
+      "file": "content/images/epstein-face-matches/high/score0.781__adult-man+affidavit+deposition-transcript+scanned-document__EFTA00251483_20260202_p073_i001.webp",
+      "source_name": "score0.781__adult-man+affidavit+deposition-transcript+scanned-document__EFTA00251483_20260202_p073_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.781,
+      "file": "content/images/epstein-face-matches/high/score0.781__affidavit+adult-man+portrait-photo+deposition-transcript__EFTA00255840_20260202_p073_i001.webp",
+      "source_name": "score0.781__affidavit+adult-man+portrait-photo+deposition-transcript__EFTA00255840_20260202_p073_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.779,
+      "file": "content/images/epstein-face-matches/high/score0.779__adult-man+portrait-photo__EFTA00003575_20251219_p001_i001.webp",
+      "source_name": "score0.779__adult-man+portrait-photo__EFTA00003575_20251219_p001_i001.png",
+      "width": 816,
+      "height": 546
+    },
+    {
+      "tier": "high",
+      "score": 0.779,
+      "file": "content/images/epstein-face-matches/high/score0.779__adult-man+portrait-photo__EFTA01168597_20260203_p004_i001.webp",
+      "source_name": "score0.779__adult-man+portrait-photo__EFTA01168597_20260203_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.779,
+      "file": "content/images/epstein-face-matches/high/score0.779__adult-man+table+court-document+scanned-document+spreadsheet__EFTA00247459_20260202_p050_i001.webp",
+      "source_name": "score0.779__adult-man+table+court-document+scanned-document+spreadsheet__EFTA00247459_20260202_p050_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.779,
+      "file": "content/images/epstein-face-matches/high/score0.779__adult-man+table+court-document+scanned-document+spreadsheet__EFTA00251483_20260202_p050_i001.webp",
+      "source_name": "score0.779__adult-man+table+court-document+scanned-document+spreadsheet__EFTA00251483_20260202_p050_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.778,
+      "file": "content/images/epstein-face-matches/high/score0.778__adult-man+portrait-photo+affidavit__EFTA00255840_20260202_p021_i001.webp",
+      "source_name": "score0.778__adult-man+portrait-photo+affidavit__EFTA00255840_20260202_p021_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.777,
+      "file": "content/images/epstein-face-matches/high/score0.777__adult-man+court-document+portrait-photo+affidavit__EFTA00252081_20260202_p020_i001.webp",
+      "source_name": "score0.777__adult-man+court-document+portrait-photo+affidavit__EFTA00252081_20260202_p020_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.777,
+      "file": "content/images/epstein-face-matches/high/score0.777__adult-man+passport__EFTA00255244_20260202_p190_i001.webp",
+      "source_name": "score0.777__adult-man+passport__EFTA00255244_20260202_p190_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.777,
+      "file": "content/images/epstein-face-matches/high/score0.777__adult-man+person+affidavit__EFTA01599319_20260130_p001_i001.webp",
+      "source_name": "score0.777__adult-man+person+affidavit__EFTA01599319_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.777,
+      "file": "content/images/epstein-face-matches/high/score0.777__affidavit+adult-man+spreadsheet__EFTA00255840_20260202_p039_i001.webp",
+      "source_name": "score0.777__affidavit+adult-man+spreadsheet__EFTA00255840_20260202_p039_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.776,
+      "file": "content/images/epstein-face-matches/high/score0.776__affidavit+court-document+legal-filing+deposition-transcript+scanned-document__EFTA00174183_20260202_p005_i001.webp",
+      "source_name": "score0.776__affidavit+court-document+legal-filing+deposition-transcript+scanned-document__EFTA00174183_20260202_p005_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.776,
+      "file": "content/images/epstein-face-matches/high/score0.776__affidavit+deposition-transcript+computer-screen+legal-filing__EFTA00252051_20260202_p021_i001.webp",
+      "source_name": "score0.776__affidavit+deposition-transcript+computer-screen+legal-filing__EFTA00252051_20260202_p021_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.775,
+      "file": "content/images/epstein-face-matches/high/score0.775__adult-man+portrait-photo+newspaper-clipping__EFTA01168597_20260203_p005_i001.webp",
+      "source_name": "score0.775__adult-man+portrait-photo+newspaper-clipping__EFTA01168597_20260203_p005_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.775,
+      "file": "content/images/epstein-face-matches/high/score0.775__book-page+court-document+deposition-transcript+typed-page__EFTA00188312_20260202_p155_i001.webp",
+      "source_name": "score0.775__book-page+court-document+deposition-transcript+typed-page__EFTA00188312_20260202_p155_i001.png",
+      "width": 817,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.774,
+      "file": "content/images/epstein-face-matches/high/score0.774__affidavit+adult-man+legal-filing+portrait-photo__EFTA00255840_20260202_p069_i001.webp",
+      "source_name": "score0.774__affidavit+adult-man+legal-filing+portrait-photo__EFTA00255840_20260202_p069_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.774,
+      "file": "content/images/epstein-face-matches/high/score0.774__affidavit__EFTA00254812_20260202_p106_i001.webp",
+      "source_name": "score0.774__affidavit__EFTA00254812_20260202_p106_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.774,
+      "file": "content/images/epstein-face-matches/high/score0.774__boat+affidavit__EFTA00249786_20260202_p054_i001.webp",
+      "source_name": "score0.774__boat+affidavit__EFTA00249786_20260202_p054_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.772,
+      "file": "content/images/epstein-face-matches/high/score0.772__adult-man+scanned-document+court-document__EFTA00255244_20260202_p201_i001.webp",
+      "source_name": "score0.772__adult-man+scanned-document+court-document__EFTA00255244_20260202_p201_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.772,
+      "file": "content/images/epstein-face-matches/high/score0.772__affidavit+portrait-photo+adult-man__EFTA00255657_20260202_p091_i001.webp",
+      "source_name": "score0.772__affidavit+portrait-photo+adult-man__EFTA00255657_20260202_p091_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.772,
+      "file": "content/images/epstein-face-matches/high/score0.772__indoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6643_i001.webp",
+      "source_name": "score0.772__indoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6643_i001.png",
+      "width": 1400,
+      "height": 934
+    },
+    {
+      "tier": "high",
+      "score": 0.77,
+      "file": "content/images/epstein-face-matches/high/score0.770__affidavit__EFTA00255028_20260202_p106_i001.webp",
+      "source_name": "score0.770__affidavit__EFTA00255028_20260202_p106_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.77,
+      "file": "content/images/epstein-face-matches/high/score0.770__boat+scanned-document__EFTA00249786_20260202_p060_i001.webp",
+      "source_name": "score0.770__boat+scanned-document__EFTA00249786_20260202_p060_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.769,
+      "file": "content/images/epstein-face-matches/high/score0.769__adult-man+affidavit+legal-filing__EFTA00249026_20260202_p103_i001.webp",
+      "source_name": "score0.769__adult-man+affidavit+legal-filing__EFTA00249026_20260202_p103_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.769,
+      "file": "content/images/epstein-face-matches/high/score0.769__adult-man+person+portrait-photo__EFTA01168597_20260203_p002_i001.webp",
+      "source_name": "score0.769__adult-man+person+portrait-photo__EFTA01168597_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.768,
+      "file": "content/images/epstein-face-matches/high/score0.768__adult-man+table+scanned-document+court-document__EFTA00256388_20260202_p104_i001.webp",
+      "source_name": "score0.768__adult-man+table+scanned-document+court-document__EFTA00256388_20260202_p104_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.768,
+      "file": "content/images/epstein-face-matches/high/score0.768__affidavit+adult-man+portrait-photo+spreadsheet+deposition-transcript__EFTA00255657_20260202_p031_i001.webp",
+      "source_name": "score0.768__affidavit+adult-man+portrait-photo+spreadsheet+deposition-transcript__EFTA00255657_20260202_p031_i001.png",
+      "width": 1037,
+      "height": 1382
+    },
+    {
+      "tier": "high",
+      "score": 0.768,
+      "file": "content/images/epstein-face-matches/high/score0.768__airplane__EFTA00255244_20260202_p052_i001.webp",
+      "source_name": "score0.768__airplane__EFTA00255244_20260202_p052_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.767,
+      "file": "content/images/epstein-face-matches/high/score0.767__adult-man+portrait-photo+legal-filing+court-document__EFTA00255840_20260202_p025_i001.webp",
+      "source_name": "score0.767__adult-man+portrait-photo+legal-filing+court-document__EFTA00255840_20260202_p025_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.767,
+      "file": "content/images/epstein-face-matches/high/score0.767__adult-man+portrait-photo+newspaper-clipping+person__EFTA01168597_20260203_p006_i001.webp",
+      "source_name": "score0.767__adult-man+portrait-photo+newspaper-clipping+person__EFTA01168597_20260203_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.766,
+      "file": "content/images/epstein-face-matches/high/score0.766__adult-man+affidavit+portrait-photo__EFTA00084366_20260202_p155_i001.webp",
+      "source_name": "score0.766__adult-man+affidavit+portrait-photo__EFTA00084366_20260202_p155_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.766,
+      "file": "content/images/epstein-face-matches/high/score0.766__affidavit+scanned-document+legal-filing+adult-man__EFTA00252355_20260202_p031_i001.webp",
+      "source_name": "score0.766__affidavit+scanned-document+legal-filing+adult-man__EFTA00252355_20260202_p031_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.766,
+      "file": "content/images/epstein-face-matches/high/score0.766__airplane+conference-room+scanned-document__EFTA00251705_20260202_p070_i001.webp",
+      "source_name": "score0.766__airplane+conference-room+scanned-document__EFTA00251705_20260202_p070_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.766,
+      "file": "content/images/epstein-face-matches/high/score0.766__portrait-photo+scanned-document+adult-man__EFTA00003754_20251219_p001_i001.webp",
+      "source_name": "score0.766__portrait-photo+scanned-document+adult-man__EFTA00003754_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.765,
+      "file": "content/images/epstein-face-matches/high/score0.765__adult-man+portrait-photo__EFTA00255924_20260202_p007_i001.webp",
+      "source_name": "score0.765__adult-man+portrait-photo__EFTA00255924_20260202_p007_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.765,
+      "file": "content/images/epstein-face-matches/high/score0.765__computer-screen+deposition-transcript__EFTA00247725_20260202_p043_i001.webp",
+      "source_name": "score0.765__computer-screen+deposition-transcript__EFTA00247725_20260202_p043_i001.png",
+      "width": 546,
+      "height": 410
+    },
+    {
+      "tier": "high",
+      "score": 0.764,
+      "file": "content/images/epstein-face-matches/high/score0.764__outdoor-scene__EFTA00003562_20251219_p001_i001.webp",
+      "source_name": "score0.764__outdoor-scene__EFTA00003562_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.763,
+      "file": "content/images/epstein-face-matches/high/score0.763__book-page+vehicle+deposition-transcript+legal-filing+court-document__EFTA01134224_20260203_p001_i001.webp",
+      "source_name": "score0.763__book-page+vehicle+deposition-transcript+legal-filing+court-document__EFTA01134224_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.762,
+      "file": "content/images/epstein-face-matches/high/score0.762__affidavit+child+timeline__EFTA00255657_20260202_p073_i001.webp",
+      "source_name": "score0.762__affidavit+child+timeline__EFTA00255657_20260202_p073_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.762,
+      "file": "content/images/epstein-face-matches/high/score0.762__portrait-photo+adult-man__EFTA00003652_20251219_p001_i001.webp",
+      "source_name": "score0.762__portrait-photo+adult-man__EFTA00003652_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.761,
+      "file": "content/images/epstein-face-matches/high/score0.761__affidavit+court-document+deposition-transcript+legal-filing__EFTA00261437_20260202_p024_i001.webp",
+      "source_name": "score0.761__affidavit+court-document+deposition-transcript+legal-filing__EFTA00261437_20260202_p024_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.761,
+      "file": "content/images/epstein-face-matches/high/score0.761__portrait-photo__COMBINED_ALL_EPSTEIN_FILES_20260210_p6526_i001.webp",
+      "source_name": "score0.761__portrait-photo__COMBINED_ALL_EPSTEIN_FILES_20260210_p6526_i001.png",
+      "width": 665,
+      "height": 960
+    },
+    {
+      "tier": "high",
+      "score": 0.759,
+      "file": "content/images/epstein-face-matches/high/score0.759__airplane__EFTA00003852_20251219_p001_i001.webp",
+      "source_name": "score0.759__airplane__EFTA00003852_20251219_p001_i001.png",
+      "width": 546,
+      "height": 410
+    },
+    {
+      "tier": "high",
+      "score": 0.758,
+      "file": "content/images/epstein-face-matches/high/score0.758__adult-man+portrait-photo+deposition-transcript+legal-filing__EFTA00255924_20260202_p002_i001.webp",
+      "source_name": "score0.758__adult-man+portrait-photo+deposition-transcript+legal-filing__EFTA00255924_20260202_p002_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.758,
+      "file": "content/images/epstein-face-matches/high/score0.758__affidavit+court-document+legal-filing+invoice__EFTA01145750_20260203_p003_i001.webp",
+      "source_name": "score0.758__affidavit+court-document+legal-filing+invoice__EFTA01145750_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.758,
+      "file": "content/images/epstein-face-matches/high/score0.758__affidavit+scanned-document__EFTA00261288_20260202_p011_i001.webp",
+      "source_name": "score0.758__affidavit+scanned-document__EFTA00261288_20260202_p011_i001.png",
+      "width": 815,
+      "height": 1060
+    },
+    {
+      "tier": "high",
+      "score": 0.757,
+      "file": "content/images/epstein-face-matches/high/score0.757__affidavit+email-screenshot+scanned-document+legal-filing__EFTA00163119_20260202_p014_i001.webp",
+      "source_name": "score0.757__affidavit+email-screenshot+scanned-document+legal-filing__EFTA00163119_20260202_p014_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.757,
+      "file": "content/images/epstein-face-matches/high/score0.757__airplane+scanned-document__COMBINED_ALL_EPSTEIN_FILES_20260210_p6545_i001.webp",
+      "source_name": "score0.757__airplane+scanned-document__COMBINED_ALL_EPSTEIN_FILES_20260210_p6545_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.755,
+      "file": "content/images/epstein-face-matches/high/score0.755__adult-man+affidavit+adult-woman__EFTA00248990_20260202_p030_i001.webp",
+      "source_name": "score0.755__adult-man+affidavit+adult-woman__EFTA00248990_20260202_p030_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.755,
+      "file": "content/images/epstein-face-matches/high/score0.755__affidavit+legal-filing__EFTA01143747_20260203_p006_i001.webp",
+      "source_name": "score0.755__affidavit+legal-filing__EFTA01143747_20260203_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.755,
+      "file": "content/images/epstein-face-matches/high/score0.755__computer-screen+affidavit+legal-filing__EFTA00252051_20260202_p027_i001.webp",
+      "source_name": "score0.755__computer-screen+affidavit+legal-filing__EFTA00252051_20260202_p027_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.754,
+      "file": "content/images/epstein-face-matches/high/score0.754__affidavit+portrait-photo+person+legal-filing__EFTA00254812_20260202_p107_i001.webp",
+      "source_name": "score0.754__affidavit+portrait-photo+person+legal-filing__EFTA00254812_20260202_p107_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.754,
+      "file": "content/images/epstein-face-matches/high/score0.754__computer-screen+spreadsheet__EFTA00252051_20260202_p029_i001.webp",
+      "source_name": "score0.754__computer-screen+spreadsheet__EFTA00252051_20260202_p029_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.753,
+      "file": "content/images/epstein-face-matches/high/score0.753__affidavit+portrait-photo+boat+legal-filing__EFTA00254812_20260202_p081_i001.webp",
+      "source_name": "score0.753__affidavit+portrait-photo+boat+legal-filing__EFTA00254812_20260202_p081_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.753,
+      "file": "content/images/epstein-face-matches/high/score0.753__affidavit+portrait-photo+boat+legal-filing__EFTA00255028_20260202_p081_i001.webp",
+      "source_name": "score0.753__affidavit+portrait-photo+boat+legal-filing__EFTA00255028_20260202_p081_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.753,
+      "file": "content/images/epstein-face-matches/high/score0.753__affidavit+scanned-document+newspaper-clipping+typed-page+court-document__EFTA01183440_20260203_p001_i001.webp",
+      "source_name": "score0.753__affidavit+scanned-document+newspaper-clipping+typed-page+court-document__EFTA01183440_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.753,
+      "file": "content/images/epstein-face-matches/high/score0.753__portrait-photo+affidavit__EFTA00003502_20251219_p001_i001.webp",
+      "source_name": "score0.753__portrait-photo+affidavit__EFTA00003502_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.753,
+      "file": "content/images/epstein-face-matches/high/score0.753__portrait-photo+deposition-transcript__EFTA01598331_20260130_p001_i001.webp",
+      "source_name": "score0.753__portrait-photo+deposition-transcript__EFTA01598331_20260130_p001_i001.png",
+      "width": 193,
+      "height": 193
+    },
+    {
+      "tier": "high",
+      "score": 0.752,
+      "file": "content/images/epstein-face-matches/high/score0.752__boat+scanned-document__EFTA00249786_20260202_p096_i001.webp",
+      "source_name": "score0.752__boat+scanned-document__EFTA00249786_20260202_p096_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.751,
+      "file": "content/images/epstein-face-matches/high/score0.751__adult-man+court-document+affidavit+legal-filing+spreadsheet__EFTA00553181_20260204_p003_i001.webp",
+      "source_name": "score0.751__adult-man+court-document+affidavit+legal-filing+spreadsheet__EFTA00553181_20260204_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.751,
+      "file": "content/images/epstein-face-matches/high/score0.751__affidavit+adult-man__EFTA00255840_20260202_p075_i001.webp",
+      "source_name": "score0.751__affidavit+adult-man__EFTA00255840_20260202_p075_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.751,
+      "file": "content/images/epstein-face-matches/high/score0.751__affidavit__EFTA01122242_20260203_p047_i001.webp",
+      "source_name": "score0.751__affidavit__EFTA01122242_20260203_p047_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.75,
+      "file": "content/images/epstein-face-matches/high/score0.750__affidavit+deposition-transcript+adult-man__EFTA00247725_20260202_p031_i001.webp",
+      "source_name": "score0.750__affidavit+deposition-transcript+adult-man__EFTA00247725_20260202_p031_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.75,
+      "file": "content/images/epstein-face-matches/high/score0.750__computer-screen+spreadsheet+table__EFTA00247725_20260202_p107_i001.webp",
+      "source_name": "score0.750__computer-screen+spreadsheet+table__EFTA00247725_20260202_p107_i001.png",
+      "width": 410,
+      "height": 546
+    },
+    {
+      "tier": "high",
+      "score": 0.747,
+      "file": "content/images/epstein-face-matches/high/score0.747__adult-man__EFTA01184751_20260203_p004_i001.webp",
+      "source_name": "score0.747__adult-man__EFTA01184751_20260203_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.747,
+      "file": "content/images/epstein-face-matches/high/score0.747__boat+scanned-document+legal-filing+typed-page__EFTA00249786_20260202_p064_i001.webp",
+      "source_name": "score0.747__boat+scanned-document+legal-filing+typed-page__EFTA00249786_20260202_p064_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.746,
+      "file": "content/images/epstein-face-matches/high/score0.746__adult-man+scanned-document+affidavit+deposition-transcript__EFTA00255657_20260202_p005_i001.webp",
+      "source_name": "score0.746__adult-man+scanned-document+affidavit+deposition-transcript__EFTA00255657_20260202_p005_i001.png",
+      "width": 1037,
+      "height": 1382
+    },
+    {
+      "tier": "high",
+      "score": 0.746,
+      "file": "content/images/epstein-face-matches/high/score0.746__affidavit+portrait-photo+passport+person+legal-filing__EFTA00255028_20260202_p107_i001.webp",
+      "source_name": "score0.746__affidavit+portrait-photo+passport+person+legal-filing__EFTA00255028_20260202_p107_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.746,
+      "file": "content/images/epstein-face-matches/high/score0.746__book-page+typed-page+scanned-document+deposition-transcript__EFTA00188485_20260202_p006_i001.webp",
+      "source_name": "score0.746__book-page+typed-page+scanned-document+deposition-transcript__EFTA00188485_20260202_p006_i001.png",
+      "width": 817,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.745,
+      "file": "content/images/epstein-face-matches/high/score0.745__adult-man+scanned-document__EFTA00255244_20260202_p157_i001.webp",
+      "source_name": "score0.745__adult-man+scanned-document__EFTA00255244_20260202_p157_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.745,
+      "file": "content/images/epstein-face-matches/high/score0.745__affidavit+court-document__EFTA01135518_20260203_p006_i001.webp",
+      "source_name": "score0.745__affidavit+court-document__EFTA01135518_20260203_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.743,
+      "file": "content/images/epstein-face-matches/high/score0.743__affidavit+scanned-document+adult-man__EFTA00256967_20260202_p014_i001.webp",
+      "source_name": "score0.743__affidavit+scanned-document+adult-man__EFTA00256967_20260202_p014_i001.png",
+      "width": 1021,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.742,
+      "file": "content/images/epstein-face-matches/high/score0.742__adult-man+scanned-document__EFTA00003540_20251219_p001_i001.webp",
+      "source_name": "score0.742__adult-man+scanned-document__EFTA00003540_20251219_p001_i001.png",
+      "width": 1037,
+      "height": 1382
+    },
+    {
+      "tier": "high",
+      "score": 0.74,
+      "file": "content/images/epstein-face-matches/high/score0.740__adult-man+deposition-transcript+legal-filing+court-document__EFTA00255657_20260202_p069_i001.webp",
+      "source_name": "score0.740__adult-man+deposition-transcript+legal-filing+court-document__EFTA00255657_20260202_p069_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.74,
+      "file": "content/images/epstein-face-matches/high/score0.740__affidavit+scanned-document+adult-man__EFTA00255840_20260202_p041_i001.webp",
+      "source_name": "score0.740__affidavit+scanned-document+adult-man__EFTA00255840_20260202_p041_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.737,
+      "file": "content/images/epstein-face-matches/high/score0.737__adult-man+conference-room__EFTA01184751_20260203_p002_i001.webp",
+      "source_name": "score0.737__adult-man+conference-room__EFTA01184751_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.733,
+      "file": "content/images/epstein-face-matches/high/score0.733__adult-man+email-screenshot+text-message-screenshot+spreadsheet__EFTA01135073_20260203_p003_i001.webp",
+      "source_name": "score0.733__adult-man+email-screenshot+text-message-screenshot+spreadsheet__EFTA01135073_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.732,
+      "file": "content/images/epstein-face-matches/high/score0.732__affidavit+court-document__EFTA00255657_20260202_p036_i001.webp",
+      "source_name": "score0.732__affidavit+court-document__EFTA00255657_20260202_p036_i001.png",
+      "width": 1037,
+      "height": 1382
+    },
+    {
+      "tier": "high",
+      "score": 0.731,
+      "file": "content/images/epstein-face-matches/high/score0.731__adult-man+portrait-photo__EFTA00255924_20260202_p040_i001.webp",
+      "source_name": "score0.731__adult-man+portrait-photo__EFTA00255924_20260202_p040_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.731,
+      "file": "content/images/epstein-face-matches/high/score0.731__affidavit+deposition-transcript+email-screenshot+text-message-screenshot__EFTA00067336_20260202_p001_i001.webp",
+      "source_name": "score0.731__affidavit+deposition-transcript+email-screenshot+text-message-screenshot__EFTA00067336_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.731,
+      "file": "content/images/epstein-face-matches/high/score0.731__affidavit+deposition-transcript+email-screenshot+text-message-screenshot__EFTA00190096_20260202_p001_i001.webp",
+      "source_name": "score0.731__affidavit+deposition-transcript+email-screenshot+text-message-screenshot__EFTA00190096_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.73,
+      "file": "content/images/epstein-face-matches/high/score0.730__building+affidavit+conference-room+legal-filing+deposition-transcript__EFTA00254649_20260202_p009_i001.webp",
+      "source_name": "score0.730__building+affidavit+conference-room+legal-filing+deposition-transcript__EFTA00254649_20260202_p009_i001.png",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "tier": "high",
+      "score": 0.73,
+      "file": "content/images/epstein-face-matches/high/score0.730__portrait-photo__COMBINED_ALL_EPSTEIN_FILES_20260210_p6518_i001.webp",
+      "source_name": "score0.730__portrait-photo__COMBINED_ALL_EPSTEIN_FILES_20260210_p6518_i001.png",
+      "width": 323,
+      "height": 480
+    },
+    {
+      "tier": "high",
+      "score": 0.728,
+      "file": "content/images/epstein-face-matches/high/score0.728__book-page+phone-screen__EFTA01256525_20260203_p001_i001.webp",
+      "source_name": "score0.728__book-page+phone-screen__EFTA01256525_20260203_p001_i001.png",
+      "width": 935,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.725,
+      "file": "content/images/epstein-face-matches/high/score0.725__building+conference-room+deposition-transcript__EFTA00254649_20260202_p008_i001.webp",
+      "source_name": "score0.725__building+conference-room+deposition-transcript__EFTA00254649_20260202_p008_i001.png",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "tier": "high",
+      "score": 0.723,
+      "file": "content/images/epstein-face-matches/high/score0.723__affidavit+scanned-document+legal-filing__EFTA00254504_20260202_p087_i001.webp",
+      "source_name": "score0.723__affidavit+scanned-document+legal-filing__EFTA00254504_20260202_p087_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.72,
+      "file": "content/images/epstein-face-matches/high/score0.720__affidavit+deposition-transcript+court-document__EFTA01135518_20260203_p002_i001.webp",
+      "source_name": "score0.720__affidavit+deposition-transcript+court-document__EFTA01135518_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.719,
+      "file": "content/images/epstein-face-matches/high/score0.719__portrait-photo__EFTA01598912_20260130_p001_i001.webp",
+      "source_name": "score0.719__portrait-photo__EFTA01598912_20260130_p001_i001.png",
+      "width": 408,
+      "height": 613
+    },
+    {
+      "tier": "high",
+      "score": 0.718,
+      "file": "content/images/epstein-face-matches/high/score0.718__adult-man__EFTA00255924_20260202_p039_i001.webp",
+      "source_name": "score0.718__adult-man__EFTA00255924_20260202_p039_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.716,
+      "file": "content/images/epstein-face-matches/high/score0.716__adult-man__EFTA00251905_20260202_p037_i001.webp",
+      "source_name": "score0.716__adult-man__EFTA00251905_20260202_p037_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.716,
+      "file": "content/images/epstein-face-matches/high/score0.716__boat__EFTA00254812_20260202_p114_i001.webp",
+      "source_name": "score0.716__boat__EFTA00254812_20260202_p114_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.716,
+      "file": "content/images/epstein-face-matches/high/score0.716__boat__EFTA00255028_20260202_p114_i001.webp",
+      "source_name": "score0.716__boat__EFTA00255028_20260202_p114_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.716,
+      "file": "content/images/epstein-face-matches/high/score0.716__book-page__EFTA01186996_20260203_p001_i001.webp",
+      "source_name": "score0.716__book-page__EFTA01186996_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.715,
+      "file": "content/images/epstein-face-matches/high/score0.715__adult-man__EFTA00255924_20260202_p034_i001.webp",
+      "source_name": "score0.715__adult-man__EFTA00255924_20260202_p034_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.715,
+      "file": "content/images/epstein-face-matches/high/score0.715__affidavit+deposition-transcript+court-document__EFTA00316182_20260202_p001_i001.webp",
+      "source_name": "score0.715__affidavit+deposition-transcript+court-document__EFTA00316182_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.715,
+      "file": "content/images/epstein-face-matches/high/score0.715__group-photo+contact-list__EFTA01599607_20260130_p001_i001.webp",
+      "source_name": "score0.715__group-photo+contact-list__EFTA01599607_20260130_p001_i001.png",
+      "width": 1310,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.714,
+      "file": "content/images/epstein-face-matches/high/score0.714__adult-man+deposition-transcript+affidavit__EFTA00254812_20260202_p150_i001.webp",
+      "source_name": "score0.714__adult-man+deposition-transcript+affidavit__EFTA00254812_20260202_p150_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.714,
+      "file": "content/images/epstein-face-matches/high/score0.714__adult-man+deposition-transcript+affidavit__EFTA00255028_20260202_p150_i001.webp",
+      "source_name": "score0.714__adult-man+deposition-transcript+affidavit__EFTA00255028_20260202_p150_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.714,
+      "file": "content/images/epstein-face-matches/high/score0.714__affidavit+court-document+legal-filing__EFTA00040006_20260202_p067_i001.webp",
+      "source_name": "score0.714__affidavit+court-document+legal-filing__EFTA00040006_20260202_p067_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.712,
+      "file": "content/images/epstein-face-matches/high/score0.712__adult-man+legal-filing__EFTA01599763_20260130_p001_i001.webp",
+      "source_name": "score0.712__adult-man+legal-filing__EFTA01599763_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.712,
+      "file": "content/images/epstein-face-matches/high/score0.712__adult-woman+affidavit+scanned-document+legal-filing+group-photo__EFTA00249534_20260202_p116_i001.webp",
+      "source_name": "score0.712__adult-woman+affidavit+scanned-document+legal-filing+group-photo__EFTA00249534_20260202_p116_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.712,
+      "file": "content/images/epstein-face-matches/high/score0.712__affidavit+email-screenshot+typed-page__EFTA00212129_20260202_p001_i001.webp",
+      "source_name": "score0.712__affidavit+email-screenshot+typed-page__EFTA00212129_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.711,
+      "file": "content/images/epstein-face-matches/high/score0.711__boat__EFTA00249786_20260202_p094_i001.webp",
+      "source_name": "score0.711__boat__EFTA00249786_20260202_p094_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.71,
+      "file": "content/images/epstein-face-matches/high/score0.710__adult-man+outdoor-scene__EFTA00003820_20251219_p001_i001.webp",
+      "source_name": "score0.710__adult-man+outdoor-scene__EFTA00003820_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.71,
+      "file": "content/images/epstein-face-matches/high/score0.710__affidavit+passport__EFTA00255028_20260202_p132_i001.webp",
+      "source_name": "score0.710__affidavit+passport__EFTA00255028_20260202_p132_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.71,
+      "file": "content/images/epstein-face-matches/high/score0.710__portrait-photo+adult-man__EFTA00003513_20251219_p001_i001.webp",
+      "source_name": "score0.710__portrait-photo+adult-man__EFTA00003513_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.708,
+      "file": "content/images/epstein-face-matches/high/score0.708__portrait-photo+scanned-document+affidavit+deposition-transcript__EFTA01341441_20260130_p001_i001.webp",
+      "source_name": "score0.708__portrait-photo+scanned-document+affidavit+deposition-transcript__EFTA01341441_20260130_p001_i001.png",
+      "width": 935,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.707,
+      "file": "content/images/epstein-face-matches/high/score0.707__portrait-photo+adult-man__EFTA00003546_20251219_p001_i001.webp",
+      "source_name": "score0.707__portrait-photo+adult-man__EFTA00003546_20251219_p001_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.704,
+      "file": "content/images/epstein-face-matches/high/score0.704__adult-man+affidavit+passport__EFTA00254812_20260202_p125_i001.webp",
+      "source_name": "score0.704__adult-man+affidavit+passport__EFTA00254812_20260202_p125_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.704,
+      "file": "content/images/epstein-face-matches/high/score0.704__adult-man+court-document+email-screenshot__EFTA01145757_20260203_p003_i001.webp",
+      "source_name": "score0.704__adult-man+court-document+email-screenshot__EFTA01145757_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.704,
+      "file": "content/images/epstein-face-matches/high/score0.704__affidavit+adult-man__EFTA00249026_20260202_p107_i001.webp",
+      "source_name": "score0.704__affidavit+adult-man__EFTA00249026_20260202_p107_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.704,
+      "file": "content/images/epstein-face-matches/high/score0.704__affidavit+passport__EFTA00254812_20260202_p132_i001.webp",
+      "source_name": "score0.704__affidavit+passport__EFTA00254812_20260202_p132_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.702,
+      "file": "content/images/epstein-face-matches/high/score0.702__adult-man+portrait-photo+person__EFTA01168597_20260203_p003_i001.webp",
+      "source_name": "score0.702__adult-man+portrait-photo+person__EFTA01168597_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.702,
+      "file": "content/images/epstein-face-matches/high/score0.702__affidavit+adult-man__EFTA00250637_20260202_p190_i001.webp",
+      "source_name": "score0.702__affidavit+adult-man__EFTA00250637_20260202_p190_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.702,
+      "file": "content/images/epstein-face-matches/high/score0.702__boat__EFTA00003746_20251219_p001_i001.webp",
+      "source_name": "score0.702__boat__EFTA00003746_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.702,
+      "file": "content/images/epstein-face-matches/high/score0.702__boat__EFTA00003771_20251219_p001_i001.webp",
+      "source_name": "score0.702__boat__EFTA00003771_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.701,
+      "file": "content/images/epstein-face-matches/high/score0.701__adult-man+scanned-document__COMBINED_ALL_EPSTEIN_FILES_20260210_p6367_i001.webp",
+      "source_name": "score0.701__adult-man+scanned-document__COMBINED_ALL_EPSTEIN_FILES_20260210_p6367_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.701,
+      "file": "content/images/epstein-face-matches/high/score0.701__adult-woman+affidavit__EFTA01143723_20260203_p006_i001.webp",
+      "source_name": "score0.701__adult-woman+affidavit__EFTA01143723_20260203_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.7,
+      "file": "content/images/epstein-face-matches/high/score0.700__boat+computer-screen+adult-man__EFTA00253281_20260202_p031_i001.webp",
+      "source_name": "score0.700__boat+computer-screen+adult-man__EFTA00253281_20260202_p031_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.7,
+      "file": "content/images/epstein-face-matches/high/score0.700__boat+spreadsheet+deposition-transcript+affidavit+court-document__EFTA00254398_20260202_p092_i001.webp",
+      "source_name": "score0.700__boat+spreadsheet+deposition-transcript+affidavit+court-document__EFTA00254398_20260202_p092_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.699,
+      "file": "content/images/epstein-face-matches/high/score0.699__adult-man+email-screenshot+text-message-screenshot__EFTA01623087_20260130_p011_i001.webp",
+      "source_name": "score0.699__adult-man+email-screenshot+text-message-screenshot__EFTA01623087_20260130_p011_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.699,
+      "file": "content/images/epstein-face-matches/high/score0.699__adult-man+person__EFTA01627070_20260130_p036_i001.webp",
+      "source_name": "score0.699__adult-man+person__EFTA01627070_20260130_p036_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.699,
+      "file": "content/images/epstein-face-matches/high/score0.699__affidavit+adult-man__EFTA00250229_20260202_p022_i001.webp",
+      "source_name": "score0.699__affidavit+adult-man__EFTA00250229_20260202_p022_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.698,
+      "file": "content/images/epstein-face-matches/high/score0.698__affidavit+court-document+email-screenshot__EFTA00147199_20260202_p001_i001.webp",
+      "source_name": "score0.698__affidavit+court-document+email-screenshot__EFTA00147199_20260202_p001_i001.png",
+      "width": 1057,
+      "height": 817
+    },
+    {
+      "tier": "high",
+      "score": 0.698,
+      "file": "content/images/epstein-face-matches/high/score0.698__affidavit+court-document+email-screenshot__EFTA00147546_20260202_p001_i001.webp",
+      "source_name": "score0.698__affidavit+court-document+email-screenshot__EFTA00147546_20260202_p001_i001.png",
+      "width": 1057,
+      "height": 817
+    },
+    {
+      "tier": "high",
+      "score": 0.698,
+      "file": "content/images/epstein-face-matches/high/score0.698__boat+adult-man__EFTA00251905_20260202_p019_i001.webp",
+      "source_name": "score0.698__boat+adult-man__EFTA00251905_20260202_p019_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.697,
+      "file": "content/images/epstein-face-matches/high/score0.697__adult-woman+adult-man+affidavit__EFTA01143729_20260203_p002_i001.webp",
+      "source_name": "score0.697__adult-woman+adult-man+affidavit__EFTA01143729_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.696,
+      "file": "content/images/epstein-face-matches/high/score0.696__adult-woman+scanned-document+group-photo+affidavit__EFTA00249282_20260202_p116_i001.webp",
+      "source_name": "score0.696__adult-woman+scanned-document+group-photo+affidavit__EFTA00249282_20260202_p116_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.695,
+      "file": "content/images/epstein-face-matches/high/score0.695__affidavit+adult-man+deposition-transcript+spreadsheet__EFTA00255924_20260202_p035_i001.webp",
+      "source_name": "score0.695__affidavit+adult-man+deposition-transcript+spreadsheet__EFTA00255924_20260202_p035_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.695,
+      "file": "content/images/epstein-face-matches/high/score0.695__affidavit+adult-man__EFTA00250855_20260202_p172_i001.webp",
+      "source_name": "score0.695__affidavit+adult-man__EFTA00250855_20260202_p172_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.694,
+      "file": "content/images/epstein-face-matches/high/score0.694__adult-man+affidavit+boat__EFTA00251705_20260202_p094_i001.webp",
+      "source_name": "score0.694__adult-man+affidavit+boat__EFTA00251705_20260202_p094_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.694,
+      "file": "content/images/epstein-face-matches/high/score0.694__affidavit+court-document+deposition-transcript+book-page+email-screenshot__EFTA01250702_20260203_p002_i001.webp",
+      "source_name": "score0.694__affidavit+court-document+deposition-transcript+book-page+email-screenshot__EFTA01250702_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.694,
+      "file": "content/images/epstein-face-matches/high/score0.694__boat__EFTA00003512_20251219_p001_i001.webp",
+      "source_name": "score0.694__boat__EFTA00003512_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.692,
+      "file": "content/images/epstein-face-matches/high/score0.692__portrait-photo+affidavit+scanned-document__EFTA01341440_20260130_p001_i001.webp",
+      "source_name": "score0.692__portrait-photo+affidavit+scanned-document__EFTA01341440_20260130_p001_i001.png",
+      "width": 935,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.691,
+      "file": "content/images/epstein-face-matches/high/score0.691__boat+computer-screen+legal-filing+adult-man__EFTA00253174_20260202_p031_i001.webp",
+      "source_name": "score0.691__boat+computer-screen+legal-filing+adult-man__EFTA00253174_20260202_p031_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.689,
+      "file": "content/images/epstein-face-matches/high/score0.689__affidavit+court-document+email-screenshot+scanned-document__EFTA00152643_20260202_p001_i001.webp",
+      "source_name": "score0.689__affidavit+court-document+email-screenshot+scanned-document__EFTA00152643_20260202_p001_i001.png",
+      "width": 1057,
+      "height": 817
+    },
+    {
+      "tier": "high",
+      "score": 0.686,
+      "file": "content/images/epstein-face-matches/high/score0.686__adult-man+affidavit__EFTA00255924_20260202_p033_i001.webp",
+      "source_name": "score0.686__adult-man+affidavit__EFTA00255924_20260202_p033_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.686,
+      "file": "content/images/epstein-face-matches/high/score0.686__portrait-photo+adult-man+scanned-document__COMBINED_ALL_EPSTEIN_FILES_20260210_p6521_i001.webp",
+      "source_name": "score0.686__portrait-photo+adult-man+scanned-document__COMBINED_ALL_EPSTEIN_FILES_20260210_p6521_i001.png",
+      "width": 494,
+      "height": 395
+    },
+    {
+      "tier": "high",
+      "score": 0.685,
+      "file": "content/images/epstein-face-matches/high/score0.685__boat+computer-screen+adult-man__EFTA00253281_20260202_p033_i001.webp",
+      "source_name": "score0.685__boat+computer-screen+adult-man__EFTA00253281_20260202_p033_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.685,
+      "file": "content/images/epstein-face-matches/high/score0.685__portrait-photo+adult-man__EFTA01624297_20260130_p001_i001.webp",
+      "source_name": "score0.685__portrait-photo+adult-man__EFTA01624297_20260130_p001_i001.png",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "tier": "high",
+      "score": 0.684,
+      "file": "content/images/epstein-face-matches/high/score0.684__adult-man+deposition-transcript+conference-room__EFTA01184769_20260203_p004_i001.webp",
+      "source_name": "score0.684__adult-man+deposition-transcript+conference-room__EFTA01184769_20260203_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.684,
+      "file": "content/images/epstein-face-matches/high/score0.684__affidavit+deposition-transcript__EFTA00085780_20260202_p003_i001.webp",
+      "source_name": "score0.684__affidavit+deposition-transcript__EFTA00085780_20260202_p003_i001.png",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "tier": "high",
+      "score": 0.684,
+      "file": "content/images/epstein-face-matches/high/score0.684__book-page__EFTA00005538_20251219_p013_i001.webp",
+      "source_name": "score0.684__book-page__EFTA00005538_20251219_p013_i001.png",
+      "width": 1180,
+      "height": 997
+    },
+    {
+      "tier": "high",
+      "score": 0.684,
+      "file": "content/images/epstein-face-matches/high/score0.684__portrait-photo+boat+adult-man__EFTA00003774_20251219_p001_i001.webp",
+      "source_name": "score0.684__portrait-photo+boat+adult-man__EFTA00003774_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.683,
+      "file": "content/images/epstein-face-matches/high/score0.683__book-page+legal-filing+timeline+spreadsheet__EFTA01186997_20260203_p001_i001.webp",
+      "source_name": "score0.683__book-page+legal-filing+timeline+spreadsheet__EFTA01186997_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.681,
+      "file": "content/images/epstein-face-matches/high/score0.681__adult-man+affidavit__EFTA00255028_20260202_p125_i001.webp",
+      "source_name": "score0.681__adult-man+affidavit__EFTA00255028_20260202_p125_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.681,
+      "file": "content/images/epstein-face-matches/high/score0.681__boat__EFTA00003770_20251219_p001_i001.webp",
+      "source_name": "score0.681__boat__EFTA00003770_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.68,
+      "file": "content/images/epstein-face-matches/high/score0.680__affidavit+deposition-transcript+adult-man+email-screenshot__EFTA00249534_20260202_p207_i001.webp",
+      "source_name": "score0.680__affidavit+deposition-transcript+adult-man+email-screenshot__EFTA00249534_20260202_p207_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.679,
+      "file": "content/images/epstein-face-matches/high/score0.679__boat+typed-page__EFTA01624830_20260130_p001_i001.webp",
+      "source_name": "score0.679__boat+typed-page__EFTA01624830_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.679,
+      "file": "content/images/epstein-face-matches/high/score0.679__book-page+typed-page+email-screenshot+scanned-document__EFTA01177813_20260203_p001_i001.webp",
+      "source_name": "score0.679__book-page+typed-page+email-screenshot+scanned-document__EFTA01177813_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.678,
+      "file": "content/images/epstein-face-matches/high/score0.678__adult-man+passport+person+adult-woman+group-photo__EFTA00256782_20260202_p035_i001.webp",
+      "source_name": "score0.678__adult-man+passport+person+adult-woman+group-photo__EFTA00256782_20260202_p035_i001.png",
+      "width": 1400,
+      "height": 1104
+    },
+    {
+      "tier": "high",
+      "score": 0.677,
+      "file": "content/images/epstein-face-matches/high/score0.677__affidavit+spreadsheet+table+scanned-document+legal-filing__EFTA01207525_20260203_p006_i001.webp",
+      "source_name": "score0.677__affidavit+spreadsheet+table+scanned-document+legal-filing__EFTA01207525_20260203_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.676,
+      "file": "content/images/epstein-face-matches/high/score0.676__adult-man+boat__EFTA00251905_20260202_p027_i001.webp",
+      "source_name": "score0.676__adult-man+boat__EFTA00251905_20260202_p027_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.676,
+      "file": "content/images/epstein-face-matches/high/score0.676__affidavit+group-photo+legal-filing+scanned-document__EFTA00252355_20260202_p029_i001.webp",
+      "source_name": "score0.676__affidavit+group-photo+legal-filing+scanned-document__EFTA00252355_20260202_p029_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.676,
+      "file": "content/images/epstein-face-matches/high/score0.676__affidavit+scanned-document+court-document+legal-filing+typed-page__EFTA00261990_20260202_p001_i001.webp",
+      "source_name": "score0.676__affidavit+scanned-document+court-document+legal-filing+typed-page__EFTA00261990_20260202_p001_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.675,
+      "file": "content/images/epstein-face-matches/high/score0.675__portrait-photo+adult-man__EFTA00003797_20251219_p001_i001.webp",
+      "source_name": "score0.675__portrait-photo+adult-man__EFTA00003797_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.674,
+      "file": "content/images/epstein-face-matches/high/score0.674__affidavit+scanned-document+legal-filing+newspaper-clipping+spreadsheet__EFTA00256967_20260202_p009_i001.webp",
+      "source_name": "score0.674__affidavit+scanned-document+legal-filing+newspaper-clipping+spreadsheet__EFTA00256967_20260202_p009_i001.png",
+      "width": 961,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.673,
+      "file": "content/images/epstein-face-matches/high/score0.673__adult-man+deposition-transcript+conference-room__EFTA01184769_20260203_p006_i001.webp",
+      "source_name": "score0.673__adult-man+deposition-transcript+conference-room__EFTA01184769_20260203_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.673,
+      "file": "content/images/epstein-face-matches/high/score0.673__affidavit+scanned-document+court-document+legal-filing__EFTA00263640_20260202_p001_i001.webp",
+      "source_name": "score0.673__affidavit+scanned-document+court-document+legal-filing__EFTA00263640_20260202_p001_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.673,
+      "file": "content/images/epstein-face-matches/high/score0.673__boat__EFTA00003747_20251219_p001_i001.webp",
+      "source_name": "score0.673__boat__EFTA00003747_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.673,
+      "file": "content/images/epstein-face-matches/high/score0.673__boat__EFTA00003748_20251219_p001_i001.webp",
+      "source_name": "score0.673__boat__EFTA00003748_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.672,
+      "file": "content/images/epstein-face-matches/high/score0.672__adult-man+affidavit+computer-screen+deposition-transcript__EFTA00249282_20260202_p207_i001.webp",
+      "source_name": "score0.672__adult-man+affidavit+computer-screen+deposition-transcript__EFTA00249282_20260202_p207_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.672,
+      "file": "content/images/epstein-face-matches/high/score0.672__affidavit+court-document__EFTA00173652_20260202_p001_i001.webp",
+      "source_name": "score0.672__affidavit+court-document__EFTA00173652_20260202_p001_i001.png",
+      "width": 1152,
+      "height": 816
+    },
+    {
+      "tier": "high",
+      "score": 0.672,
+      "file": "content/images/epstein-face-matches/high/score0.672__boat+affidavit+adult-man+legal-filing__EFTA00253281_20260202_p032_i001.webp",
+      "source_name": "score0.672__boat+affidavit+adult-man+legal-filing__EFTA00253281_20260202_p032_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.67,
+      "file": "content/images/epstein-face-matches/high/score0.670__boat+legal-filing+affidavit+computer-screen__EFTA00253174_20260202_p033_i001.webp",
+      "source_name": "score0.670__boat+legal-filing+affidavit+computer-screen__EFTA00253174_20260202_p033_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.668,
+      "file": "content/images/epstein-face-matches/high/score0.668__affidavit+deposition-transcript+legal-filing__EFTA00252355_20260202_p038_i001.webp",
+      "source_name": "score0.668__affidavit+deposition-transcript+legal-filing__EFTA00252355_20260202_p038_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.668,
+      "file": "content/images/epstein-face-matches/high/score0.668__computer-screen+spreadsheet__EFTA00247725_20260202_p069_i001.webp",
+      "source_name": "score0.668__computer-screen+spreadsheet__EFTA00247725_20260202_p069_i001.png",
+      "width": 546,
+      "height": 410
+    },
+    {
+      "tier": "high",
+      "score": 0.667,
+      "file": "content/images/epstein-face-matches/high/score0.667__adult-man+conference-room__EFTA01184751_20260203_p006_i001.webp",
+      "source_name": "score0.667__adult-man+conference-room__EFTA01184751_20260203_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.667,
+      "file": "content/images/epstein-face-matches/high/score0.667__group-photo+office__EFTA01611902_20260130_p001_i001.webp",
+      "source_name": "score0.667__group-photo+office__EFTA01611902_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.666,
+      "file": "content/images/epstein-face-matches/high/score0.666__affidavit+adult-man__EFTA00252545_20260202_p096_i001.webp",
+      "source_name": "score0.666__affidavit+adult-man__EFTA00252545_20260202_p096_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.666,
+      "file": "content/images/epstein-face-matches/high/score0.666__affidavit+court-document__EFTA00131225_20260202_p202_i001.webp",
+      "source_name": "score0.666__affidavit+court-document__EFTA00131225_20260202_p202_i001.png",
+      "width": 1152,
+      "height": 816
+    },
+    {
+      "tier": "high",
+      "score": 0.665,
+      "file": "content/images/epstein-face-matches/high/score0.665__affidavit+deposition-transcript__EFTA00252355_20260202_p039_i001.webp",
+      "source_name": "score0.665__affidavit+deposition-transcript__EFTA00252355_20260202_p039_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.664,
+      "file": "content/images/epstein-face-matches/high/score0.664__affidavit+court-document__EFTA00134667_20260202_p001_i001.webp",
+      "source_name": "score0.664__affidavit+court-document__EFTA00134667_20260202_p001_i001.png",
+      "width": 1152,
+      "height": 816
+    },
+    {
+      "tier": "high",
+      "score": 0.664,
+      "file": "content/images/epstein-face-matches/high/score0.664__affidavit+scanned-document+court-document+legal-filing+book-page__EFTA00263179_20260202_p002_i001.webp",
+      "source_name": "score0.664__affidavit+scanned-document+court-document+legal-filing+book-page__EFTA00263179_20260202_p002_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.662,
+      "file": "content/images/epstein-face-matches/high/score0.662__boat+affidavit+adult-man+legal-filing__EFTA00253174_20260202_p032_i001.webp",
+      "source_name": "score0.662__boat+affidavit+adult-man+legal-filing__EFTA00253174_20260202_p032_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.662,
+      "file": "content/images/epstein-face-matches/high/score0.662__boat+portrait-photo+adult-man__EFTA00249786_20260202_p097_i001.webp",
+      "source_name": "score0.662__boat+portrait-photo+adult-man__EFTA00249786_20260202_p097_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.661,
+      "file": "content/images/epstein-face-matches/high/score0.661__adult-man+portrait-photo__EFTA00255657_20260202_p082_i001.webp",
+      "source_name": "score0.661__adult-man+portrait-photo__EFTA00255657_20260202_p082_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.66,
+      "file": "content/images/epstein-face-matches/high/score0.660__affidavit+group-photo+outdoor-scene__EFTA00250637_20260202_p192_i001.webp",
+      "source_name": "score0.660__affidavit+group-photo+outdoor-scene__EFTA00250637_20260202_p192_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.66,
+      "file": "content/images/epstein-face-matches/high/score0.660__boat__EFTA00251905_20260202_p033_i001.webp",
+      "source_name": "score0.660__boat__EFTA00251905_20260202_p033_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.659,
+      "file": "content/images/epstein-face-matches/high/score0.659__boat__EFTA00251905_20260202_p034_i001.webp",
+      "source_name": "score0.659__boat__EFTA00251905_20260202_p034_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.658,
+      "file": "content/images/epstein-face-matches/high/score0.658__computer-screen__EFTA00082060_20260202_p011_i001.webp",
+      "source_name": "score0.658__computer-screen__EFTA00082060_20260202_p011_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.656,
+      "file": "content/images/epstein-face-matches/high/score0.656__portrait-photo+deposition-transcript__EFTA00003505_20251219_p001_i001.webp",
+      "source_name": "score0.656__portrait-photo+deposition-transcript__EFTA00003505_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.655,
+      "file": "content/images/epstein-face-matches/high/score0.655__affidavit+scanned-document+deposition-transcript__EFTA00247459_20260202_p082_i001.webp",
+      "source_name": "score0.655__affidavit+scanned-document+deposition-transcript__EFTA00247459_20260202_p082_i001.png",
+      "width": 542,
+      "height": 364
+    },
+    {
+      "tier": "high",
+      "score": 0.655,
+      "file": "content/images/epstein-face-matches/high/score0.655__boat__EFTA00003745_20251219_p001_i001.webp",
+      "source_name": "score0.655__boat__EFTA00003745_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.654,
+      "file": "content/images/epstein-face-matches/high/score0.654__affidavit+legal-filing+group-photo__EFTA00249026_20260202_p127_i001.webp",
+      "source_name": "score0.654__affidavit+legal-filing+group-photo__EFTA00249026_20260202_p127_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.651,
+      "file": "content/images/epstein-face-matches/high/score0.651__boat+computer-screen__EFTA00251905_20260202_p035_i001.webp",
+      "source_name": "score0.651__boat+computer-screen__EFTA00251905_20260202_p035_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.65,
+      "file": "content/images/epstein-face-matches/high/score0.650__building+adult-man+portrait-photo__EFTA00003840_20251219_p001_i001.webp",
+      "source_name": "score0.650__building+adult-man+portrait-photo__EFTA00003840_20251219_p001_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.649,
+      "file": "content/images/epstein-face-matches/high/score0.649__airplane+scanned-document+typed-page__EFTA01187326_20260203_p003_i001.webp",
+      "source_name": "score0.649__airplane+scanned-document+typed-page__EFTA01187326_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.649,
+      "file": "content/images/epstein-face-matches/high/score0.649__boat+adult-man+affidavit__EFTA00251905_20260202_p026_i001.webp",
+      "source_name": "score0.649__boat+adult-man+affidavit__EFTA00251905_20260202_p026_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.648,
+      "file": "content/images/epstein-face-matches/high/score0.648__outdoor-scene__EFTA00003559_20251219_p001_i001.webp",
+      "source_name": "score0.648__outdoor-scene__EFTA00003559_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.647,
+      "file": "content/images/epstein-face-matches/high/score0.647__portrait-photo__EFTA00003766_20251219_p001_i001.webp",
+      "source_name": "score0.647__portrait-photo__EFTA00003766_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.646,
+      "file": "content/images/epstein-face-matches/high/score0.646__portrait-photo+adult-man__EFTA00003506_20251219_p001_i001.webp",
+      "source_name": "score0.646__portrait-photo+adult-man__EFTA00003506_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.645,
+      "file": "content/images/epstein-face-matches/high/score0.645__adult-woman+adult-man+affidavit__EFTA01143723_20260203_p005_i001.webp",
+      "source_name": "score0.645__adult-woman+adult-man+affidavit__EFTA01143723_20260203_p005_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.645,
+      "file": "content/images/epstein-face-matches/high/score0.645__affidavit+scanned-document+deposition-transcript+court-document+adult-man__EFTA00251483_20260202_p082_i001.webp",
+      "source_name": "score0.645__affidavit+scanned-document+deposition-transcript+court-document+adult-man__EFTA00251483_20260202_p082_i001.png",
+      "width": 542,
+      "height": 364
+    },
+    {
+      "tier": "high",
+      "score": 0.645,
+      "file": "content/images/epstein-face-matches/high/score0.645__airplane__EFTA00255244_20260202_p107_i001.webp",
+      "source_name": "score0.645__airplane__EFTA00255244_20260202_p107_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.644,
+      "file": "content/images/epstein-face-matches/high/score0.644__affidavit+legal-filing+court-document+contact-list__EFTA00098593_20260202_p086_i001.webp",
+      "source_name": "score0.644__affidavit+legal-filing+court-document+contact-list__EFTA00098593_20260202_p086_i001.png",
+      "width": 795,
+      "height": 1123
+    },
+    {
+      "tier": "high",
+      "score": 0.641,
+      "file": "content/images/epstein-face-matches/high/score0.641__boat+adult-man+affidavit__EFTA00251705_20260202_p092_i001.webp",
+      "source_name": "score0.641__boat+adult-man+affidavit__EFTA00251705_20260202_p092_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.64,
+      "file": "content/images/epstein-face-matches/high/score0.640__affidavit+deposition-transcript+court-document__EFTA00246859_20260202_p001_i001.webp",
+      "source_name": "score0.640__affidavit+deposition-transcript+court-document__EFTA00246859_20260202_p001_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.64,
+      "file": "content/images/epstein-face-matches/high/score0.640__affidavit+legal-filing+passport+contact-list__EFTA00168394_20260202_p001_i001.webp",
+      "source_name": "score0.640__affidavit+legal-filing+passport+contact-list__EFTA00168394_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.639,
+      "file": "content/images/epstein-face-matches/high/score0.639__affidavit+legal-filing+email-screenshot+court-document__EFTA00080478_20260202_p001_i001.webp",
+      "source_name": "score0.639__affidavit+legal-filing+email-screenshot+court-document__EFTA00080478_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.637,
+      "file": "content/images/epstein-face-matches/high/score0.637__portrait-photo+adult-man__EFTA00003773_20251219_p001_i001.webp",
+      "source_name": "score0.637__portrait-photo+adult-man__EFTA00003773_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.635,
+      "file": "content/images/epstein-face-matches/high/score0.635__book-page+typed-page+deposition-transcript__EFTA01192319_20260203_p001_i001.webp",
+      "source_name": "score0.635__book-page+typed-page+deposition-transcript__EFTA01192319_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.634,
+      "file": "content/images/epstein-face-matches/high/score0.634__adult-man+spreadsheet+scanned-document__EFTA00254504_20260202_p083_i001.webp",
+      "source_name": "score0.634__adult-man+spreadsheet+scanned-document__EFTA00254504_20260202_p083_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.634,
+      "file": "content/images/epstein-face-matches/high/score0.634__portrait-photo+adult-man__EFTA00003545_20251219_p001_i001.webp",
+      "source_name": "score0.634__portrait-photo+adult-man__EFTA00003545_20251219_p001_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.632,
+      "file": "content/images/epstein-face-matches/high/score0.632__portrait-photo+adult-man+outdoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6519_i001.webp",
+      "source_name": "score0.632__portrait-photo+adult-man+outdoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6519_i001.png",
+      "width": 768,
+      "height": 960
+    },
+    {
+      "tier": "high",
+      "score": 0.631,
+      "file": "content/images/epstein-face-matches/high/score0.631__adult-man+scanned-document+affidavit__EFTA00255244_20260202_p191_i001.webp",
+      "source_name": "score0.631__adult-man+scanned-document+affidavit__EFTA00255244_20260202_p191_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.63,
+      "file": "content/images/epstein-face-matches/high/score0.630__adult-man+boat+vehicle+affidavit__EFTA00251905_20260202_p036_i001.webp",
+      "source_name": "score0.630__adult-man+boat+vehicle+affidavit__EFTA00251905_20260202_p036_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.63,
+      "file": "content/images/epstein-face-matches/high/score0.630__boat+adult-man__EFTA00251905_20260202_p023_i001.webp",
+      "source_name": "score0.630__boat+adult-man__EFTA00251905_20260202_p023_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.626,
+      "file": "content/images/epstein-face-matches/high/score0.626__adult-man+newspaper-clipping__EFTA01196942_20260203_p003_i001.webp",
+      "source_name": "score0.626__adult-man+newspaper-clipping__EFTA01196942_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.626,
+      "file": "content/images/epstein-face-matches/high/score0.626__indoor-scene+office__EFTA01302546_20260130_p001_i001.webp",
+      "source_name": "score0.626__indoor-scene+office__EFTA01302546_20260130_p001_i001.png",
+      "width": 935,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.625,
+      "file": "content/images/epstein-face-matches/high/score0.625__computer-screen+spreadsheet+email-screenshot__EFTA00082060_20260202_p013_i001.webp",
+      "source_name": "score0.625__computer-screen+spreadsheet+email-screenshot__EFTA00082060_20260202_p013_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.624,
+      "file": "content/images/epstein-face-matches/high/score0.624__indoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6324_i001.webp",
+      "source_name": "score0.624__indoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6324_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.623,
+      "file": "content/images/epstein-face-matches/high/score0.623__adult-man+portrait-photo+affidavit+person__EFTA01135388_20260203_p002_i001.webp",
+      "source_name": "score0.623__adult-man+portrait-photo+affidavit+person__EFTA01135388_20260203_p002_i001.png",
+      "width": 867,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.622,
+      "file": "content/images/epstein-face-matches/high/score0.622__affidavit+legal-filing+passport+contact-list__EFTA00172083_20260202_p001_i001.webp",
+      "source_name": "score0.622__affidavit+legal-filing+passport+contact-list__EFTA00172083_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.62,
+      "file": "content/images/epstein-face-matches/high/score0.620__affidavit+court-document+scanned-document+legal-filing+deposition-transcript__EFTA01255234_20260203_p003_i001.webp",
+      "source_name": "score0.620__affidavit+court-document+scanned-document+legal-filing+deposition-transcript__EFTA01255234_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1073
+    },
+    {
+      "tier": "high",
+      "score": 0.62,
+      "file": "content/images/epstein-face-matches/high/score0.620__boat+adult-man__EFTA00254398_20260202_p076_i001.webp",
+      "source_name": "score0.620__boat+adult-man__EFTA00254398_20260202_p076_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.618,
+      "file": "content/images/epstein-face-matches/high/score0.618__affidavit+legal-filing__EFTA01135081_20260203_p003_i001.webp",
+      "source_name": "score0.618__affidavit+legal-filing__EFTA01135081_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.618,
+      "file": "content/images/epstein-face-matches/high/score0.618__airplane__EFTA00003527_20251219_p001_i001.webp",
+      "source_name": "score0.618__airplane__EFTA00003527_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.616,
+      "file": "content/images/epstein-face-matches/high/score0.616__legal-filing+affidavit+court-document__EFTA01297066_20260130_p002_i001.webp",
+      "source_name": "score0.616__legal-filing+affidavit+court-document__EFTA01297066_20260130_p002_i001.png",
+      "width": 816,
+      "height": 1073
+    },
+    {
+      "tier": "high",
+      "score": 0.615,
+      "file": "content/images/epstein-face-matches/high/score0.615__adult-man+outdoor-scene+adult-woman+person__EFTA01599449_20260130_p001_i001.webp",
+      "source_name": "score0.615__adult-man+outdoor-scene+adult-woman+person__EFTA01599449_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.614,
+      "file": "content/images/epstein-face-matches/high/score0.614__adult-man+affidavit+adult-woman+spreadsheet+legal-filing__EFTA01143747_20260203_p005_i001.webp",
+      "source_name": "score0.614__adult-man+affidavit+adult-woman+spreadsheet+legal-filing__EFTA01143747_20260203_p005_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.614,
+      "file": "content/images/epstein-face-matches/high/score0.614__affidavit+deposition-transcript__EFTA00251848_20260202_p051_i001.webp",
+      "source_name": "score0.614__affidavit+deposition-transcript__EFTA00251848_20260202_p051_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.613,
+      "file": "content/images/epstein-face-matches/high/score0.613__adult-man+person__EFTA01176026_20260203_p003_i001.webp",
+      "source_name": "score0.613__adult-man+person__EFTA01176026_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.613,
+      "file": "content/images/epstein-face-matches/high/score0.613__adult-man__EFTA00252545_20260202_p064_i001.webp",
+      "source_name": "score0.613__adult-man__EFTA00252545_20260202_p064_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.613,
+      "file": "content/images/epstein-face-matches/high/score0.613__affidavit+legal-filing+court-document__EFTA01122242_20260203_p028_i001.webp",
+      "source_name": "score0.613__affidavit+legal-filing+court-document__EFTA01122242_20260203_p028_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.613,
+      "file": "content/images/epstein-face-matches/high/score0.613__computer-screen+indoor-scene__EFTA00252202_20260202_p036_i001.webp",
+      "source_name": "score0.613__computer-screen+indoor-scene__EFTA00252202_20260202_p036_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.612,
+      "file": "content/images/epstein-face-matches/high/score0.612__boat+spreadsheet+deposition-transcript+adult-man__EFTA00254398_20260202_p086_i001.webp",
+      "source_name": "score0.612__boat+spreadsheet+deposition-transcript+adult-man__EFTA00254398_20260202_p086_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.611,
+      "file": "content/images/epstein-face-matches/high/score0.611__computer-screen+deposition-transcript+affidavit__EFTA00247725_20260202_p032_i001.webp",
+      "source_name": "score0.611__computer-screen+deposition-transcript+affidavit__EFTA00247725_20260202_p032_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.61,
+      "file": "content/images/epstein-face-matches/high/score0.610__affidavit+boat+legal-filing+scanned-document__EFTA00251972_20260202_p013_i001.webp",
+      "source_name": "score0.610__affidavit+boat+legal-filing+scanned-document__EFTA00251972_20260202_p013_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.61,
+      "file": "content/images/epstein-face-matches/high/score0.610__portrait-photo__EFTA00003514_20251219_p001_i001.webp",
+      "source_name": "score0.610__portrait-photo__EFTA00003514_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.609,
+      "file": "content/images/epstein-face-matches/high/score0.609__boat__EFTA00251905_20260202_p028_i001.webp",
+      "source_name": "score0.609__boat__EFTA00251905_20260202_p028_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.608,
+      "file": "content/images/epstein-face-matches/high/score0.608__boat__COMBINED_ALL_EPSTEIN_FILES_20260210_p6548_i001.webp",
+      "source_name": "score0.608__boat__COMBINED_ALL_EPSTEIN_FILES_20260210_p6548_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.607,
+      "file": "content/images/epstein-face-matches/high/score0.607__boat+portrait-photo__EFTA00254812_20260202_p129_i001.webp",
+      "source_name": "score0.607__boat+portrait-photo__EFTA00254812_20260202_p129_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.607,
+      "file": "content/images/epstein-face-matches/high/score0.607__boat+portrait-photo__EFTA00255028_20260202_p129_i001.webp",
+      "source_name": "score0.607__boat+portrait-photo__EFTA00255028_20260202_p129_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.603,
+      "file": "content/images/epstein-face-matches/high/score0.603__adult-man+passport+person+group-photo+adult-woman__EFTA00256782_20260202_p034_i001.webp",
+      "source_name": "score0.603__adult-man+passport+person+group-photo+adult-woman__EFTA00256782_20260202_p034_i001.png",
+      "width": 1400,
+      "height": 1104
+    },
+    {
+      "tier": "high",
+      "score": 0.6,
+      "file": "content/images/epstein-face-matches/high/score0.600__portrait-photo__EFTA00005538_20251219_p023_i001.webp",
+      "source_name": "score0.600__portrait-photo__EFTA00005538_20251219_p023_i001.png",
+      "width": 643,
+      "height": 904
+    },
+    {
+      "tier": "high",
+      "score": 0.599,
+      "file": "content/images/epstein-face-matches/high/score0.599__affidavit+legal-filing+email-screenshot+court-document+deposition-transcript__EFTA00060779_20260202_p001_i001.webp",
+      "source_name": "score0.599__affidavit+legal-filing+email-screenshot+court-document+deposition-transcript__EFTA00060779_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.598,
+      "file": "content/images/epstein-face-matches/high/score0.598__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p072_i001.webp",
+      "source_name": "score0.598__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p072_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "high",
+      "score": 0.597,
+      "file": "content/images/epstein-face-matches/high/score0.597__adult-man+affidavit+deposition-transcript__EFTA00252355_20260202_p016_i001.webp",
+      "source_name": "score0.597__adult-man+affidavit+deposition-transcript__EFTA00252355_20260202_p016_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.596,
+      "file": "content/images/epstein-face-matches/high/score0.596__boat__EFTA00251705_20260202_p107_i001.webp",
+      "source_name": "score0.596__boat__EFTA00251705_20260202_p107_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.594,
+      "file": "content/images/epstein-face-matches/high/score0.594__computer-screen__EFTA00247725_20260202_p106_i001.webp",
+      "source_name": "score0.594__computer-screen__EFTA00247725_20260202_p106_i001.png",
+      "width": 410,
+      "height": 546
+    },
+    {
+      "tier": "high",
+      "score": 0.592,
+      "file": "content/images/epstein-face-matches/high/score0.592__adult-man+adult-woman__EFTA01598751_20260130_p001_i001.webp",
+      "source_name": "score0.592__adult-man+adult-woman__EFTA01598751_20260130_p001_i001.png",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "tier": "high",
+      "score": 0.592,
+      "file": "content/images/epstein-face-matches/high/score0.592__group-photo+scanned-document__COMBINED_ALL_EPSTEIN_FILES_20260210_p6336_i001.webp",
+      "source_name": "score0.592__group-photo+scanned-document__COMBINED_ALL_EPSTEIN_FILES_20260210_p6336_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.591,
+      "file": "content/images/epstein-face-matches/high/score0.591__affidavit+legal-filing+court-document+scanned-document__EFTA00181807_20260202_p422_i001.webp",
+      "source_name": "score0.591__affidavit+legal-filing+court-document+scanned-document__EFTA00181807_20260202_p422_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "high",
+      "score": 0.591,
+      "file": "content/images/epstein-face-matches/high/score0.591__group-photo+adult-man__EFTA01611901_20260130_p001_i001.webp",
+      "source_name": "score0.591__group-photo+adult-man__EFTA01611901_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.59,
+      "file": "content/images/epstein-face-matches/high/score0.590__boat__EFTA00251905_20260202_p014_i001.webp",
+      "source_name": "score0.590__boat__EFTA00251905_20260202_p014_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.59,
+      "file": "content/images/epstein-face-matches/high/score0.590__indoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6644_i001.webp",
+      "source_name": "score0.590__indoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6644_i001.png",
+      "width": 1400,
+      "height": 934
+    },
+    {
+      "tier": "high",
+      "score": 0.59,
+      "file": "content/images/epstein-face-matches/high/score0.590__portrait-photo+adult-man+outdoor-scene__EFTA01600489_20260130_p001_i001.webp",
+      "source_name": "score0.590__portrait-photo+adult-man+outdoor-scene__EFTA01600489_20260130_p001_i001.png",
+      "width": 577,
+      "height": 532
+    },
+    {
+      "tier": "high",
+      "score": 0.589,
+      "file": "content/images/epstein-face-matches/high/score0.589__boat+adult-man__EFTA00251705_20260202_p093_i001.webp",
+      "source_name": "score0.589__boat+adult-man__EFTA00251705_20260202_p093_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.586,
+      "file": "content/images/epstein-face-matches/high/score0.586__affidavit+adult-man+scanned-document+deposition-transcript+court-document__EFTA00256967_20260202_p013_i001.webp",
+      "source_name": "score0.586__affidavit+adult-man+scanned-document+deposition-transcript+court-document__EFTA00256967_20260202_p013_i001.png",
+      "width": 1096,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.585,
+      "file": "content/images/epstein-face-matches/high/score0.585__office+deposition-transcript__EFTA01599478_20260130_p001_i001.webp",
+      "source_name": "score0.585__office+deposition-transcript__EFTA01599478_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.584,
+      "file": "content/images/epstein-face-matches/high/score0.584__adult-man+affidavit+adult-woman+legal-filing__EFTA01143729_20260203_p006_i001.webp",
+      "source_name": "score0.584__adult-man+affidavit+adult-woman+legal-filing__EFTA01143729_20260203_p006_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.584,
+      "file": "content/images/epstein-face-matches/high/score0.584__affidavit+adult-man+person+adult-woman__EFTA01143747_20260203_p004_i001.webp",
+      "source_name": "score0.584__affidavit+adult-man+person+adult-woman__EFTA01143747_20260203_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.584,
+      "file": "content/images/epstein-face-matches/high/score0.584__portrait-photo+outdoor-scene+legal-filing__EFTA01302234_20260130_p001_i001.webp",
+      "source_name": "score0.584__portrait-photo+outdoor-scene+legal-filing__EFTA01302234_20260130_p001_i001.png",
+      "width": 935,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.583,
+      "file": "content/images/epstein-face-matches/high/score0.583__boat__EFTA00251905_20260202_p015_i001.webp",
+      "source_name": "score0.583__boat__EFTA00251905_20260202_p015_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.583,
+      "file": "content/images/epstein-face-matches/high/score0.583__book-page+timeline+spreadsheet+court-document__EFTA01187013_20260203_p001_i001.webp",
+      "source_name": "score0.583__book-page+timeline+spreadsheet+court-document__EFTA01187013_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.581,
+      "file": "content/images/epstein-face-matches/high/score0.581__boat__EFTA00251905_20260202_p012_i001.webp",
+      "source_name": "score0.581__boat__EFTA00251905_20260202_p012_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.58,
+      "file": "content/images/epstein-face-matches/high/score0.580__adult-man+scanned-document+court-document__EFTA00255244_20260202_p193_i001.webp",
+      "source_name": "score0.580__adult-man+scanned-document+court-document__EFTA00255244_20260202_p193_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.58,
+      "file": "content/images/epstein-face-matches/high/score0.580__adult-man__EFTA01149440_20260203_p003_i001.webp",
+      "source_name": "score0.580__adult-man__EFTA01149440_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.579,
+      "file": "content/images/epstein-face-matches/high/score0.579__adult-woman+adult-man+outdoor-scene__EFTA01143729_20260203_p004_i001.webp",
+      "source_name": "score0.579__adult-woman+adult-man+outdoor-scene__EFTA01143729_20260203_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.578,
+      "file": "content/images/epstein-face-matches/high/score0.578__airplane__EFTA01624308_20260130_p001_i001.webp",
+      "source_name": "score0.578__airplane__EFTA01624308_20260130_p001_i001.png",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.577,
+      "file": "content/images/epstein-face-matches/high/score0.577__boat__EFTA00251905_20260202_p031_i001.webp",
+      "source_name": "score0.577__boat__EFTA00251905_20260202_p031_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.576,
+      "file": "content/images/epstein-face-matches/high/score0.576__airplane+vehicle__EFTA00255244_20260202_p108_i001.webp",
+      "source_name": "score0.576__airplane+vehicle__EFTA00255244_20260202_p108_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.575,
+      "file": "content/images/epstein-face-matches/high/score0.575__outdoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6321_i001.webp",
+      "source_name": "score0.575__outdoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6321_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.574,
+      "file": "content/images/epstein-face-matches/high/score0.574__boat__EFTA00251905_20260202_p032_i001.webp",
+      "source_name": "score0.574__boat__EFTA00251905_20260202_p032_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.572,
+      "file": "content/images/epstein-face-matches/high/score0.572__adult-man+deposition-transcript+portrait-photo+vehicle__EFTA01143711_20260203_p002_i001.webp",
+      "source_name": "score0.572__adult-man+deposition-transcript+portrait-photo+vehicle__EFTA01143711_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.572,
+      "file": "content/images/epstein-face-matches/high/score0.572__boat__EFTA00251905_20260202_p011_i001.webp",
+      "source_name": "score0.572__boat__EFTA00251905_20260202_p011_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.571,
+      "file": "content/images/epstein-face-matches/high/score0.571__contact-list+typed-page+scanned-document+deposition-transcript__EFTA01295997_20260130_p002_i001.webp",
+      "source_name": "score0.571__contact-list+typed-page+scanned-document+deposition-transcript__EFTA01295997_20260130_p002_i001.png",
+      "width": 816,
+      "height": 1073
+    },
+    {
+      "tier": "high",
+      "score": 0.569,
+      "file": "content/images/epstein-face-matches/high/score0.569__adult-man+scanned-document+affidavit+legal-filing__COMBINED_ALL_EPSTEIN_FILES_20260210_p6417_i001.webp",
+      "source_name": "score0.569__adult-man+scanned-document+affidavit+legal-filing__COMBINED_ALL_EPSTEIN_FILES_20260210_p6417_i001.png",
+      "width": 1045,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.567,
+      "file": "content/images/epstein-face-matches/high/score0.567__boat+adult-man+affidavit+deposition-transcript__EFTA00254398_20260202_p078_i001.webp",
+      "source_name": "score0.567__boat+adult-man+affidavit+deposition-transcript__EFTA00254398_20260202_p078_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.564,
+      "file": "content/images/epstein-face-matches/high/score0.564__adult-man+affidavit__EFTA01187002_20260203_p003_i001.webp",
+      "source_name": "score0.564__adult-man+affidavit__EFTA01187002_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.561,
+      "file": "content/images/epstein-face-matches/high/score0.561__adult-man+portrait-photo+legal-filing__EFTA00255657_20260202_p070_i001.webp",
+      "source_name": "score0.561__adult-man+portrait-photo+legal-filing__EFTA00255657_20260202_p070_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.561,
+      "file": "content/images/epstein-face-matches/high/score0.561__adult-woman+outdoor-scene__EFTA01143723_20260203_p002_i001.webp",
+      "source_name": "score0.561__adult-woman+outdoor-scene__EFTA01143723_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.561,
+      "file": "content/images/epstein-face-matches/high/score0.561__boat+adult-man+deposition-transcript__EFTA00254398_20260202_p091_i001.webp",
+      "source_name": "score0.561__boat+adult-man+deposition-transcript__EFTA00254398_20260202_p091_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.56,
+      "file": "content/images/epstein-face-matches/high/score0.560__affidavit+court-document+scanned-document+passport+legal-filing__EFTA00040006_20260202_p007_i001.webp",
+      "source_name": "score0.560__affidavit+court-document+scanned-document+passport+legal-filing__EFTA00040006_20260202_p007_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.559,
+      "file": "content/images/epstein-face-matches/high/score0.559__affidavit+spreadsheet+court-document__EFTA00254504_20260202_p093_i001.webp",
+      "source_name": "score0.559__affidavit+spreadsheet+court-document__EFTA00254504_20260202_p093_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.557,
+      "file": "content/images/epstein-face-matches/high/score0.557__affidavit+deposition-transcript+spreadsheet__EFTA00255657_20260202_p041_i001.webp",
+      "source_name": "score0.557__affidavit+deposition-transcript+spreadsheet__EFTA00255657_20260202_p041_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "high",
+      "score": 0.55,
+      "file": "content/images/epstein-face-matches/high/score0.550__boat+adult-man+spreadsheet__EFTA00251905_20260202_p024_i001.webp",
+      "source_name": "score0.550__boat+adult-man+spreadsheet__EFTA00251905_20260202_p024_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.547,
+      "file": "content/images/epstein-face-matches/high/score0.547__affidavit+outdoor-scene+adult-woman__EFTA00256517_20260202_p035_i001.webp",
+      "source_name": "score0.547__affidavit+outdoor-scene+adult-woman__EFTA00256517_20260202_p035_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.545,
+      "file": "content/images/epstein-face-matches/high/score0.545__adult-man+affidavit+spreadsheet+legal-filing__EFTA00253174_20260202_p034_i001.webp",
+      "source_name": "score0.545__adult-man+affidavit+spreadsheet+legal-filing__EFTA00253174_20260202_p034_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.545,
+      "file": "content/images/epstein-face-matches/high/score0.545__adult-woman+adult-man+affidavit__EFTA01143723_20260203_p004_i001.webp",
+      "source_name": "score0.545__adult-woman+adult-man+affidavit__EFTA01143723_20260203_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.545,
+      "file": "content/images/epstein-face-matches/high/score0.545__affidavit+court-document+deposition-transcript__EFTA00049963_20260202_p808_i001.webp",
+      "source_name": "score0.545__affidavit+court-document+deposition-transcript__EFTA00049963_20260202_p808_i001.png",
+      "width": 1152,
+      "height": 816
+    },
+    {
+      "tier": "high",
+      "score": 0.543,
+      "file": "content/images/epstein-face-matches/high/score0.543__adult-woman+outdoor-scene+affidavit+adult-man__EFTA01143723_20260203_p003_i001.webp",
+      "source_name": "score0.543__adult-woman+outdoor-scene+affidavit+adult-man__EFTA01143723_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.541,
+      "file": "content/images/epstein-face-matches/high/score0.541__portrait-photo+adult-man__COMBINED_ALL_EPSTEIN_FILES_20260210_p6546_i001.webp",
+      "source_name": "score0.541__portrait-photo+adult-man__COMBINED_ALL_EPSTEIN_FILES_20260210_p6546_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.54,
+      "file": "content/images/epstein-face-matches/high/score0.540__affidavit+scanned-document+court-document+legal-filing__EFTA00181807_20260202_p357_i001.webp",
+      "source_name": "score0.540__affidavit+scanned-document+court-document+legal-filing__EFTA00181807_20260202_p357_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "high",
+      "score": 0.54,
+      "file": "content/images/epstein-face-matches/high/score0.540__book-page+invoice__EFTA01189015_20260203_p001_i001.webp",
+      "source_name": "score0.540__book-page+invoice__EFTA01189015_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.539,
+      "file": "content/images/epstein-face-matches/high/score0.539__adult-man__EFTA00252545_20260202_p062_i001.webp",
+      "source_name": "score0.539__adult-man__EFTA00252545_20260202_p062_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.539,
+      "file": "content/images/epstein-face-matches/high/score0.539__airplane+scanned-document__EFTA00256987_20260202_p009_i001.webp",
+      "source_name": "score0.539__airplane+scanned-document__EFTA00256987_20260202_p009_i001.png",
+      "width": 1400,
+      "height": 1158
+    },
+    {
+      "tier": "high",
+      "score": 0.539,
+      "file": "content/images/epstein-face-matches/high/score0.539__boat__EFTA00251905_20260202_p030_i001.webp",
+      "source_name": "score0.539__boat__EFTA00251905_20260202_p030_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.538,
+      "file": "content/images/epstein-face-matches/high/score0.538__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p070_i001.webp",
+      "source_name": "score0.538__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p070_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "high",
+      "score": 0.538,
+      "file": "content/images/epstein-face-matches/high/score0.538__computer-screen+conference-room+deposition-transcript+affidavit__EFTA00252880_20260202_p024_i001.webp",
+      "source_name": "score0.538__computer-screen+conference-room+deposition-transcript+affidavit__EFTA00252880_20260202_p024_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.537,
+      "file": "content/images/epstein-face-matches/high/score0.537__affidavit+scanned-document+court-document+legal-filing__EFTA00261828_20260202_p002_i001.webp",
+      "source_name": "score0.537__affidavit+scanned-document+court-document+legal-filing__EFTA00261828_20260202_p002_i001.png",
+      "width": 794,
+      "height": 1122
+    },
+    {
+      "tier": "high",
+      "score": 0.536,
+      "file": "content/images/epstein-face-matches/high/score0.536__email-screenshot+scanned-document__EFTA01682733_20260130_p060_i001.webp",
+      "source_name": "score0.536__email-screenshot+scanned-document__EFTA01682733_20260130_p060_i001.png",
+      "width": 734,
+      "height": 1015
+    },
+    {
+      "tier": "high",
+      "score": 0.535,
+      "file": "content/images/epstein-face-matches/high/score0.535__boat+adult-man__EFTA00254398_20260202_p087_i001.webp",
+      "source_name": "score0.535__boat+adult-man__EFTA00254398_20260202_p087_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.535,
+      "file": "content/images/epstein-face-matches/high/score0.535__computer-screen+contact-list+email-screenshot+scanned-document+spreadsheet__EFTA00245440_20260202_p002_i001.webp",
+      "source_name": "score0.535__computer-screen+contact-list+email-screenshot+scanned-document+spreadsheet__EFTA00245440_20260202_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.534,
+      "file": "content/images/epstein-face-matches/high/score0.534__group-photo+table__EFTA01598530_20260130_p001_i001.webp",
+      "source_name": "score0.534__group-photo+table__EFTA01598530_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.533,
+      "file": "content/images/epstein-face-matches/high/score0.533__boat+affidavit+legal-filing+scanned-document__EFTA00251972_20260202_p015_i001.webp",
+      "source_name": "score0.533__boat+affidavit+legal-filing+scanned-document__EFTA00251972_20260202_p015_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.533,
+      "file": "content/images/epstein-face-matches/high/score0.533__book-page+spreadsheet+legal-filing__EFTA01189014_20260203_p001_i001.webp",
+      "source_name": "score0.533__book-page+spreadsheet+legal-filing__EFTA01189014_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.532,
+      "file": "content/images/epstein-face-matches/high/score0.532__group-photo__EFTA01599579_20260130_p001_i001.webp",
+      "source_name": "score0.532__group-photo__EFTA01599579_20260130_p001_i001.png",
+      "width": 1067,
+      "height": 800
+    },
+    {
+      "tier": "high",
+      "score": 0.531,
+      "file": "content/images/epstein-face-matches/high/score0.531__group-photo+conference-room__EFTA01599323_20260130_p001_i001.webp",
+      "source_name": "score0.531__group-photo+conference-room__EFTA01599323_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.53,
+      "file": "content/images/epstein-face-matches/high/score0.530__group-photo+conference-room__EFTA01599328_20260130_p001_i001.webp",
+      "source_name": "score0.530__group-photo+conference-room__EFTA01599328_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.529,
+      "file": "content/images/epstein-face-matches/high/score0.529__adult-man+spreadsheet+boat__EFTA00254398_20260202_p077_i001.webp",
+      "source_name": "score0.529__adult-man+spreadsheet+boat__EFTA00254398_20260202_p077_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.527,
+      "file": "content/images/epstein-face-matches/high/score0.527__adult-man+computer-screen+spreadsheet+airplane+vehicle__EFTA00253426_20260202_p141_i001.webp",
+      "source_name": "score0.527__adult-man+computer-screen+spreadsheet+airplane+vehicle__EFTA00253426_20260202_p141_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.527,
+      "file": "content/images/epstein-face-matches/high/score0.527__boat__EFTA00251905_20260202_p020_i001.webp",
+      "source_name": "score0.527__boat__EFTA00251905_20260202_p020_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.525,
+      "file": "content/images/epstein-face-matches/high/score0.525__affidavit+scanned-document+adult-man__EFTA00253426_20260202_p015_i001.webp",
+      "source_name": "score0.525__affidavit+scanned-document+adult-man__EFTA00253426_20260202_p015_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.523,
+      "file": "content/images/epstein-face-matches/high/score0.523__boat__EFTA00251905_20260202_p029_i001.webp",
+      "source_name": "score0.523__boat__EFTA00251905_20260202_p029_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.523,
+      "file": "content/images/epstein-face-matches/high/score0.523__indoor-scene+typed-page+newspaper-clipping__COMBINED_ALL_EPSTEIN_FILES_20260210_p6325_i001.webp",
+      "source_name": "score0.523__indoor-scene+typed-page+newspaper-clipping__COMBINED_ALL_EPSTEIN_FILES_20260210_p6325_i001.png",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "tier": "high",
+      "score": 0.523,
+      "file": "content/images/epstein-face-matches/high/score0.523__office+table__COMBINED_ALL_EPSTEIN_FILES_20260210_p6628_i001.webp",
+      "source_name": "score0.523__office+table__COMBINED_ALL_EPSTEIN_FILES_20260210_p6628_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.522,
+      "file": "content/images/epstein-face-matches/high/score0.522__contact-list+typed-page+scanned-document__EFTA01364138_20260130_p001_i001.webp",
+      "source_name": "score0.522__contact-list+typed-page+scanned-document__EFTA01364138_20260130_p001_i001.png",
+      "width": 816,
+      "height": 1089
+    },
+    {
+      "tier": "high",
+      "score": 0.522,
+      "file": "content/images/epstein-face-matches/high/score0.522__deposition-transcript+contact-list+scanned-document+legal-filing__EFTA01363539_20260130_p001_i001.webp",
+      "source_name": "score0.522__deposition-transcript+contact-list+scanned-document+legal-filing__EFTA01363539_20260130_p001_i001.png",
+      "width": 816,
+      "height": 1089
+    },
+    {
+      "tier": "high",
+      "score": 0.519,
+      "file": "content/images/epstein-face-matches/high/score0.519__adult-man+person+deposition-transcript__EFTA01196942_20260203_p002_i001.webp",
+      "source_name": "score0.519__adult-man+person+deposition-transcript__EFTA01196942_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.519,
+      "file": "content/images/epstein-face-matches/high/score0.519__affidavit+deposition-transcript+court-document+scanned-document__EFTA00256782_20260202_p052_i001.webp",
+      "source_name": "score0.519__affidavit+deposition-transcript+court-document+scanned-document__EFTA00256782_20260202_p052_i001.png",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "tier": "high",
+      "score": 0.518,
+      "file": "content/images/epstein-face-matches/high/score0.518__adult-man+text-message-screenshot+email-screenshot__EFTA01131882_20260203_p002_i001.webp",
+      "source_name": "score0.518__adult-man+text-message-screenshot+email-screenshot__EFTA01131882_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.517,
+      "file": "content/images/epstein-face-matches/high/score0.517__adult-man+person+adult-woman__EFTA01624764_20260130_p001_i001.webp",
+      "source_name": "score0.517__adult-man+person+adult-woman__EFTA01624764_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "high",
+      "score": 0.517,
+      "file": "content/images/epstein-face-matches/high/score0.517__portrait-photo+scanned-document__EFTA02687485_20260210_p001_i001.webp",
+      "source_name": "score0.517__portrait-photo+scanned-document__EFTA02687485_20260210_p001_i001.png",
+      "width": 816,
+      "height": 1073
+    },
+    {
+      "tier": "high",
+      "score": 0.516,
+      "file": "content/images/epstein-face-matches/high/score0.516__affidavit+court-document+legal-filing__EFTA00181807_20260202_p220_i001.webp",
+      "source_name": "score0.516__affidavit+court-document+legal-filing__EFTA00181807_20260202_p220_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "high",
+      "score": 0.516,
+      "file": "content/images/epstein-face-matches/high/score0.516__group-photo+scanned-document__EFTA02709211_20260210_p001_i001.webp",
+      "source_name": "score0.516__group-photo+scanned-document__EFTA02709211_20260210_p001_i001.png",
+      "width": 976,
+      "height": 1073
+    },
+    {
+      "tier": "high",
+      "score": 0.515,
+      "file": "content/images/epstein-face-matches/high/score0.515__deposition-transcript+conference-room__EFTA01611887_20260130_p001_i001.webp",
+      "source_name": "score0.515__deposition-transcript+conference-room__EFTA01611887_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.512,
+      "file": "content/images/epstein-face-matches/high/score0.512__affidavit+deposition-transcript+scanned-document__EFTA00254812_20260202_p080_i001.webp",
+      "source_name": "score0.512__affidavit+deposition-transcript+scanned-document__EFTA00254812_20260202_p080_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.512,
+      "file": "content/images/epstein-face-matches/high/score0.512__affidavit+deposition-transcript+scanned-document__EFTA00255028_20260202_p080_i001.webp",
+      "source_name": "score0.512__affidavit+deposition-transcript+scanned-document__EFTA00255028_20260202_p080_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.509,
+      "file": "content/images/epstein-face-matches/high/score0.509__adult-man__EFTA01194487_20260203_p003_i001.webp",
+      "source_name": "score0.509__adult-man__EFTA01194487_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.509,
+      "file": "content/images/epstein-face-matches/high/score0.509__affidavit+court-document+scanned-document+deposition-transcript__EFTA01246131_20260203_p001_i001.webp",
+      "source_name": "score0.509__affidavit+court-document+scanned-document+deposition-transcript__EFTA01246131_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1061
+    },
+    {
+      "tier": "high",
+      "score": 0.509,
+      "file": "content/images/epstein-face-matches/high/score0.509__outdoor-scene+table__EFTA00003556_20251219_p001_i001.webp",
+      "source_name": "score0.509__outdoor-scene+table__EFTA00003556_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.508,
+      "file": "content/images/epstein-face-matches/high/score0.508__boat+adult-man__EFTA00003524_20251219_p001_i001.webp",
+      "source_name": "score0.508__boat+adult-man__EFTA00003524_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.506,
+      "file": "content/images/epstein-face-matches/high/score0.506__boat+adult-man__EFTA00251905_20260202_p025_i001.webp",
+      "source_name": "score0.506__boat+adult-man__EFTA00251905_20260202_p025_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "high",
+      "score": 0.506,
+      "file": "content/images/epstein-face-matches/high/score0.506__boat+outdoor-scene__EFTA00254398_20260202_p090_i001.webp",
+      "source_name": "score0.506__boat+outdoor-scene__EFTA00254398_20260202_p090_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.506,
+      "file": "content/images/epstein-face-matches/high/score0.506__portrait-photo+computer-screen__COMBINED_ALL_EPSTEIN_FILES_20260210_p4949_i001.webp",
+      "source_name": "score0.506__portrait-photo+computer-screen__COMBINED_ALL_EPSTEIN_FILES_20260210_p4949_i001.png",
+      "width": 769,
+      "height": 1152
+    },
+    {
+      "tier": "high",
+      "score": 0.505,
+      "file": "content/images/epstein-face-matches/high/score0.505__boat+adult-man__EFTA00249786_20260202_p085_i001.webp",
+      "source_name": "score0.505__boat+adult-man__EFTA00249786_20260202_p085_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "high",
+      "score": 0.502,
+      "file": "content/images/epstein-face-matches/high/score0.502__airplane+text-message-screenshot__EFTA01132311_20260203_p003_i001.webp",
+      "source_name": "score0.502__airplane+text-message-screenshot__EFTA01132311_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "high",
+      "score": 0.5,
+      "file": "content/images/epstein-face-matches/high/score0.500__scanned-document+court-document+deposition-transcript__EFTA01297437_20260130_p010_i001.webp",
+      "source_name": "score0.500__scanned-document+court-document+deposition-transcript__EFTA01297437_20260130_p010_i001.png",
+      "width": 816,
+      "height": 1073
+    },
+    {
+      "tier": "low",
+      "score": 0.399,
+      "file": "content/images/epstein-face-matches/low/score0.399__typed-page+deposition-transcript__EFTA01297189_20260130_p004_i001.webp",
+      "source_name": "score0.399__typed-page+deposition-transcript__EFTA01297189_20260130_p004_i001.png",
+      "width": 816,
+      "height": 1073
+    },
+    {
+      "tier": "low",
+      "score": 0.397,
+      "file": "content/images/epstein-face-matches/low/score0.397__affidavit+court-document+book-page__EFTA01112644_20260203_p046_i001.webp",
+      "source_name": "score0.397__affidavit+court-document+book-page__EFTA01112644_20260203_p046_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "low",
+      "score": 0.397,
+      "file": "content/images/epstein-face-matches/low/score0.397__boat__EFTA00003511_20251219_p001_i001.webp",
+      "source_name": "score0.397__boat__EFTA00003511_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "low",
+      "score": 0.397,
+      "file": "content/images/epstein-face-matches/low/score0.397__uncategorized__EFTA01302781_20260130_p001_i001.webp",
+      "source_name": "score0.397__uncategorized__EFTA01302781_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 935
+    },
+    {
+      "tier": "low",
+      "score": 0.394,
+      "file": "content/images/epstein-face-matches/low/score0.394__adult-man+business-card+spreadsheet+text-message-screenshot__EFTA00766774_20260203_p002_i001.webp",
+      "source_name": "score0.394__adult-man+business-card+spreadsheet+text-message-screenshot__EFTA00766774_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "low",
+      "score": 0.393,
+      "file": "content/images/epstein-face-matches/low/score0.393__boat+outdoor-scene__EFTA00251905_20260202_p009_i001.webp",
+      "source_name": "score0.393__boat+outdoor-scene__EFTA00251905_20260202_p009_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "low",
+      "score": 0.391,
+      "file": "content/images/epstein-face-matches/low/score0.391__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p195_i001.webp",
+      "source_name": "score0.391__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p195_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "low",
+      "score": 0.391,
+      "file": "content/images/epstein-face-matches/low/score0.391__book-page+scanned-document__EFTA00281197_20260202_p005_i001.webp",
+      "source_name": "score0.391__book-page+scanned-document__EFTA00281197_20260202_p005_i001.png",
+      "width": 1400,
+      "height": 908
+    },
+    {
+      "tier": "low",
+      "score": 0.389,
+      "file": "content/images/epstein-face-matches/low/score0.389__boat__EFTA00255028_20260202_p113_i001.webp",
+      "source_name": "score0.389__boat__EFTA00255028_20260202_p113_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "low",
+      "score": 0.385,
+      "file": "content/images/epstein-face-matches/low/score0.385__adult-woman+portrait-photo__EFTA01202161_20260203_p002_i001.webp",
+      "source_name": "score0.385__adult-woman+portrait-photo__EFTA01202161_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "low",
+      "score": 0.381,
+      "file": "content/images/epstein-face-matches/low/score0.381__scanned-document+newspaper-clipping+typed-page__EFTA01735393_20260130_p001_i001.webp",
+      "source_name": "score0.381__scanned-document+newspaper-clipping+typed-page__EFTA01735393_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 951
+    },
+    {
+      "tier": "low",
+      "score": 0.379,
+      "file": "content/images/epstein-face-matches/low/score0.379__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p183_i001.webp",
+      "source_name": "score0.379__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p183_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "low",
+      "score": 0.377,
+      "file": "content/images/epstein-face-matches/low/score0.377__airplane+contact-list+passport__EFTA00601891_20260203_p002_i001.webp",
+      "source_name": "score0.377__airplane+contact-list+passport__EFTA00601891_20260203_p002_i001.png",
+      "width": 984,
+      "height": 672
+    },
+    {
+      "tier": "low",
+      "score": 0.377,
+      "file": "content/images/epstein-face-matches/low/score0.377__building+affidavit__EFTA00254649_20260202_p007_i001.webp",
+      "source_name": "score0.377__building+affidavit__EFTA00254649_20260202_p007_i001.png",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "tier": "low",
+      "score": 0.377,
+      "file": "content/images/epstein-face-matches/low/score0.377__group-photo+outdoor-scene__EFTA01624694_20260130_p001_i001.webp",
+      "source_name": "score0.377__group-photo+outdoor-scene__EFTA01624694_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "low",
+      "score": 0.373,
+      "file": "content/images/epstein-face-matches/low/score0.373__book-page+scanned-document+typed-page+court-document__EFTA00040006_20260202_p019_i001.webp",
+      "source_name": "score0.373__book-page+scanned-document+typed-page+court-document__EFTA00040006_20260202_p019_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "low",
+      "score": 0.371,
+      "file": "content/images/epstein-face-matches/low/score0.371__adult-man+spreadsheet+affidavit__EFTA00255657_20260202_p054_i001.webp",
+      "source_name": "score0.371__adult-man+spreadsheet+affidavit__EFTA00255657_20260202_p054_i001.png",
+      "width": 1382,
+      "height": 1037
+    },
+    {
+      "tier": "low",
+      "score": 0.371,
+      "file": "content/images/epstein-face-matches/low/score0.371__adult-woman+adult-man__EFTA00253426_20260202_p020_i001.webp",
+      "source_name": "score0.371__adult-woman+adult-man__EFTA00253426_20260202_p020_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "low",
+      "score": 0.369,
+      "file": "content/images/epstein-face-matches/low/score0.369__book-page+typed-page+legal-filing+email-screenshot__EFTA01195076_20260203_p017_i001.webp",
+      "source_name": "score0.369__book-page+typed-page+legal-filing+email-screenshot__EFTA01195076_20260203_p017_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "low",
+      "score": 0.368,
+      "file": "content/images/epstein-face-matches/low/score0.368__affidavit+adult-man+child__EFTA00251848_20260202_p056_i001.webp",
+      "source_name": "score0.368__affidavit+adult-man+child__EFTA00251848_20260202_p056_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "low",
+      "score": 0.366,
+      "file": "content/images/epstein-face-matches/low/score0.366__boat__EFTA00251972_20260202_p014_i001.webp",
+      "source_name": "score0.366__boat__EFTA00251972_20260202_p014_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "low",
+      "score": 0.366,
+      "file": "content/images/epstein-face-matches/low/score0.366__book-page+newspaper-clipping+typed-page__EFTA00607427_20260203_p001_i001.webp",
+      "source_name": "score0.366__book-page+newspaper-clipping+typed-page__EFTA00607427_20260203_p001_i001.png",
+      "width": 936,
+      "height": 1400
+    },
+    {
+      "tier": "low",
+      "score": 0.364,
+      "file": "content/images/epstein-face-matches/low/score0.364__boat__EFTA00003769_20251219_p001_i001.webp",
+      "source_name": "score0.364__boat__EFTA00003769_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "medium",
+      "score": 0.496,
+      "file": "content/images/epstein-face-matches/medium/score0.496__book-page+newspaper-clipping+scanned-document+legal-filing+typed-page__EFTA01193109_20260203_p003_i001.webp",
+      "source_name": "score0.496__book-page+newspaper-clipping+scanned-document+legal-filing+typed-page__EFTA01193109_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.494,
+      "file": "content/images/epstein-face-matches/medium/score0.494__adult-woman+adult-man+spreadsheet+affidavit__EFTA01143729_20260203_p005_i001.webp",
+      "source_name": "score0.494__adult-woman+adult-man+spreadsheet+affidavit__EFTA01143729_20260203_p005_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.492,
+      "file": "content/images/epstein-face-matches/medium/score0.492__book-page__EFTA01186995_20260203_p001_i001.webp",
+      "source_name": "score0.492__book-page__EFTA01186995_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.492,
+      "file": "content/images/epstein-face-matches/medium/score0.492__computer-screen+email-screenshot+typed-page+contact-list+scanned-document__EFTA00245437_20260202_p001_i001.webp",
+      "source_name": "score0.492__computer-screen+email-screenshot+typed-page+contact-list+scanned-document__EFTA00245437_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.491,
+      "file": "content/images/epstein-face-matches/medium/score0.491__affidavit+court-document+legal-filing__EFTA00181807_20260202_p184_i001.webp",
+      "source_name": "score0.491__affidavit+court-document+legal-filing__EFTA00181807_20260202_p184_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.491,
+      "file": "content/images/epstein-face-matches/medium/score0.491__book-page+typed-page+text-message-screenshot+email-screenshot__EFTA00082060_20260202_p001_i001.webp",
+      "source_name": "score0.491__book-page+typed-page+text-message-screenshot+email-screenshot__EFTA00082060_20260202_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.49,
+      "file": "content/images/epstein-face-matches/medium/score0.490__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p004_i001.webp",
+      "source_name": "score0.490__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p004_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.488,
+      "file": "content/images/epstein-face-matches/medium/score0.488__adult-woman+adult-man+affidavit__EFTA00253426_20260202_p022_i001.webp",
+      "source_name": "score0.488__adult-woman+adult-man+affidavit__EFTA00253426_20260202_p022_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.487,
+      "file": "content/images/epstein-face-matches/medium/score0.487__adult-man+adult-woman__EFTA01598746_20260130_p001_i001.webp",
+      "source_name": "score0.487__adult-man+adult-woman__EFTA01598746_20260130_p001_i001.png",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "tier": "medium",
+      "score": 0.484,
+      "file": "content/images/epstein-face-matches/medium/score0.484__boat__EFTA00255028_20260202_p122_i001.webp",
+      "source_name": "score0.484__boat__EFTA00255028_20260202_p122_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.484,
+      "file": "content/images/epstein-face-matches/medium/score0.484__indoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6602_i001.webp",
+      "source_name": "score0.484__indoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6602_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "medium",
+      "score": 0.483,
+      "file": "content/images/epstein-face-matches/medium/score0.483__adult-man+adult-woman+person__EFTA01176026_20260203_p002_i001.webp",
+      "source_name": "score0.483__adult-man+adult-woman+person__EFTA01176026_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.48,
+      "file": "content/images/epstein-face-matches/medium/score0.480__book-page+spreadsheet+legal-filing+typed-page__EFTA01135068_20260203_p001_i001.webp",
+      "source_name": "score0.480__book-page+spreadsheet+legal-filing+typed-page__EFTA01135068_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.48,
+      "file": "content/images/epstein-face-matches/medium/score0.480__book-page+timeline+invoice__EFTA01186993_20260203_p001_i001.webp",
+      "source_name": "score0.480__book-page+timeline+invoice__EFTA01186993_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.479,
+      "file": "content/images/epstein-face-matches/medium/score0.479__affidavit+deposition-transcript+legal-filing__EFTA01143954_20260203_p002_i001.webp",
+      "source_name": "score0.479__affidavit+deposition-transcript+legal-filing__EFTA01143954_20260203_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.479,
+      "file": "content/images/epstein-face-matches/medium/score0.479__boat+logo__EFTA00254812_20260202_p122_i001.webp",
+      "source_name": "score0.479__boat+logo__EFTA00254812_20260202_p122_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.479,
+      "file": "content/images/epstein-face-matches/medium/score0.479__indoor-scene__EFTA00003443_20251219_p001_i001.webp",
+      "source_name": "score0.479__indoor-scene__EFTA00003443_20251219_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "medium",
+      "score": 0.479,
+      "file": "content/images/epstein-face-matches/medium/score0.479__portrait-photo+outdoor-scene+scanned-document+adult-man__EFTA00003796_20251219_p001_i001.webp",
+      "source_name": "score0.479__portrait-photo+outdoor-scene+scanned-document+adult-man__EFTA00003796_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.478,
+      "file": "content/images/epstein-face-matches/medium/score0.478__book-page+scanned-document__EFTA00259898_20260202_p086_i001.webp",
+      "source_name": "score0.478__book-page+scanned-document__EFTA00259898_20260202_p086_i001.png",
+      "width": 814,
+      "height": 1059
+    },
+    {
+      "tier": "medium",
+      "score": 0.478,
+      "file": "content/images/epstein-face-matches/medium/score0.478__uncategorized__EFTA01598431_20260130_p001_i001.webp",
+      "source_name": "score0.478__uncategorized__EFTA01598431_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.475,
+      "file": "content/images/epstein-face-matches/medium/score0.475__affidavit+deposition-transcript__EFTA00254504_20260202_p100_i001.webp",
+      "source_name": "score0.475__affidavit+deposition-transcript__EFTA00254504_20260202_p100_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.474,
+      "file": "content/images/epstein-face-matches/medium/score0.474__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p074_i001.webp",
+      "source_name": "score0.474__affidavit+deposition-transcript+adult-man__EFTA00255840_20260202_p074_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.473,
+      "file": "content/images/epstein-face-matches/medium/score0.473__affidavit+deposition-transcript+boat+adult-man__EFTA00254398_20260202_p079_i001.webp",
+      "source_name": "score0.473__affidavit+deposition-transcript+boat+adult-man__EFTA00254398_20260202_p079_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.472,
+      "file": "content/images/epstein-face-matches/medium/score0.472__adult-man+outdoor-scene__EFTA01598370_20260130_p001_i001.webp",
+      "source_name": "score0.472__adult-man+outdoor-scene__EFTA01598370_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "medium",
+      "score": 0.471,
+      "file": "content/images/epstein-face-matches/medium/score0.471__adult-man+legal-filing+affidavit+scanned-document+newspaper-clipping__EFTA01141066_20260203_p001_i001.webp",
+      "source_name": "score0.471__adult-man+legal-filing+affidavit+scanned-document+newspaper-clipping__EFTA01141066_20260203_p001_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.47,
+      "file": "content/images/epstein-face-matches/medium/score0.470__adult-woman+adult-man+legal-filing__EFTA01143729_20260203_p003_i001.webp",
+      "source_name": "score0.470__adult-woman+adult-man+legal-filing__EFTA01143729_20260203_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.47,
+      "file": "content/images/epstein-face-matches/medium/score0.470__outdoor-scene__EFTA01600793_20260130_p001_i001.webp",
+      "source_name": "score0.470__outdoor-scene__EFTA01600793_20260130_p001_i001.png",
+      "width": 768,
+      "height": 960
+    },
+    {
+      "tier": "medium",
+      "score": 0.464,
+      "file": "content/images/epstein-face-matches/medium/score0.464__group-photo+scanned-document__EFTA01611094_20260130_p001_i001.webp",
+      "source_name": "score0.464__group-photo+scanned-document__EFTA01611094_20260130_p001_i001.png",
+      "width": 311,
+      "height": 289
+    },
+    {
+      "tier": "medium",
+      "score": 0.463,
+      "file": "content/images/epstein-face-matches/medium/score0.463__computer-screen+court-document+scanned-document+invoice__EFTA00252202_20260202_p035_i001.webp",
+      "source_name": "score0.463__computer-screen+court-document+scanned-document+invoice__EFTA00252202_20260202_p035_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "medium",
+      "score": 0.462,
+      "file": "content/images/epstein-face-matches/medium/score0.462__adult-man+legal-filing+affidavit__EFTA01598617_20260130_p001_i001.webp",
+      "source_name": "score0.462__adult-man+legal-filing+affidavit__EFTA01598617_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "medium",
+      "score": 0.462,
+      "file": "content/images/epstein-face-matches/medium/score0.462__affidavit+child+deposition-transcript__EFTA00252545_20260202_p102_i001.webp",
+      "source_name": "score0.462__affidavit+child+deposition-transcript__EFTA00252545_20260202_p102_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "medium",
+      "score": 0.46,
+      "file": "content/images/epstein-face-matches/medium/score0.460__adult-man+affidavit+person__EFTA01624473_20260130_p001_i001.webp",
+      "source_name": "score0.460__adult-man+affidavit+person__EFTA01624473_20260130_p001_i001.png",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "tier": "medium",
+      "score": 0.46,
+      "file": "content/images/epstein-face-matches/medium/score0.460__affidavit+deposition-transcript__EFTA00256388_20260202_p081_i001.webp",
+      "source_name": "score0.460__affidavit+deposition-transcript__EFTA00256388_20260202_p081_i001.png",
+      "width": 820,
+      "height": 614
+    },
+    {
+      "tier": "medium",
+      "score": 0.456,
+      "file": "content/images/epstein-face-matches/medium/score0.456__computer-screen+office__EFTA00169882_20260202_p259_i001.webp",
+      "source_name": "score0.456__computer-screen+office__EFTA00169882_20260202_p259_i001.png",
+      "width": 963,
+      "height": 640
+    },
+    {
+      "tier": "medium",
+      "score": 0.455,
+      "file": "content/images/epstein-face-matches/medium/score0.455__affidavit+court-document+legal-filing__EFTA00181807_20260202_p188_i001.webp",
+      "source_name": "score0.455__affidavit+court-document+legal-filing__EFTA00181807_20260202_p188_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.455,
+      "file": "content/images/epstein-face-matches/medium/score0.455__building__EFTA01600720_20260130_p001_i001.webp",
+      "source_name": "score0.455__building__EFTA01600720_20260130_p001_i001.png",
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "tier": "medium",
+      "score": 0.452,
+      "file": "content/images/epstein-face-matches/medium/score0.452__adult-man+legal-filing__EFTA01652778_20260130_p003_i001.webp",
+      "source_name": "score0.452__adult-man+legal-filing__EFTA01652778_20260130_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.452,
+      "file": "content/images/epstein-face-matches/medium/score0.452__affidavit+court-document+scanned-document+legal-filing__EFTA00181807_20260202_p180_i001.webp",
+      "source_name": "score0.452__affidavit+court-document+scanned-document+legal-filing__EFTA00181807_20260202_p180_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.449,
+      "file": "content/images/epstein-face-matches/medium/score0.449__book-page+scanned-document+newspaper-clipping__EFTA00256848_20260202_p019_i001.webp",
+      "source_name": "score0.449__book-page+scanned-document+newspaper-clipping__EFTA00256848_20260202_p019_i001.png",
+      "width": 1028,
+      "height": 1400
+    },
+    {
+      "tier": "medium",
+      "score": 0.448,
+      "file": "content/images/epstein-face-matches/medium/score0.448__book-page+scanned-document__EFTA00256908_20260202_p001_i001.webp",
+      "source_name": "score0.448__book-page+scanned-document__EFTA00256908_20260202_p001_i001.png",
+      "width": 1055,
+      "height": 1400
+    },
+    {
+      "tier": "medium",
+      "score": 0.445,
+      "file": "content/images/epstein-face-matches/medium/score0.445__boat+deposition-transcript+table__EFTA00254398_20260202_p064_i001.webp",
+      "source_name": "score0.445__boat+deposition-transcript+table__EFTA00254398_20260202_p064_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.444,
+      "file": "content/images/epstein-face-matches/medium/score0.444__outdoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6358_i001.webp",
+      "source_name": "score0.444__outdoor-scene__COMBINED_ALL_EPSTEIN_FILES_20260210_p6358_i001.png",
+      "width": 820,
+      "height": 614
+    },
+    {
+      "tier": "medium",
+      "score": 0.443,
+      "file": "content/images/epstein-face-matches/medium/score0.443__indoor-scene+office__COMBINED_ALL_EPSTEIN_FILES_20260210_p2061_i001.webp",
+      "source_name": "score0.443__indoor-scene+office__COMBINED_ALL_EPSTEIN_FILES_20260210_p2061_i001.png",
+      "width": 769,
+      "height": 1152
+    },
+    {
+      "tier": "medium",
+      "score": 0.442,
+      "file": "content/images/epstein-face-matches/medium/score0.442__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p207_i001.webp",
+      "source_name": "score0.442__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p207_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.441,
+      "file": "content/images/epstein-face-matches/medium/score0.441__affidavit+scanned-document+deposition-transcript__EFTA00255840_20260202_p044_i001.webp",
+      "source_name": "score0.441__affidavit+scanned-document+deposition-transcript__EFTA00255840_20260202_p044_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.44,
+      "file": "content/images/epstein-face-matches/medium/score0.440__indoor-scene+office__COMBINED_ALL_EPSTEIN_FILES_20260210_p2057_i001.webp",
+      "source_name": "score0.440__indoor-scene+office__COMBINED_ALL_EPSTEIN_FILES_20260210_p2057_i001.png",
+      "width": 769,
+      "height": 1152
+    },
+    {
+      "tier": "medium",
+      "score": 0.439,
+      "file": "content/images/epstein-face-matches/medium/score0.439__adult-man+text-message-screenshot+typed-page__EFTA01620183_20260130_p003_i001.webp",
+      "source_name": "score0.439__adult-man+text-message-screenshot+typed-page__EFTA01620183_20260130_p003_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.439,
+      "file": "content/images/epstein-face-matches/medium/score0.439__affidavit+court-document+legal-filing__EFTA00181807_20260202_p187_i001.webp",
+      "source_name": "score0.439__affidavit+court-document+legal-filing__EFTA00181807_20260202_p187_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.439,
+      "file": "content/images/epstein-face-matches/medium/score0.439__affidavit+court-document+scanned-document__EFTA00181807_20260202_p203_i001.webp",
+      "source_name": "score0.439__affidavit+court-document+scanned-document__EFTA00181807_20260202_p203_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.434,
+      "file": "content/images/epstein-face-matches/medium/score0.434__child+spreadsheet+adult-man__EFTA00251628_20260202_p027_i001.webp",
+      "source_name": "score0.434__child+spreadsheet+adult-man__EFTA00251628_20260202_p027_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.431,
+      "file": "content/images/epstein-face-matches/medium/score0.431__affidavit+court-document+scanned-document+legal-filing__EFTA00181807_20260202_p199_i001.webp",
+      "source_name": "score0.431__affidavit+court-document+scanned-document+legal-filing__EFTA00181807_20260202_p199_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.428,
+      "file": "content/images/epstein-face-matches/medium/score0.428__portrait-photo+adult-man__EFTA00003798_20251219_p001_i001.webp",
+      "source_name": "score0.428__portrait-photo+adult-man__EFTA00003798_20251219_p001_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.426,
+      "file": "content/images/epstein-face-matches/medium/score0.426__adult-man__EFTA01624476_20260130_p001_i001.webp",
+      "source_name": "score0.426__adult-man__EFTA01624476_20260130_p001_i001.png",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "tier": "medium",
+      "score": 0.426,
+      "file": "content/images/epstein-face-matches/medium/score0.426__computer-screen+adult-woman+indoor-scene+legal-filing__EFTA00252202_20260202_p038_i001.webp",
+      "source_name": "score0.426__computer-screen+adult-woman+indoor-scene+legal-filing__EFTA00252202_20260202_p038_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "medium",
+      "score": 0.425,
+      "file": "content/images/epstein-face-matches/medium/score0.425__airplane__EFTA00255244_20260202_p057_i001.webp",
+      "source_name": "score0.425__airplane__EFTA00255244_20260202_p057_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.424,
+      "file": "content/images/epstein-face-matches/medium/score0.424__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p209_i001.webp",
+      "source_name": "score0.424__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p209_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.423,
+      "file": "content/images/epstein-face-matches/medium/score0.423__computer-screen+indoor-scene__EFTA00252202_20260202_p039_i001.webp",
+      "source_name": "score0.423__computer-screen+indoor-scene__EFTA00252202_20260202_p039_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "medium",
+      "score": 0.423,
+      "file": "content/images/epstein-face-matches/medium/score0.423__office+table__EFTA01302482_20260130_p001_i001.webp",
+      "source_name": "score0.423__office+table__EFTA01302482_20260130_p001_i001.png",
+      "width": 1400,
+      "height": 935
+    },
+    {
+      "tier": "medium",
+      "score": 0.422,
+      "file": "content/images/epstein-face-matches/medium/score0.422__affidavit+deposition-transcript+legal-filing+adult-man__EFTA00255840_20260202_p022_i001.webp",
+      "source_name": "score0.422__affidavit+deposition-transcript+legal-filing+adult-man__EFTA00255840_20260202_p022_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.418,
+      "file": "content/images/epstein-face-matches/medium/score0.418__adult-man+spreadsheet__EFTA01632970_20260130_p026_i001.webp",
+      "source_name": "score0.418__adult-man+spreadsheet__EFTA01632970_20260130_p026_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.418,
+      "file": "content/images/epstein-face-matches/medium/score0.418__book-page+typed-page__EFTA01195832_20260203_p011_i001.webp",
+      "source_name": "score0.418__book-page+typed-page__EFTA01195832_20260203_p011_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.417,
+      "file": "content/images/epstein-face-matches/medium/score0.417__affidavit+deposition-transcript+scanned-document__EFTA00255840_20260202_p040_i001.webp",
+      "source_name": "score0.417__affidavit+deposition-transcript+scanned-document__EFTA00255840_20260202_p040_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.415,
+      "file": "content/images/epstein-face-matches/medium/score0.415__boat+spreadsheet__EFTA00254398_20260202_p088_i001.webp",
+      "source_name": "score0.415__boat+spreadsheet__EFTA00254398_20260202_p088_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.414,
+      "file": "content/images/epstein-face-matches/medium/score0.414__affidavit+deposition-transcript+legal-filing+adult-man__EFTA00255840_20260202_p038_i001.webp",
+      "source_name": "score0.414__affidavit+deposition-transcript+legal-filing+adult-man__EFTA00255840_20260202_p038_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.413,
+      "file": "content/images/epstein-face-matches/medium/score0.413__affidavit+court-document+legal-filing__EFTA00181807_20260202_p179_i001.webp",
+      "source_name": "score0.413__affidavit+court-document+legal-filing__EFTA00181807_20260202_p179_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.412,
+      "file": "content/images/epstein-face-matches/medium/score0.412__affidavit+spreadsheet+deposition-transcript__EFTA00254504_20260202_p096_i001.webp",
+      "source_name": "score0.412__affidavit+spreadsheet+deposition-transcript__EFTA00254504_20260202_p096_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.41,
+      "file": "content/images/epstein-face-matches/medium/score0.410__adult-man+text-message-screenshot+adult-woman__EFTA00082060_20260202_p004_i001.webp",
+      "source_name": "score0.410__adult-man+text-message-screenshot+adult-woman__EFTA00082060_20260202_p004_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.409,
+      "file": "content/images/epstein-face-matches/medium/score0.409__adult-woman+adult-man__EFTA00249026_20260202_p251_i001.webp",
+      "source_name": "score0.409__adult-woman+adult-man__EFTA00249026_20260202_p251_i001.png",
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "tier": "medium",
+      "score": 0.409,
+      "file": "content/images/epstein-face-matches/medium/score0.409__book-page+typed-page__EFTA00283152_20260202_p024_i001.webp",
+      "source_name": "score0.409__book-page+typed-page__EFTA00283152_20260202_p024_i001.png",
+      "width": 1123,
+      "height": 794
+    },
+    {
+      "tier": "medium",
+      "score": 0.407,
+      "file": "content/images/epstein-face-matches/medium/score0.407__adult-man+adult-woman__EFTA00163119_20260202_p002_i001.webp",
+      "source_name": "score0.407__adult-man+adult-woman__EFTA00163119_20260202_p002_i001.png",
+      "width": 816,
+      "height": 1056
+    },
+    {
+      "tier": "medium",
+      "score": 0.404,
+      "file": "content/images/epstein-face-matches/medium/score0.404__adult-man__EFTA00255924_20260202_p038_i001.webp",
+      "source_name": "score0.404__adult-man__EFTA00255924_20260202_p038_i001.png",
+      "width": 1400,
+      "height": 937
+    },
+    {
+      "tier": "medium",
+      "score": 0.404,
+      "file": "content/images/epstein-face-matches/medium/score0.404__affidavit+deposition-transcript+legal-filing+adult-man__EFTA00255840_20260202_p026_i001.webp",
+      "source_name": "score0.404__affidavit+deposition-transcript+legal-filing+adult-man__EFTA00255840_20260202_p026_i001.png",
+      "width": 213,
+      "height": 160
+    },
+    {
+      "tier": "medium",
+      "score": 0.403,
+      "file": "content/images/epstein-face-matches/medium/score0.403__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p213_i001.webp",
+      "source_name": "score0.403__affidavit+court-document+legal-filing+scanned-document__EFTA00181807_20260202_p213_i001.png",
+      "width": 816,
+      "height": 1055
+    },
+    {
+      "tier": "medium",
+      "score": 0.4,
+      "file": "content/images/epstein-face-matches/medium/score0.400__boat__EFTA00254812_20260202_p121_i001.webp",
+      "source_name": "score0.400__boat__EFTA00254812_20260202_p121_i001.png",
+      "width": 1400,
+      "height": 1050
+    }
+  ]
+}

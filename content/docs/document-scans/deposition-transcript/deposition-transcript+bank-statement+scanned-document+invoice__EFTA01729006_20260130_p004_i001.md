@@ -1,0 +1,310 @@
+---
+source_image: "deposition-transcript+bank-statement+scanned-document+invoice__EFTA01729006_20260130_p004_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 590
+confidence: 1.00
+extracted: 2026-02-13T16:20:18.992890
+---
+
+Page 
+10 
+Account Number: 
+Billing Date: 
+Mobile.Number: 
+Mobile Veer: 
+Total Mobile.: 
+AIRTIME AND LONG DISTANCE CHARGES 
+City 
+Itm Date 
+Time • CL .No. Called 
+Called 
+F P 
+264 01/03 12:00AM 
+265 01/03 12:05AM 
+266 01/03 12:08AM 
+26/ 01/03 12:20AM 
+268 01/03 12:21AM 
+269 01/03 02:39AM 
+270 01/03 02:46AM 
+271 01/03 03:00AM 
+272 01/03 03:04AM 
+273 01/03 03:07AM 
+274 01/03 06:55PM 
+276 01/03 06:14PM 
+276 01/03 06:28PM 
+277 01/03 06:35PM 
+278 01/03 07:37PM 
+279 01/03 07:41PM 
+280 01/03 07:430M 
+281 01/01 07:45PM 
+282 01/03 07:52011 
+283 01/03 07:53PM 
+284 01/03 07:56PM 
+285 01/03 09:21PM 
+286 01/03 09:550M 
+287 01/02 10:02PM 
+28B 01/03 10:44PM 
+269 01/03 10:44PM 
+290 01/03 11:01PM 
+291 01/03 11:04PM 
+292 01/03 11:12FM 
+293 01/03 11:14PM 
+294 01/03 11:20PM 
+295 01/03 11:45PM 
+296 01/03 11:52PM 
+297 01/04 12:23AM 
+298 01/04 12:11AM 
+299 01/04 12:40AM 
+300 01/04 12:44AM 
+301 01/04 12:45AM 
+302 01/04 12:47AM 
+303 01/04 12:49AM 
+304 01/04 12:59AM 
+305 01/04 01:13AM 
+306 01/04 01:26AM 
+307 01/04 02:12AM 
+308 01/04 02:47AM 
+309 01/04 02:48AM 
+310 01/04 03:46AM 
+311 01/04 03:48AM 
+312 01/04 03:52AM 
+313 01/04 01:53AN 
+314 01/04 04:02AN 
+315 01/04 04:03AM 
+316 01/04 09:59AX 
+317 01/04 12:01PM 
+318 01/04 12:04PM 
+319 01/04 04:06PM 
+I. PALM FL W N.
+W PALM FL W N 
+N PALM rt. m 
+'NCOMI CL N N 
+INCOMI CL N N 
+H PALM Pc w N 
+PALM Ft W 0 
+W PALM FL W N 
+INCOMI CL N U 
+W PALM FL N 
+INCOMI CL N 
+PALM FL H 
+INCOMI CL H N 
+INCOMI.CL W 
+INCOMI C4 W N 
+PALM FL W 0 
+PALM FL N N 
+PALM FL W 
+INCCMI CL w n 
+PALM FL W U 
+INCOMI CL N n 
+INCCOU CL W A 
+INCOMI CV N 
+INCOMICINN 
+PALM Ft W N 
+PALM FL N N 
+INCOMI ch w N 
+PALM FL N N 
+INCOMI CL N N 
+INCOMI Cl. W N 
+NCOMI CL W N 
+PALM FL N N 
+PALM FL N N 
+NCOMI CL N N' 
+NCOMI CL N N 
+PALM FL N N 
+PALM FL N N 
+NCOMI CL N N 
+PALM PL 
+INCOMI CL N N 
+NCOMI CL N N 
+PAIN tic w N 
+NCOMI CL H N 
+PALM FL W N 
+PALM FL W N 
+NCOMI CL N N 
+PALM FL N N 
+' PALM FL N N 
+PALM FL NM 
+PALM PL NN 
+PALM FL N N 
+PALM FL N N 
+NCOMI CL N N 
+PALM FL W N 
+PALM FL N N 
+OICE CL N N 
+Length 
+of 
+Can 
+Air 
+Long 
+Time 
+Diet. Total 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1. 0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 • 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+' 
+EFTA01729009

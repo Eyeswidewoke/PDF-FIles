@@ -1,0 +1,484 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p055_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 707
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.054515
+---
+
+• . •
+cingular 
+Account Matter 
+Account Name 
+Date of InvotceC 
+May 13. 2005 
+Page 11 of 18 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+V04101 0:7AG7, FOR 
+I:.
+kern Unto Time died 
+4008p41 31 
+400 
+10:19 
+CO 0423 102N1
+411 0413 1025P 
+412 0424 0121A 
+73
+1 
+82:1,1 
+415 0404 1240 
+tr 
+CZ 041: 12 SIP 
+la rams 
+4O1 0424 
+COMP 
+4r/0i/21 COMP 
+115 0 M1= 
+424 0721P 
+05 0414 MAW 
+.2144: 
+419 04250701A 
+000p44272$407:141 
+Ili 
+8114 
+4 
+042717}M 
+all 
+VIE BE 
+01 
+222P 
+:41 
+Ili 
+P 
+444 
+11.51P 
+445 
+021344. 
+446 Olin 07.104 
+4470426004M 
+44 04260640A 
+0.41: igt1 
+s rat min 
+In sty 
+4$) 04360132P 
+06 044240214 
+417 Olaf 02410P 
+g: M
+CAT; 
+MO 
+01,620 
+Dani4
+441 04040715P 
+CNN To 
+G.VOI1UPS1 
+001y 
+thaw 
+Used Ram deception 
+741 
+Wi21181,7= TA 
+MM 
+uNtsartowenow MN 
+MN 
+IMAPATEMMW00 MN 
+BOYI
+WPAII= 
+Ft 
+MIN 
+UNSTA 
+M 
+UNMATETED N
+D II 
+MIC4441. 
+NN 
+. 
+Ft 
+OM 
+UNINTE01a 
+MN 
+MN 
+WPALI 
+0 
+EVT 
+MESS 
+RETREvAl 
+1.43gg 
+ft 
+MO 
+ONO? NAVM MN 
+WPAIMM4A010t 
+l evisr 
+NN 
+iir 
+I  alliavAt"
+u r 
+Nomtra 1.01 
+WIAIIISAC44 FL 
+MN 
+tNtlYTONAVRI. MN 
+O 
+ran
+54444447 
+itAvot 
+au 
+MN 
+uNUIAT 
+NAVo. MN 
+IAN 
+LNIMATE0154.0000 IAN 
+FL 
+MIN 
+UNMATED 1~00 MN 
+FL 
+OM 
+UNUNTED PiAiONO MN 
+FL 
+104 
+DROP 
+4 COEDIT 
+0
+1 144214044 FL Lir, 
+MUM • [ NAVIll MN 
+004 
+molar 
+NAN% 
+MO 
+UMW' 
+NO ION 
+woS=c
+m 
+INN 
+inalUTIDNAVio. MN 
+FL 
+NN 
+UNIIMITUI 1~0 
+NM 
+..:AfnepE 
+Li am 
+LI4VIU19113N.W
+HIATNOWN
+D um
+FL 
+FL 
+MN 
+X06001. ASTI 
+MN 
+Eir, 
+nffig...*wrwse 
+Ft 
+ISM 
+FL 
+NM 
+(VT 
+0111
+a=
+s4671464 
+it ml 
+xo2n 
+NW 
+la,
+WPALIABEACN FL 
+AM 
+3COADDI. SEE MN 
+OM 
+X0 
+MIMI MN 
+1:1 
+Lid 
+IMAtg MI 
+1
+MM 
+IMOWT 
+NAWN NM 
+404 
+um rim ni Avria laN 
+tIg 
+MO= MI 
+Pfaff) 
+_ 
+MN 
+VolIWTED WORM INN 
+MOMAINEADI Ft 
+NM 
+MIN 1900 TOM 
+EVT 
+IfiSSAGE RETREVAt 
+4001. AM rM 404 
+1,1,::=ZZ 
+:A 
+UNL74 stila rmOOL 
+EVT 
+ees 
+Al 
+%VP 
+Ft 
+NIN 
+10A 
+1. 
+Al 
+Ft 
+MN 
+i NOTM IAN 
+R. 
+101•1 
+A 
+i AMIN 1444 
+PAN 
+VA 
+DAN
+"
+ 
+300 
+MM 
+MI. 
+MM. 
+le i
+NNI 
+1 MN 
+1.4144 
+WIN 
+wi0 
+INCANOK: 
+wpnumi.cun 
+WPAlinatA04 FL 
+WP/0/ BEACH FL 
+M
+ACti
+l 
+IL 
+WPA1.7
+NCMINAGIFL 
+INCONING 
+0422i:82M 
+erdc, 
+TM
+to 
+M
+"  r
+MN
+OWNS MN 
+MTS( MN 
+(0 
+VINM.145 
+Tick 
+O1 RI 
+104VT 
+O10.00 
+MUT s 
+NCLUDED WIMIT
+INCLUDED WWI 
+MAU I5 
+1100).001.0 NORMS 
+VOICL I./SAC.;1 i ON 
+Number 
+Crania 0 Item Date Tee 04140 
+44104460172 
+4090470 10 
+aa 
+44$ O17410:1 
+449 
+12:4 
+11 °'47, 
+474 
+4 
+134 04]701 
+476 omen 
+471 044Z7 
+2 Min 
+41 Mil?' 
+Doscri 
+.1142 
+81;1 
+4604702 
+2 
+M
+I424 
+= 
+741 
+455 047110:14 
+445070 
+MO 047 .4 10 
+411 041411:11 
+NO 040011 
+03 0424 
+4.4 04424 
+40 44211001 
+tt
+440 0471 01 
+410 0474 11431 
+5M004251124 
+201 04144 Ill 
+507 0474112 
+C4TiOft3 
+b04 0470 
+5g can't
+6 
+ill 01fa301a 
+4..• II Sig 
+1 24040002:1 
+Calls To 
+WPALININACI4r.. 
+LAM MWORTH IL 
+.ca4
+11.r
+agIVIR 
+It:22121R 
+Ft 
+M9ALNEILACH P. 
+Ft 
+ivaCitr
+e“"
+Vr
+a
+il it 
+Ft 
+it 
+Ft 
+iW 
+FL 
+4014141014904 FL 
+PL4=0441 
+L 
+WP 
+MFL 
+SYNT 
+it 
+FL 
+gt
+114COMMI
+tzroi0 
+n
+U=ItACI4 FL 
+WOOLY/Atm FL 
+INCOMING 
+MWAJiEM. 1 FL 
+Egt"P1§ 
+WLM14 Ft 
+VSLI.O21.1% 
+ViS1NMBEACH FL 
+1APAUAIMA04 Ft 
+Cor nal 
+001Z/ 
+ChM. 
+Used Rate damipica 
+1 
+01101.4t1 
+SYN 
+UN 
+DAN 
+AL 
+31,1t1148=241N' 
+Ca MOHO 
+2111111 
+1EYT 
+MN 
+MIN 
+ENT 
+MIN 
+MINt
+Mi
+MN 
+MN 
+51v11 
+Mk 
+MN 
+Mk 
+VT 
+MN 
+Mk 
+10k 
+Mk 
+MN 
+MN 
+g/4 
+NN 
+ME 
+mk 
+M 
+Mk
+615 
+(VT 
+(VT 
+Mk 
+IN. 
+140. 
+Mk 
+M
+5 1 
+WIN 
+1 Mit 
+Kyr 
+not 
+U emo 
+W 
+LMUM
+WI
+T 
+W 
+IXWMIT€D WNRND LH 
+UtalaTEDNIM04011111 
+IMINNONt 101105. 
+RE TN 
+AL
+III 
+WNW 
+la U 
+%MU 
+WW 
+'Wad 
+UM 
+e 
+„. u  
+Mir 
+1110.0 
+(MOUT 
+Mall 
+IOC 
+110.00743 mLOPTES 
+VON 14044. 101406. 
+IUN 
+TIRO. 
+Utta 
+NONISO 1M1 
+,a„,„, 
+r
+ 8 r47
+05148 P411;4 
+4.40PATED NAM47401AN 
+W ONTED WAINOW4 
+MAIM 
+WI0140 MN 
+1141.041140 400240 LIN 
+CALL W TOG 
+UN
+0 N 
+N 
+WI 
+AL 
+1.01.1S 
+toWN40 PAN 
+MESS 
+METRE-04 
+UNDO 
+00414410 PAN 
+iiip.MT
+.91 .g =NI= 
+I
+UM-IIIT 0 'WAN IAN 
+VO.M1 0 14/011/4 MN 
+O4600T, re04 
+lAlf 
+IMMO 
+NOM IAN 
+I/M.1AI 
+Wer04 MIN 
+L.M.WIT 
+MAX MN 
+UNOMT 
+WHILNO MN 
+NE 
+UMJAITapisgrAN 
+temente ammotax 
+Charge 
+EFTA01692829

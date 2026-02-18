@@ -1,0 +1,456 @@
+---
+source_image: "deposition-transcript+bank-statement+spreadsheet__EFTA01692526_20260130_p007_i001.png"
+source_pdf: "EFTA01692526.pdf"
+method: pdf_text
+words: 772
+confidence: 1.00
+extracted: 2026-02-13T16:20:22.424137
+---
+
+1-
+4, acingular 
+AraW %fireless 
+WISLIAN 
+Accoun 
+bet 
+lain 
+is
+m
+Data of Invoice 
+Fetruary 18, 2005 
+Page 6 of 8 
+DETAIL. OF CURRENT ACTIVITY. CONTINUED 
+VOICE USAGE FOR 
+MAIMOI 
+Ye MY Vim OSA 
+II WO 09511 
+30 
+21gra tg
+l; 
+NP 
+27 01/20 09354 
+SS 01/21 N 
+IONA
+29 OW1 
+ASA
+10010 KAM 
+II 0111' IMP 
+32 0721 lfltiP 
+13 01121 MAY 
+145 V/221 1111; 
+Sri 
+.11: 
+118;, 
+74 
+400• 
+<71S4 
+41 0721 03 ?NA 
+420:21 Co134 
+430.21 tk2C0 
+44 01/21 t4
+45 0721 21.414 
+46 01421 07050 
+470121 OFOP 
+40 ova Geese 
+40 072: ce 70 
+52
+cota 
+0173 
+1/23 11:014 
+• 
+0 
+NAV. 
+ENKE 
+SS 01/.4 
+.564 
+grii 
+10 grti: 11Z 
+LVa:8141; 
+I'll 
+so
+0424 
+° ;b e
+e" pP
+6' 0034 VON 
+881R MR 
+ro Old= 11.31A 
+11 0025 01/14 
+Continued 
+09/2 
+Chcag• 
+7.••• To 
+U.S 
+AM. bewrimion 
+Gnaw 
+.1.../
+NCSISPArtade 
+FL 
+ft 
+WPAINIEACIL 
+WPANICACH It 
+WPALMIXACM FL 
+'a
+ A L
+ALWACCAI R 
+WPAUNTACV EL 
+WD 4411
+ W14 St 
+WPALIMAKII It 
+WPALYEEACH EL 
+NEW rOOK 
+WM:AE/40M 
+MUNfigl
+HCCA 
+a 
+WIWAISEACHFL 
+WPANNEICH FL 
+vavnertr ACK FL 
+WOu Wm And Ft 
+WPALLIEEACI1 Ft 
+MCCAW, 
+WPALUOCN> FL 
+VIP&LWIFIka4 FL 
+:g PC 
+WP 
+FL 
+EL 
+trptiLMOR 
+;42=112R. 
+ra=i131: 
+ta.15,2
+41;t. 
+A/COVIa. 
+INC 
+WPALNICAO4n 
+MCCOWN 
+I
+I 
+1VIN 
+VAN 
+I
+PA
+MPIW
+MN 
+MIN 
+MIN 
+tVI 
+MN 
+ANON 
+MN 
+MN 
+(VT 
+MN 
+MN 
+MN 
+IAN 
+MN 
+MNN 
+EV? 
+NM 
+1 EVE 
+11411 
+21411 
+Ira 
+MAN 
+VAN 
+2 INN 
+IMN 
+I EVT 
+611/1 
+WIN 
+IM 
+11141 
+k
+ANYTNM 
+m/ 
+was/LT 
+.!des4cr211;€ ed. 
+SNARED MOM TO WOOL 
+',meg% tra 
+mom 
+ur..1 
+wok 
+a 
+8211 
+E RETRIEVAL 
+ummit!' 
+man 
+I b/00t 
+,..,.„„ vms 
+S IMA
+NLY0 
+MY? 
+SNAMOOAN111144ANS 
+ct:erAtE:/
+13 :1411 
+s -AR 
+Rolm WC 
+SHARED MOIL TO thAit 
+SNWEIN/061 TO VON 
+VIAND WON TO IAA'
+IMSSMA RLtp
+SWUM 0 woe 7 
+AMPS 
+SMARM MGMANESEND 
+vESSAGE 4 EINEM. 
+SHAPED 74641111tES012 
+MIS 
+E RETRIEVAL 
+SA
+IGMITWEESE 
+N 
+79.77.1.1145 
+l 
+VtlA Rt; IINW4f4,61 
+.,....aipternita..L1 
+ren rawags,
+tv r 3 ,.., 
+E 
+4 
+MAtia T MO 
+SAC/ RETAEVAL 
+E2mE 
+vita 
+-rag? , werniC hol t
+MESSAGMAIVN. 
+SHAW MINN NAS 
+SHARED Ma T Mat 
+VOREE MMI. TO 10063 
+Za
+p
+TV
+& 
+T8:11t 
+CALL./ AI
+G 
+swage wet 70 Mee. 
+SAARLI0ANYTNE VMS 
+41
+MOM T10
+4N140L 01 
+12.401 13.11
+,A 
+SHARED ANEW( 1414 
+SNLP 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOCEUSAGEFORIIIIIIIIOrWwW 
+Number 
+neer 
+flues 
+IOW Deis Tine 
+Ca, To 
+Used 
+NM OtAttlpUon 
+fl IIP 
+...sr et 
+75 e 
+in. P 
+% PRAT r FL 
+WCWHG 
+NA 
+MAME AhrIVE INN 
+14111 
+'WANE wan 
+we 
+S05170 4/7741 
+76 0174 IOWA 
+WPANNFAVi EL 
+WA 
+SHAM*. 517103 419 
+LIM 
+MIMEO AsY1441. IAN 
+77 0676 10914 
+75 0112I 117IA 
+‘0,4411V42 FE 
+iti
+VIN 
+Ma iNmat 
+. 0026 1103A 
+w
+l.L
+.M.LY/
+E:t L
+i
+lt 14 PLR.
+PAM 
+SIMKO 14514. TO MON 
+HARED ALI17154 IN
+19 ONG 1196A 
+NV 
+:1 S la 11 122 
+8: KR 1; 
+WPALLIXAC14 FL 
+;32mi:sr.Ft 
+IN 
+NV 
+SAWED AMTNE 14V5 
+SIMAEONTITIVE NON 
+WI 
+WiA 
+. 
+N FL 
+MX 
+€'",748 ;TAT= 
+II 
+• 
+grin'
+ ix
+USli 8 -
+II. 
+ISM
+SI 01 
+01. LP
+ MO 
+55 NOS 01244 
+Mx 
+E.IMP MN:90140M 
+49 002601264 
+X. 0024 01254 
+5.14.55=ACJIR 
+Ma 
+SWAM MM. TO MOM 
+EVT 
+CALL 0/91157, 
+1 
+Ft 
+MIL Fr, Fi,Tvtr,
+.. 
+. Et ,..,„,„:.,...:, 
+ii al I,. 
+KY 
+a 
+MIS 
+MARIO AS Y Mut NAM 
+IAA 
+SWAM MOIlt. 70 31241 
+,91 
+Z
+IRIE rig-;,(i.,m 
+440 1.30 411 04+0 
+16 0176 WSW 
+riCCMIN9 
+ILIAN 
+SWAM 417 mu pas 
+IQ 017602104 
+VCCIANG 
+g
+rl 
+SHARED AMINE NS
+CALL IMMTIC 
+96 01121509114 
+I"  
+,Et
+Lxlw".MIVAVT MKS 
+55 00260I204 
+Ea —SHAR
+4nitatANYTIUt 
+KS 
+1000f12609364 
+101 OW6064 
+V Wall 
+R 
+mr:14 ISO SHAR
+""N FrO MIYTWE Mos 
+102 ined 1033A
+M 
+0 ;Arm; VMS 
+SNARED LINA ? MOM
+WPALMICACH Ft 
+lal frvil 112t 
+/X
+VI L 
+WPA 
+514/1 
+111448.5477111 ANIS 
+LoS 
+ILI IL1154 
+106 017? 12174 
+A t 
+=r u gs
+CVAIEG AN411141 11M§ 
+rol.8 zthird. ,aeg 
+18S1V1; VeZ 
+5
+,TASCA
+n. 
+2;14
+m7„ 
+pc—SHAR
+47074ArivkinSt
+MO 
+107 097 °vo! 
+;1° 4
+.1 aZ 
+4; 2 M 
+E ri: 
+"' NH
+NOM 
+1.10131 
+112 0177 OSP 
+WPAI 
+- ft 
+FPI 
+E a 
+'hi NjvT 
+MISS 
+WESSSEE 227 7 AL 
+114 0177 MOW 
+WILAUWEACI4FL 
+351/1 
+NAND NATIVE NAAS
+V3 0177 023W 
+VMALIMMACH P. 
+IM 
+Iznit xpi,
+11/110. 
+115 0177 olle 
+WPAUMIEACINT. 
+4,A
+NLI 
+AN4 
+new 
+q 
+Llt cora l 00,5 
+.wMA 
+PICOIANCI 
+2MN 
+SA 
+IM
+AR 
+LU
+ii rlirtthi 
+WPALNIXACH EL 
+2, 11
+0 4/ 
+iit
+SHAELt
+s
+D 147
+. 49. 70,1100
+A,
+L 
+VAN 
+4,14
+114
+11 
+7 
+r•Cal 
+NWS
+INN 
+Ira 
+Drat 
+IV Vat 115145 
+V/P 
+MR 
+VAN 
+SHARED NVAT/WIENNO 
+1250vn IIMAA 
+OTUMM 
+IN 0170 195IA 
+211111 
+1143Eg **WARM 
+Charge 
+La 
+1,50 
+LAO 
+EFTA01692532

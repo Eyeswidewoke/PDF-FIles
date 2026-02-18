@@ -1,0 +1,555 @@
+---
+source_image: "deposition-transcript__EFTA01692775_20260130_p066_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 933
+confidence: 1.00
+extracted: 2026-02-13T17:00:46.069641
+---
+
+. • , 
+I 
+g.;:cingular 
+Account S/ an* 
+Date or Invoice 
+June 12. 2005 
+Page 10 of 16 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+USAGE 1042 
+IPPS704
+kap Cam Tim• CMS 
+344 01/19 lin/ 
+CAtat,04 FL 
+hal: 
+=Mk 1 
+341 01/1911074 
+mail/EACIPI a 
+km 
+303 AMYL ANYIllE lel 
+341 0919 ii 474 
+ALM8FACNFL 
+PITONIOI FL -- E.31.3 
+34? 0111911W 
+vokalIG 
+341 I0111i9 lz il 
+I 0 :$ 3$2t14 
+NC00.440 
+47.I4 
+-r 
+T 
+R fp-
+.3 0 14011/9 
+.91/47.146EACIOL 
+iM: 
+303 A001 
+UNIMYC 
+44 iiiP 2 0140P 
+355 091901W 
+NOCNING 
+A-748FACII a 
+im Its 2gi c =Ism 
+354 05n90219P 
+97.90•480. FL 
+1100 
+wesedocTiram 
+351 05419 70 4IP 
+NPA_MI3EACH Ft 
+110 
+300 ADO/. wive 
+Mii 
+354 °Yin 07.49P 
+&Pali/EACHa 
+INN 
+P304.001. swam iiik 
+PP inri9 DJDOP 
+MORA°. r!. 
+lint 
+NO 
+TIVE WS 
+9t7Tower-47 FL
+l oti .. It;
+i 0/414 
+riaP 
+146 , ! r. , is 
+a,  
+T§ff 
+IMN 
+1. iU4 MC 
+70 
+364 OSA9 NOP 
+7.7:07.0.0 
+DAN 
+DO 4.001 ANYTNE Mk 
+M 
+MIX 
+NcOvoio 
+Yr ONSCH FL 
+iin 
+UMW 
+I EYT 
+Cat Wei
+s  mi.k
+UNLAN 
+La 
+16/ 07415 207744 
+/0444.280.04 FL 
+nom 
+ulimITED iihm07030.4 
+363 Oltil 0906P 
+/470-37.8EACH FL 
+I kiN 
+DROP CALL CREDO' 
+3634919 33144 
+- WYSS 
+FL 
+I MN 
+SIAMIED SSP 
+MN 
+B; SR 1SW 
+3?) 0 
+1140A 
+Zt11818R 
+*altx 
+0..., 
+LASTED 
+id MN 
+HAN 
+SLAMMED ISDN/MN 
+IM 
+leliatrali8 EZE
+.IN 
+n, Ong ISM 
+174 MO 17104. 
+- 96T077404 FL 
+2 
+tpttNITED luVAtwO MN 
+371 0920 110% 
+MCOMPO 
+MAN 
+304001 Avytm6 MA 
+373 05770 ii2SA 
+P4C-04.1102 
+nmi 
+300 AWL AWINE MP 
+m 0379) II SIP 
+&PALM/CAC/4FL 
+1 IAN 
+umpkival9.904.05L 
+IEVT 
+NESS. PETS'S,. 
+471/AINSFACI4 FL 
+MN 
+340 .44.01. MITTME ION 
+:§°13R 
+INN 
+USN SOL T 
+:43)&11 
+Mt 
+Loult PM i 
+GRIN 
+400 MA; 4 At IN MP 
+UPUM 1/GES, T 
+333  
+11 Ora ISIP 
+O NN 
+MI 2 
+/84 
+381 01201/ so 
+191 01/0) 2932P 
+NCOMMO 
+UXUM %KW. TO meet 
+meempta 
+I3474 
+Liam wCOL TO 1•599 
+/49Ay6F441n 
+NAN 
+UxuM it 0 KM/00MP 
+01720 WAIF 
+I (VT 
+471=5 , 144/wRAVAstAh
+IMP 
+OM 11 
+OV70 
+&POACH FL 
+= 
+Vaal 7§ NNIXII LIT 
+I MN 
+WPM Tr5 Wm, IAN 
+392 05/11 011M 
+on, I  
+SST 
+riNs1M MN 
+IMP 
+MSS 
+SS 
+MN 
+391 (Ta 
+I 
+*NI
+41 
+WIN 
+SUM 
+MAWS MN 
+IS 
+MST° 
+WHIM& 
+t.
+3
+ (471 691 
+pi 
+359 CND Ohms 
+19 
+gag 
+CorE:euell 
+OS/ 
+CMS 
+DS To 
+Wed Rate Deferlpion 
+MD OS/911:1M 
+UNIAMPOIL 3
+in MS 
+OSA 
+"el 
+=1 
+YMIWIFSAM
+ 
+mmt 
+MON 
+UNLIMITED PNALND 
+FLrLL 
+IMN3 
+418441121) RAMO MN 
+,4006 
+A 
+FLon. 
+WOW 
+)W
+WW1' 
+00 
+131 
+j tit
+ 
+C2A 
+I Err 
+CML WAFTING 
+ 
+ DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USMIL I oft 
+/MOW, 
+Iilt4m OM*
+0544.4 
+Ds 
+lia*"
+,,, mm an 
+0224P 
+Cats To 
+U
+WO 
+Fl. 
+WI 
+NLIATO)1411000 ,API
+W.N.
+" Lag 
+el. 
+IMed RS Description 
+QM, 
+Chas 
+UNL LIMP Prikt0 WI
+• 
+me ten MS 
+CSALL 
+WPASEAS FL 
+(VT 
+Vale404804 FL 
+i IKONS 
+_ 
+jall 
+SAM 
+SS 
+MN 
+MI 
+1/44-M 50) I4461040 MN 
+lAt IA TEO Wincr MN 
+LENA, TED SKI 
+MN 
+tto-M1 
+µNM% MN 
+MIVII010 ION 
+SOrNTCOMOIFL 
+PROMS 
+WG01/ING 
+INCCMS 
+1MN 
+wane KN
+I4Nr.
+nrci NN 
+MO Pen 
+WPASEACII FL 
+MIN 
+IIR MX.I411 T. 
+MP 
+WM Z=8 ra
+'JAE mown. Fe 
+LW 
+MINNOTED SitVG MN 
+PiCCNIVG 
+LME WORN FL 
+ISI 
+U
+u4NATE 146.=
+.1: 4 
+ra
+t417.04 44 
+lall 
+UNLMIT 
+*WINO 1744 
+I= 
+neg.1;kL 
+1
+LI 
+met 
+mmerr 
+43VM 
+MN 
+UNSTE NWIt 
+MN 
+UNLEAR 
+44WAVp PS 
+SALWEACH FL 
+MS 
+UNUSED NSW MN 
+LSE MORS Fl. 
+DAN 
+MASTED SR 
+VII 
+LAX WSW FL 
+ralf 
+1117.144Y/ 
+1114 
+14 
+Zt4 
+INCOMNG 
+ 
+MST 
+NW 
+MN 
+SUS 
+SSC 
+IAN 
+MI 
+uri 
+/WAND Mn 
+W4ALIPEACII FL 
+MN 
+uNmento miNaMik, MN 
+raracii 
+r„.4 
+t 
+UNLAWFTW 74w9,47 MN 
+UMPArrtn NYMND MN 
+SA: 
+I IL 
+t 
+UMW 
+NAVSNO MN 
+W1/4
+ 
+41 FL 
+W4ALTSACH FL 
+LIN 
+SUS 
+SSC 
+MY 
+MST 
+NYMNC INN 
+MOMS 
+NT 
+MESSAGE STRIPA/
+MI 
+LIMMITED SSD Mr 
+BOSTOM304 FL 
+MN 
+gl  2: g R ,tivn MN 
+e
+MoALVDEACI4 FL 
+MN 
+,v„,4,70R. 
+MN 
+V41000 ic MASS BS 
+MN 
+wow um 
+MOS° 
+MN 
+Santo 0 Swum MN 
+ti
+g CMA
+CCM"  DI FL 
+1/11t 
+.... 
+elErgi8 MU 
+MI 
+YIN 
+UNUSED WM(140 MN 
+LAM 'AORTA FL 
+MD 
+SOS 
+?SSD MN 
+SDI SG 
+Mk 
+SUS 
+NINSMAN 
+WrAMSACN FL 
+PM 
+MST 
+TM SO 1414 
+DDSS 
+1 Ink 
+USar 
+09191.'43 MN 
+tZ;Ai ,
+Atrimi
+i a. 
+inn 
+Ink 
+...nen 
+muvrr(0 ww 
+..
+x740 MN 
+10/0 MN 
+EY' 
+MESSAGE RETRIES:. 
+11011a0M3C44 FL 
+MA 
+'PASTS° SSC MN 
+%Pt*/ tt
+C°...1181 
+€t 
+Mt 
+umusTTED=t8 06/
+N0 34 
+IAN 
+ VWX14C MN 
+WPASNAS IR 
+MN 
+mummo rum, 
+2.01 
+POYISTOMPS PL 
+INN 
+SIMIS 
+SAN 
+MN 
+WaSSEACH FL 
+1/111 
+LTIOMIT ED 44/MN MN 
+INCOMAC: 
+MIN 
+umpaT44, 714spow up 
+SORTER NAVXI MN 
+W§A,ltal 
+Ft 
+'NOW W.1 
+I. woof 
+D WsyselD3114 
+SNIT 
+SRN MN 
+SUS 
+PSIS 
+IS 
+404,41074Km rt 
+14,004 
+outar40 unvxt40 IAN 
+WPAIMBE4411 Ft 
+110 
+UNUV/TED SSC MN 
+1 ENT 
+MESSAGE RE7R1EVAL 
+aoraomace FL 
+neri 
+tA4therrEp 07.77010 MN 
+IIIIIIIIIIIIIIIIIIVIiiIIINIIIIIIIIII 
+40/ (6/2 
+407 (412 
+44
+04601 (62 
+41 
+(00
+Ill 
+414 
+1.1 113
+; 
+lid 13 
+MC 
+406 21f2 
+411CW 
+42303M 
+42,
+fi 
+t; :n 0S4 
+Ti 
+424 Cdt: 
+h 42/ On 
+I  I 
+.4 4:51
+b IVOS6a 
+• 
+4 
+MP 
+V 
+gig 
+i 4 
+*412
+43 
+II it Elate 
+: 
+.1 Win 10»11,
+Ii.
+al i ll in; 
+.
+11,..., 
+II ! 12 Oft:2 &MA 
+i- 
+M 
+OlgiSTM 
+1.. 
+914 
+:2 n 
+21= 
+I 
+:12 Nrcz 
+4S3 
+DI 22P 
+1 
+4S1 
+0122P 
+J, in NMI; 
+It :11361815w
+p 
+459 05/224420.? 
+I. 
+W 
+12? Tali; 
+442 Mtn 0-33!r: 
+444 069a 54w,
+464 5627044* 
+461 03442 34 m 4 
+2IP
+32 
+0_427P 
+ni 
+594:104
+07050 
+0718P 
+0720P 
+03110 
+011517
+rth: 
+o
+e 
+04w
+310 
+MPS 
+02 WP 
+03101 
+0.43P 
+ounce 
+EFTA01692840

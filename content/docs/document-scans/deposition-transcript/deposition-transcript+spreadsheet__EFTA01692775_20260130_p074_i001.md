@@ -1,0 +1,558 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p074_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 914
+confidence: 1.00
+extracted: 2026-02-13T16:57:01.010482
+---
+
+F::cingular 
+eem 
+Account Humber 
+Ammuntae 
+Data of Invoice 
+July 12. 2005 
+Page 10 of 16 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+VOICE USAGE FORT 
+*MeV 
+kem Date Tim 
+1 
+24.11) 01%! 
+1:ff 1
+iE112,te; 
+203 ONO NO SP 
+.P4 0417 WSW 
+$ 0$117 10:53P 
+C6 01/17 10:1IP 
+01 M
+?
+I 11 
+ire 
+II
+an
+-
+103 06017 II: 
+110091) 1121 
+11 C.19 120/A 
+32a. 
+1 
+IS 12 
+118 0.1.8 1209* 
+11 §w
+:ill 
+6 111M 
+1/0061901 
+004190011
+221 
+01.1 
+2/.. 
+B 0134% 
+224 
+8 OIAIA 
+125 09/18 014 
+is%061  9F
+OWIN
+• 
+'11.1 *(Zit 0;411 
+230 Wit %WA 
+:31 06118
+.132 0618 02.0% 
+223 04111B02.10A 
+234 0618 02.1 IA 
+235 WM 0230E 
+276 Ce/11102.]4.41 
+;Hi MI °USA 
+;II
+11ii 
+242 
+102.4
+t"
+2A 
+24) 04Y111031)411 
+:44 001901.011 
+06111031% 
+149 041803g 
+249 041.41 
+110%
+i/52,306iiiack31„:2:1
+25.2 MO* 24.4 
+M 
+ON% 17240 
+21 
+12 (16/%0220le 
+• 
+CV: DX; 
+COrtinuell 
+ditty 
+awes 
+Cells To 
+Used lists DeSerfpeon 
+11. 
+rer 
+FL 
+MAN 
+= 
+latimi
+0.14 
+‘e
+l
+MN 
+UMMTM
+l0  II1V301 LIN 
+aph
+iolla cm Ft 
+MN 
+LIPANATED NAN1040 MN 
+MN 
+*NUM.° NOW.NO MN 
+WPMJIMPACIIFL 
+ION 
+UMMTE0 II/WGID MN 
+KILI
+WPANINFACIt FL 
+Mn 
+UMTF 
+.1.10.0 IA N 
+WP 
+ACM 
+FL 
+MN 
+UNCUT(
+ =
+8 j 
+NIIM
+MN 
+U
+I 
+*COM 
+WOHNM  
+IMACRFI. 
+INCOI.ING 
+eg 
+UMW 
+= 
+31
+out, 
+/Wall LIN 
+WPMJIIII/444 PI 
+gN 
+UNIMII 
+WOALI1 
+L 
+WOALI/ 
+VOWS 
+4 
+MN 
+UMW 
+MN 
+; 
+NZ:NRIN 
+NOVI.CMII 
+401/010 MN 
+VIPALIMFACH FL 
+MN 
+U 
+0 NNBOIC MN 
+144/4LIOSI.CLID 
+MN 
+0 
+kNI 
+MN 
+ale
+"
+ '' 
+M 
+UNIN 
+ION 
+WI 
+WPALWOCACH FL 
+MN 
+UNUPA11) 101110402124 
+NZLVA1k 
+UN 
+Nin.
+OTt
+'"11FR =PE 
+vAPAMptacK EL 
+MN 
+LOW*0 NAV*. MN
+MIPAMME ACM FL 
+IAN 
+UMNTE0 II/3 
+MN 
+BOYIITOPI3CHFL 
+: 
+UNUMTEll NM' 
+MN 
+'IACONO* 
+V
+UNMATED II 
+MN 
+(VT 
+CALI WW1M0 
+MN 
+LOMMTPO *VON' MN 
+FL
+ 
+Untilie =48 MN 
+14. 
+MN 
+LOOMTE0 Nome* MN 
+M 
+UMJI4TE0 .0.144.02 MN 
+MGM
+"
+ a  
+MII 
+LINUWITE0 MN.. 
+MN 
+LIMAITE0 MOW. MN 
+*COMO 
+WI 
+UNUMITO /WPC. MN 
+EVT 
+CALL M MG 
+*COMM 
+MN 
+UMUMILD %NAM MN 
+OOYNTONBOIFL 
+MN 
+01.0.9.0 NAM. MN 
+MCOIMIG 
+MN 
+Iv %WILD 14141440 MN 
+OIMIG 
+MN 
+CLUMIFO WM. MN 
+ALMKPCNFL 
+MN 
+GNOMIC° WM 
+MN 
+MN rksii= 
+a 
+= 
+IMUNITIp %Nom MN 
+manna 
+1/4 /391021 UN 
+niCONN41 
+%COM* 
+1121 
+WAR 
+WV
+NAT N
+OINVI 
+64.641.401 FL 
+IMN 
+UNUIXILONJWIMMN 
+IAPALMEIEACI4F1. 
+at 
+*NMI
+ liMICNIIIRN 
+142 SSAOL 191111OLVAL 
+n Ic1=ACI1 
+It 
+II% 
+emote,' a> mews M/I 
+M
+st 
+UMMTLO WWW240 MN 
+UNUUMED IIIMOID MN 
+41 CMACN ft 
+= 
+IMUWITIED NAOKOD MN 
+105AGI. Kt TRIIVAL 
+00910 
+Mel 
+UM) 
+NMINNO MN 
+g//a. 
+RS 
+'M 
+11 INWKK.pXQOWA 
+I 
+AGNIPMAIL 
+2/4* 
+UNLMITtO HMI( 
+laW
+sc iat. 
+%IP 
+NFL 
+ 
+NFL 
+1M 
+IR 
+NU 
+UNLWEL112110201%4 
+WINK/4011% 
+VAX 
+ACII IL 
+=UM 
+ 
+ NM N".4318:1 
+am 
+DM 
+untidier) MMUS° Mn 
+MIN 
+UNLM190 14%10(0 /Me 
+mom 
+IMN 
+1.1111MMI) IMIN01.194 
+Purge 
+IIIIIIIIIIIIIIIIIIIIIIIIIIIiIIIIIIIIIiIIIIIIIIIIICIIIIIIII 
+III 
+30/ OSII2 120160 
+FO/ Da
+t1 1 1i1.1
+. 1;0 
+301 OKI IOMP 
+3 
+.2 
+IP 
+"M
+g  gilf/I tIO419 
+y~ f 
+310 062? 11104]E 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+VOICE USAGE f 
+Nuente 
+Nn Date time cased 
+1p 01/1104154 
+161 0.1/19 01044 
+Mt 
+063:164 
+263 ONE MAW 
+GIII9 OTWIP 
+2$5 
+II 01120 
+2% 
+1 03t1.! 
+ro
+204 
+V( 
+L.O.
+204/ .  M /2
+21f 
+41.10 
+El= 
+G 
+Cu? Mt ICLI 
+beef 
+elmes 
+Ca% To 
+Used 
+RIND Dosairma 
+OCOMNO 
+NOOMNO 
+M 
+IPILIWITOD N 
+te 
+UNUWIT 
+W5CNO 
+E
+NNO VW 
+MP 
+ALPAM404 Ft 
+ 
+WOWED LNILIO %nil 
+INGS/CA RFIGIEVN. 
+COW% 
+31001010 
+Net 
+vxLiviT LO My, 
+NA 
+MN 
+Mt MITONANKN 1.329 
+UN 
+*01.4110 
+nt.tweir.3 
+ 
+011-0/111 
+MO 
+/WAN) MS 
+WILMTI W(N, MY 
+MAT
+M, Will 
+6004ING 
+YOTONBOIR. 
+MN 
+UMLAUT D Pi.L.401) WM 
+PAUAE201 IL 
+kila 
+UMMITED 14././E) MN 
+IL 
+MN 
+LIM 
+0 hVIMIOMN 
+ION 
+(ALUM 0 N20.92 WWI 
+iir,!in 
+RETReva 
+PAW
+ 
+la: sang MM.% 
+Qum: 
+01010 
+/MN 
+umatE0 Moo* um 
+112:4400411, 
+MN 
+WONT 0 Wimp ms 
+01.310 
+IAN 
+LineaT 
+111191111114 
+MN 
+MAXI 0 ILYOUID WI 
+YNTONOGN FL 
+MN 
+UM MT., PINKND MII 
+.016/10 
+ng 
+PC 
+lel 
+btrill 
+tag:113: 
+MN 
+UMW* 
+9.1401 Not 
+PALMS... n. 
+wit 
+VINNITEON/M911.41 
+PANBEACII FL 
+11141.MTE0 3w/ow mN 
+12COMMG 
+MN 
+UNLWED MAKM1) W. 
+2- 
+MN 
+v14LONTED 2.11.01.199 
+FE 
+A 
+14C01910 
+PAUNII 904 FL 
+MM 
+0119010 IJNXND MM 
+MN 
+Ind .9110. nAntinmr4 
+MN 
+UMLNITED WAND Um 
+:CO 0622 
+P 
+VP NAME ACal FL 
+MN 
+mu/ NOM. TO WOOL 
+EVt 
+ix:5922w P2TWEVAL 
+2{0 6122 MIMI 
+NCOIMIG 
+MN 
+VNLN WOOL TOMO. 
+III OYU COMP 
+TALMOFACII FL 
+MN 
+3001.00 1 AP.YTWE MA 
+2920//22 WelP 
+E MOTH Fl. 
+MN 
+IMLN11001.7014044 
+/1.3 0672 04010 
+DOOMING 
+r4r. 
+It y.Azgt
+i:e NC% 
+I 
+254 %RI 01119P 
+2% Olen 0919p 
+/32213fAlal FL 
+MN 
+VIMMITE0 21.0401.4N 
+AMIN IL 
+IAN 
+0141.2912 0. MAYS* WI 
+2% OW/ 09110 
+PA MAII1 
+FL 
+Mn 
+IMMTED 11/110401.199 
+1 
+cot. 1.200P 
+I 
+DAM wens 
+l a tt iAAAIN 
+"ALM% 90.°P .A. 
+MN 
+UkUINI E0 NreigND mix 
+LILIFWI, PIPOOWIL. 
+1 
+IV 06G2 02.29P 
+rg 
+water El> KY/1010118 
+°O.I1/3 Inv; 
+PAINT Ad 
+MN 
+WM DOCF0 P4MOID MN 
+MN 
+UMLWFO WAND $4/1 
+ItO 01W2 1044P 
+PALM9 LOIFt. 
+MN 
+LMLIVI. F1)24.4110$24 
+. 
+103 0442 MOM 
+PAIN 
+404 Ft 
+MN 
+UM0.6•Ft. 41122/09 MO 
+IMF 
+LOILF10 KM OIL) in 
+&Ft
+ 
+WNW y M121,91101AN 
+War 
+0 r4.101* sow 
+LINLNITION1/019234 
+WOR1141% 
+1.191.2NTE0 AINIOAD MN 
+Zia= 
+n" 
+NW 
+Water 
+krArKeumn 
+MN 
+Within 0 NM /mew 
+Meal 
+IL 
+ 
+LIIIINIT 0 14/M/11 Mk 
+0.4200 
+Wane D PiPtiMEDIAN 
+LINUNETED 1111110 MN 
+OCWANO 
+a 
+Vin.NITE0 IMMO mi. 
+Al.M3EAQI FL 
+VOMITED YMNDMII 
+9AIAMLPOI FL 
+MN 
+UNIMIILO 61/1210.68 
+A01 n. 
+dc 
+WIWITCO %Mix ND MN 
+MGM* n PANKNO WM 
+319 01423 12 WM 
+WM 
+30)401:11 MYGIF 0111
+I 
+Je) t6F23 LW OW 
+CMOG 
+INN 
+220 ALM ANYME MM 
+321 *2101 10P 
+%COW* 
+IN 
+302 ADDI.N41-11 Un 
+acne 
+,B=.2 
+EFTA01692848

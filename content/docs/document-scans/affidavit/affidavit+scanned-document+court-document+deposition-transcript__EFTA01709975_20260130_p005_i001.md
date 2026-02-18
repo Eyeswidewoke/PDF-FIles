@@ -1,0 +1,259 @@
+---
+source_image: "affidavit+scanned-document+court-document+deposition-transcript__EFTA01709975_20260130_p005_i001.png"
+source_pdf: "EFTA01709975.pdf"
+method: pdf_text
+words: 548
+confidence: 1.00
+extracted: 2026-02-13T16:16:21.837381
+---
+
+THE SCHOOL DISTRICT OF PALM BEACH COUNTY - NEW/RETURNING STUDENTS REGISTRATION 
+1311 STAID 
+i
+l
+l
+ 
+LIVES WITH (QIECE ONE1 
+BOTH PARENTS 
+N gMOTHER 
+II 
+II 
+t. 
+• 
+FATHER 
+0 
+SHARED CUSTODY 
+ti 
+0 
+a 
+. , 
+t..) , 
+Vs 
+(321 
+SPORTED BY: Sudo 
+wit be vonotwied totirsa school by Lama if miss ton ..... i 
+(33) IS Dint A COURT ORDER GAMING EITHER fAllirFR 
+CONTACTIN .„..k
+• 
+STUDENT DURING THE SCHOOL DAY) 6711111.57114
+0 
+YES 
+IF Y•/./24 • ASE PROVIDE THE SCHOOL WITH A COPY 
+THF 4,t.71 • FR 
+'7 
+NO 
+is..
+IF 
+OF 
+s 
+lAST 
+• 
+• . I s"....)10:e A 
+: . _ 
+• • 
+si 
+Cric) 
+Line 
+0 ' • al-lini-c 
+• 'teat- act,
+e. 01,10ine 5 Of ct 
+Yif 
+r5
+nat. OS twtOYMUf 
+f  
+.1 
+....... /',
+/i /
+n
+ 
+E 
+3ers2/7 OP 3-1 
+,..fieni 
+Z
+.
+POW MOW 
+HIGHEST
+(36) 
+ LEVEL OF EDUCATION COMPLETED (OPLONALI 
+Ak O wari.Lsp-"` 
+B O 
+7t,""'"., 
+...... 
+1371 HIGHEST LEVEL Of EDUCATION COMPLETED 
+AD “`"*;:".",'""' 
+B
+IOPTIOKAU 
+• SOW SOT:i0Ot 
+C
+..°4 Sl
+ay 
+Ih 
+WYRIATO 
+D O SOr Pr INSROOSIrd 
+1-c D TICWCWOOWO 
+irr
+OMOUATI ., WOMD 
+D O SOW POSINSICSOWY 
+E • 
+TWOOCALICOLLEW 
+ITtOWTWIC04100 
+IIICAOWTII e oscra3 
+(31) LEGAL GUARDIAN (IF ANY) A lin. 
+DOES LEGAL GUARDIAN HAVE CUSTODY? 
+• 
+YES 
+'❑ NO 
+Mir kw( 
+id 
+/{al 
+. , AU 
+Z 
+......41:".
+. 
+EMERGENCY tfrACIFI AND SAFETY INFORMATION 
+Alelletlit0 
+POS 
+isitOWICV 
+WOO 
+YES 
+O NO 
+YES 
+O NO 
+za YES 
+NO 
+O YES 
+O NO 
+(45) NAME 
+ADORESS 
+PHONE 
+RELATIONSH9 
+• 
+ONO 
+YES 
+1461 PART IL IF SCHOOL. PERSONNEL ARE IMAM TO CONTACT YOU It CASE OF ILLNESS OR ACCIDENT. MAY WE NAVE YOUR PERMISSION TO CALL YOUR 
+DOCTOR OR EMERGENCY SERVICES (S11) FOR TRANSPORT TO THE HOSPITAL? 
+YES D NO 
+&C. pt. k 
+n ow". 
+,,, z- 
+/ -J/s 
+713 
+c 
+On FAMILY DOCTOR 
+(49) PHONE HUMBER . 
+(49) HOSPITAL PILLPERVILL 
+ISO) LIST YOUR CHILD'S ILLNESSES, ALLERGIES OR OTHER PHYSICAL LIMITATIONS: 
+A) 0 lie 
+0007,110- cg, 
+p'Airiel eiTeci 
+, 
+1511 NAME OF CHILD 
+Aiorc • 
+SCHOOL ATTENDING 
+STUDENT NO. (OPTIONAL) 
+GRADE 
+RIM DATE 
+1521 NAME Of CHILD 
+SCHOOL ATTENDING 
+STUDENT NO, (OPTIONAL) 
+GRACIE 
+BIRTH DATE 
+(531 NAVE OF CHILD 
+SCHOOL ATTENDING 
+STUDENT NO. (OPTIONAL) 
+GRADE 
+BIRTH DATE 
+(54) NAME OF CHID 
+SCHOOL ATTENDING 
+STUDENT NO. MAMMAL) 
+GRADE 
+BIRTH DATE 
+t 
+I 
+(55) NAME OF DAD 
+GRADE 
+WITH DATE 
+(SR I WAITE THAT TIE INFORMATION GIVEN IS TRUE 
+IING ACCURATE TO THE BEST OF MY RAGWEEDS'. 
+. 
+6 __ 
+----'40.0 
+DATE 
+FOR OFFICE,g3Sg:ONLY: 
+~cyc,:?3 
+C14'). ,thil 45.64:11143t4r274141:4 i 4 
+..
+I 
+7 
+T Y- Coc 
+.., 
+A 
+'76 
+,.., 
+144) ,444!". 
+...440 4.. 1.4h..04',4 
+L 
+LF •i/.. 
+W04 CALL "CPR 
+. ..., 
+(61 TIAC 
+R 
+0.., 
+t 
+Ch,... T [CJ 
+N I3 LH n1I0, 
+ri
+LiA•AUM 
+D 4. 444r. 
+0 
+TE.S 
+0 
+a 
+.-. 
+:06 -(SC! 
+OM .1.1 A 5 
+1 
+I 
+:
+J 
+x 
+y 
+j 
+......1..P. cf ..”411. 
+: 
+I
+: 
+4 
+4.
+0 
+I 
+4 
+'S
+T
+A G , 
+• ' (721.00CUM(',T.Y. UM L.1.1ECill5y lCILECK A!1:1 4 Alf 
+N. 
+nz 1' r 
+1”.ruialZATIONS;' - " 
+CAC 
+K
+:, 
+ WIPM47.:4,44 
+... 
+,,
+-,- 
+t
+y
+'VINIFICX414,14,Or. 
+M 4Reebleeig,e;Ei; 
+71:!'." V .
+0r'41, 
+t WIACSCCUllin., 
+r ) tOrriaNA., .. . 
+Cdr[ 
+01,0SrCAL:EXAMS 
+5..4/e: eta; Lhitl CCM 21619'5`. 
+044 
+. .P.S1136 
+IREY. 3/111) 
+EFTA01709979

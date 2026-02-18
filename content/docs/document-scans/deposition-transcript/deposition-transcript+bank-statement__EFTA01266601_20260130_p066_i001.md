@@ -1,0 +1,332 @@
+---
+source_image: "deposition-transcript+bank-statement__EFTA01266601_20260130_p066_i001.png"
+source_pdf: "EFTA01266601.pdf"
+method: pdf_text
+words: 821
+confidence: 1.00
+extracted: 2026-02-13T16:20:27.717296
+---
+
+Payment Conditions. Payments must be made in U.S. dollars and drawn on kinds on deposit at financial institutions insured by the F.D.I.C. Do not mall 
+cash. Payments received by us by 5 pm central time will be credited as of the same day if the payment is in U.S. dollars and made: 
+. 
+By check or money order drawn on a financial institution located in the U.S. Of the post office, accompanied only with this payment coupon or your 
+account number. and either mailed to our payment address on the front or delivered in person to us (do not mall cash): 
+Electronically on usaa.com or through a thicl•party bill paying service: or 
+. 
+Telephonically by calling 1.800.531.9762. 
+Payments that we accept that do not meet the above requirements will be credited within 5 days. We reserve the right to withhold credit availability until 
+we confirm receipt of good funds. 
+Account Settlements. You cannot settle your account balance without our written agreement. If you want to settle your account for less than the New 
+Balance (for example if you dispute the amount you owe or you cannot afford to pay what you owe). you must write to us at USAA Credit Card Resolution 
+Services. P.O. Box 34894. San Antonio. TX 78265 and we must agree in writing. Otherwise. we may process your payment and it will not release you from 
+paying the remaining unpad balance or result in an accord and satisfaction. 
+Transactions 
+Payments and Credits 
+Trans Date Post Date 
+Reference Number 
+Transactions 
+SCOTT G BORGERSON - 
+Trans Date Post Date 
+Reference Number 
+01/31 
+01/31 
+2413746DF8PYNLDK3 
+02/01 
+02/01 
+2401339DG003SDHRO 
+02/01 
+02/01 
+2405523DH609SOPEV 
+02/01 
+02/01 
+2469216DH2X9SRYOK 
+02/01 
+02/01 
+2469216DH2X9ST2AP 
+02/02 
+02/02 
+2443106DJP5J6WAEIE 
+02/02 
+02/02 
+2443106DJP5J7Z562 
+02/03 
+02/03 
+2400341DJS66GGWF6 
+02/03 
+02/03 
+2469216DK2XJ7X7J5 
+02/06 
+02/06 
+2413746DMEJB8JR70 
+02/06 
+02/06 
+24137460M0121NA52 
+02/08 
+02/08 
+2469216DR2XRS3VMH 
+02/08 
+02/08 
+2469216DR2XRS4D2F 
+02/09 
+02/09 
+2443106DTP604JLOZ 
+02/09 
+02/09 
+2443106DTP605A6PN 
+02/10 
+02/10 
+2400341DTS66H7B40 
+02/10 
+02/10 
+2401339DTO1DSBO3P 
+02/10 
+02/10 
+2461043DTO3PNOBGT 
+02/11 
+02/11 
+2413746DV013GAFHK 
+02/11 
+02/11 
+2449215DSLXMOYP8M 
+02/11 
+02/11 
+2469216DS2X9AGST8 
+02/11 
+02/11 
+2469216DV2)01F2OSP 
+02/13 
+02/13 
+2400341DWS66E3DLX 
+02/15 
+02/15 
+2413746DY01EA96R0 
+02/15 
+02/15 
+2416407DY2LRGRTNG 
+02/15 
+02/15 
+2469216D22XB6MYGE 
+02/15 
+02/15 
+2469216D22XB6NRN9 
+02/16 
+02/16 
+2443106E0P5GRBUIL 
+02/16 
+02/16 
+2443106E0P5GTGS3Y 
+02/16 
+02/16 
+2449215E0OTSX2B37 
+02/17 
+02tI 7 
+2443106E1P5JDGWAX 
+02/18 
+02/18 
+2480166E10VYRDZ5H 
+02/18 
+02/18 
+2423168E2RBGRFGVS 
+02/18 
+02/18 
+2443 06E2ROEDATA5 
+02/18 
+02/18 
+2443106E2ROE04S09 
+02/18 
+02/18 
+2461043E103PL35W1 
+02/19 
+02/19 
+2475542E2857KPGTV 
+02/21 
+02/21 
+2407105E5VAL23HT4 
+02/21 
+02/21 
+2443106E5P5STDMP6 
+02/21 
+02/21 
+2461043E503PL5KVZ 
+02/22 
+02/22 
+2413746E6HEX5TFMB 
+02/22 
+02/22 
+2416405E6Et01B9KP3 
+02/22 
+02/22 
+2416405E6RBGKTZ6N 
+02/22 
+02/22 
+2461043E603PRWXH6 
+02723 
+02;23 
+7483050E60D6MHAOY 
+Transactions 
+GHISLAINE BORGERSON - 
+Trans Date Post Date 
+Reference Number 
+01/30 
+02/09 
+02/10 
+02/10 
+02/11 
+02/16 
+01/30 
+02/09 
+02/10 
+02/10 
+02/11 
+02/16 
+2469216DE2XOTTJ83 
+2469216DR2XWHSLKO 
+2469216DT2XLHSAYP 
+2469216DT2XOGOJS3 
+2443106DS2DK10X7S 
+2469216DZ2XLGV3SN 
+Fees 
+Trans Date Post Date Card Reference Number 
+Interest Charged 
+Trans Date Post Date 
+Reference Number 
+Description 
+Total Payments And Credits For This Period 
+Amount 
+S0.00 
+Description 
+Amount 
+TST* SHABU MARU BOSTON MA 
+$127.50 
+WILLOW ST SELF STORAGE 978.5157994 MA 
+$165.00 
+THE PARAMOUNT BOSTON MA 
+$27.08 
+COMMON MAN NO. IRVING HOOKSETT NH 
+$8.36 
+COMMON MAN NO. IRVING HOOKSETT NH 
+$34.50 
+MT SUNAPPE F&B NEWBURY NH 
+$2.25 
+MT SUNAPPE F&B NEWBURY NH 
+$2.45 
+LIFE ALIVE CAFE (BOYLSTON BOSTON MA 
+$8.54 
+LORD & TAYLOR BOSTON MA 
+$69.55 
+TST" BRACKETT'S OCEANVEW ROCKPORT MA 
+$12.93 
+Tsr TATTE BAKERY - BACK BOSTON MA 
+$6.96 
+COMMON MAN NO. IRVING HOOKSETT NH 
+$11.47 
+COMMON MAN NO. IRVING HOOKSETT NH 
+$46.74 
+MT SUNAPPE F&B NEWBURY NH 
+$6.40 
+MT SUNAPPE F&B NEWBURY NH 
+$2.45 
+LIFE ALIVE CAFE (BOYLSTON BOSTON MA 
+$10.43 
+HARVARD VANGUARD MEDICAL BOSTON MA 
+$45.00 
+MT SUNAPEE TICKETS NEWBURY NH 
+$99.00 
+USPS PO 2400740115 BOSTON MA 
+$26.35 
+UBER TRIP HELP.UBER.COM CA 
+$8.98 
+SO 'JUICE PRESS Boston MA 
+$10.81 
+PANERA BREAD #202114 P BOSTON MA 
+$2.51 
+ARMY BARRACKS • SAUGUS, M SAUGUS MA 
+$32.37 
+TST' TATTE BAKERY - BACK BOSTON MA 
+$16.59 
+TARGET 
+00011874 DANVERS MA 
+$212.81 
+COMMON MAN NO. IRVING HOOKSETT NH 
+$7.65 
+COMMON MAN NO. IRVING HOOKSETT NH 
+$39.78 
+MT SUNAPPE F&B NEWBURY NH 
+$5.45 
+MT SUNAPPE F&B NEWBURY NH 
+$2.45 
+NEST LABS 
+855.469.6378 CA 
+$200.00 
+MT SUNAPPE F&B NEWBURY NH 
+$11.40 
+SAVATREE • TREE & LAWN 914-864.3123 NY 
+$520.00 
+GULF OIL 92038875 NATICK MA 
+$40.00 
+DUNKIN #337481 035 NATICK MA 
+$4.11 
+DUNKIN #337412 035 ANTRIM NH 
+$6.63 
+MT SUNAPEE TICKETS NEWBURY NH 
+$104.00 
+ZEN JAPANESE GRILL AND SU BOSTON MA 
+$33.84 
+COMPASSION VETERINARY BRADFORD NH 
+$70.66 
+MT SUNAPPE F&B NEWBURY NH 
+$30.20 
+SUNAPEE LODGE SKI SHOP 303-404-1038 NH 
+$19.96 
+CRACKER BARREL #412 LONDO LONDONDERRY NH 
+$38.18 
+EXXONMOBIL 97452171 LONDONDERRY NH 
+$36.40 
+EXXONMOBIL 97452171 LONDONDERRY NH 
+$2.28 
+MT SUNAPEE GUEST SERVICE 303-404-1038 NH 
+S99.00 
+THE LANGHAM LONDON•PDO LONDON GB 
+S19.71 
+0056 
+15.19 826 1.297564186 
+Total Transactions For SCOTT G BORGERSON 
+92288.73 
+Description 
+Amount 
+AMZN Mktp US'4R8V26903 Anun.com;bill WA 
+$233.68 
+Amazon Prime'FV4NH9B03 Amzn.corabii WA 
+$12.99 
+AMZN Mktp US'7A4415013 Amzn.convbill WA 
+$127.45 
+AMZN Mktp US'GE9RF2F33 Artuncombill WA 
+$20.18 
+AMAZON.COM*XW7CG90V3 AMZN AMZN.COM/BILL WA 
+$21.35 
+Audible'F89WX8P73 Arnzn.conVbil NJ 
+$14.95 
+Total Transactions For GHISLAINE BORGERSON 
+$430.60 
+Description 
+Amount 
+Total Fees For This Period 
+S0.00 
+Description 
+Amount 
+5)50 
+NON 
+1 
+7 
+1* 
+200225 0 
+Na.,4. 7 or 4 
+10 
+3309 
+)000 
+e144 
+01 
+SONY_GM_00010333 
+EFTA_00120987 
+EFTA01266666

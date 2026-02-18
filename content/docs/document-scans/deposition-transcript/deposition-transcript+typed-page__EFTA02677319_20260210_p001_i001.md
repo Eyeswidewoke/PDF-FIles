@@ -1,0 +1,131 @@
+---
+source_image: "deposition-transcript+typed-page__EFTA02677319_20260210_p001_i001.png"
+source_pdf: "EFTA02677319.pdf"
+method: pdf_text
+words: 1140
+confidence: 1.00
+extracted: 2026-02-13T17:00:07.830083
+---
+
+Spring 2014 - Course Description 
+LANT Anthropology 
+LANT 
+2028 Love and Money: Intimate Transactions 
+Faculty: Halawa. Mateusz 
+TR 
+11:55 AM - 01:35 PM 
+Credits: 4 
+CRN 6981 Sec A 
+The intimate and the economic are often imagined as two separate, or even hostile. spheres of 
+social life. If mixed, conventional wisdom holds, love and money will corrupt each other 
+sentiments will get in the way of business, and calculation will poison passion. Our very ideals of 
+intimacy and economic activity both rely on constantly drawing boundaries between the two. 
+However, ethnographic evidence gathered by anthropologists and sociologists suggests that in the 
+practice of everyday life, love and money intermingle constantly in the practices of of individuals. 
+couples, and households and often with good results. This course serves as an introduction to 
+social and cultural analysis of money in everyday life by way of exploring a series of messy 
+'intimate transactions? How does money circulate between spouses, friends, lovers, relatives, 
+parents and children? What pleasures and profits. divisions and attachments do these exchanges 
+produce? The course explores, among other themes: compensated and uncompensated 
+household labor, inheritance, informal loans, remittances from those overseas, college funds. and 
+allowance. We will discuss and debate the relationship between love and money based on 
+anthropologcal, sociological, legal. journalistic, and literary readings. This course satisfies 
+requirements in Writing. 
+LAIR 
+2100 Postcolonial Africa 
+Faculty: Reitman. Janet 
+TR 
+10:00 AM - 11:40 AM 
+Credits: 4 
+CRN 4993 Sec A 
+Postosionial Africa is typically represented as a marginal place in the world: a place of disorder 
+and war. How does anthropology help us to consider Africa's place in our world? Do 
+anthropological accounts of postcolonial Africa confirm that it is a place of chaos and violence? Or 
+does anthropology allow us to better understand how we came to think about Africa as prone to 
+violence and marginality? This seminar will consider these questions. We will examine some of 
+the key concepts and debates that are central to the anthropology of postcolonial Africa with an 
+aim to developing a aitical perspective on representations of this vast continent and the diversity 
+of practices that make Africa more than a continent. The seminar will take a thematic approach. 
+covering topics such as kinship and ethnicity, religion and witchcraft. and economics and 
+globalization. We will use both ethnographies and novels as the basis for discussion and debate. 
+This course satisfies requirements In Reading and Writing. 
+LAW 
+3013 Mies and Globalization 
+Faculty: Rao, VyJayanthi 
+F 
+12:10 PM 02:50 PM 
+Credits: 4 
+CRN 7070 Sec AX 
+For the first time in world history, more people live in urban rather than rural settlements. The 
+scale, complexity and dynamism of contemporary urbanization and the tendency toward disorder 
+or entropy in contemporary cites is historically unprecedented. This momentous and global 
+transformation has great social, cultural, economic and political implications and numerous 
+causes. In this seminar course, we will examine the specific relationship between the 
+contemporary urban revolution and globalization or the recent post-cold war integration of 
+economic and political institutions at the global scale and we will explore their implications for our 
+collective future. The seminar is structured around core topics such as infrastructure and urban 
+ecology, urban inequality and uneven development and the question of urban visions and futures. 
+Case studies are drawn from across the world and we will use several channels of analysis, 
+including documentary films and television broadcasts, the internet. reports prepared by 
+multilateral organizations and think tanks and, finally, your own field researches in and around 
+New York City. Ideas will be snared in class through interactive Journals and shared reports. 
+Students must have taken at least one prior anthropology course at the 200 level. 
+Office or the Dean 
+10/240/2013 
+LAM 
+3028 Human Rights & Humanitarianism In a Critical Perspective 
+Faculty: Ticktin. Miriam 
+TR 
+01:50 PM 03:30 PM 
+Credits: 4 
+CRN 6398 Sec A 
+'This course introduces the principles and practices of human rights and humanitarianism in 
+interdisciplinary perspective. We will inquire into the notions of "'humanity" imagined and 
+protected by each of these. as well as how each are bounded by national and colonial histories. 
+The readings will help students explore how these hegemonic discourses and practices are 
+culturally contextualited and mediated: arid while trying to understand how claims of resistance 
+and struggle are being re-articulated in legal languages of nghts and entitlements and/or in a 
+moral language of humanitarianism, we will pay particular attention to how these claims often 
+have unintended consequences. Using gender, race and class as focal points. we will think about 
+•who• benefits from these discourses and practices and what alternatives we may have. This 
+course satisfies requirements in Reading and Writing? 
+LAM 
+3035 Workshop in Ethnography 
+Faculty: Raffles. Hugh 
+M 
+12:10 PM - 02:50 PM 
+Credits: 3 
+CRN 6800 Sec A 
+This course introduces students to some of the basic techniques of Anthropology as a fieldwork-
+based discipline. Students will develop and undertake a series of individual and collaborative 
+fieldwork exercises that they wilt workshop into written ethnography. developing the basic skills 
+used by professional anthropologists. Readings will focus on both practical and ethical issues 
+connected to standard field methodologies. Reading Ethnography, an equivalent Anthro course, or 
+permission of the instructor Is required. This course satisfies requirements in Doing. 
+LARS The Arts 
+LARS 
+2030 Latin American Modem: 1920s-1960s 
+Faculty: Cepero-Amador, 
+MW 10:00 AM - 11:40AM 
+Credits: 4 
+CRN 7175 Sec A 
+This course examines the emergence and development of Latin American modemisms. The first 
+wave, which unfolded from the 1920s to the 1940s in Brazil. Mexico and Cuba. witnessed the 
+artists' combination of European avant-garde tendenciesfisuch as post-impressionism and 
+Cubismfiwith local motifs in a quest to reflect a national Identity. The second wave pertains to the 
+post-World War II rise of abstraction in South America. specifically. concrete abstraction in 
+Argentina and Brazil. and op and kinetic art in Venezuela. Artistic modernisms In the region will be 
+studied in connection with the political and cultural context. specifically. the process of nation-
+state building the rise of populist ideologies, and the incidence of developmentalism in the 
+Southern Cone during the 1950s and 1960s. We will analyze a range of artists. such as Tarsila do 
+Amaral, Candid() Portinarl, Diego Rivera, David Maio Sieueiros Frida Kahle. Wrf redo Lam, Cundo 
+Bernick:. Mario Carreto, Pedro Figari group MAD-, Lygia Clark. Helio Oiticica. Carlos Cruz-Diez 
+and .lese Rafael Soto. Topics might include: the strategies of modernity in Latin America, the new 
+concept of 'invested utopia? the role of the avant-garde group manifestos. the post-colonial legacy. 
+and the meaning of abstraction within a turbulent political milieu. We discuss crucial concepts that 
+define cultural modernism in Latin America: among them, identity, indigenism, costumbrismo, 
+transculturation, syncretism, hybridization, and race politics. As part of the course, we will visit the 
+Latin American collection at MoMa and art galleries that specialize in Latin American art. 
+Pagel°, 52 
+EFTA_R1_01971949 
+EFTA02677319

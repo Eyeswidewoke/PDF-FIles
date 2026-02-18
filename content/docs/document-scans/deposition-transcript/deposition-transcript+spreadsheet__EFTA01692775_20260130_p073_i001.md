@@ -1,0 +1,610 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p073_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 1037
+confidence: 1.00
+extracted: 2026-02-13T16:57:01.007318
+---
+
+• • • 
+• 
+.zcingular 
+~wit 
+Mainboa 
+Accotaat Naina 
+Date of Invoice— I 
+July 12. 2006 
+Page 9 of 16 
+DETAIL OF CURRENT ACTIVITY • CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+VOICE USAGE roi 
+MN— 
+c:c 
+Q/NY 
+born DM. Tiro Called 
+Ca& To 
+OW 
+31=3 
+*COP 
+t'ri:
+}."
+"
+ gal 
+MIN 
+LII 
+iri 
+MPAINFOMIN n 
+IMI4 
+Rd 
+INCMANG 
+YN 
+OM MP 
+INCOMNG 
+MN 
+40 OM 11,47 
+E E irk 
+gg
+WPALlACH FL 
+WPM 
+ACI I Ft 
+~Au/ 
+ACH a 
+WAIN *Pa 
+I/COMKG 
+tio"
+MN 
+MN 
+MN 
+el &V 
+IIT COM 
+E ham 
+XON 
+8;...m 
+01:1M 
+ä 362 
+WPALIMEACH FL 
+WPALIMFACH FL 
+IMPam 
+W0MAIMACH FL 
+WPAIMEACM FL 
+wPALMBEACH FL 
+I 
+i 
+MN 
+New 
+LON 
+IN 
+iN 
+AM 
+a OM 107111 
+WPALMEACH FL 
+MN 
+FINYI 
+93 061 
+94 ON 
+*AM 
+*49.4 
+13PALMMACH FL 
+oirdWING 
+21 
+%041 
+a 
+1121A 
+IVY:.
+ILI.. 
+!scow% 
+NCOUNG 
+3 
+WOALIMACH FL 
+uip, 
+MN 
+WI 
+MI 
+MM 
+I 
+IL» 
+WVAUFINACX1t 
+Mn 
+101 
+le WI 
+MO 
+WC.CMNO 
+IIICCIA14.11 
+MN 
+my 
+103 010 
+104 01 
+105 WI eirr.
+VATMILIMACH FL 
+80MITONOCM FL 
+Nei 
+up 
+um 
+NM 
+1rUCC
+ZYJM.O2AC
+NG 
+NIL 
+1514 
+60/ E.
+%
+04,
+01
+??11431 
+IMPALtmAcH /t 
+Lin 
+110 Ma 
+P 
+wimuintmo R 
+WPAUMFAce, 0 t 
+MN 
+PAN 
+Ill 06/ 
+10 
+P 
+WOMMUACII II 
+M./4 
+111 Mt 
+113 OM 
+10.1TP 
+10 44IP 
+va
+lIA74e
+C4istec
+eM 
+4  n.
+MIN 
+III 
+l i t = 
+1 IliP 
+J74.437510 
+n 
+15.19A 
+MOVIN 
+N 
+MOM 
+WPALMEMGACH FL 
+MN 
+Il~ CM 0311A 
+WPM340EACIOL 
+MN 
+;WE 
+1311t 
+WPMAMMII FL 
+MOM 
+N 
+MN 
+1 Ill. N 
+50057 
+OP n 
+AC ,...... 
+wPM) 
+01. 
+n 
+MN 
+MN 
+we 
+IAN 
+125 M503110 
+WPALMMACH FL 
+Va 
+175 OM:021M 
+IMMIMIT40. rL 
+IAN 
+17I mot 50750 
+~maw. 
+a 
+NM 
+151 OVIT 0110 
+MII 
+I» OMIS WM1P 
+12zyiatsa.
+—
+ tl. 
+WI 
+I DO pens 0942P 
+MITALM3MCM a 
+I.IN 
+art 
+Ill 0645 0445P 
+WO 
+O1 n. 
+MI 
+132 MP MOW 
+MAI FL 
+AM 
+123 CPS 0112P 
+W 
+ACII FL 
+MN 
+1T4 PIS 0113P 
+173 FP 5. OA 14P 
+=MIN
+H :1 
+MN 
+AIN 
+120 cons CS UP 
+WOMMIMACH IL 
+MN 
+Rol. DeOC41.3on 
+UNLIMITED WNW 11114 
+ONIOAT It} NINIMP tre4 
+Ime 
+LNt1VMil n NMIIIHfI 1.55 
+IMMATM WMO. MN 
+PM. TIM .000070 LLII 
+Map TEO 714vIliWI 
+UNMATED MOM MN
+UHIMUID VAV 
+MN 
+MANI O 514/000 IAN 
+UMW 
+14359 
+WILY T 
+. 
+VALSAT 0 MVP WI 
+MAMIE 0 MAIM um 
+UNANTITO NAM 
+1411 
+UNIUMItO SPAM MN 
+UMW mu KAMM AM 
+Wren= 
+HAMM MN 
+M4qqyyI
+11AtetLI4ETT 
+~MOT AN 
+303 4.003 MYTIE 
+»AMYL 
+11511111 
+MM 
+303 AWL M
+ANIM
+Y1 E LAN 
+2,» A001. AMIN& INN 
+wog« 
+ANV/10E 11191 
+AIXYL ANT•114 Ida 
+Nunn um 
+ioN 
+ul WriSSI T8 a 
+tflualmObt TO 
+X0 ADM ANYTIM MN 
+3/0 6031. &Wrier IAN 
+UNLWITLIMMICAO IAN 
+umulAT107WUKN IM 
+UMW/TID NUAN IM 
+ONOMITIO IMAM IAN 
+r/
+um/ii W AMP AM 
+UNwiffEcr MOCNO MA 
+UNLOAT 
+MANN Mel 
+UNIMMTI 
+NPIO4 Ver 
+UNtliarr 
+UNLIMIT WM4 Mer 
+UNMATED AVANOID 
+3:0 ADA. AMYTML MA 
+VULsi :0 
+14c00I TO
+T9 110et 
+UNLe./1 
+ am 
+LINLM113171 
+14064 
+300 Apt Minn 
+IAN 
+.1IngOikrbct
+kci.f utai 
+SIOAOOIAVYTL.EIIIM
+WILJA Wist It7 IMAM 
+LIMN WOM TO MOX 
+MFMACA Rf innal 
+pp Min MIM IC /AN 
+mo MITT ANTI 
+IAN 
+A:040h ANY1 
+OM OA to MU TO 
+300 
+CA ANME MN 
+NAtn
+UNMII
+M  MOW. TO WOK 
+visa. usAGE429~ 
+~go 
+Seta Otar Time 
+IV 
+IL 00.1F0 
+I A
+00100
+1E Et-tilt, 
+ni c.„I III 
+144„, 
+Ott/1
+1
+1 WM 
+4 0516 112 
+1.4 
+11:1 
+1 
+11? Et 
+al 
+111 CZ/ 41,1?).
+154 OW& 015OA 
+155 0506 02.11A 
+156 ~003~ 
+152 65/16 12>12P 
+IM 0306 12 43 
+IS* 0:6,10 124? 
+1.00...gui. 
+m. tit: 
+m 
+63322; 
+Itl 050604200 
+IM 06030731P 
+110 6 •'.  61114 
+tro W10 W]
+1 
+lent CO1 
+&ISE 
+C6/17 1251A 
+1.55 t6,I3 0135A 
+III &en 1131* 
+112 OW? 10 
+153 0407 12Xr
+. 
+144 ~1 
+1
+O
+0
+131:
+4M
+i ha
+y  OW
+N" 092
+0015 
+1??
+89 gOrn 
+5,9, 
+044,
+111 ODf10 
+In Mn 
+930 
+194 yen 
+10f 151
+0 
+19/ OM 011320 
+WPAIMMACM IL 
+nat 
+DOTNION500 a 
+IMIN 
+Wttnin 
+N 
+li Om 
+MAIM* 404 fit 
+ION 
+NCOIMO 
+110/1 
+44.501510; 
+WM 
+ricOue.« 
+VAN 
+NCOunG 
+MT 
+FICOvifiG 
+INN 
+WPAIMMACM FL 
+MIN 
+W P AW RAC« FL 
+14451 
+eroloN0 
+MIN 
+MP/04KAP FL 
+W11 
+WP AIMINE la ll 
+1MIN 
+WPALANKAGI FL 
+:WI 
+MCOIMG 
+WO 
+04COurrt3 
+an4 
+WPAIWif .04 a 
+IMP 
+0/0/MME 
+a 
+1 WI 
+WPAPtit 
+a 
+WM 
+WPAlla 
+f I. 
+MN 
+Ian 
+&CYNIC:WOO, FL 
+4104 
+Onnusnir WM FL 
+WM 
+WPAIJMICACII Ft 
+IIM 
+WPAIAMEADI FL 
+7141 
+WPALA11004 it 
+Wei 
+WPAilleChai F L 
+MN 
+X0 80 anynii um 
+oiDAL
+A: mi
+lU 
+.i. 
+oat 
+70 An 
+~TV 
+INN 
+WIMPY 
+L 
+/1401 
+MO M 
+Aterni MN 
+Om 
+IL 
+ISM 
+OVUM 
+10 1/00. 
+1CVT 
+tit n6. 
+RtTREYAL 
+WPAL &Mani ft 
+3 50•1 
+X0 AMYL NLYTM um 
+NCOUNG 
+YOMAIKACH FL 
+re« 
+30°0 22 gl 224 ;LI 
+WPALMEAMAI FL 
+IMel 
+KO AMYL MY! 
+LIDe 
+US 
+703 ADM MVP, MN 
+1MIN 
+taIUMTF010015/0 MN 
+IMI 
+tIMILIII ADAMMO MN 
+iMIN 
+1.41/90MONANKNONW 
+lei 
+3:11n3 
+UM% 
+OW 
+Val 
+WI Nunn ~cc 
+um 
+wom 
+fal fL 
+INN 
+tialIMrri 1.03 
+raw 
+N 
+4N 
+LW 
+WUNITI WWII 
+IA 
+iteP 
+FL 
+i UN 
+troithfl 
+NW 
+um 
+WWII u001. TON004 
+if VI' 
+5500E RETRIEVAL 
+WVALIAMACH Fl. 
+2/1121 
+26/0 ADM »TIME AN 
+FICYNTOSIC.FI FL 
+»MN 
+X0 AUDI my/Tut Am 
+WPAIIANFACH FL 
+INN 
+X0 A001. Ahrrmf ANN 
+WSZZA01 FL 
+M
+IT 
+4,3 
+ET 
+W5 
+Inl: 
+ISI 
+140µ 
+:MOM«, 
+WY 
+VINUMTED MVP) OW 
+90YATIMMOI FL 
+MN 
+VAINAMEACH FL 
+Mee 
+';`-pYta.L224 
+R . 
+WI' 
+408 
+NC:4116G 
+MN 
+WPM IdekACH FL 
+AN 
+WPAL&FolAS*. FL 
+Ini 
+wPAtiFOCArm fl 
+uild 
+VVPALINIEA48 FL
+WirALIMAGH In 
+IM 
+~AL 
+ACH It 
+WOM ~AO, 
+t% 
+~FL 
+• Coale LteKI 
+Only 
+Charge 
+Ca 
+To 
+Used 
+Rate Description 
+MUM Ka 
+TO VOW 
+X0 &OWL ANY1144 MN 
+Ulm • 
+um 
+UMM 
+WM 
+14 AM 
+MM 
+CALL W 
+udana 
+0101 
+tfluW, F0 NNW 
+NIX 
+umninp pain( 
+my 
+Lffillhall NWII 
+INN 
+%MINI' 
+NY 
+MN 
+WOW 
+HANK 
+Vol 
+lAlUure 140KNO MIN 
+MILIMI7ED WPM MIN 
+IMUV0LD AMMO IAN 
+uNujp 
+um, 
+um 
+wane 0 WM 
+MN 
+UNUI/11 0 WIMS We 
+WI 
+D /PM 
+DAN 
+UPI. Mal TO 1400. 
+LIESSAM ligg1S/2 
+30) ADM 
+!CO MOIL ;;Y • 2 
+INN 
+MO MOIL ~TIM AM 
+30) Alien WM" MN 
+XdA0OLMYTMf WI 
+UNLMi ~1AMU0VM
+liatiMrtp NWAIMMIM 
+UNtehtn MVP, WM 
+LOOMMED Ww0.3 VIM 
+WILDA ItO SWUM Wile 
+UNMAIFO NOMOM mo, 
+3u 5 .1.4
+m "
+Tr ig h ."
+:48n :mt4N
+EFTA01692847

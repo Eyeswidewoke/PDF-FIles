@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FLIGHT &amp; TRAVEL INTELLIGENCE | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root{
+      --bg:#0f1218;--surface:#171c24;--surface-2:#1f2631;--border:#2d3643;
+      --text:#e8edf4;--muted:#92a0b4;--accent:#0277bd;--accent-2:#4fc3f7;
+      --warn:#e6a817;--good:#2caa71;--bad:#c62828;
+      --sans:'Space Grotesk',system-ui,sans-serif;--mono:'IBM Plex Mono',monospace;
+    }
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:var(--sans);background:radial-gradient(circle at 10% 0%,#111822 0%,#0f1218 55%);color:var(--text);line-height:1.6;min-height:100vh}
+    a{color:var(--accent-2);text-decoration:none}a:hover{text-decoration:underline}
+    .back-link{display:inline-block;margin:1rem;padding:.5rem 1rem;border:1px solid var(--border);border-radius:.5rem;color:var(--muted);font:600 .78rem var(--mono);transition:all .2s}
+    .back-link:hover{color:var(--accent-2);border-color:var(--accent-2);text-decoration:none}
+    .hero{padding:2.5rem 1.5rem 1.5rem;text-align:center;border-bottom:2px solid var(--accent);background:linear-gradient(170deg,#0d1520 0%,#111d2a 45%,#0f1218 100%)}
+    .hero h1{font-size:clamp(1.8rem,4vw,2.8rem);letter-spacing:.04em;font-weight:700;background:linear-gradient(90deg,var(--accent),var(--accent-2));background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+    .hero .subhead{max-width:84ch;margin:.6rem auto 0;color:var(--muted);font-size:.92rem}
+    .hero .datestamp{margin-top:.5rem;font:.72rem var(--mono);color:var(--muted)}
+    .content{max-width:1200px;margin:0 auto;padding:1rem 1.5rem 3rem}
+    section.block{margin-bottom:2rem;background:var(--surface);border:1px solid var(--border);border-radius:.8rem;padding:1.4rem 1.5rem}
+    section.block h2{color:var(--accent-2);margin-bottom:.7rem;font-size:1.15rem;letter-spacing:.02em;border-bottom:1px solid var(--border);padding-bottom:.45rem}
+    section.block h3{color:var(--accent-2);margin:1rem 0 .5rem;font-size:.95rem}
+    p{margin-bottom:.8rem;font-size:.88rem}p.muted{color:var(--muted)}
+    .callout{border:1px solid var(--warn);background:rgba(230,168,23,.08);border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0;font-size:.85rem}
+    .callout.red{border-color:var(--bad);background:rgba(198,40,40,.08)}
+    .callout.blue{border-color:var(--accent);background:rgba(2,119,189,.08)}
+    .stat-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:.65rem;margin:.8rem 0}
+    .stat-card{background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;padding:.75rem .85rem;text-align:center}
+    .stat-card .n{font:700 1.5rem var(--mono);color:var(--accent-2)}
+    .stat-card .l{font-size:.68rem;color:var(--muted);text-transform:uppercase;margin-top:.15rem;letter-spacing:.03em}
+    .stat-card.warn .n{color:var(--warn)}
+    .stat-card.bad .n{color:var(--bad)}
+    .data-table{width:100%;border-collapse:collapse;margin:.7rem 0;font-size:.8rem}
+    .data-table th{text-align:left;font:600 .72rem var(--mono);color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em;padding:.5rem .6rem;border-bottom:2px solid var(--border);background:var(--surface-2)}
+    .data-table td{padding:.45rem .6rem;border-bottom:1px solid var(--border);color:var(--text)}
+    .data-table tr:hover td{background:rgba(2,119,189,.05)}
+    .data-table .num{text-align:right;font-family:var(--mono);font-size:.78rem}
+    .data-table .small{font-size:.72rem;color:var(--muted)}
+    .bar-section{display:flex;flex-direction:column;gap:.45rem;margin:.7rem 0}
+    .bar-row{display:grid;grid-template-columns:200px 1fr 70px;align-items:center;gap:.6rem}
+    .bar-label{font:600 .74rem var(--mono);color:var(--text);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .bar-track{height:12px;background:var(--border);border-radius:999px;overflow:hidden}
+    .bar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--accent),var(--accent-2))}
+    .bar-count{text-align:right;font:600 .72rem var(--mono);color:var(--muted)}
+    .sample{background:var(--bg);border:1px solid var(--border);border-radius:.5rem;padding:.8rem 1rem;margin:.7rem 0;font:.78rem var(--mono);color:var(--muted);white-space:pre-wrap;line-height:1.5;max-height:300px;overflow-y:auto}
+    .sample .hl{color:var(--accent-2);font-weight:600}
+    .sample .red{color:#ef5350;font-weight:600}
+    .source-ref{font:.7rem var(--mono);color:var(--muted);background:var(--surface-2);padding:.2rem .5rem;border-radius:.3rem;display:inline-block;margin:.2rem .2rem 0 0}
+    .toc{background:var(--surface-2);border:1px solid var(--border);border-radius:.6rem;padding:1rem 1.2rem;margin-bottom:1.5rem}
+    .toc h3{color:var(--accent-2);margin-bottom:.5rem;font-size:.9rem}
+    .toc ol{padding-left:1.3rem}.toc li{margin:.3rem 0}.toc a{font:.8rem var(--mono);color:var(--muted)}.toc a:hover{color:var(--accent-2)}
+    .nav-pills{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0}
+    .nav-pills a{display:inline-block;padding:.4rem .9rem;border:1px solid var(--border);border-radius:2rem;font:.75rem var(--mono);color:var(--muted);transition:all .2s}
+    .nav-pills a:hover,.nav-pills a.active{color:var(--accent-2);border-color:var(--accent-2);background:rgba(2,119,189,.1);text-decoration:none}
+    @media(max-width:700px){.bar-row{grid-template-columns:120px 1fr 55px}.content{padding:1rem}section.block{padding:1rem}}
+  </style>
+</head>
+<body>
+  <a class="back-link" href="./investigation-c.html">&larr; INVESTIGATION C HUB</a>
+  <a class="back-link" href="./index.html">&larr; MAIN SITE</a>
+
+  <header class="hero">
+    <h1>✈️ FLIGHT &amp; TRAVEL INTELLIGENCE</h1>
+    <p class="subhead">
+      Analysis of 4,347 flight records, passenger manifests, and travel documents from the Epstein files.
+      Aircraft identified, routes mapped, passengers named.
+    </p>
+    <p class="datestamp">Investigation C &middot; Generated February 15, 2026 &middot; Part of the Money &amp; Planes analysis</p>
+  </header>
+
+  <div class="content">
+
+    <nav class="nav-pills">
+      <a href="./investigation-c.html">Investigation C Hub</a>
+      <a href="./flights-intel.html" class="active">Flight Intelligence</a>
+      <a href="./financials.html">Financial Intelligence</a>
+      <a href="./analysis.html">File Analysis</a>
+      <a href="./index.html">Main Site</a>
+    </nav>
+
+    <nav class="toc">
+      <h3>CONTENTS</h3>
+      <ol>
+        <li><a href="#overview">Overview &amp; Scale</a></li>
+        <li><a href="#aircraft">Aircraft Fleet</a></li>
+        <li><a href="#routes">Routes &amp; Destinations</a></li>
+        <li><a href="#passengers">Named Passengers</a></li>
+        <li><a href="#pilot-testimony">Key Document: Pilot Testimony (FBI FD-302)</a></li>
+        <li><a href="#manifests">Passenger Manifest Analysis</a></li>
+        <li><a href="#ground">Ground Transport &amp; Island Operations</a></li>
+        <li><a href="#sex-offender">Sex Offender Registration — Vehicle &amp; Aircraft Lists</a></li>
+      </ol>
+    </nav>
+
+    <!-- ─── 1. OVERVIEW ─── -->
+    <section class="block" id="overview">
+      <h2>1. Overview &amp; Scale</h2>
+      <p>The flight and travel records span <strong>4,347 document pages</strong> extracted from across the 12 datasets, totaling over <strong>1 million words</strong> of content. These include flight logs, FAA manifests, ground transport operations, hotel/travel records, and aircraft maintenance documents.</p>
+      <div class="stat-grid">
+        <div class="stat-card"><div class="n">4,347</div><div class="l">Flight/Travel Files</div></div>
+        <div class="stat-card"><div class="n">1,044,407</div><div class="l">Total Words</div></div>
+        <div class="stat-card"><div class="n">1,296</div><div class="l">High-Value Docs</div></div>
+        <div class="stat-card"><div class="n">10+</div><div class="l">Aircraft Identified</div></div>
+        <div class="stat-card warn"><div class="n">21</div><div class="l">Persons Named</div></div>
+      </div>
+
+      <h3>Document Types</h3>
+      <div class="bar-section">
+        <div class="bar-row"><span class="bar-label">General Travel</span><div class="bar-track"><div class="bar-fill" style="width:55%"></div></div><span class="bar-count">2,397</span></div>
+        <div class="bar-row"><span class="bar-label">Flight Logs</span><div class="bar-track"><div class="bar-fill" style="width:31%"></div></div><span class="bar-count">1,357</span></div>
+        <div class="bar-row"><span class="bar-label">Passenger Manifests</span><div class="bar-track"><div class="bar-fill" style="width:9%"></div></div><span class="bar-count">376</span></div>
+        <div class="bar-row"><span class="bar-label">Hotel/Travel</span><div class="bar-track"><div class="bar-fill" style="width:3%"></div></div><span class="bar-count">145</span></div>
+        <div class="bar-row"><span class="bar-label">Ground Transport</span><div class="bar-track"><div class="bar-fill" style="width:2%"></div></div><span class="bar-count">72</span></div>
+      </div>
+    </section>
+
+    <!-- ─── 2. AIRCRAFT ─── -->
+    <section class="block" id="aircraft">
+      <h2>2. Aircraft Fleet — Identified Tail Numbers</h2>
+      <p>Epstein operated multiple aircraft. The documents reveal at least <strong>10 distinct tail numbers</strong>, with the Boeing 727 &ldquo;Lolita Express&rdquo; (N908JE) and the Gulfstream G-1159/G-IV (N212JE) being the most referenced.</p>
+
+      <table class="data-table">
+        <thead><tr><th>Tail Number</th><th>Type</th><th>References</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr><td><strong>N212JE</strong></td><td>Gulfstream G-IV</td><td class="num">396</td><td>Primary executive jet — most referenced aircraft</td></tr>
+          <tr><td><strong>N908JE</strong></td><td>Boeing 727-31</td><td class="num">297</td><td>The &ldquo;Lolita Express&rdquo; — Epstein&rsquo;s infamous widebody jet</td></tr>
+          <tr><td><strong>N909JE</strong></td><td>Gulfstream G-IIB</td><td class="num">175</td><td>Earlier Gulfstream model</td></tr>
+          <tr><td><strong>N793TA</strong></td><td>—</td><td class="num">36</td><td>—</td></tr>
+          <tr><td><strong>N120JE</strong></td><td>—</td><td class="num">35</td><td>Registered to JEGE Inc.</td></tr>
+          <tr><td><strong>N722JE</strong></td><td>Sikorsky S-76 C++</td><td class="num">35</td><td>Helicopter — inter-island transport</td></tr>
+          <tr><td><strong>N415LM</strong></td><td>—</td><td class="num">35</td><td>—</td></tr>
+          <tr><td><strong>N979RA</strong></td><td>—</td><td class="num">28</td><td>—</td></tr>
+          <tr><td><strong>N491GM</strong></td><td>Bell 407</td><td class="num">15</td><td>Helicopter — &ldquo;Air Ghislaine&rdquo;</td></tr>
+          <tr><td><strong>N331JE</strong></td><td>—</td><td class="num">14</td><td>Registered to JEGE Inc.</td></tr>
+          <tr><td><strong>N505LS</strong></td><td>Boeing 727</td><td class="num">—</td><td>Former Wexner aircraft transferred to Epstein</td></tr>
+        </tbody>
+      </table>
+
+      <div class="callout blue">
+        <strong>Key detail:</strong> Multiple aircraft were registered under <strong>JEGE Inc.</strong> — Epstein&rsquo;s aviation holding company. The Bell 407 helicopter (N491GM) was nicknamed &ldquo;Air Ghislaine&rdquo; in internal documents and used for shuttling people between St. Thomas airport and Little St. James island.
+      </div>
+
+      <h3>Aircraft Type Distribution</h3>
+      <div class="bar-section">
+        <div class="bar-row"><span class="bar-label">Gulfstream (G-1159/G-IV)</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="bar-count">488</span></div>
+        <div class="bar-row"><span class="bar-label">Helicopter (Bell/Sikorsky)</span><div class="bar-track"><div class="bar-fill" style="width:16%"></div></div><span class="bar-count">80</span></div>
+        <div class="bar-row"><span class="bar-label">Boeing 727</span><div class="bar-track"><div class="bar-fill" style="width:15%"></div></div><span class="bar-count">73</span></div>
+      </div>
+    </section>
+
+    <!-- ─── 3. ROUTES ─── -->
+    <section class="block" id="routes">
+      <h2>3. Routes &amp; Destinations</h2>
+      <p>Flight records reveal a consistent circuit between Epstein&rsquo;s properties and key cities. The triangle of <strong>New York → Palm Beach → St. Thomas</strong> dominates, with Paris and London as the primary international destinations.</p>
+
+      <table class="data-table">
+        <thead><tr><th>Destination</th><th>References</th><th>Significance</th></tr></thead>
+        <tbody>
+          <tr><td><strong>New York</strong></td><td class="num">430+</td><td>9 East 71st Street mansion; Teterboro Airport (NJ)</td></tr>
+          <tr><td><strong>Palm Beach</strong></td><td class="num">297+</td><td>El Brillo Way estate; Palm Beach International</td></tr>
+          <tr><td><strong>Paris</strong></td><td class="num">240+</td><td>Avenue Foch apartment; Le Bourget Airport</td></tr>
+          <tr><td><strong>JFK</strong></td><td class="num">94+</td><td>Primary commercial hub</td></tr>
+          <tr><td><strong>London</strong></td><td class="num">78+</td><td>Maxwell family connections</td></tr>
+          <tr><td><strong>St. Thomas / USVI</strong></td><td class="num">55+</td><td>Cyril E. King Airport → Little St. James island</td></tr>
+          <tr><td><strong>Teterboro</strong></td><td class="num">40+</td><td>Private aviation hub for NYC access</td></tr>
+          <tr><td><strong>Santa Fe</strong></td><td class="num">16</td><td>Zorro Ranch, Stanley NM</td></tr>
+          <tr><td><strong>Bedford</strong></td><td class="num">—</td><td>Pilot testimony: picked up Dershowitz from Bedford</td></tr>
+        </tbody>
+      </table>
+
+      <div class="callout">
+        <strong>The Epstein Circuit:</strong> Documents show a regular rotation: Teterboro/JFK → Palm Beach → St. Thomas → back to New York, with periodic transatlantic trips to Paris and London. The Gulfstream handled most legs; the 727 was used for larger groups.
+      </div>
+    </section>
+
+    <!-- ─── 4. PASSENGERS ─── -->
+    <section class="block" id="passengers">
+      <h2>4. Named Passengers &amp; Persons in Flight Records</h2>
+      <p>The following individuals appear in flight logs, passenger manifests, and travel documents. Note: some appearances are in pilot interview transcripts or aviation maintenance docs rather than actual manifest entries.</p>
+
+      <table class="data-table">
+        <thead><tr><th>Person</th><th>Mentions in Flight Docs</th><th>Context</th></tr></thead>
+        <tbody>
+          <tr><td><strong style="color:var(--bad)">GHISLAINE MAXWELL</strong></td><td class="num">1,206</td><td>Present in majority of manifests; flew separately on Gulfstream</td></tr>
+          <tr><td><strong>LARRY VISOSKI</strong></td><td class="num">330</td><td>Chief pilot — named on manifests as captain</td></tr>
+          <tr><td><strong>JEFFREY EPSTEIN</strong></td><td class="num">300</td><td>Aircraft owner — on most manifests</td></tr>
+          <tr><td><strong>NADIA MARCINKOVA</strong></td><td class="num">47</td><td>Frequent flyer; later became pilot herself</td></tr>
+          <tr><td><strong style="color:var(--bad)">BILL CLINTON</strong></td><td class="num">34</td><td>FBI FD-302: pilot confirms Clinton flights</td></tr>
+          <tr><td><strong>BILL BARR</strong></td><td class="num">23</td><td>Name appears in aviation documents</td></tr>
+          <tr><td><strong style="color:var(--bad)">BILL GATES</strong></td><td class="num">23</td><td>Referenced in flight-era documents</td></tr>
+          <tr><td><strong style="color:var(--bad)">DONALD TRUMP</strong></td><td class="num">13</td><td>Travel/social event documents</td></tr>
+          <tr><td><strong>LES WEXNER</strong></td><td class="num">11</td><td>Connected via The Limited Flight Department</td></tr>
+          <tr><td><strong style="color:var(--bad)">PRINCE ANDREW</strong></td><td class="num">6</td><td>Referenced in travel documents</td></tr>
+          <tr><td><strong>ALAN DERSHOWITZ</strong></td><td class="num">2</td><td>Pilot testified: flew to Bedford to pick up Dershowitz</td></tr>
+          <tr><td><strong>MC2 / Model Agencies</strong></td><td class="num">37</td><td>Model agency references in travel docs</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- ─── 5. PILOT TESTIMONY ─── -->
+    <section class="block" id="pilot-testimony">
+      <h2>5. Key Document: FBI FD-302 — Pilot David Rodgers</h2>
+
+      <div class="callout red">
+        <strong>🔴 CRITICAL EVIDENCE</strong> — FBI interview transcript of Epstein&rsquo;s chief pilot David Rodgers, found across multiple flight record pages. This testimony details how passenger manifests were handled, who flew, and what records were kept.
+      </div>
+
+      <p><strong>Source:</strong></p>
+      <span class="source-ref">EFTA00269585.pdf (DS9)</span>
+      <span class="source-ref">EFTA01688746.pdf (DS10)</span>
+      <span class="source-ref">EFTA00159180.pdf (DS9)</span>
+      <span class="source-ref">EFTA01326943.pdf (DS10)</span>
+
+      <h3>Key Testimony (verbatim excerpts)</h3>
+
+      <div class="sample"><span class="hl">ROGERS has been employed as a pilot for JEFFREY EPSTEIN since July 1991.</span>
+His current salary is $165,000.00 plus benefits.
+
+Prior to his employment with EPSTEIN, ROGERS sold aircraft for
+GLIMCHER, a company located near <span class="hl">THE LIMITED Flight Department.</span>
+ROGERS was employed there from 1987 to 1991.
+
+According to ROGERS, EPSTEIN has two other full time pilots,
+<span class="hl">LARRY VISOSKI</span>, and <span class="hl">BILL HAMMOND</span>. EPSTEIN also has a full time
+flight engineer, <span class="hl">LARRY MORRISON</span>.</div>
+
+      <div class="sample"><span class="red">RODGERS did not check IDs or DOBs of passengers...</span>
+would need name, DOB, nationality 24 hours in advance
+
+When RODGERS was the chief pilot, <span class="hl">he kept the manifest records</span>
+for the aircrafts and thought he faxed them to someone in
+EPSTEIN's office. RODGERS kept the originals until approximately 2004.
+
+<span class="red">In 2005, RODGERS no longer had kept those records.</span>
+EPSTEIN's attorney <span class="hl">JACK GOLDBERGER picked up the records.</span></div>
+
+      <div class="sample">RODGERS flew to Bedford to pick up <span class="hl">ALAN DERSHOWITZ</span>.
+
+If RODGERS was sick or there was an occasional death in his family,
+EPSTEIN would send RODGERS home.
+
+In or around 2005/2006, RODGERS might fly
+<span class="hl">GHISLAINE MAXWELL</span> while EPSTEIN was in the Boeing.</div>
+
+      <div class="callout">
+        <strong>Why this matters:</strong>
+        <ul style="margin:.5rem 0 0 1.2rem;font-size:.85rem">
+          <li>Pilot confirms NO ID checks on passengers — no verification of age</li>
+          <li>Original manifests were transferred to Epstein&rsquo;s attorney in 2005 — potential evidence destruction</li>
+          <li>Confirms Dershowitz was picked up in Bedford by Epstein&rsquo;s private plane</li>
+          <li>Maxwell flew separately on the Gulfstream while Epstein took the 727</li>
+          <li>Employment connection to Wexner&rsquo;s company (&ldquo;The Limited&rdquo;) predates Epstein</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- ─── 6. MANIFESTS ─── -->
+    <section class="block" id="manifests">
+      <h2>6. Passenger Manifest Analysis</h2>
+      <p>376 passenger manifest pages were identified. These are the actual FAA-required flight records showing who was on each flight. The manifests follow the standard <strong>JEGE, INC.</strong> format:</p>
+
+      <div class="sample"><span class="hl">JEGE, INC.</span>
+<span class="hl">PASSENGER MANIFEST</span>
+Registration Number: <span class="hl">N908JE</span>
+Type: <span class="hl">B-727-31</span>
+Pilots: Dave Rodgers, Larry Visoski
+Flight Engineer: Larry Morrison
+
+DATE: [date]
+FROM: [origin]     TO: [destination]
+Departure: [time]  Arrival: [time]
+
+PASSENGERS
+1. <span class="hl">Jeffrey Epstein</span>
+2. [name]
+3. [name]
+...</div>
+
+      <p>Many manifest pages are partially redacted or degraded from scanning. The OCR quality varies significantly — some names are clearly legible while others are garbled. Cross-referencing with the FBI pilot testimony helps confirm identities.</p>
+    </section>
+
+    <!-- ─── 7. GROUND TRANSPORT ─── -->
+    <section class="block" id="ground">
+      <h2>7. Ground Transport &amp; Island Operations</h2>
+      <p>72 documents detail the ground transport operations, particularly the <strong>Little St. James (LSJ)</strong> island logistics. These reveal the full staffing structure:</p>
+
+      <div class="sample"><span class="hl">Jeffrey E. Epstein</span> — Principle
+
+<span class="hl">LSJE Employees</span>
+Head Pilot: Larry Visoski
+Assistant Pilot: William Di Mauro
+LSJE Manager: Ann M. Rodriquez
+Head Boat Captain: [name]
+Escort(s): Carlos Rodriguez, Jermaine Ruan, Ramon Linderman
+Manager(s): Roy Romney — VIPA
+
+Base Operation: Thomas World Air Hanger — Jet Center STT
+<span class="hl">Cyril E. King Airport — St. Thomas</span></div>
+
+      <div class="callout blue">
+        <strong>Key detail:</strong> The island employed dedicated &ldquo;escorts&rdquo; (Carlos Rodriguez, Jermaine Ruan, Ramon Linderman) who transported visitors from Cyril E. King Airport to the island. The operation had its own dedicated hangar at the St. Thomas airport.
+      </div>
+    </section>
+
+    <!-- ─── 8. SEX OFFENDER REGISTRATION ─── -->
+    <section class="block" id="sex-offender">
+      <h2>8. Sex Offender Registration — Vehicle &amp; Aircraft Lists</h2>
+      <p>Multiple pages contain <strong>ATTACHMENT TO SEXUAL OFFENDER REGISTRATION FORM</strong> documents listing all of Epstein&rsquo;s vehicles, boats, aircraft, phone numbers, and addresses. These were filed periodically as required by his sex offender status.</p>
+
+      <div class="sample"><span class="hl">ATTACHMENT TO SEXUAL OFFENDER REGISTRATION FORM</span>
+<span class="hl">JEFFREY EPSTEIN</span>
+Automobiles, Boats, Aircraft, Telephone Numbers,
+Email Addresses, and Internet Related Information
+
+<span class="hl">AIRCRAFT</span>
+N908JE — Boeing 727
+N909JE — Gulfstream G-IIB
+N212JE — Gulfstream G-IV
+N491GM — Bell 407 Helicopter
+N722JE — Sikorsky S-76 C++
+
+<span class="hl">AUTOMOBILES</span> (registered in USVI, FL, NM, NY)
+Multiple Chevrolet Suburbans, Cadillac Escalade,
+Mercedes Benz S500, Bentley Arnage, Range Rover...
+
+<span class="hl">BOATS</span>
+1999 35' Ribtec...</div>
+
+      <p>These registration forms, filed across USVI, Florida, New Mexico, and New York, provide a comprehensive inventory of Epstein&rsquo;s assets and confirm the scope of his operation across multiple jurisdictions.</p>
+
+      <p><strong>Source PDFs:</strong></p>
+      <span class="source-ref">EFTA01100089.pdf (DS9)</span>
+      <span class="source-ref">EFTA00304803.pdf (DS9)</span>
+      <span class="source-ref">EFTA01193221.pdf (DS9)</span>
+      <span class="source-ref">EFTA02445696.pdf (DS11)</span>
+      <span class="source-ref">EFTA00729778.pdf (DS9)</span>
+      <span class="source-ref">EFTA01108451.pdf (DS9)</span>
+    </section>
+
+    <!-- ─── FOOTER ─── -->
+    <section class="block" style="text-align:center;border-color:var(--accent)">
+      <p style="color:var(--accent-2);font:700 .9rem var(--sans);margin-bottom:.4rem">THE PDF FILES — INVESTIGATION C</p>
+      <p class="muted" style="font-size:.78rem">
+        Flight intelligence from 4,347 documents across 12 DOJ datasets.<br />
+        All source PDFs referenced by EFTA number for verification.
+      </p>
+      <p style="margin-top:.7rem">
+        <a href="./investigation-c.html" style="font:.78rem var(--mono)">&larr; Investigation C Hub</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./financials.html" style="font:.78rem var(--mono)">Financial Intelligence &rarr;</a>
+        &nbsp;&middot;&nbsp;
+        <a href="./index.html" style="font:.78rem var(--mono)">Main Site</a>
+      </p>
+    </section>
+
+  </div>
+</body>
+</html>

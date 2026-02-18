@@ -1,0 +1,325 @@
+---
+source_image: "scanned-document+deposition-transcript__EFTA01729006_20260130_p028_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 579
+confidence: 1.00
+extracted: 2026-02-13T17:19:26.115758
+---
+
+Page 
+11 
+AIRTIME AND LING DISTANCE CHARGES 
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile Omer: 
+Total Mob/lent 
+CHARGES 
+Length 
+City 
+of 
+Air' 
+Long 
+Itm Date 
+Time 
+CL No. Called 
+Called 
+F P Call Tin. 
+Dist. Total 
+329 02/21 11:3110K 
+330 02/21 11:12PN 
+331 02/22 09:40A14 
+332 02/22 11:56AM 
+333 02/22 11:56AM 
+334 02/22. 12:00PN 
+33S 02/22 12:17MI 
+336 02/22 12:19PN 
+337 02/22 12:20PM 
+338 02/22 01:16PX 
+339 02/22 01:29PV 
+340 02/22 01:29PN 
+341 02/22 01:31M4 
+342 02/22 03:31PM 
+343 02/22 10:44PN 
+344 02/22 10:45PM 
+345 02/22 10:491,64 
+346 02/22 10:52PX 
+347 02/22 10:53PM 
+346 02/22 11:10PM 
+349 02/23 03:21PN 
+350 02/23 03:22PN 
+351 02/23 03:33PN 
+352 02/23 05:27114 
+353 02/23 07:40PX 
+354 02/23 09:07PX 
+355 02/23 10:31PN 
+356 02/23 11:02PM 
+357 02/23 11:04PX 
+35B 02/24 08:14PM 
+359 02/34 06:25PM 
+360 02/24 11:07PM 
+'361 02/24 11:24PM 
+362 02/24 11:24PM 
+363 02/24 11:30PM 
+364 02/24 11:35PN 
+365 02/24 11:40PM 
+366 02/24 11:43144 
+367 02/25 03:15PN 
+368 02/25 09:46PM 
+369 02/25 10:33PM 
+370 02/25 10:34M4 
+371 02/25 10:38PM 
+372 02/25 11:53PM 
+373 02/26 07:20/14 
+374 02/26 12:16174 
+375 02/26 12:36PM 
+376 02/26 12:37M4 
+377 02/26 01:01PX 
+374 02/26 01:10M4 
+379 02/26 02:33PN 
+380 02/26 09:36PN 
+301 02/26 09:36P14 
+302 02/26 09:37PM 
+383 02/26 09:39PM 
+384 02/26 09:46PM 
+OTTON FL V N 
+NCOMI CL R N 
+ICE CL M N 
+NCOMI CL 0 N 
+CONI CL X N 
+NCOMI CL X N 
+PALM FL X N 
+PALM FL V N 
+YTON FL X N 
+PALM FL M N 
+ICE CL V N 
+PALM FL M N 
+NCOMI CL R N 
+NCOMI CL 0 N 
+ICE CL.M )1 
+ICE CL R N 
+ICE CL X N 
+PALM FL W'N 
+COMI CL M N 
+COMI CL N N 
+ICE CL 
+P 
+PALM FL 
+P 
+COM CL 
+P 
+COMI CL 
+P 
+NCOM1 CL 
+P 
+COMI CL W 0 
+NCOMI CL W 0 
+NCOMI CL W 0 
+COMI CL W 0 
+NCOMI CL 
+P 
+PALM FL 
+P 
+ICE CL W 0 
+PALM FL W 0 
+ICE CL W 0 
+NCOMI CL W 0 
+CONI CL W 0 
+CL W 0 
+I CL 14 0 
+COM! CL 
+P 
+COMI CL 0 0 
+PALM FL II 0 
+PAIN FL W 0 
+NCOMI CL M 0 
+COOK CL W 0 
+PALM FL 
+P 
+NCOMI CL 
+P 
+PALM FL 
+P 
+COM' CL 
+P 
+COMI CL 
+P 
+PALM FL 
+P 
+I CL 
+P 
+PALM FL W 0 
+ICE CL W 0 
+PALM FL W 0 
+PALM Pb W 0 
+PALM FL W 0 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+6 
+0.00 
+0.00 
+5 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+4 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+1 
+0.00 
+0.00 
+2 
+0.00 
+0.00 
+3 
+0.00 
+0.00 
+EFTA01729033

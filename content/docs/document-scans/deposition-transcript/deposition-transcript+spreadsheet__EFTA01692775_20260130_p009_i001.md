@@ -1,0 +1,423 @@
+---
+source_image: "deposition-transcript+spreadsheet__EFTA01692775_20260130_p009_i001.png"
+source_pdf: "EFTA01692775.pdf"
+method: pdf_text
+words: 662
+confidence: 1.00
+extracted: 2026-02-13T16:57:00.877456
+---
+
+. • • 
+e • ,cingular 
+MT Wireless 
+..... 
+iiiiiir" 
+Account aP
+l e 
+Data of Invoice
+Decanter 12. 2004 
+Page 19 of 22 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+DETAIL OF CURRENT ACTIVITY - CONTINUED 
+4O:CL USAGE FO; 
+MMISM 
+hem Dat• Them Called 
+ffl l j: 
+206 (042A 
+2.06 
+311.2 
+205 
+295 N 
+-05 ON» 
+205 01.420 
+205022T 
+M
+COIM 
+i2 
+3128131,
+20602100 
+04,1319
+2415 04:1519
+04:310 
+1N95 04:310 
+2411$0 
+274/1045$14
+4010 
+OPMP 
+2050621P 
+2.060535.4. 
+WS 
+• 
+90911700 
+COINI7:17d 
+(WY 
+Omega. 
+Calls To 
+U.S 
+RM. Dmeription 
+VAMMAN1A1711 Ft 
+MAN 
+INN 
+WINONA FL 
+LMa 
+FL 
+NM 
+WP 
+FL 
+WP 
+FL 
+iW 
+2/M1 
+1&11 
+INN 
+2MI1 
+CV, 4,4
+INN 
+INN 
+MX 
+111111 
+INN 
+/MN 
+MN 
+MN 
+1 MN 
+I MN 
+149N 
+1P12 
+Vt944 
+FL 
+MN 
+FL 
+WI 
+WC041910 
+IAN 
+WWWW-ANIFI. 
+3WALINGANI FL 
+WI 
+NPAOAMACH Ft 
+WI 
+BOYNT0110.14 FL 
+WI 
+NPMMI3U04 F1. 
+1W1 
+NPALIMCPCM FL 
+I IAN 
+MII
+g 
+n 
+A 
+aR 
+Lp 
+WI 
+W 
+M▪ IN 
+t141
+,ntiUm7
+M4:»hvicN
+UNLOOSED 
+414111ATFO ~NV WI 
+WONTED NAVIMD MN 
+WI/MIFONAW.40 IMI 
+UNUMT[Q4 NAM pop 
+I 
+WIN4= 
+al 
+ONVINE 
+WYJWI WI 
+LINUNTFD WWII MN 
+liE5w 4 RE1REVAL 
+WILIVIT_GD MANION, MN 
+MI UNTO)144141(ND WI 
+LAIUMGO ~MD IM1 
+UN UM ILO WAND MIN 
+4.41v....gitp WINN /MI 
+LNumuto WMUNMA 
+LNLIVOGD VANN MN 
+LINUM1k 0 ~NUNN 
+VAUNTED NtIoN0 MN 
+VALIMTED WMON MN 
+LNUMT
+ NN0007 MN 
+WAIN 
+WMV<C1 MN 
+MUM! 
+/AWN° MN 
+LMWITO) ~IMO MN 
+WONTED IMW740 MN 
+OAUM ILO NAWNO MN 
+=
+UMnfirAWNJ MN 
+',4,=1 
+IAN 
+ONIDAT 0 NAW 
+IAN 
+MN 
+LIMPATTO lervil  W4 
+MAN 
+1434
+UN
+° N 
+;MINTED ItAWN MN 
+VIIMATED NAVAHO WS 
+ONIINTED AMNON W 
+IMUNTEDWMUN MU 
+UNWIND WIAWD MN 
+UNU141101•WINO WI 
+OM 01 
+NWN1.1 IS 
+014111 14NXII IMI 
+1041441,  
+7VPIPN MP 
+M4u14(7 
+WINN UN 
+l'lltirgiBll5l".
+1%U 
+MOWED ~PAO UN 
+UMLIMT[Q NMANQ AM 
+MANN° NMNIO MN 
+ummrt 
+Wt"t4 PAK 
+MINTED WWI°9  MN 
+NNIPATED NAMWO MN 
+OWING° NAMPO MN 
+ONUS:IN/NNW MN 
+MOAN 
+NJW.NO MN 
+21,.„.tzk ei.urr om,....ss 
+n
+wazt 
+sais 
+VO:CE USAGt. FOr 
+Gemmed 
+~ter 
+Clety 
+0.-11. 
+*weir 
+hem Dd. Thr• C 
+ais net cc Or 
+Cwp
+ålan imar
+o
+m:mr, Inad RS DineriPekm 
+itt iM irvi: 
+OMM 
+9477 MOM°, Ft 
+ION 1W 0),r4r 
+virAusaVai FL 
+11319 1201 015214 
+WOMAIMA741 FL 
+10/0 1201 0) MP 
+WINIMNALP FL 
+Ili 
+„I mb 134 41, 1114
+1 4 
+YIPALIA&ACH FL 
+I: 
+Fl I r'S
+*2
+04,119 
+WPALuitet; r; 
+ro€04.rtr 
+VirAtvK
+, FL 
+.0504a 
+V/PAIIME PAO
+CP Fl. 
+M406210 
+VAN; 1/MAGN FL 
+24:605770 
+WM 
+Ft
+,:,, 2=01
+,is
+m2X403/0P
+t
+DOYNT WINN r_ 
+1ffl ?tZ 
+rri aLtaS 
+k 
+9112:206 
+I I1A 
+IA 
+it40 
+frn 
+A 
+1070 W07 NSW 
+'Cl in» 01:15A 
+AO;01 
+A 
+11 
+0102129 
+1S2 
+g 1 ; 
+1079 9070726P 
+ION 701044110 
+1031 2/07 MOW 
+KC 20,W/GP 
+Ka 2.0700210 
+IOW TO/ 11,20 
+10115 41011121P 
+1065 
+1095 
+1067 
+1030 
+14459 
+1460 ;„.1 
+,a, 
+INS 
+INI 
+1/20 
+KO) 
+ION 
+101 
+1&11 
+ropa 
+10311 
+1 /90 
+1;1<1
+1101 
+207 1126P 
+.X6 C0.446 
+12140 
+12:244P 
+122 41. 
+017.0 
+yW 01$90 
+MP 07:150 
+02:24F 
+04209 
+Sirtir,
+0012
+01414
+50 
+WP 
+Rn.
+BOYNTON)°, FL 
+P400W413 
+ZAAhlr15,t 41S31 
+‘1,Tg=t 
+rfrel 
+kal FL 
+Ft 
+IASI 
+WIWI Oa TOYCIaL 
+IN
+Pr argg
+a LACOMINUTES 
+IIIN 
+MN 
+VILIM mg.N. To mgi. 
+MN 
+MAW W. M Ma 
+li På EA 
+M 
+CALI.VM1VICI 
+W 
+INCILIDED worn 
+NM 
+INCLIJOED,Jr4uTES 
+Mil 
+NauokinaliWIES 
+7Ald 
+iNCLUGEDIANUTE3 
+= 
+i
+1,101
+,2:4, 7 
+WV 
+Wil 
+Nu 
+W41.4.7
+Net 
+MNU 5 
+VIII 
+WAINGO MMUS 
+MN 
+UNWITEC NVP(ND la 
+COT 
+vESNOE REINEVAL 
+VIII 
+UM 9417 
+/4 14111
+NWX
+Ld 
+NM 
+(Al 
+142024 MP 
+MN 
+UNATI 
+N 
+MN 
+MN
+:VW\ UDED lari
+r' ',Twill'
+NN 
+UMW NMI Ma 
+VIN 
+UAW. 
+‘12
+"
+ 
+,P264
+Uktn 4 
+TialL ik
+MN 
+INGLI100)14M414.3 
+MN 
+INN WGD /AWNS 
+444 
+/217100tDM/NIES 
+WI 
+UMW 
+5410 .114 
+MN 
+IliCl qui
+tt  MON 
+I 
+sin 
+vow 
+NV" 
+.Al 
+WIWI 
+NNW NM 
+NV 
+LVIUMT 
+NNW MN 
+LW 
+WIWI 
+~RN 
+VIM 
+SYW 
+WANT 
+NW 
+1% 
+pre, 
+1.011 
+MUNN /WAND MN 
+Ur 
+SFSSAGIREMEVAL 
+U 
+N
+MAGILDWAIN1711 
+is.-4 =fl,witi,n 
+at, 
+ir ci7PA 
+NON 
+narr 
+erciffirriritt 
+Birs rims asm 
+Pal Eru F.4,1{;11 
+IVF 
+UNLA1 
+%WW1, 
+MS/OE
+pc 
+unue
+Nut 
+fl si... 
+...,411
+L. 
+m 
+et
+11,4 
+EFTA01692783

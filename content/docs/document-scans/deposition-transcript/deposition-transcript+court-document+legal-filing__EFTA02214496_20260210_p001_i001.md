@@ -1,0 +1,59 @@
+---
+source_image: "deposition-transcript+court-document+legal-filing__EFTA02214496_20260210_p001_i001.png"
+source_pdf: "EFTA02214496.pdf"
+method: pdf_text
+words: 502
+confidence: 1.00
+extracted: 2026-02-13T16:25:29.473888
+---
+
+To: 
+Ike Groff[ ll 
+From: 
+Sent 
+Thur 5125/2017 3:02:28 PM 
+Subject Re: Fields Project meeting 
+ok sounds good. thanks 
+On May 25, 2017, at 10:52 AM, Ike Groff 
+%,.,rote: 
+I will be going to this. busy week next week for me 
+From: David Koch
+Sent: Thursday, May 25, 
+To: Ike Groff; Patrick Russell; Mike Benevento; David Cannon 
+Amy 
+Bennett; Jennifer MCCARTHY; Steve Kraus; Meredith ino
+nnennikrWrinors; Seth W. 
+Alvord; 'Wendy Cunnaa 
+'Denis LaPolice'; John Warner; 
+James Connelly; Katrina and Nick Kaupp; Mike Murphy 
+Subject: Fields Project meeting 
+AS we are entering critical phase of the fields project we are having a meeting this 
+Tuesday may 30. 730pm at koch home 
+Agenda as follows 
+I. State of the union - where arc we??? 
+2. Strategy to close funding gap 
+3. Timeline 
+It is vital that we all come together as the calendar is moving very fast and we have 
+some hard deadlines. 
+Please reply to Katrina or me to RSVP if weather is nice 
+we can have cocktails by the pool if not down at the bar. Thanks in advance for 
+all the time and effort on this. We are close need to get the ducks lined up to finish 
+phase 2. Thanks dave 
+Dave cell 
+This message contains confidential information and is intended only for the individual named. If you are not the named 
+addressee you should not disseminate. distribute or copy this 0-mail. Please notify the sender immediately by o-mail if you 
+have recopied this e-mail by mistake and delete this e-mail from your system. E-mail transmission cannot be guaranteed 
+to bo secure or error-free as information could bo intercepted, corrupted, lost, destroyed. arnve late or incomplete or 
+contain viruses. The sender therefore does not accept liability for any errors or omissions in the contents of this message. 
+which arise as a result of o-mail transmission. If verification is required please request a hardcopy vorson. 
+This e-mail and any files transmitted with it are confidential and intended only for the person or entity to which it is addressed. If you 
+are not the intended recipient, you are hereby notified that any dissemination, distribution or copying of this e-mail and 
+any attachment(s) is strictly prohibited. If you have received this e-mail in error please immediately notify the sender at 203-
+302.7300 or by replying to this e-mail and delete the e-mail and any attachment(s) from your system. Nothing herein shall 
+be construed as a financial promotion to any person or persons, or a solicitation or recommendation to buy or sell any 
+security or other investment or to engage in any trading strategy. Information presented is from sources believed to be 
+reliable, but is not guaranteed to be accurate or complete. This information should not be taken as an offer nor as a 
+solicitation of an offer to buy or sell securities or other financial instruments. Email transmission cannot be guaranteed to 
+be secure, timely or error free. Tourmaline Partners, LLC may review and store both incoming and outgoing messages. Use 
+EFTA_R1_00940895 
+EFTA02214496

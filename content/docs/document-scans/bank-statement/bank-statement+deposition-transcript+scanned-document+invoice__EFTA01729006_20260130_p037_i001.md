@@ -1,0 +1,299 @@
+---
+source_image: "bank-statement+deposition-transcript+scanned-document+invoice__EFTA01729006_20260130_p037_i001.png"
+source_pdf: "EFTA01729006.pdf"
+method: pdf_text
+words: 535
+confidence: 1.00
+extracted: 2026-02-13T16:08:04.203876
+---
+
+Account Number: 
+Billing Date: 
+Mobile Number: 
+Mobile Deer: 
+Total Mobiles: 
+Cinguler Text Messaging 
+Typo 
+Incoming/ 
+Outgoing 
+Included Billable 
+Rate 
+TOtal 
+OTHER MOBILE TO MOBILE 
+In 
+0 
+2 
+0.10 
+0.20 
+TOtal 
+0 
+2 
+0.20 
+AIRTIME AND LONO DISTANCE CHARGES 
+CHARGES 
+Length 
+City 
+of 
+Air 
+Long 
+Itm Date 
+Time 
+CL No. Called 
+Called 
+F P Call Time 
+Diat. Total 
+1 03/06 08:43PM 
+ROAMER
+1 
+0.00 
+0.00 
+2 03/06 08:48PM 
+ROAMER CL R N 
+1 
+0.00 
+0.00 
+3 03/06 08:51PM 
+ROAMER CL R N 
+1 
+D.00 
+0.00 
+4 03/06 08:58PM 
+INCOMI CL R N 
+5 
+0.00 
+0.00 
+5 03/06 09:28PM 
+ROAMER CL R N 
+2 
+0.00 
+0.00 
+6 03/06 10:12PM 
+INCOMI CL R N 
+2 
+0.00 
+0.00 
+7 03/06 10:48PM 
+INCOMI CL R N 
+3 
+0.00 
+0.00 
+8 03/06 10:51PM 
+ROAMER CL R N 
+1 
+0.00 
+0.00 
+9 03/06 10:51PM 
+ROAMER CL R N 
+1 
+0.00 
+0.00 
+10 03/06 10:52PM 
+ROAMER CL R N 
+1 
+0.00 
+0.00 
+11 03/06 10:53M4 
+ROAMER CL R N 
+1 
+0.00 
+0.00 
+12 03/07 12:46PM 
+ROAMER
+1 
+0.00 
+0.00 
+13 03/07 02124PM 
+INCOMI CL 12 N 
+1 
+0.00 
+0.00 
+14 03/07 03:56PM 
+INCOMI CL R N 
+2 
+0.00 
+0.00 
+15 03/07 03:57PM 
+INCOMI CL R N 
+7 
+0.00 
+0.00 
+16 03/07 04:04PM 
+INCOMI CL R N 
+17 
+0.00 
+0.00 
+17 03/07 06:22PN 
+INCOMI CL W N 
+4 
+0.00 
+0.00 
+18 03/07 06:35PM 
+INCOMI CL W H 
+2 
+0.00 
+0.00 
+19 01/07 07:14PN 
+VOICE CL W N 
+2 
+0.00 
+0.00 
+20 03/07 07:14PM 
+INCOMI CL W N 
+3 
+0.00 
+0.00 
+21'03/07 07:28PM 
+INCOMI CL W N 
+3 
+0.00 
+0.00 
+22 03/07 08:24PM 
+moon CL W N 
+1 
+0.00 
+0.00 
+23 03/07 09:57PM 
+PALM FL W N 
+34 
+0.00 
+0.00 
+24 03/07 10:20PM' 
+INCOMI CL W N 
+1 
+0.00 
+0.00 
+25 03/07 10:31PM 
+INCOMI CL W N 
+1 
+0.00 
+0.00 
+26 03/07 10:32PM 
+INCOME CL W N 
+11 
+0.00 
+0.00 
+27 03/07 10:55PM 
+INCOMI CL W N 
+4 
+0.00 
+0.00 
+28 03/08 07:14AM 
+INCOME CL 
+P 
+2 
+0.00 
+0.00 
+29 03/08 10:55AM 
+meow: CL 
+P 
+1 
+0.00 
+0.00 
+30 03/08 10:56AM 
+INCONI CL 
+p 
+3 
+0.00 
+0.00 
+31 03/08 03:38PM 
+H ..PALM FL 
+P 
+6 
+0.00 
+0.00 
+32 03/08 07:32PM 
+INCOMI CIS 
+P 
+2 
+0.00 
+0.00 
+33 03/06 08:23PM 
+INCOME CL 
+P 
+2 
+0.00 
+0.00 
+34 03/08 09:44PM 
+PALM PL W 0 
+6 
+0.00 
+0.00 
+35 03/08 09:52PM 
+PALM PL W 0 
+1 
+0.00 
+0.00 
+36 03/08 11:10PM 
+W PALM FL W 0 
+1 
+0.00 
+0.00 
+37 03/08 11:23PM 
+PALM FL 14 0 
+4 
+0.00 
+0.00 
+38 03/08 11:27PM 
+PALM FL W 0 
+1 
+0.00 
+0.00 
+39 03/08 11:42PM 
+INCOMI CL W 0 
+7 
+0.00 
+0.00 
+40 03/09 09:57PM 
+INCOME CL W 0 
+1 
+0.00 
+0.00 
+41 03/09 09:57PM 
+VOICE CL W 0 
+2 
+0.00 
+0.00 
+42 03/09 09:58PM 
+INCONI CL W 0 
+1 
+0.00 
+0.00 
+43 03/09 09:59PM 
+VOICE CL N 0 
+1 
+0.00 
+0.00 
+44 03/09 10:01PM 
+VOICE CL W 0 
+1 
+0.00 
+0.00 
+45 03/09 10:38PM 
+VOICE CL W 0 
+1 
+0.00 
+0.00 
+46 03/10 08:56AM 
+W mit FL 
+P 
+1 
+0.00 
+0.00 
+47 03/10 03:49PM 
+INCOMI CL 
+P 
+2 
+0.00 
+o.bo 
+48 03/20 21:02PM 
+VOICE CL W 0 
+2 
+0.00 
+0.00 
+49 03/11 03:28PM 
+INCOME CL 
+p 
+1 
+0.00 
+0.00 
+EFTA01729042
