@@ -122,7 +122,7 @@
     if(member.bucketPath)btns.push('<button class="btn" data-open-path="'+escapeHtml(member.bucketPath)+'">Email Bucket</button>');
     if(!btns.length&&member.pagePath)btns.push('<button class="btn" data-open-path="'+escapeHtml(member.pagePath)+'">Cast Page</button>');
 
-    return'<article class="member-card">'+'<div class="member-name">'+escapeHtml(member.name)+"</div>"+'<div class="member-cat" style="color:'+escapeHtml(catColor)+'">'+escapeHtml(categoryIcon(member.category)+" "+member.categoryLabel)+"</div>"+tierBadge+'<p class="member-summary">'+escapeHtml(member.summary)+"</p>"+'<div class="member-actions">'+btns.join("")+"</div></article>";
+    return'<article class="member-card">'+'<div class="member-name">'+escapeHtml(member.name)+tierBadge+"</div>"+'<div class="member-cat" style="color:'+escapeHtml(catColor)+'">'+escapeHtml(categoryIcon(member.category)+" "+member.categoryLabel)+"</div>"+'<p class="member-summary">'+escapeHtml(member.summary)+"</p>"+'<div class="member-actions">'+btns.join("")+"</div></article>";
   }
 
   function populateDirectoryFilters(){

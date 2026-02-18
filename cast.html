@@ -152,31 +152,42 @@
     }
     .member-list{
       display:grid;
-      grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
-      gap:.65rem;
+      grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+      gap:.6rem;
     }
     .member-card{
       background:var(--surface);
       border:1px solid var(--border);
-      border-radius:.7rem;
-      padding:.85rem .9rem;
+      border-radius:.6rem;
+      padding:.7rem .75rem;
       display:flex;
       flex-direction:column;
-      gap:.4rem;
+      gap:.3rem;
       border-left:3px solid var(--accent);
-      min-height:180px;
+      aspect-ratio:1/1;
+      overflow:hidden;
+      justify-content:space-between;
     }
-    .member-name{font:700 .96rem var(--sans);color:var(--text)}
-    .member-cat{font:.68rem var(--mono);color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em}
-    .member-summary{font-size:.78rem;color:var(--muted);line-height:1.45}
-    .member-actions{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.25rem}
+    .member-name{font:700 .85rem var(--sans);color:var(--text);line-height:1.2}
+    .member-cat{font:.6rem var(--mono);color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .member-summary{
+      font-size:.72rem;
+      color:var(--muted);
+      line-height:1.4;
+      flex:1;
+      overflow:hidden;
+      display:-webkit-box;
+      -webkit-line-clamp:4;
+      -webkit-box-orient:vertical;
+    }
+    .member-actions{display:flex;flex-wrap:wrap;gap:.3rem;margin-top:auto;padding-top:.3rem}
     .btn{
       border:1px solid var(--border);
       background:var(--surface-2);
       color:var(--text);
-      border-radius:.45rem;
-      padding:.3rem .55rem;
-      font:600 .66rem var(--mono);
+      border-radius:.35rem;
+      padding:.22rem .4rem;
+      font:600 .58rem var(--mono);
       cursor:pointer;
     }
     .btn:hover{border-color:var(--accent);color:var(--accent)}
@@ -416,20 +427,23 @@
     }
     .member-list-inner{
       display:grid;
-      grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
-      gap:.65rem;
+      grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+      gap:.6rem;
     }
     /* ── Tier badge ────────────────────────────────── */
     .tier-badge{
       display:inline-block;
-      padding:.1rem .42rem;
-      border-radius:.32rem;
-      font:600 .6rem var(--mono);
+      padding:.08rem .35rem;
+      border-radius:.25rem;
+      font:600 .52rem var(--mono);
       color:#fff;
       text-transform:uppercase;
-      letter-spacing:.04em;
+      letter-spacing:.03em;
       vertical-align:middle;
-      margin-left:.35rem;
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow:ellipsis;
+      max-width:100%;
     }
     /* ── Category badge on cards ───────────────────── */
     .member-cat-badge{
@@ -450,8 +464,12 @@
     a.btn.primary:hover{color:#fff;filter:brightness(1.12)}
     @media (max-width:900px){
       .cat-row{grid-template-columns:1fr 1fr 50px}
-      .member-list,.top-grid,.member-list-inner{grid-template-columns:1fr}
+      .member-list,.top-grid,.member-list-inner{grid-template-columns:repeat(2,1fr)}
       .viewer-tools{padding-right:0}
+    }
+    @media (max-width:560px){
+      .member-list,.top-grid,.member-list-inner{grid-template-columns:1fr}
+      .member-card{aspect-ratio:auto;min-height:180px}
     }
   </style>
 </head>
@@ -544,6 +562,6 @@
     </div>
   </div>
 
-  <script src="./cast-app.js?v=20260219-sections1" defer></script>
+  <script src="./cast-app.js?v=20260219-squaregrid1" defer></script>
 </body>
 </html>
