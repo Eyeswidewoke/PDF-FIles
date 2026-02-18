@@ -1,0 +1,10 @@
+SITE-ACCURATE LINK AUDIT (paths resolved from repo root)
+========================================================
+Total ./path links: 17808
+Working: 17791 (99%)
+Broken: 17 (0%)
+
+Broken by path prefix (all):
+  KEY-FINDINGS.md: 16
+  INVESTIGATION-A-POWER-NETWORK.md: 1
+

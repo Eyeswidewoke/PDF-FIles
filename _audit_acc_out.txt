@@ -1,0 +1,23 @@
+FINAL LINK AUDIT
+================
+Total internal .md links: 18959
+Working: 1145 (6%)
+Broken: 17814 (93%)
+
+Broken by prefix (top 15):
+  content/emails/people-buckets: 8818
+  content/cast/pages: 8687
+  content/topics/cast: 165
+  content/cast/topics: 124
+  content\CRONO.md: 4
+  content/timeline/extra: 4
+  content/CHRONOLOGY/TFILES-CRONO-MASTER-COMPREHENSIVE.md: 2
+  content/FOREIGN/US-China Trade War 2025.md: 2
+  content/AUTHORITARIANISM/AUTHORITARIANISM Hub.md: 1
+  content/ISSUES/Kilmar Abrego Garcia Case.md: 1
+  content/SITE/Website Structure Planning Session.md: 1
+  content/AUTHORITARIANISM/Media and Disinformation Tactics.md: 1
+  content/PSYCHOLOGY/Scapegoating as Political Strategy.md: 1
+  FILES/LIBRARY/EVIDENCE: 1
+  START.md: 1
+

@@ -1,0 +1,38 @@
+SITE-ACCURATE LINK AUDIT (paths resolved from repo root)
+========================================================
+Total ./path links: 17808
+Working: 17446 (97%)
+Broken: 362 (2%)
+
+Broken by path prefix (all):
+  07-business-finance-jeffrey-epstein.md: 26
+  KEY-FINDINGS.md: 16
+  01-family-fred-trump.md: 13
+  01-family-ivana-trump.md: 11
+  01-family-eric-trump.md: 10
+  01-family-ivanka-trump.md: 10
+  02-inner-circle-michael-cohen.md: 8
+  01-family-maryanne-trump-barry.md: 7
+  01-family-marla-maples.md: 7
+  01-family-fred-trump-jr.md: 7
+  01-family-jared-kushner.md: 6
+  02-inner-circle-roy-cohn.md: 6
+  03-cabinet-admin-kristi-noem.md: 6
+  03-cabinet-admin-stephen-miller.md: 6
+  04-campaign-political-joe-biden.md: 6
+  01-family-melania-trump.md: 5
+  01-family-lara-trump.md: 5
+  01-family-friedrich-trump.md: 5
+  01-family-donald-trump-jr.md: 5
+  01-family-tiffany-trump.md: 5
+  01-family-barron-trump.md: 5
+  03-cabinet-admin-russell-vought.md: 5
+  03-cabinet-admin-tom-homan.md: 5
+  07-business-finance-ghislaine-maxwell.md: 5
+  10-victims-accusers-stormy-daniels.md: 4
+  02-inner-circle-steve-bannon.md: 4
+  03-cabinet-admin-michael-flynn.md: 4
+  03-cabinet-admin-howard-lutnick.md: 4
+  03-cabinet-admin-kash-patel.md: 4
+  05-legal-investigations-robert-mueller.md: 4
+

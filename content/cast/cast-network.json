@@ -857,6 +857,7 @@
           "label": "extract-trump-raw"
         }
       ],
+      "tier": 4,
       "dossier": "bannon.html"
     },
     {
@@ -1101,6 +1102,7 @@
       },
       "connection_count": 1,
       "topic_mentions": [],
+      "tier": 1,
       "dossier": "bondi.html"
     },
     {
@@ -1280,6 +1282,7 @@
           "label": "extract-surveillance-raw"
         }
       ],
+      "tier": 6,
       "dossier": "barr.html"
     },
     {
@@ -1960,6 +1963,7 @@
           "label": "extract-musk-ds12"
         }
       ],
+      "tier": 2,
       "dossier": "musk.html"
     },
     {
@@ -2142,6 +2146,7 @@
           "label": "extract-telephone-raw"
         }
       ],
+      "tier": 7,
       "dossier": "maxwell.html"
     },
     {
@@ -3443,11 +3448,11 @@
       "name": "Lindsey Graham",
       "category": "08_Epstein_Network",
       "file": "08-epstein-network-lindsey-graham.md",
-      "summary": "Senator. Named on DOJ Section 3 list. No Epstein-specific evidence. Tier 1.",
+      "summary": "Senator. Named on DOJ Section 3 list. No Epstein-specific evidence. Tier 2.",
       "connections": {},
       "connection_count": 0,
       "topic_mentions": [],
-      "tier": 1,
+      "tier": 2,
       "dossier": "graham.html"
     },
     {

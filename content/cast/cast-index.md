@@ -10,22 +10,22 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Barron Trump](profiles/barron-trump.md) | 2 | 0 |
-| [Donald Trump Jr](profiles/donald-trump-jr.md) | 6 | 0 |
-| [Eric Trump](profiles/eric-trump.md) | 4 | 1 |
-| [Fred Trump](profiles/fred-trump.md) | 2 | 0 |
-| [Fred Trump Jr](profiles/fred-trump-jr.md) | 3 | 0 |
-| [Friedrich Trump](profiles/friedrich-trump.md) | 2 | 0 |
-| [Ivana Trump](profiles/ivana-trump.md) | 6 | 1 |
-| [Ivanka Trump](profiles/ivanka-trump.md) | 4 | 2 |
-| [Jared Kushner](profiles/jared-kushner.md) | 2 | 6 |
-| [Lara Trump](profiles/lara-trump.md) | 2 | 0 |
-| [Marla Maples](profiles/marla-maples.md) | 3 | 0 |
-| [Mary Anne MacLeod Trump](profiles/mary-anne-macleod-trump.md) | 2 | 0 |
-| [Mary L Trump](profiles/mary-l-trump.md) | 3 | 0 |
-| [Maryanne Trump Barry](profiles/maryanne-trump-barry.md) | 4 | 0 |
-| [Melania Trump](profiles/melania-trump.md) | 2 | 1 |
-| [Tiffany Trump](profiles/tiffany-trump.md) | 2 | 0 |
+| [Barron Trump](profiles/01_Family/Barron%20Trump.md) | 2 | 0 |
+| [Donald Trump Jr](profiles/01_Family/Donald%20Trump%20Jr.md) | 6 | 0 |
+| [Eric Trump](profiles/01_Family/Eric%20Trump.md) | 4 | 1 |
+| [Fred Trump](profiles/01_Family/Fred%20Trump.md) | 2 | 0 |
+| [Fred Trump Jr](profiles/01_Family/Fred%20Trump%20Jr.md) | 3 | 0 |
+| [Friedrich Trump](profiles/01_Family/Friedrich%20Trump.md) | 2 | 0 |
+| [Ivana Trump](profiles/01_Family/Ivana%20Trump.md) | 6 | 1 |
+| [Ivanka Trump](profiles/01_Family/Ivanka%20Trump.md) | 4 | 2 |
+| [Jared Kushner](profiles/01_Family/Jared%20Kushner.md) | 2 | 6 |
+| [Lara Trump](profiles/01_Family/Lara%20Trump.md) | 2 | 0 |
+| [Marla Maples](profiles/01_Family/Marla%20Maples.md) | 3 | 0 |
+| [Mary Anne MacLeod Trump](profiles/01_Family/Mary%20Anne%20MacLeod%20Trump.md) | 2 | 0 |
+| [Mary L Trump](profiles/01_Family/Mary%20L%20Trump.md) | 3 | 0 |
+| [Maryanne Trump Barry](profiles/01_Family/Maryanne%20Trump%20Barry.md) | 4 | 0 |
+| [Melania Trump](profiles/01_Family/Melania%20Trump.md) | 2 | 1 |
+| [Tiffany Trump](profiles/01_Family/Tiffany%20Trump.md) | 2 | 0 |
 
 ## 🎯 Inner Circle (5)
 
@@ -33,11 +33,11 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Michael Cohen](profiles/michael-cohen.md) | 3 | 8 |
-| [Paul Manafort](profiles/paul-manafort.md) | 1 | 3 |
-| [Roger Stone](profiles/roger-stone.md) | 1 | 3 |
-| [Roy Cohn](profiles/roy-cohn.md) | 2 | 0 |
-| [Steve Bannon](profiles/steve-bannon.md) | 2 | 1 |
+| [Michael Cohen](profiles/02_Inner_Circle/Michael%20Cohen.md) | 3 | 8 |
+| [Paul Manafort](profiles/02_Inner_Circle/Paul%20Manafort.md) | 1 | 3 |
+| [Roger Stone](profiles/02_Inner_Circle/Roger%20Stone.md) | 1 | 3 |
+| [Roy Cohn](profiles/02_Inner_Circle/Roy%20Cohn.md) | 2 | 0 |
+| [Steve Bannon](profiles/02_Inner_Circle/Steve%20Bannon.md) | 2 | 1 |
 
 ## 🏛️ Cabinet & Administration (17)
 
@@ -45,23 +45,23 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Bevino Ice](profiles/bevino-ice.md) | 3 | 0 |
-| [Howard Lutnick](profiles/howard-lutnick.md) | 2 | 0 |
-| [Kash Patel](profiles/kash-patel.md) | 6 | 0 |
-| [Kristi Noem](profiles/kristi-noem.md) | 1 | 0 |
-| [Mark Milley](profiles/mark-milley.md) | 2 | 0 |
-| [Matt Gaetz](profiles/matt-gaetz.md) | 1 | 2 |
-| [Michael Flynn](profiles/michael-flynn.md) | 1 | 3 |
-| [Mike Pence](profiles/mike-pence.md) | 1 | 0 |
-| [Pam Bondi](profiles/pam-bondi.md) | 2 | 0 |
-| [Pete Hegseth](profiles/pete-hegseth.md) | 1 | 0 |
-| [Robert F. Kennedy Jr](profiles/robert-f-kennedy-jr.md) | 1 | 0 |
-| [Robert Karem](profiles/robert-karem.md) | 1 | 0 |
-| [Russell Vought](profiles/russell-vought.md) | 1 | 0 |
-| [Stephen Miller](profiles/stephen-miller.md) | 1 | 0 |
-| [Tom Homan](profiles/tom-homan.md) | 3 | 0 |
-| [Tulsi Gabbard](profiles/tulsi-gabbard.md) | 1 | 0 |
-| [William Barr](profiles/william-barr.md) | 2 | 4 |
+| [Bevino Ice](profiles/03_Cabinet_Admin/Bevino%20Ice.md) | 3 | 0 |
+| [Howard Lutnick](profiles/03_Cabinet_Admin/Howard%20Lutnick.md) | 2 | 0 |
+| [Kash Patel](profiles/03_Cabinet_Admin/Kash%20Patel.md) | 6 | 0 |
+| [Kristi Noem](profiles/03_Cabinet_Admin/Kristi%20Noem.md) | 1 | 0 |
+| [Mark Milley](profiles/03_Cabinet_Admin/Mark%20Milley.md) | 2 | 0 |
+| [Matt Gaetz](profiles/03_Cabinet_Admin/Matt%20Gaetz.md) | 1 | 2 |
+| [Michael Flynn](profiles/03_Cabinet_Admin/Michael%20Flynn.md) | 1 | 3 |
+| [Mike Pence](profiles/03_Cabinet_Admin/Mike%20Pence.md) | 1 | 0 |
+| [Pam Bondi](profiles/03_Cabinet_Admin/Pam%20Bondi.md) | 2 | 0 |
+| [Pete Hegseth](profiles/03_Cabinet_Admin/Pete%20Hegseth.md) | 1 | 0 |
+| [Robert F. Kennedy Jr](profiles/03_Cabinet_Admin/Robert%20F.%20Kennedy%20Jr.md) | 1 | 0 |
+| [Robert Karem](profiles/03_Cabinet_Admin/Robert%20Karem.md) | 1 | 0 |
+| [Russell Vought](profiles/03_Cabinet_Admin/Russell%20Vought.md) | 1 | 0 |
+| [Stephen Miller](profiles/03_Cabinet_Admin/Stephen%20Miller.md) | 1 | 0 |
+| [Tom Homan](profiles/03_Cabinet_Admin/Tom%20Homan.md) | 3 | 0 |
+| [Tulsi Gabbard](profiles/03_Cabinet_Admin/Tulsi%20Gabbard.md) | 1 | 0 |
+| [William Barr](profiles/03_Cabinet_Admin/William%20Barr.md) | 2 | 4 |
 
 ## 📢 Campaign & Political (7)
 
@@ -69,13 +69,13 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Greg Abbott](profiles/greg-abbott.md) | 1 | 2 |
-| [Joe Biden](profiles/joe-biden.md) | 2 | 2 |
-| [John Thune](profiles/john-thune.md) | 1 | 0 |
-| [Kamala Harris](profiles/kamala-harris.md) | 1 | 0 |
-| [Mitch McConnell](profiles/mitch-mcconnell.md) | 1 | 0 |
-| [Paul Ryan](profiles/paul-ryan.md) | 1 | 0 |
-| [Rick Scott](profiles/rick-scott.md) | 1 | 0 |
+| [Greg Abbott](profiles/04_Campaign_Political/Greg%20Abbott.md) | 1 | 2 |
+| [Joe Biden](profiles/04_Campaign_Political/Joe%20Biden.md) | 2 | 2 |
+| [John Thune](profiles/04_Campaign_Political/John%20Thune.md) | 1 | 0 |
+| [Kamala Harris](profiles/04_Campaign_Political/Kamala%20Harris.md) | 1 | 0 |
+| [Mitch McConnell](profiles/04_Campaign_Political/Mitch%20McConnell.md) | 1 | 0 |
+| [Paul Ryan](profiles/04_Campaign_Political/Paul%20Ryan.md) | 1 | 0 |
+| [Rick Scott](profiles/04_Campaign_Political/Rick%20Scott.md) | 1 | 0 |
 
 ## ⚖️ Legal & Investigations (10)
 
@@ -83,16 +83,16 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Aileen Cannon](profiles/aileen-cannon.md) | 1 | 0 |
-| [Alex Acosta](profiles/alex-acosta.md) | 3 | 7 |
-| [Brad S. Karp](profiles/brad-s-karp.md) | 2 | 0 |
-| [Gonzalo Curiel](profiles/gonzalo-curiel.md) | 1 | 0 |
-| [Jack Smith](profiles/jack-smith.md) | 1 | 0 |
-| [John Eastman](profiles/john-eastman.md) | 4 | 0 |
-| [Kenneth Chesebro](profiles/kenneth-chesebro.md) | 3 | 0 |
-| [Maurene Comey](profiles/maurene-comey.md) | 1 | 0 |
-| [Robert Mueller](profiles/robert-mueller.md) | 1 | 4 |
-| [Sidney Powell](profiles/sidney-powell.md) | 1 | 0 |
+| [Aileen Cannon](profiles/05_Legal_Investigations/Aileen%20Cannon.md) | 1 | 0 |
+| [Alex Acosta](profiles/05_Legal_Investigations/Alex%20Acosta.md) | 3 | 7 |
+| [Brad S. Karp](profiles/05_Legal_Investigations/Brad%20S.%20Karp.md) | 2 | 0 |
+| [Gonzalo Curiel](profiles/05_Legal_Investigations/Gonzalo%20Curiel.md) | 1 | 0 |
+| [Jack Smith](profiles/05_Legal_Investigations/Jack%20Smith.md) | 1 | 0 |
+| [John Eastman](profiles/05_Legal_Investigations/John%20Eastman.md) | 4 | 0 |
+| [Kenneth Chesebro](profiles/05_Legal_Investigations/Kenneth%20Chesebro.md) | 3 | 0 |
+| [Maurene Comey](profiles/05_Legal_Investigations/Maurene%20Comey.md) | 1 | 0 |
+| [Robert Mueller](profiles/05_Legal_Investigations/Robert%20Mueller.md) | 1 | 4 |
+| [Sidney Powell](profiles/05_Legal_Investigations/Sidney%20Powell.md) | 1 | 0 |
 
 ## 📺 Media & Propaganda (5)
 
@@ -100,11 +100,11 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Laura Ingraham](profiles/laura-ingraham.md) | 1 | 0 |
-| [Laura Loomer](profiles/laura-loomer.md) | 3 | 0 |
-| [Rupert Murdoch](profiles/rupert-murdoch.md) | 1 | 0 |
-| [Sean Hannity](profiles/sean-hannity.md) | 1 | 1 |
-| [Tucker Carlson](profiles/tucker-carlson.md) | 1 | 0 |
+| [Laura Ingraham](profiles/06_Media_Propaganda/Laura%20Ingraham.md) | 1 | 0 |
+| [Laura Loomer](profiles/06_Media_Propaganda/Laura%20Loomer.md) | 3 | 0 |
+| [Rupert Murdoch](profiles/06_Media_Propaganda/Rupert%20Murdoch.md) | 1 | 0 |
+| [Sean Hannity](profiles/06_Media_Propaganda/Sean%20Hannity.md) | 1 | 1 |
+| [Tucker Carlson](profiles/06_Media_Propaganda/Tucker%20Carlson.md) | 1 | 0 |
 
 ## 💼 Business & Finance (17)
 
@@ -112,23 +112,23 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Andrew Farkas](profiles/andrew-farkas.md) | 2 | 0 |
-| [Benjamin Black](profiles/benjamin-black.md) | 3 | 0 |
-| [Bruce Moskowitz](profiles/bruce-moskowitz.md) | 2 | 0 |
-| [Carol Lang](profiles/carol-lang.md) | 1 | 0 |
-| [Daniel Siad](profiles/daniel-siad.md) | 1 | 2 |
-| [EPSTEIN-REDACTED-NAMES](profiles/epstein-redacted-names.md) | 6 | 0 |
-| [Elon Musk](profiles/elon-musk.md) | 1 | 1 |
-| [Errol Musk](profiles/errol-musk.md) | 1 | 0 |
-| [Ghislaine Maxwell](profiles/ghislaine-maxwell.md) | 2 | 23 |
-| [Jeffrey Epstein](profiles/jeffrey-epstein.md) | 2 | 43 |
-| [Joshua Haldeman](profiles/joshua-haldeman.md) | 1 | 0 |
-| [Kevin Landry](profiles/kevin-landry.md) | 2 | 0 |
-| [Leon David Black](profiles/leon-david-black.md) | 2 | 0 |
-| [Leslie Wexner](profiles/leslie-wexner.md) | 3 | 3 |
-| [Masha Drokova](profiles/masha-drokova.md) | 2 | 0 |
-| [Salvatore Nuara](profiles/salvatore-nuara.md) | 1 | 0 |
-| [Tony Cuomo](profiles/tony-cuomo.md) | 1 | 0 |
+| [Andrew Farkas](profiles/07_Business_Finance/Andrew%20Farkas.md) | 2 | 0 |
+| [Benjamin Black](profiles/07_Business_Finance/Benjamin%20Black.md) | 3 | 0 |
+| [Bruce Moskowitz](profiles/07_Business_Finance/Bruce%20Moskowitz.md) | 2 | 0 |
+| [Carol Lang](profiles/07_Business_Finance/Carol%20Lang.md) | 1 | 0 |
+| [Daniel Siad](profiles/07_Business_Finance/Daniel%20Siad.md) | 1 | 2 |
+| [EPSTEIN-REDACTED-NAMES](profiles/07_Business_Finance/EPSTEIN-REDACTED-NAMES.md) | 6 | 0 |
+| [Elon Musk](profiles/07_Business_Finance/Elon%20Musk.md) | 1 | 1 |
+| [Errol Musk](profiles/07_Business_Finance/Errol%20Musk.md) | 1 | 0 |
+| [Ghislaine Maxwell](profiles/07_Business_Finance/Ghislaine%20Maxwell.md) | 2 | 23 |
+| [Jeffrey Epstein](profiles/07_Business_Finance/Jeffrey%20Epstein.md) | 2 | 43 |
+| [Joshua Haldeman](profiles/07_Business_Finance/Joshua%20Haldeman.md) | 1 | 0 |
+| [Kevin Landry](profiles/07_Business_Finance/Kevin%20Landry.md) | 2 | 0 |
+| [Leon David Black](profiles/07_Business_Finance/Leon%20David%20Black.md) | 2 | 0 |
+| [Leslie Wexner](profiles/07_Business_Finance/Leslie%20Wexner.md) | 3 | 3 |
+| [Masha Drokova](profiles/07_Business_Finance/Masha%20Drokova.md) | 2 | 0 |
+| [Salvatore Nuara](profiles/07_Business_Finance/Salvatore%20Nuara.md) | 1 | 0 |
+| [Tony Cuomo](profiles/07_Business_Finance/Tony%20Cuomo.md) | 1 | 0 |
 
 ## 🌍 Foreign Connections (9)
 
@@ -136,15 +136,15 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Borge Brende](profiles/borge-brende.md) | 1 | 0 |
-| [Leonic Leonov](profiles/leonic-leonov.md) | 1 | 0 |
-| [Nicola Caputo](profiles/nicola-caputo.md) | 1 | 0 |
-| [Sultan Ahmed Bin Sulayem](profiles/sultan-ahmed-bin-sulayem.md) | 1 | 0 |
-| [Terje Aasland](profiles/terje-aasland.md) | 1 | 0 |
-| [Viktor Orban](profiles/viktor-orban.md) | 1 | 0 |
-| [Vitaly Churkin](profiles/vitaly-churkin.md) | 3 | 0 |
-| [Vladimir Putin](profiles/vladimir-putin.md) | 1 | 0 |
-| [Zurab Mikeladze](profiles/zurab-mikeladze.md) | 1 | 0 |
+| [Borge Brende](profiles/08_Foreign/Borge%20Brende.md) | 1 | 0 |
+| [Leonic Leonov](profiles/08_Foreign/Leonic%20Leonov.md) | 1 | 0 |
+| [Nicola Caputo](profiles/08_Foreign/Nicola%20Caputo.md) | 1 | 0 |
+| [Sultan Ahmed Bin Sulayem](profiles/08_Foreign/Sultan%20Ahmed%20Bin%20Sulayem.md) | 1 | 0 |
+| [Terje Aasland](profiles/08_Foreign/Terje%20Aasland.md) | 1 | 0 |
+| [Viktor Orban](profiles/08_Foreign/Viktor%20Orban.md) | 1 | 0 |
+| [Vitaly Churkin](profiles/08_Foreign/Vitaly%20Churkin.md) | 3 | 0 |
+| [Vladimir Putin](profiles/08_Foreign/Vladimir%20Putin.md) | 1 | 0 |
+| [Zurab Mikeladze](profiles/08_Foreign/Zurab%20Mikeladze.md) | 1 | 0 |
 
 ## 🗣️ Opponents & Whistleblowers (3)
 
@@ -152,9 +152,9 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Alexander Vindman](profiles/alexander-vindman.md) | 1 | 0 |
-| [Chris Krebs](profiles/chris-krebs.md) | 1 | 0 |
-| [Miles Taylor](profiles/miles-taylor.md) | 1 | 0 |
+| [Alexander Vindman](profiles/09_Opponents_Whistleblowers/Alexander%20Vindman.md) | 1 | 0 |
+| [Chris Krebs](profiles/09_Opponents_Whistleblowers/Chris%20Krebs.md) | 1 | 0 |
+| [Miles Taylor](profiles/09_Opponents_Whistleblowers/Miles%20Taylor.md) | 1 | 0 |
 
 ## 🛡️ Victims & Accusers (6)
 
@@ -162,12 +162,12 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Alex Jeffrey Pretti](profiles/alex-jeffrey-pretti.md) | 1 | 0 |
-| [E. Jean Carroll](profiles/e-jean-carroll.md) | 1 | 0 |
-| [Heather Heyer](profiles/heather-heyer.md) | 1 | 0 |
-| [Rene Goode](profiles/rene-goode.md) | 1 | 0 |
-| [Stormy Daniels](profiles/stormy-daniels.md) | 2 | 1 |
-| [Susan Bro](profiles/susan-bro.md) | 1 | 0 |
+| [Alex Jeffrey Pretti](profiles/10_Victims_Accusers/Alex%20Jeffrey%20Pretti.md) | 1 | 0 |
+| [E. Jean Carroll](profiles/10_Victims_Accusers/E.%20Jean%20Carroll.md) | 1 | 0 |
+| [Heather Heyer](profiles/10_Victims_Accusers/Heather%20Heyer.md) | 1 | 0 |
+| [Rene Goode](profiles/10_Victims_Accusers/Rene%20Goode.md) | 1 | 0 |
+| [Stormy Daniels](profiles/10_Victims_Accusers/Stormy%20Daniels.md) | 2 | 1 |
+| [Susan Bro](profiles/10_Victims_Accusers/Susan%20Bro.md) | 1 | 0 |
 
 ## 📜 Historical References (3)
 
@@ -175,13 +175,13 @@
 
 | Name | Connections | Topics |
 |------|-------------|--------|
-| [Adolf Hitler](profiles/adolf-hitler.md) | 1 | 0 |
-| [Joseph Goebbels](profiles/joseph-goebbels.md) | 1 | 0 |
-| [Richard Nixon](profiles/richard-nixon.md) | 1 | 0 |
+| [Adolf Hitler](profiles/11_Historical_References/Adolf%20Hitler.md) | 1 | 0 |
+| [Joseph Goebbels](profiles/11_Historical_References/Joseph%20Goebbels.md) | 1 | 0 |
+| [Richard Nixon](profiles/11_Historical_References/Richard%20Nixon.md) | 1 | 0 |
 
 ---
 
-*Use the [Cast Explorer](../../../index.html#cast) to filter and navigate relationships.*
+*Use the [Cast Explorer](../../index.html#cast) to filter and navigate relationships.*
 
 ## Epstein Network (12)
 

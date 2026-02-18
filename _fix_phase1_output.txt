@@ -1,0 +1,60 @@
+Missing cast-flagged emails: 3540
+Missing cast pages: 86
+Missing topic files: 0
+Missing other: 75
+
+--- Sample missing cast pages ---
+  content/cast/pages/00-master-donald-trump.md
+  content/cast/pages/01-family-barron-trump.md
+  content/cast/pages/01-family-donald-trump-jr.md
+  content/cast/pages/01-family-eric-trump.md
+  content/cast/pages/01-family-fred-trump-jr.md
+  content/cast/pages/01-family-fred-trump.md
+  content/cast/pages/01-family-friedrich-trump.md
+  content/cast/pages/01-family-ivana-trump.md
+  content/cast/pages/01-family-ivanka-trump.md
+  content/cast/pages/01-family-jared-kushner.md
+  content/cast/pages/01-family-lara-trump.md
+  content/cast/pages/01-family-marla-maples.md
+  content/cast/pages/01-family-mary-anne-macleod-trump.md
+  content/cast/pages/01-family-mary-l-trump.md
+  content/cast/pages/01-family-maryanne-trump-barry.md
+  content/cast/pages/01-family-melania-trump.md
+  content/cast/pages/01-family-tiffany-trump.md
+  content/cast/pages/01-family-trump-family-tree.md
+  content/cast/pages/02-inner-circle-michael-cohen.md
+  content/cast/pages/02-inner-circle-paul-manafort.md
+
+--- Sample missing topic files ---
+
+--- All missing other ---
+  INVESTIGATION-A-POWER-NETWORK.md
+  INVESTIGATION-B-TRAFFICKING-MACHINE.md
+  INVESTIGATION-C-MONEY-AND-PLANES.md
+  INVESTIGATION-D-DEPOSITIONS.md
+  INVESTIGATION-E-DATA-INTEGRITY-RABBIT-HOLES.md
+  INVESTIGATION-F-EPSTEIN-DEATH-IN-CUSTODY.md
+  INVESTIGATION-G-FRESH-EYES-WHOLE-CASE-LEAD-MAP.md
+  INVESTIGATION-H-DEATH-IN-CUSTODY-TIMELINE.md
+  KEY-FINDINGS.md
+  claim-ledger.md
+  content/cast/profiles/00_Master/Donald Trump.md
+  content/cast/profiles/01_Family/_TRUMP-FAMILY-TREE.md
+  content/cast/profiles/11_Historical_References/Adolf Hitler.md
+  content/cast/profiles/Elon Musk.md
+  content/emails/people-buckets/historical-references/adolf-hitler.md
+  findings/F-001-fbi-internal-email-brunel-mc2-sex-trafficking-front.md
+  findings/F-002-geoffrey-berman-sdny-private-and-confidential.md
+  findings/F-003-ghislaine-maxwell-draft-pr-statements.md
+  findings/F-004-epsteinsitrick-crisis-pr-coordination.md
+  findings/F-005-epstein-as-team-leader-legal-strategy-email.md
+  findings/F-006-epstein-michael-wolff-nfw.md
+  findings/F-007-boris-nikolic-gates-science-advisor-texts.md
+  findings/F-008-trump-s-going-to-win-in-november.md
+  findings/F-009-jane-doe-v-trump-told-you.md
+  findings/F-010-daily-mail-ghislaine-has-females-for-mr-se.md
+  findings/F-011-key-email-addresses-discovered.md
+  findings/F-012-air-ghislaine-helicopter.md
+  findings/F-013-epsteinbrunel-text-exchange.md
+  findings/F-014-shanson900-30-min-for-the-girls.md
+  findings/F-015-contact-network-highlights.md

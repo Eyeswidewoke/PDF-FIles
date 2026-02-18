@@ -1,0 +1,26 @@
+Total internal .md links scanned: 18953
+Missing targets: 763 (4%)
+Working: 18190 (95%)
+Unique missing files: 233
+
+Missing by path prefix (top 20):
+  content/topics/cast: 165
+  content/cast/topics: 124
+  content/cast/cast: 87
+  07-business-finance-jeffrey-epstein.md: 26
+  KEY-FINDINGS.md: 17
+  01-family-fred-trump.md: 13
+  01-family-ivana-trump.md: 11
+  01-family-eric-trump.md: 10
+  01-family-ivanka-trump.md: 10
+  02-inner-circle-michael-cohen.md: 8
+  01-family-maryanne-trump-barry.md: 7
+  01-family-marla-maples.md: 7
+  01-family-fred-trump-jr.md: 7
+  01-family-jared-kushner.md: 6
+  02-inner-circle-roy-cohn.md: 6
+  03-cabinet-admin-kristi-noem.md: 6
+  03-cabinet-admin-stephen-miller.md: 6
+  04-campaign-political-joe-biden.md: 6
+  01-family-melania-trump.md: 5
+  01-family-lara-trump.md: 5
