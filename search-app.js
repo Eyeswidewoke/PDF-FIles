@@ -445,7 +445,10 @@
   function showViewer() {
     if (!el.viewerPanel) return;
     el.viewerPanel.hidden = false;
-    el.viewerPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+    const desktopSplit = typeof window !== "undefined" && window.matchMedia("(min-width: 1120px)").matches;
+    if (!desktopSplit) {
+      el.viewerPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
   }
 
   function closeViewer() {
