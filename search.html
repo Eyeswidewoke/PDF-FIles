@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20260218-sticky" />
+  <link rel="stylesheet" href="./styles.css?v=20260218-sticky2" />
   <style>
     .search-filter-grid {
       display: grid;
@@ -97,12 +97,13 @@
       /* Viewer sits in a full-height grid cell so sticky works */
       .viewer-panel {
         grid-column: span 4;
-        /* Remove panel background/border from the stretchy cell */
+        /* Strip panel chrome from the stretchy cell */
         background: none;
         border: none;
         box-shadow: none;
         padding: 0;
         border-radius: 0;
+        overflow: visible;          /* critical: no overflow clip on sticky parent */
       }
 
       /* Inner sticky wrapper keeps viewer visible while scrolling */
@@ -221,6 +222,6 @@
     </section>
   </main>
 
-  <script src="./search-app.js?v=20260218-sticky" defer></script>
+  <script src="./search-app.js?v=20260218-sticky2" defer></script>
 </body>
 </html>
