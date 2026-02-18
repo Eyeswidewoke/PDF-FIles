@@ -161,7 +161,7 @@
       "name": "Barron Trump",
       "category": "01_Family",
       "file": "01_Family\\Barron Trump.md",
-      "summary": "﻿# BARRON TRUMP",
+      "summary": "Youngest son of Donald Trump. No direct Epstein connection. Included in family network mapping.",
       "connections": {
         "family": [
           {
@@ -184,7 +184,7 @@
       "name": "Donald Trump Jr",
       "category": "01_Family",
       "file": "01_Family\\Donald Trump Jr.md",
-      "summary": "﻿# DONALD TRUMP JR.",
+      "summary": "Eldest son of Donald Trump. Executive VP at Trump Organization. No direct Epstein communications found.",
       "connections": {
         "family": [
           {
@@ -229,7 +229,7 @@
       "name": "Eric Trump",
       "category": "01_Family",
       "file": "01_Family\\Eric Trump.md",
-      "summary": "﻿# ERIC TRUMP",
+      "summary": "Son of Donald Trump. EVP at Trump Organization. No direct Epstein connection documented.",
       "connections": {
         "family": [
           {
@@ -295,7 +295,7 @@
       "name": "Fred Trump",
       "category": "01_Family",
       "file": "01_Family\\Fred Trump.md",
-      "summary": "﻿# FRED TRUMP SR.",
+      "summary": "Father of Donald Trump. Real estate developer. Historical family context for Trump-Epstein timeline.",
       "connections": {
         "mentioned": [
           {
@@ -395,7 +395,7 @@
       "name": "Ivanka Trump",
       "category": "01_Family",
       "file": "01_Family\\Ivanka Trump.md",
-      "summary": "﻿# IVANKA TRUMP",
+      "summary": "Daughter of Donald Trump. Former White House advisor. Mentioned in Epstein flight-adjacent social circles.",
       "connections": {
         "family": [
           {
@@ -439,7 +439,7 @@
       "name": "Jared Kushner",
       "category": "01_Family",
       "file": "01_Family\\Jared Kushner.md",
-      "summary": "﻿# JARED KUSHNER",
+      "summary": "Son-in-law of Donald Trump. Former White House senior advisor. No direct Epstein communications found.",
       "connections": {
         "mentioned": [
           {
@@ -632,7 +632,7 @@
       "name": "Melania Trump",
       "category": "01_Family",
       "file": "01_Family\\Melania Trump.md",
-      "summary": "﻿# MELANIA TRUMP",
+      "summary": "Wife of Donald Trump. Former First Lady. No direct Epstein connection documented.",
       "connections": {
         "family": [
           {
@@ -662,7 +662,7 @@
       "name": "Tiffany Trump",
       "category": "01_Family",
       "file": "01_Family\\Tiffany Trump.md",
-      "summary": "﻿# TIFFANY TRUMP",
+      "summary": "Daughter of Donald Trump and Marla Maples. No Epstein connection documented.",
       "connections": {
         "family": [
           {
@@ -964,7 +964,7 @@
       "name": "Kristi Noem",
       "category": "03_Cabinet_Admin",
       "file": "03_Cabinet_Admin\\Kristi Noem.md",
-      "summary": "﻿# Kristi Noem",
+      "summary": "Governor of South Dakota. DHS Secretary nominee. No direct Epstein connection documented.",
       "connections": {
         "mentioned": [
           {
@@ -1007,7 +1007,7 @@
       "name": "Matt Gaetz",
       "category": "03_Cabinet_Admin",
       "file": "03_Cabinet_Admin\\Matt Gaetz.md",
-      "summary": "﻿# Matt Gaetz",
+      "summary": "U.S. Representative. DOJ sex trafficking investigation. Named in Epstein-adjacent probe discussions.",
       "connections": {
         "mentioned": [
           {
@@ -1107,7 +1107,7 @@
       "name": "Pete Hegseth",
       "category": "03_Cabinet_Admin",
       "file": "03_Cabinet_Admin\\Pete Hegseth.md",
-      "summary": "﻿# Pete Hegseth",
+      "summary": "Fox News host. Defense Secretary nominee. No direct Epstein connection documented.",
       "connections": {
         "mentioned": [
           {
@@ -1125,7 +1125,7 @@
       "name": "Robert F. Kennedy Jr",
       "category": "03_Cabinet_Admin",
       "file": "03_Cabinet_Admin\\Robert F. Kennedy Jr.md",
-      "summary": "﻿# Robert F. Kennedy Jr",
+      "summary": "HHS Secretary nominee. Environmental attorney. Peripheral Epstein social circle mentions.",
       "connections": {
         "mentioned": [
           {
@@ -1143,7 +1143,7 @@
       "name": "Robert Karem",
       "category": "03_Cabinet_Admin",
       "file": "03_Cabinet_Admin\\Robert Karem.md",
-      "summary": "﻿# Robert Karem",
+      "summary": "Former Assistant Secretary of Defense. Referenced in DOJ oversight context.",
       "connections": {
         "mentioned": [
           {
@@ -1227,7 +1227,7 @@
       "name": "Tulsi Gabbard",
       "category": "03_Cabinet_Admin",
       "file": "03_Cabinet_Admin\\Tulsi Gabbard.md",
-      "summary": "﻿# Tulsi Gabbard",
+      "summary": "Former U.S. Representative. DNI nominee. No direct Epstein connection documented.",
       "connections": {
         "mentioned": [
           {
@@ -1345,7 +1345,7 @@
       "name": "John Thune",
       "category": "04_Campaign_Political",
       "file": "04_Campaign_Political\\John Thune.md",
-      "summary": "﻿# John Thune",
+      "summary": "Senate Republican Leader. No direct Epstein connection. Referenced in political oversight context.",
       "connections": {
         "mentioned": [
           {
@@ -1399,7 +1399,7 @@
       "name": "Paul Ryan",
       "category": "04_Campaign_Political",
       "file": "04_Campaign_Political\\Paul Ryan.md",
-      "summary": "﻿# Paul Ryan",
+      "summary": "Former House Speaker. Referenced in congressional oversight of Epstein case.",
       "connections": {
         "mentioned": [
           {
@@ -1417,7 +1417,7 @@
       "name": "Rick Scott",
       "category": "04_Campaign_Political",
       "file": "04_Campaign_Political\\Rick Scott.md",
-      "summary": "﻿# Rick Scott",
+      "summary": "U.S. Senator from Florida. Governor during Epstein plea deal era. Oversight context.",
       "connections": {
         "mentioned": [
           {
@@ -1435,7 +1435,7 @@
       "name": "Aileen Cannon",
       "category": "05_Legal_Investigations",
       "file": "05_Legal_Investigations\\Aileen Cannon.md",
-      "summary": "﻿# Aileen Cannon",
+      "summary": "Federal judge. Presided over Trump classified documents case. Referenced in judicial oversight context.",
       "connections": {
         "mentioned": [
           {
@@ -1514,7 +1514,7 @@
       "name": "Brad S. Karp",
       "category": "05_Legal_Investigations",
       "file": "05_Legal_Investigations\\Brad S. Karp.md",
-      "summary": "﻿# Brad S. Karp",
+      "summary": "Chairman of Paul, Weiss. Legal representation connected to Epstein-adjacent cases.",
       "connections": {
         "mentioned": [
           {
@@ -1537,7 +1537,7 @@
       "name": "Gonzalo Curiel",
       "category": "05_Legal_Investigations",
       "file": "05_Legal_Investigations\\Gonzalo Curiel.md",
-      "summary": "﻿# Gonzalo Curiel",
+      "summary": "Federal judge. Referenced in legal proceedings context.",
       "connections": {
         "mentioned": [
           {
@@ -1642,7 +1642,7 @@
       "name": "Maurene Comey",
       "category": "05_Legal_Investigations",
       "file": "05_Legal_Investigations\\Maurene Comey.md",
-      "summary": "﻿# Maurene Comey",
+      "summary": "Federal prosecutor (SDNY). Daughter of James Comey. Referenced in Epstein prosecution context.",
       "connections": {
         "mentioned": [
           {
@@ -1695,7 +1695,7 @@
       "name": "Sidney Powell",
       "category": "05_Legal_Investigations",
       "file": "05_Legal_Investigations\\Sidney Powell.md",
-      "summary": "﻿# Sidney Powell",
+      "summary": "Attorney. Referenced in legal network mapping.",
       "connections": {
         "mentioned": [
           {
@@ -1713,7 +1713,7 @@
       "name": "Laura Ingraham",
       "category": "06_Media_Propaganda",
       "file": "06_Media_Propaganda\\Laura Ingraham.md",
-      "summary": "﻿# Laura Ingraham",
+      "summary": "Fox News host. Media coverage of Epstein case referenced in propaganda analysis.",
       "connections": {
         "mentioned": [
           {
@@ -1761,7 +1761,7 @@
       "name": "Rupert Murdoch",
       "category": "06_Media_Propaganda",
       "file": "06_Media_Propaganda\\Rupert Murdoch.md",
-      "summary": "﻿# Rupert Murdoch",
+      "summary": "Media mogul. Fox News/News Corp owner. Media coverage patterns analyzed in Epstein context.",
       "connections": {
         "mentioned": [
           {
@@ -1779,7 +1779,7 @@
       "name": "Sean Hannity",
       "category": "06_Media_Propaganda",
       "file": "06_Media_Propaganda\\Sean Hannity.md",
-      "summary": "﻿# Sean Hannity",
+      "summary": "Fox News host. Media coverage of Epstein case referenced in propaganda analysis.",
       "connections": {
         "mentioned": [
           {
@@ -1802,7 +1802,7 @@
       "name": "Tucker Carlson",
       "category": "06_Media_Propaganda",
       "file": "06_Media_Propaganda\\Tucker Carlson.md",
-      "summary": "﻿# Tucker Carlson",
+      "summary": "Former Fox News host. Media coverage of Epstein case and political commentary analyzed.",
       "connections": {
         "family": [
           {
@@ -1820,7 +1820,7 @@
       "name": "Andrew Farkas",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Andrew Farkas.md",
-      "summary": "﻿# Andrew Farkas",
+      "summary": "Real estate executive. Business connections to Epstein financial network.",
       "connections": {
         "mentioned": [
           {
@@ -1843,7 +1843,7 @@
       "name": "Benjamin Black",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Benjamin Black.md",
-      "summary": "﻿# Benjamin Black",
+      "summary": "Son of Leon Black. Apollo Global Management. Connected through family financial ties.",
       "connections": {
         "family": [
           {
@@ -1873,7 +1873,7 @@
       "name": "Bruce Moskowitz",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Bruce Moskowitz.md",
-      "summary": "﻿# Bruce Moskowitz",
+      "summary": "Florida-based physician. Social circle overlap with Epstein network.",
       "connections": {
         "mentioned": [
           {
@@ -1896,7 +1896,7 @@
       "name": "Carol Lang",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Carol Lang.md",
-      "summary": "﻿# Carol Lang",
+      "summary": "Referenced in Epstein financial network documents.",
       "connections": {
         "mentioned": [
           {
@@ -1914,7 +1914,7 @@
       "name": "Daniel Siad",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Daniel Siad.md",
-      "summary": "﻿# Daniel Siad",
+      "summary": "Referenced in Epstein business network analysis.",
       "connections": {
         "mentioned": [
           {
@@ -2010,7 +2010,7 @@
       "name": "Errol Musk",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Errol Musk.md",
-      "summary": "﻿# Errol Musk",
+      "summary": "Father of Elon Musk. South African engineer. Family context for Musk-Epstein connections.",
       "connections": {
         "mentioned": [
           {
@@ -2345,7 +2345,7 @@
       "name": "Joshua Haldeman",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Joshua Haldeman.md",
-      "summary": "﻿# Joshua Haldeman",
+      "summary": "Grandfather of Elon Musk. Historical family context.",
       "connections": {
         "mentioned": [
           {
@@ -2363,7 +2363,7 @@
       "name": "Kevin Landry",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Kevin Landry.md",
-      "summary": "﻿# Kevin Landry",
+      "summary": "Venture capital executive. Referenced in Epstein financial network.",
       "connections": {
         "mentioned": [
           {
@@ -2386,7 +2386,7 @@
       "name": "Leon David Black",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Leon David Black.md",
-      "summary": "﻿# Leon David Black",
+      "summary": "Apollo Global Management co-founder. Paid Epstein $158M+ in fees. Exposed in victim lawsuits. Tier 6 — Active Collaborator.",
       "connections": {
         "mentioned": [
           {
@@ -2458,7 +2458,7 @@
       "name": "Masha Drokova",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Masha Drokova.md",
-      "summary": "﻿# Masha Drokova",
+      "summary": "Russian-born venture capitalist. Referenced in Epstein international financial network.",
       "connections": {
         "mentioned": [
           {
@@ -2501,7 +2501,7 @@
       "name": "Tony Cuomo",
       "category": "07_Business_Finance",
       "file": "07_Business_Finance\\Tony Cuomo.md",
-      "summary": "﻿# Tony Cuomo",
+      "summary": "Referenced in Epstein business network documents.",
       "connections": {
         "mentioned": [
           {
@@ -2519,7 +2519,7 @@
       "name": "Borge Brende",
       "category": "08_Foreign",
       "file": "08_Foreign\\Borge Brende.md",
-      "summary": "﻿# Borge Brende",
+      "summary": "President of World Economic Forum. Referenced in Epstein international connections.",
       "connections": {
         "mentioned": [
           {
@@ -2591,7 +2591,7 @@
       "name": "Terje Aasland",
       "category": "08_Foreign",
       "file": "08_Foreign\\Terje Aasland.md",
-      "summary": "﻿# Terje Aasland",
+      "summary": "Norwegian politician. Referenced in Epstein foreign connections analysis.",
       "connections": {
         "mentioned": [
           {
@@ -2609,7 +2609,7 @@
       "name": "Viktor Orban",
       "category": "08_Foreign",
       "file": "08_Foreign\\Viktor Orban.md",
-      "summary": "﻿# Viktor Orban",
+      "summary": "Prime Minister of Hungary. Referenced in authoritarian network analysis.",
       "connections": {
         "mentioned": [
           {
@@ -2627,7 +2627,7 @@
       "name": "Vitaly Churkin",
       "category": "08_Foreign",
       "file": "08_Foreign\\Vitaly Churkin.md",
-      "summary": "﻿# Vitaly Churkin",
+      "summary": "Former Russian UN Ambassador (deceased). Referenced in Epstein foreign connections.",
       "connections": {
         "mentioned": [
           {
@@ -2727,7 +2727,7 @@
       "name": "Miles Taylor",
       "category": "09_Opponents_Whistleblowers",
       "file": "09_Opponents_Whistleblowers\\Miles Taylor.md",
-      "summary": "﻿# Miles Taylor",
+      "summary": "Former DHS official. Anonymous Trump critic. Whistleblower context.",
       "connections": {
         "mentioned": [
           {
@@ -2763,7 +2763,7 @@
       "name": "Heather Heyer",
       "category": "10_Victims_Accusers",
       "file": "10_Victims_Accusers\\Heather Heyer.md",
-      "summary": "﻿# Heather Heyer",
+      "summary": "Killed at Charlottesville rally (2017). Referenced in political violence context.",
       "connections": {
         "mentioned": [
           {
@@ -2827,7 +2827,7 @@
       "name": "Susan Bro",
       "category": "10_Victims_Accusers",
       "file": "10_Victims_Accusers\\Susan Bro.md",
-      "summary": "﻿# Susan Bro",
+      "summary": "Mother of Heather Heyer. Activist. Referenced in political violence context.",
       "connections": {
         "mentioned": [
           {
@@ -2845,7 +2845,7 @@
       "name": "Joseph Goebbels",
       "category": "11_Historical_References",
       "file": "11_Historical_References\\Joseph Goebbels.md",
-      "summary": "﻿# Joseph Goebbels",
+      "summary": "Nazi propaganda minister. Historical reference for propaganda analysis methodology.",
       "connections": {
         "mentioned": [
           {
@@ -2863,7 +2863,7 @@
       "name": "Richard Nixon",
       "category": "11_Historical_References",
       "file": "11_Historical_References\\Richard Nixon.md",
-      "summary": "﻿# Richard Nixon",
+      "summary": "37th President. Historical reference for political corruption parallels.",
       "connections": {
         "mentioned": [
           {
