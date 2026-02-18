@@ -6,17 +6,38 @@
     <title>DOJ Takedown Report | Epstein Files Investigation</title>
     <link rel="stylesheet" href="styles.css">
     <style>
+        /* ── Hero ────────────────────────────────────────── */
         .takedown-hero {
-            background: linear-gradient(135deg, #1a0000 0%, #330000 50%, #1a0000 100%);
-            padding: 3rem 2rem;
+            background: linear-gradient(135deg, #3a0a0a 0%, #5a1212 50%, #3a0a0a 100%);
+            padding: 3.5rem 2rem;
             text-align: center;
-            border-bottom: 3px solid #ff3333;
+            border-bottom: 3px solid #a42e1e;
         }
-        .takedown-hero h1 { color: #ff3333; font-size: 2.2rem; margin-bottom: 0.5rem; }
-        .takedown-hero .subtitle { color: #ff9999; font-size: 1.1rem; }
-        .takedown-hero .big-number { font-size: 4rem; font-weight: 900; color: #ff3333; margin: 1rem 0 0.3rem; }
-        .takedown-hero .big-label { color: #ccc; font-size: 1rem; }
+        .takedown-hero h1 {
+            color: #ff6b5a;
+            font-size: 2.2rem;
+            margin-bottom: 0.5rem;
+            letter-spacing: 0.04em;
+        }
+        .takedown-hero .subtitle {
+            color: #e8c8b8;
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .takedown-hero .big-number {
+            font-size: 4.5rem;
+            font-weight: 900;
+            color: #ff5544;
+            margin: 1.2rem 0 0.3rem;
+            letter-spacing: -0.02em;
+        }
+        .takedown-hero .big-label {
+            color: #d8c0b0;
+            font-size: 1rem;
+        }
 
+        /* ── Status Cards ────────────────────────────────── */
         .status-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -26,114 +47,236 @@
             margin: 0 auto;
         }
         .status-card {
-            background: #1a1a2e;
-            border: 1px solid #333;
+            background: linear-gradient(160deg, #fffefb 0%, #fff8ef 100%);
+            border: 2px solid #d8d0c6;
             border-radius: 12px;
             padding: 1.5rem;
             position: relative;
         }
-        .status-card.dead { border-color: #ff3333; }
-        .status-card.dead .status-badge { background: #ff3333; }
-        .status-card.preserved { border-color: #33ff33; }
-        .status-card.preserved .status-badge { background: #33ff33; color: #000; }
+        .status-card.dead {
+            border-color: #c44030;
+            background: linear-gradient(160deg, #fff5f3 0%, #ffe9e4 100%);
+        }
+        .status-card.preserved {
+            border-color: #5a9e5e;
+            background: linear-gradient(160deg, #f4fbf4 0%, #e8f5e6 100%);
+        }
         .status-badge {
             display: inline-block;
-            padding: 0.2rem 0.8rem;
+            padding: 0.25rem 0.9rem;
             border-radius: 20px;
-            font-size: 0.75rem;
-            font-weight: 700;
+            font-size: 0.7rem;
+            font-weight: 800;
             text-transform: uppercase;
+            letter-spacing: 0.08em;
             margin-bottom: 0.5rem;
         }
-        .status-card h3 { color: #eee; margin: 0.5rem 0; font-size: 1.1rem; }
-        .status-card p { color: #999; font-size: 0.9rem; line-height: 1.5; }
-        .status-card .count { color: #ff9999; font-weight: 700; font-size: 1.3rem; }
+        .status-card.dead .status-badge {
+            background: #c44030;
+            color: #fff;
+        }
+        .status-card.preserved .status-badge {
+            background: #3d8b41;
+            color: #fff;
+        }
+        .status-card h3 {
+            color: #2a1d10;
+            margin: 0.5rem 0;
+            font-size: 1.1rem;
+        }
+        .status-card p {
+            color: #5a4e44;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+        .status-card .count {
+            color: #a42e1e;
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+        .status-card.preserved .count {
+            color: #2d6b30;
+        }
+        .status-card code {
+            background: #f0e8dd;
+            color: #8e2f16;
+            padding: 0.15rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.85em;
+        }
 
+        /* ── Main Content ────────────────────────────────── */
         .methodology {
             max-width: 900px;
             margin: 2rem auto;
-            padding: 0 2rem;
+            padding: 0 2rem 2rem;
         }
-        .methodology h2 { color: #ff6666; border-bottom: 1px solid #333; padding-bottom: 0.5rem; }
-        .methodology h3 { color: #ddd; margin-top: 1.5rem; }
-        .methodology p, .methodology li { color: #bbb; line-height: 1.7; }
-        .methodology code { background: #1a1a2e; color: #ff9999; padding: 0.1rem 0.4rem; border-radius: 3px; font-size: 0.9em; }
+        .methodology h2 {
+            color: #8e2f16;
+            border-bottom: 2px solid #d8d0c6;
+            padding-bottom: 0.5rem;
+            margin-top: 2.5rem;
+        }
+        .methodology h3 {
+            color: #2a1d10;
+            margin-top: 1.5rem;
+        }
+        .methodology p,
+        .methodology li {
+            color: #3f342f;
+            line-height: 1.8;
+            font-size: 0.95rem;
+        }
+        .methodology strong {
+            color: #2a1d10;
+        }
+        .methodology code {
+            background: #f0e8dd;
+            color: #8e2f16;
+            padding: 0.15rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.88em;
+            border: 1px solid #e0d5c8;
+        }
+        .methodology ol {
+            padding-left: 1.5rem;
+        }
+        .methodology ol li {
+            margin-bottom: 0.6rem;
+        }
 
+        /* ── Evidence Table ──────────────────────────────── */
         .evidence-table {
             width: 100%;
             border-collapse: collapse;
             margin: 1rem 0;
         }
         .evidence-table th {
-            background: #1a1a2e;
-            color: #ff9999;
-            padding: 0.7rem;
+            background: #3f342f;
+            color: #e8dfd4;
+            padding: 0.75rem 1rem;
             text-align: left;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             text-transform: uppercase;
-            letter-spacing: 0.05em;
+            letter-spacing: 0.06em;
         }
         .evidence-table td {
-            padding: 0.6rem 0.7rem;
-            border-bottom: 1px solid #222;
-            color: #ccc;
+            padding: 0.65rem 1rem;
+            border-bottom: 1px solid #e0d5c8;
+            color: #3f342f;
             font-size: 0.9rem;
         }
-        .evidence-table tr:hover td { background: rgba(255, 51, 51, 0.05); }
-        .tag-dead { color: #ff3333; font-weight: 700; }
-        .tag-alive { color: #33ff33; font-weight: 700; }
+        .evidence-table tr:hover td {
+            background: rgba(164, 46, 30, 0.06);
+        }
+        .tag-dead {
+            color: #c44030;
+            font-weight: 700;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+        }
+        .tag-alive {
+            color: #2d6b30;
+            font-weight: 700;
+        }
 
+        /* ── Spot-Check Terminal ─────────────────────────── */
         .spot-check {
-            background: #0d0d1a;
-            border: 1px solid #333;
+            background: #2b241f;
+            border: 1px solid #4a3f36;
             border-radius: 8px;
             padding: 1.5rem;
             margin: 1.5rem 0;
-            font-family: 'Courier New', monospace;
-            font-size: 0.85rem;
+            font-family: 'Courier New', Consolas, monospace;
+            font-size: 0.82rem;
             overflow-x: auto;
+            line-height: 1.6;
         }
-        .spot-check .line { color: #666; }
-        .spot-check .dead { color: #ff3333; }
-        .spot-check .url { color: #888; }
+        .spot-check .line { color: #8a7e72; }
+        .spot-check .dead { color: #ff6b5a; font-weight: 700; }
+        .spot-check .url  { color: #c8b8a4; }
 
+        /* ── Timeline ────────────────────────────────────── */
         .timeline-item {
             display: flex;
             gap: 1.5rem;
             padding: 1rem 0;
-            border-left: 2px solid #333;
+            border-left: 2px solid #d8d0c6;
             padding-left: 1.5rem;
             position: relative;
         }
         .timeline-item::before {
             content: '';
             position: absolute;
-            left: -6px;
+            left: -7px;
             top: 1.3rem;
-            width: 10px;
-            height: 10px;
+            width: 12px;
+            height: 12px;
             border-radius: 50%;
-            background: #ff3333;
+            background: #a42e1e;
+            border: 2px solid #f1efe9;
         }
-        .timeline-item.current::before { background: #ff3333; box-shadow: 0 0 10px #ff3333; }
-        .timeline-date { color: #ff9999; font-weight: 700; min-width: 120px; font-size: 0.9rem; }
-        .timeline-text { color: #bbb; font-size: 0.9rem; }
+        .timeline-item.current::before {
+            background: #c44030;
+            box-shadow: 0 0 0 4px rgba(196, 64, 48, 0.25);
+        }
+        .timeline-date {
+            color: #8e2f16;
+            font-weight: 700;
+            min-width: 120px;
+            font-size: 0.88rem;
+            background: #f0e8dd;
+            padding: 0.15rem 0.6rem;
+            border-radius: 4px;
+            height: fit-content;
+        }
+        .timeline-text {
+            color: #3f342f;
+            font-size: 0.92rem;
+        }
 
+        /* ── CTA Box ─────────────────────────────────────── */
         .cta-box {
-            background: linear-gradient(135deg, #1a0000, #330000);
-            border: 1px solid #ff3333;
+            background: linear-gradient(135deg, #f5ede3 0%, #efe4d6 100%);
+            border: 2px solid #a42e1e;
             border-radius: 12px;
             padding: 2rem;
             text-align: center;
-            margin: 2rem 0;
+            margin: 2.5rem 0;
         }
-        .cta-box h3 { color: #ff3333; margin-bottom: 0.5rem; }
-        .cta-box p { color: #ccc; margin-bottom: 1rem; }
+        .cta-box h3 {
+            color: #2a1d10;
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+        }
+        .cta-box p {
+            color: #3f342f;
+            margin-bottom: 1rem;
+            line-height: 1.7;
+        }
+        .cta-box .collab-btn-primary {
+            display: inline-block;
+            background: #a42e1e;
+            color: #fff;
+            padding: 0.7rem 1.8rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 700;
+            transition: background 0.2s;
+        }
+        .cta-box .collab-btn-primary:hover {
+            background: #8e2416;
+        }
 
+        /* ── Responsive ──────────────────────────────────── */
         @media (max-width: 600px) {
-            .takedown-hero .big-number { font-size: 2.5rem; }
-            .takedown-hero h1 { font-size: 1.6rem; }
+            .takedown-hero .big-number { font-size: 2.8rem; }
+            .takedown-hero h1 { font-size: 1.5rem; }
             .status-grid { padding: 1rem; gap: 1rem; }
+            .methodology { padding: 0 1rem 1rem; }
+            .timeline-item { flex-direction: column; gap: 0.3rem; }
+            .timeline-date { min-width: auto; }
         }
     </style>
 </head>
@@ -179,13 +322,13 @@
             <span class="status-badge">OFFLINE</span>
             <h3>Dataset ZIP Downloads</h3>
             <p class="count">12 datasets &middot; 900,956 files</p>
-            <p>All ZIP URLs return HTTP 200 but serve HTML age-verification page instead of actual ZIP files</p>
+            <p>All ZIP URLs return HTTP 200 but serve an HTML age-verification page instead of actual ZIP files</p>
         </div>
         <div class="status-card dead">
             <span class="status-badge">OFFLINE</span>
             <h3>Court Record PDFs</h3>
             <p class="count">12,142 individual PDFs</p>
-            <p>All redirect to HTML. 73 court cases across Southern District of NY, Southern District of FL, Florida Circuit Courts</p>
+            <p>All redirect to HTML. 73 court cases across Southern District of NY, Southern District of FL, and Florida Circuit Courts</p>
         </div>
         <div class="status-card dead">
             <span class="status-badge">OFFLINE</span>
@@ -209,16 +352,16 @@
 
     <div class="methodology">
         <h2>What We Found</h2>
-        
+
         <h3>The Entire Library Is Gone</h3>
         <p>This is not a case of selective removal. The DOJ has taken down <strong>every page, every download, and every individual PDF</strong> associated with the Epstein Files Transparency Act release. The main landing page returns a 404 error. Every file URL redirects to a generic age-verification page.</p>
 
         <h3>Deceptive HTTP Responses</h3>
-        <p>The dataset ZIP URLs (<code>justice.gov/epstein/files/DataSet N.zip</code>) still return HTTP status code 200, which normally means "OK &mdash; file available." But the actual content served is an HTML page, not a ZIP file. Any automated monitoring tool checking only status codes would <strong>incorrectly report these files as still available</strong>. We verified this by checking the actual bytes returned &mdash; the first bytes are <code>0a3c2144</code> (HTML), not <code>504b0304</code> (ZIP magic number).</p>
+        <p>The dataset ZIP URLs (<code>justice.gov/epstein/files/DataSet&nbsp;N.zip</code>) still return HTTP status code 200, which normally means &ldquo;OK &mdash; file available.&rdquo; But the actual content served is an HTML page, not a ZIP file. Any automated monitoring tool checking only status codes would <strong>incorrectly report these files as still available</strong>. We verified this by checking the actual bytes returned &mdash; the first bytes are <code>0a3c2144</code> (HTML), not <code>504b0304</code> (ZIP magic number).</p>
 
         <h2>Spot-Check Results</h2>
         <p>We tested 25 randomly-selected PDF URLs against the live DOJ servers:</p>
-        
+
         <div class="spot-check">
             <div><span class="line">[ 1]</span> <span class="dead">DEAD</span> <span class="url">Doe No. 6 v. Epstein (S.D. Fla.)/029.pdf</span></div>
             <div><span class="line">[ 2]</span> <span class="dead">DEAD</span> <span class="url">Giuffre v. Maxwell (S.D.N.Y. 2015)/232-10.pdf</span></div>
@@ -246,7 +389,7 @@
             <div><span class="line">[24]</span> <span class="dead">DEAD</span> <span class="url">Doe v. Epstein (S.D. Fla. 2008)/222.pdf</span></div>
             <div><span class="line">[25]</span> <span class="dead">DEAD</span> <span class="url">Epstein v. Rothstein (Fla. 2009)/296.pdf</span></div>
         </div>
-        <p><strong>Result: 0 out of 25 returned actual PDF content. 25 out of 25 redirected to HTML.</strong></p>
+        <p><strong>Result: 0 out of 25 returned actual PDF content. All 25 redirected to HTML.</strong></p>
 
         <h2>Affected Court Cases (73 total)</h2>
         <table class="evidence-table">
@@ -269,7 +412,7 @@
                 <tr><td>Farmer v. Indyke (S.D.N.Y. 2019)</td><td>147</td><td class="tag-dead">OFFLINE</td></tr>
                 <tr><td>Doe v. Indyke, No. 1:19-cv-08673 (S.D.N.Y. 2019)</td><td>125</td><td class="tag-dead">OFFLINE</td></tr>
                 <tr><td>State of Florida v. Epstein (Fla. 15th Cir. Ct. 2006)</td><td>108</td><td class="tag-dead">OFFLINE</td></tr>
-                <tr><td colspan="3" style="color:#666; font-style:italic;">+ 58 additional cases (2,858 PDFs) &mdash; all OFFLINE</td></tr>
+                <tr><td colspan="3" style="color:#8a7e72; font-style:italic;">+ 58 additional cases (2,858 PDFs) &mdash; all OFFLINE</td></tr>
             </tbody>
         </table>
 
@@ -298,7 +441,7 @@
         <h2>How We Verified This</h2>
         <ol>
             <li><strong>Local inventory:</strong> Counted all 900,956 PDF files across our complete copies of DataSets 1&ndash;12</li>
-            <li><strong>Wayback Machine CDX API:</strong> Queried Internet Archive for every PDF ever archived under <code>justice.gov/multimedia/Court Records/</code> and <code>justice.gov/multimedia/DOJ Disclosures/</code></li>
+            <li><strong>Wayback Machine CDX API:</strong> Queried Internet Archive for every PDF ever archived under <code>justice.gov/multimedia/Court&nbsp;Records/</code> and <code>justice.gov/multimedia/DOJ&nbsp;Disclosures/</code></li>
             <li><strong>Live HTTP verification:</strong> Sent HEAD requests to 25 randomly-selected URLs. Checked Content-Type headers and actual bytes returned.</li>
             <li><strong>ZIP integrity check:</strong> Downloaded first 512 bytes of dataset ZIP URLs. Received HTML (<code>0a3c2144</code>) instead of ZIP magic bytes (<code>504b0304</code>).</li>
         </ol>
@@ -306,7 +449,7 @@
         <div class="cta-box">
             <h3>This data is preserved.</h3>
             <p>We downloaded every dataset before the takedown. 900,956 documents are being analyzed, indexed, and cross-referenced. The DOJ can take down their website, but they cannot take back what has already been released.</p>
-            <p><a href="index.html" class="collab-btn-primary" style="display:inline-block; margin-top:0.5rem;">Return to Investigation Hub</a></p>
+            <p><a class="collab-btn-primary" href="index.html">Return to Investigation Hub</a></p>
         </div>
     </div>
 
