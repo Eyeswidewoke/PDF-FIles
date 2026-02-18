@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-02-12T11:12:15",
-  "total_cast": 148,
+  "total_cast": 147,
   "categories": {
     "01_Family": {
       "label": "Trump Family",
@@ -89,7 +89,7 @@
         "associate",
         "co-conspirator"
       ],
-      "count": 17
+      "count": 15
     },
     "08_Foreign": {
       "label": "Foreign Connections",
@@ -126,7 +126,7 @@
         "victim",
         "survivor"
       ],
-      "count": 6
+      "count": 5
     },
     "11_Historical_References": {
       "label": "Historical References",
@@ -152,7 +152,7 @@
         "acquaintance",
         "ambient"
       ],
-      "count": 51
+      "count": 53
     }
   },
   "members": [
@@ -856,7 +856,8 @@
           "file": "topics\\05-trump-mentions\\extract-trump-raw.md",
           "label": "extract-trump-raw"
         }
-      ]
+      ],
+      "dossier": "bannon.html"
     },
     {
       "slug": "bevino-ice",
@@ -1098,7 +1099,8 @@
         ]
       },
       "connection_count": 1,
-      "topic_mentions": []
+      "topic_mentions": [],
+      "dossier": "bondi.html"
     },
     {
       "slug": "pete-hegseth",
@@ -1276,7 +1278,8 @@
           "file": "topics\\10-redacted-names\\extract-surveillance-raw.md",
           "label": "extract-surveillance-raw"
         }
-      ]
+      ],
+      "dossier": "barr.html"
     },
     {
       "slug": "greg-abbott",
@@ -1954,7 +1957,8 @@
           "file": "topics\\01-names\\extract-musk-ds12.md",
           "label": "extract-musk-ds12"
         }
-      ]
+      ],
+      "dossier": "musk.html"
     },
     {
       "slug": "epstein-redacted-names",
@@ -2022,7 +2026,7 @@
     {
       "slug": "ghislaine-maxwell",
       "name": "Ghislaine Maxwell",
-      "category": "07_Business_Finance",
+      "category": "08_Epstein_Network",
       "file": "07_Business_Finance\\Ghislaine Maxwell.md",
       "summary": "Type: Real",
       "connections": {
@@ -2135,12 +2139,13 @@
           "file": "topics\\10-redacted-names\\extract-telephone-raw.md",
           "label": "extract-telephone-raw"
         }
-      ]
+      ],
+      "dossier": "maxwell.html"
     },
     {
       "slug": "jeffrey-epstein",
       "name": "Jeffrey Epstein",
-      "category": "07_Business_Finance",
+      "category": "08_Epstein_Network",
       "file": "07_Business_Finance\\Jeffrey Epstein.md",
       "summary": "Type: Real",
       "connections": {
@@ -2399,7 +2404,8 @@
       "connection_count": 1,
       "topic_mentions": [],
       "tier": 6,
-      "epstein_tier": "Active Collaborator"
+      "epstein_tier": "Active Collaborator",
+      "dossier": "black.html"
     },
     {
       "slug": "leslie-wexner",
@@ -2444,7 +2450,8 @@
         }
       ],
       "tier": 6,
-      "epstein_tier": "Active Collaborator"
+      "epstein_tier": "Active Collaborator",
+      "dossier": "wexner.html"
     },
     {
       "slug": "masha-drokova",
@@ -2726,24 +2733,6 @@
           {
             "slug": "miles-taylor",
             "name": "Miles Taylor",
-            "mentions": 1
-          }
-        ]
-      },
-      "connection_count": 0,
-      "topic_mentions": []
-    },
-    {
-      "slug": "alex-jeffrey-pretti",
-      "name": "Alex Jeffrey Pretti",
-      "category": "10_Victims_Accusers",
-      "file": "10_Victims_Accusers\\Alex Jeffrey Pretti.md",
-      "summary": "﻿# Alex Jeffrey Pretti",
-      "connections": {
-        "mentioned": [
-          {
-            "slug": "alex-jeffrey-pretti",
-            "name": "Alex Jeffrey Pretti",
             "mentions": 1
           }
         ]
@@ -3541,8 +3530,6 @@
       "elon-musk",
       "epstein-redacted-names",
       "errol-musk",
-      "ghislaine-maxwell",
-      "jeffrey-epstein",
       "joshua-haldeman",
       "kevin-landry",
       "leon-david-black",
@@ -3568,7 +3555,6 @@
       "miles-taylor"
     ],
     "10_Victims_Accusers": [
-      "alex-jeffrey-pretti",
       "e-jean-carroll",
       "heather-heyer",
       "rene-goode",
@@ -3630,7 +3616,9 @@
       "james-comey",
       "merrick-garland",
       "nikki-haley",
-      "lindsey-graham"
+      "lindsey-graham",
+      "ghislaine-maxwell",
+      "jeffrey-epstein"
     ]
   }
 }

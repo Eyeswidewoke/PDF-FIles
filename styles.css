@@ -70,6 +70,166 @@ h1 {
   color: var(--muted);
 }
 
+.hero-tagline {
+  margin: 0.5rem auto 0;
+  font: 700 clamp(1.08rem, 2vw, 1.95rem) var(--sans);
+  letter-spacing: 0.015em;
+  color: #b68d39;
+}
+
+.intro-pdf {
+  margin: 0.75rem auto 0;
+  max-width: 900px;
+  border-radius: 0.85rem;
+  overflow: hidden;
+  border: 1px solid #3f352d;
+  box-shadow:
+    0 12px 34px rgba(38, 24, 16, 0.24),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.intro-pdf-toolbar {
+  display: grid;
+  grid-template-columns: auto auto auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.44rem;
+  padding: 0.42rem 0.62rem;
+  background: linear-gradient(180deg, #3f342f 0%, #2b241f 100%);
+  border-bottom: 1px solid #1d1714;
+  color: #d8c8b2;
+  font: 600 0.68rem var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.035em;
+}
+
+.intro-pdf-dot {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.intro-pdf-dot.dot-red {
+  background: #d66c4c;
+}
+
+.intro-pdf-dot.dot-amber {
+  background: #d2a24a;
+}
+
+.intro-pdf-dot.dot-green {
+  background: #71a674;
+}
+
+.intro-pdf-filename {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  text-align: left;
+}
+
+.intro-pdf-pages {
+  color: #b7a693;
+  white-space: nowrap;
+}
+
+.intro-pdf-page {
+  position: relative;
+  text-align: left;
+  padding: clamp(0.95rem, 2.2vw, 1.5rem) clamp(0.95rem, 2.8vw, 1.7rem);
+  background:
+    repeating-linear-gradient(
+      180deg,
+      transparent 0,
+      transparent 30px,
+      rgba(27, 58, 87, 0.075) 30px,
+      rgba(27, 58, 87, 0.075) 31px
+    ),
+    linear-gradient(180deg, #fffdf8 0%, #f9f3e9 100%);
+  color: #211914;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* Slight left margin line to sell the "document page" look. */
+.intro-pdf-page::before {
+  content: "";
+  position: absolute;
+  left: clamp(0.85rem, 2.4vw, 1.35rem);
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: rgba(164, 46, 30, 0.22);
+  pointer-events: none;
+}
+
+.intro-pdf-page p {
+  margin: 0;
+  padding-left: clamp(0.48rem, 1.2vw, 0.62rem);
+  font-size: clamp(0.95rem, 1.42vw, 1.1rem);
+  line-height: 1.72;
+  color: #231a14;
+  text-wrap: pretty;
+}
+
+.intro-pdf-page p + p {
+  margin-top: 0.6rem;
+}
+
+.intro-pdf-lead {
+  font-weight: 500;
+}
+
+.intro-pdf-emph {
+  color: #a43b1b;
+}
+
+.intro-pdf-stamp {
+  position: absolute;
+  top: 0.85rem;
+  right: 0.95rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 1.6rem;
+  padding: 0.08rem 0.58rem;
+  border: 2px solid rgba(170, 49, 29, 0.5);
+  color: rgba(164, 49, 31, 0.7);
+  border-radius: 0.2rem;
+  font: 700 0.64rem/1 var(--mono);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transform: rotate(-7deg);
+  pointer-events: none;
+}
+
+.intro-pdf-quote {
+  font-style: italic;
+  color: #63574d;
+}
+
+.intro-pdf-foot {
+  font-weight: 500;
+}
+
+.intro-pdf-cta {
+  margin-top: 0.78rem;
+}
+
+.intro-pdf-link {
+  color: #8e2f16;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  font-weight: 700;
+}
+
+.intro-pdf-link:visited,
+.intro-pdf-link:hover,
+.intro-pdf-link:active {
+  color: #8e2f16;
+}
+
 .hero-summary {
   margin: 0.65rem auto 0;
   max-width: 1260px;
@@ -1252,6 +1412,52 @@ button:focus-visible {
 }
 
 @media (max-width: 760px) {
+  .hero-tagline {
+    margin-top: 0.45rem;
+    font-size: clamp(0.98rem, 5vw, 1.22rem);
+  }
+
+  .intro-pdf {
+    margin-top: 0.6rem;
+    border-radius: 0.65rem;
+  }
+
+  .intro-pdf-toolbar {
+    grid-template-columns: auto auto auto minmax(0, 1fr);
+    gap: 0.34rem;
+    padding: 0.38rem 0.46rem;
+  }
+
+  .intro-pdf-pages {
+    grid-column: 1 / -1;
+    justify-self: end;
+    margin-top: 0.08rem;
+    font-size: 0.62rem;
+  }
+
+  .intro-pdf-page {
+    padding: 0.84rem 0.74rem 0.92rem;
+    background-size: 100% 27px, 100% 100%;
+  }
+
+  .intro-pdf-page::before {
+    left: 0.72rem;
+  }
+
+  .intro-pdf-page p {
+    padding-left: 0.42rem;
+    font-size: 0.93rem;
+    line-height: 1.62;
+  }
+
+  .intro-pdf-stamp {
+    top: 0.58rem;
+    right: 0.56rem;
+    min-height: 1.28rem;
+    font-size: 0.56rem;
+    border-width: 1px;
+  }
+
   .hero-summary {
     padding: 0.38rem;
   }

@@ -388,9 +388,69 @@
       font:.75rem var(--mono);
       margin:.15rem 0 0;
     }
+    /* ── Section-group layout ─────────────────────── */
+    .section-group{margin-bottom:1.4rem}
+    .section-header{
+      display:flex;
+      align-items:center;
+      gap:.55rem;
+      padding:.55rem .75rem;
+      border-radius:.55rem;
+      background:rgba(211,93,44,.07);
+      margin-bottom:.6rem;
+      cursor:default;
+    }
+    .section-icon{font-size:1.05rem}
+    .section-label{
+      font:700 .88rem var(--sans);
+      color:var(--text);
+      flex:1;
+    }
+    .section-count{
+      font:600 .72rem var(--mono);
+      color:var(--muted);
+      background:var(--surface-2);
+      border:1px solid var(--border);
+      border-radius:.35rem;
+      padding:.12rem .45rem;
+    }
+    .member-list-inner{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+      gap:.65rem;
+    }
+    /* ── Tier badge ────────────────────────────────── */
+    .tier-badge{
+      display:inline-block;
+      padding:.1rem .42rem;
+      border-radius:.32rem;
+      font:600 .6rem var(--mono);
+      color:#fff;
+      text-transform:uppercase;
+      letter-spacing:.04em;
+      vertical-align:middle;
+      margin-left:.35rem;
+    }
+    /* ── Category badge on cards ───────────────────── */
+    .member-cat-badge{
+      display:inline-flex;
+      align-items:center;
+      gap:.3rem;
+      padding:.12rem .4rem;
+      border-radius:.35rem;
+      font:600 .62rem var(--mono);
+      text-transform:uppercase;
+      letter-spacing:.03em;
+      border:1px solid rgba(211,93,44,.18);
+    }
+    /* ── Anchor buttons (View Profile links) ──────── */
+    a.btn{text-decoration:none;display:inline-block;text-align:center}
+    a.btn:hover{text-decoration:none}
+    a.btn.primary{color:#fff}
+    a.btn.primary:hover{color:#fff;filter:brightness(1.12)}
     @media (max-width:900px){
       .cat-row{grid-template-columns:1fr 1fr 50px}
-      .member-list,.top-grid{grid-template-columns:1fr}
+      .member-list,.top-grid,.member-list-inner{grid-template-columns:1fr}
       .viewer-tools{padding-right:0}
     }
   </style>
@@ -401,7 +461,8 @@
   <header class="hero">
     <h1>CAST HUB</h1>
     <p class="subhead">
-      Full cast directory with category breakdowns, relationship signals, and direct links to cast pages, profiles, and people-email buckets.
+      147 individuals organized by relationship to Epstein &mdash; from the inner circle to political enablers, legal players, and beyond.
+      <br><a href="./complicity-gradient.html" style="color:var(--accent)">View the full Complicity Gradient &rarr;</a>
     </p>
   </header>
 
@@ -418,7 +479,7 @@
     <h2 style="margin-top:1.1rem">Categories</h2>
     <div id="categoryBars" class="cat-bars"></div>
 
-    <h2 style="margin-top:1.1rem">Most Connected Cast</h2>
+    <h2 style="margin-top:1.1rem">Top Tier Individuals</h2>
     <div id="topConnected" class="top-grid"></div>
   </section>
 
@@ -428,10 +489,9 @@
       <input id="memberSearch" type="search" placeholder="Search cast name, category, summary..." />
       <select id="memberCategory"></select>
       <select id="memberSort">
+        <option value="section" selected>Sort: Section</option>
         <option value="name">Sort: Name (A-Z)</option>
-        <option value="connections">Sort: Connection Count</option>
-        <option value="mentions">Sort: Mention Strength</option>
-        <option value="category">Sort: Category</option>
+        <option value="tier">Sort: Tier (Highest)</option>
       </select>
     </div>
     <p id="memberMeta" class="result-meta">-</p>
@@ -484,6 +544,6 @@
     </div>
   </div>
 
-  <script src="./cast-app.js?v=20260218-castsearch1" defer></script>
+  <script src="./cast-app.js?v=20260219-sections1" defer></script>
 </body>
 </html>

@@ -5,1080 +5,268 @@
   const NEIGHBOR_WINDOWS = new Set([1, 2, 5, 10]);
   const DEFAULT_NEIGHBOR_WINDOW = 2;
 
-  const state = {
-    network: null,
-    bundle: null,
-    members: [],
-    edges: [],
-    memberBySlug: new Map(),
-    filteredMembers: [],
-    filteredEdges: [],
-    availablePaths: new Set(),
-    linkMaps: {
-      castPages: new Map(),
-      castProfiles: new Map(),
-      peopleBuckets: new Map(),
-    },
-    viewerPath: "",
-    viewerRequestToken: 0,
-    viewerNeighborWindow: DEFAULT_NEIGHBOR_WINDOW,
-  };
+  const TIER_LABELS = {7:"Co-Conspirator",6:"Active Collaborator",5:"Peripheral Participant",4:"Enabler",3:"Aware",2:"Acquaintance",1:"Ambient"};
+  const TIER_COLORS = {7:"#b71c1c",6:"#c62828",5:"#d84315",4:"#e65100",3:"#ef6c00",2:"#f57f17",1:"#9e9e9e"};
+  const CATEGORY_ORDER = ["08_Epstein_Network","01_Family","02_Inner_Circle","03_Cabinet_Admin","04_Campaign_Political","05_Legal_Investigations","06_Media_Propaganda","07_Business_Finance","08_Foreign","09_Opponents_Whistleblowers","10_Victims_Accusers","11_Historical_References"];
+
+  const state = {network:null,bundle:null,members:[],edges:[],memberBySlug:new Map(),filteredMembers:[],filteredEdges:[],availablePaths:new Set(),linkMaps:{castPages:new Map(),castProfiles:new Map(),peopleBuckets:new Map()},viewerPath:"",viewerRequestToken:0,viewerNeighborWindow:DEFAULT_NEIGHBOR_WINDOW};
 
   const $ = (id) => document.getElementById(id);
 
-  function escapeHtml(input) {
-    return String(input || "")
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#39;");
+  function escapeHtml(s){return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;");}
+  function normalizeKey(s){return String(s||"").replace(/\.md$/i,"").replace(/\s*\(cast page\)$/i,"").replace(/\s*\(people bucket\)$/i,"").replace(/\s+/g," ").replace(/^_+/,"").replace(/[^a-z0-9]+/gi," ").toLowerCase().trim();}
+  function normalizePath(s){return String(s||"").replace(/\\/g,"/").replace(/^\.?\//, "").trim();}
+  function formatNumber(n){return Number(n||0).toLocaleString();}
+  function slugFromName(n){return normalizeKey(n).replace(/\s+/g,"-");}
+  function isExternalHref(h){var v=String(h||"").trim();return/^[a-zA-Z][a-zA-Z0-9+.-]*:/.test(v)||v.startsWith("//");}
+
+  function indexAvailablePaths(){var p=new Set();((state.bundle&&state.bundle.collections)||[]).forEach(function(c){(c.items||[]).forEach(function(i){var pa=normalizePath(i&&i.path);if(pa&&!isExternalHref(pa))p.add(pa);});});state.availablePaths=p;}
+  function firstAvailablePath(){for(var i=0;i<arguments.length;i++){var c=normalizePath(arguments[i]);if(c&&state.availablePaths.has(c))return c;}return"";}
+  function findPathByBasename(p){var c=normalizePath(p);if(!c)return"";var parts=c.split("/"),base=(parts[parts.length-1]||"").toLowerCase();if(!base)return"";var m=[];state.availablePaths.forEach(function(x){var cx=normalizePath(x);if(cx.toLowerCase().endsWith("/"+base)||cx.toLowerCase()===base)m.push(cx);});return m.length===1?m[0]:m.length?m.sort()[0]:"";}
+  function resolveKnownPath(p){var c=normalizePath(p);if(!c)return"";var d=firstAvailablePath(c,c.replace(/^content\/emails\/email-cast-flagged\//i,"content/emails/cast-flagged/"),c.replace(/^content\/emails\/cast-flagged\//i,"content/emails/email-cast-flagged/"));return d||findPathByBasename(c);}
+
+  function sanitizeNeighborWindow(v){var n=Number(v);return NEIGHBOR_WINDOWS.has(n)?n:DEFAULT_NEIGHBOR_WINDOW;}
+  function parseNumberedPath(p){var c=normalizePath(p);if(!c)return null;var parts=c.split("/"),fn=parts.pop()||"",m=fn.match(DOC_ID_PATTERN);if(!m)return null;var id=Number(m[3]);if(!Number.isFinite(id))return null;return{path:c,dir:parts.join("/"),filename:fn,token:m[0],prefix:m[1],separator:m[2]||"",width:m[3].length,id:id};}
+  function buildNeighborPath(parsed,id){if(!parsed||!Number.isFinite(id)||id<=0)return"";var tok=parsed.prefix+parsed.separator+String(id).padStart(parsed.width,"0");return normalizePath((parsed.dir?parsed.dir+"/":"")+parsed.filename.replace(parsed.token,tok));}
+  function collectNeighborTargets(path,ws){var parsed=parseNumberedPath(path);if(!parsed)return[];var seen=new Set(),out=[];for(var d=-ws;d<=ws;d++){var tid=parsed.id+d;if(tid<=0)continue;if(d===0){var ck=normalizePath(parsed.path);if(!seen.has(ck)){seen.add(ck);out.push({delta:0,id:tid,path:parsed.path,attemptedPath:parsed.path});}continue;}var ap=buildNeighborPath(parsed,tid),kn=resolveKnownPath(ap),key=normalizePath(kn||ap);if(!key||seen.has(key))continue;seen.add(key);out.push({delta:d,id:tid,path:kn||"",attemptedPath:ap});}return out;}
+  function neighborDeltaLabel(d){return!Number(d)?"Current":(d>0?"+"+d:String(d));}
+
+  function updateViewerNeighborControls(path){
+    var sel=$("viewerNeighborWindow"),btn=$("viewerNeighborsBtn"),met=$("viewerNeighborMeta");
+    state.viewerPath=normalizePath(path||state.viewerPath||"");
+    state.viewerNeighborWindow=sanitizeNeighborWindow(sel?sel.value:state.viewerNeighborWindow);
+    if(sel)sel.value=String(state.viewerNeighborWindow);
+    if(btn)btn.textContent="Open +/-"+state.viewerNeighborWindow+" neighbors";
+    var parsed=parseNumberedPath(state.viewerPath);
+    if(!parsed){if(btn)btn.disabled=true;if(met)met.textContent=state.viewerPath?"No numeric EFTA/EPSTEIN ID in this file name.":"Open a numbered file to enable nearby context.";return;}
+    var targets=collectNeighborTargets(state.viewerPath,state.viewerNeighborWindow);
+    var avail=targets.filter(function(e){return e.delta!==0&&!!e.path;}).length;
+    if(btn)btn.disabled=false;
+    if(met)met.textContent=avail?"Found "+formatNumber(avail)+" nearby file(s).":"No nearby numbered files for this window.";
   }
 
-  function normalizeKey(input) {
-    return String(input || "")
-      .replace(/\.md$/i, "")
-      .replace(/\s*\(cast page\)$/i, "")
-      .replace(/\s*\(people bucket\)$/i, "")
-      .replace(/\s+/g, " ")
-      .replace(/^_+/, "")
-      .replace(/[^a-z0-9]+/gi, " ")
-      .toLowerCase()
-      .trim();
+  function pathToFetchUrl(p){var c=normalizePath(p);return"./"+c.split("/").map(function(s){try{return encodeURIComponent(decodeURIComponent(s));}catch(_){return encodeURIComponent(s);}}).join("/");}
+  function resolveInternalPath(base,href){var raw=String(href||"").trim();if(!raw||raw.startsWith("#")||isExternalHref(raw))return"";var nh=raw.split("#")[0].split("?")[0];if(!nh)return"";nh=nh.replace(/\\/g,"/").replace(/^(?:\.\/)+/,"");if(nh.startsWith("/"))return normalizePath(nh);if(/^(content|data)\//i.test(nh))return normalizePath(nh);var b=normalizePath(base||""),bd=b.includes("/")?b.slice(0,b.lastIndexOf("/")+1):"";try{var url=new URL(nh,"https://local/"+bd);return normalizePath(decodeURIComponent(url.pathname).replace(/^\/+/,""));}catch(_){return normalizePath(nh);}}
+
+  function categoryLabel(c){var cats=(state.network&&state.network.categories)||{};return(cats[c]&&cats[c].label)||c||"Uncategorized";}
+  function categoryColor(c){var cats=(state.network&&state.network.categories)||{};return(cats[c]&&cats[c].color)||"#555";}
+  function categoryIcon(c){var cats=(state.network&&state.network.categories)||{};return(cats[c]&&cats[c].icon)||"";}
+  function stripSummary(s){var r=String(s||"").replace(/^\uFEFF/,"").replace(/^#+\s*/,"").replace(/\*\*/g,"").replace(/\*/g,"").replace(/`/g,"").trim();if(!r)return"(no summary)";return r.length>240?r.slice(0,237)+"...":r;}
+
+  function collectionItemsByTitle(t){var colls=(state.bundle&&state.bundle.collections)||[];var f=colls.find(function(c){return String(c.title||"").toLowerCase()===String(t).toLowerCase();});return(f&&f.items)||[];}
+
+  function buildLinkMaps(){
+    collectionItemsByTitle("Cast Pages").forEach(function(item){var l=String(item.label||"");if(/^cast-hub\.md$/i.test(l))return;state.linkMaps.castPages.set(normalizeKey(l),normalizePath(item.path));});
+    collectionItemsByTitle("Cast Profiles").forEach(function(item){state.linkMaps.castProfiles.set(normalizeKey(item.label),normalizePath(item.path));});
+    collectionItemsByTitle("People Email Buckets").forEach(function(item){state.linkMaps.peopleBuckets.set(normalizeKey(item.label),normalizePath(item.path));});
   }
 
-  function normalizePath(input) {
-    return String(input || "")
-      .replace(/\\/g, "/")
-      .replace(/^\.?\//, "")
-      .trim();
+  function sumMentions(member){var groups=member.connections||{},total=0;Object.values(groups).forEach(function(arr){(arr||[]).forEach(function(e){if(!e||e.slug===member.slug)return;total+=Number(e.mentions||0);});});return total;}
+
+  function buildMemberRecords(){
+    var members=(state.network&&state.network.members)||[];
+    var records=members.map(function(member){
+      var key=normalizeKey(member.name);
+      var catPfx=String(member.category||"").toLowerCase().replace(/_/g,"-");
+      var pageByCat=catPfx?"content/cast/pages/"+catPfx+"-"+slugFromName(member.name)+".md":"";
+      var pageFB=member.slug?"content/cast/pages/08-epstein-network-"+String(member.slug)+".md":"";
+      var pagePath=firstAvailablePath(state.linkMaps.castPages.get(key),pageByCat,pageFB)||normalizePath(pageByCat||pageFB);
+      var bucketPath=firstAvailablePath(state.linkMaps.peopleBuckets.get(key)||"");
+      return{slug:member.slug,name:member.name,category:member.category,categoryLabel:categoryLabel(member.category),connectionCount:Number(member.connection_count||0),connectionMentions:sumMentions(member),summary:stripSummary(member.summary),pagePath:pagePath,bucketPath:bucketPath,dossier:member.dossier||"",tier:member.tier||0,searchBlob:""};
+    });
+    var used=new Set();
+    records.forEach(function(m,i){var s=String(m.slug||"").trim();if(!s)s="cast-member-"+(i+1);if(used.has(s))s=s+"-"+(i+1);used.add(s);m.slug=s;m.searchBlob=(m.name+" "+m.categoryLabel+" "+m.summary).toLowerCase();});
+    state.members=records;
+    state.memberBySlug=new Map(state.members.map(function(m){return[m.slug,m];}));
   }
 
-  function indexAvailablePaths() {
-    const paths = new Set();
-
-    const collections = (state.bundle && state.bundle.collections) || [];
-    collections.forEach((collection) => {
-      (collection.items || []).forEach((item) => {
-        const path = normalizePath(item && item.path);
-        if (!path) return;
-        if (isExternalHref(path)) return;
-        paths.add(path);
+  function buildEdgeRecords(){
+    var pairMap=new Map();
+    ((state.network&&state.network.members)||[]).forEach(function(member){
+      var groups=member.connections||{};
+      Object.entries(groups).forEach(function(entry){var context=entry[0],list=entry[1];
+        (list||[]).forEach(function(target){if(!target||!target.slug||target.slug===member.slug)return;var pair=[member.slug,target.slug].sort(),key=pair[0]+"||"+pair[1];if(!pairMap.has(key))pairMap.set(key,{aSlug:pair[0],bSlug:pair[1],mentions:0,contexts:new Set()});var rec=pairMap.get(key);rec.mentions+=Number(target.mentions||0);rec.contexts.add(context);});
       });
     });
-
-    state.availablePaths = paths;
+    state.edges=Array.from(pairMap.values()).map(function(e){var a=state.memberBySlug.get(e.aSlug),b=state.memberBySlug.get(e.bSlug);return Object.assign({},e,{aName:(a&&a.name)||e.aSlug,bName:(b&&b.name)||e.bSlug,contexts:Array.from(e.contexts.values()).sort()});}).sort(function(a,b){return b.mentions-a.mentions||a.aName.localeCompare(b.aName);});
   }
 
-  function firstAvailablePath() {
-    for (let i = 0; i < arguments.length; i += 1) {
-      const clean = normalizePath(arguments[i]);
-      if (!clean) continue;
-      if (state.availablePaths.has(clean)) return clean;
-    }
-    return "";
+  /* ── Rendering ───────────────────────────────────── */
+
+  function renderStats(){
+    var cats=(state.network&&state.network.categories)||{};
+    var withDossier=state.members.filter(function(m){return!!m.dossier;}).length;
+    var epNet=state.members.filter(function(m){return m.category==="08_Epstein_Network";}).length;
+    var stats=[["Total Cast",state.members.length],["Sections",Object.keys(cats).length],["Epstein Network",epNet],["Dossier Pages",withDossier],["Connection Pairs",state.edges.length]];
+    $("summaryStats").innerHTML=stats.map(function(s){return'<div class="big-stat"><div class="n">'+formatNumber(s[1])+'</div><div class="l">'+escapeHtml(s[0])+"</div></div>";}).join("");
   }
 
-  function findPathByBasename(path) {
-    const clean = normalizePath(path);
-    if (!clean) return "";
-    const parts = clean.split("/");
-    const base = (parts[parts.length - 1] || "").toLowerCase();
-    if (!base) return "";
-
-    const matches = [];
-    state.availablePaths.forEach((candidate) => {
-      const c = normalizePath(candidate);
-      if (!c) return;
-      if (c.toLowerCase().endsWith("/" + base) || c.toLowerCase() === base) {
-        matches.push(c);
-      }
-    });
-
-    if (!matches.length) return "";
-    if (matches.length === 1) return matches[0];
-
-    if (clean.toLowerCase().includes("/content/emails/cast-flagged/")) {
-      const cast = matches.find((m) => m.toLowerCase().includes("/content/emails/cast-flagged/"));
-      if (cast) return cast;
-    }
-    if (clean.toLowerCase().includes("/content/emails/flagged/")) {
-      const flagged = matches.find((m) => m.toLowerCase().includes("/content/emails/flagged/"));
-      if (flagged) return flagged;
-    }
-    return matches.sort()[0];
+  function renderCategoryBars(){
+    var cats=(state.network&&state.network.categories)||{};
+    var rows=Object.entries(cats).map(function(e){return{code:e[0],label:e[1].label||e[0],count:Number(e[1].count||0),color:e[1].color||"",icon:e[1].icon||""};});
+    rows.sort(function(a,b){return b.count-a.count||a.label.localeCompare(b.label);});
+    var max=Math.max.apply(null,rows.map(function(r){return r.count;}).concat([1]));
+    $("categoryBars").innerHTML=rows.map(function(r){
+      var cs=r.color?"background:"+escapeHtml(r.color):"";
+      return'<div class="cat-row"><span class="cat-name">'+escapeHtml(r.icon+" "+r.label)+'</span><span class="cat-track"><span class="cat-fill" style="width:'+((r.count/max)*100).toFixed(2)+"%;"+cs+'"></span></span><span class="cat-count">'+formatNumber(r.count)+"</span></div>";
+    }).join("");
   }
 
-  function resolveKnownPath(path) {
-    const clean = normalizePath(path);
-    if (!clean) return "";
+  function memberCardHtml(member){
+    var tierBadge=member.tier>0?'<span class="tier-badge" style="background:'+(TIER_COLORS[member.tier]||"#555")+'">Tier '+member.tier+" \u2014 "+escapeHtml(TIER_LABELS[member.tier]||"")+"</span>":"";
+    var catColor=categoryColor(member.category);
+    var dossierUrl=member.dossier?"./"+member.dossier:"";
+    var btns=[];
+    if(dossierUrl)btns.push('<a class="btn primary" href="'+escapeHtml(dossierUrl)+'">View Profile</a>');
+    if(member.pagePath)btns.push('<button class="btn" data-open-path="'+escapeHtml(member.pagePath)+'">Cast Page</button>');
+    if(member.bucketPath)btns.push('<button class="btn" data-open-path="'+escapeHtml(member.bucketPath)+'">Email Bucket</button>');
+    if(!btns.length&&member.pagePath)btns.push('<button class="btn" data-open-path="'+escapeHtml(member.pagePath)+'">Cast Page</button>');
 
-    const variants = [
-      clean,
-      clean.replace(/^content\/emails\/email-cast-flagged\//i, "content/emails/cast-flagged/"),
-      clean.replace(/^content\/emails\/cast-flagged\//i, "content/emails/email-cast-flagged/"),
-      clean.replace(/^content\/emails\/email-flagged\//i, "content/emails/flagged/"),
-      clean.replace(/^content\/emails\/flagged\//i, "content/emails/email-flagged/"),
-    ];
-
-    const direct = firstAvailablePath.apply(null, variants);
-    if (direct) return direct;
-    return findPathByBasename(clean);
+    return'<article class="member-card">'+'<div class="member-name">'+escapeHtml(member.name)+"</div>"+'<div class="member-cat" style="color:'+escapeHtml(catColor)+'">'+escapeHtml(categoryIcon(member.category)+" "+member.categoryLabel)+"</div>"+tierBadge+'<p class="member-summary">'+escapeHtml(member.summary)+"</p>"+'<div class="member-actions">'+btns.join("")+"</div></article>";
   }
 
-  function sanitizeNeighborWindow(value) {
-    const n = Number(value);
-    return NEIGHBOR_WINDOWS.has(n) ? n : DEFAULT_NEIGHBOR_WINDOW;
-  }
-
-  function parseNumberedPath(path) {
-    const clean = normalizePath(path);
-    if (!clean) return null;
-
-    const parts = clean.split("/");
-    const filename = parts.pop() || "";
-    const match = filename.match(DOC_ID_PATTERN);
-    if (!match) return null;
-
-    const id = Number(match[3]);
-    if (!Number.isFinite(id)) return null;
-
-    return {
-      path: clean,
-      dir: parts.join("/"),
-      filename,
-      token: match[0],
-      prefix: match[1],
-      separator: match[2] || "",
-      width: match[3].length,
-      id,
-    };
-  }
-
-  function buildNeighborPath(parsed, id) {
-    if (!parsed || !Number.isFinite(id) || id <= 0) return "";
-    const token = parsed.prefix + parsed.separator + String(id).padStart(parsed.width, "0");
-    const neighborFilename = parsed.filename.replace(parsed.token, token);
-    return normalizePath((parsed.dir ? parsed.dir + "/" : "") + neighborFilename);
-  }
-
-  function collectNeighborTargets(path, windowSize) {
-    const parsed = parseNumberedPath(path);
-    if (!parsed) return [];
-
-    const seen = new Set();
-    const out = [];
-
-    for (let delta = -windowSize; delta <= windowSize; delta += 1) {
-      const targetId = parsed.id + delta;
-      if (targetId <= 0) continue;
-
-      if (delta === 0) {
-        const currentKey = normalizePath(parsed.path);
-        if (!seen.has(currentKey)) {
-          seen.add(currentKey);
-          out.push({
-            delta: 0,
-            id: targetId,
-            path: parsed.path,
-            attemptedPath: parsed.path,
-          });
-        }
-        continue;
-      }
-
-      const attemptedPath = buildNeighborPath(parsed, targetId);
-      const known = resolveKnownPath(attemptedPath);
-      const key = normalizePath(known || attemptedPath);
-      if (!key || seen.has(key)) continue;
-      seen.add(key);
-      out.push({
-        delta,
-        id: targetId,
-        path: known || "",
-        attemptedPath,
-      });
-    }
-
-    return out;
-  }
-
-  function neighborDeltaLabel(delta) {
-    if (!Number(delta)) return "Current";
-    return delta > 0 ? "+" + delta : String(delta);
-  }
-
-  function updateViewerNeighborControls(path) {
-    const select = $("viewerNeighborWindow");
-    const button = $("viewerNeighborsBtn");
-    const meta = $("viewerNeighborMeta");
-
-    state.viewerPath = normalizePath(path || state.viewerPath || "");
-    state.viewerNeighborWindow = sanitizeNeighborWindow(select ? select.value : state.viewerNeighborWindow);
-
-    if (select) {
-      select.value = String(state.viewerNeighborWindow);
-    }
-    if (button) {
-      button.textContent = "Open +/-" + state.viewerNeighborWindow + " neighbors";
-    }
-
-    const parsed = parseNumberedPath(state.viewerPath);
-    if (!parsed) {
-      if (button) button.disabled = true;
-      if (meta) {
-        meta.textContent = state.viewerPath
-          ? "No numeric EFTA/EPSTEIN ID in this file name."
-          : "Open a numbered file to enable nearby context.";
-      }
-      return;
-    }
-
-    const targets = collectNeighborTargets(state.viewerPath, state.viewerNeighborWindow);
-    const availableNeighborCount = targets.filter((entry) => entry.delta !== 0 && !!entry.path).length;
-    if (button) button.disabled = false;
-    if (meta) {
-      meta.textContent = availableNeighborCount
-        ? "Found " + formatNumber(availableNeighborCount) + " nearby file(s) in this bundle."
-        : "No nearby numbered files in this bundle for this window.";
-    }
-  }
-
-  function pathToFetchUrl(path) {
-    const clean = normalizePath(path);
-    return (
-      "./" +
-      clean
-        .split("/")
-        .map((segment) => {
-          try {
-            return encodeURIComponent(decodeURIComponent(segment));
-          } catch (_) {
-            return encodeURIComponent(segment);
-          }
-        })
-        .join("/")
-    );
-  }
-
-  function isExternalHref(href) {
-    const value = String(href || "").trim();
-    return /^[a-zA-Z][a-zA-Z0-9+.-]*:/.test(value) || value.startsWith("//");
-  }
-
-  function resolveInternalPath(basePath, href) {
-    const raw = String(href || "").trim();
-    if (!raw || raw.startsWith("#") || isExternalHref(raw)) return "";
-
-    let noHash = raw.split("#")[0].split("?")[0];
-    if (!noHash) return "";
-
-    noHash = noHash.replace(/\\/g, "/");
-    // Normalize leading dot-slashes so "./content/..." resolves to bundle root.
-    noHash = noHash.replace(/^(?:\.\/)+/, "");
-    if (noHash.startsWith("./")) noHash = noHash.slice(2);
-
-    if (noHash.startsWith("/")) {
-      return normalizePath(noHash);
-    }
-    if (/^(content|data)\//i.test(noHash)) {
-      return normalizePath(noHash);
-    }
-
-    const base = normalizePath(basePath || "");
-    const baseDir = base.includes("/") ? base.slice(0, base.lastIndexOf("/") + 1) : "";
-
-    try {
-      const url = new URL(noHash, "https://local/" + baseDir);
-      return normalizePath(decodeURIComponent(url.pathname).replace(/^\/+/, ""));
-    } catch (_) {
-      return normalizePath(noHash);
-    }
-  }
-
-  function formatNumber(n) {
-    return Number(n || 0).toLocaleString();
-  }
-
-  function categoryLabel(catCode) {
-    const categories = (state.network && state.network.categories) || {};
-    return (categories[catCode] && categories[catCode].label) || catCode || "Uncategorized";
-  }
-
-  function stripSummary(summary) {
-    const raw = String(summary || "")
-      .replace(/^\uFEFF/, "")
-      .replace(/^#+\s*/, "")
-      .replace(/\*\*/g, "")
-      .replace(/\*/g, "")
-      .replace(/`/g, "")
-      .trim();
-    if (!raw) return "(no summary)";
-    return raw.length > 180 ? raw.slice(0, 177) + "..." : raw;
-  }
-
-  function collectionItemsByTitle(title) {
-    const collections = (state.bundle && state.bundle.collections) || [];
-    const found = collections.find((c) => String(c.title || "").toLowerCase() === String(title).toLowerCase());
-    return (found && found.items) || [];
-  }
-
-  function buildLinkMaps() {
-    const castPages = collectionItemsByTitle("Cast Pages");
-    const castProfiles = collectionItemsByTitle("Cast Profiles");
-    const peopleBuckets = collectionItemsByTitle("People Email Buckets");
-
-    castPages.forEach((item) => {
-      const label = String(item.label || "");
-      if (/^cast-hub\.md$/i.test(label)) return;
-      state.linkMaps.castPages.set(normalizeKey(label), normalizePath(item.path));
-    });
-
-    castProfiles.forEach((item) => {
-      state.linkMaps.castProfiles.set(normalizeKey(item.label), normalizePath(item.path));
-    });
-
-    peopleBuckets.forEach((item) => {
-      state.linkMaps.peopleBuckets.set(normalizeKey(item.label), normalizePath(item.path));
+  function populateDirectoryFilters(){
+    var cats=(state.network&&state.network.categories)||{};
+    var sel=$("memberCategory");
+    sel.innerHTML='<option value="">All sections</option>';
+    var ordered=CATEGORY_ORDER.filter(function(c){return cats[c];});
+    var extra=Object.keys(cats).filter(function(c){return CATEGORY_ORDER.indexOf(c)<0;}).sort();
+    ordered.concat(extra).forEach(function(code){
+      var meta=cats[code];
+      var opt=document.createElement("option");
+      opt.value=code;
+      opt.textContent=(meta.icon||"")+" "+(meta.label||code);
+      sel.appendChild(opt);
     });
   }
 
-  function sumMentions(member) {
-    const groups = member.connections || {};
-    let total = 0;
-    Object.values(groups).forEach((arr) => {
-      (arr || []).forEach((edge) => {
-        if (!edge || edge.slug === member.slug) return;
-        total += Number(edge.mentions || 0);
-      });
+  function applyMemberFilters(){
+    var q=String($("memberSearch").value||"").toLowerCase().trim();
+    var cat=String($("memberCategory").value||"");
+    var sort=String($("memberSort").value||"section");
+    var filtered=state.members.filter(function(m){
+      if(cat&&m.category!==cat)return false;
+      if(!q)return true;
+      return m.searchBlob.indexOf(q)>=0;
     });
-    return total;
-  }
-
-  function buildMemberRecords() {
-    const members = (state.network && state.network.members) || [];
-    state.members = members.map((member) => {
-      const key = normalizeKey(member.name);
-      const profileFromMemberFile = member.file
-        ? normalizePath("content/cast/profiles/" + String(member.file).replace(/\\/g, "/"))
-        : "";
-      const profilePath = firstAvailablePath(
-        state.linkMaps.castProfiles.get(key),
-        profileFromMemberFile
-      );
-      const pagePath = firstAvailablePath(
-        state.linkMaps.castPages.get(key),
-        member.slug ? "content/cast/pages/08-epstein-network-" + String(member.slug) + ".md" : ""
-      );
-      const bucketPath = firstAvailablePath(state.linkMaps.peopleBuckets.get(key) || "");
-      const connectionMentions = sumMentions(member);
-      return {
-        slug: member.slug,
-        name: member.name,
-        category: member.category,
-        categoryLabel: categoryLabel(member.category),
-        connectionCount: Number(member.connection_count || 0),
-        connectionMentions,
-        topicMentionCount: Array.isArray(member.topic_mentions) ? member.topic_mentions.length : 0,
-        summary: stripSummary(member.summary),
-        profilePath,
-        pagePath,
-        bucketPath,
-      };
-    });
-    state.memberBySlug = new Map(state.members.map((m) => [m.slug, m]));
-  }
-
-  function buildEdgeRecords() {
-    const pairMap = new Map();
-    const members = (state.network && state.network.members) || [];
-
-    members.forEach((member) => {
-      const groups = member.connections || {};
-      Object.entries(groups).forEach(([context, list]) => {
-        (list || []).forEach((target) => {
-          if (!target || !target.slug || target.slug === member.slug) return;
-          const pair = [member.slug, target.slug].sort();
-          const key = pair[0] + "||" + pair[1];
-          if (!pairMap.has(key)) {
-            pairMap.set(key, {
-              aSlug: pair[0],
-              bSlug: pair[1],
-              mentions: 0,
-              contexts: new Set(),
-            });
-          }
-          const rec = pairMap.get(key);
-          rec.mentions += Number(target.mentions || 0);
-          rec.contexts.add(context);
-        });
-      });
-    });
-
-    state.edges = Array.from(pairMap.values())
-      .map((edge) => {
-        const a = state.memberBySlug.get(edge.aSlug);
-        const b = state.memberBySlug.get(edge.bSlug);
-        return {
-          ...edge,
-          aName: (a && a.name) || edge.aSlug,
-          bName: (b && b.name) || edge.bSlug,
-          contexts: Array.from(edge.contexts.values()).sort(),
-        };
-      })
-      .sort((a, b) => b.mentions - a.mentions || a.aName.localeCompare(b.aName));
-  }
-
-  function renderStats() {
-    const categories = (state.network && state.network.categories) || {};
-    const connected = state.members.filter((m) => m.connectionCount > 0).length;
-    const withPages = state.members.filter((m) => !!m.pagePath).length;
-    const withProfiles = state.members.filter((m) => !!m.profilePath).length;
-    const withBuckets = state.members.filter((m) => !!m.bucketPath).length;
-    const totalMentions = state.edges.reduce((sum, edge) => sum + Number(edge.mentions || 0), 0);
-
-    const stats = [
-      ["Cast Members", state.members.length],
-      ["Categories", Object.keys(categories).length],
-      ["Connection Pairs", state.edges.length],
-      ["Connected Members", connected],
-      ["Total Pair Mentions", totalMentions],
-      ["Cast Pages Linked", withPages],
-      ["Profiles Linked", withProfiles],
-      ["People Buckets Linked", withBuckets],
-    ];
-
-    $("summaryStats").innerHTML = stats
-      .map(
-        ([label, value]) =>
-          '<div class="big-stat"><div class="n">' + formatNumber(value) + '</div><div class="l">' + escapeHtml(label) + "</div></div>"
-      )
-      .join("");
-  }
-
-  function renderCategoryBars() {
-    const categories = (state.network && state.network.categories) || {};
-    const rows = Object.entries(categories).map(([code, meta]) => ({
-      code,
-      label: meta.label || code,
-      count: Number(meta.count || 0),
-      color: meta.color || "",
-    }));
-    rows.sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
-    const max = Math.max(...rows.map((r) => r.count), 1);
-
-    $("categoryBars").innerHTML = rows
-      .map((row) => {
-        const colorStyle = row.color ? "background:" + escapeHtml(row.color) : "";
-        return (
-          '<div class="cat-row">' +
-          '<span class="cat-name">' +
-          escapeHtml(row.label) +
-          "</span>" +
-          '<span class="cat-track"><span class="cat-fill" style="width:' +
-          ((row.count / max) * 100).toFixed(2) +
-          "%;" +
-          colorStyle +
-          '"></span></span>' +
-          '<span class="cat-count">' +
-          formatNumber(row.count) +
-          "</span>" +
-          "</div>"
-        );
-      })
-      .join("");
-  }
-
-  function actionButton(path, text, extraClass) {
-    if (!path) return '<button class="btn" disabled>' + escapeHtml(text) + "</button>";
-    return (
-      '<button class="btn ' +
-      (extraClass || "") +
-      '" data-open-path="' +
-      escapeHtml(path) +
-      '">' +
-      escapeHtml(text) +
-      "</button>"
-    );
-  }
-
-  function memberCardHtml(member) {
-    const tags = [
-      "Connections: " + formatNumber(member.connectionCount),
-      "Mentions: " + formatNumber(member.connectionMentions),
-    ];
-    if (member.topicMentionCount > 0) tags.push("Topic refs: " + formatNumber(member.topicMentionCount));
-
-    return (
-      '<article class="member-card">' +
-      '<div class="member-name">' +
-      escapeHtml(member.name) +
-      "</div>" +
-      '<div class="member-cat">' +
-      escapeHtml(member.categoryLabel) +
-      "</div>" +
-      '<p class="member-summary">' +
-      escapeHtml(member.summary) +
-      "</p>" +
-      '<div class="mini-tags">' +
-      tags.map((tag) => '<span class="chip">' + escapeHtml(tag) + "</span>").join("") +
-      "</div>" +
-      '<div class="member-actions">' +
-      actionButton(member.pagePath, "Open Cast Page", "primary") +
-      actionButton(member.profilePath, "Open Profile", "") +
-      actionButton(member.bucketPath, "Open Email Bucket", "") +
-      '<button class="btn" data-member-focus="' +
-      escapeHtml(member.slug) +
-      '">Focus Connections</button>' +
-      "</div>" +
-      "</article>"
-    );
-  }
-
-  function renderTopConnected() {
-    const top = state.members
-      .slice()
-      .sort((a, b) => b.connectionCount - a.connectionCount || b.connectionMentions - a.connectionMentions || a.name.localeCompare(b.name))
-      .slice(0, 18);
-    $("topConnected").innerHTML = top.map((member) => memberCardHtml(member).replace("member-card", "mini-card")).join("");
-    bindPathButtons($("topConnected"));
-  }
-
-  function populateDirectoryFilters() {
-    const categories = (state.network && state.network.categories) || {};
-    const categorySelect = $("memberCategory");
-    categorySelect.innerHTML = '<option value="">All categories</option>';
-    Object.keys(categories)
-      .sort()
-      .forEach((code) => {
-        const option = document.createElement("option");
-        option.value = code;
-        option.textContent = categories[code].label || code;
-        categorySelect.appendChild(option);
-      });
-  }
-
-  function applyMemberFilters() {
-    const q = String($("memberSearch").value || "").toLowerCase().trim();
-    const cat = String($("memberCategory").value || "");
-    const sort = String($("memberSort").value || "name");
-
-    let filtered = state.members.filter((member) => {
-      if (cat && member.category !== cat) return false;
-      if (!q) return true;
-      const hay = (member.name + " " + member.categoryLabel + " " + member.summary).toLowerCase();
-      return hay.includes(q);
-    });
-
-    if (sort === "connections") {
-      filtered.sort((a, b) => b.connectionCount - a.connectionCount || b.connectionMentions - a.connectionMentions || a.name.localeCompare(b.name));
-    } else if (sort === "mentions") {
-      filtered.sort((a, b) => b.connectionMentions - a.connectionMentions || b.connectionCount - a.connectionCount || a.name.localeCompare(b.name));
-    } else if (sort === "category") {
-      filtered.sort((a, b) => a.categoryLabel.localeCompare(b.categoryLabel) || a.name.localeCompare(b.name));
-    } else {
-      filtered.sort((a, b) => a.name.localeCompare(b.name));
-    }
-
-    state.filteredMembers = filtered;
+    if(sort==="name"){filtered.sort(function(a,b){return a.name.localeCompare(b.name);});}
+    else if(sort==="tier"){filtered.sort(function(a,b){return(b.tier||0)-(a.tier||0)||a.name.localeCompare(b.name);});}
+    else{filtered.sort(function(a,b){var ai=CATEGORY_ORDER.indexOf(a.category),bi=CATEGORY_ORDER.indexOf(b.category);var oa=ai>=0?ai:999,ob=bi>=0?bi:999;if(oa!==ob)return oa-ob;return a.name.localeCompare(b.name);});}
+    state.filteredMembers=filtered;
     renderMemberList();
   }
 
-  function renderMemberList() {
-    $("memberMeta").textContent = formatNumber(state.filteredMembers.length) + " cast member(s) matched";
-    $("memberList").innerHTML = state.filteredMembers.length
-      ? state.filteredMembers.map((member) => memberCardHtml(member)).join("")
-      : '<p class="result-meta">No cast members match this filter.</p>';
-
+  function renderMemberList(){
+    var members=state.filteredMembers;
+    $("memberMeta").textContent=formatNumber(members.length)+" cast member(s)";
+    if(!members.length){$("memberList").innerHTML='<p class="result-meta">No cast members match this filter.</p>';return;}
+    var sort=String($("memberSort").value||"section");
+    if(sort==="section"){
+      var groups=new Map();
+      members.forEach(function(m){var k=m.category;if(!groups.has(k))groups.set(k,[]);groups.get(k).push(m);});
+      var html="";
+      groups.forEach(function(gm,catCode){
+        var icon=categoryIcon(catCode),label=categoryLabel(catCode),color=categoryColor(catCode);
+        html+='<div class="section-group"><div class="section-header" style="border-left:4px solid '+escapeHtml(color)+'">';
+        html+='<span class="section-icon">'+escapeHtml(icon)+'</span>';
+        html+='<span class="section-label">'+escapeHtml(label)+'</span>';
+        html+='<span class="section-count">'+formatNumber(gm.length)+'</span>';
+        html+='</div><div class="member-list-inner">';
+        html+=gm.map(function(m){return memberCardHtml(m);}).join("");
+        html+='</div></div>';
+      });
+      $("memberList").innerHTML=html;
+    }else{
+      $("memberList").innerHTML=members.map(function(m){return memberCardHtml(m);}).join("");
+    }
     bindPathButtons($("memberList"));
-    bindFocusButtons();
   }
 
-  function applyEdgeFilters() {
-    const q = String($("edgeSearch").value || "").toLowerCase().trim();
-    const minMentions = Number($("edgeMin").value || 1);
+  function renderTopConnected(){
+    var top=state.members.filter(function(m){return m.tier>=5;}).sort(function(a,b){return(b.tier||0)-(a.tier||0)||a.name.localeCompare(b.name);}).slice(0,12);
+    if(!top.length)top=state.members.filter(function(m){return m.connectionCount>0;}).sort(function(a,b){return b.connectionCount-a.connectionCount;}).slice(0,12);
+    $("topConnected").innerHTML=top.map(function(m){return memberCardHtml(m);}).join("");
+    bindPathButtons($("topConnected"));
+  }
 
-    const filtered = state.edges.filter((edge) => {
-      if (edge.mentions < minMentions) return false;
-      if (!q) return true;
-      const hay = (edge.aName + " " + edge.bName).toLowerCase();
-      return hay.includes(q);
-    });
-
-    state.filteredEdges = filtered;
+  function applyEdgeFilters(){
+    var q=String($("edgeSearch").value||"").toLowerCase().trim();
+    var min=Number($("edgeMin").value||1);
+    state.filteredEdges=state.edges.filter(function(e){if(e.mentions<min)return false;if(!q)return true;return(e.aName+" "+e.bName).toLowerCase().indexOf(q)>=0;});
     renderEdges();
   }
 
-  function renderEdges() {
-    $("edgeMeta").textContent = formatNumber(state.filteredEdges.length) + " pair(s) matched";
-    $("edgeRows").innerHTML = state.filteredEdges.length
-      ? state.filteredEdges
-          .slice(0, 2000)
-          .map((edge) => {
-            const left = state.memberBySlug.get(edge.aSlug);
-            const right = state.memberBySlug.get(edge.bSlug);
-            const leftPath = (left && left.pagePath) || (left && left.profilePath) || "";
-            const rightPath = (right && right.pagePath) || (right && right.profilePath) || "";
-            return (
-              "<tr>" +
-              '<td><div class="pair">' +
-              escapeHtml(edge.aName) +
-              " + " +
-              escapeHtml(edge.bName) +
-              '</div><div class="contexts">' +
-              escapeHtml(edge.contexts.join(", ")) +
-              "</div></td>" +
-              "<td>" +
-              formatNumber(edge.mentions) +
-              "</td>" +
-              "<td>" +
-              escapeHtml((left && left.categoryLabel) || "-") +
-              " / " +
-              escapeHtml((right && right.categoryLabel) || "-") +
-              "</td>" +
-              "<td>" +
-              (leftPath ? '<button class="btn" data-open-path="' + escapeHtml(leftPath) + '">' + escapeHtml(edge.aName) + "</button>" : "") +
-              (rightPath ? '<button class="btn" data-open-path="' + escapeHtml(rightPath) + '" style="margin-left:.35rem">' + escapeHtml(edge.bName) + "</button>" : "") +
-              "</td>" +
-              "</tr>"
-            );
-          })
-          .join("")
-      : '<tr><td colspan="4" style="color:var(--muted)">No connection pairs match this filter.</td></tr>';
-
-    bindPathButtons($("edgeRows"));
+  function renderEdges(){
+    $("edgeMeta").textContent=formatNumber(state.filteredEdges.length)+" pair(s)";
+    $("edgeRows").innerHTML=state.filteredEdges.length?state.filteredEdges.slice(0,2000).map(function(e){
+      var l=state.memberBySlug.get(e.aSlug),r=state.memberBySlug.get(e.bSlug);
+      var lu=l&&l.dossier?"./"+l.dossier:"",ru=r&&r.dossier?"./"+r.dossier:"";
+      return"<tr><td>"+escapeHtml(e.aName)+" + "+escapeHtml(e.bName)+"</td><td>"+formatNumber(e.mentions)+"</td><td>"+(lu?'<a class="btn" href="'+escapeHtml(lu)+'">'+escapeHtml(e.aName)+"</a> ":escapeHtml(e.aName)+" ")+(ru?'<a class="btn" href="'+escapeHtml(ru)+'">'+escapeHtml(e.bName)+"</a>":escapeHtml(e.bName))+"</td></tr>";
+    }).join(""):'<tr><td colspan="3" style="color:var(--muted)">No pairs match.</td></tr>';
   }
 
-  function bindPathButtons(scope) {
-    if (!scope) return;
-    scope.querySelectorAll("[data-open-path]").forEach((button) => {
-      button.addEventListener("click", () => openDoc(button.getAttribute("data-open-path")));
-    });
+  function bindPathButtons(scope){if(!scope)return;scope.querySelectorAll("[data-open-path]").forEach(function(b){b.addEventListener("click",function(){openDoc(b.getAttribute("data-open-path"));});});}
+  function bindInlineLinks(scope,currentPath){if(!scope)return;scope.querySelectorAll("a[data-inline-link='1']").forEach(function(a){a.addEventListener("click",function(ev){var h=a.getAttribute("href")||"";if(isExternalHref(h))return;var r=resolveInternalPath(currentPath,h);if(!r)return;ev.preventDefault();var k=resolveKnownPath(r);if(k){openDoc(k);return;}showMissingDoc(r);});});}
+  function switchTab(k){document.querySelectorAll(".tab-btn").forEach(function(b){b.classList.toggle("active",b.dataset.tab===k);});document.querySelectorAll(".tab-content").forEach(function(p){p.classList.toggle("active",p.id==="tab-"+k);});}
+  function bindTabs(){document.querySelectorAll(".tab-btn").forEach(function(b){b.addEventListener("click",function(){switchTab(b.dataset.tab);});});}
+
+  /* ── Markdown + Doc viewer ────────────────────────── */
+  function markdownToHtml(input){
+    var src=String(input||"").replace(/\r\n/g,"\n"),lines=src.split("\n"),inCode=false,codeBuf=[],inUl=false,inOl=false,out=[];
+    var closeLists=function(){if(inUl){out.push("</ul>");inUl=false;}if(inOl){out.push("</ol>");inOl=false;}};
+    var inline=function(text){var v=escapeHtml(text),ct=[];v=v.replace(/`([^`]+)`/g,function(_,c){var t="@@C"+ct.length+"@@";ct.push("<code>"+c+"</code>");return t;});v=v.replace(/\*\*([^*\n]+)\*\*/g,"<strong>$1</strong>").replace(/__([^_\n]+)__/g,"<strong>$1</strong>").replace(/~~([^~\n]+)~~/g,"<del>$1</del>").replace(/(^|[^\w])\*([^*\n]+)\*(?!\*)/g,"$1<em>$2</em>").replace(/(^|[^\w])_([^_\n]+)_(?!_)/g,"$1<em>$2</em>").replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,'<a href="$2" data-inline-link="1">$1</a>');return v.replace(/@@C(\d+)@@/g,function(_,i){return ct[Number(i)]||"";});};
+    lines.forEach(function(raw){var line=raw||"";if(line.startsWith("```")){closeLists();if(!inCode){inCode=true;codeBuf=[];}else{out.push("<pre><code>"+escapeHtml(codeBuf.join("\n"))+"</code></pre>");inCode=false;codeBuf=[];}return;}if(inCode){codeBuf.push(line);return;}var h=line.match(/^(#{1,4})\s+(.+)$/);if(h){closeLists();out.push("<h"+h[1].length+">"+inline(h[2])+"</h"+h[1].length+">");return;}var ul=line.match(/^\s*[-*+]\s+(.+)$/);if(ul){if(inOl){out.push("</ol>");inOl=false;}if(!inUl){out.push("<ul>");inUl=true;}out.push("<li>"+inline(ul[1])+"</li>");return;}var ol=line.match(/^\s*\d+\.\s+(.+)$/);if(ol){if(inUl){out.push("</ul>");inUl=false;}if(!inOl){out.push("<ol>");inOl=true;}out.push("<li>"+inline(ol[1])+"</li>");return;}var q=line.match(/^\s*>\s?(.*)$/);if(q){closeLists();out.push("<blockquote>"+inline(q[1])+"</blockquote>");return;}if(!line.trim()){closeLists();return;}closeLists();out.push("<p>"+inline(line)+"</p>");});
+    if(inCode)out.push("<pre><code>"+escapeHtml(codeBuf.join("\n"))+"</code></pre>");closeLists();return out.join("\n");
   }
 
-  function bindInlineLinks(scope, currentPath) {
-    if (!scope) return;
-    scope.querySelectorAll("a[data-inline-link='1']").forEach((anchor) => {
-      anchor.addEventListener("click", (event) => {
-        const href = anchor.getAttribute("href") || "";
-        if (isExternalHref(href)) return;
+  function showMissingDoc(path){var ov=$("viewerOverlay"),bd=$("viewerBody");if(!ov||!bd)return;var c=normalizePath(path);state.viewerPath=c;updateViewerNeighborControls(c);ov.classList.add("open");bd.innerHTML='<p style="color:#ffcf8a">File not in public bundle:<br><code>'+escapeHtml(c)+'</code></p>';}
 
-        const resolved = resolveInternalPath(currentPath, href);
-        if (!resolved) return;
-
-        event.preventDefault();
-        const known = resolveKnownPath(resolved);
-        if (known) {
-          openDoc(known);
-          return;
-        }
-        showMissingDoc(resolved);
-      });
-    });
+  async function openNeighborDocs(){
+    var ov=$("viewerOverlay"),bd=$("viewerBody");if(!ov||!bd)return;
+    var bp=normalizePath(state.viewerPath||""),parsed=parseNumberedPath(bp);if(!parsed){updateViewerNeighborControls(bp);return;}
+    var ws=sanitizeNeighborWindow(state.viewerNeighborWindow);state.viewerNeighborWindow=ws;
+    var targets=collectNeighborTargets(bp,ws);if(!targets.some(function(e){return e.delta!==0&&!!e.path;})){bd.innerHTML='<p style="color:var(--muted)">No nearby files found.</p>';updateViewerNeighborControls(bp);return;}
+    ov.classList.add("open");var rt=++state.viewerRequestToken;bd.innerHTML='<p style="color:var(--muted)">Loading neighbors...</p>';
+    var loaded=await Promise.all(targets.map(async function(entry){if(!entry.path)return Object.assign({},entry,{status:"missing",text:""});try{var r=await fetch(pathToFetchUrl(entry.path),{cache:"no-store"});if(!r.ok)return Object.assign({},entry,{status:"missing",text:""});return Object.assign({},entry,{status:"ok",text:await r.text()});}catch(err){return Object.assign({},entry,{status:"error",text:""});}}));
+    if(rt!==state.viewerRequestToken)return;
+    var html=['<div class="neighbor-pack"><div class="neighbor-pack-head"><button class="btn primary" data-open-path="'+escapeHtml(bp)+'">Back To Current</button></div>'];
+    loaded.forEach(function(entry){html.push('<section class="neighbor-doc"><div class="neighbor-doc-head"><span class="chip">'+escapeHtml(neighborDeltaLabel(entry.delta))+'</span><code>'+escapeHtml(entry.path||entry.attemptedPath||"")+'</code></div>');if(entry.status==="ok")html.push('<div class="neighbor-doc-body">'+markdownToHtml(entry.text)+'</div>');else html.push('<p class="neighbor-doc-note">Not available.</p>');html.push('</section>');});
+    html.push('</div>');bd.innerHTML=html.join("");bindPathButtons(bd);updateViewerNeighborControls(bp);
   }
 
-  function bindFocusButtons() {
-    $("memberList").querySelectorAll("[data-member-focus]").forEach((button) => {
-      button.addEventListener("click", () => {
-        const slug = button.getAttribute("data-member-focus");
-        const member = state.memberBySlug.get(slug);
-        if (!member) return;
-        $("edgeSearch").value = member.name;
-        switchTab("connections");
-        applyEdgeFilters();
-      });
-    });
+  async function openDoc(path){
+    var ov=$("viewerOverlay"),bd=$("viewerBody");if(!ov||!bd)return;
+    var rt=++state.viewerRequestToken,clean=resolveKnownPath(path)||normalizePath(path);
+    state.viewerPath=clean;updateViewerNeighborControls(clean);ov.classList.add("open");bd.innerHTML='<p style="color:var(--muted)">Loading...</p>';
+    try{var resp=await fetch(pathToFetchUrl(clean),{cache:"no-store"});if(rt!==state.viewerRequestToken)return;if(!resp.ok){if(resp.status===404){showMissingDoc(clean);return;}throw new Error("HTTP "+resp.status);}var text=await resp.text();if(rt!==state.viewerRequestToken)return;bd.innerHTML=markdownToHtml(text);bindInlineLinks(bd,clean);}
+    catch(err){if(rt!==state.viewerRequestToken)return;bd.innerHTML='<p style="color:#ff7a7a">Could not load: <code>'+escapeHtml(clean)+"</code></p>";}
   }
 
-  function switchTab(tabKey) {
-    document.querySelectorAll(".tab-btn").forEach((btn) => {
-      btn.classList.toggle("active", btn.dataset.tab === tabKey);
-    });
-    document.querySelectorAll(".tab-content").forEach((panel) => {
-      panel.classList.toggle("active", panel.id === "tab-" + tabKey);
-    });
-  }
+  function closeDoc(){state.viewerRequestToken+=1;$("viewerOverlay").classList.remove("open");}
 
-  function bindTabs() {
-    document.querySelectorAll(".tab-btn").forEach((btn) => {
-      btn.addEventListener("click", () => switchTab(btn.dataset.tab));
-    });
-  }
-
-  function markdownToHtml(input) {
-    const src = String(input || "").replace(/\r\n/g, "\n");
-    const lines = src.split("\n");
-    let inCode = false;
-    let codeBuf = [];
-    let inUl = false;
-    let inOl = false;
-    const out = [];
-
-    const closeLists = () => {
-      if (inUl) {
-        out.push("</ul>");
-        inUl = false;
-      }
-      if (inOl) {
-        out.push("</ol>");
-        inOl = false;
-      }
-    };
-
-    const inline = (text) => {
-      let value = escapeHtml(text);
-      const codeTokens = [];
-      value = value.replace(/`([^`]+)`/g, (_, code) => {
-        const token = "@@CODE" + codeTokens.length + "@@";
-        codeTokens.push("<code>" + code + "</code>");
-        return token;
-      });
-
-      value = value
-        .replace(/\*\*([^*\n]+)\*\*/g, "<strong>$1</strong>")
-        .replace(/__([^_\n]+)__/g, "<strong>$1</strong>")
-        .replace(/~~([^~\n]+)~~/g, "<del>$1</del>")
-        .replace(/(^|[^\w])\*([^*\n]+)\*(?!\*)/g, "$1<em>$2</em>")
-        .replace(/(^|[^\w])_([^_\n]+)_(?!_)/g, "$1<em>$2</em>")
-        .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, '<a href="$2" data-inline-link="1">$1</a>');
-
-      return value.replace(/@@CODE(\d+)@@/g, (_, idx) => codeTokens[Number(idx)] || "");
-    };
-
-    lines.forEach((raw) => {
-      const line = raw || "";
-
-      if (line.startsWith("```")) {
-        closeLists();
-        if (!inCode) {
-          inCode = true;
-          codeBuf = [];
-        } else {
-          out.push("<pre><code>" + escapeHtml(codeBuf.join("\n")) + "</code></pre>");
-          inCode = false;
-          codeBuf = [];
-        }
-        return;
-      }
-
-      if (inCode) {
-        codeBuf.push(line);
-        return;
-      }
-
-      const heading = line.match(/^(#{1,4})\s+(.+)$/);
-      if (heading) {
-        closeLists();
-        const level = heading[1].length;
-        out.push("<h" + level + ">" + inline(heading[2]) + "</h" + level + ">");
-        return;
-      }
-
-      const ul = line.match(/^\s*[-*+]\s+(.+)$/);
-      if (ul) {
-        if (inOl) {
-          out.push("</ol>");
-          inOl = false;
-        }
-        if (!inUl) {
-          out.push("<ul>");
-          inUl = true;
-        }
-        out.push("<li>" + inline(ul[1]) + "</li>");
-        return;
-      }
-
-      const ol = line.match(/^\s*\d+\.\s+(.+)$/);
-      if (ol) {
-        if (inUl) {
-          out.push("</ul>");
-          inUl = false;
-        }
-        if (!inOl) {
-          out.push("<ol>");
-          inOl = true;
-        }
-        out.push("<li>" + inline(ol[1]) + "</li>");
-        return;
-      }
-
-      const quote = line.match(/^\s*>\s?(.*)$/);
-      if (quote) {
-        closeLists();
-        out.push("<blockquote>" + inline(quote[1]) + "</blockquote>");
-        return;
-      }
-
-      if (!line.trim()) {
-        closeLists();
-        return;
-      }
-
-      closeLists();
-      out.push("<p>" + inline(line) + "</p>");
-    });
-
-    if (inCode) {
-      out.push("<pre><code>" + escapeHtml(codeBuf.join("\n")) + "</code></pre>");
-    }
-    closeLists();
-    return out.join("\n");
-  }
-
-  function showMissingDoc(path) {
-    const overlay = $("viewerOverlay");
-    const body = $("viewerBody");
-    if (!overlay || !body) return;
-    const clean = normalizePath(path);
-    state.viewerPath = clean;
-    updateViewerNeighborControls(clean);
-    overlay.classList.add("open");
-    body.innerHTML =
-      '<p style="color:#ffcf8a">File is referenced but not included in this public bundle:<br><code>' +
-      escapeHtml(clean) +
-      "</code></p>" +
-      '<p style="color:var(--muted)">This link exists in source markdown, but the target file was not part of the published subset.</p>';
-  }
-
-  async function openNeighborDocs() {
-    const overlay = $("viewerOverlay");
-    const body = $("viewerBody");
-    if (!overlay || !body) return;
-
-    const basePath = normalizePath(state.viewerPath || "");
-    const parsed = parseNumberedPath(basePath);
-    if (!parsed) {
-      updateViewerNeighborControls(basePath);
-      return;
-    }
-
-    const windowSize = sanitizeNeighborWindow(state.viewerNeighborWindow);
-    state.viewerNeighborWindow = windowSize;
-
-    const targets = collectNeighborTargets(basePath, windowSize);
-    const hasAnyNeighbor = targets.some((entry) => entry.delta !== 0 && !!entry.path);
-    if (!hasAnyNeighbor) {
-      body.innerHTML =
-        '<p style="color:var(--muted)">No nearby numbered files were found in this public bundle for +/-' +
-        escapeHtml(windowSize) +
-        ".</p>";
-      updateViewerNeighborControls(basePath);
-      return;
-    }
-
-    overlay.classList.add("open");
-    const requestToken = ++state.viewerRequestToken;
-    body.innerHTML =
-      '<p style="color:var(--muted)">Loading +/-' +
-      escapeHtml(windowSize) +
-      " neighbors around <code>" +
-      escapeHtml(basePath) +
-      "</code>...</p>";
-
-    const loaded = await Promise.all(
-      targets.map(async (entry) => {
-        if (!entry.path) {
-          return { ...entry, status: "missing", text: "" };
-        }
-        try {
-          const response = await fetch(pathToFetchUrl(entry.path), { cache: "no-store" });
-          if (!response.ok) {
-            return {
-              ...entry,
-              status: response.status === 404 ? "missing" : "error",
-              text: "",
-              error: "HTTP " + response.status,
-            };
-          }
-          const text = await response.text();
-          return { ...entry, status: "ok", text };
-        } catch (err) {
-          return {
-            ...entry,
-            status: "error",
-            text: "",
-            error: err && err.message ? err.message : String(err),
-          };
-        }
-      })
-    );
-
-    if (requestToken !== state.viewerRequestToken) return;
-
-    const html = [];
-    html.push('<div class="neighbor-pack">');
-    html.push('<div class="neighbor-pack-head">');
-    html.push(
-      '<button class="btn primary" data-open-path="' +
-        escapeHtml(basePath) +
-        '">Back To Current Document</button>'
-    );
-    html.push(
-      '<span class="neighbor-pack-meta">Context window +/-' +
-        escapeHtml(windowSize) +
-        " around <code>" +
-        escapeHtml(basePath) +
-        "</code></span>"
-    );
-    html.push("</div>");
-
-    loaded.forEach((entry) => {
-      const headingPath = entry.path || entry.attemptedPath || "";
-      html.push(
-        '<section class="neighbor-doc" data-neighbor-doc-path="' +
-          escapeHtml(entry.path || "") +
-          '">'
-      );
-      html.push('<div class="neighbor-doc-head">');
-      html.push('<span class="chip">Offset ' + escapeHtml(neighborDeltaLabel(entry.delta)) + "</span>");
-      html.push('<span class="neighbor-doc-id">ID ' + escapeHtml(String(entry.id)) + "</span>");
-      html.push('<code>' + escapeHtml(headingPath || "(missing)") + "</code>");
-      if (entry.path) {
-        html.push(
-          '<button class="btn" data-open-path="' + escapeHtml(entry.path) + '">Open Only</button>'
-        );
-      }
-      html.push("</div>");
-
-      if (entry.status === "ok") {
-        html.push('<div class="neighbor-doc-body">');
-        html.push(markdownToHtml(entry.text || ""));
-        html.push("</div>");
-      } else if (entry.status === "missing") {
-        html.push(
-          '<p class="neighbor-doc-note">This adjacent ID is referenced by numbering but is not included in this public bundle.</p>'
-        );
-      } else {
-        html.push(
-          '<p class="neighbor-doc-note">Could not load this adjacent file: ' +
-            escapeHtml(entry.error || "unknown error") +
-            "</p>"
-        );
-      }
-      html.push("</section>");
-    });
-
-    html.push("</div>");
-    body.innerHTML = html.join("");
-    bindPathButtons(body);
-    body.querySelectorAll("[data-neighbor-doc-path]").forEach((section) => {
-      const sectionPath = section.getAttribute("data-neighbor-doc-path") || "";
-      if (!sectionPath) return;
-      bindInlineLinks(section, sectionPath);
-    });
-    updateViewerNeighborControls(basePath);
-  }
-
-  async function openDoc(path) {
-    const overlay = $("viewerOverlay");
-    const body = $("viewerBody");
-    if (!overlay || !body) return;
-
-    const requestToken = ++state.viewerRequestToken;
-    const clean = resolveKnownPath(path) || normalizePath(path);
-    state.viewerPath = clean;
-    updateViewerNeighborControls(clean);
-    overlay.classList.add("open");
-    body.innerHTML = '<p style="color:var(--muted)">Loading ' + escapeHtml(clean) + "...</p>";
-
-    try {
-      const response = await fetch(pathToFetchUrl(clean), { cache: "no-store" });
-      if (requestToken !== state.viewerRequestToken) return;
-      if (!response.ok) {
-        if (response.status === 404) {
-          showMissingDoc(clean);
-          return;
-        }
-        throw new Error("HTTP " + response.status);
-      }
-      const text = await response.text();
-      if (requestToken !== state.viewerRequestToken) return;
-      body.innerHTML = markdownToHtml(text);
-      bindInlineLinks(body, clean);
-    } catch (err) {
-      if (requestToken !== state.viewerRequestToken) return;
-      body.innerHTML =
-        '<p style="color:#ff7a7a">Could not load file: <code>' +
-        escapeHtml(clean) +
-        "</code><br>" +
-        escapeHtml(err && err.message ? err.message : String(err)) +
-        "</p>";
-    }
-  }
-
-  function closeDoc() {
-    state.viewerRequestToken += 1;
-    $("viewerOverlay").classList.remove("open");
-  }
-
-  function bindControls() {
-    $("memberSearch").addEventListener("input", applyMemberFilters);
-    $("memberCategory").addEventListener("change", applyMemberFilters);
-    $("memberSort").addEventListener("change", applyMemberFilters);
-    $("edgeSearch").addEventListener("input", applyEdgeFilters);
-    $("edgeMin").addEventListener("change", applyEdgeFilters);
-
-    const neighborWindow = $("viewerNeighborWindow");
-    if (neighborWindow) {
-      neighborWindow.addEventListener("change", () => {
-        state.viewerNeighborWindow = sanitizeNeighborWindow(neighborWindow.value);
-        updateViewerNeighborControls(state.viewerPath);
-      });
-    }
-
-    const neighborsButton = $("viewerNeighborsBtn");
-    if (neighborsButton) {
-      neighborsButton.addEventListener("click", () => {
-        openNeighborDocs();
-      });
-    }
-
-    const overlay = $("viewerOverlay");
-    overlay.addEventListener("click", (event) => {
-      if (event.target === overlay) closeDoc();
-    });
-
+  function bindControls(){
+    $("memberSearch").addEventListener("input",applyMemberFilters);
+    $("memberCategory").addEventListener("change",applyMemberFilters);
+    $("memberSort").addEventListener("change",applyMemberFilters);
+    $("edgeSearch").addEventListener("input",applyEdgeFilters);
+    $("edgeMin").addEventListener("change",applyEdgeFilters);
+    var nw=$("viewerNeighborWindow");if(nw)nw.addEventListener("change",function(){state.viewerNeighborWindow=sanitizeNeighborWindow(nw.value);updateViewerNeighborControls(state.viewerPath);});
+    var nb=$("viewerNeighborsBtn");if(nb)nb.addEventListener("click",function(){openNeighborDocs();});
+    var ov=$("viewerOverlay");ov.addEventListener("click",function(e){if(e.target===ov)closeDoc();});
     updateViewerNeighborControls("");
   }
 
-  async function loadData() {
-    const [networkResp, bundleResp] = await Promise.all([
-      fetch("./content/cast/cast-network.json", { cache: "no-store" }),
-      fetch("./data/public-data.json", { cache: "no-store" }),
-    ]);
-
-    if (!networkResp.ok) throw new Error("Failed to load cast network JSON");
-    if (!bundleResp.ok) throw new Error("Failed to load public-data JSON");
-
-    state.network = await networkResp.json();
-    state.bundle = await bundleResp.json();
-    indexAvailablePaths();
+  async function loadData(){
+    var[nr,br]=await Promise.all([fetch("./content/cast/cast-network.json",{cache:"no-store"}),fetch("./data/public-data.json",{cache:"no-store"})]);
+    if(!nr.ok)throw new Error("Failed to load cast network");if(!br.ok)throw new Error("Failed to load public-data");
+    state.network=await nr.json();state.bundle=await br.json();indexAvailablePaths();
   }
 
-  async function boot() {
-    try {
-      await loadData();
-      buildLinkMaps();
-      buildMemberRecords();
-      buildEdgeRecords();
-      bindTabs();
-      bindControls();
-      populateDirectoryFilters();
-      renderStats();
-      renderCategoryBars();
-      renderTopConnected();
-      applyMemberFilters();
-      applyEdgeFilters();
-    } catch (err) {
-      document.body.innerHTML +=
-        '<p style="padding:1rem;color:#ff7a7a;text-align:center">Failed to load CAST hub data: ' +
-        escapeHtml(err && err.message ? err.message : String(err)) +
-        "</p>";
-    }
+  async function boot(){
+    try{await loadData();buildLinkMaps();buildMemberRecords();buildEdgeRecords();bindTabs();bindControls();populateDirectoryFilters();renderStats();renderCategoryBars();renderTopConnected();applyMemberFilters();applyEdgeFilters();}
+    catch(err){document.body.innerHTML+='<p style="padding:1rem;color:#ff7a7a;text-align:center">Failed to load: '+escapeHtml(String(err))+"</p>";}
   }
 
-  window.openDoc = openDoc;
-  window.closeDoc = closeDoc;
-
-  document.addEventListener("DOMContentLoaded", boot);
+  window.openDoc=openDoc;window.closeDoc=closeDoc;
+  document.addEventListener("DOMContentLoaded",boot);
 })();
