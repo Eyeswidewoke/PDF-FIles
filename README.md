@@ -5,7 +5,7 @@
 [![Live Site](https://img.shields.io/badge/🔴_LIVE-eyeswidewoke.github.io%2FPDF--FIles-c62828?style=for-the-badge)](https://eyeswidewoke.github.io/PDF-FIles/)
 [![Documents](https://img.shields.io/badge/documents-900%2C000%2B-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
 [![Words Indexed](https://img.shields.io/badge/words-343_million-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
-[![Key Figures](https://img.shields.io/badge/key_figures-99-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
+[![Key Figures](https://img.shields.io/badge/key_figures-148-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue?style=flat-square)](./LICENSE)
 
 ---
@@ -19,7 +19,7 @@ On January 9, 2025, the U.S. Department of Justice unsealed over **900,000 offic
 
 Most people will never read them. They were released as raw, unsearchable PDFs — thousands of files buried across 12 separate datasets. That's by design.
 
-**THE PDF FILES** is an independent, open-source project that has extracted, indexed, and cross-referenced every document in the official DOJ release. **343 million words** have been parsed. **99 key figures** are tracked across every mention. Every page is searchable. Nothing has been altered. Nothing has been hidden.
+**THE PDF FILES** is an independent, open-source project that has extracted, indexed, and cross-referenced every document in the official DOJ release. **343 million words** have been parsed. **148 key figures** are tracked across every mention. Every page is searchable. Nothing has been altered. Nothing has been hidden.
 
 > *"Sunlight is the best disinfectant."* — U.S. Supreme Court Justice Louis Brandeis
 
@@ -34,12 +34,12 @@ Most people will never read them. They were released as raw, unsearchable PDFs �
 | 📄 Official DOJ documents | **900,000+** |
 | 📄 Total pages across all documents | **3,000,000+** |
 | 📝 Words indexed | **343 million** |
-| 📁 Searchable artifacts | **58,999** |
+| 📁 Searchable artifacts | **59,140** |
 | 📦 DOJ datasets processed | **12** |
-| 👤 Key figures tracked | **99** |
+| 👤 Key figures tracked | **148** |
 | 🖼️ Gallery images classified | **682** |
 | ⏱️ Timeline events mapped | **51** |
-| 📋 Cast profiles built | **98** |
+| 📋 Cast profiles built | **152** |
 
 ---
 
@@ -48,7 +48,7 @@ Most people will never read them. They were released as raw, unsearchable PDFs �
 - ✈️ **Flight log connections mapped** — every Lolita Express passenger cross-referenced across all 12 datasets with date, route, and co-passenger data
 - 💰 **Financial transactions traced** — wire transfers, trust structures, shell companies, and payment flows indexed from DOJ financial exhibits
 - 📑 **400,000+ previously unsearchable pages surfaced** — deep sweep OCR recovered text from blank-flagged and image-only PDFs that standard extraction missed
-- 🕸️ **Inner circle network reconstructed** — 99 key figures mapped by role, document frequency, and connection strength across the full corpus
+- 🕸️ **Inner circle network reconstructed** — 148 key figures mapped by role, document frequency, and connection strength across the full corpus
 
 ---
 
@@ -74,7 +74,7 @@ Most people will never read them. They were released as raw, unsearchable PDFs �
 index.html              Main entry point
 search.html             Cross-site search UI
 release-guide.html      Release/package orientation
-cast.html               98 key-figure profile pages
+cast.html               148 key-figure profile pages
 content/                Source-linked markdown artifacts
 data/public-data.json   Dataset and mirror link definitions
 findings/               Investigation markdown reports
