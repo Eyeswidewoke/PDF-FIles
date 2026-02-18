@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20260217-mobile" />
+  <link rel="stylesheet" href="./styles.css?v=20260218-sticky" />
   <style>
     .search-filter-grid {
       display: grid;
@@ -94,13 +94,28 @@
         grid-column: span 8;
       }
 
+      /* Viewer sits in a full-height grid cell so sticky works */
       .viewer-panel {
         grid-column: span 4;
-        align-self: start;
+        /* Remove panel background/border from the stretchy cell */
+        background: none;
+        border: none;
+        box-shadow: none;
+        padding: 0;
+        border-radius: 0;
+      }
+
+      /* Inner sticky wrapper keeps viewer visible while scrolling */
+      .viewer-panel .viewer-inner {
         position: sticky;
         top: 0.9rem;
         max-height: calc(100vh - 1.8rem);
         overflow: auto;
+        background: var(--panel);
+        border: 1px solid var(--border);
+        border-radius: 0.9rem;
+        box-shadow: var(--shadow);
+        padding: 0.9rem;
       }
     }
 
@@ -108,12 +123,6 @@
       .explorer-panel,
       .viewer-panel {
         grid-column: 1 / -1;
-      }
-
-      .viewer-panel {
-        position: static;
-        max-height: none;
-        overflow: visible;
       }
     }
 
@@ -198,18 +207,20 @@
     </section>
 
     <section id="viewerPanel" class="panel viewer-panel" hidden>
-      <div class="viewer-head">
-        <h2 id="viewerTitle">File Viewer</h2>
-        <button id="closeViewerBtn" class="ghost-btn" type="button">Close Viewer</button>
+      <div class="viewer-inner">
+        <div class="viewer-head">
+          <h2 id="viewerTitle">File Viewer</h2>
+          <button id="closeViewerBtn" class="ghost-btn" type="button">Close Viewer</button>
+        </div>
+        <p id="viewerMeta" class="result-meta">-</p>
+        <article id="viewerMarkdown" class="viewer-markdown" hidden></article>
+        <pre id="viewerText" class="viewer-text" hidden></pre>
+        <img id="viewerImage" class="viewer-image" alt="Viewer image content" hidden />
+        <iframe id="viewerFrame" class="viewer-frame" title="Embedded file viewer" hidden></iframe>
       </div>
-      <p id="viewerMeta" class="result-meta">-</p>
-      <article id="viewerMarkdown" class="viewer-markdown" hidden></article>
-      <pre id="viewerText" class="viewer-text" hidden></pre>
-      <img id="viewerImage" class="viewer-image" alt="Viewer image content" hidden />
-      <iframe id="viewerFrame" class="viewer-frame" title="Embedded file viewer" hidden></iframe>
     </section>
   </main>
 
-  <script src="./search-app.js?v=20260218-viewerpane" defer></script>
+  <script src="./search-app.js?v=20260218-sticky" defer></script>
 </body>
 </html>
