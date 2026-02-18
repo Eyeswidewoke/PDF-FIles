@@ -957,7 +957,8 @@
         ]
       },
       "connection_count": 5,
-      "topic_mentions": []
+      "topic_mentions": [],
+      "dossier": "patel.html"
     },
     {
       "slug": "kristi-noem",
@@ -3446,7 +3447,32 @@
       "connections": {},
       "connection_count": 0,
       "topic_mentions": [],
-      "tier": 1
+      "tier": 1,
+      "dossier": "graham.html"
+    },
+    {
+      "slug": "clarence-thomas",
+      "name": "Clarence Thomas",
+      "category": "05_Legal_Investigations",
+      "file": "05_Legal_Investigations\\Clarence Thomas.md",
+      "summary": "Supreme Court Justice. Named by a victim/witness in Epstein case depositions. Swore in AG Pam Bondi.",
+      "connections": {
+        "mentioned": [
+          {
+            "slug": "pam-bondi",
+            "name": "Pam Bondi",
+            "mentions": 1
+          },
+          {
+            "slug": "donald-trump",
+            "name": "Donald Trump",
+            "mentions": 1
+          }
+        ]
+      },
+      "connection_count": 2,
+      "topic_mentions": [],
+      "dossier": "thomas.html"
     }
   ],
   "by_category": {
