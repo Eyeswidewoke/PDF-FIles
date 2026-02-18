@@ -151,22 +151,21 @@
       font:.74rem var(--mono);
     }
     .member-list{
-      display:grid;
-      grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
-      gap:.6rem;
+      display:flex;
+      flex-direction:column;
+      gap:.8rem;
     }
     .member-card{
       background:var(--surface);
       border:1px solid var(--border);
-      border-radius:.6rem;
-      padding:.7rem .75rem;
+      border-radius:.55rem;
+      padding:.65rem .7rem;
       display:flex;
       flex-direction:column;
-      gap:.3rem;
+      gap:.25rem;
       border-left:3px solid var(--accent);
-      aspect-ratio:1/1;
+      height:200px;
       overflow:hidden;
-      justify-content:space-between;
     }
     .member-name{font:700 .85rem var(--sans);color:var(--text);line-height:1.2}
     .member-cat{font:.6rem var(--mono);color:var(--accent-2);text-transform:uppercase;letter-spacing:.04em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
@@ -427,8 +426,8 @@
     }
     .member-list-inner{
       display:grid;
-      grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
-      gap:.6rem;
+      grid-template-columns:repeat(auto-fill,minmax(240px,1fr));
+      gap:.55rem;
     }
     /* ── Tier badge ────────────────────────────────── */
     .tier-badge{
@@ -464,12 +463,12 @@
     a.btn.primary:hover{color:#fff;filter:brightness(1.12)}
     @media (max-width:900px){
       .cat-row{grid-template-columns:1fr 1fr 50px}
-      .member-list,.top-grid,.member-list-inner{grid-template-columns:repeat(2,1fr)}
+      .top-grid,.member-list-inner{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
       .viewer-tools{padding-right:0}
     }
     @media (max-width:560px){
-      .member-list,.top-grid,.member-list-inner{grid-template-columns:1fr}
-      .member-card{aspect-ratio:auto;min-height:180px}
+      .top-grid,.member-list-inner{grid-template-columns:1fr}
+      .member-card{height:auto;min-height:160px}
     }
   </style>
 </head>
@@ -562,6 +561,6 @@
     </div>
   </div>
 
-  <script src="./cast-app.js?v=20260219-squaregrid1" defer></script>
+  <script src="./cast-app.js?v=20260219-fixgrid2" defer></script>
 </body>
 </html>

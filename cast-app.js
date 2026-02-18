@@ -177,7 +177,7 @@
       });
       $("memberList").innerHTML=html;
     }else{
-      $("memberList").innerHTML=members.map(function(m){return memberCardHtml(m);}).join("");
+      $("memberList").innerHTML='<div class="member-list-inner">'+members.map(function(m){return memberCardHtml(m);}).join("")+'</div>';
     }
     bindPathButtons($("memberList"));
   }
