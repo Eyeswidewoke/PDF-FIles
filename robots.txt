@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# No sitemap yet — static site with client-side navigation
-# Sitemap: https://OWNER.github.io/REPO/sitemap.xml
+# No sitemap published for this static build.

@@ -4,7 +4,6 @@
   const state = {
     network: null,
     bundle: null,
-    manifest: null,
     members: [],
     edges: [],
     memberBySlug: new Map(),
@@ -59,13 +58,6 @@
         if (isExternalHref(path)) return;
         paths.add(path);
       });
-    });
-
-    const manifestFiles = (state.manifest && state.manifest.files) || [];
-    manifestFiles.forEach((entry) => {
-      const path = normalizePath(entry && entry.path);
-      if (!path) return;
-      paths.add(path);
     });
 
     state.availablePaths = paths;
@@ -730,14 +722,15 @@
     overlay.classList.add("open");
     body.innerHTML = '<p style="color:var(--muted)">Loading ' + escapeHtml(clean) + "...</p>";
 
-    if (!state.availablePaths.has(clean) && !isExternalHref(clean)) {
-      showMissingDoc(clean);
-      return;
-    }
-
     try {
       const response = await fetch(pathToFetchUrl(clean), { cache: "no-store" });
-      if (!response.ok) throw new Error("HTTP " + response.status);
+      if (!response.ok) {
+        if (response.status === 404) {
+          showMissingDoc(clean);
+          return;
+        }
+        throw new Error("HTTP " + response.status);
+      }
       const text = await response.text();
       body.innerHTML = markdownToHtml(text);
       bindInlineLinks(body, clean);
@@ -769,10 +762,9 @@
   }
 
   async function loadData() {
-    const [networkResp, bundleResp, manifestResp] = await Promise.all([
+    const [networkResp, bundleResp] = await Promise.all([
       fetch("./content/cast/cast-network.json", { cache: "no-store" }),
       fetch("./data/public-data.json", { cache: "no-store" }),
-      fetch("./MANIFEST.json", { cache: "no-store" }).catch(() => null),
     ]);
 
     if (!networkResp.ok) throw new Error("Failed to load cast network JSON");
@@ -780,7 +772,6 @@
 
     state.network = await networkResp.json();
     state.bundle = await bundleResp.json();
-    state.manifest = manifestResp && manifestResp.ok ? await manifestResp.json() : null;
     indexAvailablePaths();
   }
 
