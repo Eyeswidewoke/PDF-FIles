@@ -1607,3 +1607,73 @@ button:focus-visible {
 .site-footer p {
   margin: 0.25rem 0;
 }
+
+/* ── Collaboration banner ────────────────────────── */
+.collab-banner {
+  margin: 1.5rem auto;
+  max-width: 720px;
+  background: linear-gradient(135deg, #1a2a1a 0%, #0f1a0f 100%);
+  border: 2px solid #2e7d32;
+  border-radius: 12px;
+  padding: 1.5rem 2rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.collab-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at top, rgba(46,125,50,0.15), transparent 70%);
+  pointer-events: none;
+}
+.collab-banner-icon {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.collab-banner h3 {
+  color: #66bb6a;
+  font-size: 1.1rem;
+  margin: 0 0 0.5rem;
+  letter-spacing: 0.03em;
+}
+.collab-banner p {
+  color: #c8e6c9;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  margin: 0.4rem 0;
+}
+.collab-banner .collab-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.collab-banner .collab-btn {
+  display: inline-block;
+  padding: 0.5rem 1.2rem;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.collab-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+.collab-btn-primary {
+  background: #2e7d32;
+  color: #fff;
+}
+.collab-btn-secondary {
+  background: #1b5e20;
+  color: #c8e6c9;
+}
+.collab-btn-outline {
+  background: transparent;
+  color: #66bb6a;
+  border: 1px solid #2e7d32;
+}
