@@ -257,6 +257,32 @@
       font:600 .75rem var(--mono);
     }
     .viewer-close:hover{color:var(--accent);border-color:var(--accent)}
+    .viewer-tools{
+      margin-top:.1rem;
+      padding-right:6.5rem;
+      display:flex;
+      flex-wrap:wrap;
+      align-items:center;
+      gap:.4rem;
+    }
+    .viewer-tools label{
+      color:var(--muted);
+      font:600 .68rem var(--mono);
+      text-transform:uppercase;
+      letter-spacing:.04em;
+    }
+    .viewer-tools select{
+      background:var(--surface-2);
+      border:1px solid var(--border);
+      color:var(--text);
+      border-radius:.45rem;
+      padding:.28rem .45rem;
+      font:.72rem var(--mono);
+    }
+    .viewer-neighbor-meta{
+      color:var(--muted);
+      font:.68rem var(--mono);
+    }
     .viewer-body{
       margin-top:1rem;
       font:.82rem/1.62 var(--sans);
@@ -311,9 +337,61 @@
       font-size:.74rem;
     }
     .viewer-body th{background:rgba(211,93,44,.12);color:var(--accent-2)}
+    .neighbor-pack{
+      display:flex;
+      flex-direction:column;
+      gap:.7rem;
+    }
+    .neighbor-pack-head{
+      display:flex;
+      flex-wrap:wrap;
+      gap:.5rem;
+      align-items:center;
+      padding:.45rem .55rem;
+      border:1px solid var(--border);
+      border-radius:.5rem;
+      background:rgba(211,93,44,.08);
+    }
+    .neighbor-pack-meta{
+      color:var(--muted);
+      font:.7rem var(--mono);
+    }
+    .neighbor-doc{
+      border:1px solid var(--border);
+      border-radius:.6rem;
+      padding:.6rem .7rem;
+      background:#121822;
+    }
+    .neighbor-doc-head{
+      display:flex;
+      flex-wrap:wrap;
+      align-items:center;
+      gap:.35rem;
+      margin-bottom:.45rem;
+    }
+    .neighbor-doc-id{
+      color:var(--accent-2);
+      font:600 .68rem var(--mono);
+      text-transform:uppercase;
+      letter-spacing:.03em;
+    }
+    .neighbor-doc-head code{
+      flex:1;
+      min-width:220px;
+    }
+    .neighbor-doc-body{
+      border-top:1px solid var(--border);
+      padding-top:.5rem;
+    }
+    .neighbor-doc-note{
+      color:var(--muted);
+      font:.75rem var(--mono);
+      margin:.15rem 0 0;
+    }
     @media (max-width:900px){
       .cat-row{grid-template-columns:1fr 1fr 50px}
       .member-list,.top-grid{grid-template-columns:1fr}
+      .viewer-tools{padding-right:0}
     }
   </style>
 </head>
@@ -391,10 +469,21 @@
   <div id="viewerOverlay" class="viewer-overlay">
     <div class="viewer-box">
       <button class="viewer-close" type="button" onclick="closeDoc()">Close</button>
+      <div class="viewer-tools">
+        <label for="viewerNeighborWindow">Nearby IDs</label>
+        <select id="viewerNeighborWindow">
+          <option value="1">+/-1</option>
+          <option value="2" selected>+/-2</option>
+          <option value="5">+/-5</option>
+          <option value="10">+/-10</option>
+        </select>
+        <button id="viewerNeighborsBtn" class="btn" type="button" disabled>Open +/-2 neighbors</button>
+        <span id="viewerNeighborMeta" class="viewer-neighbor-meta">Open a numbered file to enable nearby context.</span>
+      </div>
       <div id="viewerBody" class="viewer-body"></div>
     </div>
   </div>
 
-  <script src="./cast-app.js?v=20260216-linkguard" defer></script>
+  <script src="./cast-app.js?v=20260218-neighbors1" defer></script>
 </body>
 </html>

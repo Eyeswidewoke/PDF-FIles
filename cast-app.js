@@ -1,6 +1,10 @@
 (function () {
   "use strict";
 
+  const DOC_ID_PATTERN = /(EFTA|EPSTEIN)(-?)(\d{4,})/i;
+  const NEIGHBOR_WINDOWS = new Set([1, 2, 5, 10]);
+  const DEFAULT_NEIGHBOR_WINDOW = 2;
+
   const state = {
     network: null,
     bundle: null,
@@ -15,6 +19,9 @@
       castProfiles: new Map(),
       peopleBuckets: new Map(),
     },
+    viewerPath: "",
+    viewerRequestToken: 0,
+    viewerNeighborWindow: DEFAULT_NEIGHBOR_WINDOW,
   };
 
   const $ = (id) => document.getElementById(id);
@@ -117,6 +124,124 @@
     const direct = firstAvailablePath.apply(null, variants);
     if (direct) return direct;
     return findPathByBasename(clean);
+  }
+
+  function sanitizeNeighborWindow(value) {
+    const n = Number(value);
+    return NEIGHBOR_WINDOWS.has(n) ? n : DEFAULT_NEIGHBOR_WINDOW;
+  }
+
+  function parseNumberedPath(path) {
+    const clean = normalizePath(path);
+    if (!clean) return null;
+
+    const parts = clean.split("/");
+    const filename = parts.pop() || "";
+    const match = filename.match(DOC_ID_PATTERN);
+    if (!match) return null;
+
+    const id = Number(match[3]);
+    if (!Number.isFinite(id)) return null;
+
+    return {
+      path: clean,
+      dir: parts.join("/"),
+      filename,
+      token: match[0],
+      prefix: match[1],
+      separator: match[2] || "",
+      width: match[3].length,
+      id,
+    };
+  }
+
+  function buildNeighborPath(parsed, id) {
+    if (!parsed || !Number.isFinite(id) || id <= 0) return "";
+    const token = parsed.prefix + parsed.separator + String(id).padStart(parsed.width, "0");
+    const neighborFilename = parsed.filename.replace(parsed.token, token);
+    return normalizePath((parsed.dir ? parsed.dir + "/" : "") + neighborFilename);
+  }
+
+  function collectNeighborTargets(path, windowSize) {
+    const parsed = parseNumberedPath(path);
+    if (!parsed) return [];
+
+    const seen = new Set();
+    const out = [];
+
+    for (let delta = -windowSize; delta <= windowSize; delta += 1) {
+      const targetId = parsed.id + delta;
+      if (targetId <= 0) continue;
+
+      if (delta === 0) {
+        const currentKey = normalizePath(parsed.path);
+        if (!seen.has(currentKey)) {
+          seen.add(currentKey);
+          out.push({
+            delta: 0,
+            id: targetId,
+            path: parsed.path,
+            attemptedPath: parsed.path,
+          });
+        }
+        continue;
+      }
+
+      const attemptedPath = buildNeighborPath(parsed, targetId);
+      const known = resolveKnownPath(attemptedPath);
+      const key = normalizePath(known || attemptedPath);
+      if (!key || seen.has(key)) continue;
+      seen.add(key);
+      out.push({
+        delta,
+        id: targetId,
+        path: known || "",
+        attemptedPath,
+      });
+    }
+
+    return out;
+  }
+
+  function neighborDeltaLabel(delta) {
+    if (!Number(delta)) return "Current";
+    return delta > 0 ? "+" + delta : String(delta);
+  }
+
+  function updateViewerNeighborControls(path) {
+    const select = $("viewerNeighborWindow");
+    const button = $("viewerNeighborsBtn");
+    const meta = $("viewerNeighborMeta");
+
+    state.viewerPath = normalizePath(path || state.viewerPath || "");
+    state.viewerNeighborWindow = sanitizeNeighborWindow(select ? select.value : state.viewerNeighborWindow);
+
+    if (select) {
+      select.value = String(state.viewerNeighborWindow);
+    }
+    if (button) {
+      button.textContent = "Open +/-" + state.viewerNeighborWindow + " neighbors";
+    }
+
+    const parsed = parseNumberedPath(state.viewerPath);
+    if (!parsed) {
+      if (button) button.disabled = true;
+      if (meta) {
+        meta.textContent = state.viewerPath
+          ? "No numeric EFTA/EPSTEIN ID in this file name."
+          : "Open a numbered file to enable nearby context.";
+      }
+      return;
+    }
+
+    const targets = collectNeighborTargets(state.viewerPath, state.viewerNeighborWindow);
+    const availableNeighborCount = targets.filter((entry) => entry.delta !== 0 && !!entry.path).length;
+    if (button) button.disabled = false;
+    if (meta) {
+      meta.textContent = availableNeighborCount
+        ? "Found " + formatNumber(availableNeighborCount) + " nearby file(s) in this bundle."
+        : "No nearby numbered files in this bundle for this window.";
+    }
   }
 
   function pathToFetchUrl(path) {
@@ -705,6 +830,8 @@
     const body = $("viewerBody");
     if (!overlay || !body) return;
     const clean = normalizePath(path);
+    state.viewerPath = clean;
+    updateViewerNeighborControls(clean);
     overlay.classList.add("open");
     body.innerHTML =
       '<p style="color:#ffcf8a">File is referenced but not included in this public bundle:<br><code>' +
@@ -713,17 +840,150 @@
       '<p style="color:var(--muted)">This link exists in source markdown, but the target file was not part of the published subset.</p>';
   }
 
+  async function openNeighborDocs() {
+    const overlay = $("viewerOverlay");
+    const body = $("viewerBody");
+    if (!overlay || !body) return;
+
+    const basePath = normalizePath(state.viewerPath || "");
+    const parsed = parseNumberedPath(basePath);
+    if (!parsed) {
+      updateViewerNeighborControls(basePath);
+      return;
+    }
+
+    const windowSize = sanitizeNeighborWindow(state.viewerNeighborWindow);
+    state.viewerNeighborWindow = windowSize;
+
+    const targets = collectNeighborTargets(basePath, windowSize);
+    const hasAnyNeighbor = targets.some((entry) => entry.delta !== 0 && !!entry.path);
+    if (!hasAnyNeighbor) {
+      body.innerHTML =
+        '<p style="color:var(--muted)">No nearby numbered files were found in this public bundle for +/-' +
+        escapeHtml(windowSize) +
+        ".</p>";
+      updateViewerNeighborControls(basePath);
+      return;
+    }
+
+    overlay.classList.add("open");
+    const requestToken = ++state.viewerRequestToken;
+    body.innerHTML =
+      '<p style="color:var(--muted)">Loading +/-' +
+      escapeHtml(windowSize) +
+      " neighbors around <code>" +
+      escapeHtml(basePath) +
+      "</code>...</p>";
+
+    const loaded = await Promise.all(
+      targets.map(async (entry) => {
+        if (!entry.path) {
+          return { ...entry, status: "missing", text: "" };
+        }
+        try {
+          const response = await fetch(pathToFetchUrl(entry.path), { cache: "no-store" });
+          if (!response.ok) {
+            return {
+              ...entry,
+              status: response.status === 404 ? "missing" : "error",
+              text: "",
+              error: "HTTP " + response.status,
+            };
+          }
+          const text = await response.text();
+          return { ...entry, status: "ok", text };
+        } catch (err) {
+          return {
+            ...entry,
+            status: "error",
+            text: "",
+            error: err && err.message ? err.message : String(err),
+          };
+        }
+      })
+    );
+
+    if (requestToken !== state.viewerRequestToken) return;
+
+    const html = [];
+    html.push('<div class="neighbor-pack">');
+    html.push('<div class="neighbor-pack-head">');
+    html.push(
+      '<button class="btn primary" data-open-path="' +
+        escapeHtml(basePath) +
+        '">Back To Current Document</button>'
+    );
+    html.push(
+      '<span class="neighbor-pack-meta">Context window +/-' +
+        escapeHtml(windowSize) +
+        " around <code>" +
+        escapeHtml(basePath) +
+        "</code></span>"
+    );
+    html.push("</div>");
+
+    loaded.forEach((entry) => {
+      const headingPath = entry.path || entry.attemptedPath || "";
+      html.push(
+        '<section class="neighbor-doc" data-neighbor-doc-path="' +
+          escapeHtml(entry.path || "") +
+          '">'
+      );
+      html.push('<div class="neighbor-doc-head">');
+      html.push('<span class="chip">Offset ' + escapeHtml(neighborDeltaLabel(entry.delta)) + "</span>");
+      html.push('<span class="neighbor-doc-id">ID ' + escapeHtml(String(entry.id)) + "</span>");
+      html.push('<code>' + escapeHtml(headingPath || "(missing)") + "</code>");
+      if (entry.path) {
+        html.push(
+          '<button class="btn" data-open-path="' + escapeHtml(entry.path) + '">Open Only</button>'
+        );
+      }
+      html.push("</div>");
+
+      if (entry.status === "ok") {
+        html.push('<div class="neighbor-doc-body">');
+        html.push(markdownToHtml(entry.text || ""));
+        html.push("</div>");
+      } else if (entry.status === "missing") {
+        html.push(
+          '<p class="neighbor-doc-note">This adjacent ID is referenced by numbering but is not included in this public bundle.</p>'
+        );
+      } else {
+        html.push(
+          '<p class="neighbor-doc-note">Could not load this adjacent file: ' +
+            escapeHtml(entry.error || "unknown error") +
+            "</p>"
+        );
+      }
+      html.push("</section>");
+    });
+
+    html.push("</div>");
+    body.innerHTML = html.join("");
+    bindPathButtons(body);
+    body.querySelectorAll("[data-neighbor-doc-path]").forEach((section) => {
+      const sectionPath = section.getAttribute("data-neighbor-doc-path") || "";
+      if (!sectionPath) return;
+      bindInlineLinks(section, sectionPath);
+    });
+    updateViewerNeighborControls(basePath);
+  }
+
   async function openDoc(path) {
     const overlay = $("viewerOverlay");
     const body = $("viewerBody");
     if (!overlay || !body) return;
 
+    const requestToken = ++state.viewerRequestToken;
     const clean = resolveKnownPath(path) || normalizePath(path);
+    state.viewerPath = clean;
+    updateViewerNeighborControls(clean);
     overlay.classList.add("open");
     body.innerHTML = '<p style="color:var(--muted)">Loading ' + escapeHtml(clean) + "...</p>";
 
     try {
       const response = await fetch(pathToFetchUrl(clean), { cache: "no-store" });
+      if (requestToken !== state.viewerRequestToken) return;
       if (!response.ok) {
         if (response.status === 404) {
           showMissingDoc(clean);
@@ -732,9 +992,11 @@
         throw new Error("HTTP " + response.status);
       }
       const text = await response.text();
+      if (requestToken !== state.viewerRequestToken) return;
       body.innerHTML = markdownToHtml(text);
       bindInlineLinks(body, clean);
     } catch (err) {
+      if (requestToken !== state.viewerRequestToken) return;
       body.innerHTML =
         '<p style="color:#ff7a7a">Could not load file: <code>' +
         escapeHtml(clean) +
@@ -745,6 +1007,7 @@
   }
 
   function closeDoc() {
+    state.viewerRequestToken += 1;
     $("viewerOverlay").classList.remove("open");
   }
 
@@ -755,10 +1018,27 @@
     $("edgeSearch").addEventListener("input", applyEdgeFilters);
     $("edgeMin").addEventListener("change", applyEdgeFilters);
 
+    const neighborWindow = $("viewerNeighborWindow");
+    if (neighborWindow) {
+      neighborWindow.addEventListener("change", () => {
+        state.viewerNeighborWindow = sanitizeNeighborWindow(neighborWindow.value);
+        updateViewerNeighborControls(state.viewerPath);
+      });
+    }
+
+    const neighborsButton = $("viewerNeighborsBtn");
+    if (neighborsButton) {
+      neighborsButton.addEventListener("click", () => {
+        openNeighborDocs();
+      });
+    }
+
     const overlay = $("viewerOverlay");
     overlay.addEventListener("click", (event) => {
       if (event.target === overlay) closeDoc();
     });
+
+    updateViewerNeighborControls("");
   }
 
   async function loadData() {

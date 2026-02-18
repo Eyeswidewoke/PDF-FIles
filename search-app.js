@@ -6,6 +6,9 @@
   const SORT_DIRS = new Set(["asc", "desc"]);
   const PAGE_SIZES = new Set([100, 200, 500, 1000]);
   const DEFAULT_PAGE_SIZE = 200;
+  const CONTEXT_WINDOWS = new Set([0, 1, 2, 5, 10]);
+  const DEFAULT_CONTEXT_WINDOW = 2;
+  const DOC_ID_PATTERN = /(?:^|[^a-z0-9])(EFTA|EPSTEIN-?)(\d{4,})(?!\d)/i;
   const SEARCH_DEBOUNCE_MS = 140;
   const MAX_TEXT_VIEWER_CHARS = 350000;
 
@@ -15,6 +18,7 @@
     sourceFilter: document.getElementById("sourceFilter"),
     categoryFilter: document.getElementById("categoryFilter"),
     fileTypeFilter: document.getElementById("fileTypeFilter"),
+    contextWindowFilter: document.getElementById("contextWindowFilter"),
     sortField: document.getElementById("sortField"),
     sortDir: document.getElementById("sortDir"),
     pageSizeFilter: document.getElementById("pageSizeFilter"),
@@ -42,6 +46,7 @@
     source: "all",
     category: "all",
     fileType: "all",
+    contextWindow: DEFAULT_CONTEXT_WINDOW,
     sortField: "modified",
     sortDir: "desc",
     pageSize: DEFAULT_PAGE_SIZE,
@@ -49,6 +54,7 @@
     viewerToken: 0,
     viewerPath: null,
     requestedOpenPath: "",
+    contextBuckets: new Map(),
   };
 
   function escapeHtml(value) {
@@ -98,6 +104,31 @@
 
   function extensionFromPath(path) {
     return extname(path);
+  }
+
+  function parseDocId(value) {
+    const match = String(value || "").match(DOC_ID_PATTERN);
+    if (!match) return null;
+    return {
+      prefix: String(match[1] || "").replace(/-/g, "").toUpperCase(),
+      id: Number(match[2]),
+    };
+  }
+
+  function buildContextRef(pathValue, labelValue) {
+    const path = normalizePath(pathValue || "");
+    const filename = path.split("/").pop() || "";
+    const doc = parseDocId(filename) || parseDocId(labelValue) || parseDocId(path);
+    if (!doc || !Number.isFinite(doc.id)) return null;
+
+    const dir = path.includes("/") ? path.slice(0, path.lastIndexOf("/")) : "";
+    const bucketKey = `${doc.prefix}||${dir.toLowerCase()}`;
+    return {
+      prefix: doc.prefix,
+      doc_id: doc.id,
+      dir,
+      bucket_key: bucketKey,
+    };
   }
 
   function fileTypeFromExtension(ext) {
@@ -223,6 +254,11 @@
     return PAGE_SIZES.has(n) ? n : DEFAULT_PAGE_SIZE;
   }
 
+  function sanitizeContextWindow(value) {
+    const n = Number(value);
+    return CONTEXT_WINDOWS.has(n) ? n : DEFAULT_CONTEXT_WINDOW;
+  }
+
   function parseUrlState() {
     const params = new URLSearchParams(window.location.search);
     state.query = (params.get("q") || "").trim();
@@ -230,6 +266,7 @@
     state.source = (params.get("source") || "all").trim() || "all";
     state.category = (params.get("category") || "all").trim() || "all";
     state.fileType = (params.get("type") || "all").trim() || "all";
+    state.contextWindow = sanitizeContextWindow(params.get("ctx"));
     state.requestedOpenPath = (params.get("open") || "").trim();
 
     const sortField = (params.get("sort") || "modified").trim();
@@ -249,6 +286,7 @@
     if (state.source !== "all") params.set("source", state.source);
     if (state.category !== "all") params.set("category", state.category);
     if (state.fileType !== "all") params.set("type", state.fileType);
+    if (state.contextWindow !== DEFAULT_CONTEXT_WINDOW) params.set("ctx", String(state.contextWindow));
     if (state.sortField !== "modified") params.set("sort", state.sortField);
     if (state.sortDir !== "desc") params.set("dir", state.sortDir);
     if (state.pageSize !== DEFAULT_PAGE_SIZE) params.set("limit", String(state.pageSize));
@@ -286,10 +324,26 @@
           map_keys: Array.isArray(item.map_keys) ? item.map_keys : [],
           collection_id: collection.id || "unknown",
           collection_title: collection.title || collection.id || "Collection",
+          context_ref: buildContextRef(path, item.label || ""),
         });
       });
     });
     return out;
+  }
+
+  function buildContextBuckets(items) {
+    const buckets = new Map();
+    (items || []).forEach((item) => {
+      if (!item || !item.context_ref) return;
+      const ref = item.context_ref;
+      if (!Number.isFinite(ref.doc_id)) return;
+
+      if (!buckets.has(ref.bucket_key)) buckets.set(ref.bucket_key, new Map());
+      const idMap = buckets.get(ref.bucket_key);
+      if (!idMap.has(ref.doc_id)) idMap.set(ref.doc_id, []);
+      idMap.get(ref.doc_id).push(item);
+    });
+    state.contextBuckets = buckets;
   }
 
   function setSelectOptions(select, values, allLabel) {
@@ -319,6 +373,7 @@
     if (el.sourceFilter && optionExists(el.sourceFilter, state.source)) el.sourceFilter.value = state.source;
     if (el.categoryFilter && optionExists(el.categoryFilter, state.category)) el.categoryFilter.value = state.category;
     if (el.fileTypeFilter && optionExists(el.fileTypeFilter, state.fileType)) el.fileTypeFilter.value = state.fileType;
+    if (el.contextWindowFilter) el.contextWindowFilter.value = String(state.contextWindow);
     if (el.sortField) el.sortField.value = state.sortField;
     if (el.sortDir) el.sortDir.value = state.sortDir;
     if (el.pageSizeFilter) el.pageSizeFilter.value = String(state.pageSize);
@@ -329,6 +384,7 @@
     if (!optionExists(el.sourceFilter, state.source)) state.source = "all";
     if (!optionExists(el.categoryFilter, state.category)) state.category = "all";
     if (!optionExists(el.fileTypeFilter, state.fileType)) state.fileType = "all";
+    state.contextWindow = sanitizeContextWindow(state.contextWindow);
     if (!SORT_FIELDS.has(state.sortField)) state.sortField = "modified";
     if (!SORT_DIRS.has(state.sortDir)) state.sortDir = "desc";
     state.pageSize = sanitizePageSize(state.pageSize);
@@ -379,18 +435,99 @@
     return hay.includes(query);
   }
 
-  function applyFilters(resetVisibleCount) {
-    const q = state.query.trim().toLowerCase();
-    state.filtered = state.flattened.filter((item) => {
-      if (state.collection !== "all" && item.collection_id !== state.collection) return false;
-      if (state.source !== "all" && (item.source || "unknown") !== state.source) return false;
-      if (state.category !== "all" && (item.category || "uncategorized") !== state.category) return false;
-      if (state.fileType !== "all" && (item.file_type || "unknown") !== state.fileType) return false;
-      if (!matchesQuery(item, q)) return false;
-      return true;
+  function clearResultAnnotations() {
+    state.flattened.forEach((item) => {
+      delete item.__matchType;
+      delete item.__contextDistance;
+    });
+  }
+
+  function passesNonQueryFilters(item) {
+    if (state.collection !== "all" && item.collection_id !== state.collection) return false;
+    if (state.source !== "all" && (item.source || "unknown") !== state.source) return false;
+    if (state.category !== "all" && (item.category || "uncategorized") !== state.category) return false;
+    if (state.fileType !== "all" && (item.file_type || "unknown") !== state.fileType) return false;
+    return true;
+  }
+
+  function addContextNeighbors(directMatches, scopedItems, query) {
+    if (!directMatches.length) return [];
+
+    const scopedPathSet = new Set(
+      scopedItems.map((item) => normalizePathLower(item.path || "")).filter(Boolean)
+    );
+    const selected = new Map();
+
+    const addSelected = (item, matchType, distance) => {
+      const pathKey = normalizePathLower(item.path || "");
+      if (!pathKey || !scopedPathSet.has(pathKey)) return;
+
+      const existing = selected.get(pathKey);
+      if (!existing) {
+        item.__matchType = matchType;
+        item.__contextDistance = matchType === "context" ? distance : 0;
+        selected.set(pathKey, item);
+        return;
+      }
+
+      if (matchType === "direct" && existing.__matchType !== "direct") {
+        existing.__matchType = "direct";
+        existing.__contextDistance = 0;
+        return;
+      }
+
+      if (matchType === "context" && existing.__matchType === "context") {
+        const best = Number(existing.__contextDistance) || Number.POSITIVE_INFINITY;
+        if (distance < best) existing.__contextDistance = distance;
+      }
+    };
+
+    directMatches.forEach((item) => addSelected(item, "direct", 0));
+
+    directMatches.forEach((item) => {
+      const ref = item.context_ref;
+      if (!ref || !Number.isFinite(ref.doc_id)) return;
+      const idMap = state.contextBuckets.get(ref.bucket_key);
+      if (!idMap) return;
+
+      for (let delta = 1; delta <= state.contextWindow; delta += 1) {
+        [ref.doc_id - delta, ref.doc_id + delta].forEach((candidateId) => {
+          const neighbors = idMap.get(candidateId);
+          if (!neighbors || !neighbors.length) return;
+
+          neighbors.forEach((neighbor) => {
+            if (matchesQuery(neighbor, query)) {
+              addSelected(neighbor, "direct", 0);
+              return;
+            }
+            addSelected(neighbor, "context", delta);
+          });
+        });
+      }
     });
 
+    return Array.from(selected.values());
+  }
+
+  function applyFilters(resetVisibleCount) {
+    clearResultAnnotations();
+    const q = state.query.trim().toLowerCase();
+    const scoped = state.flattened.filter((item) => passesNonQueryFilters(item));
+    const directMatches = scoped.filter((item) => matchesQuery(item, q));
+    const usingContextExpansion = Boolean(q) && state.contextWindow > 0;
+    state.filtered = usingContextExpansion ? addContextNeighbors(directMatches, scoped, q) : directMatches;
+
     state.filtered.sort((a, b) => {
+      if (usingContextExpansion) {
+        const rankA = a.__matchType === "context" ? 1 : 0;
+        const rankB = b.__matchType === "context" ? 1 : 0;
+        if (rankA !== rankB) return rankA - rankB;
+
+        const distA = Number(a.__contextDistance || 0);
+        const distB = Number(b.__contextDistance || 0);
+        if (distA !== distB) return distA - distB;
+      }
+
       let cmp = 0;
       switch (state.sortField) {
         case "label":
@@ -751,7 +888,16 @@
     const shownCount = shown.length;
     const hiddenCount = Math.max(total - shownCount, 0);
 
-    el.resultMeta.textContent = `Showing ${numberFmt(shownCount)} of ${numberFmt(total)} file(s) from ${numberFmt(state.flattened.length)} indexed artifacts.`;
+    const usingContextExpansion = Boolean(state.query.trim()) && state.contextWindow > 0;
+    const contextCount = usingContextExpansion
+      ? state.filtered.filter((item) => item.__matchType === "context").length
+      : 0;
+    const directCount = usingContextExpansion ? total - contextCount : total;
+    const contextMeta = usingContextExpansion
+      ? ` Direct matches: ${numberFmt(directCount)}. Adjacent context: ${numberFmt(contextCount)}.`
+      : "";
+
+    el.resultMeta.textContent = `Showing ${numberFmt(shownCount)} of ${numberFmt(total)} file(s) from ${numberFmt(state.flattened.length)} indexed artifacts.${contextMeta}`;
 
     if (!shownCount) {
       const empty = document.createElement("p");
@@ -767,7 +913,13 @@
       const card = document.createElement("article");
       card.className = "search-result";
 
+      const matchChip =
+        usingContextExpansion && item.__matchType === "context"
+          ? `<span class="search-chip chip-context">Context ±${escapeHtml(item.__contextDistance)}</span>`
+          : (usingContextExpansion ? '<span class="search-chip chip-direct">Direct Match</span>' : "");
+
       const chips = [
+        matchChip,
         item.collection_title || "Collection",
         item.category || "uncategorized",
         item.source || "unknown",
@@ -831,6 +983,7 @@
     state.source = (el.sourceFilter && el.sourceFilter.value) || "all";
     state.category = (el.categoryFilter && el.categoryFilter.value) || "all";
     state.fileType = (el.fileTypeFilter && el.fileTypeFilter.value) || "all";
+    state.contextWindow = sanitizeContextWindow((el.contextWindowFilter && el.contextWindowFilter.value) || DEFAULT_CONTEXT_WINDOW);
     state.sortField = (el.sortField && el.sortField.value) || "modified";
     state.sortDir = (el.sortDir && el.sortDir.value) || "desc";
     state.pageSize = sanitizePageSize((el.pageSizeFilter && el.pageSizeFilter.value) || DEFAULT_PAGE_SIZE);
@@ -854,6 +1007,7 @@
       el.sourceFilter,
       el.categoryFilter,
       el.fileTypeFilter,
+      el.contextWindowFilter,
       el.sortField,
       el.sortDir,
       el.pageSizeFilter,
@@ -869,6 +1023,7 @@
         state.source = "all";
         state.category = "all";
         state.fileType = "all";
+        state.contextWindow = DEFAULT_CONTEXT_WINDOW;
         state.sortField = "modified";
         state.sortDir = "desc";
         state.pageSize = DEFAULT_PAGE_SIZE;
@@ -948,6 +1103,7 @@
     try {
       state.payload = await loadPayload();
       state.flattened = flattenCollections(state.payload);
+      buildContextBuckets(state.flattened);
       initFilters();
       runSearch(true);
 

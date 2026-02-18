@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20260218-sticky2" />
+  <link rel="stylesheet" href="./styles.css?v=20260218-context1" />
   <style>
     .search-filter-grid {
       display: grid;
@@ -66,6 +66,18 @@
       font: 600 0.68rem var(--mono);
       white-space: nowrap;
       background: #fff6ef;
+    }
+
+    .search-chip.chip-direct {
+      border-color: #7f6757;
+      background: #f3ece4;
+      color: #3e3127;
+    }
+
+    .search-chip.chip-context {
+      border-color: #5d7a3c;
+      background: #eef7df;
+      color: #2f4a1a;
     }
 
     .search-result-meta {
@@ -156,6 +168,7 @@
     <h1>ADVANCED SEARCH</h1>
     <p class="subhead" style="margin:0.6rem auto 0;max-width:72ch;text-align:center">
       Search and filter the indexed files directly by collection, source, category, file type, size, and date.
+      Use <strong>Adjacent Context</strong> to pull neighboring file numbers when redactions hide keywords.
     </p>
     <div class="hero-divider" aria-hidden="true"></div>
     <nav class="hero-nav" aria-label="Search page links">
@@ -179,6 +192,13 @@
         <select id="sourceFilter" aria-label="Filter by source"></select>
         <select id="categoryFilter" aria-label="Filter by category"></select>
         <select id="fileTypeFilter" aria-label="Filter by file type"></select>
+        <select id="contextWindowFilter" aria-label="Adjacent context window">
+          <option value="0">Adjacent Context: Off</option>
+          <option value="1">Adjacent Context: ±1</option>
+          <option value="2" selected>Adjacent Context: ±2</option>
+          <option value="5">Adjacent Context: ±5</option>
+          <option value="10">Adjacent Context: ±10</option>
+        </select>
         <select id="sortField" aria-label="Sort field">
           <option value="modified">Sort: Date</option>
           <option value="label">Sort: Name</option>
@@ -222,6 +242,6 @@
     </section>
   </main>
 
-  <script src="./search-app.js?v=20260218-sticky2" defer></script>
+  <script src="./search-app.js?v=20260218-context1" defer></script>
 </body>
 </html>
