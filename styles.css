@@ -20,6 +20,7 @@ html,
 body {
   margin: 0;
   min-height: 100%;
+  overflow-x: hidden;
 }
 
 body {
@@ -1327,6 +1328,50 @@ button:focus-visible {
   .ds-actions {
     width: 100%;
     justify-content: space-between;
+  }
+
+  .explorer-panel .filters {
+    grid-template-columns: 1fr;
+  }
+
+  .explorer-panel .filters input {
+    grid-column: span 1;
+  }
+
+  .nav-group {
+    grid-template-columns: 1fr;
+  }
+
+  .mindmap-and-sidebar {
+    flex-direction: column;
+  }
+
+  .map-sidebar {
+    flex: none;
+    max-width: 100%;
+    max-height: 300px;
+  }
+
+  .table-wrap {
+    max-width: 100%;
+  }
+
+  .viewer-frame {
+    min-height: 400px;
+  }
+
+  #mindmapSvg {
+    min-height: 220px;
+    height: 60vw;
+  }
+
+  .hero {
+    padding: 1rem 0.75rem;
+  }
+
+  .explorer-head {
+    flex-direction: column;
+    align-items: flex-start;
   }
 }
 

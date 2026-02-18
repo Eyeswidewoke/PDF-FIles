@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20260213-datasetlinks" />
+  <link rel="stylesheet" href="./styles.css?v=20260217-mobile" />
   <style>
     .search-filter-grid {
       display: grid;
@@ -87,6 +87,34 @@
       flex-wrap: wrap;
       gap: 0.45rem;
       align-items: center;
+    }
+
+    @media (min-width: 1120px) {
+      .explorer-panel {
+        grid-column: span 8;
+      }
+
+      .viewer-panel {
+        grid-column: span 4;
+        align-self: start;
+        position: sticky;
+        top: 0.9rem;
+        max-height: calc(100vh - 1.8rem);
+        overflow: auto;
+      }
+    }
+
+    @media (max-width: 1119px) {
+      .explorer-panel,
+      .viewer-panel {
+        grid-column: 1 / -1;
+      }
+
+      .viewer-panel {
+        position: static;
+        max-height: none;
+        overflow: visible;
+      }
     }
 
     .search-footer {
@@ -182,6 +210,6 @@
     </section>
   </main>
 
-  <script src="./search-app.js?v=20260216-viewerfix" defer></script>
+  <script src="./search-app.js?v=20260218-viewerpane" defer></script>
 </body>
 </html>
