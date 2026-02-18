@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>How This Site Works | THE PDF FILES</title>
+  <meta name="description" content="How THE PDF FILES works — a guide to searching, exploring, and navigating 900,000+ pages of official DOJ Epstein case files." />
+  <meta property="og:title" content="How This Site Works | THE PDF FILES" />
+  <meta property="og:description" content="How to search, explore, and navigate 900,000+ pages of official DOJ Epstein case files. Every feature explained." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eyeswidewoke.github.io/PDF-FIles/how-it-works.html" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📁</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260217-howitworks" />
+  <style>
+    .guide-shell {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    .guide-hero {
+      text-align: center;
+      padding: 2rem 1rem 1.2rem;
+    }
+    .guide-hero h1 {
+      font-size: 2rem;
+      color: var(--heading);
+      margin: 0 0 0.4rem;
+      letter-spacing: 0.04em;
+    }
+    .guide-hero .subtitle {
+      color: #6b5e50;
+      font-size: 0.95rem;
+      margin: 0 0 1rem;
+      line-height: 1.6;
+    }
+    .guide-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+      margin: 1rem 0 0.5rem;
+    }
+    .guide-nav a {
+      background: linear-gradient(125deg, #2a1d10, #3d2a18);
+      color: #c9a44a;
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      text-decoration: none;
+      letter-spacing: 0.02em;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .guide-nav a:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(42,29,16,0.25);
+    }
+    .feature-section {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: linear-gradient(150deg, #fffefb 0%, #fff8ef 100%);
+      padding: 1.4rem 1.6rem;
+      margin: 0.8rem 0;
+    }
+    .feature-section h2 {
+      font-size: 1.15rem;
+      color: var(--heading);
+      margin: 0 0 0.5rem;
+    }
+    .feature-section h2 .emoji {
+      margin-right: 0.3rem;
+    }
+    .feature-section p {
+      color: #3a3025;
+      font-size: 0.88rem;
+      line-height: 1.65;
+      margin: 0 0 0.6rem;
+    }
+    .feature-section ul {
+      color: #3a3025;
+      font-size: 0.86rem;
+      line-height: 1.55;
+      margin: 0 0 0.6rem;
+      padding-left: 1.3rem;
+    }
+    .feature-section li {
+      margin-bottom: 0.3rem;
+    }
+    .feature-link {
+      display: inline-block;
+      background: linear-gradient(125deg, #8f2f15, #6b2210);
+      color: #fff;
+      padding: 0.45rem 1rem;
+      border-radius: 7px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+      margin-top: 0.3rem;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .feature-link:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(143,47,21,0.3);
+    }
+    .feature-link + .feature-link {
+      margin-left: 0.4rem;
+    }
+    .back-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: center;
+      margin: 1.5rem 0;
+    }
+    .back-links a {
+      background: linear-gradient(125deg, #5f4c3f, #3f3128);
+      color: #f0e6d6;
+      padding: 0.55rem 1.2rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-decoration: none;
+      transition: transform 0.15s, box-shadow 0.15s;
+    }
+    .back-links a:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(63,49,40,0.3);
+    }
+    .integrity-note {
+      text-align: center;
+      color: #6b5e50;
+      font-size: 0.82rem;
+      line-height: 1.6;
+      margin: 1.2rem 0 0.5rem;
+      padding: 1rem;
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 760px) {
+      .guide-hero h1 { font-size: 1.5rem; }
+      .feature-section { padding: 1rem 1.1rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+
+  <main class="grid guide-shell">
+
+    <div class="guide-hero">
+      <h1>📖 HOW THIS SITE WORKS</h1>
+      <p class="subtitle">
+        The DOJ released over 900,000 pages of Jeffrey Epstein case files as raw, unsearchable PDFs &mdash; thousands of files buried across 12 separate datasets.<br />
+        We ran every page through OCR extraction, text parsing, deduplication, and cross-referencing to build a fully searchable, source-linked archive.<br />
+        Here&rsquo;s what you can do with it.
+      </p>
+      <div class="guide-nav">
+        <a href="#search">🔍 Search</a>
+        <a href="#people">👤 Key People</a>
+        <a href="#map">🕸️ Connection Map</a>
+        <a href="#flights">✈️ Flights</a>
+        <a href="#financials">💰 Financials</a>
+        <a href="#depositions">⚖️ Depositions</a>
+        <a href="#investigations">🔬 Investigations</a>
+        <a href="#timeline">⏱️ Timeline</a>
+        <a href="#explorer">📁 File Explorer</a>
+        <a href="#images">🖼️ Images</a>
+      </div>
+    </div>
+
+    <!-- SEARCH -->
+    <section id="search" class="feature-section">
+      <h2><span class="emoji">🔍</span> Search</h2>
+      <p>
+        Search across all <strong>58,000+ indexed artifacts</strong> by keyword, name, topic, or document ID. Results show file metadata, source dataset, and direct links to the original documents.
+      </p>
+      <p>
+        <strong>Advanced Search</strong> adds filters for dataset, category, and date range, plus a <strong>split-panel document viewer</strong> &mdash; browse results on the left and read full documents on the right without leaving the page.
+      </p>
+      <p>
+        The search bar on the <a href="./" style="color:#8f2f15;font-weight:600">main page</a> runs a quick site-wide search. For full power, use Advanced Search.
+      </p>
+      <a class="feature-link" href="./search.html">Open Advanced Search &rarr;</a>
+    </section>
+
+    <!-- KEY PEOPLE -->
+    <section id="people" class="feature-section">
+      <h2><span class="emoji">👤</span> Key People (98 Profiles)</h2>
+      <p>
+        <strong>15 dedicated deep-dive pages</strong> cover the most significant figures in the Epstein case &mdash; each compiles every document mention, organized by topic, with direct source links.
+      </p>
+      <p>
+        The full <strong>Cast Hub</strong> contains <strong>98 profiles</strong> with role descriptions, known connections, document frequency, and links to every relevant artifact.
+      </p>
+      <ul>
+        <li><strong>Deep-dive pages:</strong> Trump, Clinton, Maxwell, Gates, Prince Andrew, Musk, Wexner, Dershowitz, Leon Black, Bannon, Bondi, Barr, Groff, Russia/Putin, Victims &amp; Accusers</li>
+        <li><strong>Cast Hub:</strong> All 98 tracked figures with searchable profiles, roles, and document counts</li>
+      </ul>
+      <a class="feature-link" href="./cast.html">Cast Hub &rarr;</a>
+      <a class="feature-link" href="./trump.html">Trump &amp; Epstein &rarr;</a>
+      <a class="feature-link" href="./clinton.html">Clinton &amp; Epstein &rarr;</a>
+      <a class="feature-link" href="./maxwell.html">Maxwell &amp; Epstein &rarr;</a>
+    </section>
+
+    <!-- CONNECTION MAP -->
+    <section id="map" class="feature-section">
+      <h2><span class="emoji">🕸️</span> Connection Map</h2>
+      <p>
+        An interactive network visualization showing <strong>who connects to whom and how</strong>, based on document co-occurrence across the full corpus. Nodes represent key figures; edges represent shared document mentions.
+      </p>
+      <p>
+        Click any node to see that person&rsquo;s connections, document counts, and links to their profile page. The map includes a sidebar with connection details and strength indicators.
+      </p>
+      <a class="feature-link" href="./map.html">Open Connection Map &rarr;</a>
+    </section>
+
+    <!-- FLIGHT LOGS -->
+    <section id="flights" class="feature-section">
+      <h2><span class="emoji">✈️</span> Flight Logs</h2>
+      <p>
+        Every known <strong>Lolita Express flight record</strong> indexed with passenger lists, routes, dates, and tail numbers. The flight log viewer lets you search by passenger name, date range, or route.
+      </p>
+      <p>
+        <strong>Flight Intelligence</strong> goes deeper &mdash; cross-referencing flight data with other case documents to surface patterns, co-travel relationships, and trip frequency analysis.
+      </p>
+      <a class="feature-link" href="./flights.html">Flight Logs &rarr;</a>
+      <a class="feature-link" href="./flights-intel.html">Flight Intelligence &rarr;</a>
+    </section>
+
+    <!-- FINANCIALS -->
+    <section id="financials" class="feature-section">
+      <h2><span class="emoji">💰</span> Financial Intelligence</h2>
+      <p>
+        Wire transfers, trust structures, shell companies, and payment flows extracted from DOJ financial exhibits. Organized by entity and transaction type with links to source documents.
+      </p>
+      <p>
+        <strong>Investigation C &mdash; Money &amp; Planes</strong> traces the financial infrastructure behind Epstein&rsquo;s operations, including aviation costs, property transactions, and fund flows between entities.
+      </p>
+      <a class="feature-link" href="./financials.html">Financial Intelligence &rarr;</a>
+      <a class="feature-link" href="./investigation-c.html">Investigation C &rarr;</a>
+    </section>
+
+    <!-- DEPOSITIONS -->
+    <section id="depositions" class="feature-section">
+      <h2><span class="emoji">⚖️</span> Depositions &amp; Legal Filings</h2>
+      <p>
+        Sworn testimony from depositions, fully searchable with source document links. Includes testimony from key figures, victim statements, and expert witness reports.
+      </p>
+      <p>
+        <strong>Legal Filings &amp; Court Records</strong> covers motions, rulings, plea agreements, sentencing documents, and civil case filings across multiple jurisdictions.
+      </p>
+      <a class="feature-link" href="./depositions.html">Depositions &rarr;</a>
+      <a class="feature-link" href="./legal-filings.html">Legal Filings &rarr;</a>
+    </section>
+
+    <!-- INVESTIGATIONS -->
+    <section id="investigations" class="feature-section">
+      <h2><span class="emoji">🔬</span> Investigations &amp; Analysis</h2>
+      <p>
+        Original investigative analysis produced by this project, organized into focused investigations:
+      </p>
+      <ul>
+        <li><strong>Investigation C:</strong> Money &amp; Planes &mdash; financial flows and aviation patterns</li>
+        <li><strong>Explosive Documents:</strong> The most significant documents surfaced from the release</li>
+        <li><strong>The Inner Circle:</strong> Core network analysis of Epstein&rsquo;s closest associates</li>
+        <li><strong>Complicity Gradient:</strong> DOJ &sect;3 analysis mapping levels of involvement</li>
+        <li><strong>Deep Sweep:</strong> 400,000+ previously unsearchable pages recovered through advanced OCR</li>
+      </ul>
+      <a class="feature-link" href="./investigations.html">All Investigations &rarr;</a>
+      <a class="feature-link" href="./explosive-docs.html">Explosive Documents &rarr;</a>
+      <a class="feature-link" href="./deep-sweep.html">Deep Sweep &rarr;</a>
+    </section>
+
+    <!-- TIMELINE -->
+    <section id="timeline" class="feature-section">
+      <h2><span class="emoji">⏱️</span> Timeline</h2>
+      <p>
+        A chronological case timeline with <strong>51 key events</strong> &mdash; from Epstein&rsquo;s earliest known activities through prosecution, plea deals, arrest, death, and the DOJ file release. Each event links to its source documents.
+      </p>
+      <p>
+        The timeline viewer on the main page also lets you search and filter events by year.
+      </p>
+      <a class="feature-link" href="./timeline.html">Full Timeline &rarr;</a>
+    </section>
+
+    <!-- FILE EXPLORER -->
+    <section id="explorer" class="feature-section">
+      <h2><span class="emoji">📁</span> File Explorer</h2>
+      <p>
+        The main page includes a full <strong>artifact index</strong> of all 58,000+ files. Filter by dataset, category, or source. Sort by date, name, category, or file size. Click any artifact to inspect its metadata &mdash; label, path, category, source, size, and notes.
+      </p>
+      <p>
+        Select <strong>&ldquo;Open In Viewer&rdquo;</strong> to read the full document in the built-in viewer without leaving the page. Supports markdown, plain text, images, and embedded file previews.
+      </p>
+      <a class="feature-link" href="./">Open File Explorer &rarr;</a>
+    </section>
+
+    <!-- IMAGES -->
+    <section id="images" class="feature-section">
+      <h2><span class="emoji">🖼️</span> Images &amp; Photo Analysis</h2>
+      <p>
+        Images extracted from the DOJ release, classified using CLIP-based AI tagging. The <strong>Gallery Picks</strong> page highlights <strong>682 notable images</strong> curated from the corpus.
+      </p>
+      <p>
+        <strong>Epstein Face Matches</strong> uses facial recognition to surface every photo in the release where Epstein appears, with confidence scores and source document links.
+      </p>
+      <a class="feature-link" href="./images.html">Image Analysis &rarr;</a>
+      <a class="feature-link" href="./gallery-picks.html">Gallery Picks (682) &rarr;</a>
+      <a class="feature-link" href="./epstein-face-matches.html">Epstein Face Matches &rarr;</a>
+    </section>
+
+    <!-- OFFICIAL RELEASE GUIDE -->
+    <section class="feature-section" style="background:linear-gradient(150deg,#f8f0e6 0%,#f3e8d8 100%)">
+      <h2><span class="emoji">📦</span> Official Release Guide</h2>
+      <p>
+        Need to understand how the DOJ organized the original release? The <strong>Release Guide</strong> breaks down all 12 datasets, their ZIP packages, file counts, known mirrors, and torrent sources. It also covers the image corpus structure and current scan coverage.
+      </p>
+      <a class="feature-link" href="./release-guide.html">Official Release Guide &rarr;</a>
+    </section>
+
+    <!-- MIND MAP -->
+    <section class="feature-section">
+      <h2><span class="emoji">🧠</span> Mind Map Navigator</h2>
+      <p>
+        A visual, interactive mind map of the entire case structure &mdash; topics, people, entities, and connections displayed as an explorable tree. Useful for discovering how different threads of the case connect.
+      </p>
+      <a class="feature-link" href="./navigator.html">Open Mind Map &rarr;</a>
+    </section>
+
+    <div class="back-links">
+      <a href="./">&larr; Back to Main Site</a>
+      <a href="./search.html">Search Site &rarr;</a>
+    </div>
+
+    <div class="integrity-note">
+      <p>
+        Every document on this site links back to its official DOJ source file. Nothing has been altered, edited, or editorialized.<br />
+        This project is <strong>open source</strong> and released into the <strong>public domain</strong> under <a href="https://unlicense.org/" target="_blank" rel="noopener" style="color:#8f2f15">The Unlicense</a>.<br />
+        Source code: <a href="https://github.com/Eyeswidewoke/PDF-FIles" target="_blank" rel="noopener" style="color:#8f2f15">GitHub</a>
+      </p>
+    </div>
+
+  </main>
+</body>
+</html>
