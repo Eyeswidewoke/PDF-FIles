@@ -218,7 +218,7 @@
       '</div>' +
       '<div class="ftx-result-actions">' +
         '<a href="' + escHtml(dojUrl) + '" target="_blank" rel="noopener">View PDF on DOJ &rarr;</a>' +
-        '<a href="./search.html?q=' + encodeURIComponent(efta) + '" target="_blank">Find in File Index &rarr;</a>' +
+        '<a href="./view.html?id=' + encodeURIComponent(efta) + '" target="_blank">View Extracted Text &rarr;</a>' +
       '</div>';
     return div;
   }
