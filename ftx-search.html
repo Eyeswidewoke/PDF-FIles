@@ -185,6 +185,64 @@
       .ftx-search-box { flex-direction: column; }
       .ftx-result-head { flex-direction: column; }
     }
+
+    /* === SIDE PANEL for document viewer === */
+    .ftx-panel-overlay {
+      display: none;
+      position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 900;
+    }
+    .ftx-panel-overlay.open { display: block; }
+
+    .ftx-panel {
+      display: none;
+      position: fixed; top: 0; right: 0; bottom: 0;
+      width: min(700px, 90vw);
+      background: #fffdf7;
+      border-left: 3px solid #d4af37;
+      box-shadow: -8px 0 30px rgba(0,0,0,0.25);
+      z-index: 950;
+      overflow-y: auto;
+      transform: translateX(100%);
+      transition: transform 0.25s ease;
+    }
+    .ftx-panel.open {
+      display: block;
+      transform: translateX(0);
+    }
+    .ftx-panel-bar {
+      position: sticky; top: 0; z-index: 10;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 0.6rem 1rem;
+      background: #3e3127; color: #fffdf7;
+      font: 700 0.85rem var(--mono);
+    }
+    .ftx-panel-bar a { color: #d4af37; text-decoration: none; font-size: 0.75rem; }
+    .ftx-panel-bar a:hover { text-decoration: underline; }
+    .ftx-panel-close {
+      background: none; border: none; color: #fffdf7; font-size: 1.5rem;
+      cursor: pointer; padding: 0 0.3rem; line-height: 1;
+    }
+    .ftx-panel-close:hover { color: #d4af37; }
+    .ftx-panel-body { padding: 1rem; }
+    .ftx-panel-body .page-card {
+      background: #f5efe8; border: 1px solid #e0d5c8; border-radius: 0.5rem;
+      padding: 0.8rem; margin-bottom: 0.75rem;
+    }
+    .ftx-panel-body .page-card-head {
+      font: 600 0.7rem var(--mono); color: #8a7a6a;
+      margin-bottom: 0.4rem; display: flex; justify-content: space-between;
+      flex-wrap: wrap; gap: 0.3rem;
+    }
+    .ftx-panel-body .page-text {
+      font: 400 0.82rem/1.6 var(--mono); color: #3e3127;
+      white-space: pre-wrap; word-break: break-word;
+      background: #fffdf7; border-radius: 0.35rem; padding: 0.7rem;
+      max-height: 500px; overflow-y: auto; border: 1px solid #e0d5c8;
+    }
+    .ftx-panel-loading { text-align: center; color: #8a7a6a; padding: 2rem 0; }
+    .ftx-panel-error { text-align: center; color: #c44; padding: 1.5rem 0; }
   </style>
 </head>
 <body>
@@ -259,5 +317,84 @@
   </div>
 
   <script src="./ftx-search-app.js?v=20260218-ftx1" defer></script>
+
+  <!-- Side panel for viewing extracted text -->
+  <div class="ftx-panel-overlay" id="ftxPanelOverlay" onclick="closeFtxPanel()"></div>
+  <div class="ftx-panel" id="ftxPanel">
+    <div class="ftx-panel-bar">
+      <span id="ftxPanelTitle">Document</span>
+      <span>
+        <a id="ftxPanelFullLink" href="#" target="_blank">Open Full Page ↗</a>
+        &nbsp;
+        <button class="ftx-panel-close" onclick="closeFtxPanel()" title="Close">&times;</button>
+      </span>
+    </div>
+    <div class="ftx-panel-body" id="ftxPanelBody">
+      <div class="ftx-panel-loading">Select a document to view...</div>
+    </div>
+  </div>
+
+  <script>
+  var TXT_CDN = "https://eyeswidewoke.github.io/PDF-Files-text/data/txt/";
+
+  function openFtxPanel(efta) {
+    var panel = document.getElementById("ftxPanel");
+    var overlay = document.getElementById("ftxPanelOverlay");
+    var body = document.getElementById("ftxPanelBody");
+    var title = document.getElementById("ftxPanelTitle");
+    var fullLink = document.getElementById("ftxPanelFullLink");
+
+    title.textContent = efta;
+    fullLink.href = "./view.html?id=" + encodeURIComponent(efta);
+    body.innerHTML = '<div class="ftx-panel-loading">Loading ' + efta + '...</div>';
+
+    overlay.classList.add("open");
+    panel.classList.add("open");
+    // trigger reflow for animation
+    void panel.offsetWidth;
+
+    var digits = efta.replace(/^EFTA/, "");
+    var prefix = digits.substring(0, 4);
+
+    fetch(TXT_CDN + prefix + ".json")
+      .then(function(r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+      .then(function(shard) {
+        var pages = shard[efta];
+        if (!pages || !pages.length) {
+          body.innerHTML = '<div class="ftx-panel-error">No extracted text found for ' + efta + '.</div>';
+          return;
+        }
+        var html = '';
+        for (var i = 0; i < pages.length; i++) {
+          var p = pages[i];
+          var text = (p.x || "(no text)").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+          var trunc = p.tr ? ' <span style="color:#8f2f15">[truncated]</span>' : '';
+          html +=
+            '<div class="page-card">' +
+              '<div class="page-card-head">' +
+                '<span>Page ' + (i+1) + '/' + pages.length + '</span>' +
+                '<span>' + (p.f||'') + '</span>' +
+                '<span>' + (p.w||0) + ' words' + trunc + '</span>' +
+              '</div>' +
+              '<div class="page-text">' + text + '</div>' +
+            '</div>';
+        }
+        body.innerHTML = html;
+      })
+      .catch(function(err) {
+        body.innerHTML = '<div class="ftx-panel-error">Error loading text: ' + err.message + '</div>';
+      });
+  }
+
+  function closeFtxPanel() {
+    document.getElementById("ftxPanel").classList.remove("open");
+    document.getElementById("ftxPanelOverlay").classList.remove("open");
+  }
+
+  // Close on Escape key
+  document.addEventListener("keydown", function(e) {
+    if (e.key === "Escape") closeFtxPanel();
+  });
+  </script>
 </body>
 </html>

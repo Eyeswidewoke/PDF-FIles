@@ -6,7 +6,7 @@
   const FTX_BASE = "./data/ftx/";
   const MANIFEST_URL = FTX_BASE + "manifest.json";
   const DOCS_URL = FTX_BASE + "docs.json";
-  const DOJ_RECORDS = "https://www.justice.gov/usao-sdny/jeffrey-epstein-records";
+  const DOJ_RECORDS = "https://www.justice.gov/epstein";
   const RESULTS_PER_PAGE = 50;
   const SHARD_PREFIX_LEN = 2;
 
@@ -219,7 +219,7 @@
       '<div class="ftx-result-actions">' +
         '<a href="' + DOJ_RECORDS + '" target="_blank" rel="noopener">DOJ Records Page &rarr;</a>' +
         '<button class="ftx-copy-btn" onclick="navigator.clipboard.writeText(\'' + escHtml(efta) + '\');this.textContent=\'Copied!\';setTimeout(()=>this.textContent=\'\ud83d\udccb Copy EFTA ID\',1500)">\ud83d\udccb Copy EFTA ID</button>' +
-        '<a href="./view.html?id=' + encodeURIComponent(efta) + '" target="_blank">View Extracted Text &rarr;</a>' +
+        '<a href="#" onclick="openFtxPanel(\'' + escHtml(efta) + '\');return false;">View Extracted Text &rarr;</a>' +
       '</div>';
     return div;
   }

@@ -1,42 +1,98 @@
-/* nav.js - shared site navigation, auto-injected */
+﻿/* nav.js - shared site navigation, auto-injected */
 (function () {
-  var current = location.pathname.split("/").pop() || "index.html";
+  if (document.querySelector(".site-nav")) return;
+
+  var current = (location.pathname.split("/").pop() || "index.html").toLowerCase();
 
   function getFileName(href) {
-    return String(href || "").replace(/^.*\//, "").split("?")[0];
+    return String(href || "")
+      .replace(/^.*\//, "")
+      .split("?")[0]
+      .toLowerCase();
   }
 
   function linkIsActive(link) {
     if (!link) return false;
-    var byHref = link.href && getFileName(link.href) === current;
-    var byMatch = link.match && link.match.indexOf(current) !== -1;
-    var byPrefix = link.prefix && link.prefix.some(function (p) { return current.indexOf(p) === 0; });
-    return !!(byHref || byMatch || byPrefix);
+    var byHref = !!link.href && getFileName(link.href) === current;
+    var byMatch = Array.isArray(link.match) && link.match.map(function (m) { return String(m).toLowerCase(); }).indexOf(current) !== -1;
+    var byPrefix = Array.isArray(link.prefix) && link.prefix.some(function (p) { return current.indexOf(String(p).toLowerCase()) === 0; });
+    return byHref || byMatch || byPrefix;
   }
 
   function itemIsActive(item) {
-    var selfActive = linkIsActive(item);
-    if (!item.children || !item.children.length) return selfActive;
-    var childActive = item.children.some(function (child) { return linkIsActive(child); });
-    return selfActive || childActive;
+    if (linkIsActive(item)) return true;
+    if (!Array.isArray(item.children)) return false;
+    return item.children.some(function (child) { return linkIsActive(child); });
+  }
+
+  function isTouchOrSmall() {
+    return window.matchMedia("(hover: none)").matches || window.matchMedia("(max-width: 980px)").matches;
   }
 
   var items = [
-    { label: "Home", href: "./", match: ["index.html", ""] },
-    { label: "Hub", href: "./hub.html", match: ["hub.html"] },
+    {
+      label: "Home",
+      href: "./",
+      match: ["index.html", ""],
+      children: [
+        { label: "Main Site", href: "./index.html", match: ["index.html", ""] },
+        { label: "Site Hub", href: "./hub.html", match: ["hub.html"] },
+        { label: "How This Site Works", href: "./how-it-works.html", match: ["how-it-works.html"] }
+      ]
+    },
+    {
+      label: "Hub",
+      href: "./hub.html",
+      match: ["hub.html"],
+      children: [
+        { label: "Site Hub", href: "./hub.html", match: ["hub.html"] },
+        { label: "Official Release Guide", href: "./release-guide.html", match: ["release-guide.html"] },
+        { label: "Connection Map", href: "./map.html", match: ["map.html"] },
+        { label: "Case Timeline", href: "./timeline.html", match: ["timeline.html"] }
+      ]
+    },
     {
       label: "Search",
       href: "./search.html",
-      match: ["search.html"],
+      match: ["search.html", "ftx-search.html"],
       children: [
         { label: "Advanced Search", href: "./search.html", match: ["search.html"] },
         { label: "Full-Text OCR Search", href: "./ftx-search.html", match: ["ftx-search.html"] },
-        { label: "Official Release Guide", href: "./release-guide.html", match: ["release-guide.html"] }
+        { label: "Official Release Guide", href: "./release-guide.html", match: ["release-guide.html"] },
+        { label: "Deep Sweep", href: "./deep-sweep.html", match: ["deep-sweep.html"] }
       ]
     },
-    { label: "News", href: "./news.html", match: ["news.html"] },
-    { label: "Media", href: "./media.html", match: ["media.html"] },
-    { label: "Links", href: "./links.html", match: ["links.html"] },
+    {
+      label: "News",
+      href: "./news.html",
+      match: ["news.html"],
+      children: [
+        { label: "News Feed", href: "./news.html", match: ["news.html"] },
+        { label: "Case Timeline", href: "./timeline.html", match: ["timeline.html"] },
+        { label: "Master Timeline", href: "./master-timeline.html", match: ["master-timeline.html"] }
+      ]
+    },
+    {
+      label: "Media",
+      href: "./media.html",
+      match: ["media.html"],
+      children: [
+        { label: "Media Archive", href: "./media.html", match: ["media.html"] },
+        { label: "Gallery Picks", href: "./gallery-picks.html", match: ["gallery-picks.html"] },
+        { label: "Epstein Face Matches", href: "./epstein-face-matches.html", match: ["epstein-face-matches.html"] },
+        { label: "Handwritten Notes", href: "./handwritten-notes.html", match: ["handwritten-notes.html"] }
+      ]
+    },
+    {
+      label: "Links",
+      href: "./links.html",
+      match: ["links.html"],
+      children: [
+        { label: "Research Links", href: "./links.html", match: ["links.html"] },
+        { label: "How This Site Works", href: "./how-it-works.html", match: ["how-it-works.html"] },
+        { label: "How to Help", href: "./contribute.html", match: ["contribute.html"] }
+      ]
+    },
     {
       label: "Cast",
       href: "./cast.html",
@@ -47,18 +103,17 @@
         "patel.html", "russia.html", "thomas.html", "trump.html", "victims.html", "wexner.html"
       ],
       children: [
-        { label: "Cast Hub", href: "./cast.html" },
-        { label: "Ghislaine Maxwell", href: "./maxwell.html" },
-        { label: "Jean-Luc Brunel", href: "./brunel.html" },
-        { label: "Prince Andrew", href: "./andrew.html" },
-        { label: "Sarah Kellen", href: "./kellen.html" },
-        { label: "Lesley Groff", href: "./groff.html" },
-        { label: "Leon Black", href: "./black.html" },
-        { label: "Alan Dershowitz", href: "./dershowitz.html" },
-        { label: "William Barr", href: "./barr.html" },
-        { label: "Glenn Dubin", href: "./dubin.html" },
-        { label: "Donald Trump", href: "./trump.html" },
-        { label: "Victims & Accusers", href: "./victims.html" }
+        { label: "Cast Hub", href: "./cast.html", match: ["cast.html"] },
+        { label: "Ghislaine Maxwell", href: "./maxwell.html", match: ["maxwell.html"] },
+        { label: "Jean-Luc Brunel", href: "./brunel.html", match: ["brunel.html"] },
+        { label: "Sarah Kellen", href: "./kellen.html", match: ["kellen.html"] },
+        { label: "Lesley Groff", href: "./groff.html", match: ["groff.html"] },
+        { label: "Leon Black", href: "./black.html", match: ["black.html"] },
+        { label: "Prince Andrew", href: "./andrew.html", match: ["andrew.html"] },
+        { label: "Alan Dershowitz", href: "./dershowitz.html", match: ["dershowitz.html"] },
+        { label: "Glenn Dubin", href: "./dubin.html", match: ["dubin.html"] },
+        { label: "William Barr", href: "./barr.html", match: ["barr.html"] },
+        { label: "Victims & Accusers", href: "./victims.html", match: ["victims.html"] }
       ]
     },
     {
@@ -71,36 +126,56 @@
         { label: "Gallery Picks", href: "./gallery-picks.html", match: ["gallery-picks.html"] },
         { label: "Epstein Face Matches", href: "./epstein-face-matches.html", match: ["epstein-face-matches.html"] },
         { label: "Handwritten Notes", href: "./handwritten-notes.html", match: ["handwritten-notes.html"] },
-        { label: "People Category Gallery", href: "./gallery-category-person.html", match: ["gallery-category-person.html"] },
-        { label: "Epstein Photo Category", href: "./gallery-category-epstein-photos.html", match: ["gallery-category-epstein-photos.html"] },
+        { label: "People Gallery", href: "./gallery-category-person.html", match: ["gallery-category-person.html"] },
+        { label: "Epstein Photo Gallery", href: "./gallery-category-epstein-photos.html", match: ["gallery-category-epstein-photos.html"] },
         { label: "Face Close-Up Gallery", href: "./gallery-category-face-close-up.html", match: ["gallery-category-face-close-up.html"] }
       ]
     },
-    { label: "Timeline", href: "./timeline.html", match: ["timeline.html", "master-timeline.html"] },
-    { label: "Investigations", href: "./investigations.html", match: ["investigations.html", "investigation-c.html", "analysis.html"] },
-    { label: "Flights", href: "./flights.html", match: ["flights.html", "flights-intel.html", "financials.html"] },
-    { label: "Map", href: "./map.html", match: ["map.html", "navigator.html"] },
     {
-      label: "Explore",
-      href: "./hub.html",
-      match: ["hub.html"],
+      label: "Timeline",
+      href: "./timeline.html",
+      match: ["timeline.html", "master-timeline.html"],
       children: [
-        { label: "Site Hub", href: "./hub.html" },
-        { label: "Connection Map", href: "./map.html" },
-        { label: "Mind Map Navigator", href: "./navigator.html" },
-        { label: "Case Timeline", href: "./timeline.html" },
-        { label: "Master Timeline", href: "./master-timeline.html" },
-        { label: "Investigations", href: "./investigations.html" },
-        { label: "Investigation C", href: "./investigation-c.html" },
-        { label: "Flight Logs", href: "./flights.html" },
-        { label: "Legal Filings", href: "./legal-filings.html" },
-        { label: "Explosive Documents", href: "./explosive-docs.html" },
-        { label: "Deep Sweep", href: "./deep-sweep.html" },
-        { label: "Complicity Gradient", href: "./complicity-gradient.html" },
-        { label: "News", href: "./news.html" },
-        { label: "Links", href: "./links.html" },
-        { label: "Media Archive", href: "./media.html" },
-        { label: "How This Works", href: "./how-it-works.html" }
+        { label: "Case Timeline", href: "./timeline.html", match: ["timeline.html"] },
+        { label: "Master Timeline", href: "./master-timeline.html", match: ["master-timeline.html"] },
+        { label: "News", href: "./news.html", match: ["news.html"] }
+      ]
+    },
+    {
+      label: "Investigations",
+      href: "./investigations.html",
+      match: [
+        "investigations.html", "investigation-c.html", "analysis.html", "depositions.html",
+        "legal-filings.html", "explosive-docs.html", "inner-circle.html", "complicity-gradient.html", "deep-sweep.html"
+      ],
+      children: [
+        { label: "Investigations Hub", href: "./investigations.html", match: ["investigations.html"] },
+        { label: "Investigation C", href: "./investigation-c.html", match: ["investigation-c.html"] },
+        { label: "File Analysis", href: "./analysis.html", match: ["analysis.html"] },
+        { label: "Depositions", href: "./depositions.html", match: ["depositions.html"] },
+        { label: "Legal Filings", href: "./legal-filings.html", match: ["legal-filings.html"] },
+        { label: "Explosive Documents", href: "./explosive-docs.html", match: ["explosive-docs.html"] },
+        { label: "Complicity Gradient", href: "./complicity-gradient.html", match: ["complicity-gradient.html"] },
+        { label: "Deep Sweep", href: "./deep-sweep.html", match: ["deep-sweep.html"] }
+      ]
+    },
+    {
+      label: "Flights",
+      href: "./flights.html",
+      match: ["flights.html", "flights-intel.html", "financials.html"],
+      children: [
+        { label: "Flight Logs", href: "./flights.html", match: ["flights.html"] },
+        { label: "Flight Intelligence", href: "./flights-intel.html", match: ["flights-intel.html"] },
+        { label: "Financial Intelligence", href: "./financials.html", match: ["financials.html"] }
+      ]
+    },
+    {
+      label: "Map",
+      href: "./map.html",
+      match: ["map.html", "navigator.html"],
+      children: [
+        { label: "Connection Map", href: "./map.html", match: ["map.html"] },
+        { label: "Mind Map Navigator", href: "./navigator.html", match: ["navigator.html"] }
       ]
     },
     { label: "How to Help", href: "./contribute.html", match: ["contribute.html"] },
@@ -120,97 +195,341 @@
   brand.textContent = "THE PDF FILES";
   inner.appendChild(brand);
 
-  var toggle = document.createElement("button");
-  toggle.className = "site-nav-toggle";
-  toggle.setAttribute("aria-label", "Toggle menu");
-  toggle.innerHTML = "<span></span><span></span><span></span>";
-  inner.appendChild(toggle);
+  var list = document.createElement("ul");
+  list.className = "site-nav-links";
 
-  var ul = document.createElement("ul");
-  ul.className = "site-nav-links";
+  function setExpanded(item, expanded) {
+    var link = item.querySelector(".site-nav-link");
+    if (!link) return;
+    link.setAttribute("aria-expanded", expanded ? "true" : "false");
+  }
+
+  function closeAllMenus(exceptItem) {
+    var openItems = list.querySelectorAll(".site-nav-item.open");
+    openItems.forEach(function (item) {
+      if (exceptItem && item === exceptItem) return;
+      item.classList.remove("open");
+      setExpanded(item, false);
+    });
+  }
+
+  function openMenu(item) {
+    closeAllMenus(item);
+    item.classList.add("open");
+    setExpanded(item, true);
+  }
+
+  function toggleMenu(item) {
+    if (item.classList.contains("open")) {
+      item.classList.remove("open");
+      setExpanded(item, false);
+      return;
+    }
+    openMenu(item);
+  }
+
+  function bindWheelContain(menu) {
+    menu.addEventListener(
+      "wheel",
+      function (event) {
+        var delta = event.deltaY;
+        var atTop = menu.scrollTop <= 0;
+        var atBottom = menu.scrollTop + menu.clientHeight >= menu.scrollHeight - 1;
+        if ((delta < 0 && atTop) || (delta > 0 && atBottom)) {
+          event.preventDefault();
+        }
+      },
+      { passive: false }
+    );
+  }
 
   items.forEach(function (item) {
     var li = document.createElement("li");
     li.className = "site-nav-item";
 
-    var a = document.createElement("a");
-    a.href = item.href;
-    a.textContent = item.label;
+    var link = document.createElement("a");
+    link.className = "site-nav-link";
+    link.href = item.href;
+    link.textContent = item.label;
+
     if (item.external) {
-      a.target = "_blank";
-      a.rel = "noopener";
+      link.target = "_blank";
+      link.rel = "noopener";
     }
 
     if (itemIsActive(item)) {
-      a.classList.add("active");
+      link.classList.add("active");
     }
-    li.appendChild(a);
 
-    if (item.children && item.children.length) {
+    li.appendChild(link);
+
+    if (Array.isArray(item.children) && item.children.length) {
       li.classList.add("has-menu");
+      link.setAttribute("aria-haspopup", "true");
+      link.setAttribute("aria-expanded", "false");
+
       var menu = document.createElement("div");
       menu.className = "site-nav-menu";
 
       item.children.forEach(function (child) {
-        var ca = document.createElement("a");
-        ca.href = child.href;
-        ca.textContent = child.label;
+        var subLink = document.createElement("a");
+        subLink.className = "site-nav-sub-link";
+        subLink.href = child.href;
+        subLink.textContent = child.label;
         if (linkIsActive(child)) {
-          ca.classList.add("active");
+          subLink.classList.add("active");
+          li.classList.add("open");
+          link.setAttribute("aria-expanded", "true");
         }
-        menu.appendChild(ca);
+        menu.appendChild(subLink);
       });
 
+      bindWheelContain(menu);
       li.appendChild(menu);
+
+      li.addEventListener("mouseenter", function () {
+        if (!isTouchOrSmall()) {
+          openMenu(li);
+        }
+      });
+
+      li.addEventListener("mouseleave", function () {
+        if (!isTouchOrSmall()) {
+          li.classList.remove("open");
+          setExpanded(li, false);
+        }
+      });
+
+      link.addEventListener("click", function (event) {
+        if (isTouchOrSmall()) {
+          if (!li.classList.contains("open")) {
+            event.preventDefault();
+            openMenu(li);
+          }
+          return;
+        }
+      });
+
+      link.addEventListener("keydown", function (event) {
+        if (event.key === "ArrowDown") {
+          event.preventDefault();
+          openMenu(li);
+          var firstSub = menu.querySelector("a");
+          if (firstSub) firstSub.focus();
+        } else if (event.key === "Escape") {
+          li.classList.remove("open");
+          setExpanded(li, false);
+        }
+      });
     }
 
-    ul.appendChild(li);
+    list.appendChild(li);
   });
 
-  inner.appendChild(ul);
+  inner.appendChild(list);
   nav.appendChild(inner);
 
   var noise = document.querySelector(".noise");
-  if (noise && noise.nextSibling) {
+  if (noise && noise.parentNode) {
     noise.parentNode.insertBefore(nav, noise.nextSibling);
   } else {
     document.body.insertBefore(nav, document.body.firstChild);
   }
 
-  toggle.addEventListener("click", function () {
-    nav.classList.toggle("open");
+  document.addEventListener("click", function (event) {
+    if (!nav.contains(event.target)) {
+      closeAllMenus();
+    }
+  });
+
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape") {
+      closeAllMenus();
+    }
+  });
+
+  window.addEventListener("resize", function () {
+    closeAllMenus();
   });
 
   var style = document.createElement("style");
-  style.textContent = ""
-    + ".site-nav{position:sticky;top:0;z-index:9999;background:#1a1310;border-bottom:1px solid #3a2f28;font-family:var(--mono,\"IBM Plex Mono\",monospace)}"
-    + ".site-nav-inner{max-width:1320px;margin:0 auto;display:flex;align-items:center;padding:0 1rem;min-height:46px;gap:.5rem}"
-    + ".site-nav-brand{color:#c9a44a;font-weight:700;font-size:.82rem;letter-spacing:.06em;text-decoration:none;white-space:nowrap;margin-right:auto}"
-    + ".site-nav-brand:hover{color:#e0c070}"
-    + ".site-nav-toggle{display:none;background:none;border:none;cursor:pointer;padding:6px;flex-direction:column;gap:4px}"
-    + ".site-nav-toggle span{display:block;width:20px;height:2px;background:#c9a44a;border-radius:2px;transition:transform .2s}"
-    + ".site-nav-links{display:flex;list-style:none;margin:0;padding:0;gap:.15rem;flex-wrap:wrap;align-items:center}"
-    + ".site-nav-item{position:relative}"
-    + ".site-nav-links>li>a{display:block;padding:.35rem .55rem;color:#d4c4a8;font-size:.68rem;font-weight:600;text-decoration:none;border-radius:5px;letter-spacing:.02em;white-space:nowrap;transition:background .15s,color .15s}"
-    + ".site-nav-links>li>a:hover{background:#2a2118;color:#fff}"
-    + ".site-nav-links>li>a.active{background:#3a2a1a;color:#c9a44a}"
-    + ".site-nav-item.has-menu>a::after{content:' \\25BE';font-size:.56rem;opacity:.7;margin-left:.25rem}"
-    + ".site-nav-menu{display:none;position:absolute;top:100%;left:0;min-width:220px;max-width:320px;background:#211810;border:1px solid #3a2f28;border-radius:8px;padding:.35rem;box-shadow:0 12px 26px rgba(0,0,0,.35)}"
-    + ".site-nav-menu a{display:block;padding:.3rem .45rem;border-radius:6px;color:#d4c4a8;font-size:.65rem;font-weight:600;text-decoration:none;line-height:1.34;white-space:normal}"
-    + ".site-nav-menu a:hover{background:#2a2118;color:#fff}"
-    + ".site-nav-menu a.active{background:#3a2a1a;color:#c9a44a}"
-    + ".site-nav-item.has-menu:hover .site-nav-menu,.site-nav-item.has-menu:focus-within .site-nav-menu{display:block}"
-    + "@media(max-width:980px){"
-    + ".site-nav-toggle{display:flex}"
-    + ".site-nav-links{display:none;width:100%;flex-direction:column;padding:.5rem 0}"
-    + ".site-nav.open .site-nav-links{display:flex}"
-    + ".site-nav-inner{flex-wrap:wrap}"
-    + ".site-nav-item{width:100%}"
-    + ".site-nav-links>li>a{width:100%}"
-    + ".site-nav-item.has-menu>a::after{content:''}"
-    + ".site-nav-menu{display:block;position:static;min-width:0;max-width:none;background:transparent;border:none;box-shadow:none;padding:0 0 .25rem .85rem}"
-    + ".site-nav-menu a{font-size:.64rem;padding:.2rem .4rem;color:#bfae93}"
-    + ".site-nav-menu a:hover{background:#2a2118;color:#fff}"
-    + "}";
+  style.textContent = `
+    .site-nav {
+      position: sticky;
+      top: 0;
+      z-index: 9999;
+      background: #1a1310;
+      border-bottom: 1px solid #3a2f28;
+      box-shadow: 0 8px 22px rgba(0, 0, 0, 0.32);
+      font-family: var(--mono, "IBM Plex Mono", monospace);
+    }
+
+    .site-nav-inner {
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 0 1rem;
+      min-height: 48px;
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+    }
+
+    .site-nav-brand {
+      color: #c9a44a;
+      font-weight: 700;
+      font-size: 0.82rem;
+      letter-spacing: 0.06em;
+      text-decoration: none;
+      white-space: nowrap;
+      margin-right: 0.2rem;
+      flex: 0 0 auto;
+    }
+
+    .site-nav-brand:hover,
+    .site-nav-brand:focus-visible {
+      color: #e8c66f;
+    }
+
+    .site-nav-links {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.2rem;
+      min-width: 0;
+    }
+
+    .site-nav-item {
+      position: relative;
+      flex: 0 0 auto;
+    }
+
+    .site-nav-link {
+      display: block;
+      padding: 0.38rem 0.58rem;
+      color: #dbc9ad;
+      font-size: 0.68rem;
+      font-weight: 600;
+      line-height: 1.15;
+      text-decoration: none;
+      border-radius: 7px;
+      letter-spacing: 0.02em;
+      white-space: nowrap;
+      transition: background 0.14s ease, color 0.14s ease;
+    }
+
+    .site-nav-link:hover,
+    .site-nav-link:focus-visible {
+      color: #fff;
+      background: #2b2119;
+    }
+
+    .site-nav-link.active {
+      color: #d4af37;
+      background: #3a2919;
+    }
+
+    .site-nav-item.has-menu > .site-nav-link::after {
+      content: " v";
+      font-size: 0.56rem;
+      opacity: 0.78;
+      margin-left: 0.2rem;
+      vertical-align: 0.02rem;
+    }
+
+    .site-nav-menu {
+      display: none;
+      position: absolute;
+      top: calc(100% + 0.22rem);
+      left: 0;
+      min-width: 230px;
+      max-width: 340px;
+      max-height: min(72vh, 460px);
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      background: #211810;
+      border: 1px solid #3a2f28;
+      border-radius: 10px;
+      padding: 0.35rem;
+      box-shadow: 0 14px 32px rgba(0, 0, 0, 0.38);
+    }
+
+    .site-nav-sub-link {
+      display: block;
+      padding: 0.34rem 0.48rem;
+      border-radius: 7px;
+      color: #d7c5a9;
+      font-size: 0.65rem;
+      font-weight: 600;
+      line-height: 1.35;
+      text-decoration: none;
+      white-space: normal;
+      word-break: break-word;
+      transition: background 0.14s ease, color 0.14s ease;
+    }
+
+    .site-nav-sub-link:hover,
+    .site-nav-sub-link:focus-visible {
+      color: #fff;
+      background: #2c221a;
+    }
+
+    .site-nav-sub-link.active {
+      color: #d4af37;
+      background: #3a2919;
+    }
+
+    .site-nav-item.has-menu:hover > .site-nav-menu,
+    .site-nav-item.has-menu:focus-within > .site-nav-menu,
+    .site-nav-item.open > .site-nav-menu {
+      display: block;
+    }
+
+    @media (max-width: 980px) {
+      .site-nav-inner {
+        padding: 0 0.7rem;
+        gap: 0.45rem;
+      }
+
+      .site-nav-brand {
+        font-size: 0.78rem;
+      }
+
+      .site-nav-links {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        overscroll-behavior-x: contain;
+        scrollbar-width: thin;
+        padding: 0.22rem 0;
+        max-width: 100%;
+      }
+
+      .site-nav-links::-webkit-scrollbar {
+        height: 6px;
+      }
+
+      .site-nav-links::-webkit-scrollbar-thumb {
+        background: #4a3a2f;
+        border-radius: 999px;
+      }
+
+      .site-nav-link {
+        font-size: 0.67rem;
+        padding: 0.4rem 0.52rem;
+      }
+
+      .site-nav-menu {
+        position: fixed;
+        left: 0.65rem;
+        right: 0.65rem;
+        top: 50px;
+        max-width: none;
+        max-height: 66vh;
+      }
+    }
+  `;
+
   document.head.appendChild(style);
 })();
