@@ -1,0 +1,194 @@
+{
+    "alan dershowitz":  {
+                            "name":  "Alan Dershowitz",
+                            "filename":  "Alan_Dershowitz.png",
+                            "local_path":  "content/cast/portraits/Alan_Dershowitz.png",
+                            "download_url":  "https://upload.wikimedia.org/wikipedia/commons/a/a8/Alan_Dershowitz.png",
+                            "license_basis":  "Public domain (US Gov work)",
+                            "source_file_page":  "https://commons.wikimedia.org/wiki/File:Alan_Dershowitz.png"
+                        },
+    "bill clinton":  {
+                         "name":  "Bill Clinton",
+                         "filename":  "Bill_Clinton.jpg",
+                         "local_path":  "content/cast/portraits/Bill_Clinton.jpg",
+                         "download_url":  "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bill_Clinton.jpg",
+                         "license_basis":  "Public domain (White House/EOP)",
+                         "source_file_page":  "https://commons.wikimedia.org/wiki/File:Bill_Clinton.jpg"
+                     },
+    "bill gates":  {
+                       "name":  "Bill Gates",
+                       "filename":  "Bill_Gates_2018.jpg",
+                       "local_path":  "content/cast/portraits/Bill_Gates_2018.jpg",
+                       "download_url":  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bill_Gates_2018.jpg",
+                       "license_basis":  "Public domain (US HHS work)",
+                       "source_file_page":  "https://commons.wikimedia.org/wiki/File:Bill_Gates_2018.jpg"
+                   },
+    "bill richardson":  {
+                            "name":  "Bill Richardson",
+                            "filename":  "Bill_Richardson.jpg",
+                            "local_path":  "content/cast/portraits/Bill_Richardson.jpg",
+                            "download_url":  "https://upload.wikimedia.org/wikipedia/commons/4/49/Bill_Richardson_official_photograph_as_Secretary_of_Energy.jpg",
+                            "license_basis":  "Public domain (US DOE work)",
+                            "source_file_page":  "https://commons.wikimedia.org/wiki/File:Bill_Richardson_official_photograph_as_Secretary_of_Energy.jpg"
+                        },
+    "donald trump":  {
+                         "name":  "Donald Trump",
+                         "filename":  "Donald_Trump_2025.jpg",
+                         "local_path":  "content/cast/portraits/Donald_Trump_2025.jpg",
+                         "download_url":  "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+                         "license_basis":  "Public domain (US Gov work)",
+                         "source_file_page":  "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg"
+                     },
+    "george w bush":  {
+                          "name":  "George W. Bush",
+                          "filename":  "George_W_Bush.jpg",
+                          "local_path":  "content/cast/portraits/George_W_Bush.jpg",
+                          "download_url":  "https://upload.wikimedia.org/wikipedia/commons/d/d4/George-W-Bush.jpeg",
+                          "license_basis":  "Public domain (US Gov work)",
+                          "source_file_page":  "https://commons.wikimedia.org/wiki/File:George-W-Bush.jpeg"
+                      },
+    "hillary clinton":  {
+                            "name":  "Hillary Clinton",
+                            "filename":  "Hillary_Clinton.jpg",
+                            "local_path":  "content/cast/portraits/Hillary_Clinton.jpg",
+                            "download_url":  "https://upload.wikimedia.org/wikipedia/commons/8/84/Official_White_House_Portrait_of_Hillary_Clinton.jpg",
+                            "license_basis":  "Public domain (White House/EOP)",
+                            "source_file_page":  "https://commons.wikimedia.org/wiki/File:Official_White_House_Portrait_of_Hillary_Clinton.jpg"
+                        },
+    "chelsea clinton":  {
+                            "name":  "Chelsea Clinton",
+                            "filename":  "Chelsea_Clinton.jpg",
+                            "local_path":  "content/cast/portraits/Chelsea_Clinton.jpg",
+                            "download_url":  "https://upload.wikimedia.org/wikipedia/commons/9/98/Chelsea_Clinton_wraps_her_arms_around_President_Bill_Clinton.jpg",
+                            "license_basis":  "Public domain (White House/EOP)",
+                            "source_file_page":  "https://commons.wikimedia.org/wiki/File:Chelsea_Clinton_wraps_her_arms_around_President_Bill_Clinton.jpg"
+                        },
+    "merrick garland":  {
+                            "name":  "Merrick Garland",
+                            "filename":  "Merrick_Garland.jpg",
+                            "local_path":  "content/cast/portraits/Merrick_Garland.jpg",
+                            "download_url":  "https://upload.wikimedia.org/wikipedia/commons/f/ff/2016_Merrick_Garland_by_The_White_House_09.jpg",
+                            "license_basis":  "Public domain (White House/EOP)",
+                            "source_file_page":  "https://commons.wikimedia.org/wiki/File:2016_Merrick_Garland_by_The_White_House_09.jpg"
+                        },
+    "james comey":  {
+                        "name":  "James Comey",
+                        "filename":  "James_Comey.jpg",
+                        "local_path":  "content/cast/portraits/James_Comey.jpg",
+                        "download_url":  "https://upload.wikimedia.org/wikipedia/commons/f/fc/James_Comey_official_portrait_%28cropped%29.jpg",
+                        "license_basis":  "Public domain (FBI work)",
+                        "source_file_page":  "https://commons.wikimedia.org/wiki/File:James_Comey_official_portrait_(cropped).jpg"
+                    },
+    "prince andrew":  {
+                          "name":  "Prince Andrew",
+                          "filename":  "Prince_Andrew.jpg",
+                          "local_path":  "content/cast/portraits/Prince_Andrew.jpg",
+                          "download_url":  "https://upload.wikimedia.org/wikipedia/commons/6/65/Defense.gov_News_Photo_111201-D-BW835-012_-_Secretary_of_Defense_Leon_E._Panetta_speaks_with_The_Duke_of_York_Prince_Andrew_at_the_Centennial_Commemorative_Gala_for_Naval_Aviation_at_the.jpg",
+                          "license_basis":  "Public domain (US DoD work)",
+                          "source_file_page":  "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_111201-D-BW835-012_-_Secretary_of_Defense_Leon_E._Panetta_speaks_with_The_Duke_of_York_Prince_Andrew_at_the_Centennial_Commemorative_Gala_for_Naval_Aviation_at_the.jpg"
+                      },
+    "tony blair":  {
+                       "name":  "Tony Blair",
+                       "filename":  "Tony_Blair.jpg",
+                       "local_path":  "content/cast/portraits/Tony_Blair.jpg",
+                       "download_url":  "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tony_Blair_at_the_White_House_%282001-11-07%29.jpg",
+                       "license_basis":  "Public domain (White House/EOP)",
+                       "source_file_page":  "https://commons.wikimedia.org/wiki/File:Tony_Blair_at_the_White_House_(2001-11-07).jpg"
+                   },
+    "ehud barak":  {
+                       "name":  "Ehud Barak",
+                       "filename":  "Ehud_Barak.jpg",
+                       "local_path":  "content/cast/portraits/Ehud_Barak.jpg",
+                       "download_url":  "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ehud_Barak_official.jpg",
+                       "license_basis":  "CC0 / Public domain dedication",
+                       "source_file_page":  "https://commons.wikimedia.org/wiki/File:Ehud_Barak_official.jpg"
+                   },
+    "ghislaine maxwell":  {
+                              "name":  "Ghislaine Maxwell",
+                              "filename":  "Ghislaine_Maxwell.webp",
+                              "local_path":  "content/cast/portraits/Ghislaine_Maxwell.webp",
+                              "download_url":  "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ghislaine_Maxwell_MDC_mug_shot.webp",
+                              "license_basis":  "Public domain (US Gov work)",
+                              "source_file_page":  "https://commons.wikimedia.org/wiki/File:Ghislaine_Maxwell_MDC_mug_shot.webp"
+                          },
+    "jeffrey epstein":  {
+                            "name":  "Jeffrey Epstein",
+                            "filename":  "Jeffrey_Epstein.jpg",
+                            "local_path":  "content/cast/portraits/Jeffrey_Epstein.jpg",
+                            "download_url":  "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jeffrey_Epstein_2006_mug_shot_%283x4_close_cropped%29.jpg",
+                            "license_basis":  "Public domain (Florida public record)",
+                            "source_file_page":  "https://commons.wikimedia.org/wiki/File:Jeffrey_Epstein_2006_mug_shot_(3x4_close_cropped).jpg"
+                        },
+    "george clooney":  {
+                           "name":  "George Clooney",
+                           "filename":  "George_Clooney.jpg",
+                           "local_path":  "content/cast/portraits/George_Clooney.jpg",
+                           "download_url":  "https://upload.wikimedia.org/wikipedia/commons/8/8d/George_Clooney_2016.jpg",
+                           "license_basis":  "Public domain (US Gov work)",
+                           "source_file_page":  "https://commons.wikimedia.org/wiki/File:George_Clooney_2016.jpg"
+                       },
+    "george mitchell":  {
+                            "name":  "George Mitchell",
+                            "filename":  "George_Mitchell.jpg",
+                            "local_path":  "content/cast/portraits/George_Mitchell.jpg",
+                            "download_url":  "https://upload.wikimedia.org/wikipedia/commons/0/01/George_Mitchell_close-up_%28cropped%29.jpg",
+                            "license_basis":  "Public domain (US State Dept work)",
+                            "source_file_page":  "https://commons.wikimedia.org/wiki/File:George_Mitchell_close-up_(cropped).jpg"
+                        },
+    "robert de niro":  {
+                           "name":  "Robert De Niro",
+                           "filename":  "Robert_De_Niro.jpg",
+                           "local_path":  "content/cast/portraits/Robert_De_Niro.jpg",
+                           "download_url":  "https://upload.wikimedia.org/wikipedia/commons/b/bd/Robert_De_Niro_with_Kennedy_Center_Honor_at_the_White_House_on_December_6%2C_2009_%28cropped%29.jpg",
+                           "license_basis":  "Public domain (White House/EOP)",
+                           "source_file_page":  "https://commons.wikimedia.org/wiki/File:Robert_De_Niro_with_Kennedy_Center_Honor_at_the_White_House_on_December_6"
+                       },
+    "jay z":  {
+                  "name":  "Jay-Z",
+                  "filename":  "Jay_Z.jpg",
+                  "local_path":  "content/cast/portraits/Jay_Z.jpg",
+                  "download_url":  "https://upload.wikimedia.org/wikipedia/commons/3/36/Michelle_Obama_with_Jay_Z.jpg",
+                  "license_basis":  "Public domain (White House/EOP)",
+                  "source_file_page":  "https://commons.wikimedia.org/wiki/File:Michelle_Obama_with_Jay_Z.jpg"
+              },
+    "ivanka trump":  {
+                         "name":  "Ivanka Trump",
+                         "filename":  "Ivanka_Trump.jpg",
+                         "local_path":  "content/cast/portraits/Ivanka_Trump.jpg",
+                         "download_url":  "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ivanka_Trump_official_photo.jpg",
+                         "license_basis":  "Public domain (White House/EOP)",
+                         "source_file_page":  "https://commons.wikimedia.org/wiki/File:Ivanka_Trump_official_photo.jpg"
+                     },
+    "jared kushner":  {
+                          "name":  "Jared Kushner",
+                          "filename":  "Jared_Kushner.png",
+                          "local_path":  "content/cast/portraits/Jared_Kushner.png",
+                          "download_url":  "https://upload.wikimedia.org/wikipedia/commons/1/1e/Jared2017.png",
+                          "license_basis":  "Public domain (White House/EOP)",
+                          "source_file_page":  "https://commons.wikimedia.org/wiki/File:Jared2017.png"
+                      },
+    "melania trump":  {
+                          "name":  "Melania Trump",
+                          "filename":  "Melania_Trump.jpg",
+                          "local_path":  "content/cast/portraits/Melania_Trump.jpg",
+                          "download_url":  "https://upload.wikimedia.org/wikipedia/commons/a/a8/Melania_Trump%E2%80%99s_Official_White_House_Portrait_%282025%29.jpg",
+                          "license_basis":  "Public domain (White House/EOP)",
+                          "source_file_page":  "https://commons.wikimedia.org/wiki/File:Melania_Trump%E2%80%99s_Official_White_House_Portrait_(2025).jpg"
+                      },
+    "lindsey graham":  {
+                           "name":  "Lindsey Graham",
+                           "filename":  "Lindsey_Graham.jpg",
+                           "local_path":  "content/cast/portraits/Lindsey_Graham.jpg",
+                           "download_url":  "https://upload.wikimedia.org/wikipedia/commons/6/69/Lindsey_Graham_official_photo.jpg",
+                           "license_basis":  "Public domain (US Congress)",
+                           "source_file_page":  "https://commons.wikimedia.org/wiki/File:Lindsey_Graham_official_photo.jpg"
+                       },
+    "nikki haley":  {
+                        "name":  "Nikki Haley",
+                        "filename":  "Nikki_Haley.jpg",
+                        "local_path":  "content/cast/portraits/Nikki_Haley.jpg",
+                        "download_url":  "https://upload.wikimedia.org/wikipedia/commons/7/75/Nikki_Haley_official_photo.jpg",
+                        "license_basis":  "Public domain (US Gov work)",
+                        "source_file_page":  "https://commons.wikimedia.org/wiki/File:Nikki_Haley_official_photo.jpg"
+                    }
+}

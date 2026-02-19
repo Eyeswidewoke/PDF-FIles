@@ -9,7 +9,7 @@
   const TIER_COLORS = {7:"#b71c1c",6:"#c62828",5:"#d84315",4:"#e65100",3:"#ef6c00",2:"#f57f17",1:"#9e9e9e"};
   const CATEGORY_ORDER = ["08_Epstein_Network","01_Family","02_Inner_Circle","03_Cabinet_Admin","04_Campaign_Political","05_Legal_Investigations","06_Media_Propaganda","07_Business_Finance","08_Foreign","09_Opponents_Whistleblowers","10_Victims_Accusers","11_Historical_References"];
 
-  const state = {network:null,bundle:null,members:[],edges:[],memberBySlug:new Map(),filteredMembers:[],filteredEdges:[],availablePaths:new Set(),linkMaps:{castPages:new Map(),castProfiles:new Map(),peopleBuckets:new Map()},viewerPath:"",viewerRequestToken:0,viewerNeighborWindow:DEFAULT_NEIGHBOR_WINDOW};
+  const state = {network:null,bundle:null,portraitMapRaw:null,portraitByKey:new Map(),members:[],edges:[],memberBySlug:new Map(),filteredMembers:[],filteredEdges:[],availablePaths:new Set(),linkMaps:{castPages:new Map(),castProfiles:new Map(),peopleBuckets:new Map()},viewerPath:"",viewerRequestToken:0,viewerNeighborWindow:DEFAULT_NEIGHBOR_WINDOW};
 
   const $ = (id) => document.getElementById(id);
 
@@ -61,6 +61,31 @@
     collectionItemsByTitle("People Email Buckets").forEach(function(item){state.linkMaps.peopleBuckets.set(normalizeKey(item.label),normalizePath(item.path));});
   }
 
+  function buildPortraitMap(){
+    state.portraitByKey=new Map();
+    var src=state.portraitMapRaw||{};
+    if(Array.isArray(src)){
+      src.forEach(function(row){
+        if(!row||typeof row!=="object")return;
+        var rk=normalizeKey(row.name||row.person||"");
+        if(rk)state.portraitByKey.set(rk,row);
+      });
+      return;
+    }
+    if(!src||typeof src!=="object")return;
+    Object.entries(src).forEach(function(entry){
+      var rawKey=entry[0],row=entry[1];
+      if(!row||typeof row!=="object")return;
+      var k=normalizeKey(rawKey),nk=normalizeKey(row.name||"");
+      if(k)state.portraitByKey.set(k,row);
+      if(nk)state.portraitByKey.set(nk,row);
+    });
+  }
+
+  function portraitForName(name){
+    return state.portraitByKey.get(normalizeKey(name))||null;
+  }
+
   function sumMentions(member){var groups=member.connections||{},total=0;Object.values(groups).forEach(function(arr){(arr||[]).forEach(function(e){if(!e||e.slug===member.slug)return;total+=Number(e.mentions||0);});});return total;}
 
   function buildMemberRecords(){
@@ -72,7 +97,8 @@
       var pageFB=member.slug?"content/cast/pages/08-epstein-network-"+String(member.slug)+".md":"";
       var pagePath=firstAvailablePath(state.linkMaps.castPages.get(key),pageByCat,pageFB)||normalizePath(pageByCat||pageFB);
       var bucketPath=firstAvailablePath(state.linkMaps.peopleBuckets.get(key)||"");
-      return{slug:member.slug,name:member.name,category:member.category,categoryLabel:categoryLabel(member.category),connectionCount:Number(member.connection_count||0),connectionMentions:sumMentions(member),summary:stripSummary(member.summary),pagePath:pagePath,bucketPath:bucketPath,dossier:member.dossier||"",tier:member.tier||0,searchBlob:""};
+      var portrait=portraitForName(member.name);
+      return{slug:member.slug,name:member.name,category:member.category,categoryLabel:categoryLabel(member.category),connectionCount:Number(member.connection_count||0),connectionMentions:sumMentions(member),summary:stripSummary(member.summary),pagePath:pagePath,bucketPath:bucketPath,dossier:member.dossier||"",tier:member.tier||0,portrait:portrait,searchBlob:""};
     });
     var used=new Set();
     records.forEach(function(m,i){var s=String(m.slug||"").trim();if(!s)s="cast-member-"+(i+1);if(used.has(s))s=s+"-"+(i+1);used.add(s);m.slug=s;m.searchBlob=(m.name+" "+m.categoryLabel+" "+m.summary).toLowerCase();});
@@ -122,7 +148,20 @@
     if(member.bucketPath)btns.push('<button class="btn" data-open-path="'+escapeHtml(member.bucketPath)+'">Email Bucket</button>');
     if(!btns.length&&member.pagePath)btns.push('<button class="btn" data-open-path="'+escapeHtml(member.pagePath)+'">Cast Page</button>');
 
-    return'<article class="member-card">'+'<div class="member-name">'+escapeHtml(member.name)+tierBadge+"</div>"+'<div class="member-cat" style="color:'+escapeHtml(catColor)+'">'+escapeHtml(categoryIcon(member.category)+" "+member.categoryLabel)+"</div>"+'<p class="member-summary">'+escapeHtml(member.summary)+"</p>"+'<div class="member-actions">'+btns.join("")+"</div></article>";
+    var portrait=member.portrait||null;
+    var avatarHtml='<div class="member-avatar member-avatar-fallback">'+escapeHtml((String(member.name||"?").trim().charAt(0)||"?").toUpperCase())+'</div>';
+    if(portrait){
+      var localPath=normalizePath(portrait.local_path||"");
+      var remoteUrl=String(portrait.download_url||"").trim();
+      var src=localPath?"./"+localPath:remoteUrl;
+      if(src){
+        var fallbackAttr=remoteUrl?' data-fallback-src="'+escapeHtml(remoteUrl)+'"':"";
+        var titleBits=[portrait.license_basis||"",portrait.source_file_page||""].filter(Boolean).join(" | ");
+        avatarHtml='<img class="member-avatar" loading="lazy" decoding="async" referrerpolicy="no-referrer" src="'+escapeHtml(src)+'" alt="'+escapeHtml(member.name)+' portrait"'+fallbackAttr+(titleBits?' title="'+escapeHtml(titleBits)+'"':"")+">";
+      }
+    }
+
+    return'<article class="member-card">'+'<div class="member-head">'+avatarHtml+'<div class="member-head-copy"><div class="member-name">'+escapeHtml(member.name)+tierBadge+"</div>"+'<div class="member-cat" style="color:'+escapeHtml(catColor)+'">'+escapeHtml(categoryIcon(member.category)+" "+member.categoryLabel)+"</div></div></div>"+'<p class="member-summary">'+escapeHtml(member.summary)+"</p>"+'<div class="member-actions">'+btns.join("")+"</div></article>";
   }
 
   function populateDirectoryFilters(){
@@ -180,6 +219,7 @@
       $("memberList").innerHTML='<div class="member-list-inner">'+members.map(function(m){return memberCardHtml(m);}).join("")+'</div>';
     }
     bindPathButtons($("memberList"));
+    bindPortraitFallback($("memberList"));
   }
 
   function renderTopConnected(){
@@ -187,6 +227,7 @@
     if(!top.length)top=state.members.filter(function(m){return m.connectionCount>0;}).sort(function(a,b){return b.connectionCount-a.connectionCount;}).slice(0,12);
     $("topConnected").innerHTML=top.map(function(m){return memberCardHtml(m);}).join("");
     bindPathButtons($("topConnected"));
+    bindPortraitFallback($("topConnected"));
   }
 
   function applyEdgeFilters(){
@@ -206,6 +247,20 @@
   }
 
   function bindPathButtons(scope){if(!scope)return;scope.querySelectorAll("[data-open-path]").forEach(function(b){b.addEventListener("click",function(){openDoc(b.getAttribute("data-open-path"));});});}
+  function bindPortraitFallback(scope){
+    if(!scope)return;
+    scope.querySelectorAll("img.member-avatar[data-fallback-src]").forEach(function(img){
+      if(img.dataset.fallbackBound==="1")return;
+      img.dataset.fallbackBound="1";
+      img.addEventListener("error",function(){
+        var fallback=img.getAttribute("data-fallback-src")||"";
+        if(!fallback)return;
+        if(img.dataset.fallbackUsed==="1")return;
+        img.dataset.fallbackUsed="1";
+        img.src=fallback;
+      });
+    });
+  }
   function bindInlineLinks(scope,currentPath){if(!scope)return;scope.querySelectorAll("a[data-inline-link='1']").forEach(function(a){a.addEventListener("click",function(ev){var h=a.getAttribute("href")||"";if(isExternalHref(h))return;var r=resolveInternalPath(currentPath,h);if(!r)return;ev.preventDefault();var k=resolveKnownPath(r);if(k){openDoc(k);return;}showMissingDoc(r);});});}
   function switchTab(k){document.querySelectorAll(".tab-btn").forEach(function(b){b.classList.toggle("active",b.dataset.tab===k);});document.querySelectorAll(".tab-content").forEach(function(p){p.classList.toggle("active",p.id==="tab-"+k);});}
   function bindTabs(){document.querySelectorAll(".tab-btn").forEach(function(b){b.addEventListener("click",function(){switchTab(b.dataset.tab);});});}
@@ -257,13 +312,15 @@
   }
 
   async function loadData(){
-    var[nr,br]=await Promise.all([fetch("./content/cast/cast-network.json",{cache:"no-store"}),fetch("./data/public-data.json",{cache:"no-store"})]);
+    var portraitReq=fetch("./content/cast/cast-portraits.json",{cache:"no-store"}).catch(function(){return null;});
+    var[nr,br,pr]=await Promise.all([fetch("./content/cast/cast-network.json",{cache:"no-store"}),fetch("./data/public-data.json",{cache:"no-store"}),portraitReq]);
     if(!nr.ok)throw new Error("Failed to load cast network");if(!br.ok)throw new Error("Failed to load public-data");
     state.network=await nr.json();state.bundle=await br.json();indexAvailablePaths();
+    state.portraitMapRaw=pr&&pr.ok?await pr.json():{};
   }
 
   async function boot(){
-    try{await loadData();buildLinkMaps();buildMemberRecords();buildEdgeRecords();bindTabs();bindControls();populateDirectoryFilters();renderStats();renderCategoryBars();renderTopConnected();applyMemberFilters();applyEdgeFilters();}
+    try{await loadData();buildLinkMaps();buildPortraitMap();buildMemberRecords();buildEdgeRecords();bindTabs();bindControls();populateDirectoryFilters();renderStats();renderCategoryBars();renderTopConnected();applyMemberFilters();applyEdgeFilters();}
     catch(err){document.body.innerHTML+='<p style="padding:1rem;color:#ff7a7a;text-align:center">Failed to load: '+escapeHtml(String(err))+"</p>";}
   }
 
