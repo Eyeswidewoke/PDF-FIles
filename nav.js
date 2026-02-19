@@ -43,10 +43,11 @@
     {
       label: "Hub",
       href: "./hub.html",
-      match: ["hub.html"],
+      match: ["hub.html", "dataset-file-index.html"],
       children: [
         { label: "Site Hub", href: "./hub.html", match: ["hub.html"] },
         { label: "Official Release Guide", href: "./release-guide.html", match: ["release-guide.html"] },
+        { label: "Dataset File Index", href: "./dataset-file-index.html", match: ["dataset-file-index.html"] },
         { label: "Connection Map", href: "./map.html", match: ["map.html"] },
         { label: "Case Timeline", href: "./timeline.html", match: ["timeline.html"] }
       ]

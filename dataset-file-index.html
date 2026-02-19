@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dataset File Index | THE PDF FILES</title>
+  <meta name="description" content="Browse the full filename inventory for each official DOJ DataSet (DS1-DS12), including local download dates and downloadable TXT/CSV lists." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260219-dataset-index1" />
+  <style>
+    .dataset-index-shell {
+      max-width: 1260px;
+      margin: 0 auto;
+      padding: 0.9rem 1rem 2rem;
+    }
+
+    .dataset-meta-grid {
+      display: grid;
+      gap: 0.55rem;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    }
+
+    .dataset-meta-card {
+      border: 1px solid var(--border);
+      border-radius: 0.75rem;
+      padding: 0.6rem 0.68rem;
+      background: linear-gradient(145deg, #fffef9 0%, #f8f0e6 100%);
+      box-shadow: 0 8px 18px rgba(36, 26, 19, 0.08);
+    }
+
+    .dataset-meta-label {
+      margin: 0;
+      color: #6f665f;
+      font: 700 0.64rem var(--mono);
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+    }
+
+    .dataset-meta-value {
+      margin: 0.2rem 0 0;
+      color: #271e16;
+      font: 700 1.02rem var(--mono);
+      line-height: 1.3;
+    }
+
+    .dataset-cards-grid {
+      display: grid;
+      gap: 0.55rem;
+      grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    }
+
+    .dataset-select-card {
+      width: 100%;
+      text-align: left;
+      border: 1px solid #d8c4af;
+      border-radius: 0.7rem;
+      padding: 0.58rem;
+      background: #fffaf3;
+      color: #2a1e14;
+      cursor: pointer;
+      font: 500 0.78rem var(--sans);
+      transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+    }
+
+    .dataset-select-card:hover,
+    .dataset-select-card:focus-visible {
+      transform: translateY(-1px);
+      box-shadow: 0 8px 20px rgba(44, 30, 21, 0.14);
+      border-color: #bf8b48;
+    }
+
+    .dataset-select-card.active {
+      border-color: #a7501f;
+      box-shadow: 0 10px 22px rgba(101, 47, 23, 0.2);
+      background: linear-gradient(145deg, #fff2e6 0%, #ffe8d5 100%);
+    }
+
+    .dataset-select-id {
+      display: block;
+      font: 700 0.8rem var(--mono);
+      color: #7e2f12;
+      letter-spacing: 0.03em;
+    }
+
+    .dataset-select-count {
+      display: block;
+      margin-top: 0.2rem;
+      font: 700 0.9rem var(--mono);
+      color: #291f16;
+    }
+
+    .dataset-select-date {
+      display: block;
+      margin-top: 0.2rem;
+      color: #65584d;
+      font: 500 0.67rem var(--mono);
+      line-height: 1.35;
+    }
+
+    .dataset-viewer-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 0.7rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.55rem;
+    }
+
+    .dataset-viewer-title {
+      margin: 0;
+      font-size: 1.08rem;
+      color: #251b14;
+    }
+
+    .dataset-viewer-meta {
+      margin: 0.18rem 0 0;
+      color: #5f5348;
+      font-size: 0.81rem;
+      line-height: 1.4;
+    }
+
+    .dataset-viewer-actions {
+      display: flex;
+      gap: 0.42rem;
+      flex-wrap: wrap;
+    }
+
+    .viewer-link-pill {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 1.8rem;
+      padding: 0.2rem 0.5rem;
+      border-radius: 999px;
+      border: 1px solid #ddb3a2;
+      background: #fff4eb;
+      color: #8f2f15;
+      text-decoration: none;
+      font: 600 0.66rem var(--mono);
+      letter-spacing: 0.02em;
+    }
+
+    .viewer-link-pill:hover,
+    .viewer-link-pill:visited,
+    .viewer-link-pill:active {
+      color: #8f2f15;
+      text-decoration: none;
+    }
+
+    .viewer-link-pill:hover {
+      background: #ffe9db;
+    }
+
+    .dataset-viewer-controls {
+      display: grid;
+      gap: 0.45rem;
+      grid-template-columns: minmax(220px, 1fr) auto auto auto;
+      align-items: center;
+      margin-bottom: 0.6rem;
+    }
+
+    .dataset-filter-input,
+    .dataset-page-input,
+    .dataset-page-size {
+      border: 1px solid #d6c3af;
+      border-radius: 0.55rem;
+      background: #fffefb;
+      color: #2e251e;
+      font: 500 0.74rem var(--mono);
+      line-height: 1.2;
+      padding: 0.45rem 0.55rem;
+      outline: none;
+    }
+
+    .dataset-page-size {
+      min-width: 110px;
+    }
+
+    .dataset-filter-input:focus,
+    .dataset-page-input:focus,
+    .dataset-page-size:focus {
+      border-color: #bf8b48;
+      box-shadow: 0 0 0 2px rgba(191, 139, 72, 0.18);
+    }
+
+    .viewer-btn {
+      border: 1px solid #d0bba5;
+      border-radius: 0.55rem;
+      background: #f9f1e7;
+      color: #4f4034;
+      font: 600 0.67rem var(--mono);
+      line-height: 1.1;
+      padding: 0.45rem 0.55rem;
+      cursor: pointer;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .viewer-btn:hover,
+    .viewer-btn:focus-visible {
+      background: #f2e5d7;
+      color: #2f251e;
+    }
+
+    .dataset-status-line {
+      margin: 0 0 0.55rem;
+      min-height: 1rem;
+      color: #6a5b4e;
+      font: 500 0.72rem var(--mono);
+    }
+
+    .dataset-file-wrap {
+      border: 1px solid var(--border);
+      border-radius: 0.7rem;
+      background: #fffdfa;
+      overflow: auto;
+      max-height: 68vh;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5);
+    }
+
+    .dataset-file-table {
+      width: 100%;
+      min-width: 540px;
+      border-collapse: collapse;
+      font-family: var(--mono);
+    }
+
+    .dataset-file-table th,
+    .dataset-file-table td {
+      border-bottom: 1px solid #efe3d7;
+      padding: 0.34rem 0.52rem;
+      text-align: left;
+      vertical-align: top;
+      font-size: 0.72rem;
+      line-height: 1.34;
+    }
+
+    .dataset-file-table thead th {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: #f8eee4;
+      color: #5c4f44;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+      font-weight: 700;
+      font-size: 0.64rem;
+    }
+
+    .dataset-file-table td:first-child {
+      width: 86px;
+      color: #75675a;
+    }
+
+    .dataset-file-empty {
+      margin: 0;
+      padding: 0.8rem;
+      color: #62564b;
+      font: 500 0.78rem var(--mono);
+    }
+
+    .dataset-pagination {
+      margin-top: 0.55rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+    }
+
+    .dataset-pagination-info {
+      color: #62564a;
+      font: 500 0.72rem var(--mono);
+    }
+
+    .dataset-pagination-controls {
+      display: flex;
+      gap: 0.35rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .dataset-page-input {
+      width: 80px;
+      text-align: center;
+    }
+
+    @media (max-width: 900px) {
+      .dataset-viewer-controls {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .dataset-file-wrap {
+        max-height: 56vh;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .dataset-viewer-controls {
+        grid-template-columns: 1fr;
+      }
+
+      .dataset-pagination {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .dataset-pagination-controls {
+        justify-content: flex-start;
+      }
+
+      .dataset-cards-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+  <script src="./nav.js"></script>
+
+  <header class="hero">
+    <h1>DATASET FILE INDEX</h1>
+    <p class="subhead" style="margin:0.55rem auto 0;max-width:84ch;text-align:center">
+      Click any official dataset (DS1-DS12) to open the full filename inventory, with local download date metadata from your last-week pull.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+    <nav class="hero-nav" aria-label="Dataset file index links">
+      <a class="hero-nav-btn" href="./release-guide.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900);box-shadow:0 4px 14px rgba(125,77,0,0.32)">OFFICIAL RELEASE GUIDE &rarr;</a>
+      <a class="hero-nav-btn" href="./search.html" style="background:linear-gradient(125deg,#bf3b18,#8f2609);box-shadow:0 4px 14px rgba(191,59,24,0.3)">ADVANCED SEARCH &rarr;</a>
+      <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#335f8f,#1d3f63);box-shadow:0 4px 14px rgba(33,73,112,0.3)">MAIN SITE &rarr;</a>
+    </nav>
+  </header>
+
+  <main class="dataset-index-shell">
+    <section class="panel datasets-panel">
+      <h2>Inventory Snapshot</h2>
+      <p class="hint">Source: <code>_LOGS/doj_original_inventory.json</code>. Download dates are based on local <code>_DATA/DataSet*</code> folder creation timestamps.</p>
+      <div id="datasetSummaryCards" class="dataset-meta-grid" aria-live="polite">
+        <article class="dataset-meta-card"><p class="dataset-meta-label">Loading</p><p class="dataset-meta-value">Preparing dataset inventory...</p></article>
+      </div>
+    </section>
+
+    <section class="panel datasets-panel">
+      <h2>Choose a Dataset</h2>
+      <p class="hint">Open any dataset to inspect every filename included in that dataset.</p>
+      <div id="datasetCards" class="dataset-cards-grid" role="listbox" aria-label="Dataset selector"></div>
+    </section>
+
+    <section class="panel datasets-panel">
+      <div class="dataset-viewer-head">
+        <div>
+          <h2 id="viewerTitle" class="dataset-viewer-title">Dataset Files</h2>
+          <p id="viewerMeta" class="dataset-viewer-meta">Select a dataset above to load filenames.</p>
+        </div>
+        <div id="viewerActions" class="dataset-viewer-actions" hidden>
+          <a id="downloadTxt" class="viewer-link-pill" href="#" target="_blank" rel="noopener">Open TXT</a>
+          <a id="downloadCsv" class="viewer-link-pill" href="#" target="_blank" rel="noopener">Open CSV</a>
+        </div>
+      </div>
+
+      <div class="dataset-viewer-controls">
+        <input id="filenameFilter" class="dataset-filter-input" type="search" placeholder="Filter filenames inside selected dataset..." autocomplete="off" spellcheck="false" />
+        <select id="pageSize" class="dataset-page-size" aria-label="Rows per page">
+          <option value="250">250 rows/page</option>
+          <option value="500" selected>500 rows/page</option>
+          <option value="1000">1000 rows/page</option>
+        </select>
+        <button id="applyFilter" class="viewer-btn" type="button">Apply Filter</button>
+        <button id="clearFilter" class="viewer-btn" type="button">Clear</button>
+      </div>
+
+      <p id="viewerStatus" class="dataset-status-line" aria-live="polite"></p>
+
+      <div class="dataset-file-wrap" aria-live="polite">
+        <table class="dataset-file-table">
+          <thead>
+            <tr>
+              <th scope="col">Row</th>
+              <th scope="col">Filename</th>
+            </tr>
+          </thead>
+          <tbody id="fileRows">
+            <tr><td colspan="2"><p class="dataset-file-empty">No dataset selected yet.</p></td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="dataset-pagination">
+        <div id="paginationInfo" class="dataset-pagination-info">Rows 0-0 of 0</div>
+        <div class="dataset-pagination-controls">
+          <button id="prevPage" class="viewer-btn" type="button">Prev</button>
+          <input id="pageInput" class="dataset-page-input" type="number" min="1" value="1" aria-label="Current page" />
+          <button id="jumpPage" class="viewer-btn" type="button">Go</button>
+          <button id="nextPage" class="viewer-btn" type="button">Next</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="./dataset-file-index.js?v=20260219-dataset-index1" defer></script>
+</body>
+</html>
