@@ -1,0 +1,583 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NEWS | THE PDF FILES</title>
+  <meta name="description" content="Source-linked news timeline for DOJ Epstein file releases, hearings, corrections, and historical case milestones." />
+  <meta property="og:title" content="NEWS Page Starter for The PDF Files" />
+  <meta property="og:description" content="A source-linked timeline of the Epstein case and the DOJ Epstein Files release saga." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eyeswidewoke.github.io/PDF-FIles/news.html" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📁</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260218-news1" />
+  <style>
+    .news-shell {
+      max-width: 980px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+    }
+    .news-shell.grid {
+      grid-template-columns: 1fr;
+    }
+    .news-hero {
+      text-align: center;
+      padding: 2rem 1rem 1.1rem;
+    }
+    .news-hero h1 {
+      margin: 0 0 0.4rem;
+      font-size: clamp(1.55rem, 3.8vw, 2.3rem);
+      letter-spacing: 0.02em;
+      color: #2a1d10;
+    }
+    .news-subtitle {
+      margin: 0;
+      color: #6b5e50;
+      font-size: 0.95rem;
+      line-height: 1.65;
+    }
+    .meta-strip {
+      margin: 0.85rem auto 0;
+      max-width: 900px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.45rem;
+    }
+    .meta-pill {
+      border: 1px solid #dbcab6;
+      border-radius: 999px;
+      padding: 0.24rem 0.62rem;
+      background: #fff8ef;
+      color: #5f4f43;
+      font: 600 0.7rem var(--mono);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .section-card {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: linear-gradient(150deg, #fffefb 0%, #fff8ef 100%);
+      padding: 1.15rem 1.25rem;
+      margin: 0.72rem 0;
+    }
+    .section-card h2 {
+      margin: 0 0 0.55rem;
+      font-size: 1.08rem;
+      color: #2a1d10;
+      letter-spacing: 0.01em;
+    }
+    .section-card p {
+      margin: 0 0 0.65rem;
+      color: #3a3025;
+      font-size: 0.88rem;
+      line-height: 1.65;
+    }
+    .section-card ul,
+    .section-card ol {
+      margin: 0;
+      padding-left: 1.2rem;
+      color: #3a3025;
+      font-size: 0.86rem;
+      line-height: 1.58;
+    }
+    .section-card li {
+      margin-bottom: 0.45rem;
+    }
+    .news-item {
+      border: 1px solid #ddcdbd;
+      border-radius: 10px;
+      background: #fff9f2;
+      padding: 0.7rem 0.78rem;
+      margin: 0 0 0.55rem;
+    }
+    .news-item:last-child {
+      margin-bottom: 0;
+    }
+    .news-date {
+      display: inline-flex;
+      margin: 0 0 0.26rem;
+      border-radius: 999px;
+      border: 1px solid #d8c4b2;
+      background: #f8ecdf;
+      color: #6a5a4a;
+      padding: 0.12rem 0.48rem;
+      font: 600 0.67rem var(--mono);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+    .news-title {
+      margin: 0 0 0.2rem;
+      color: #231a14;
+      font-size: 0.91rem;
+      font-weight: 700;
+      line-height: 1.5;
+    }
+    .news-copy {
+      margin: 0;
+      color: #3a3025;
+      font-size: 0.84rem;
+      line-height: 1.57;
+    }
+    .news-copy a,
+    .section-card a {
+      color: #8f2f15;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .news-copy a:hover,
+    .section-card a:hover {
+      text-decoration: underline;
+    }
+    .code-wrap {
+      border: 1px solid #d7c7b8;
+      border-radius: 10px;
+      overflow: hidden;
+      background: #fffdf9;
+      margin-top: 0.5rem;
+    }
+    .code-head {
+      padding: 0.45rem 0.7rem;
+      border-bottom: 1px solid #e5d7c7;
+      background: #f7efe4;
+      color: #63564b;
+      font: 600 0.7rem var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .code-wrap pre {
+      margin: 0;
+      max-height: 420px;
+      overflow: auto;
+      padding: 0.76rem 0.85rem;
+      font: 0.75rem/1.5 var(--mono);
+      color: #2f251f;
+      white-space: pre;
+    }
+    .ark-grid {
+      display: grid;
+      grid-template-columns: 120px 1fr;
+      gap: 0.3rem 0.65rem;
+    }
+    .ark-k {
+      color: #6f6053;
+      font: 600 0.7rem var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+    .ark-v {
+      color: #3a3025;
+      font-size: 0.84rem;
+      line-height: 1.53;
+    }
+    .sources-list {
+      margin: 0;
+      padding-left: 1.3rem;
+      color: #3a3025;
+      font-size: 0.82rem;
+      line-height: 1.6;
+    }
+    .sources-list li {
+      margin-bottom: 0.3rem;
+    }
+    .back-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem;
+      margin: 1.25rem 0 0.5rem;
+    }
+    .back-links a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      padding: 0.55rem 1rem;
+      text-decoration: none;
+      font: 600 0.8rem var(--mono);
+      letter-spacing: 0.02em;
+      color: #fff;
+      background: linear-gradient(125deg, #5f4c3f, #3f3128);
+    }
+    .back-links a:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(63, 49, 40, 0.3);
+    }
+    .integrity-note {
+      margin: 0.9rem 0 0.2rem;
+      padding: 0.9rem;
+      border-top: 1px solid var(--border);
+      color: #6b5e50;
+      text-align: center;
+      font-size: 0.8rem;
+      line-height: 1.6;
+    }
+    @media (max-width: 760px) {
+      .section-card {
+        padding: 0.92rem 0.95rem;
+      }
+      .ark-grid {
+        grid-template-columns: 1fr;
+      }
+      .code-wrap pre {
+        font-size: 0.72rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+
+  <main class="grid news-shell">
+    <header class="news-hero">
+      <h1>NEWS Page Starter for The PDF Files</h1>
+      <p class="news-subtitle">
+        A source-linked timeline of the Epstein case and the recent DOJ "Epstein Files" release saga.
+      </p>
+      <div class="meta-strip" aria-label="News metadata">
+        <span class="meta-pill">February 18, 2026</span>
+        <span class="meta-pill">3:38 PM (America/Los_Angeles)</span>
+        <span class="meta-pill">#epsteinfiles</span>
+        <span class="meta-pill">#news</span>
+        <span class="meta-pill">#timeline</span>
+        <span class="meta-pill">#doj</span>
+        <span class="meta-pill">#verification</span>
+      </div>
+    </header>
+
+    <section class="section-card">
+      <h2>Intro</h2>
+      <p>
+        This page is structured for "recent biggest stories first" followed by historical context. It is written to be shareable and defensible:
+        each entry is grounded in source links and framed as verified reporting or official documentation.
+      </p>
+    </section>
+
+    <section class="section-card">
+      <h2>Latest Updates (Reverse Chronological)</h2>
+
+      <article class="news-item">
+        <div class="news-date">Jan 30, 2026</div>
+        <h3 class="news-title">DOJ publishes ~3.5M pages + 2,000+ videos + 180,000 images (EFTA compliance claim).</h3>
+        <p class="news-copy">
+          DOJ says the production is EFTA-compliant, flags over-collection, and lists exceptions (duplicates, privilege, statutory exclusions), while warning some FBI public submissions may be false. <a href="#src-1">[1]</a>
+        </p>
+      </article>
+
+      <article class="news-item">
+        <div class="news-date">Feb 14, 2026</div>
+        <h3 class="news-title">Section 3 report to Congress delivered (names, categories, redaction context).</h3>
+        <p class="news-copy">
+          Reporting says DOJ sent Section 3 materials covering referenced officials/PEPs and reiterating that inclusion in files is not, by itself, wrongdoing. <a href="#src-2">[2]</a>
+        </p>
+      </article>
+
+      <article class="news-item">
+        <div class="news-date">Feb 13, 2026</div>
+        <h3 class="news-title">Redaction error involving photo-lineup names creates collateral harm.</h3>
+        <p class="news-copy">
+          DOJ reportedly clarified that some unredacted names read publicly came from investigative lineup materials and were not presented as Epstein associates. <a href="#src-4">[4]</a>
+        </p>
+      </article>
+
+      <article class="news-item">
+        <div class="news-date">Feb 11-12, 2026</div>
+        <h3 class="news-title">House hearing focus shifts to process: redactions, privacy, and withholding.</h3>
+        <p class="news-copy">
+          Coverage emphasizes conflict between transparency demands and victim/privacy protections during testimony and questioning. <a href="#src-3">[3]</a>
+        </p>
+      </article>
+
+      <article class="news-item">
+        <div class="news-date">Feb 2026</div>
+        <h3 class="news-title">International fallout expands (Norway resignation and investigations).</h3>
+        <p class="news-copy">
+          Public reporting links resignation/scrutiny cycles in Norway to Epstein-contact controversies and related institutional review. <a href="#src-5">[5]</a>
+        </p>
+      </article>
+
+      <article class="news-item">
+        <div class="news-date">Feb 4, 2026</div>
+        <h3 class="news-title">Files reportedly show post-2008 communications and meetings involving William J. Burns.</h3>
+        <p class="news-copy">
+          Reporting describes messages and meeting planning; public spokesperson comments characterize those contacts as later regretted and discontinued. <a href="#src-6">[6]</a>
+        </p>
+      </article>
+
+      <article class="news-item">
+        <div class="news-date">Dec 2025 - Jan 2026</div>
+        <h3 class="news-title">Low release-percentage and review-workload reporting dominates the cycle.</h3>
+        <p class="news-copy">
+          Outlets reported that only a small share had been released at that time, with scale/redaction workload cited as constraints. <a href="#src-7">[7]</a>
+        </p>
+      </article>
+
+      <article class="news-item">
+        <div class="news-date">Dec 2025 - Jan 2026</div>
+        <h3 class="news-title">Files appear, disappear, then reappear after review concerns.</h3>
+        <p class="news-copy">
+          AP and WSJ reporting described temporary removals/reposts, intensifying public distrust in release mechanics. <a href="#src-8">[8]</a>
+        </p>
+      </article>
+    </section>
+
+    <section class="section-card">
+      <h2>Release Timeline by Phase</h2>
+
+      <div class="news-item">
+        <h3 class="news-title">I. Pre-Arrest History (2005-2018)</h3>
+        <p class="news-copy">
+          2005-2007: Palm Beach investigation and federal NPA negotiations; victims were not informed, later tied to CVRA findings. <a href="#src-9">[9]</a><br />
+          2008: Federal NPA era (state plea, work release, broad immunity language) becomes the core structural controversy.<br />
+          2014-2018: Civil litigation wave, unsealed deposition material, black-book/flight-log circulation, and expanded investigative reporting.
+        </p>
+      </div>
+
+      <div class="news-item">
+        <h3 class="news-title">II. 2019 Shock Event</h3>
+        <p class="news-copy">
+          July 8, 2019: SDNY arrest and federal trafficking charges. <a href="#src-10">[10]</a><br />
+          Aug 10, 2019: Death in MCC custody. <a href="#src-11">[11]</a><br />
+          2020-2023: Inspector General review cycle documents institutional failures and negligence.
+        </p>
+      </div>
+
+      <div class="news-item">
+        <h3 class="news-title">III. Maxwell Era (2020-2022)</h3>
+        <p class="news-copy">
+          Maxwell arrest, trial, conviction, and 20-year sentence mark the only major adjudicated criminal outcome beyond Epstein. <a href="#src-12">[12]</a>
+        </p>
+      </div>
+
+      <div class="news-item">
+        <h3 class="news-title">IV. Banking / Financial Litigation (2023-2024)</h3>
+        <p class="news-copy">
+          JPMorgan and Deutsche Bank litigation/settlement cycles brought compliance-level institutional exposure into the mainstream case narrative.
+        </p>
+      </div>
+
+      <div class="news-item">
+        <h3 class="news-title">V. Epstein Files Transparency Act Era (2025-2026)</h3>
+        <p class="news-copy">
+          Nov 2025: EFTA signed and disclosure obligations announced. <a href="#src-1">[1]</a><br />
+          Dec 2025: first large uploads, heavy redactions, scope confusion.<br />
+          Jan 2026: DOJ announces 3.5M pages and compliance framing. <a href="#src-1">[1]</a><br />
+          Jan-Feb 2026: temporary removals, reposts, Section 3 reporting, hearings, and redaction controversies. <a href="#src-2">[2]</a>
+        </p>
+      </div>
+
+      <div class="news-item">
+        <h3 class="news-title">VI. International Repercussions (2026)</h3>
+        <p class="news-copy">
+          Norway scrutiny/resignations and related investigations become part of the process-accountability story. <a href="#src-5">[5]</a><br />
+          UK-linked public scrutiny cycles also continue around named contacts.
+        </p>
+      </div>
+
+      <div class="news-item">
+        <h3 class="news-title">VII. Tech / Russia Threads (Media-Reported)</h3>
+        <p class="news-copy">
+          Coverage around tech-network introductions and post-conviction elite access focuses on continuity of access, not on criminal adjudication.
+        </p>
+      </div>
+    </section>
+
+    <section class="section-card">
+      <h2>Legal Milestones</h2>
+      <div class="news-item">
+        <h3 class="news-title">2008 NPA + CVRA aftermath</h3>
+        <p class="news-copy">
+          The 2008 non-prosecution arrangement remains central to case-history analysis, with later court findings on victims-rights handling under CVRA. <a href="#src-9">[9]</a>
+        </p>
+      </div>
+      <div class="news-item">
+        <h3 class="news-title">2019 SDNY indictment and custody death</h3>
+        <p class="news-copy">
+          Federal trafficking charges were filed in July 2019, followed by Epstein's death in custody in August 2019. <a href="#src-10">[10]</a> <a href="#src-11">[11]</a>
+        </p>
+      </div>
+      <div class="news-item">
+        <h3 class="news-title">Maxwell adjudication cycle (2021-2022)</h3>
+        <p class="news-copy">
+          Maxwell's conviction and 20-year sentence remain the major post-Epstein criminal adjudication tied to the same network. <a href="#src-12">[12]</a>
+        </p>
+      </div>
+    </section>
+
+    <section class="section-card">
+      <h2>Institutional Fallout</h2>
+      <ul>
+        <li>MCC process failures and staffing breakdowns were documented by oversight reporting. <a href="#src-13">[13]</a></li>
+        <li>Release-era friction included over-collection, duplicates, and high redaction workload. <a href="#src-1">[1]</a></li>
+        <li>Congressional hearing coverage focused on privacy safeguards versus transparency pressure. <a href="#src-3">[3]</a></li>
+        <li>Temporary file removals/reposts damaged confidence in release consistency. <a href="#src-8">[8]</a></li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>International Fallout</h2>
+      <ul>
+        <li>Norway: resignation/scrutiny cycles became part of the broader accountability narrative. <a href="#src-5">[5]</a></li>
+        <li>Other cross-border political scrutiny threads continue in press coverage and should be logged only with direct source links.</li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>Banking / Financial Track</h2>
+      <ul>
+        <li>JPMorgan and Deutsche Bank litigation and settlement cycles shifted attention to compliance-level institutional conduct.</li>
+        <li>For this block, prioritize primary filings, settlement documents, and regulator releases before pinning claims.</li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>What's Confirmed vs Alleged</h2>
+      <div class="news-item">
+        <h3 class="news-title">Confirmed Patterns</h3>
+        <ul>
+          <li>Continued elite social access after 2008 conviction.</li>
+          <li>Large-scale duplication/over-collection and release friction.</li>
+          <li>Redaction/process errors with real collateral impact.</li>
+          <li>Banking compliance failures and settlement-driven disclosures.</li>
+          <li>Victim testimony naming powerful individuals (as allegations, not adjudication).</li>
+        </ul>
+      </div>
+      <div class="news-item">
+        <h3 class="news-title">Contested / Unverified Narratives</h3>
+        <ul>
+          <li>Intelligence-agency control theories.</li>
+          <li>Coordinated "body-count" claims.</li>
+          <li>Extreme narrative clusters lacking primary-document support.</li>
+          <li>Interpretation-heavy claims that are not backed by adjudicated findings.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="section-card">
+      <h2>Unresolved Questions</h2>
+      <ul>
+        <li>Why did the 2008 NPA include such broad immunity language?</li>
+        <li>Will all relevant grand jury materials ever be unsealed?</li>
+        <li>Which investigative materials remain privileged, and under what authority?</li>
+        <li>What is the complete chain-of-custody for seized digital evidence?</li>
+        <li>What is the full scope of withheld pages referenced in Section 3 reporting?</li>
+        <li>Why were some files pulled and replaced during release windows?</li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>Corrections Log (Process Events)</h2>
+      <div class="news-item">
+        <div class="news-date">Feb 13, 2026</div>
+        <p class="news-copy">Redaction error involving investigative photo-lineup names publicly surfaced and later clarified. <a href="#src-4">[4]</a></p>
+      </div>
+      <div class="news-item">
+        <div class="news-date">Dec 2025 - Jan 2026</div>
+        <p class="news-copy">File removals/reposts during redaction review created version-tracking confusion in the public release cycle. <a href="#src-8">[8]</a></p>
+      </div>
+      <p style="margin-top:0.6rem">
+        Update this block whenever an official correction, retraction, or repository-level fix is confirmed.
+      </p>
+    </section>
+
+    <section class="section-card">
+      <h2>What This Page Is (and Is Not)</h2>
+      <ul>
+        <li>This page tracks releases, verified reporting, and primary documents.</li>
+        <li>Name appearance in files does not imply wrongdoing. <a href="#src-14">[14]</a></li>
+        <li>Do not repost personal contact information from documents.</li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>Copy-Paste Links Block</h2>
+      <div class="code-wrap">
+        <div class="code-head">News Links Block</div>
+<pre><code>Official DOJ "Epstein Library / DOJ Disclosures":
+https://www.justice.gov/epstein/doj-disclosures
+
+DOJ press release (Jan 30, 2026): "3.5M pages... in compliance...":
+https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files
+
+Letter to Congress (Jan 30, 2026) PDF:
+https://www.justice.gov/letter-to-congress.pdf
+
+Your site:
+https://eyeswidewoke.github.io/PDF-FIles/</code></pre>
+      </div>
+    </section>
+
+    <section class="section-card">
+      <h2>Bullets</h2>
+      <ul>
+        <li>The dominant story is release mechanics plus redaction/correction cycles, not just one single "smoking gun." <a href="#src-1">[1]</a></li>
+        <li>DOJ explicitly warns about over-collection, duplicates, and false public submissions in the corpus. <a href="#src-1">[1]</a></li>
+        <li>February 2026 adds a second layer: Section 3 reporting, hearings, and international process fallout. <a href="#src-2">[2]</a></li>
+        <li>The value of this archive is claim -> document traceability through stable links and versioned notes.</li>
+        <li>Keep "name presence != allegation" and privacy warnings visible on every high-traffic page. <a href="#src-14">[14]</a></li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>Follow-Up Options</h2>
+      <ol>
+        <li>A) Convert this into a fully templated `news.html` feed with pinned "Latest Updates."</li>
+        <li>B) Build a Release Tracker table: Date -> What changed -> Source -> Your notes.</li>
+        <li>C) Add a "Top Claims to Verify" sidebar linked to internal doc IDs.</li>
+        <li>D) Maintain a living "Known Errors / Corrections" log for redaction and repost incidents. <a href="#src-4">[4]</a></li>
+        <li>E) Add a plain-language "How to read the files" explainer for non-specialist readers.</li>
+      </ol>
+    </section>
+
+    <section class="section-card">
+      <h2>ARKHIVE</h2>
+      <div class="ark-grid">
+        <div class="ark-k">WHO</div><div class="ark-v">DOJ, Congress, judiciary committees, oversight bodies.</div>
+        <div class="ark-k">WHAT</div><div class="ark-v">Release events, redactions, Section 3 reporting, and correction cycles.</div>
+        <div class="ark-k">WHERE</div><div class="ark-v">DOJ library, major reporting outlets, and this archive index.</div>
+        <div class="ark-k">WHEN</div><div class="ark-v">2005-2008 case origins -> 2019 arrest/death -> 2021-2022 Maxwell -> 2025-2026 EFTA wave.</div>
+        <div class="ark-k">WHY</div><div class="ark-v">Public accountability with verification-ready records.</div>
+        <div class="ark-k">HOW</div><div class="ark-v">Source-linked reporting and claim-to-document workflow.</div>
+        <div class="ark-k">TOOLS</div><div class="ark-v">Web sources, static index pages, and document IDs.</div>
+        <div class="ark-k">SYNTAX</div><div class="ark-v">`news.html`, optional `release-tracker.json`, optional `corrections.log`.</div>
+        <div class="ark-k">DIMMI</div><div class="ark-v">Credibility hygiene: effect, evidence, citations.</div>
+      </div>
+    </section>
+
+    <section class="section-card">
+      <h2>Sources</h2>
+      <ol class="sources-list">
+        <li id="src-1"><a href="https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files" target="_blank" rel="noopener">DOJ press release: 3.5 million responsive pages in EFTA compliance</a></li>
+        <li id="src-2"><a href="https://www.yahoo.com/news/articles/doj-sends-letter-congress-listing-023111359.html" target="_blank" rel="noopener">Yahoo: DOJ sends Section 3 letter to Congress listing names</a></li>
+        <li id="src-3"><a href="https://www.cbsnews.com/live-updates/pam-bondi-hearing-epstein-files-justice-department-congress/" target="_blank" rel="noopener">CBS News: Bondi hearing coverage</a></li>
+        <li id="src-4"><a href="https://www.theguardian.com/us-news/2026/feb/13/four-men-unredacted-epstein-files-no-ties-ro-khanna" target="_blank" rel="noopener">The Guardian: unredacted photo lineup names controversy</a></li>
+        <li id="src-5"><a href="https://www.washingtonpost.com/world/2026/02/09/norway-epstein-ambassador-resignation/24c896c0-05a0-11f1-b196-5e1986b3575c_story.html" target="_blank" rel="noopener">The Washington Post: Norway ambassador resignation scrutiny</a></li>
+        <li id="src-6"><a href="https://www.theguardian.com/us-news/2026/feb/04/jeffrey-epstein-bill-burns-cia-messages" target="_blank" rel="noopener">The Guardian: Epstein-Burns communications reporting</a></li>
+        <li id="src-7"><a href="https://time.com/7343702/epstein-files-release-doj/" target="_blank" rel="noopener">TIME: "less than 1%" release reporting context</a></li>
+        <li id="src-8"><a href="https://apnews.com/article/9290fcaad1cb6fcb1cbc1befabc01994" target="_blank" rel="noopener">AP: files disappearing from DOJ page</a></li>
+        <li id="src-9"><a href="https://www.washingtonpost.com/politics/courts_law/judge-prosecutors-deal-with-jeffrey-epstein-in-molestation-case-violated-law-misled-victims/2019/02/21/2b48684a-3618-11e9-854a-7a14d7fec96a_story.html" target="_blank" rel="noopener">The Washington Post: CVRA finding in NPA handling</a></li>
+        <li id="src-10"><a href="https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors" target="_blank" rel="noopener">SDNY: July 2019 federal charges</a></li>
+        <li id="src-11"><a href="https://time.com/5664677/jeffrey-epstein-case-dismissed/" target="_blank" rel="noopener">TIME: case dismissed after death context</a></li>
+        <li id="src-12"><a href="https://www.cbsnews.com/live-updates/ghislaine-maxwell-sentence-20-years-jeffrey-epstein-sex-abuse-case/" target="_blank" rel="noopener">CBS News: Maxwell sentencing</a></li>
+        <li id="src-13"><a href="https://www.washingtonpost.com/national-security/2023/06/27/inspector-general-report-jeffrey-epstein-death/" target="_blank" rel="noopener">The Washington Post: DOJ OIG custody failure report</a></li>
+        <li id="src-14"><a href="https://www.justice.gov/letter-to-congress.pdf" target="_blank" rel="noopener">Letter to Congress PDF (context and inclusion caveats)</a></li>
+      </ol>
+    </section>
+
+    <div class="back-links">
+      <a href="./">&larr; Back to Main Site</a>
+      <a href="./links.html">Links / Ecosystem &rarr;</a>
+      <a href="./timeline.html">Case Timeline &rarr;</a>
+    </div>
+
+    <div class="integrity-note">
+      This page is a news-and-process tracker. Validate controversial claims directly against primary documents before conclusion.
+    </div>
+  </main>
+</body>
+</html>

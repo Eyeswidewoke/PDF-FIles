@@ -1,0 +1,445 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Inventory of the Epstein-Files Research Ecosystem | THE PDF FILES</title>
+  <meta name="description" content="Curated inventory of official sources, GitHub projects, searchable portals, and communities for the Epstein-files research ecosystem." />
+  <meta property="og:title" content="Inventory of the Epstein-Files Research Ecosystem" />
+  <meta property="og:description" content="Curated list of active GitHub projects, searchable databases, and communities to link in your README." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eyeswidewoke.github.io/PDF-FIles/links.html" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📁</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260218-links1" />
+  <style>
+    .links-shell {
+      max-width: 980px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+    }
+    .links-shell.grid {
+      grid-template-columns: 1fr;
+    }
+    .links-hero {
+      text-align: center;
+      padding: 2rem 1rem 1rem;
+    }
+    .links-hero h1 {
+      margin: 0 0 0.45rem;
+      font-size: clamp(1.5rem, 3.6vw, 2.25rem);
+      letter-spacing: 0.02em;
+    }
+    .links-hero .subtitle {
+      margin: 0;
+      color: #6b5e50;
+      font-size: 0.95rem;
+      line-height: 1.6;
+    }
+    .meta-strip {
+      margin: 0.8rem auto 0;
+      max-width: 880px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.45rem;
+    }
+    .meta-pill {
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid #dbcab6;
+      border-radius: 999px;
+      padding: 0.24rem 0.62rem;
+      background: #fff8ef;
+      color: #5f4f43;
+      font: 600 0.7rem var(--mono);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .section-card {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: linear-gradient(150deg, #fffefb 0%, #fff8ef 100%);
+      padding: 1.15rem 1.25rem;
+      margin: 0.7rem 0;
+    }
+    .section-card h2 {
+      margin: 0 0 0.55rem;
+      font-size: 1.08rem;
+      color: #2a1d10;
+      letter-spacing: 0.01em;
+    }
+    .section-card p {
+      margin: 0 0 0.6rem;
+      color: #3a3025;
+      font-size: 0.88rem;
+      line-height: 1.65;
+    }
+    .section-card ul,
+    .section-card ol {
+      margin: 0 0 0.6rem;
+      padding-left: 1.2rem;
+      color: #3a3025;
+      font-size: 0.86rem;
+      line-height: 1.55;
+    }
+    .section-card li {
+      margin-bottom: 0.36rem;
+    }
+    .section-card a {
+      color: #8f2f15;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .section-card a:hover {
+      text-decoration: underline;
+    }
+    .warning-box {
+      border: 1px solid #dfb7a8;
+      border-radius: 9px;
+      background: #fff1ea;
+      color: #5a2d1f;
+      padding: 0.72rem 0.8rem;
+      font-size: 0.82rem;
+      line-height: 1.55;
+    }
+    .code-wrap {
+      border: 1px solid #d7c7b8;
+      border-radius: 10px;
+      overflow: hidden;
+      background: #fffdf9;
+      margin-top: 0.5rem;
+    }
+    .code-head {
+      padding: 0.45rem 0.7rem;
+      border-bottom: 1px solid #e5d7c7;
+      background: #f7efe4;
+      color: #63564b;
+      font: 600 0.7rem var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .code-wrap pre {
+      margin: 0;
+      max-height: 500px;
+      overflow: auto;
+      padding: 0.75rem 0.85rem;
+      font: 0.75rem/1.5 var(--mono);
+      color: #2f251f;
+      white-space: pre;
+    }
+    .link-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0.6rem;
+    }
+    .link-tile {
+      border: 1px solid #dcc8b5;
+      border-radius: 10px;
+      padding: 0.6rem 0.68rem;
+      background: #fff9f1;
+      display: grid;
+      gap: 0.2rem;
+    }
+    .link-tile .label {
+      color: #7a6a5c;
+      font: 600 0.68rem var(--mono);
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+    .link-tile .value {
+      color: #332a25;
+      font-size: 0.83rem;
+      line-height: 1.45;
+    }
+    .back-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem;
+      margin: 1.2rem 0 0.5rem;
+    }
+    .back-links a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      padding: 0.55rem 1rem;
+      text-decoration: none;
+      font: 600 0.8rem var(--mono);
+      letter-spacing: 0.02em;
+      color: #fff;
+      background: linear-gradient(125deg, #5f4c3f, #3f3128);
+    }
+    .back-links a:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(63, 49, 40, 0.3);
+    }
+    .integrity-note {
+      margin: 0.9rem 0 0.2rem;
+      padding: 0.9rem;
+      border-top: 1px solid var(--border);
+      color: #6b5e50;
+      text-align: center;
+      font-size: 0.8rem;
+      line-height: 1.6;
+    }
+    @media (max-width: 760px) {
+      .section-card {
+        padding: 0.92rem 0.95rem;
+      }
+      .link-grid {
+        grid-template-columns: 1fr;
+      }
+      .code-wrap pre {
+        font-size: 0.72rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+
+  <main class="grid links-shell">
+    <header class="links-hero">
+      <h1>Inventory of the Epstein-Files Research Ecosystem</h1>
+      <p class="subtitle">
+        Curated list of active GitHub projects, searchable databases, and communities to link in your README.
+      </p>
+      <div class="meta-strip" aria-label="Inventory metadata">
+        <span class="meta-pill">February 18, 2026</span>
+        <span class="meta-pill">2:44 PM (America/Los_Angeles)</span>
+        <span class="meta-pill">#epsteinfiles</span>
+        <span class="meta-pill">#github</span>
+        <span class="meta-pill">#osint</span>
+        <span class="meta-pill">#archiving</span>
+        <span class="meta-pill">#handoff</span>
+      </div>
+    </header>
+
+    <section class="section-card">
+      <h2>Intro</h2>
+      <p>
+        This page is the hub layer: official anchors, preservation/index projects, searchable tools, and coordination communities.
+        It is curated for handoff and cross-linking.
+      </p>
+      <p>
+        Privacy and safety matter. This should help researchers find data and collaborators without turning into a doxxing or harassment
+        portal.
+      </p>
+    </section>
+
+    <section class="section-card">
+      <h2>1) Primary Official Sources</h2>
+      <ul>
+        <li>
+          DOJ Epstein Library - DOJ Disclosures (Datasets 1-12):
+          <a href="https://www.justice.gov/epstein/doj-disclosures" target="_blank" rel="noopener">justice.gov/epstein/doj-disclosures</a>
+        </li>
+        <li>
+          DOJ press release (Feb 27, 2025, first phase disclosure):
+          <a href="https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files" target="_blank" rel="noopener">justice.gov/opa/pr/...declassified-epstein-files</a>
+        </li>
+        <li>
+          WikiEpstein release tracker:
+          <a href="https://wikiepstein.com/" target="_blank" rel="noopener">wikiepstein.com</a>
+        </li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>2) GitHub Preservation / Index Hubs</h2>
+      <ul>
+        <li>
+          <a href="https://github.com/yung-megafone/Epstein-Files" target="_blank" rel="noopener">yung-megafone/Epstein-Files</a>
+          - mirror/index for DOJ datasets 1-12 with torrents, mirrors, and integrity references.
+        </li>
+        <li>
+          Maintainer profile:
+          <a href="https://github.com/yung-megafone" target="_blank" rel="noopener">github.com/yung-megafone</a>
+        </li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>3) OCR / Searchable Archive Builders</h2>
+      <ul>
+        <li>
+          <a href="https://github.com/epstein-docs/epstein-docs.github.io" target="_blank" rel="noopener">epstein-docs/epstein-docs.github.io</a>
+          - OCR + entity extraction + static searchable archive.
+        </li>
+        <li>
+          <a href="https://svetimfm.github.io/epstein-files-visualizations/" target="_blank" rel="noopener">SvetimFM visualizations</a>
+          - entity explorer, network, timeline, and financial views.
+          Repo: <a href="https://github.com/SvetimFM/epstein-files-visualizations" target="_blank" rel="noopener">github.com/SvetimFM/epstein-files-visualizations</a>
+        </li>
+        <li>
+          <a href="https://github.com/maxandrews/Epstein-doc-explorer" target="_blank" rel="noopener">maxandrews/Epstein-doc-explorer</a>
+          - relationship graph explorer + pipeline.
+        </li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>4) Search Portals (Third-Party)</h2>
+      <ul>
+        <li><a href="https://epstein-file-explorer.org/about" target="_blank" rel="noopener">Epstein File Explorer</a></li>
+        <li><a href="https://epstein-data.com/" target="_blank" rel="noopener">epstein-data.com</a></li>
+        <li><a href="https://epstein-files.org/" target="_blank" rel="noopener">epstein-files.org (Sifter Labs)</a></li>
+        <li><a href="https://www.tommycarstensen.com/epstein/video_gallery.html" target="_blank" rel="noopener">Tommy Carstensen - Epstein Video Gallery</a></li>
+        <li><a href="https://jmail.world/jefftube" target="_blank" rel="noopener">jmail.world / JeffTube</a></li>
+      </ul>
+      <div class="warning-box">
+        As-of this inventory timestamp (February 18, 2026, 2:44 PM PT), some third-party portals were reported with missing/404 GitHub links.
+        Treat these as useful interfaces, but validate claims against official source artifacts.
+      </div>
+    </section>
+
+    <section class="section-card">
+      <h2>5) Community Coordination</h2>
+      <ul>
+        <li>
+          Reddit r/Epstein thread (hidden file recovery scripts + magnets):
+          <a href="https://www.reddit.com/r/Epstein/comments/1qzp9yv/recovering_hidden_video_audio_and_doc_files_in/" target="_blank" rel="noopener">reddit.com/r/Epstein/comments/1qzp9yv/...</a>
+        </li>
+        <li>
+          Data Horde (archiving community):
+          <a href="https://linktr.ee/datahorde" target="_blank" rel="noopener">linktr.ee/datahorde</a>
+        </li>
+        <li>
+          Osintly Community Discord:
+          <a href="https://discordbotlist.com/servers/osintly" target="_blank" rel="noopener">discordbotlist.com/servers/osintly</a>
+        </li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>6) jmail.world Handling Note</h2>
+      <p>
+        Treat jmail.world as a third-party convenience viewer, not an authority source. If used, require each item to resolve back to official DOJ
+        artifacts before relying on it for claims.
+      </p>
+      <p>
+        Reference:
+        <a href="https://scamflare.com/website/jmail.world" target="_blank" rel="noopener">scamflare.com/website/jmail.world</a>
+      </p>
+    </section>
+
+    <section class="section-card">
+      <h2>Drop-In README Section</h2>
+      <p>Copy/paste block:</p>
+      <div class="code-wrap">
+        <div class="code-head">README Snippet</div>
+<pre><code>## Links / Ecosystem (Research + Mirrors)
+
+### Official primary sources
+- DOJ Epstein Library (Datasets 1-12): https://www.justice.gov/epstein/doj-disclosures
+- DOJ Press Releases (archived): https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files
+- WikiEpstein (release tracker + official links): https://wikiepstein.com/
+
+### Preservation / mirror indexes
+- yung-megafone/Epstein-Files (torrents + mirrors + hash verification): https://github.com/yung-megafone/Epstein-Files
+
+### Analysis / OCR / indexing projects (community-run)
+- epstein-docs (OCR + entity extraction + static archive): https://github.com/epstein-docs/epstein-docs.github.io
+- SvetimFM visualizations (entities/timeline/financial tables): https://svetimfm.github.io/epstein-files-visualizations/
+  - Repo: https://github.com/SvetimFM/epstein-files-visualizations
+- Epstein-doc-explorer (network graph): https://github.com/maxandrews/Epstein-doc-explorer
+
+### Search portals (3rd party)
+- Epstein File Explorer: https://epstein-file-explorer.org/
+- Epstein Data (AI indexed): https://epstein-data.com/
+- Sifter Labs Epstein Document Search: https://epstein-files.org/
+- Tommy Carstensen Epstein Video Gallery: https://www.tommycarstensen.com/epstein/video_gallery.html
+- jmail.world JeffTube: https://jmail.world/jefftube
+
+### Communities (general archiving/OSINT)
+- Reddit r/Epstein hidden-file recovery thread: https://www.reddit.com/r/Epstein/comments/1qzp9yv/recovering_hidden_video_audio_and_doc_files_in/
+- Data Horde (archiving + Discord link): https://linktr.ee/datahorde
+- Osintly community Discord: https://discordbotlist.com/servers/osintly
+
+### Safety / use notes
+- Name presence in documents != wrongdoing.
+- Do not post personal contact info/addresses/phone numbers from documents.
+- Prefer official sources when validating screenshots or third-party viewers.
+</code></pre>
+      </div>
+    </section>
+
+    <section class="section-card">
+      <h2>Handoff Workflow</h2>
+      <ol>
+        <li>Cross-link your project in ecosystem README/resource pages.</li>
+        <li>Offer ingestable exports (`public-data.json`, dedup/OCR indexes, person-page maps).</li>
+        <li>Open focused PRs to add a "processed UI / search layer" reference in major hubs.</li>
+      </ol>
+    </section>
+
+    <section class="section-card">
+      <h2>Key Bullets</h2>
+      <ul>
+        <li>Anchor around DOJ Disclosures + WikiEpstein as primary release trackers.</li>
+        <li>Best outreach targets: yung-megafone, epstein-docs, SvetimFM, maxandrews.</li>
+        <li>Document caveats for third-party tools with broken/missing repo links.</li>
+        <li>Keep safety notes explicit to avoid turning the repo into a doxxing magnet.</li>
+      </ul>
+    </section>
+
+    <section class="section-card">
+      <h2>Follow-Up Options</h2>
+      <div class="link-grid">
+        <div class="link-tile">
+          <div class="label">A</div>
+          <div class="value">Create `CONTACTS.md` with project + best contact method (Issues, profile links, channels).</div>
+        </div>
+        <div class="link-tile">
+          <div class="label">B</div>
+          <div class="value">Draft outreach issue templates for top maintainers.</div>
+        </div>
+        <div class="link-tile">
+          <div class="label">C</div>
+          <div class="value">Generate `LINKS.json` so the site can render this inventory dynamically.</div>
+        </div>
+        <div class="link-tile">
+          <div class="label">D</div>
+          <div class="value">Add a handoff / maintainer-wanted section to improve project continuity.</div>
+        </div>
+        <div class="link-tile">
+          <div class="label">E</div>
+          <div class="value">Integrate this inventory directly into `README.md` as a cleaned rewrite.</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-card">
+      <h2>ARKHIVE (Structured Summary)</h2>
+      <ul>
+        <li><strong>WHO</strong>: Researchers and maintainers (yung-megafone, epstein-docs, SvetimFM, maxandrews).</li>
+        <li><strong>WHAT</strong>: Official disclosures, mirrors, indexes, and analyzers.</li>
+        <li><strong>WHERE</strong>: GitHub + static portals + archiving/OSINT communities.</li>
+        <li><strong>WHEN</strong>: 2025-2026 disclosure wave context.</li>
+        <li><strong>WHY</strong>: Handoff continuity through cross-linking and mirroring.</li>
+        <li><strong>HOW</strong>: Links section + contacts + targeted outreach.</li>
+        <li><strong>TOOLS</strong>: GitHub, static sites, OCR/search pipelines, mirrors.</li>
+        <li><strong>SYNTAX</strong>: README links block, `CONTACTS.md`, `LINKS.json`.</li>
+        <li><strong>DIMMI</strong>: Claim-to-document discipline + privacy hardening.</li>
+      </ul>
+    </section>
+
+    <div class="back-links">
+      <a href="./">&larr; Back to Main Site</a>
+      <a href="./contribute.html">How to Help &rarr;</a>
+      <a href="./how-it-works.html">How This Site Works &rarr;</a>
+    </div>
+
+    <div class="integrity-note">
+      Inventory is dated and should be periodically re-verified before citation in release notes.
+      Use official DOJ sources as final authority when links or claims conflict.
+    </div>
+  </main>
+</body>
+</html>
