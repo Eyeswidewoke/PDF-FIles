@@ -6,7 +6,7 @@
   const FTX_BASE = "./data/ftx/";
   const MANIFEST_URL = FTX_BASE + "manifest.json";
   const DOCS_URL = FTX_BASE + "docs.json";
-  const DOJ_BASE = "https://www.justice.gov/d9/2024-09/";
+  const DOJ_RECORDS = "https://www.justice.gov/usao-sdny/jeffrey-epstein-records";
   const RESULTS_PER_PAGE = 50;
   const SHARD_PREFIX_LEN = 2;
 
@@ -201,15 +201,15 @@
   function renderResult(docId) {
     const [efta, dataset, folder, words] = docs[docId];
     const eftaNum = efta.replace(/^EFTA0*/, "");
-    const dojUrl = DOJ_BASE + efta + ".pdf";
+    // DOJ removed individual PDF links; link to records page + copy button
 
     const div = document.createElement("div");
     div.className = "ftx-result";
     div.innerHTML =
       '<div class="ftx-result-head">' +
-        '<a class="ftx-result-efta" href="' + escHtml(dojUrl) + '" target="_blank" rel="noopener">' +
+        '<span class="ftx-result-efta">' +
           escHtml(efta) +
-        '</a>' +
+        '</span>' +
         '<div class="ftx-result-chips">' +
           '<span class="ftx-chip chip-folder">' + escHtml(folder) + '</span>' +
           '<span class="ftx-chip chip-ds">' + escHtml(dataset) + '</span>' +
@@ -217,7 +217,8 @@
         '</div>' +
       '</div>' +
       '<div class="ftx-result-actions">' +
-        '<a href="' + escHtml(dojUrl) + '" target="_blank" rel="noopener">View PDF on DOJ &rarr;</a>' +
+        '<a href="' + DOJ_RECORDS + '" target="_blank" rel="noopener">DOJ Records Page &rarr;</a>' +
+        '<button class="ftx-copy-btn" onclick="navigator.clipboard.writeText(\'' + escHtml(efta) + '\');this.textContent=\'Copied!\';setTimeout(()=>this.textContent=\'\ud83d\udccb Copy EFTA ID\',1500)">\ud83d\udccb Copy EFTA ID</button>' +
         '<a href="./view.html?id=' + encodeURIComponent(efta) + '" target="_blank">View Extracted Text &rarr;</a>' +
       '</div>';
     return div;

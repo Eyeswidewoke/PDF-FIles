@@ -70,7 +70,7 @@
   (function() {
     "use strict";
     var TXT_BASE = "https://eyeswidewoke.github.io/PDF-Files-text/data/txt/";
-    var DOJ_BASE = "https://www.justice.gov/d9/2024-09/";
+    var DOJ_RECORDS = "https://www.justice.gov/usao-sdny/jeffrey-epstein-records";
 
     var params = new URLSearchParams(location.search);
     var efta = (params.get("id") || "").toUpperCase().trim();
@@ -87,20 +87,20 @@
     var digits = efta.replace(/^EFTA/, "");
     var prefix = digits.substring(0, 4);
     var shardUrl = TXT_BASE + prefix + ".json";
-    var dojUrl = DOJ_BASE + efta + ".pdf";
+    // DOJ has removed individual PDF links; link to records page instead
 
     // Show header immediately
     container.innerHTML =
       '<div class="view-header">' +
         '<h1 class="view-efta">' + efta + '</h1>' +
         '<div class="view-actions">' +
-          '<a class="btn-doj" href="' + dojUrl + '" target="_blank" rel="noopener">View Original PDF on DOJ →</a>' +
+          '<a class="btn-doj" href="' + DOJ_RECORDS + '" target="_blank" rel="noopener">DOJ Records Page →</a>' +
           '<a class="btn-search" href="./ftx-search.html?q=' + encodeURIComponent(efta) + '">Search in Full-Text Index →</a>' +
-          '<button class="btn-copy" onclick="navigator.clipboard.writeText(\'' + efta + '\');this.textContent=\'Copied!\';setTimeout(()=>this.textContent=\'Copy EFTA\',1500)">Copy EFTA</button>' +
+          '<button class="btn-copy" onclick="navigator.clipboard.writeText(\'' + efta + '\');this.textContent=\'Copied!\';setTimeout(()=>this.textContent=\'Copy EFTA ID\',1500)">📋 Copy EFTA ID</button>' +
         '</div>' +
         '<div class="view-note">' +
           'This shows the OCR-extracted text from the original PDF. ' +
-          'Text may contain OCR artifacts. Click "View Original PDF on DOJ" to see the source document.' +
+          'Text may contain OCR artifacts. To find the original PDF, copy the EFTA ID and search on the DOJ records page.' +
         '</div>' +
       '</div>' +
       '<div id="viewPages"><div class="view-loading">Loading text from shard ' + prefix + '...</div></div>';
@@ -114,7 +114,7 @@
         var pages = shard[efta];
         var pagesEl = document.getElementById("viewPages");
         if (!pages || pages.length === 0) {
-          pagesEl.innerHTML = '<div class="view-error">No extracted text found for ' + efta + '.<br>Try <a href="' + dojUrl + '" target="_blank">viewing the PDF directly on DOJ</a>.</div>';
+          pagesEl.innerHTML = '<div class="view-error">No extracted text found for ' + efta + '.<br>Try <a href="' + DOJ_RECORDS + '" target="_blank" style="color:#d4af37">searching the DOJ records page</a>.</div>';
           return;
         }
 
@@ -144,7 +144,7 @@
         document.getElementById("viewPages").innerHTML =
           '<div class="view-error">' +
             'Could not load text: ' + err.message + '<br><br>' +
-            'You can still <a href="' + dojUrl + '" target="_blank" style="color:#d4af37">view the original PDF on the DOJ website</a>.' +
+            'You can try <a href="' + DOJ_RECORDS + '" target="_blank" style="color:#d4af37">searching the DOJ records page</a> using the EFTA ID.' +
           '</div>';
       });
 
