@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FULL-TEXT SEARCH | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260218-ftx1" />
+  <style>
+    .ftx-hero { text-align: center; }
+    .ftx-hero h1 { margin-bottom: 0.3rem; }
+    .ftx-search-box {
+      max-width: 680px;
+      margin: 1.2rem auto 0;
+      display: flex;
+      gap: 0.5rem;
+    }
+    .ftx-search-box input {
+      flex: 1;
+      font-size: 1.05rem;
+      padding: 0.65rem 0.9rem;
+      border: 2px solid var(--border);
+      border-radius: 0.6rem;
+      font-family: var(--mono);
+      background: #fffdf7;
+      transition: border-color 0.15s;
+    }
+    .ftx-search-box input:focus {
+      outline: none;
+      border-color: #8f2f15;
+    }
+    .ftx-search-box button {
+      padding: 0.65rem 1.3rem;
+      border: none;
+      border-radius: 0.6rem;
+      background: linear-gradient(125deg, #8f2f15, #6b2310);
+      color: #fff;
+      font: 600 0.95rem var(--mono);
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .ftx-search-box button:hover { opacity: 0.9; }
+
+    .ftx-filters {
+      max-width: 680px;
+      margin: 0.7rem auto 0;
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .ftx-filters select {
+      font: 500 0.78rem var(--mono);
+      padding: 0.3rem 0.5rem;
+      border: 1px solid var(--border);
+      border-radius: 0.4rem;
+      background: #fffdf7;
+    }
+
+    .ftx-status {
+      text-align: center;
+      margin-top: 0.8rem;
+      color: var(--muted);
+      font: 500 0.82rem var(--mono);
+      min-height: 1.4rem;
+    }
+
+    .ftx-results {
+      max-width: 900px;
+      margin: 1rem auto 0;
+      display: grid;
+      gap: 0.6rem;
+    }
+
+    .ftx-result {
+      border: 1px solid var(--border);
+      border-radius: 0.7rem;
+      background: #fffcf8;
+      padding: 0.65rem 0.8rem;
+      box-shadow: 0 4px 14px rgba(53,36,27,0.07);
+    }
+    .ftx-result-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .ftx-result-efta {
+      font: 700 0.95rem var(--mono);
+      color: #8f2f15;
+      text-decoration: none;
+    }
+    .ftx-result-efta:hover { text-decoration: underline; }
+    .ftx-result-chips {
+      display: flex;
+      gap: 0.3rem;
+      flex-wrap: wrap;
+    }
+    .ftx-chip {
+      border: 1px solid #dfb7a8;
+      color: #8f2f15;
+      border-radius: 999px;
+      padding: 0.06rem 0.4rem;
+      font: 600 0.65rem var(--mono);
+      white-space: nowrap;
+      background: #fff6ef;
+    }
+    .ftx-chip.chip-ds {
+      border-color: #7f6757;
+      background: #f3ece4;
+      color: #3e3127;
+    }
+    .ftx-chip.chip-folder {
+      border-color: #5d7a3c;
+      background: #eef7df;
+      color: #2f4a1a;
+    }
+    .ftx-result-meta {
+      margin-top: 0.3rem;
+      color: var(--muted);
+      font: 500 0.72rem var(--mono);
+    }
+    .ftx-result-actions {
+      margin-top: 0.35rem;
+      display: flex;
+      gap: 0.4rem;
+      flex-wrap: wrap;
+    }
+    .ftx-result-actions a {
+      font: 600 0.7rem var(--mono);
+      padding: 0.2rem 0.5rem;
+      border-radius: 0.35rem;
+      text-decoration: none;
+      border: 1px solid #dfb7a8;
+      color: #8f2f15;
+      background: #fff6ef;
+    }
+    .ftx-result-actions a:hover {
+      background: #ffe8d8;
+    }
+
+    .ftx-load-more {
+      text-align: center;
+      margin: 1rem 0 2rem;
+    }
+    .ftx-load-more button {
+      padding: 0.5rem 1.5rem;
+      border: 2px solid var(--border);
+      border-radius: 0.5rem;
+      background: #fffdf7;
+      font: 600 0.82rem var(--mono);
+      cursor: pointer;
+    }
+    .ftx-load-more button:hover { background: #f5efe8; }
+
+    .ftx-info {
+      max-width: 680px;
+      margin: 1.5rem auto 0;
+      padding: 0.8rem 1rem;
+      background: #f5efe8;
+      border: 1px solid var(--border);
+      border-radius: 0.6rem;
+      font-size: 0.82rem;
+      color: #5f4e46;
+      line-height: 1.5;
+    }
+    .ftx-info strong { color: #3e3127; }
+
+    @media (max-width: 700px) {
+      .ftx-search-box { flex-direction: column; }
+      .ftx-result-head { flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+  <script src="./nav.js"></script>
+
+  <header class="hero ftx-hero">
+    <h1>FULL-TEXT SEARCH</h1>
+    <p class="subhead" style="margin:0.4rem auto 0;max-width:68ch">
+      Search across <strong id="ftxDocCount">...</strong> OCR-extracted text documents.
+      Every word from every page of every released file &mdash; searchable in your browser.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+
+    <div class="ftx-search-box">
+      <input id="ftxInput" type="search" placeholder="Search names, addresses, phone numbers, anything..." autocomplete="off" spellcheck="false" autofocus />
+      <button id="ftxSearchBtn" type="button">SEARCH</button>
+    </div>
+
+    <div class="ftx-filters">
+      <select id="ftxFolderFilter" aria-label="Filter by category">
+        <option value="all">All Categories</option>
+        <option value="Legal-Filings">Legal Filings</option>
+        <option value="Emails">Emails</option>
+        <option value="Depositions">Depositions</option>
+        <option value="Communications">Communications</option>
+        <option value="Financial">Financial</option>
+        <option value="Support">Support Docs</option>
+        <option value="Contacts">Contacts</option>
+        <option value="Unsorted">Unsorted</option>
+      </select>
+      <select id="ftxDatasetFilter" aria-label="Filter by dataset">
+        <option value="all">All Datasets</option>
+        <option value="DataSet1">DS 1</option>
+        <option value="DataSet2">DS 2</option>
+        <option value="DataSet3">DS 3</option>
+        <option value="DataSet4">DS 4</option>
+        <option value="DataSet5">DS 5</option>
+        <option value="DataSet6">DS 6</option>
+        <option value="DataSet7">DS 7</option>
+        <option value="DataSet8">DS 8</option>
+        <option value="DataSet9">DS 9</option>
+        <option value="DataSet10">DS 10</option>
+        <option value="DataSet11">DS 11</option>
+        <option value="DataSet12">DS 12</option>
+      </select>
+      <select id="ftxSortField" aria-label="Sort by">
+        <option value="relevance">Sort: Relevance</option>
+        <option value="words-desc">Sort: Most Text</option>
+        <option value="words-asc">Sort: Least Text</option>
+        <option value="efta-asc">Sort: EFTA Asc</option>
+        <option value="efta-desc">Sort: EFTA Desc</option>
+      </select>
+    </div>
+  </header>
+
+  <p id="ftxStatus" class="ftx-status"></p>
+
+  <div id="ftxResults" class="ftx-results"></div>
+
+  <div id="ftxLoadMore" class="ftx-load-more" hidden>
+    <button id="ftxLoadMoreBtn" type="button">Load More Results</button>
+  </div>
+
+  <div class="ftx-info" id="ftxInfo">
+    <strong>How it works:</strong> This search uses a sharded inverted index built from OCR-extracted text of all released Epstein files.
+    When you search, only the relevant index shards are downloaded &mdash; not the entire index.
+    Each result links to the DOJ FOIA release page for that file number.
+    <br><br>
+    <strong>Tips:</strong> Use specific names, addresses, or phrases. Multi-word queries find documents containing ALL terms.
+    Try: <em>andrew farkas</em>, <em>flight manifest</em>, <em>palm beach</em>, <em>deutsche bank</em>.
+  </div>
+
+  <script src="./ftx-search-app.js?v=20260218-ftx1" defer></script>
+</body>
+</html>

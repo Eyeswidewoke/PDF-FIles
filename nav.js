@@ -6,8 +6,10 @@
     { label: 'Hub', href: './hub.html', match: ['hub.html'] },
     { label: 'Search', href: './search.html', match: ['search.html'] },
     { label: 'News', href: './news.html', match: ['news.html'] },
+    { label: 'Media', href: './media.html', match: ['media.html'] },
     { label: 'Links', href: './links.html', match: ['links.html'] },
     { label: 'Cast', href: './cast.html', match: ['cast.html'] },
+    { label: 'Images', href: './images.html', match: ['images.html','gallery-picks.html','epstein-face-matches.html','handwritten-notes.html'], prefix: ['gallery-category-'] },
     { label: 'Timeline', href: './timeline.html', match: ['timeline.html'] },
     { label: 'Investigations', href: './investigations.html', match: ['investigations.html'] },
     { label: 'Flights', href: './flights.html', match: ['flights.html'] },
@@ -43,7 +45,9 @@
     a.href = item.href;
     a.textContent = item.label;
     if(item.external){ a.target='_blank'; a.rel='noopener'; }
-    if(item.match && item.match.indexOf(current) !== -1){
+    var exactMatch = item.match && item.match.indexOf(current) !== -1;
+    var prefixMatch = item.prefix && item.prefix.some(function(p){ return current.indexOf(p) === 0; });
+    if(exactMatch || prefixMatch){
       a.classList.add('active');
     }
     li.appendChild(a);

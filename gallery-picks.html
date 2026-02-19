@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -157,7 +157,7 @@
       border-color:var(--warm);color:#fff;background:rgba(211,93,44,.25);
     }
     .cat-pill .cnt{opacity:.6;margin-left:.2rem}
-    /* Image grid — masonry-ish */
+    /* Image grid â€” masonry-ish */
     .grid{
       display:grid;gap:.6rem;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
     }
@@ -223,13 +223,14 @@
   </style>
 </head>
 <body>
+  <script src="./nav.js"></script>
   <a class="back-link" href="./images.html">&larr; BACK TO IMAGES PAGE</a>
 
   <header class="hero">
-    <h1>⭐ GALLERY PICKS</h1>
+    <h1>â­ GALLERY PICKS</h1>
     <p>
       Hand-picked images from the Epstein Files classified photo collection.
-      682 images across 19 categories — buildings, planes, boats, people, documents, and more.
+      682 images across 19 categories â€” buildings, planes, boats, people, documents, and more.
     </p>
     <span class="count" id="heroCount">Loading...</span>
     <nav class="hero-nav" aria-label="Gallery navigation">
@@ -434,7 +435,7 @@
         state.lbIdx = idx;
         const item = state.filtered[idx];
         el.lbImg.src = href(item.image_path);
-        el.lbInfo.textContent = `${item.category} — ${item.efta||item.id} (${idx+1}/${state.filtered.length})`;
+        el.lbInfo.textContent = `${item.category} â€” ${item.efta||item.id} (${idx+1}/${state.filtered.length})`;
         el.lightbox.classList.add('open');
       }
 
@@ -501,3 +502,5 @@
   </script>
 </body>
 </html>
+
+

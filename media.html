@@ -1,0 +1,523 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MEDIA ARCHIVE | THE PDF FILES</title>
+  <meta name="description" content="Structured catalog of official documentaries, broadcast segments, and independent digital investigations related to the Epstein case (2019-2026)." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=20260219-media1" />
+  <style>
+    .media-shell {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 0 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.7rem;
+    }
+    .media-hero {
+      text-align: center;
+      padding: 1.6rem 1rem 1rem;
+      border-bottom: 1px solid #ddcbb9;
+      margin-bottom: 0.2rem;
+    }
+    .media-hero h1 {
+      margin: 0 0 0.35rem;
+      font-size: clamp(1.55rem, 3.8vw, 2.3rem);
+      color: #2a1d10;
+      letter-spacing: 0.02em;
+    }
+    .media-subtitle {
+      margin: 0;
+      color: #6b5e50;
+      font-size: 0.93rem;
+      line-height: 1.62;
+    }
+    .meta-strip {
+      margin: 0.75rem auto 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.42rem;
+      max-width: 920px;
+    }
+    .meta-pill {
+      border: 1px solid #dbcab6;
+      border-radius: 999px;
+      padding: 0.24rem 0.62rem;
+      background: #fff8ef;
+      color: #5f4f43;
+      font: 600 0.69rem var(--mono);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .jump-strip {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.44rem;
+      margin: 0.5rem 0 0.95rem;
+    }
+    .jump-link {
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid #d8c5b2;
+      border-radius: 999px;
+      padding: 0.25rem 0.7rem;
+      text-decoration: none;
+      color: #5d4f42;
+      background: #fff9f1;
+      font: 600 0.71rem var(--mono);
+      letter-spacing: 0.02em;
+    }
+    .jump-link:hover {
+      background: #f5e7d8;
+      color: #3a3025;
+    }
+    .section-card {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: linear-gradient(160deg, #fffefb 0%, #fff7ec 100%);
+      padding: 1.05rem 1.15rem;
+      box-shadow: 0 8px 18px rgba(82, 61, 40, 0.06);
+    }
+    .section-card h2 {
+      margin: 0 0 0.55rem;
+      font-size: 1.03rem;
+      color: #2a1d10;
+      letter-spacing: 0.01em;
+    }
+    .section-note {
+      margin: 0 0 0.7rem;
+      color: #66584b;
+      font-size: 0.82rem;
+      line-height: 1.56;
+    }
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin: 0.6rem 0 0.2rem;
+    }
+    .badge {
+      border: 1px solid #d9c6b3;
+      border-radius: 999px;
+      padding: 0.12rem 0.45rem;
+      font: 600 0.62rem var(--mono);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      color: #5f4f43;
+      background: #fbf0e4;
+    }
+    .badge.verified {
+      border-color: #b8d5c0;
+      background: #edf8f1;
+      color: #2f5a3d;
+    }
+    .badge.contested {
+      border-color: #e3c4ae;
+      background: #fff3e8;
+      color: #7a4b2a;
+    }
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 0.6rem;
+    }
+    .media-item {
+      border: 1px solid #deceb9;
+      border-radius: 10px;
+      background: #fffaf4;
+      padding: 0.72rem 0.8rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+    .media-head {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.3rem;
+      margin: 0;
+      color: #241a13;
+      font-size: 0.9rem;
+      font-weight: 700;
+      line-height: 1.42;
+    }
+    .media-year {
+      border: 1px solid #d8c4b2;
+      border-radius: 999px;
+      background: #f8ecdf;
+      color: #6a5a4a;
+      padding: 0.02rem 0.38rem;
+      font: 600 0.63rem var(--mono);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .media-meta {
+      margin: 0;
+      color: #6a5a4a;
+      font: 600 0.67rem var(--mono);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+    .media-copy {
+      margin: 0;
+      color: #3b2f24;
+      font-size: 0.82rem;
+      line-height: 1.55;
+    }
+    .media-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.34rem;
+      margin-top: 0.12rem;
+    }
+    .media-link {
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid #dcc8b5;
+      border-radius: 7px;
+      padding: 0.16rem 0.46rem;
+      background: #fff3e6;
+      color: #8f2f15;
+      text-decoration: none;
+      font: 600 0.66rem var(--mono);
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+    .media-link:hover {
+      background: #f4e0cb;
+      color: #6f230f;
+      text-decoration: none;
+    }
+    .list-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 0.5rem;
+      margin: 0.45rem 0 0;
+    }
+    .list-box {
+      border: 1px solid #deceb9;
+      border-radius: 10px;
+      background: #fffbf6;
+      padding: 0.62rem 0.68rem;
+    }
+    .list-box h3 {
+      margin: 0 0 0.28rem;
+      color: #2b2017;
+      font-size: 0.84rem;
+      line-height: 1.45;
+      font-weight: 700;
+    }
+    .list-box p {
+      margin: 0;
+      color: #3b2f24;
+      font-size: 0.8rem;
+      line-height: 1.5;
+    }
+    .list-box ul {
+      margin: 0.4rem 0 0;
+      padding-left: 1rem;
+      color: #3b2f24;
+      font-size: 0.79rem;
+      line-height: 1.48;
+    }
+    .list-box li {
+      margin: 0 0 0.22rem;
+    }
+    .workflow {
+      margin: 0;
+      padding-left: 1.2rem;
+      color: #3b2f24;
+      font-size: 0.84rem;
+      line-height: 1.56;
+    }
+    .workflow li {
+      margin-bottom: 0.36rem;
+    }
+    .back-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem;
+      margin: 0.8rem 0 1.1rem;
+    }
+    .back-links a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 8px;
+      padding: 0.52rem 0.95rem;
+      text-decoration: none;
+      font: 600 0.73rem var(--mono);
+      border: 1px solid #d5c0ac;
+      background: #fff8ef;
+      color: #5a4b3f;
+    }
+    .back-links a:hover {
+      background: #f5e5d6;
+      color: #3c3128;
+    }
+    @media (max-width: 720px) {
+      .section-card {
+        padding: 0.9rem;
+      }
+      .media-shell {
+        padding: 0 0.7rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="noise"></div>
+  <script src="./nav.js"></script>
+  <main class="media-shell">
+    <header class="media-hero">
+      <h1>MEDIA ARCHIVE</h1>
+      <p class="media-subtitle">A structured catalog of documentary films, broadcast investigations, and independent digital research streams related to the Epstein case, compiled from internal media research notes.</p>
+      <div class="meta-strip">
+        <span class="meta-pill">Coverage: 2019-2026</span>
+        <span class="meta-pill">Basis: NEW/media research.md</span>
+        <span class="meta-pill">Updated: Feb 19, 2026</span>
+      </div>
+    </header>
+
+    <nav class="jump-strip" aria-label="Jump to section">
+      <a class="jump-link" href="#read-first">Read First</a>
+      <a class="jump-link" href="#official-canon">Official Canon</a>
+      <a class="jump-link" href="#independent-archive">Independent Archive</a>
+      <a class="jump-link" href="#themes">Themes</a>
+      <a class="jump-link" href="#workflow">Research Workflow</a>
+    </nav>
+
+    <section class="section-card" id="read-first">
+      <h2>How To Read This Page</h2>
+      <p class="section-note">The source research splits this landscape into two parallel archives: a mainstream "official canon" and a decentralized "independent digital archive." Both are included here because they serve different jobs: baseline chronology vs deeper open-web investigation threads.</p>
+      <div class="badge-row">
+        <span class="badge verified">Official Baseline</span>
+        <span class="badge contested">Independent / Interpretation Heavy</span>
+      </div>
+      <p class="section-note">Some independent material contains contested or speculative claims. Treat those as research leads unless and until they are corroborated by primary documents, court records, or official releases.</p>
+    </section>
+
+    <section class="section-card" id="official-canon">
+      <h2>Official Documentary Canon (2019-2026)</h2>
+      <p class="section-note">High-budget productions and mainstream broadcast investigations that establish timeline, survivor testimony, legal milestones, and institutional failures. External links below are platform pages or direct discovery links.</p>
+      <div class="card-grid">
+        <article class="media-item">
+          <h3 class="media-head">Jeffrey Epstein: Filthy Rich <span class="media-year">2020</span></h3>
+          <p class="media-meta">Netflix | 4-Part Miniseries</p>
+          <p class="media-copy">Foundational mainstream series covering Palm Beach, the 2008 non-prosecution agreement, and survivor-first testimony framing.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.netflix.com/title/80224905" target="_blank" rel="noopener">Watch Page</a>
+            <a class="media-link" href="https://www.netflix.com/search?q=Jeffrey%20Epstein%20Filthy%20Rich" target="_blank" rel="noopener">Netflix Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Ghislaine Maxwell: Filthy Rich <span class="media-year">2022</span></h3>
+          <p class="media-meta">Netflix | Trial-Era Follow-Up</p>
+          <p class="media-copy">Companion entry centered on the Maxwell proceedings and courtroom reconstruction of grooming and recruitment mechanics.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.netflix.com/title/81592575" target="_blank" rel="noopener">Watch Page</a>
+            <a class="media-link" href="https://www.netflix.com/search?q=Ghislaine%20Maxwell%20Filthy%20Rich" target="_blank" rel="noopener">Netflix Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Epstein's Shadow: Ghislaine Maxwell <span class="media-year">2021</span></h3>
+          <p class="media-meta">Peacock / Sky | 3 Episodes</p>
+          <p class="media-copy">Profile-driven series focused on Maxwell's role, social access pathways, and transatlantic context around network shielding.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.peacocktv.com/watch-online/tv/epsteins-shadow-ghislaine-maxwell/7755946945554143112" target="_blank" rel="noopener">Peacock Page</a>
+            <a class="media-link" href="https://www.peacocktv.com/search?query=Epstein%27s%20Shadow%20Ghislaine%20Maxwell" target="_blank" rel="noopener">Peacock Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Chasing Ghislaine <span class="media-year">2021</span></h3>
+          <p class="media-meta">Discovery+ / Hulu</p>
+          <p class="media-copy">Reporter-led investigation emphasizing media gatekeeping and publication pressures around early Epstein coverage.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.primevideo.com/detail/Chasing-Ghislaine/0OAD9YW2D9M4GMB2SMBDCF5FHH" target="_blank" rel="noopener">Prime Listing</a>
+            <a class="media-link" href="https://www.google.com/search?q=Chasing+Ghislaine+documentary" target="_blank" rel="noopener">Web Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Who Is Ghislaine Maxwell? <span class="media-year">2022</span></h3>
+          <p class="media-meta">Channel 4 / Starz</p>
+          <p class="media-copy">UK-focused treatment of the Maxwell family background, pre-US social network, and royal-adjacent connections.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://tv.apple.com/us/show/who-is-ghislaine-maxwell/umc.cmc.4f5f5f2czj52mwy7af4jf2l9w" target="_blank" rel="noopener">Apple TV Listing</a>
+            <a class="media-link" href="https://www.channel4.com/search?count=all&q=ghislaine%20maxwell" target="_blank" rel="noopener">Channel 4 Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Surviving Jeffrey Epstein <span class="media-year">2020</span></h3>
+          <p class="media-meta">Lifetime | 4 Episodes</p>
+          <p class="media-copy">Survivor-centered account focused on trauma, legal process failures, and victim impact statement milestones.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.mylifetime.com/shows/surviving-jeffrey-epstein" target="_blank" rel="noopener">Lifetime Page</a>
+            <a class="media-link" href="https://www.google.com/search?q=Surviving+Jeffrey+Epstein+documentary" target="_blank" rel="noopener">Web Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Who Killed Jeffrey Epstein? <span class="media-year">2020</span></h3>
+          <p class="media-meta">Investigation Discovery</p>
+          <p class="media-copy">Forensic and custodial timeline analysis focused on MCC events, procedural failures, and disputed details around the death.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://tv.apple.com/ca/show/who-killed-jeffrey-epstein/umc.cmc.4tn2v35x7z2u37wow8ww7kh5i" target="_blank" rel="noopener">Apple TV Listing</a>
+            <a class="media-link" href="https://www.investigationdiscovery.com/search?q=who%20killed%20jeffrey%20epstein" target="_blank" rel="noopener">ID Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Victoria's Secret: Angels and Demons <span class="media-year">2022</span></h3>
+          <p class="media-meta">Hulu</p>
+          <p class="media-copy">Financial-network angle focused on Les Wexner relationships, corporate context, and wealth-origin questions.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.hulu.com/series/victorias-secret-angels-and-demons-6f20916d-66cf-46bf-9945-3f5bd74cb3e4" target="_blank" rel="noopener">Hulu Page</a>
+            <a class="media-link" href="https://www.google.com/search?q=Victoria%27s+Secret+Angels+and+Demons+documentary" target="_blank" rel="noopener">Web Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">The Epstein Files (Transparency Act Era) <span class="media-year">2025-2026</span></h3>
+          <p class="media-meta">Channel 4 / PBS Frontline (Referenced)</p>
+          <p class="media-copy">Release-wave era coverage tied to large document drops, newly surfaced materials, and public oversight framing.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://tv.apple.com/us/show/the-epstein-files/umc.cmc.150yu8vyt3q8fotktkp117745" target="_blank" rel="noopener">Apple TV Listing</a>
+            <a class="media-link" href="https://www.pbs.org/search/?q=epstein%20files" target="_blank" rel="noopener">PBS Search</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-card" id="independent-archive">
+      <h2>Independent Digital Archive Collections</h2>
+      <p class="section-note">Open-web channels and long-form investigators identified in the source file as key nodes for deeper, often real-time analysis. Links below point to primary channels or direct discovery pages.</p>
+      <div class="card-grid">
+        <article class="media-item">
+          <h3 class="media-head">Collection A: Whitney Webb Archive <span class="media-year">~40 assets</span></h3>
+          <p class="media-meta">Intelligence / State Complicity Thread</p>
+          <p class="media-copy">Long-form research linking case narratives to historical intelligence and surveillance networks; highly cited in independent circles.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://unlimitedhangout.com/author/whitneywebb/" target="_blank" rel="noopener">Author Archive</a>
+            <a class="media-link" href="https://www.youtube.com/results?search_query=Whitney+Webb+Epstein" target="_blank" rel="noopener">Video Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Collection B: Shaun Attwood Archive <span class="media-year">~100+ assets</span></h3>
+          <p class="media-meta">Interview Repository / UK Thread</p>
+          <p class="media-copy">Large interview-driven archive with heavy focus on Prince Andrew, UK institutions, and guest-based testimony streams.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.youtube.com/results?search_query=Shaun+Attwood+Epstein" target="_blank" rel="noopener">Video Search</a>
+            <a class="media-link" href="https://www.shaunattwood.com/" target="_blank" rel="noopener">Site</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Collection C: TrueAnon Archive <span class="media-year">~30 assets</span></h3>
+          <p class="media-meta">Podcast-Led Network Mapping</p>
+          <p class="media-copy">Episode series combining commentary and document-led analysis around elite-network linkage patterns.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.trueanon.com/" target="_blank" rel="noopener">Podcast Site</a>
+            <a class="media-link" href="https://www.youtube.com/results?search_query=TrueAnon+Epstein" target="_blank" rel="noopener">Video Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Collection D: 60 Minutes Australia <span class="media-year">~25 assets</span></h3>
+          <p class="media-meta">Broadcast Investigative Segments</p>
+          <p class="media-copy">High-visibility reporting packages covering survivor interviews, site visits, and timeline reconstructions.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.youtube.com/@60MinutesAU" target="_blank" rel="noopener">Channel</a>
+            <a class="media-link" href="https://www.youtube.com/results?search_query=60+Minutes+Australia+Epstein" target="_blank" rel="noopener">Video Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Collection E: 2026 Unsealed Video Archive <span class="media-year">~20 assets</span></h3>
+          <p class="media-meta">Document-Dump Video Analysis</p>
+          <p class="media-copy">Post-release video-focused review streams tied to newly surfaced footage and archive-specific interpretation.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.thefp.com/search?q=epstein" target="_blank" rel="noopener">The Free Press Search</a>
+            <a class="media-link" href="https://www.youtube.com/results?search_query=Epstein+Files+Data+Set+10+video" target="_blank" rel="noopener">Video Search</a>
+          </div>
+        </article>
+        <article class="media-item">
+          <h3 class="media-head">Collection F: Breaking News / Legal Analysis <span class="media-year">~50 assets</span></h3>
+          <p class="media-meta">Rolling Coverage 2024-2026</p>
+          <p class="media-copy">Clip-level reaction and legal framing around rolling disclosures, named-mention waves, and redaction controversies.</p>
+          <div class="media-links">
+            <a class="media-link" href="https://www.youtube.com/results?search_query=NBC+MSNBC+Epstein+files" target="_blank" rel="noopener">News Search</a>
+            <a class="media-link" href="https://www.youtube.com/results?search_query=Law%26Crime+Epstein+files" target="_blank" rel="noopener">Legal Search</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-card" id="themes">
+      <h2>Major Themes In The Source Research</h2>
+      <p class="section-note">The source material groups the media corpus into recurring thematic lenses that researchers can use to prioritize review.</p>
+      <div class="list-grid">
+        <div class="list-box">
+          <h3>1. Intelligence Thesis</h3>
+          <p>Frames the case as potential blackmail-network infrastructure rather than only individual criminality.</p>
+          <ul>
+            <li>Network continuity and protection narratives</li>
+            <li>Historical intelligence-operation comparisons</li>
+            <li>High interpretation load; requires strict document corroboration</li>
+          </ul>
+        </div>
+        <div class="list-box">
+          <h3>2. Financial Crimes Lens</h3>
+          <p>Tracks wealth origin, banking structures, and institutional channels that enabled operations.</p>
+          <ul>
+            <li>Wexner and enterprise-control questions</li>
+            <li>Banking and compliance failure context</li>
+            <li>Payment and asset-trail reconstruction focus</li>
+          </ul>
+        </div>
+        <div class="list-box">
+          <h3>3. Royal / UK Connection</h3>
+          <p>Centers Prince Andrew and related UK establishment responses over time.</p>
+          <ul>
+            <li>Interview and timeline-heavy treatment</li>
+            <li>Institutional shielding narratives</li>
+            <li>Transatlantic social network focus</li>
+          </ul>
+        </div>
+        <div class="list-box">
+          <h3>4. 2026 Video-Dump Thread</h3>
+          <p>Focuses on newly surfaced footage and the interpretation battle around visual evidence.</p>
+          <ul>
+            <li>Context, authenticity, and chain-of-custody questions</li>
+            <li>Rapid-reaction media analysis streams</li>
+            <li>Requires claim-to-document validation</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-card" id="workflow">
+      <h2>Suggested Research Workflow</h2>
+      <p class="section-note">Use this sequence to avoid conflating baseline facts with interpretation-heavy commentary.</p>
+      <ol class="workflow">
+        <li>Start with official-canon entries to establish chronology and legal milestones.</li>
+        <li>Use independent collections to generate hypotheses and locate missing context.</li>
+        <li>Cross-check every non-trivial claim against primary documents, docket records, or official releases.</li>
+        <li>Label uncertain conclusions explicitly as unresolved, contested, or pending corroboration.</li>
+      </ol>
+      <div class="badge-row">
+        <span class="badge verified">Name Mention != Wrongdoing</span>
+        <span class="badge">Prefer Claim -> Document Traceability</span>
+      </div>
+    </section>
+
+    <div class="back-links">
+      <a href="./news.html">Open News Page</a>
+      <a href="./links.html">Open Links Page</a>
+      <a href="./index.html">Back To Main Site</a>
+    </div>
+  </main>
+</body>
+</html>
