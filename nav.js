@@ -287,14 +287,18 @@
 
       li.addEventListener("mouseenter", function () {
         if (!isTouchOrSmall()) {
+          if (li._closeTimer) { clearTimeout(li._closeTimer); li._closeTimer = null; }
           openMenu(li);
         }
       });
 
       li.addEventListener("mouseleave", function () {
         if (!isTouchOrSmall()) {
-          li.classList.remove("open");
-          setExpanded(li, false);
+          li._closeTimer = setTimeout(function () {
+            li.classList.remove("open");
+            setExpanded(li, false);
+            li._closeTimer = null;
+          }, 120);
         }
       });
 
@@ -445,7 +449,7 @@
     .site-nav-menu {
       display: none;
       position: absolute;
-      top: calc(100% + 0.22rem);
+      top: 100%;
       left: 0;
       min-width: 230px;
       max-width: 340px;
@@ -456,6 +460,7 @@
       border: 1px solid #3a2f28;
       border-radius: 10px;
       padding: 0.35rem;
+      padding-top: 0.55rem;
       box-shadow: 0 14px 32px rgba(0, 0, 0, 0.38);
     }
 
