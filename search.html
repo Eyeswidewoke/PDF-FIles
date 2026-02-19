@@ -159,6 +159,11 @@
         justify-content: flex-start;
       }
     }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.04); }
+    }
   </style>
 </head>
 <body>
@@ -173,6 +178,7 @@
     </p>
     <div class="hero-divider" aria-hidden="true"></div>
     <nav class="hero-nav" aria-label="Search page links">
+      <a class="hero-nav-btn" href="./ftx-search.html" style="background:linear-gradient(125deg,#d4af37,#a8851a);box-shadow:0 4px 14px rgba(212,175,55,0.4);animation:pulse 2s infinite">&#x1F525; FULL-TEXT SEARCH (1.87M DOCS) &rarr;</a>
       <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#5e4732,#3f2d1f);box-shadow:0 4px 14px rgba(94,71,50,0.32)">HOME &rarr;</a>
       <a class="hero-nav-btn" href="./map.html" style="background:linear-gradient(125deg,#52307f,#311d57);box-shadow:0 4px 14px rgba(82,48,127,0.3)">CONNECTION MAP &rarr;</a>
       <a class="hero-nav-btn" href="./cast.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916);box-shadow:0 4px 14px rgba(211,93,44,0.3)">CAST HUB &rarr;</a>

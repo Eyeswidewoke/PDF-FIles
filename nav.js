@@ -5,6 +5,7 @@
     { label: 'Home', href: './' , match: ['index.html',''] },
     { label: 'Hub', href: './hub.html', match: ['hub.html'] },
     { label: 'Search', href: './search.html', match: ['search.html'] },
+    { label: 'Full-Text', href: './ftx-search.html', match: ['ftx-search.html'] },
     { label: 'News', href: './news.html', match: ['news.html'] },
     { label: 'Media', href: './media.html', match: ['media.html'] },
     { label: 'Links', href: './links.html', match: ['links.html'] },
