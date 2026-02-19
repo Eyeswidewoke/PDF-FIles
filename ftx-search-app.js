@@ -217,9 +217,9 @@
         '</div>' +
       '</div>' +
       '<div class="ftx-result-actions">' +
-        '<a href="' + DOJ_RECORDS + '" target="_blank" rel="noopener">DOJ Records Page &rarr;</a>' +
+        '<a href="' + DOJ_RECORDS + '?query=' + encodeURIComponent(efta) + '" target="_blank" rel="noopener">DOJ Records &rarr;</a>' +
         '<button class="ftx-copy-btn" onclick="navigator.clipboard.writeText(\'' + escHtml(efta) + '\');this.textContent=\'Copied!\';setTimeout(()=>this.textContent=\'\ud83d\udccb Copy EFTA ID\',1500)">\ud83d\udccb Copy EFTA ID</button>' +
-        '<a href="#" onclick="openFtxPanel(\'' + escHtml(efta) + '\');return false;">View Extracted Text &rarr;</a>' +
+        '<a href="#" class="ftx-view-btn" onclick="openFtxPanel(\'' + escHtml(efta) + '\',this);return false;">View Content</a>' +
       '</div>';
     return div;
   }

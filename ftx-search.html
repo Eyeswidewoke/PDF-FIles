@@ -184,14 +184,24 @@
     @media (max-width: 700px) {
       .ftx-search-box { flex-direction: column; }
       .ftx-result-head { flex-direction: column; }
+      /* on mobile, panel covers full screen instead of side-by-side */
+      body.panel-open .ftx-results,
+      body.panel-open .ftx-hero,
+      body.panel-open .ftx-status,
+      body.panel-open .ftx-load-more,
+      body.panel-open .ftx-info {
+        margin-right: 0;
+      }
+      .ftx-panel { width: 100vw; }
     }
 
     /* === SIDE PANEL for document viewer === */
     .ftx-panel-overlay {
       display: none;
       position: fixed; top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(0,0,0,0.4);
+      background: rgba(0,0,0,0.18);
       z-index: 900;
+      pointer-events: auto;
     }
     .ftx-panel-overlay.open { display: block; }
 
@@ -211,6 +221,28 @@
       display: block;
       transform: translateX(0);
     }
+
+    /* shrink main content when panel is open */
+    body.panel-open .ftx-results,
+    body.panel-open .ftx-hero,
+    body.panel-open .ftx-status,
+    body.panel-open .ftx-load-more,
+    body.panel-open .ftx-info {
+      margin-right: min(710px, 91vw);
+      transition: margin-right 0.25s ease;
+    }
+
+    /* highlight the currently-viewed result */
+    .ftx-result.viewing {
+      border-color: #d4af37;
+      box-shadow: 0 0 0 2px #d4af3755, 0 4px 14px rgba(53,36,27,0.12);
+    }
+    .ftx-result.viewing .ftx-view-btn {
+      background: #d4af37 !important;
+      color: #fff !important;
+      border-color: #d4af37 !important;
+    }
+
     .ftx-panel-bar {
       position: sticky; top: 0; z-index: 10;
       display: flex; align-items: center; justify-content: space-between;
@@ -337,12 +369,20 @@
   <script>
   var TXT_CDN = "https://eyeswidewoke.github.io/PDF-Files-text/data/txt/";
 
-  function openFtxPanel(efta) {
+  function openFtxPanel(efta, triggerEl) {
     var panel = document.getElementById("ftxPanel");
     var overlay = document.getElementById("ftxPanelOverlay");
     var body = document.getElementById("ftxPanelBody");
     var title = document.getElementById("ftxPanelTitle");
     var fullLink = document.getElementById("ftxPanelFullLink");
+
+    // highlight active result
+    var prev = document.querySelector(".ftx-result.viewing");
+    if (prev) prev.classList.remove("viewing");
+    if (triggerEl) {
+      var card = triggerEl.closest(".ftx-result");
+      if (card) card.classList.add("viewing");
+    }
 
     title.textContent = efta;
     fullLink.href = "./view.html?id=" + encodeURIComponent(efta);
@@ -350,6 +390,7 @@
 
     overlay.classList.add("open");
     panel.classList.add("open");
+    document.body.classList.add("panel-open");
     // trigger reflow for animation
     void panel.offsetWidth;
 
@@ -389,6 +430,9 @@
   function closeFtxPanel() {
     document.getElementById("ftxPanel").classList.remove("open");
     document.getElementById("ftxPanelOverlay").classList.remove("open");
+    document.body.classList.remove("panel-open");
+    var prev = document.querySelector(".ftx-result.viewing");
+    if (prev) prev.classList.remove("viewing");
   }
 
   // Close on Escape key

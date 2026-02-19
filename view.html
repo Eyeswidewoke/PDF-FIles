@@ -94,7 +94,7 @@
       '<div class="view-header">' +
         '<h1 class="view-efta">' + efta + '</h1>' +
         '<div class="view-actions">' +
-          '<a class="btn-doj" href="' + DOJ_RECORDS + '" target="_blank" rel="noopener">DOJ Records Page →</a>' +
+          '<a class="btn-doj" href="' + DOJ_RECORDS + '?query=' + encodeURIComponent(efta) + '" target="_blank" rel="noopener">DOJ Records →</a>' +
           '<a class="btn-search" href="./ftx-search.html?q=' + encodeURIComponent(efta) + '">Search in Full-Text Index →</a>' +
           '<button class="btn-copy" onclick="navigator.clipboard.writeText(\'' + efta + '\');this.textContent=\'Copied!\';setTimeout(()=>this.textContent=\'Copy EFTA ID\',1500)">📋 Copy EFTA ID</button>' +
         '</div>' +
@@ -114,7 +114,7 @@
         var pages = shard[efta];
         var pagesEl = document.getElementById("viewPages");
         if (!pages || pages.length === 0) {
-          pagesEl.innerHTML = '<div class="view-error">No extracted text found for ' + efta + '.<br>Try <a href="' + DOJ_RECORDS + '" target="_blank" style="color:#d4af37">searching the DOJ records page</a>.</div>';
+          pagesEl.innerHTML = '<div class="view-error">No extracted text found for ' + efta + '.<br>Try <a href="' + DOJ_RECORDS + '?query=' + encodeURIComponent(efta) + '" target="_blank" style="color:#d4af37">searching the DOJ records page</a>.</div>';
           return;
         }
 
@@ -144,7 +144,7 @@
         document.getElementById("viewPages").innerHTML =
           '<div class="view-error">' +
             'Could not load text: ' + err.message + '<br><br>' +
-            'You can try <a href="' + DOJ_RECORDS + '" target="_blank" style="color:#d4af37">searching the DOJ records page</a> using the EFTA ID.' +
+            'You can try <a href="' + DOJ_RECORDS + '?query=' + encodeURIComponent(efta) + '" target="_blank" style="color:#d4af37">searching the DOJ records page</a> using the EFTA ID.' +
           '</div>';
       });
 
