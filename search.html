@@ -9,6 +9,35 @@
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="./styles.css?v=20260218-context1" />
   <style>
+    .search-mode-explain {
+      margin: 0.85rem auto 0;
+      max-width: 1000px;
+      display: grid;
+      gap: 0.5rem;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      text-align: left;
+    }
+
+    .search-mode-pill {
+      border: 1px solid #ddc7b2;
+      border-radius: 10px;
+      background: #fff7ee;
+      padding: 0.55rem 0.65rem;
+      color: #5f4e43;
+      font-size: 0.78rem;
+      line-height: 1.5;
+    }
+
+    .search-mode-pill strong {
+      color: #3e2f25;
+    }
+
+    .search-mode-pill.current {
+      border-color: #bf8b48;
+      background: #fff3df;
+      box-shadow: 0 4px 10px rgba(95, 66, 34, 0.12);
+    }
+
     .search-filter-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
@@ -173,12 +202,20 @@
   <header class="hero">
     <h1>ADVANCED SEARCH</h1>
     <p class="subhead" style="margin:0.6rem auto 0;max-width:72ch;text-align:center">
-      Search and filter the indexed files directly by collection, source, category, file type, size, and date.
-      Use <strong>Adjacent Context</strong> to pull neighboring file numbers when redactions hide keywords.
+      This page is for <strong>indexed file search</strong>: quickly filter by collection, source, category, file type, size, date, and adjacency.
+      Use <strong>Full-Text Search</strong> when you need phrase-level matches inside OCR/body text.
     </p>
+    <div class="search-mode-explain" role="note" aria-label="Search mode differences">
+      <div class="search-mode-pill current">
+        <strong>Advanced Search (this page):</strong> best for fast file discovery and navigation. It searches indexed metadata and labels, then lets you pivot with filters and <strong>Adjacent Context</strong>.
+      </div>
+      <div class="search-mode-pill">
+        <strong>Full-Text Search:</strong> best when you need exact words/phrases inside parsed OCR text across the larger corpus. Use this for deep text evidence hunting.
+      </div>
+    </div>
     <div class="hero-divider" aria-hidden="true"></div>
     <nav class="hero-nav" aria-label="Search page links">
-      <a class="hero-nav-btn" href="./ftx-search.html" style="background:linear-gradient(125deg,#d4af37,#a8851a);box-shadow:0 4px 14px rgba(212,175,55,0.4);animation:pulse 2s infinite">&#x1F525; FULL-TEXT SEARCH (1.87M DOCS) &rarr;</a>
+      <a class="hero-nav-btn" href="./ftx-search.html" style="background:linear-gradient(125deg,#d4af37,#a8851a);box-shadow:0 4px 14px rgba(212,175,55,0.4);animation:pulse 2s infinite">&#x1F525; OPEN FULL-TEXT OCR SEARCH &rarr;</a>
       <a class="hero-nav-btn" href="./index.html" style="background:linear-gradient(125deg,#5e4732,#3f2d1f);box-shadow:0 4px 14px rgba(94,71,50,0.32)">HOME &rarr;</a>
       <a class="hero-nav-btn" href="./map.html" style="background:linear-gradient(125deg,#52307f,#311d57);box-shadow:0 4px 14px rgba(82,48,127,0.3)">CONNECTION MAP &rarr;</a>
       <a class="hero-nav-btn" href="./cast.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916);box-shadow:0 4px 14px rgba(211,93,44,0.3)">CAST HUB &rarr;</a>
