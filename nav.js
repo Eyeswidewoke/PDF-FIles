@@ -132,54 +132,41 @@
       ]
     },
     {
-      label: "Timeline",
-      href: "./timeline.html",
-      match: ["timeline.html", "master-timeline.html"],
-      children: [
-        { label: "Case Timeline", href: "./timeline.html", match: ["timeline.html"] },
-        { label: "Master Timeline", href: "./master-timeline.html", match: ["master-timeline.html"] },
-        { label: "News", href: "./news.html", match: ["news.html"] }
-      ]
-    },
-    {
-      label: "Investigations",
-      href: "./investigations.html",
+      label: "More",
+      href: "#",
       match: [
+        "timeline.html", "master-timeline.html",
         "investigations.html", "investigation-c.html", "analysis.html", "depositions.html",
-        "legal-filings.html", "explosive-docs.html", "inner-circle.html", "complicity-gradient.html", "deep-sweep.html"
+        "legal-filings.html", "explosive-docs.html", "inner-circle.html", "complicity-gradient.html", "deep-sweep.html",
+        "flights.html", "flights-intel.html", "financials.html",
+        "map.html", "navigator.html",
+        "contribute.html"
       ],
       children: [
+        { label: "\u2014 Timeline", divider: true },
+        { label: "Case Timeline", href: "./timeline.html", match: ["timeline.html"] },
+        { label: "Master Timeline", href: "./master-timeline.html", match: ["master-timeline.html"] },
+        { label: "\u2014 Investigations", divider: true },
         { label: "Investigations Hub", href: "./investigations.html", match: ["investigations.html"] },
         { label: "Investigation C", href: "./investigation-c.html", match: ["investigation-c.html"] },
         { label: "File Analysis", href: "./analysis.html", match: ["analysis.html"] },
         { label: "Depositions", href: "./depositions.html", match: ["depositions.html"] },
         { label: "Legal Filings", href: "./legal-filings.html", match: ["legal-filings.html"] },
         { label: "Explosive Documents", href: "./explosive-docs.html", match: ["explosive-docs.html"] },
+        { label: "Inner Circle", href: "./inner-circle.html", match: ["inner-circle.html"] },
         { label: "Complicity Gradient", href: "./complicity-gradient.html", match: ["complicity-gradient.html"] },
-        { label: "Deep Sweep", href: "./deep-sweep.html", match: ["deep-sweep.html"] }
-      ]
-    },
-    {
-      label: "Flights",
-      href: "./flights.html",
-      match: ["flights.html", "flights-intel.html", "financials.html"],
-      children: [
+        { label: "Deep Sweep", href: "./deep-sweep.html", match: ["deep-sweep.html"] },
+        { label: "\u2014 Flights & Finance", divider: true },
         { label: "Flight Logs", href: "./flights.html", match: ["flights.html"] },
         { label: "Flight Intelligence", href: "./flights-intel.html", match: ["flights-intel.html"] },
-        { label: "Financial Intelligence", href: "./financials.html", match: ["financials.html"] }
-      ]
-    },
-    {
-      label: "Map",
-      href: "./map.html",
-      match: ["map.html", "navigator.html"],
-      children: [
+        { label: "Financial Intelligence", href: "./financials.html", match: ["financials.html"] },
+        { label: "\u2014 Maps & Tools", divider: true },
         { label: "Connection Map", href: "./map.html", match: ["map.html"] },
-        { label: "Mind Map Navigator", href: "./navigator.html", match: ["navigator.html"] }
+        { label: "Mind Map Navigator", href: "./navigator.html", match: ["navigator.html"] },
+        { label: "How to Help", href: "./contribute.html", match: ["contribute.html"] },
+        { label: "GitHub \u2197", href: "https://github.com/Eyeswidewoke/PDF-FIles", external: true }
       ]
-    },
-    { label: "How to Help", href: "./contribute.html", match: ["contribute.html"] },
-    { label: "GitHub", href: "https://github.com/Eyeswidewoke/PDF-FIles", external: true }
+    }
   ];
 
   var nav = document.createElement("nav");
@@ -272,10 +259,21 @@
       menu.className = "site-nav-menu";
 
       item.children.forEach(function (child) {
+        if (child.divider) {
+          var div = document.createElement("div");
+          div.className = "site-nav-divider";
+          div.textContent = child.label;
+          menu.appendChild(div);
+          return;
+        }
         var subLink = document.createElement("a");
         subLink.className = "site-nav-sub-link";
         subLink.href = child.href;
         subLink.textContent = child.label;
+        if (child.external) {
+          subLink.target = "_blank";
+          subLink.rel = "noopener";
+        }
         if (linkIsActive(child)) {
           subLink.classList.add("active");
           li.classList.add("open");
@@ -301,6 +299,11 @@
       });
 
       link.addEventListener("click", function (event) {
+        if (link.getAttribute("href") === "#") {
+          event.preventDefault();
+          toggleMenu(li);
+          return;
+        }
         if (isTouchOrSmall()) {
           if (!li.classList.contains("open")) {
             event.preventDefault();
@@ -481,10 +484,32 @@
       background: #3a2919;
     }
 
+    .site-nav-divider {
+      padding: 0.32rem 0.48rem 0.12rem;
+      font-size: 0.55rem;
+      font-weight: 700;
+      color: #8a7a6a;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      border-top: 1px solid #3a2f28;
+      margin-top: 0.25rem;
+      pointer-events: none;
+      user-select: none;
+    }
+    .site-nav-divider:first-child {
+      border-top: none;
+      margin-top: 0;
+    }
+
     .site-nav-item.has-menu:hover > .site-nav-menu,
     .site-nav-item.has-menu:focus-within > .site-nav-menu,
     .site-nav-item.open > .site-nav-menu {
       display: block;
+    }
+
+    .site-nav-item.has-menu:last-child > .site-nav-menu {
+      left: auto;
+      right: 0;
     }
 
     @media (max-width: 980px) {
