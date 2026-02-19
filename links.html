@@ -13,85 +13,143 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20260218-links2" />
+  <link rel="stylesheet" href="./styles.css?v=20260218-links3" />
   <style>
-    .links-shell{max-width:980px;margin:0 auto;display:flex;flex-direction:column}
-    .links-hero{text-align:center;padding:2rem 1rem 1rem}
-    .links-hero h1{margin:0 0 .45rem;font-size:clamp(1.5rem,3.6vw,2.25rem);letter-spacing:.02em;color:#2a1d10}
-    .links-hero .subtitle{margin:0;color:#6b5e50;font-size:.95rem;line-height:1.6}
-    .section-card{border:1px solid var(--border);border-radius:12px;background:linear-gradient(150deg,#fffefb 0%,#fff8ef 100%);padding:1.15rem 1.25rem;margin:.7rem 0}
-    .section-card h2{margin:0 0 .55rem;font-size:1.08rem;color:#2a1d10;letter-spacing:.01em}
-    .section-card ul{margin:0;padding-left:1.2rem;color:#3a3025;font-size:.86rem;line-height:1.55}
-    .section-card li{margin-bottom:.36rem}
-    .section-card a{color:#8f2f15;font-weight:600;text-decoration:none}
-    .section-card a:hover{text-decoration:underline}
-    .back-links{display:flex;flex-wrap:wrap;justify-content:center;gap:.5rem;margin:1.2rem 0 .5rem}
-    .back-links a{display:inline-flex;align-items:center;justify-content:center;border-radius:8px;padding:.55rem 1rem;text-decoration:none;font:600 .8rem var(--mono);letter-spacing:.02em;color:#fff;background:linear-gradient(125deg,#5f4c3f,#3f3128)}
-    .back-links a:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(63,49,40,.3)}
-    .integrity-note{margin:.9rem 0 .2rem;padding:.9rem;border-top:1px solid var(--border);color:#6b5e50;text-align:center;font-size:.8rem;line-height:1.6}
-    @media(max-width:760px){.section-card{padding:.92rem .95rem}}
+    .links-shell{max-width:1060px;margin:0 auto;padding:0 1rem}
+    .links-hero{text-align:center;padding:1.5rem 0 .8rem}
+    .links-hero h1{margin:0 0 .3rem;font-size:clamp(1.4rem,3.4vw,2.1rem);letter-spacing:.02em;color:#2a1d10}
+    .links-hero p{margin:0;color:#6b5e50;font-size:.9rem}
+    .cat-section{margin:1rem 0 0}
+    .cat-label{font:700 .78rem var(--mono);color:#6a5a4a;text-transform:uppercase;letter-spacing:.06em;margin:0 0 .55rem;padding-bottom:.35rem;border-bottom:1px solid #ddd0c0}
+    .link-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:.6rem}
+    .link-card{display:flex;flex-direction:column;border:1px solid #dcc8b5;border-radius:10px;padding:.72rem .82rem;background:#fff9f1;text-decoration:none;color:inherit;transition:transform .12s,box-shadow .12s}
+    .link-card:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(50,35,20,.12)}
+    .link-card-name{font-size:.88rem;font-weight:700;color:#2a1d10;margin:0 0 .2rem;line-height:1.4}
+    .link-card-desc{font-size:.78rem;color:#5a4d42;line-height:1.5;margin:0;flex:1}
+    .link-card-url{margin-top:.35rem;font:600 .65rem var(--mono);color:#8f2f15;letter-spacing:.01em;word-break:break-all}
+    .integrity-note{margin:1.5rem 0 .5rem;padding:.9rem;border-top:1px solid var(--border);color:#6b5e50;text-align:center;font-size:.78rem;line-height:1.6}
+    @media(max-width:600px){.link-grid{grid-template-columns:1fr}}
   </style>
 </head>
 <body>
   <div class="noise"></div>
+  <script src="./nav.js"></script>
 
-  <main class="grid links-shell">
+  <main class="links-shell">
     <header class="links-hero">
-      <h1>LINKS &mdash; The PDF Files</h1>
-      <p class="subtitle">Official sources, mirrors, search tools, and communities.</p>
+      <h1>LINKS</h1>
+      <p>Official sources, mirrors, search tools, and communities.</p>
     </header>
 
-    <section class="section-card">
-      <h2>Official Primary Sources</h2>
-      <ul>
-        <li><a href="https://www.justice.gov/epstein/doj-disclosures" target="_blank" rel="noopener">DOJ Epstein Library &mdash; Datasets 1-12</a></li>
-        <li><a href="https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files" target="_blank" rel="noopener">DOJ Press Release (First Phase Disclosure)</a></li>
-        <li><a href="https://wikiepstein.com/" target="_blank" rel="noopener">WikiEpstein &mdash; Release Tracker + Official Links</a></li>
-      </ul>
+    <!-- Official -->
+    <section class="cat-section">
+      <h2 class="cat-label">Official Primary Sources</h2>
+      <div class="link-grid">
+        <a class="link-card" href="https://www.justice.gov/epstein/doj-disclosures" target="_blank" rel="noopener">
+          <div class="link-card-name">DOJ Epstein Library</div>
+          <div class="link-card-desc">All 12 official DOJ disclosure datasets — the primary source.</div>
+          <div class="link-card-url">justice.gov/epstein/doj-disclosures</div>
+        </a>
+        <a class="link-card" href="https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files" target="_blank" rel="noopener">
+          <div class="link-card-name">DOJ Press Release</div>
+          <div class="link-card-desc">First-phase disclosure announcement from AG Bondi.</div>
+          <div class="link-card-url">justice.gov/opa/pr/...declassified-epstein-files</div>
+        </a>
+        <a class="link-card" href="https://wikiepstein.com/" target="_blank" rel="noopener">
+          <div class="link-card-name">WikiEpstein</div>
+          <div class="link-card-desc">Community release tracker with official links and timelines.</div>
+          <div class="link-card-url">wikiepstein.com</div>
+        </a>
+      </div>
     </section>
 
-    <section class="section-card">
-      <h2>Preservation / Mirror Indexes</h2>
-      <ul>
-        <li><a href="https://github.com/yung-megafone/Epstein-Files" target="_blank" rel="noopener">yung-megafone/Epstein-Files</a> &mdash; torrents, mirrors, and hash verification for DOJ datasets 1-12</li>
-      </ul>
+    <!-- Preservation -->
+    <section class="cat-section">
+      <h2 class="cat-label">Preservation / Mirror Indexes</h2>
+      <div class="link-grid">
+        <a class="link-card" href="https://github.com/yung-megafone/Epstein-Files" target="_blank" rel="noopener">
+          <div class="link-card-name">yung-megafone/Epstein-Files</div>
+          <div class="link-card-desc">Torrents, mirrors, and hash verification for all 12 DOJ datasets.</div>
+          <div class="link-card-url">github.com/yung-megafone/Epstein-Files</div>
+        </a>
+      </div>
     </section>
 
-    <section class="section-card">
-      <h2>Analysis / OCR / Indexing Projects</h2>
-      <ul>
-        <li><a href="https://github.com/epstein-docs/epstein-docs.github.io" target="_blank" rel="noopener">epstein-docs</a> &mdash; OCR + entity extraction + static searchable archive</li>
-        <li><a href="https://svetimfm.github.io/epstein-files-visualizations/" target="_blank" rel="noopener">SvetimFM Visualizations</a> &mdash; entity explorer, network, timeline, financial views
-          (<a href="https://github.com/SvetimFM/epstein-files-visualizations" target="_blank" rel="noopener">repo</a>)</li>
-        <li><a href="https://github.com/maxandrews/Epstein-doc-explorer" target="_blank" rel="noopener">maxandrews/Epstein-doc-explorer</a> &mdash; relationship graph explorer</li>
-      </ul>
+    <!-- Analysis -->
+    <section class="cat-section">
+      <h2 class="cat-label">Analysis / OCR / Indexing Projects</h2>
+      <div class="link-grid">
+        <a class="link-card" href="https://github.com/epstein-docs/epstein-docs.github.io" target="_blank" rel="noopener">
+          <div class="link-card-name">epstein-docs</div>
+          <div class="link-card-desc">OCR + entity extraction + static searchable archive.</div>
+          <div class="link-card-url">github.com/epstein-docs</div>
+        </a>
+        <a class="link-card" href="https://svetimfm.github.io/epstein-files-visualizations/" target="_blank" rel="noopener">
+          <div class="link-card-name">SvetimFM Visualizations</div>
+          <div class="link-card-desc">Entity explorer, network graph, timeline, and financial views.</div>
+          <div class="link-card-url">svetimfm.github.io/epstein-files-visualizations</div>
+        </a>
+        <a class="link-card" href="https://github.com/maxandrews/Epstein-doc-explorer" target="_blank" rel="noopener">
+          <div class="link-card-name">Epstein-doc-explorer</div>
+          <div class="link-card-desc">Relationship graph explorer and document pipeline.</div>
+          <div class="link-card-url">github.com/maxandrews/Epstein-doc-explorer</div>
+        </a>
+      </div>
     </section>
 
-    <section class="section-card">
-      <h2>Search Portals (Third-Party)</h2>
-      <ul>
-        <li><a href="https://epstein-file-explorer.org/about" target="_blank" rel="noopener">Epstein File Explorer</a></li>
-        <li><a href="https://epstein-data.com/" target="_blank" rel="noopener">epstein-data.com (AI indexed)</a></li>
-        <li><a href="https://epstein-files.org/" target="_blank" rel="noopener">epstein-files.org (Sifter Labs)</a></li>
-        <li><a href="https://www.tommycarstensen.com/epstein/video_gallery.html" target="_blank" rel="noopener">Tommy Carstensen &mdash; Epstein Video Gallery</a></li>
-        <li><a href="https://jmail.world/jefftube" target="_blank" rel="noopener">jmail.world / JeffTube</a></li>
-      </ul>
+    <!-- Search Portals -->
+    <section class="cat-section">
+      <h2 class="cat-label">Search Portals (Third-Party)</h2>
+      <div class="link-grid">
+        <a class="link-card" href="https://epstein-file-explorer.org/about" target="_blank" rel="noopener">
+          <div class="link-card-name">Epstein File Explorer</div>
+          <div class="link-card-desc">Searchable document viewer and file browser.</div>
+          <div class="link-card-url">epstein-file-explorer.org</div>
+        </a>
+        <a class="link-card" href="https://epstein-data.com/" target="_blank" rel="noopener">
+          <div class="link-card-name">epstein-data.com</div>
+          <div class="link-card-desc">AI-indexed document search across all datasets.</div>
+          <div class="link-card-url">epstein-data.com</div>
+        </a>
+        <a class="link-card" href="https://epstein-files.org/" target="_blank" rel="noopener">
+          <div class="link-card-name">Sifter Labs</div>
+          <div class="link-card-desc">Epstein document search engine.</div>
+          <div class="link-card-url">epstein-files.org</div>
+        </a>
+        <a class="link-card" href="https://www.tommycarstensen.com/epstein/video_gallery.html" target="_blank" rel="noopener">
+          <div class="link-card-name">Epstein Video Gallery</div>
+          <div class="link-card-desc">Video content catalog by Tommy Carstensen.</div>
+          <div class="link-card-url">tommycarstensen.com/epstein/video_gallery.html</div>
+        </a>
+        <a class="link-card" href="https://jmail.world/jefftube" target="_blank" rel="noopener">
+          <div class="link-card-name">jmail.world / JeffTube</div>
+          <div class="link-card-desc">Third-party media viewer — validate against official sources.</div>
+          <div class="link-card-url">jmail.world/jefftube</div>
+        </a>
+      </div>
     </section>
 
-    <section class="section-card">
-      <h2>Communities</h2>
-      <ul>
-        <li><a href="https://www.reddit.com/r/Epstein/comments/1qzp9yv/recovering_hidden_video_audio_and_doc_files_in/" target="_blank" rel="noopener">Reddit r/Epstein &mdash; Hidden File Recovery Thread</a></li>
-        <li><a href="https://linktr.ee/datahorde" target="_blank" rel="noopener">Data Horde (Archiving Community)</a></li>
-        <li><a href="https://discordbotlist.com/servers/osintly" target="_blank" rel="noopener">Osintly Community Discord</a></li>
-      </ul>
+    <!-- Communities -->
+    <section class="cat-section">
+      <h2 class="cat-label">Communities</h2>
+      <div class="link-grid">
+        <a class="link-card" href="https://www.reddit.com/r/Epstein/comments/1qzp9yv/recovering_hidden_video_audio_and_doc_files_in/" target="_blank" rel="noopener">
+          <div class="link-card-name">Reddit r/Epstein</div>
+          <div class="link-card-desc">Hidden file recovery thread — scripts, magnets, discussion.</div>
+          <div class="link-card-url">reddit.com/r/Epstein</div>
+        </a>
+        <a class="link-card" href="https://linktr.ee/datahorde" target="_blank" rel="noopener">
+          <div class="link-card-name">Data Horde</div>
+          <div class="link-card-desc">Archiving community with Discord and coordination links.</div>
+          <div class="link-card-url">linktr.ee/datahorde</div>
+        </a>
+        <a class="link-card" href="https://discordbotlist.com/servers/osintly" target="_blank" rel="noopener">
+          <div class="link-card-name">Osintly Community</div>
+          <div class="link-card-desc">OSINT-focused Discord server for research coordination.</div>
+          <div class="link-card-url">discordbotlist.com/servers/osintly</div>
+        </a>
+      </div>
     </section>
-
-    <div class="back-links">
-      <a href="./">&larr; Back to Main Site</a>
-      <a href="./news.html">News &rarr;</a>
-      <a href="./contribute.html">How to Help &rarr;</a>
-    </div>
 
     <div class="integrity-note">
       Name presence in documents does not imply wrongdoing. Do not repost personal contact info from documents.
