@@ -18,19 +18,89 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20260218-intropdf2" />
+  <link rel="stylesheet" href="./styles.css?v=20260218-home2" />
+  <style>
+    .home{max-width:960px;margin:0 auto;padding:0 1rem 2rem}
+
+    /* search bar right under nav */
+    .home-search{display:flex;gap:.5rem;margin:1rem 0 0;flex-wrap:wrap}
+    .home-search input{flex:1;min-width:200px;padding:.6rem .85rem;border:1px solid #c9b8a0;border-radius:8px;background:#fffdf9;font:400 .88rem var(--mono);color:#2a1d10;outline:none}
+    .home-search input:focus{border-color:#8f2f15;box-shadow:0 0 0 3px rgba(143,47,21,.12)}
+    .home-search .action-btn{padding:.6rem 1.1rem;border:none;border-radius:8px;background:#8f2f15;color:#fff;font:600 .82rem var(--mono);cursor:pointer;letter-spacing:.02em}
+    .home-search .action-btn:hover{background:#6b2210}
+    .home-search .ghost-btn{padding:.6rem .8rem;border:1px solid #c9b8a0;border-radius:8px;background:transparent;color:#5f4f43;font:600 .72rem var(--mono);text-decoration:none;display:flex;align-items:center}
+
+    /* hero */
+    .home-hero{text-align:center;padding:2rem 0 1rem}
+    .home-hero h1{margin:0 0 .35rem;font-size:clamp(2rem,5vw,3rem);letter-spacing:.04em;color:#2a1d10}
+    .home-hero .tagline{margin:0 0 .8rem;color:#6b5e50;font-size:1.05rem;font-weight:500}
+
+    /* pdf intro */
+    .intro-pdf{border:1px solid var(--border);border-radius:12px;overflow:hidden;background:#fffdf8;margin:0 0 1.5rem}
+    .intro-pdf-toolbar{display:flex;align-items:center;gap:.5rem;padding:.45rem .8rem;background:#2a1d10;color:#c9a44a;font:600 .68rem var(--mono)}
+    .intro-pdf-dot{width:10px;height:10px;border-radius:50%}.dot-red{background:#e74c3c}.dot-amber{background:#f39c12}.dot-green{background:#27ae60}
+    .intro-pdf-filename{margin-left:auto;opacity:.7}.intro-pdf-pages{opacity:.5}
+    .intro-pdf-page{padding:1.2rem 1.4rem;position:relative}
+    .intro-pdf-stamp{position:absolute;top:12px;right:16px;font:700 .7rem var(--mono);color:#c9a44a;opacity:.3;letter-spacing:.1em;text-transform:uppercase;transform:rotate(4deg)}
+    .intro-pdf-page p{margin:0 0 .7rem;font-size:.88rem;line-height:1.65;color:#3a3025}
+    .intro-pdf-lead{font-size:.95rem !important}
+    .intro-pdf-emph{color:#8f2f15}
+    .intro-pdf-quote{font-style:italic;color:#6b5e50;border-left:3px solid #ddd0c0;padding-left:.8rem;margin:.8rem 0}
+    .intro-pdf-cta{margin-top:.8rem}
+    .intro-pdf-cta a{color:#8f2f15;font-weight:700;text-decoration:none}
+    .intro-pdf-cta a:hover{text-decoration:underline}
+
+    /* stats row */
+    .stat-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.5rem;margin:0 0 1.5rem}
+    .stat-card{border:1px solid #dcc8b5;border-radius:10px;padding:.55rem .7rem;background:#fff9f1;text-align:center}
+    .stat-val{font:700 1.3rem var(--mono);color:#2a1d10;margin:0}
+    .stat-label{font:600 .6rem var(--mono);color:#6a5a4a;text-transform:uppercase;letter-spacing:.04em;margin:.1rem 0 0}
+
+    /* tour sections */
+    .tour-section{margin:0 0 1.5rem}
+    .tour-label{font:700 .78rem var(--mono);color:#6a5a4a;text-transform:uppercase;letter-spacing:.06em;margin:0 0 .4rem;padding-bottom:.3rem;border-bottom:1px solid #ddd0c0}
+    .tour-desc{margin:0 0 .6rem;color:#3a3025;font-size:.86rem;line-height:1.6}
+    .tour-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:.55rem}
+    .tour-card{display:flex;flex-direction:column;border:1px solid #dcc8b5;border-radius:10px;padding:.65rem .78rem;background:#fff9f1;text-decoration:none;color:inherit;transition:transform .12s,box-shadow .12s}
+    .tour-card:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(50,35,20,.12)}
+    .tour-card-name{font-size:.86rem;font-weight:700;color:#2a1d10;margin:0 0 .15rem}
+    .tour-card-desc{font-size:.75rem;color:#5a4d42;line-height:1.5;margin:0}
+
+    /* datasets compact */
+    .ds-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:.4rem}
+    .ds-chip{display:block;border:1px solid #dcc8b5;border-radius:8px;padding:.4rem .6rem;background:#fff9f1;text-decoration:none;text-align:center;transition:transform .1s,box-shadow .1s}
+    .ds-chip:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(50,35,20,.1)}
+    .ds-chip-name{font:700 .82rem var(--mono);color:#2a1d10;margin:0}
+    .ds-chip-meta{font:600 .58rem var(--mono);color:#6a5a4a;margin:.1rem 0 0}
+
+    /* footer */
+    .home-footer{border-top:1px solid var(--border);padding:1rem 0 .5rem;text-align:center;color:#6b5e50;font-size:.78rem;line-height:1.6}
+    .home-footer a{color:#6b5e50}
+
+    @media(max-width:600px){.tour-grid{grid-template-columns:1fr}.ds-grid{grid-template-columns:repeat(3,1fr)}.stat-row{grid-template-columns:repeat(2,1fr)}}
+  </style>
 </head>
 <body>
   <div class="noise"></div>
   <script src="./nav.js"></script>
 
-  <header class="hero">
-    <h1>THE PDF FILES</h1>
-    <p class="subhead hero-tagline">
-      The Epstein Files. All of Them. Exposed.
-    </p>
+  <main class="home">
 
-    <section class="intro-pdf" aria-label="Project introduction as document page">
+    <!-- SEARCH BAR -->
+    <form class="home-search" action="./search.html" method="get" role="search" aria-label="Site-wide search">
+      <input type="search" name="q" placeholder="Search all files, emails, cast, timeline..." autocomplete="off" spellcheck="false" />
+      <button type="submit" class="action-btn">Search Site</button>
+      <a class="ghost-btn" href="./search.html">Advanced Search</a>
+    </form>
+
+    <!-- HERO -->
+    <header class="home-hero">
+      <h1>THE PDF FILES</h1>
+      <p class="tagline">The Epstein Files. All of Them. Exposed.</p>
+    </header>
+
+    <!-- INTRO DOC -->
+    <section class="intro-pdf" aria-label="Project introduction">
       <div class="intro-pdf-toolbar" aria-hidden="true">
         <span class="intro-pdf-dot dot-red"></span>
         <span class="intro-pdf-dot dot-amber"></span>
@@ -38,7 +108,6 @@
         <span class="intro-pdf-filename">DOJ_RELEASE_INTRO.pdf</span>
         <span class="intro-pdf-pages">Page 1 / 1</span>
       </div>
-
       <div class="intro-pdf-page">
         <span class="intro-pdf-stamp" aria-hidden="true">PUBLIC COPY</span>
         <p class="intro-pdf-lead">
@@ -53,237 +122,134 @@
         <p class="intro-pdf-quote">
           &ldquo;Sunlight is the best disinfectant.&rdquo; &mdash; U.S. Supreme Court Justice Louis Brandeis
         </p>
-        <p class="intro-pdf-foot">
-          Explore by name, by topic, or search across <strong>58,000+ indexed artifacts</strong> below &mdash; including flight logs, depositions, financial records, FBI reports, and thousands of previously unsearchable pages surfaced by deep sweep.
-        </p>
         <p class="intro-pdf-cta">
-          <a class="intro-pdf-link" href="./how-it-works.html">New here? How This Site Works&nbsp;&rarr;</a>
+          <a href="./how-it-works.html">New here? How This Site Works&nbsp;&rarr;</a>
         </p>
       </div>
     </section>
 
+    <!-- STATS -->
+    <div class="stat-row">
+      <div class="stat-card"><p class="stat-val">900K+</p><p class="stat-label">Documents</p></div>
+      <div class="stat-card"><p class="stat-val">3M+</p><p class="stat-label">Pages</p></div>
+      <div class="stat-card"><p class="stat-val">343M</p><p class="stat-label">Words Parsed</p></div>
+      <div class="stat-card"><p class="stat-val">148+</p><p class="stat-label">People Tracked</p></div>
+      <div class="stat-card"><p class="stat-val">58K+</p><p class="stat-label">Indexed Artifacts</p></div>
+      <div class="stat-card"><p class="stat-val">12</p><p class="stat-label">DOJ Datasets</p></div>
+    </div>
 
-<section class="collab-banner" aria-label="Help with this project">
-      <span class="collab-banner-icon" aria-hidden="true">&#x1F91D;</span>
-      <h3>This project needs your help &mdash; no coding required</h3>
-      <p>
-        3 million pages can&rsquo;t be read by one person. Right now, thousands of people are independently
-        combing through these files &mdash; all starting from scratch, all duplicating each other&rsquo;s work.
-        <strong>This site exists so nobody has to start over.</strong>
-      </p>
-      <p>
-        If you can read, you can help. Read documents and report what you find. Check profiles for accuracy.
-        Spot a connection between a name in a deposition and a flight log? That&rsquo;s exactly what we need.
-        <strong>We&rsquo;re looking for people to help analyze, verify, and eventually help run this project.</strong>
-      </p>
-      <div class="collab-actions">
-        <a class="collab-btn collab-btn-primary" href="./contribute.html">How to Help &mdash; Start Here</a>
-        <a class="collab-btn collab-btn-secondary" href="https://github.com/Eyeswidewoke/PDF-FIles/discussions" target="_blank" rel="noopener">Share What You&rsquo;ve Found</a>
-        <a class="collab-btn collab-btn-outline" href="https://github.com/Eyeswidewoke/PDF-FIles/issues/new" target="_blank" rel="noopener">Report a Problem</a>
+    <!-- TOUR: WHAT'S INSIDE -->
+    <section class="tour-section">
+      <h2 class="tour-label">What&rsquo;s Inside the Files</h2>
+      <p class="tour-desc">The DOJ release contains everything seized in the Epstein investigation. Here&rsquo;s what we&rsquo;ve indexed:</p>
+      <div class="tour-grid">
+        <a class="tour-card" href="./flights.html">
+          <div class="tour-card-name">&#x2708;&#xFE0F; Flight Logs</div>
+          <div class="tour-card-desc">Every recorded flight on Epstein's aircraft — passengers, dates, and routes.</div>
+        </a>
+        <a class="tour-card" href="./depositions.html">
+          <div class="tour-card-name">&#x2696;&#xFE0F; Depositions</div>
+          <div class="tour-card-desc">Sworn testimony from victims, associates, and staff — under oath.</div>
+        </a>
+        <a class="tour-card" href="./financials.html">
+          <div class="tour-card-name">&#x1F4B0; Financial Records</div>
+          <div class="tour-card-desc">Wire transfers, bank records, shell companies, and $158M in payments.</div>
+        </a>
+        <a class="tour-card" href="./images.html">
+          <div class="tour-card-name">&#x1F4F7; Photos &amp; Images</div>
+          <div class="tour-card-desc">2M+ images extracted from PDFs — AI-classified by scene, person, and location.</div>
+        </a>
+        <a class="tour-card" href="./legal-filings.html">
+          <div class="tour-card-name">&#x1F4CB; Legal Filings</div>
+          <div class="tour-card-desc">Civil suits, criminal filings, sealed/unsealed motions, and court records.</div>
+        </a>
+        <a class="tour-card" href="./explosive-docs.html">
+          <div class="tour-card-name">&#x1F4A3; Explosive Documents</div>
+          <div class="tour-card-desc">The most significant documents identified across all 12 datasets.</div>
+        </a>
       </div>
     </section>
 
-    <section class="hero-summary" aria-label="Index summary">
-      <h2 class="hero-summary-head">Index Summary</h2>
-      <div id="statCards" class="stat-cards compact-stats">
-        <!-- Fallback stats shown until JS populates dynamic values -->
-        <noscript>
-          <div style="display:flex;flex-wrap:wrap;gap:0.5rem;justify-content:center;margin:0.5rem 0">
-            <span style="background:#2a1d10;color:#c9a44a;padding:0.4rem 0.8rem;border-radius:6px;font-size:0.8rem;font-weight:600">59,140 Artifacts</span>
-            <span style="background:#2a1d10;color:#c9a44a;padding:0.4rem 0.8rem;border-radius:6px;font-size:0.8rem;font-weight:600">12 DOJ Datasets</span>
-            <span style="background:#2a1d10;color:#c9a44a;padding:0.4rem 0.8rem;border-radius:6px;font-size:0.8rem;font-weight:600">152 Cast Profiles</span>
-            <span style="background:#2a1d10;color:#c9a44a;padding:0.4rem 0.8rem;border-radius:6px;font-size:0.8rem;font-weight:600">51 Timeline Events</span>
-            <span style="background:#2a1d10;color:#c9a44a;padding:0.4rem 0.8rem;border-radius:6px;font-size:0.8rem;font-weight:600">682 Gallery Images</span>
-          </div>
-        </noscript>
+    <!-- TOUR: WHO'S IN THEM -->
+    <section class="tour-section">
+      <h2 class="tour-label">Who&rsquo;s in the Files</h2>
+      <p class="tour-desc">148+ individuals tracked across every mention. These are the most referenced:</p>
+      <div class="tour-grid">
+        <a class="tour-card" href="./trump.html"><div class="tour-card-name">Trump &amp; Epstein</div><div class="tour-card-desc">Documents and depositions on the Trump-Epstein relationship.</div></a>
+        <a class="tour-card" href="./clinton.html"><div class="tour-card-name">Clinton &amp; Epstein</div><div class="tour-card-desc">Flight logs and deposition references involving Bill Clinton.</div></a>
+        <a class="tour-card" href="./maxwell.html"><div class="tour-card-name">Ghislaine Maxwell</div><div class="tour-card-desc">Co-conspirator: trial records, depositions, full document trail.</div></a>
+        <a class="tour-card" href="./andrew.html"><div class="tour-card-name">Prince Andrew</div><div class="tour-card-desc">Giuffre allegations, settlement, and royal connection documents.</div></a>
+        <a class="tour-card" href="./gates.html"><div class="tour-card-name">Gates &amp; Epstein</div><div class="tour-card-desc">Post-conviction meetings and philanthropy connections.</div></a>
+        <a class="tour-card" href="./cast.html"><div class="tour-card-name">View All 148+ &rarr;</div><div class="tour-card-desc">Full cast hub with profiles, mention counts, and cross-references.</div></a>
       </div>
     </section>
 
-    <div class="hero-divider" aria-hidden="true"></div>
-
-    <form class="hero-search" action="./search.html" method="get" role="search" aria-label="Site-wide search">
-      <input
-        type="search"
-        name="q"
-        placeholder="Search all files, emails, cast, timeline..."
-        autocomplete="off"
-        spellcheck="false"
-      />
-      <button type="submit" class="action-btn">Search Site</button>
-      <a class="ghost-btn" href="./search.html">Advanced Search</a>
-    </form>
-
-    <a class="map-cta" href="./map.html" aria-label="Open dedicated connection map page">
-      Open Dedicated Connection Map Page &rarr;
-    </a>
-
-    <div class="hero-divider" aria-hidden="true"></div>
-
-    <nav class="hero-nav" aria-label="Main sections">
-
-      <div class="nav-group">
-        <h3 class="nav-group-label">🔍 Explore</h3>
-        <a class="hero-nav-btn" href="./search.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900);box-shadow:0 4px 14px rgba(125,77,0,0.32)">SITE SEARCH &rarr;</a>
-        <a class="hero-nav-btn" href="./release-guide.html" style="background:linear-gradient(125deg,#5f4c3f,#3f3128);box-shadow:0 4px 14px rgba(75,58,47,0.3)">OFFICIAL RELEASE GUIDE &rarr;</a>
-        <a class="hero-nav-btn" href="./news.html" style="background:linear-gradient(125deg,#8f2f15,#6b2210);box-shadow:0 4px 14px rgba(143,47,21,0.3)">NEWS / RELEASE TRACKER &rarr;</a>
-        <a class="hero-nav-btn" href="./links.html" style="background:linear-gradient(125deg,#7a5a1b,#5a4214);box-shadow:0 4px 14px rgba(122,90,27,0.3)">LINKS / ECOSYSTEM &rarr;</a>
-        <a class="hero-nav-btn" href="./map.html" style="background:linear-gradient(125deg,#52307f,#311d57);box-shadow:0 4px 14px rgba(82,48,127,0.3)">CONNECTION MAP &rarr;</a>
-        <a class="hero-nav-btn" href="./timeline.html" style="background:linear-gradient(125deg,#546e7a,#37474f);box-shadow:0 4px 14px rgba(84,110,122,0.3)">⏱️ CASE TIMELINE &rarr;</a>
-        <a class="hero-nav-btn" href="./navigator.html" style="background:linear-gradient(125deg,#1a237e,#0d1452);box-shadow:0 4px 14px rgba(26,35,126,0.3)">🧠 MIND MAP NAVIGATOR &rarr;</a>
-        <a class="hero-nav-btn" href="./cast.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916);box-shadow:0 4px 14px rgba(211,93,44,0.3)">CAST HUB &rarr;</a>
-      </div>
-
-      <div class="nav-group">
-        <h3 class="nav-group-label">👤 Key People</h3>
-        <a class="hero-nav-btn" href="./trump.html" style="background:linear-gradient(125deg,#ca4c22,#a12e11);box-shadow:0 4px 14px rgba(191,59,24,0.3)">TRUMP &amp; EPSTEIN &rarr;</a>
-        <a class="hero-nav-btn" href="./musk.html" style="background:linear-gradient(125deg,#1a6baf,#0e4b7f);box-shadow:0 4px 14px rgba(26,107,175,0.3)">MUSK &amp; EPSTEIN &rarr;</a>
-        <a class="hero-nav-btn" href="./clinton.html" style="background:linear-gradient(125deg,#1a237e,#0d1452);box-shadow:0 4px 14px rgba(26,35,126,0.3)">CLINTON &amp; EPSTEIN &rarr;</a>
-        <a class="hero-nav-btn" href="./maxwell.html" style="background:linear-gradient(125deg,#9a3fb5,#7a2a95);box-shadow:0 4px 14px rgba(154,63,181,0.3)">MAXWELL &amp; EPSTEIN &rarr;</a>
-        <a class="hero-nav-btn" href="./brunel.html" style="background:linear-gradient(125deg,#8b2f2f,#642222);box-shadow:0 4px 14px rgba(139,47,47,0.3)">BRUNEL &amp; EPSTEIN &rarr;</a>
-        <a class="hero-nav-btn" href="./andrew.html" style="background:linear-gradient(125deg,#0d47a1,#083272);box-shadow:0 4px 14px rgba(13,71,161,0.3)">PRINCE ANDREW &rarr;</a>
-        <a class="hero-nav-btn" href="./gates.html" style="background:linear-gradient(125deg,#00695c,#004940);box-shadow:0 4px 14px rgba(0,105,92,0.3)">GATES &amp; EPSTEIN &rarr;</a>
-        <a class="hero-nav-btn" href="./black.html" style="background:linear-gradient(125deg,#f57f17,#c66200);box-shadow:0 4px 14px rgba(245,127,23,0.3)">LEON BLACK / APOLLO &rarr;</a>
-        <a class="hero-nav-btn" href="./wexner.html" style="background:linear-gradient(125deg,#880e4f,#620a38);box-shadow:0 4px 14px rgba(136,14,79,0.3)">WEXNER &amp; EPSTEIN &rarr;</a>
-        <a class="hero-nav-btn" href="./dershowitz.html" style="background:linear-gradient(125deg,#004d40,#00332b);box-shadow:0 4px 14px rgba(0,77,64,0.3)">DERSHOWITZ &rarr;</a>
-        <a class="hero-nav-btn" href="./bannon.html" style="background:linear-gradient(125deg,#2a8a4a,#1a6a32);box-shadow:0 4px 14px rgba(42,138,74,0.3)">BANNON &amp; EPSTEIN &rarr;</a>
-        <a class="hero-nav-btn" href="./bondi.html" style="background:linear-gradient(125deg,#e65100,#bf360c);box-shadow:0 4px 14px rgba(230,81,0,0.3)">PAM BONDI &rarr;</a>
-        <a class="hero-nav-btn" href="./russia.html" style="background:linear-gradient(125deg,#c62828,#8e0000);box-shadow:0 4px 14px rgba(198,40,40,0.3)">RU RUSSIA / PUTIN &rarr;</a>
-        <a class="hero-nav-btn" href="./israel.html" style="background:linear-gradient(125deg,#0d47a1,#083272);box-shadow:0 4px 14px rgba(13,71,161,0.3)">ISRAEL / BARAK &rarr;</a>
-        <a class="hero-nav-btn" href="./victims.html" style="background:linear-gradient(125deg,#455a64,#2f424b);box-shadow:0 4px 14px rgba(69,90,100,0.3)">VICTIMS &amp; ACCUSERS &rarr;</a>
-        <a class="hero-nav-btn" href="./groff.html" style="background:linear-gradient(125deg,#6d4c00,#4a3300);box-shadow:0 4px 14px rgba(109,76,0,0.3)">LESLEY GROFF &rarr;</a>
-        <a class="hero-nav-btn" href="./barr.html" style="background:linear-gradient(125deg,#37474f,#263238);box-shadow:0 4px 14px rgba(55,71,79,0.3)">WILLIAM BARR &rarr;</a>
-      </div>
-
-      <div class="nav-group">
-        <h3 class="nav-group-label">🔬 Investigations &amp; Analysis</h3>
-        <a class="hero-nav-btn" href="./investigations.html" style="background:linear-gradient(125deg,#6b3e2e,#45261c);box-shadow:0 4px 14px rgba(107,62,46,0.3)">INVESTIGATIONS &rarr;</a>
-        <a class="hero-nav-btn" href="./investigation-c.html" style="background:linear-gradient(125deg,#bf360c,#8e2a0a);box-shadow:0 4px 14px rgba(191,54,12,0.3)">INVESTIGATION C — MONEY &amp; PLANES &rarr;</a>
-        <a class="hero-nav-btn" href="./financials.html" style="background:linear-gradient(125deg,#2e7d32,#1b5e20);box-shadow:0 4px 14px rgba(46,125,50,0.3)">FINANCIAL INTELLIGENCE &rarr;</a>
-        <a class="hero-nav-btn" href="./flights.html" style="background:linear-gradient(125deg,#0277bd,#015388);box-shadow:0 4px 14px rgba(2,119,189,0.3)">FLIGHT LOGS &rarr;</a>
-        <a class="hero-nav-btn" href="./flights-intel.html" style="background:linear-gradient(125deg,#01579b,#003f6e);box-shadow:0 4px 14px rgba(1,87,155,0.3)">FLIGHT INTELLIGENCE &rarr;</a>
-        <a class="hero-nav-btn" href="./depositions.html" style="background:linear-gradient(125deg,#6a1b9a,#4a148c);box-shadow:0 4px 14px rgba(106,27,154,0.3)">⚖️ DEPOSITIONS &amp; SWORN TESTIMONY &rarr;</a>
-        <a class="hero-nav-btn" href="./legal-filings.html" style="background:linear-gradient(125deg,#4e342e,#3e2723);box-shadow:0 4px 14px rgba(78,52,46,0.3)">📋 LEGAL FILINGS &amp; COURT RECORDS &rarr;</a>
-        <a class="hero-nav-btn" href="./explosive-docs.html" style="background:linear-gradient(125deg,#c62828,#8e0000);box-shadow:0 4px 14px rgba(198,40,40,0.4)">💣 EXPLOSIVE DOCUMENTS &rarr;</a>
-        <a class="hero-nav-btn" href="./inner-circle.html" style="background:linear-gradient(125deg,#8e0000,#c62828);box-shadow:0 4px 14px rgba(142,0,0,0.4)">🕸️ THE INNER CIRCLE &rarr;</a>
-        <a class="hero-nav-btn" href="./complicity-gradient.html" style="background:linear-gradient(125deg,#b71c1c,#880e4f);box-shadow:0 4px 14px rgba(183,28,28,0.4)">⚖️ COMPLICITY GRADIENT — DOJ §3 &rarr;</a>
-        <a class="hero-nav-btn" href="./deep-sweep.html" style="background:linear-gradient(125deg,#0a5c0a,#1b7a1b);box-shadow:0 4px 14px rgba(27,122,27,0.4)">🔍 DEEP SWEEP — 400K Hidden Pages &rarr;</a>
-        <a class="hero-nav-btn" href="./analysis.html" style="background:linear-gradient(125deg,#4a148c,#311b92);box-shadow:0 4px 14px rgba(74,20,140,0.3)">FILE ANALYSIS &amp; FINDINGS &rarr;</a>
-        <a class="hero-nav-btn" href="./images.html" style="background:linear-gradient(125deg,#1a6b8a,#0e4b63);box-shadow:0 4px 14px rgba(26,107,138,0.3)">IMAGE &amp; PHOTO ANALYSIS &rarr;</a>
-        <a class="hero-nav-btn" href="./gallery-picks.html" style="background:linear-gradient(125deg,#d35d2c,#9d3916);box-shadow:0 4px 14px rgba(211,93,44,0.3)">⭐ GALLERY PICKS (682) &rarr;</a>
-        <a class="hero-nav-btn" href="./epstein-face-matches.html" style="background:linear-gradient(125deg,#1d7f56,#11563a);box-shadow:0 4px 14px rgba(29,127,86,0.32)">EPSTEIN FACE MATCHES &rarr;</a>
-      </div>
-
-
-      <div class="nav-group">
-        <h3 class="nav-group-label">&#x1F91D; Get Involved</h3>
-        <a class="hero-nav-btn" href="./contribute.html" style="background:linear-gradient(125deg,#2e7d32,#1b5e20);box-shadow:0 4px 14px rgba(46,125,50,0.3)">&#x1F4D6; HOW TO HELP &mdash; START HERE &rarr;</a>
-        <a class="hero-nav-btn" href="https://github.com/Eyeswidewoke/PDF-FIles/discussions" target="_blank" rel="noopener" style="background:linear-gradient(125deg,#1565c0,#0d47a1);box-shadow:0 4px 14px rgba(21,101,192,0.3)">&#x1F4AC; SHARE WHAT YOU&rsquo;VE FOUND &rarr;</a>
-        <a class="hero-nav-btn" href="https://github.com/Eyeswidewoke/PDF-FIles/issues/new" target="_blank" rel="noopener" style="background:linear-gradient(125deg,#e65100,#bf360c);box-shadow:0 4px 14px rgba(230,81,0,0.3)">&#x1F6A8; REPORT A PROBLEM &rarr;</a>
-        <a class="hero-nav-btn" href="https://github.com/Eyeswidewoke/PDF-FIles" target="_blank" rel="noopener" style="background:linear-gradient(125deg,#546e7a,#37474f);box-shadow:0 4px 14px rgba(84,110,122,0.3)">&#x1F4BB; VIEW PROJECT SOURCE CODE &rarr;</a>
-        <a class="hero-nav-btn" href="./how-it-works.html" style="background:linear-gradient(125deg,#6d4c00,#4a3300);box-shadow:0 4px 14px rgba(109,76,0,0.3)">&#x2753; HOW THIS SITE WORKS &rarr;</a>
-      </div>
-
-    </nav>
-  </header>
-
-  <main class="grid">
-    <section class="panel datasets-panel">
-      <h2>Official Release Datasets</h2>
-      <p class="hint">12 datasets released by the DOJ. Click any dataset to view included documents and detailed index. Need a map first? <a href="./release-guide.html" style="font-weight:700;color:#8f2f15">Open the Official Release Guide</a>.</p>
-      <div id="datasetGrid" class="dataset-grid"></div>
-    </section>
-
-    <section class="panel explorer-panel">
-      <div class="explorer-head">
-        <h2>FILE EXPLORER</h2>
-        <div class="filters">
-          <input id="searchInput" type="search" placeholder="Search path, label, note..." />
-          <select id="collectionFilter"></select>
-          <select id="sourceFilter"></select>
-          <select id="sortField">
-            <option value="modified">Sort: Date</option>
-            <option value="label">Sort: Name</option>
-            <option value="category">Sort: Category</option>
-            <option value="size">Sort: Size</option>
-          </select>
-          <select id="sortDir">
-            <option value="desc">Desc</option>
-            <option value="asc">Asc</option>
-          </select>
-        </div>
-      </div>
-      <p id="resultMeta" class="result-meta">-</p>
-      <div id="artifactList" class="artifact-list"></div>
-    </section>
-
-    <section class="panel timeline-panel">
-      <div class="timeline-head">
-        <h2>Timeline Viewer</h2>
-        <div class="filters timeline-filters">
-          <input id="timelineSearch" type="search" placeholder="Search timeline events..." />
-          <select id="timelineYearFilter"></select>
-        </div>
-      </div>
-      <p class="hint">Chronology parsed from timeline markdown files. Open source documents inside the viewer.</p>
-      <p id="timelineMeta" class="result-meta">-</p>
-      <div id="timelineList" class="timeline-list"></div>
-    </section>
-
-    <section class="panel characters-panel">
-      <div class="timeline-head">
-        <h2>Cast Viewer</h2>
-        <div class="filters timeline-filters">
-          <input id="characterSearch" type="search" placeholder="Search cast..." />
-        </div>
-      </div>
-      <p id="characterMeta" class="result-meta">-</p>
-      <div id="characterList" class="timeline-list"></div>
-    </section>
-
-    <section class="panel detail-panel">
-      <h2>Selection</h2>
-      <p class="hint">Select an artifact to inspect metadata and open the file in the viewer.</p>
-      <dl class="kv-list detail-kv">
-        <div><dt>Label</dt><dd id="detailLabel">-</dd></div>
-        <div><dt>Path</dt><dd id="detailPath">-</dd></div>
-        <div><dt>Category</dt><dd id="detailCategory">-</dd></div>
-        <div><dt>Source</dt><dd id="detailSource">-</dd></div>
-        <div><dt>Size</dt><dd id="detailSize">-</dd></div>
-        <div><dt>Modified</dt><dd id="detailModified">-</dd></div>
-        <div><dt>Note</dt><dd id="detailNote">-</dd></div>
-      </dl>
-      <div class="detail-actions">
-        <button id="copyPathBtn" class="action-btn" disabled>Copy Path</button>
-        <button id="openPathBtn" class="action-btn secondary-btn" disabled>Open In Viewer</button>
+    <!-- TOUR: HOW TO EXPLORE -->
+    <section class="tour-section">
+      <h2 class="tour-label">How to Explore</h2>
+      <p class="tour-desc">Multiple ways to navigate 3 million+ pages of evidence:</p>
+      <div class="tour-grid">
+        <a class="tour-card" href="./search.html"><div class="tour-card-name">&#x1F50D; Full-Text Search</div><div class="tour-card-desc">Search 58,000+ artifacts by keyword, name, date, or document type.</div></a>
+        <a class="tour-card" href="./map.html"><div class="tour-card-name">&#x1F5FA;&#xFE0F; Connection Map</div><div class="tour-card-desc">Interactive network showing relationships between people and entities.</div></a>
+        <a class="tour-card" href="./timeline.html"><div class="tour-card-name">&#x23F1;&#xFE0F; Case Timeline</div><div class="tour-card-desc">2,500+ events from 2005 through 2026, in chronological order.</div></a>
+        <a class="tour-card" href="./investigations.html"><div class="tour-card-name">&#x1F52C; Investigations</div><div class="tour-card-desc">Active investigation threads: power networks, trafficking, money trails.</div></a>
+        <a class="tour-card" href="./hub.html"><div class="tour-card-name">&#x1F4D1; Site Hub</div><div class="tour-card-desc">Complete directory of every page on the site, organized by category.</div></a>
+        <a class="tour-card" href="./how-it-works.html"><div class="tour-card-name">&#x2753; How It Works</div><div class="tour-card-desc">Technical explanation of extraction, indexing, and the full pipeline.</div></a>
       </div>
     </section>
 
-    <section id="viewerPanel" class="panel viewer-panel" hidden>
-      <div class="viewer-head">
-        <h2 id="viewerTitle">File Viewer</h2>
-        <button id="closeViewerBtn" class="ghost-btn" type="button">Close Viewer</button>
+    <!-- DATASETS (compact) -->
+    <section class="tour-section">
+      <h2 class="tour-label">Official DOJ Datasets</h2>
+      <p class="tour-desc">12 datasets released by the DOJ. Click any to view documents and detailed index.</p>
+      <div id="datasetGrid" class="ds-grid">
+        <a class="ds-chip" href="./ds1.html"><p class="ds-chip-name">DS 1</p><p class="ds-chip-meta">3,163 files</p></a>
+        <a class="ds-chip" href="./ds2.html"><p class="ds-chip-name">DS 2</p><p class="ds-chip-meta">577 files</p></a>
+        <a class="ds-chip" href="./ds3.html"><p class="ds-chip-name">DS 3</p><p class="ds-chip-meta">69 files</p></a>
+        <a class="ds-chip" href="./ds4.html"><p class="ds-chip-name">DS 4</p><p class="ds-chip-meta">154 files</p></a>
+        <a class="ds-chip" href="./ds5.html"><p class="ds-chip-name">DS 5</p><p class="ds-chip-meta">122 files</p></a>
+        <a class="ds-chip" href="./ds6.html"><p class="ds-chip-name">DS 6</p><p class="ds-chip-meta">15 files</p></a>
+        <a class="ds-chip" href="./ds7.html"><p class="ds-chip-name">DS 7</p><p class="ds-chip-meta">19 files</p></a>
+        <a class="ds-chip" href="./ds8.html"><p class="ds-chip-name">DS 8</p><p class="ds-chip-meta">10,595 files</p></a>
+        <a class="ds-chip" href="./ds9.html"><p class="ds-chip-name">DS 9</p><p class="ds-chip-meta">252K files</p></a>
+        <a class="ds-chip" href="./ds10.html"><p class="ds-chip-name">DS 10</p><p class="ds-chip-meta">302K files</p></a>
+        <a class="ds-chip" href="./ds11.html"><p class="ds-chip-name">DS 11</p><p class="ds-chip-meta">331K files</p></a>
+        <a class="ds-chip" href="./ds12.html"><p class="ds-chip-name">DS 12</p><p class="ds-chip-meta">152 files</p></a>
       </div>
-      <p id="viewerMeta" class="result-meta">-</p>
-      <article id="viewerMarkdown" class="viewer-markdown" hidden></article>
-      <pre id="viewerText" class="viewer-text" hidden></pre>
-      <img id="viewerImage" class="viewer-image" alt="Viewer image content" hidden />
-      <iframe id="viewerFrame" class="viewer-frame" title="Embedded file viewer" hidden></iframe>
+      <p style="text-align:center;margin-top:.6rem"><a href="./release-guide.html" style="color:#8f2f15;font:600 .8rem var(--mono);text-decoration:none">Need a map? Open the Official Release Guide &rarr;</a></p>
     </section>
+
+    <!-- LATEST NEWS -->
+    <section class="tour-section">
+      <h2 class="tour-label">Latest News</h2>
+      <p class="tour-desc">What&rsquo;s happening right now with the Epstein file releases:</p>
+      <div class="tour-grid">
+        <a class="tour-card" href="./news.html"><div class="tour-card-name">&#x1F4F0; News &amp; Release Tracker</div><div class="tour-card-desc">Source-linked timeline of DOJ releases, hearings, corrections, and breaking developments.</div></a>
+        <a class="tour-card" href="./links.html"><div class="tour-card-name">&#x1F517; Links / Ecosystem</div><div class="tour-card-desc">Official sources, community mirrors, search portals, and OSINT communities.</div></a>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="tour-section" style="text-align:center;padding:1rem 0">
+      <h2 class="tour-label" style="border:none;text-align:center">Ready to Dive In?</h2>
+      <p class="tour-desc" style="max-width:600px;margin:0 auto .8rem">3 million pages can&rsquo;t be read by one person. This site exists so nobody has to start from scratch. Use the menu above or pick a starting point:</p>
+      <div style="display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center">
+        <a href="./search.html" style="display:inline-block;padding:.6rem 1.2rem;border-radius:8px;background:#8f2f15;color:#fff;font:600 .82rem var(--mono);text-decoration:none">Search the Files</a>
+        <a href="./hub.html" style="display:inline-block;padding:.6rem 1.2rem;border-radius:8px;background:#2a1d10;color:#c9a44a;font:600 .82rem var(--mono);text-decoration:none">Browse the Site Hub</a>
+        <a href="./contribute.html" style="display:inline-block;padding:.6rem 1.2rem;border-radius:8px;border:1px solid #c9b8a0;background:transparent;color:#5f4f43;font:600 .82rem var(--mono);text-decoration:none">How to Help</a>
+      </div>
+    </section>
+
   </main>
 
-  <footer class="site-footer">
-    <p>
-      <strong>THE PDF FILES</strong> &mdash; An independent, open-source index of official U.S. DOJ Epstein case documents.
-    </p>
-    <p>
-      No documents have been altered. All source files originate from the official DOJ release.
-      This project is released into the <strong>public domain</strong> (<a href="https://unlicense.org/" target="_blank" rel="noopener">The Unlicense</a>).
-    </p>
-    <p style="color:#8a7f74;font-size:0.72rem;margin-top:0.5rem">
-      Open-source &amp; community-maintained &nbsp;&middot;&nbsp; <a href="./contribute.html" style="color:#8a7f74">How to Help</a> &nbsp;&middot;&nbsp; <a href="https://github.com/Eyeswidewoke/PDF-FIles/discussions" target="_blank" rel="noopener" style="color:#8a7f74">Discussions</a> &nbsp;&middot;&nbsp; <a href="https://github.com/Eyeswidewoke/PDF-FIles" target="_blank" rel="noopener" style="color:#8a7f74">GitHub</a>
+  <footer class="home-footer">
+    <p><strong>THE PDF FILES</strong> &mdash; An independent, open-source index of official U.S. DOJ Epstein case documents.</p>
+    <p>No documents have been altered. All source files originate from the official DOJ release. This project is released into the <strong>public domain</strong> (<a href="https://unlicense.org/" target="_blank" rel="noopener">The Unlicense</a>).</p>
+    <p style="margin-top:.4rem">
+      <a href="./contribute.html">How to Help</a> &nbsp;&middot;&nbsp;
+      <a href="https://github.com/Eyeswidewoke/PDF-FIles/discussions" target="_blank" rel="noopener">Discussions</a> &nbsp;&middot;&nbsp;
+      <a href="https://github.com/Eyeswidewoke/PDF-FIles" target="_blank" rel="noopener">GitHub</a>
     </p>
   </footer>
-
-  <script src="./app.js?v=20260215-ux" defer></script>
 </body>
 </html>

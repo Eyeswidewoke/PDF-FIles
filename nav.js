@@ -3,6 +3,7 @@
   var current = location.pathname.split('/').pop() || 'index.html';
   var items = [
     { label: 'Home', href: './' , match: ['index.html',''] },
+    { label: 'Hub', href: './hub.html', match: ['hub.html'] },
     { label: 'Search', href: './search.html', match: ['search.html'] },
     { label: 'News', href: './news.html', match: ['news.html'] },
     { label: 'Links', href: './links.html', match: ['links.html'] },
@@ -22,21 +23,18 @@
   var inner = document.createElement('div');
   inner.className = 'site-nav-inner';
 
-  /* logo / home link */
   var brand = document.createElement('a');
   brand.href = './';
   brand.className = 'site-nav-brand';
   brand.textContent = 'THE PDF FILES';
   inner.appendChild(brand);
 
-  /* hamburger */
   var toggle = document.createElement('button');
   toggle.className = 'site-nav-toggle';
   toggle.setAttribute('aria-label','Toggle menu');
   toggle.innerHTML = '<span></span><span></span><span></span>';
   inner.appendChild(toggle);
 
-  /* link list */
   var ul = document.createElement('ul');
   ul.className = 'site-nav-links';
   items.forEach(function(item){
@@ -54,7 +52,6 @@
   inner.appendChild(ul);
   nav.appendChild(inner);
 
-  /* inject at top of body, after .noise if present */
   var noise = document.querySelector('.noise');
   if(noise && noise.nextSibling){
     noise.parentNode.insertBefore(nav, noise.nextSibling);
@@ -62,12 +59,10 @@
     document.body.insertBefore(nav, document.body.firstChild);
   }
 
-  /* toggle mobile menu */
   toggle.addEventListener('click',function(){
     nav.classList.toggle('open');
   });
 
-  /* inject styles */
   var style = document.createElement('style');
   style.textContent = ''
     +'.site-nav{position:sticky;top:0;z-index:9999;background:#1a1310;border-bottom:1px solid #3a2f28;font-family:var(--mono,"IBM Plex Mono",monospace)}'
