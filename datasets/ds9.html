@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DS9 | THE PDF FILES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../styles.css?v=20260217-mobile" />
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header class="hero">
+    <h1 id="datasetTitle">DS9</h1>
+    <p id="datasetSubhead" class="subhead" style="margin:0.5rem auto 0;color:#6f665f;max-width:70ch;text-align:center">
+      Official release dataset details.
+    </p>
+    <div class="hero-divider" aria-hidden="true"></div>
+    <nav class="hero-nav dataset-page-nav" aria-label="Dataset navigation">
+      <a class="hero-nav-btn" href="../index.html" style="background:linear-gradient(125deg,#7d4d00,#5d3900);box-shadow:0 4px 14px rgba(125,77,0,0.32)">BACK TO MAIN SITE &larr;</a>
+      <a id="dojNavLink" class="hero-nav-btn" href="#" target="_blank" rel="noopener noreferrer" hidden style="background:linear-gradient(125deg,#a54c15,#7d330f);box-shadow:0 4px 14px rgba(126,57,24,0.3)">DOJ SOURCE &nearr;</a>
+      <a id="archiveNavLink" class="hero-nav-btn" href="#" target="_blank" rel="noopener noreferrer" hidden style="background:linear-gradient(125deg,#335f8f,#1d3f63);box-shadow:0 4px 14px rgba(33,73,112,0.3)">ARCHIVE SOURCE &nearr;</a>
+    </nav>
+  </header>
+
+  <main class="grid">
+    <section class="panel datasets-panel dataset-page-shell">
+      <h2 id="datasetHeading">DS9 Details</h2>
+      <p class="hint">Official links and dataset metadata.</p>
+      <article id="datasetCard" class="ds-card dataset-page-card"></article>
+      <div class="hero-divider" aria-hidden="true" style="margin-top:0.9rem"></div>
+      <h3 style="margin:0.75rem 0 0.25rem;font-size:0.96rem">Bundle References</h3>
+      <p class="hint">References listed in the manifest for this dataset.</p>
+      <div id="datasetSiteLinks" class="dataset-site-links"></div>
+    </section>
+  </main>
+
+  <script src="../dataset-page.js?v=20260213-datasetpages" defer></script>
+</body>
+</html>

@@ -4,6 +4,19 @@
 
   var current = (location.pathname.split("/").pop() || "index.html").toLowerCase();
 
+  // Compute base path from current page to site root
+  // Handles pages in subdirs (cast/, datasets/, gallery/) needing "../" prefix
+  var pathParts = location.pathname.replace(/\/+$/, "").split("/");
+  var pageFile = pathParts.pop(); // e.g., "trump.html"
+  var parentDir = pathParts.pop(); // e.g., "cast" or "PDF-FIles"
+  var base = (["cast","datasets","gallery"].indexOf(parentDir) !== -1) ? "../" : "./";
+  function resolveHref(href) {
+    if (!href || href.startsWith("http") || href.startsWith("#") || href.startsWith("mailto:")) return href;
+    if (href.startsWith("./")) return base + href.substring(2);
+    return href;
+  }
+
+
   function getFileName(href) {
     return String(href || "")
       .replace(/^.*\//, "")
@@ -97,24 +110,19 @@
     {
       label: "Cast",
       href: "./cast.html",
-      match: [
-        "cast.html", "acosta.html", "andrew.html", "bannon.html", "barr.html", "black.html",
-        "bondi.html", "brunel.html", "clinton.html", "dershowitz.html", "dubin.html", "gates.html",
-        "graham.html", "groff.html", "israel.html", "kellen.html", "maxwell.html", "musk.html",
-        "patel.html", "russia.html", "thomas.html", "trump.html", "victims.html", "wexner.html"
-      ],
+      match: ["cast.html", "acosta.html", "andrew.html", "bannon.html", "barr.html", "black.html", "bondi.html", "brunel.html", "clinton.html", "dershowitz.html", "dubin.html", "gates.html", "graham.html", "groff.html", "israel.html", "kellen.html", "maxwell.html", "musk.html", "patel.html", "russia.html", "thomas.html", "trump.html", "victims.html", "wexner.html"],
       children: [
         { label: "Cast Hub", href: "./cast.html", match: ["cast.html"] },
-        { label: "Ghislaine Maxwell", href: "./maxwell.html", match: ["maxwell.html"] },
-        { label: "Jean-Luc Brunel", href: "./brunel.html", match: ["brunel.html"] },
-        { label: "Sarah Kellen", href: "./kellen.html", match: ["kellen.html"] },
-        { label: "Lesley Groff", href: "./groff.html", match: ["groff.html"] },
-        { label: "Leon Black", href: "./black.html", match: ["black.html"] },
-        { label: "Prince Andrew", href: "./andrew.html", match: ["andrew.html"] },
-        { label: "Alan Dershowitz", href: "./dershowitz.html", match: ["dershowitz.html"] },
-        { label: "Glenn Dubin", href: "./dubin.html", match: ["dubin.html"] },
-        { label: "William Barr", href: "./barr.html", match: ["barr.html"] },
-        { label: "Victims & Accusers", href: "./victims.html", match: ["victims.html"] }
+        { label: "Ghislaine Maxwell", href: "./cast/maxwell.html", match: ["maxwell.html"] },
+        { label: "Jean-Luc Brunel", href: "./cast/brunel.html", match: ["brunel.html"] },
+        { label: "Sarah Kellen", href: "./cast/kellen.html", match: ["kellen.html"] },
+        { label: "Lesley Groff", href: "./cast/groff.html", match: ["groff.html"] },
+        { label: "Leon Black", href: "./cast/black.html", match: ["black.html"] },
+        { label: "Prince Andrew", href: "./cast/andrew.html", match: ["andrew.html"] },
+        { label: "Alan Dershowitz", href: "./cast/dershowitz.html", match: ["dershowitz.html"] },
+        { label: "Glenn Dubin", href: "./cast/dubin.html", match: ["dubin.html"] },
+        { label: "William Barr", href: "./cast/barr.html", match: ["barr.html"] },
+        { label: "Victims & Accusers", href: "./cast/victims.html", match: ["victims.html"] }
       ]
     },
     {
@@ -127,22 +135,15 @@
         { label: "Gallery Picks", href: "./gallery-picks.html", match: ["gallery-picks.html"] },
         { label: "Epstein Face Matches", href: "./epstein-face-matches.html", match: ["epstein-face-matches.html"] },
         { label: "Handwritten Notes", href: "./handwritten-notes.html", match: ["handwritten-notes.html"] },
-        { label: "People Gallery", href: "./gallery-category-person.html", match: ["gallery-category-person.html"] },
-        { label: "Epstein Photo Gallery", href: "./gallery-category-epstein-photos.html", match: ["gallery-category-epstein-photos.html"] },
-        { label: "Face Close-Up Gallery", href: "./gallery-category-face-close-up.html", match: ["gallery-category-face-close-up.html"] }
+        { label: "People Gallery", href: "./gallery/gallery-category-person.html", match: ["gallery-category-person.html"] },
+        { label: "Epstein Photo Gallery", href: "./gallery/gallery-category-epstein-photos.html", match: ["gallery-category-epstein-photos.html"] },
+        { label: "Face Close-Up Gallery", href: "./gallery/gallery-category-face-close-up.html", match: ["gallery-category-face-close-up.html"] }
       ]
     },
     {
       label: "More",
       href: "#",
-      match: [
-        "timeline.html", "master-timeline.html",
-        "investigations.html", "investigation-c.html", "analysis.html", "depositions.html",
-        "legal-filings.html", "explosive-docs.html", "inner-circle.html", "complicity-gradient.html", "deep-sweep.html",
-        "flights.html", "flights-intel.html", "financials.html",
-        "map.html", "navigator.html",
-        "contribute.html"
-      ],
+      match: ["timeline.html", "master-timeline.html", "investigations.html", "investigation-c.html", "analysis.html", "depositions.html", "legal-filings.html", "explosive-docs.html", "inner-circle.html", "complicity-gradient.html", "deep-sweep.html", "flights.html", "flights-intel.html", "financials.html", "map.html", "navigator.html", "contribute.html"],
       children: [
         { label: "\u2014 Timeline", divider: true },
         { label: "Case Timeline", href: "./timeline.html", match: ["timeline.html"] },
@@ -178,7 +179,7 @@
   inner.className = "site-nav-inner";
 
   var brand = document.createElement("a");
-  brand.href = "./";
+  brand.href = base;
   brand.className = "site-nav-brand";
   brand.textContent = "THE PDF FILES";
   inner.appendChild(brand);
@@ -237,7 +238,7 @@
 
     var link = document.createElement("a");
     link.className = "site-nav-link";
-    link.href = item.href;
+    link.href = resolveHref(item.href);
     link.textContent = item.label;
 
     if (item.external) {
@@ -269,7 +270,7 @@
         }
         var subLink = document.createElement("a");
         subLink.className = "site-nav-sub-link";
-        subLink.href = child.href;
+        subLink.href = resolveHref(child.href);
         subLink.textContent = child.label;
         if (child.external) {
           subLink.target = "_blank";

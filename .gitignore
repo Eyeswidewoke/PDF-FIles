@@ -42,3 +42,6 @@ content/emails/**/*.jsonl
 # Topic large data files (~59 MB) - the .md analysis files ARE included
 content/topics/**/*.jsonl
 content/topics/**/*.csv
+
+# Dev scripts and audit logs
+_dev/
