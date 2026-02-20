@@ -4,16 +4,16 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>How to Help | THE PDF FILES</title>
-  <meta name="description" content="You don't need to be a programmer to help. Here's how anyone can contribute to THE PDF FILES — the open Epstein case archive." />
-  <meta property="og:title" content="How to Help — THE PDF FILES" />
-  <meta property="og:description" content="No coding required. Learn how anyone can contribute to the largest open-source Epstein case file archive." />
+  <meta name="description" content="How to use, reuse, and hand off THE PDF FILES as a shared base archive for broader independent research efforts." />
+  <meta property="og:title" content="How to Help - THE PDF FILES" />
+  <meta property="og:description" content="This repo is a base layer for public research reuse and handoff, not a long-term centralized collaboration funnel." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://eyeswidewoke.github.io/PDF-FIles/contribute.html" />
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📁</text></svg>" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128193;</text></svg>" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./styles.css?v=20260218-contribute" />
+  <link rel="stylesheet" href="./styles.css?v=20260220-handoff" />
   <style>
     .guide-shell {
       max-width: 860px;
@@ -55,11 +55,6 @@
     .feature-section h2 .emoji {
       margin-right: 0.3rem;
     }
-    .feature-section h3 {
-      font-size: 1rem;
-      color: #5d4a3a;
-      margin: 0.8rem 0 0.3rem;
-    }
     .feature-section p {
       color: #3a3025;
       font-size: 0.88rem;
@@ -95,29 +90,35 @@
     .feature-link + .feature-link {
       margin-left: 0.4rem;
     }
-    .feature-link.green {
-      background: linear-gradient(125deg, #2e7d32, #1b5e20);
-    }
-    .feature-link.green:hover {
-      box-shadow: 0 4px 12px rgba(46,125,50,0.3);
-    }
     .feature-link.blue {
       background: linear-gradient(125deg, #1565c0, #0d47a1);
     }
     .feature-link.blue:hover {
       box-shadow: 0 4px 12px rgba(21,101,192,0.3);
     }
-    .feature-link.purple {
-      background: linear-gradient(125deg, #6a1b9a, #4a148c);
+    .feature-link.green {
+      background: linear-gradient(125deg, #2e7d32, #1b5e20);
     }
-    .feature-link.purple:hover {
-      box-shadow: 0 4px 12px rgba(106,27,154,0.3);
+    .feature-link.green:hover {
+      box-shadow: 0 4px 12px rgba(46,125,50,0.3);
     }
-    .feature-link.teal {
-      background: linear-gradient(125deg, #00695c, #004940);
+    .callout-box {
+      background: linear-gradient(135deg, #102221 0%, #0b1716 100%);
+      border: 2px solid #1c8276;
+      border-radius: 12px;
+      padding: 1.1rem 1.4rem;
+      margin: 0.9rem 0;
     }
-    .feature-link.teal:hover {
-      box-shadow: 0 4px 12px rgba(0,105,92,0.3);
+    .callout-box h3 {
+      color: #7ad9ce;
+      margin: 0 0 0.35rem;
+      font-size: 1rem;
+    }
+    .callout-box p {
+      color: #d1f3ef;
+      margin: 0;
+      font-size: 0.86rem;
+      line-height: 1.6;
     }
     .back-links {
       display: flex;
@@ -140,59 +141,6 @@
       transform: translateY(-1px);
       box-shadow: 0 4px 12px rgba(63,49,40,0.3);
     }
-    .jargon-box {
-      background: #faf3e8;
-      border: 1px dashed #c9a44a;
-      border-radius: 10px;
-      padding: 1rem 1.3rem;
-      margin: 0.6rem 0;
-    }
-    .jargon-box dt {
-      font-weight: 700;
-      color: #5d4a3a;
-      font-size: 0.9rem;
-      margin-top: 0.6rem;
-    }
-    .jargon-box dt:first-child {
-      margin-top: 0;
-    }
-    .jargon-box dd {
-      color: #3a3025;
-      font-size: 0.84rem;
-      line-height: 1.55;
-      margin: 0.15rem 0 0 0;
-    }
-    .step-num {
-      display: inline-block;
-      background: #2e7d32;
-      color: #fff;
-      width: 1.5rem;
-      height: 1.5rem;
-      border-radius: 50%;
-      text-align: center;
-      line-height: 1.5rem;
-      font-size: 0.78rem;
-      font-weight: 700;
-      margin-right: 0.4rem;
-    }
-    .callout-box {
-      background: linear-gradient(135deg, #1a2a1a 0%, #0f1a0f 100%);
-      border: 2px solid #2e7d32;
-      border-radius: 12px;
-      padding: 1.2rem 1.6rem;
-      text-align: center;
-      margin: 1rem 0;
-    }
-    .callout-box h3 {
-      color: #66bb6a;
-      margin: 0 0 0.4rem;
-    }
-    .callout-box p {
-      color: #c8e6c9;
-      font-size: 0.88rem;
-      line-height: 1.55;
-      margin: 0 0 0.5rem;
-    }
     @media (max-width: 760px) {
       .guide-hero h1 { font-size: 1.5rem; }
       .feature-section { padding: 1rem 1.1rem; }
@@ -204,175 +152,77 @@
   <script src="./nav.js"></script>
 
   <main class="grid guide-shell">
-
     <div class="guide-hero">
-      <h1>&#x1F91D; HOW TO HELP</h1>
+      <h1>&#x1F4E6; HOW THIS PROJECT HANDOFFS</h1>
       <p class="subtitle">
-        You don&rsquo;t need to be a programmer, a lawyer, or a journalist.<br />
-        If you can read, you can help. Here&rsquo;s how.
+        This repo is a base archive and index intended to be reused, merged, and extended by others.
+        The long-term goal is not to centralize everything here.
       </p>
     </div>
 
-    <!-- WHY WE NEED HELP -->
     <section class="feature-section">
-      <h2><span class="emoji">&#x1F4A1;</span> Why this project needs people</h2>
+      <h2><span class="emoji">&#x1F3AF;</span> Project intent</h2>
       <p>
-        The U.S. Department of Justice released over <strong>900,000 documents</strong> &mdash; more than <strong>3 million pages</strong> &mdash;
-        related to the Jeffrey Epstein case. This site has already extracted, indexed, and made every page searchable.
+        The goal is to create a single usable reference layer for the released files and associated
+        research artifacts: searchable structure, source-linked records, and consistent file indexing.
       </p>
       <p>
-        But the hard part isn&rsquo;t the technology &mdash; <strong>it&rsquo;s the reading.</strong>
-        3 million pages of depositions, flight logs, financial records, and FBI reports can&rsquo;t be analyzed by one person.
-        Thousands of people are independently combing through these files right now &mdash; all starting from scratch, all duplicating each other&rsquo;s work.
+        This repository is the starting base for that effort. The expected path is that independent
+        researchers and other projects use this material in their own systems, and eventually merge
+        overlapping work into broader combined archives.
       </p>
       <p>
-        <strong>This site exists so nobody has to start from scratch.</strong>
-        It&rsquo;s a shared foundation. When you find something, it gets added here. When the next person looks,
-        they pick up where you left off instead of re-reading the same 400 pages.
+        In short: publish the foundation clearly, make it easy to reuse, then step back.
       </p>
     </section>
 
-    <!-- WAYS TO HELP — NO TECH -->
     <section class="feature-section">
-      <h2><span class="emoji">&#x1F4D6;</span> Ways to help that require zero technical skill</h2>
-      <p>Seriously &mdash; none. These are the most valuable contributions we can get:</p>
+      <h2><span class="emoji">&#x1F5C3;</span> What to do with this repo</h2>
       <ul>
-        <li><strong>Read the documents and report what you find.</strong> Pick any dataset, any topic, any name &mdash; and read. If you spot a connection, a discrepancy, or something that seems important, report it.</li>
-        <li><strong>Check existing profiles for accuracy.</strong> We have <a href="./cast.html" style="color:#8f2f15;font-weight:600">148 profiles</a> of people connected to the case. If you know something is wrong, incomplete, or missing a source, let us know.</li>
-        <li><strong>Verify timeline events.</strong> Our <a href="./timeline.html" style="color:#8f2f15;font-weight:600">case timeline</a> tracks key events. If a date is wrong or an event is missing, that&rsquo;s valuable information.</li>
-        <li><strong>Identify people in photos.</strong> Our <a href="./gallery-picks.html" style="color:#8f2f15;font-weight:600">gallery</a> contains hundreds of photos from the files. Some people in them haven&rsquo;t been identified yet.</li>
-        <li><strong>Cross-reference names.</strong> If you see a name in a deposition that also appears in a flight log &mdash; that&rsquo;s a connection. Report it.</li>
-        <li><strong>Spread the word.</strong> Share this site with anyone who cares about accountability. The more eyes on these documents, the harder they are to bury.</li>
+        <li>Use the indexed pages, cast profiles, timelines, and dataset file inventories as a starting dataset.</li>
+        <li>Fork or mirror it into your own stack (static, database, notebook, newsroom workflow, etc.).</li>
+        <li>Merge selected parts into other evidence or OSINT projects where they fit.</li>
+        <li>Preserve source traceability: keep DocID/page references attached to claims.</li>
       </ul>
+      <a class="feature-link" href="./dataset-file-index.html">Open Dataset File Index &rarr;</a>
+      <a class="feature-link blue" href="./search.html">Open Search &rarr;</a>
     </section>
 
-    <!-- HOW TO REPORT WHAT YOU FIND -->
     <section class="feature-section">
-      <h2><span class="emoji">&#x1F4E2;</span> How to report what you find</h2>
+      <h2><span class="emoji">&#x1F4DD;</span> Corrections are still useful</h2>
       <p>
-        We use a free tool called <strong>GitHub</strong> to organize this project. You don&rsquo;t need to understand how it works &mdash;
-        think of it like a shared Google Doc where anyone can suggest changes and have a conversation.
+        This is not a call for a managed contributor program. But if you see a factual error,
+        broken path, or source mismatch, a correction report is still valuable.
       </p>
-      <p>Here&rsquo;s how to share something you&rsquo;ve found:</p>
-
-      <h3><span class="step-num">1</span> Create a free GitHub account</h3>
-      <p>
-        Go to <a href="https://github.com/join" target="_blank" rel="noopener" style="color:#8f2f15;font-weight:600">github.com/join</a>
-        and sign up. It takes 30 seconds. You just need an email address.
-      </p>
-
-      <h3><span class="step-num">2</span> Go to our Discussions page</h3>
-      <p>
-        This is where you can share findings, ask questions, or start a conversation.
-        Think of it like a message board for this project.
-      </p>
-      <a class="feature-link blue" href="https://github.com/Eyeswidewoke/PDF-FIles/discussions" target="_blank" rel="noopener">Open Discussions &rarr;</a>
-
-      <h3><span class="step-num">3</span> Post what you found</h3>
-      <p>
-        Click <strong>&ldquo;New discussion&rdquo;</strong>, give it a title (like &ldquo;Found connection between X and Y in DataSet 4&rdquo;),
-        and describe what you found. Include the file name or page number if you can. That&rsquo;s it.
-      </p>
-
-      <h3 style="margin-top:1rem">Or: File an Issue</h3>
-      <p>
-        If you found a mistake on the site &mdash; a broken link, a wrong date, a misspelled name &mdash;
-        you can file an <strong>&ldquo;Issue&rdquo;</strong>. An issue is just a bug report. Click the button below, describe the problem, and we&rsquo;ll fix it.
-      </p>
-      <a class="feature-link" href="https://github.com/Eyeswidewoke/PDF-FIles/issues/new" target="_blank" rel="noopener">Report an Issue &rarr;</a>
-    </section>
-
-    <!-- GITHUB JARGON BUSTER -->
-    <section class="feature-section">
-      <h2><span class="emoji">&#x1F4AC;</span> GitHub jargon &mdash; explained in plain English</h2>
-      <p>If you see these words and get confused, here&rsquo;s what they mean:</p>
-      <dl class="jargon-box">
-        <dt>Repository (&ldquo;repo&rdquo;)</dt>
-        <dd>A project folder. Our repo contains all the code and content for this site. Think of it as the master copy.</dd>
-
-        <dt>Issue</dt>
-        <dd>A bug report or suggestion. Like raising your hand to say &ldquo;something&rsquo;s broken&rdquo; or &ldquo;I have an idea.&rdquo;</dd>
-
-        <dt>Discussion</dt>
-        <dd>An open conversation thread. Like a forum post where anyone can reply.</dd>
-
-        <dt>Fork</dt>
-        <dd>Your own personal copy of the project. You can make changes to your copy without affecting the main one.</dd>
-
-        <dt>Pull Request (&ldquo;PR&rdquo;)</dt>
-        <dd>When you&rsquo;ve made changes to your copy and want to suggest them back to the main project. Like saying &ldquo;here&rsquo;s what I changed &mdash; want to add this?&rdquo;</dd>
-
-        <dt>Commit</dt>
-        <dd>A saved change. Every time someone edits a file and saves it to the project, that&rsquo;s a commit. It&rsquo;s tracked so nothing gets lost.</dd>
-
-        <dt>Branch</dt>
-        <dd>A separate workspace where you can make changes without affecting the main site until you&rsquo;re ready.</dd>
-
-        <dt>Merge</dt>
-        <dd>Combining changes from one branch into the main project. This is how suggestions get accepted and go live.</dd>
-
-        <dt>Markdown (.md files)</dt>
-        <dd>A simple text format used for content on this site. It&rsquo;s just text with a few formatting symbols like ** for <strong>bold</strong> and # for headings. Easier than Word.</dd>
-      </dl>
-    </section>
-
-    <!-- FOR PEOPLE WITH SOME TECH SKILLS -->
-    <section class="feature-section">
-      <h2><span class="emoji">&#x2699;&#xFE0F;</span> If you&rsquo;re comfortable with technology</h2>
-      <p>If you know your way around a computer (even without coding experience), you can contribute more directly:</p>
       <ul>
-        <li><strong>Edit content directly on GitHub.</strong> Every page on this site is a text file. You can click &ldquo;Edit&rdquo; on any file in our GitHub repo, make changes in your browser, and submit a Pull Request. GitHub will walk you through it.</li>
-        <li><strong>Improve a cast profile.</strong> Profiles live in <code>content/cast/pages/</code>. Open one, add missing information with sources, and submit.</li>
-        <li><strong>Add a timeline event.</strong> Timeline files live in <code>content/timeline/</code>. Copy the format from an existing entry and add a new one.</li>
-        <li><strong>Write an investigation summary.</strong> If you&rsquo;ve done deep research on a topic, write it up and submit it.</li>
+        <li>Best format: claim + exact file reference (DocID/page/path) + suggested correction.</li>
+        <li>Keep notes source-linked and specific.</li>
       </ul>
-      <a class="feature-link green" href="https://github.com/Eyeswidewoke/PDF-FIles" target="_blank" rel="noopener">Browse the Project on GitHub &rarr;</a>
+      <a class="feature-link green" href="https://github.com/Eyeswidewoke/PDF-FIles/issues/new" target="_blank" rel="noopener">Report a Correction &rarr;</a>
     </section>
 
-    <!-- FOR DEVELOPERS -->
-    <section class="feature-section">
-      <h2><span class="emoji">&#x1F4BB;</span> For developers and data people</h2>
-      <p>If you write code, there&rsquo;s no shortage of work:</p>
-      <ul>
-        <li><strong>Fork the repo</strong> and run the site locally &mdash; it&rsquo;s static HTML/CSS/JS, no build step needed.</li>
-        <li><strong>Improve search functionality.</strong> The search indexes 59,000+ artifacts. It could be faster, smarter, or support better filters.</li>
-        <li><strong>Build new visualizations.</strong> Network graphs, financial flow charts, geo-mapped flight routes &mdash; the data is all there.</li>
-        <li><strong>Write scrapers or parsers</strong> to extract more structured data from the raw documents.</li>
-        <li><strong>Help with accessibility.</strong> Screen reader support, keyboard navigation, mobile responsiveness &mdash; all welcome.</li>
-      </ul>
-      <a class="feature-link teal" href="https://github.com/Eyeswidewoke/PDF-FIles/fork" target="_blank" rel="noopener">Fork the Project &rarr;</a>
-      <a class="feature-link purple" href="https://github.com/Eyeswidewoke/PDF-FIles/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">Full Contributing Guide &rarr;</a>
-    </section>
-
-    <!-- BECOME A MAINTAINER -->
     <div class="callout-box">
-      <h3>&#x1F31F; Want to help run this project?</h3>
+      <h3>Handoff note</h3>
       <p>
-        We&rsquo;re actively looking for people who want to become <strong>co-maintainers</strong> &mdash;
-        people who help review contributions, keep the site accurate, and share the responsibility of running it.
-        You don&rsquo;t need to be a developer. If you&rsquo;re organized, detail-oriented, and care about this work,
-        we want to hear from you.
+        This project is published so others can carry it forward in their own ways, including
+        forks, mirrors, merged databases, and independent research interfaces.
       </p>
-      <p>
-        Start a conversation in Discussions or open an Issue titled <strong>&ldquo;I want to help maintain this project&rdquo;</strong>.
-      </p>
-      <a class="feature-link green" href="https://github.com/Eyeswidewoke/PDF-FIles/discussions" target="_blank" rel="noopener" style="margin-top:0.5rem">Reach Out &rarr;</a>
     </div>
 
     <div class="back-links">
       <a href="./">&larr; Back to Main Site</a>
       <a href="./how-it-works.html">How This Site Works &rarr;</a>
-      <a href="./search.html">Search the Files &rarr;</a>
+      <a href="./links.html">Links / Ecosystem &rarr;</a>
     </div>
 
     <div class="integrity-note" style="text-align:center;color:#6b5e50;font-size:0.82rem;line-height:1.6;margin:1.2rem 0 0.5rem;padding:1rem;border-top:1px solid var(--border)">
       <p>
-        Every document on this site links back to its official DOJ source file. Nothing has been altered.<br />
-        This project is <strong>open source</strong> and released into the <strong>public domain</strong> under <a href="https://unlicense.org/" target="_blank" rel="noopener" style="color:#8f2f15">The Unlicense</a>.<br />
+        Every document page should remain source-linked to official artifacts where available.<br />
+        This project is open source and released into the public domain under <a href="https://unlicense.org/" target="_blank" rel="noopener" style="color:#8f2f15">The Unlicense</a>.<br />
         Source: <a href="https://github.com/Eyeswidewoke/PDF-FIles" target="_blank" rel="noopener" style="color:#8f2f15">GitHub</a>
       </p>
     </div>
-
   </main>
 </body>
 </html>
+

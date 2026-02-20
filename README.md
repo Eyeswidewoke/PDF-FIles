@@ -7,75 +7,37 @@
 [![Words Indexed](https://img.shields.io/badge/words-343_million-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
 [![Key Figures](https://img.shields.io/badge/key_figures-148-b5280f?style=flat-square)](https://eyeswidewoke.github.io/PDF-FIles/)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue?style=flat-square)](./LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/Eyeswidewoke/PDF-FIles/pulls)
 
 ---
 
-## 🤝 This is a collaboration — not a solo project
+## Project positioning
 
-Thousands of people are independently analyzing these files. That's a lot of duplicated work.
+**THE PDF FILES** is published as a reusable base layer: one searchable, source-linked index of the released files and associated research artifacts.
 
-**THE PDF FILES** is meant to be the shared foundation — one place where researchers, analysts, developers, journalists, and citizens can pool their work instead of starting from scratch alone. The extraction, indexing, and cross-referencing is done. **Now we need people to help analyze, verify, expand, and maintain it.**
-
-If you've been digging through these documents on your own, your work belongs here. If you've found something we missed, we want to hear about it. If you can code, write, fact-check, or just read PDFs — there's a role for you.
-
-> **We are stronger together.** One verified, cross-referenced, public-domain archive is worth more than a thousand isolated efforts.
+The goal is not to run a permanent centralized collaboration program in this repository. The goal is to get a solid foundation public, make it easy to reuse, and let others incorporate/merge this work into broader independent efforts.
 
 ### 🔗 **[Explore the live site →](https://eyeswidewoke.github.io/PDF-FIles/)**
 
 ---
 
-## How to get involved
+## Handoff intent
 
-There are multiple ways to contribute — you don't need to be a developer.
+This repo is intended to be:
 
-### 📝 Researchers & Analysts
-- Read documents, flag findings, verify claims
-- Submit findings via [GitHub Issues](https://github.com/Eyeswidewoke/PDF-FIles/issues) or [Discussions](https://github.com/Eyeswidewoke/PDF-FIles/discussions)
-- Help build out cast profiles, connection maps, and timeline events
-- Cross-reference document IDs with external public sources
+- A stable starting point for downstream research projects
+- A source-linked archive/index that can be mirrored and extended
+- A handoff package that other teams can integrate into their own stacks
 
-### 💻 Developers
-- Fork the repo, make improvements, submit pull requests
-- Help with OCR accuracy, search performance, UI improvements
-- Build new analysis tools, visualizations, or data pipelines
-- See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the PR workflow
-
-### ✍️ Writers & Fact-Checkers
-- Improve investigation summaries and cast profiles
-- Verify sourcing — make sure every claim links back to a specific document
-- Flag unsupported claims or incorrect attributions
-- Help with documentation, guides, and onboarding materials
-
-### 🔍 Anyone
-- Report broken links, missing data, or OCR errors via [Issues](https://github.com/Eyeswidewoke/PDF-FIles/issues)
-- Share the project — the more eyes, the better
-- Mirror the site to ensure it stays available (see [`MIRROR.md`](./MIRROR.md))
+This repo is **not** intended to be the only long-term home for all work on this topic.
 
 ---
 
-## Collaboration roadmap
+## Using this in your own project
 
-We're building toward a fully community-maintained project. Here's the plan:
-
-| Phase | Status | What |
-|-------|--------|------|
-| ✅ Foundation | **Complete** | 900K+ documents extracted, indexed, and searchable |
-| ✅ Analysis | **Complete** | 148 key figures profiled, investigations drafted, connections mapped |
-| 🔄 Community | **Now** | Open collaboration — PRs, Issues, Discussions, contributor onboarding |
-| 🔜 Organization | **Next** | Move repo to a GitHub Organization with shared maintainership |
-| 🔜 Team structure | **Planned** | Roles for maintainers, reviewers, researchers, and moderators |
-
-### Moving to a GitHub Organization
-
-The current plan is to create a **GitHub Organization** (like `the-pdf-files` or `epstein-files-project`) and transfer this repository there. This is the standard way to run a multi-contributor open-source project on GitHub. Here's what it enables:
-
-- **Multiple owners and maintainers** — no single point of failure
-- **Team-based permissions** — separate teams for code review, content review, moderation
-- **Branch protection** — require PR reviews before anything merges to `main`
-- **Shared governance** — decisions made collectively, not by one person
-
-**If you want to help maintain this project**, open an issue or reach out. We need people who can commit to reviewing PRs, moderating discussions, and maintaining quality standards.
+- Fork or mirror it and run your own version
+- Reuse the dataset file indexes, cast pages, and timeline structures
+- Merge selected data into other research databases or newsroom pipelines
+- Keep claim-to-document traceability intact (DocID/page/path)
 
 ---
 
@@ -120,7 +82,7 @@ Most people will never read them. They were released as raw, unsearchable PDFs �
 
 - A fully searchable, static website indexing every document in the official DOJ Epstein release
 - A cross-referenced research tool: search by name, by topic, by dataset, or across the entire corpus
-- **A community project** — built to be forked, contributed to, and maintained collectively
+- A base layer designed to be forked, mirrored, and merged into other research workflows
 - Built with structured content (`content/`, `data/`), 40+ Python extraction scripts, and CLIP-based image classification
 - Public domain — clone it, mirror it, host it yourself
 
@@ -130,7 +92,7 @@ Most people will never read them. They were released as raw, unsearchable PDFs �
 - ❌ Not a claim that any mention in source text implies guilt or wrongdoing
 - ❌ Not a complete binary mirror of every source artifact
 - ❌ Not affiliated with the DOJ, any government agency, or any media outlet
-- ❌ Not a one-person project — this is meant to be shared
+- ❌ Not intended to remain the sole long-term coordination hub
 
 ---
 
@@ -181,7 +143,7 @@ findings/                       Investigation markdown reports
 
 | Document | Purpose |
 |----------|---------|
-| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | **Start here** — contribution workflow and guidelines |
+| [`CONTRIBUTING.md`](./CONTRIBUTING.md) | Legacy GitHub contribution workflow (optional) |
 | [`METHODS.md`](./METHODS.md) | Counting rules, OCR pipeline, deduplication, assumptions |
 | [`DATA_SOURCES.md`](./DATA_SOURCES.md) | Source package map and integrity workflow |
 | [`CITATION.md`](./CITATION.md) | How to cite findings and document IDs |
@@ -220,15 +182,17 @@ python -m http.server 8000
 
 ---
 
-## Contributing
+## Corrections and reuse notes
 
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for the full workflow. Issue templates are included for:
+This repository is published primarily for reuse and handoff. If you use it in your own project, please preserve source traceability and document IDs.
+
+If you spot a factual error or broken reference, you can still file a correction issue:
 - Broken links / missing artifacts
 - Doc-ID mapping corrections
 - OCR / text extraction errors
-- New findings or cast profile additions
+- Source attribution mismatches
 
-**First time contributing to open source?** No problem. [Open an issue](https://github.com/Eyeswidewoke/PDF-FIles/issues/new) describing what you found or what you want to work on, and we'll help you get started.
+Open a correction here: [GitHub Issues](https://github.com/Eyeswidewoke/PDF-FIles/issues/new)
 
 ## Security
 

@@ -453,25 +453,25 @@
       position: absolute;
       top: 100%;
       left: 0;
-      min-width: 230px;
-      max-width: 340px;
+      min-width: 260px;
+      max-width: 380px;
       max-height: min(72vh, 460px);
       overflow-y: auto;
       overscroll-behavior: contain;
       background: #211810;
       border: 1px solid #3a2f28;
       border-radius: 10px;
-      padding: 0.35rem;
-      padding-top: 0.55rem;
+      padding: 0.42rem;
+      padding-top: 0.6rem;
       box-shadow: 0 14px 32px rgba(0, 0, 0, 0.38);
     }
 
     .site-nav-sub-link {
       display: block;
-      padding: 0.34rem 0.48rem;
+      padding: 0.42rem 0.58rem;
       border-radius: 7px;
       color: #d7c5a9;
-      font-size: 0.65rem;
+      font-size: 0.72rem;
       font-weight: 600;
       line-height: 1.35;
       text-decoration: none;
@@ -492,8 +492,8 @@
     }
 
     .site-nav-divider {
-      padding: 0.32rem 0.48rem 0.12rem;
-      font-size: 0.55rem;
+      padding: 0.38rem 0.58rem 0.15rem;
+      font-size: 0.6rem;
       font-weight: 700;
       color: #8a7a6a;
       letter-spacing: 0.06em;
