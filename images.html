@@ -195,7 +195,7 @@
   <header class="hero">
     <h1>IMAGE &amp; PHOTO ANALYSIS</h1>
     <p class="subhead">
-      A deep dive into the 700,000+ images extracted from the Epstein file PDFs &mdash;
+      A deep dive into the 949,123 images extracted from the Epstein file PDFs &mdash;
       what they contain, how they were classified, why they were buried in PDF wrappers,
       and what the blank page and duplicate cleanup reveals.
     </p>
@@ -224,33 +224,34 @@
     <section class="block" id="overview">
       <h2>1. Overview: Images in the Epstein Files</h2>
       <p>
-        The official Epstein file releases contain approximately <strong>904,395 files</strong> across
+        The official Epstein file releases contain approximately <strong>900,956 files</strong> across
         12 datasets. Nearly every one of these files is a PDF &mdash; and inside those PDFs are embedded
         images: photographs, screenshots, scanned pages, charts, and hundreds of thousands of blank
         white rectangles.
       </p>
       <p>
-        Our pipeline has extracted and individually classified <strong>835,718 images</strong> from
+        Our pipeline has extracted and individually classified <strong>949,123 images</strong> from
         these PDFs, sorted them into <strong>47 content categories</strong> using an AI vision
-        model, and identified over <strong>564,000 blank pages</strong> that were included in the
-        release as full PDF documents.
+        model, and initially flagged <strong>546,976 blank-like pages</strong> by pixel analysis.
+        After OCR/reclassification of blank-labeled buckets, the current confirmed blank bucket is
+        <strong>17,831 pages</strong> (~1.9% of all extracted images).
       </p>
 
       <div class="stat-grid">
-        <div class="stat-card"><div class="n">835,718</div><div class="l">Images Extracted</div></div>
+        <div class="stat-card"><div class="n">949,123</div><div class="l">Images Extracted</div></div>
         <div class="stat-card"><div class="n">47</div><div class="l">Content Categories</div></div>
-        <div class="stat-card bad"><div class="n">564,807</div><div class="l">Blank Pages Found</div></div>
-        <div class="stat-card warn"><div class="n">67.6%</div><div class="l">Blank Rate</div></div>
+        <div class="stat-card bad"><div class="n">546,976</div><div class="l">Initial Blank Flags</div></div>
+        <div class="stat-card warn"><div class="n">1.9%</div><div class="l">Current Blank Rate</div></div>
         <div class="stat-card"><div class="n">3,554</div><div class="l">Bad / Corrupt</div></div>
         <div class="stat-card"><div class="n">697</div><div class="l">Tiny (&lt;5KB)</div></div>
       </div>
 
       <div class="callout green">
         <strong>âœ… Processing complete.</strong> All pipeline stages have finished. Blank page sweep
-        covered all 47 categories. 564,807 image-level blanks identified and removed. A separate
-        <a href="./deep-sweep.html">Deep Sweep</a> then recovered hidden text from 400,913 pages
-        that appeared blank to image extraction but contained embedded text layers &mdash; yielding
-        40.3 million additional words.
+        covered all 47 categories. The initial image-level sweep flagged 546,976 pages. The blank
+        organizer then reclassified/OCR-processed large blank-labeled buckets (including
+        241,686 moved from <code>_NEEDS_OCR</code>), leaving a current confirmed blank bucket of
+        17,831 pages.
       </div>
     </section>
 
@@ -289,7 +290,7 @@
         can display image thumbnails instantly. PDFs require rendering, which makes visual scanning
         of large collections impractical without specialized tools.</li>
         <li><strong>File sizes balloon.</strong> The PDF wrapper adds overhead to every file.
-        Across 700,000+ images, this adds up to hundreds of gigabytes of wasted space.</li>
+        Across 900,000+ images, this adds up to hundreds of gigabytes of wasted space.</li>
         <li><strong>Metadata is lost.</strong> Original image files contain EXIF data &mdash; camera
         model, date taken, GPS coordinates, orientation. PDF conversion strips all of this. For
         evidentiary photographs, this metadata loss is significant.</li>
@@ -433,7 +434,7 @@
     <section class="block" id="breakdown">
       <h2>5. Content Breakdown: What&rsquo;s in the Images</h2>
       <p>
-        Based on CLIP classification of 835,718 extracted images, here is the high-level breakdown
+        Based on CLIP classification of 949,123 extracted images, here is the high-level breakdown
         of what the Epstein files actually contain visually:
       </p>
 
@@ -595,29 +596,33 @@
     <section class="block" id="blanks">
       <h2>7. Blank Pages &amp; Waste</h2>
       <p>
-        The single largest category of content in the Epstein file release is <strong>nothing</strong>.
-        Over half a million pages &mdash; more than two-thirds of all extracted images &mdash; are
-        completely blank white rectangles stored as full PDF documents with filenames, file system
-        entries, and archive space. These are not redacted pages (which show black bars or stamps).
-        They are genuinely empty at the image/pixel level.
+        Blank handling now has two distinct numbers: the <strong>initial image-level flags</strong>
+        from pixel sweep, and the <strong>current confirmed blank bucket</strong> after OCR/reclassification.
+        The initial sweep flagged 546,976 pages as blank-like; after reprocessing blank-labeled folders,
+        the remaining confirmed blank bucket is 17,831 pages.
       </p>
 
       <div class="callout green">
-        <strong>ðŸ“Œ Important update:</strong> Of the original ~403,020 pages classified as "blank,"
-        our <a href="./deep-sweep.html">Deep Sweep</a> discovered that <strong>400,913 contained hidden
-        text layers</strong> invisible to standard image extraction but readable via PyMuPDF text-layer
-        extraction. These pages yielded <strong>40.3 million additional words</strong> including FBI
-        Director statements, complete financial architectures, and bank compliance records. The 564,807
-        figure below reflects image-level blank detection (pixel analysis); the deep sweep recovered
-        content from pages that were blank <em>as images</em> but had embedded text underneath.
+        <strong>ðŸ“Œ Important update:</strong> Current blank buckets were re-audited from local workflow logs:
+        initial blank flags = <strong>546,976</strong> (pixel sweep), organizer moved
+        <strong>241,686</strong> files out of <code>_NEEDS_OCR</code>, and current bucket counts in
+        <code>_BLANK_PAGES</code> are <code>_blank=17,821</code> and
+        <code>_questionable=10</code> (<strong>17,831 total</strong>).
       </div>
 
       <div class="stat-grid">
-        <div class="stat-card bad"><div class="n">564,807</div><div class="l">Blank Pages Found</div></div>
-        <div class="stat-card warn"><div class="n">67.6%</div><div class="l">of All Images</div></div>
+        <div class="stat-card bad"><div class="n">546,976</div><div class="l">Initial Blank Flags</div></div>
+        <div class="stat-card warn"><div class="n">57.6%</div><div class="l">Initial Flag Rate</div></div>
+        <div class="stat-card good"><div class="n">17,831</div><div class="l">Current Blank Bucket</div></div>
+        <div class="stat-card"><div class="n">1.9%</div><div class="l">Current Blank Rate</div></div>
         <div class="stat-card"><div class="n">47 / 47</div><div class="l">Categories Swept</div></div>
         <div class="stat-card good"><div class="n">100%</div><div class="l">Sweep Complete</div></div>
       </div>
+
+      <p class="muted">
+        The category table below is a historical image-level sweep snapshot and should be read as
+        <strong>pre-reclassification</strong> detail, not the current blank residual.
+      </p>
 
       <h3>How blank detection works</h3>
       <p>
@@ -689,13 +694,13 @@
           </tr>
           <tr>
             <td class="muted">+ 36 other categories</td><td class="num muted">36,137</td>
-            <td class="num muted">24,508</td><td class="num muted">67.8%</td>
+            <td class="num muted">6,677</td><td class="num muted">18.5%</td>
             <td><span style="color:var(--good)">âœ“ Complete</span></td>
           </tr>
           <tr style="border-top:2px solid var(--accent)">
             <td><strong>TOTAL</strong></td><td class="num"><strong>949,123</strong></td>
-            <td class="num" style="color:var(--bad)"><strong>564,807</strong></td>
-            <td class="num"><strong>59.5%</strong></td>
+            <td class="num" style="color:var(--bad)"><strong>546,976</strong></td>
+            <td class="num"><strong>57.6%</strong></td>
             <td><span style="color:var(--good)"><strong>âœ“ Complete</strong></span></td>
           </tr>
         </tbody>
@@ -711,12 +716,12 @@
 
       <div class="editorial">
         <p>
-          <strong>What 564,807 blank pages means in practice:</strong> If a researcher is opening
-          PDFs to review the Epstein files, approximately 2 out of every 3 files they open is a
-          completely blank page. At 10 seconds per file to open, look at, and close: that&rsquo;s
-          <strong>1,567 hours</strong> of a researcher&rsquo;s time wasted on blank pages alone.
-          That is <strong>196 working days</strong> &mdash; nearly an entire year of full-time work
-          &mdash; spent staring at nothing.
+          <strong>What 17,831 confirmed blank pages means in practice:</strong> If a researcher is
+          opening PDFs to review the files, the current blank residual is roughly 1 in 53 files.
+          At 10 seconds per file to open, inspect, and close: that&rsquo;s
+          <strong>~49.5 hours</strong> of wasted time &mdash; about
+          <strong>6 working days</strong> &mdash; still significant, but far below the original
+          image-level blank estimate.
         </p>
       </div>
     </section>
@@ -730,7 +735,7 @@
       </p>
 
       <div class="stat-grid">
-        <div class="stat-card bad"><div class="n">564,807</div><div class="l">Blank Pages</div></div>
+        <div class="stat-card bad"><div class="n">17,831</div><div class="l">Current Blank Pages</div></div>
         <div class="stat-card warn"><div class="n">250,243</div><div class="l">Duplicates</div></div>
         <div class="stat-card"><div class="n">3,554</div><div class="l">Bad / Corrupt</div></div>
         <div class="stat-card"><div class="n">697</div><div class="l">Tiny (&lt;5KB)</div></div>
@@ -743,8 +748,8 @@
         <tbody>
           <tr>
             <td style="color:var(--bad)"><strong>Blank pages</strong></td>
-            <td class="num">564,807</td>
-            <td>Pure white or near-white images with no content. Detected via pixel analysis (mean &gt; 252, std &lt; 3). Moved to <code>_BLANK_PAGES</code> subfolder within each category.</td>
+            <td class="num">17,831</td>
+            <td>Current confirmed blank residual after OCR/reclassification of previously blank-labeled buckets. (Initial image-level flags were 546,976.)</td>
           </tr>
           <tr>
             <td style="color:var(--warn)"><strong>Duplicates</strong></td>
@@ -772,10 +777,10 @@
       <h3>Total waste calculation</h3>
       <p>
         Adding up all identified waste:
-        <strong>564,807 blanks + 250,243 duplicates + 3,554 corrupt + 697 tiny = 819,301</strong> junk
-        files out of 835,718 extracted images. That&rsquo;s <strong>98.0%</strong> of the extracted
-        images that contain no useful unique content. After removing all waste, approximately
-        <strong>~85,000 unique, substantive pages</strong> remain from a &ldquo;900,000-document (3 million+ page) release.&rdquo;
+        <strong>17,831 blanks + 250,243 duplicates + 3,554 corrupt + 697 tiny = 272,325</strong> junk
+        files out of 949,123 extracted images. That&rsquo;s <strong>28.7%</strong> of extracted images.
+        After removing this identified waste, approximately
+        <strong>676,798 pages</strong> remain.
       </p>
     </section>
 
@@ -883,7 +888,7 @@
           <tr>
             <td>PDF image extraction</td>
             <td><span style="color:var(--good)">âœ“ Complete</span></td>
-            <td>835,718 images extracted from all 12 datasets</td>
+            <td>949,123 images extracted from all 12 datasets</td>
           </tr>
           <tr>
             <td>CLIP classification</td>
@@ -893,7 +898,7 @@
           <tr>
             <td>Blank page sweep</td>
             <td><span style="color:var(--good)">âœ“ Complete</span></td>
-            <td>All 47 categories swept &mdash; 564,807 blanks identified and removed</td>
+            <td>All 47 categories swept &mdash; 546,976 initial blank flags, with 17,831 current confirmed blank residual after OCR/reclassification</td>
           </tr>
           <tr>
             <td>Duplicate detection</td>
@@ -925,8 +930,8 @@
 
       <div class="callout green">
         <strong>âœ… Processing complete.</strong> All pipeline stages have finished. The full results
-        are searchable and browsable on this site. Total waste removed: 819,301 files (98% of extracted images).
-        Approximately 85,000 unique substantive pages remain from the original 900,000-document (3 million+ page) release.
+        are searchable and browsable on this site. Current identified waste: 272,325 files (28.7% of extracted images),
+        with blank residual now at 17,831 files after the reclassification pass.
       </div>
     </section>
 
@@ -972,7 +977,7 @@
     <section class="block" style="text-align:center;border-color:var(--accent)">
       <p style="color:var(--accent);font:700 .9rem var(--sans);margin-bottom:.4rem">THE PDF FILES</p>
       <p class="muted" style="font-size:.78rem">
-        Image analysis based on extraction and CLIP classification of 835,718 images from 904,395 PDFs.<br />
+        Image analysis based on extraction and CLIP classification of 949,123 images from 900,956 PDFs.<br />
         Classification: OpenAI CLIP ViT-B/32. Extraction: PyMuPDF. Blank detection: Pillow + NumPy.<br />
         All scripts and methodology are open source and reproducible.
       </p>
