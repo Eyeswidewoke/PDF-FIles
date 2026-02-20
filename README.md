@@ -134,17 +134,47 @@ Most people will never read them. They were released as raw, unsearchable PDFs �
 
 ---
 
+## Dataset file indexes
+
+We publish the **complete filename inventory** for every file in all 12 DOJ datasets. Use these to verify your own downloads, identify gaps, or cross-reference with other researchers.
+
+📂 **[`data/dataset-file-index/`](./data/dataset-file-index/)** — TXT, CSV, and JSON indexes for DS1–12
+
+| Dataset | Files | EFTA Range |
+|---------|------:|------------|
+| DS 1 | 3,158 | `EFTA00000001` → `EFTA00003158` |
+| DS 2 | 574 | `EFTA00003159` → `EFTA00003857` |
+| DS 3 | 67 | `EFTA00003858` → `EFTA00005586` |
+| DS 4 | 152 | `EFTA00005705` → `EFTA00008320` |
+| DS 5 | 120 | `EFTA00008409` → `EFTA00008528` |
+| DS 6 | 13 | `EFTA00008529` → `EFTA00008998` |
+| DS 7 | 17 | `EFTA00009016` → `EFTA00009664` |
+| DS 8 | 10,595 | `EFTA00009676` → `EFTA00039023` |
+| DS 9 | 252,169 | `EFTA00039025` → `EFTA01262781` |
+| DS 10 | 302,284 | `EFTA01262782` → `EFTA01926086` |
+| DS 11 | 331,655 | `EFTA02212883` → `EFTA02730262` |
+| DS 12 | 152 | `EFTA02730265` → `EFTA02731783` |
+| **Total** | **900,956** | |
+
+> ⚠️ **These counts reflect our downloads from Feb 11-12, 2026.** The DOJ has been updating datasets since. If your counts differ, [please let us know](https://github.com/Eyeswidewoke/PDF-FIles/issues/new?title=Dataset+file+count+mismatch) so we can track what's changed.
+
+🔴 **[Browse the file index interactively →](https://eyeswidewoke.github.io/PDF-FIles/dataset-file-index.html)**
+
+---
+
 ## Repository layout
 
 ```
-index.html              Main entry point
-search.html             Cross-site search UI
-release-guide.html      Release/package orientation
-cast.html               148 key-figure profile pages
-content/                Source-linked markdown artifacts
-data/public-data.json   Dataset and mirror link definitions
-findings/               Investigation markdown reports
-.github/workflows/      Sanitized Pages deploy workflow
+index.html                      Main entry point
+search.html                     Cross-site search UI
+dataset-file-index.html         Interactive dataset filename browser
+release-guide.html              Release/package orientation
+cast.html                       148 key-figure profile pages
+content/                        Source-linked markdown artifacts
+data/dataset-file-index/        📂 Complete filename indexes for DS1-DS12 (TXT, CSV, JSON)
+data/public-data.json           Dataset and mirror link definitions
+findings/                       Investigation markdown reports
+.github/workflows/              Sanitized Pages deploy workflow
 ```
 
 ## Supporting documentation
