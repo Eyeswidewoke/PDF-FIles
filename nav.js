@@ -217,6 +217,23 @@
     openMenu(item);
   }
 
+  function cancelPendingClose(item) {
+    if (item && item._closeTimer) {
+      clearTimeout(item._closeTimer);
+      item._closeTimer = null;
+    }
+  }
+
+  function scheduleClose(item) {
+    if (!item) return;
+    cancelPendingClose(item);
+    item._closeTimer = setTimeout(function () {
+      item.classList.remove("open");
+      setExpanded(item, false);
+      item._closeTimer = null;
+    }, 260);
+  }
+
   function bindWheelContain(menu) {
     menu.addEventListener(
       "wheel",
@@ -289,18 +306,30 @@
 
       li.addEventListener("mouseenter", function () {
         if (!isTouchOrSmall()) {
-          if (li._closeTimer) { clearTimeout(li._closeTimer); li._closeTimer = null; }
+          cancelPendingClose(li);
           openMenu(li);
         }
       });
 
-      li.addEventListener("mouseleave", function () {
+      li.addEventListener("mouseleave", function (event) {
         if (!isTouchOrSmall()) {
-          li._closeTimer = setTimeout(function () {
-            li.classList.remove("open");
-            setExpanded(li, false);
-            li._closeTimer = null;
-          }, 120);
+          var next = event.relatedTarget;
+          if (next && li.contains(next)) return;
+          scheduleClose(li);
+        }
+      });
+
+      menu.addEventListener("mouseenter", function () {
+        if (!isTouchOrSmall()) {
+          cancelPendingClose(li);
+        }
+      });
+
+      menu.addEventListener("mouseleave", function (event) {
+        if (!isTouchOrSmall()) {
+          var next = event.relatedTarget;
+          if (next && li.contains(next)) return;
+          scheduleClose(li);
         }
       });
 
@@ -415,6 +444,14 @@
       flex: 0 0 auto;
     }
 
+    .site-nav-item.has-menu {
+      z-index: 10;
+    }
+
+    .site-nav-item.open {
+      z-index: 30;
+    }
+
     .site-nav-link {
       display: block;
       padding: 0.38rem 0.58rem;
@@ -453,6 +490,7 @@
       position: absolute;
       top: 100%;
       left: 0;
+      z-index: 40;
       min-width: 260px;
       max-width: 380px;
       max-height: min(72vh, 460px);
